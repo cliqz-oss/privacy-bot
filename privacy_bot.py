@@ -130,8 +130,10 @@ def get_privacy_policy_url(url):
                             link.string.encode('utf-8'),
                             fetch_privacy_policy(full_url, link['href'])
                         )
+                retry += 1
             else:
                 print('Failed to fetch:', response.reason)
+                retry += 1
 
 
 def main():
