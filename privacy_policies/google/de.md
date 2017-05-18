@@ -1,4 +1,4 @@
-https://google.de/intl/de/policies/privacy/
+https://google.de/privacy
 
 Datenschutzerklärung
 ====================

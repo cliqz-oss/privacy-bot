@@ -1,592 +1,30 @@
-https://google.fr
-https://google.de
-https://google.com
-https://google.co.uk
-https://twitter.com
-https://bitbucket.org
-https://facebook.com
-https://twimg.com
+bitbucket.org
 amazon.com
 amazonaws.com
 amazonaws.cn
 cloudfront.net
 apple.com
 facebook.com
-facebook.net
 microsoft.com
 google.com
-googleusercontent.com
-gstatic.com
 google-analytics.com
 googlevideo.com
-googleapis.com
 doubleclick.net
 youtube.com
 ytimg.com
-google.ws
-google.vu
-google.vg
-google.tt
-google.to
-google.tn
-google.tm
-google.tl
-google.tk
-google.tg
-google.td
-google.st
-google.sr
-google.so
-google.sn
-google.sm
-google.sk
-google.si
-google.sh
-google.se
-google.sc
-google.rw
-google.ru
-google.rs
-google.ro
-google.pt
-google.ps
-google.pn
-google.pl
-google.nu
-google.nr
-google.no
-google.nl
-google.ne
-google.mw
-google.mv
-google.mu
-google.ms
-google.mn
-google.ml
-google.mk
-google.mg
-google.me
-google.md
-google.lv
-google.lu
-google.lt
-google.lk
-google.li
-google.la
-google.kz
-google.ki
-google.kg
-google.jo
-google.je
-google.it
-google.is
-google.iq
-google.io
-google.im
-google.ie
-google.hu
-google.ht
-google.hr
-google.hn
-google.gy
-google.gr
-google.gp
-google.gm
-google.gl
-google.gg
-google.gf
-google.ge
-google.ga
+google.com
 google.fr
-google.fm
-google.fi
-google.es
-google.ee
-google.dz
-google.dm
-
-# Denmark
-google.dk
-
-# Djibouti
-google.dj
-
-# Germany
 google.de
-
-# Czech Republic
-google.cz
-
-# Cape Verde
-google.cv
-
-# Vietnam
-google.com.vn
-
-# Saint Vincent and the Grenadines
-google.com.vc
-
-# Uruguay
-google.com.uy
-
-# Ukraine
-google.com.ua
-
-# Taiwan
-google.com.tw
-
-# Turkey
-google.com.tr
-
-# Tajikistan
-google.com.tj
-
-# El Salvador
-google.com.sv
-
-# Sierra Leone
-google.com.sl
-
-# Singapore
-google.com.sg
-
-# Solomon Islands
-google.com.sb
-
-# Saudi Arabia
-google.com.sa
-
-# Qatar
-google.com.qa
-
-# Paraguay
-google.com.py
-
-# Puerto Rico
-google.com.pr
-
-# Pakistan
-google.com.pk
-
-# Philippines
-google.com.ph
-
-# Papua New Guinea
-google.com.pg
-
-# Peru
-google.com.pe
-
-# Panama
-google.com.pa
-
-# Oman
-google.com.om
-
-# Nepal
-google.com.np
-
-# Nicaragua
-google.com.ni
-
-# Nigeria
-google.com.ng
-
-# Norfolk Island
-google.com.nf
-
-# Namibia
-google.com.na
-
-# Malaysia
-google.com.my
-
-# Mexico
-google.com.mx
-
-# Malta
-google.com.mt
-
-# Myanmar
-google.com.mm
-
-# Libya
-google.com.ly
-
-# Saint Lucia
-google.com.lc
-
-# Lebanon
-google.com.lb
-
-# Kuwait
-google.com.kw
-
-# Cambodia
-google.com.kh
-
-# Jamaica
-google.com.jm
-
-# Hong Kong
-google.com.hk
-
-# Guatemala
-google.com.gt
-
-# Gibraltar
-google.com.gi
-
-# Ghana
-google.com.gh
-
-# Fiji
-google.com.fj
-
-# Ethiopia
-google.com.et
-
-# Egypt
-google.com.eg
-
-# Ecuador
-google.com.ec
-
-# Dominican Republic
-google.com.do
-
-# Cyprus
-google.com.cy
-
-# Cuba
-google.com.cu
-
-# Colombia
-google.com.co
-
-# Belize
-google.com.bz
-
-# Brazil
-google.com.br
-
-# Bolivia
-google.com.bo
-
-# Brunei
-google.com.bn
-
-# Bahrain
-google.com.bh
-
-# Bangladesh
-google.com.bd
-
-# Australia
-google.com.au
-
-# Argentina
-google.com.ar
-
-# Anguilla
-google.com.ai
-
-# Antigua and Barbuda
-google.com.ag
-
-# Afghanistan
-google.com.af
-
-# Worldwide (Original for the United States)
-google.com
-
-# United States
-google.com
-
-# Zimbabwe
-google.co.zw
-
-# Zambia
-google.co.zm
-
-# South Africa
-google.co.za
-
-# United States Virgin Islands
-google.co.vi
-
-# Venezuela
-google.co.ve
-
-# Uzbekistan
-google.co.uz
-
-# United Kingdom
 google.co.uk
-
-# Uganda
-google.co.ug
-
-# Tanzania
-google.co.tz
-
-# Thailand
-google.co.th
-
-# Pitcairn Islands
-google.co.pn
-
-# New Zealand
-google.co.nz
-
-# Mozambique
-google.co.mz
-
-# Morocco
-google.co.ma
-
-# Lesotho
-google.co.ls
-
-# South Korea
-google.co.kr
-
-# Kenya
-google.co.ke
-
-# Japan
-google.co.jp
-
-# India
-google.co.in
-
-# Israel
-google.co.il
-
-# Indonesia
-google.co.id
-
-# Costa Rica
-google.co.cr
-
-# Cook Islands
-google.co.ck
-
-# Botswana
-google.co.bw
-
-# Angola
-google.co.ao
-
-# China
-google.cn
-
-# Cameroon
-google.cm
-
-# Chile
-google.cl
-
-# Ivory Coast
-google.ci
-
-# Switzerland
-google.ch
-
-# Republic of the Congo
-google.cg
-
-# Central African Republic
-google.cf
-
-# Democratic Republic of the Congo
-google.cd
-
-# Cocos (Keeling) Islands
-google.cc
-
-# Catalan Countries
-google.cat
-
-# Canada
-google.ca
-
-# Belarus
-google.by
-
-# Bhutan
-google.bt
-
-# Bahamas
-google.bs
-
-# Benin
-google.bj
-
-# Burundi
-google.bi
-
-# Bulgaria
-google.bg
-
-# Burkina Faso
-google.bf
-
-# Belgium
-google.be
-
-# Bosnia and Herzegovina
-google.ba
-
-# Azerbaijan
-google.az
-
-# Austria
-google.at
-
-# American Samoa
-google.as
-
-# Armenia
-google.am
-
-# Albania
-google.al
-
-# United Arab Emirates
-google.ae
-
-# Andorra
-google.ad
-
-# Ascension Island
-google.ac
-
-# China
-g.cn
-
-#YouTube
-ytimg.com
-
-#YouTube
-yt.be
-
-#YouTube
-youtubegaming.com
-
-#YouTube
-youtubeeducation.com
-
-#YouTube
-youtube.com
-
-#YouTube
-youtube-nocookie.com
-
-#YouTube
-youtu.be
-
-#Google
-withgoogle.com
-
-#What Browser?
-whatbrowser.org
-
-#Waze
-waze.com
-
-#Google Analytics
-urchin.com
-
-#SketchUp
-sketchup.com
-
-#Picasa
-picasa.com
-
-#Panoramio
-panoramio.com
-
-#Made with Code
-madewithcode.com
-
-#Google
-localhost.com
-
-#Google
-like.com
-
-#Keyhole
-keyhole.com
-
-#iGoogle
-igoogle.com
-
-#Google
-gooogle.com
-
-#Google
-goolge.com
-
-#Google
-googlr.com
-
-#Google
-googlesyndication.com
-
-#Google Developer Source
-googlesource.com
-
-#Google Scholar
-googlescholar.com
-
-#Google Page Creator
-googlepagecreator.com
-
-#Google Members
-googlemembers.com
-
-#Google Member
-googlemember.com
-
-#Google Maps
-googlemaps.com
-
-#Gmail
-googlemail.com
-
-#Google Earth
-googleearth.com
-
-#Google
-googlee.com
-
-#Google Drive
-googledrive.com
-
-#Google
-googlecommerce.com
 
 #Google Code
 googlecode.com
 
-#Google
-googlebot.com
-
 #Google Earth
 googlearth.com
 
-#Google Apps for Work
-googleapps.com
-
-#Google
-googleapis.com
-
 #Google Analytics
 googleanalytics.com
-
-#Google
-googleadservices.com
 
 #Google.org
 google.org
@@ -597,44 +35,8 @@ google.net
 #Google Analytics
 google-analytics.com
 
-#Google
-googl.com
-
-#Google
-googil.com
-
-#Google
-googel.com
-
-#Google URL Shortener
-goo.gl
-
-#Google
-gogole.com
-
-#Google
-gogle.com
-
-#Google
-gmodules.com
-
 #Gmail
 gmail.com
-
-#?
-ggpht.com
-
-#Google
-ggoogle.com
-
-#Google
-g.co
-
-#Froogle
-froogle.com
-
-#Google
-foofle.com
 
 #FeedBurner
 feedburner.com
@@ -644,9 +46,6 @@ doubleclick.com
 
 #elgooG
 com.google
-
-#Google
-cobrasearch.com
 
 #Chromium
 chromium.org
@@ -675,9 +74,102 @@ adsense.com
 #AdMob
 admob.com
 
-#Google
-466453.com
 github.io
 github.com
-githubapp.com
-githubusercontent.com
+
+# Alexa Germany
+google.de
+youtube.com
+google.com
+facebook.com
+amazon.de
+ebay.de
+web.de
+livejasmin.com
+yahoo.com
+ok.ru
+gmx.net
+reddit.com
+vk.com
+t-online.de
+twitter.com
+spiegel.de
+mail.ru
+live.com
+paypal.com
+chip.de
+bild.de
+twitch.tv
+whatsapp.com
+xhamster.com
+pornhub.com
+gutefrage.net
+mobile.de
+yandex.ru
+google.ru
+tumblr.com
+netflix.com
+focus.de
+linkedin.com
+welt.de
+wordpress.com
+microsoft.com
+bs.to
+postbank.de
+imgur.com
+immobilienscout24.de
+msn.com
+dict.cc
+t.co
+github.com
+
+# Alexa global
+baidu.com
+google.com
+youtube.com
+facebook.com
+wikipedia.org
+yahoo.com
+Qq.com
+google.co.in
+reddit.com
+taobao.com
+twitter.com
+sohu.com
+google.co.jp
+tmall.com
+live.com
+vk.com
+instagram.com
+sina.com.cn
+weibo.com
+jd.com
+360.cn
+google.de
+google.co.uk
+linkedin.com
+google.fr
+list.tmall.com
+google.ru
+yandex.ru
+google.com.br
+google.com.hk
+yahoo.co.jp
+netflix.com
+ntd.tv
+t.co
+google.it
+imgur.com
+Onclkds.com
+ebay.com
+google.es
+hao123.com
+bing.com
+msn.com
+porhub.com
+wordpress.com
+microsoft.com
+livejasmin.com
+twitch.tv
+aliexpress.com
+google.ca

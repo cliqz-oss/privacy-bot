@@ -1,4 +1,4 @@
-https://google.fr/intl/fr/policies/privacy/
+https://google.fr/privacy
 
 Règles de confidentialité
 =========================

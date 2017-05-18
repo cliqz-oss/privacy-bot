@@ -86,7 +86,7 @@ We use the
 [information we have](/about/privacy/update#what-kinds-of-information-do-we-collect)
 to improve our advertising and measurement systems so we can show you relevant ads on and off our Services and measure the effectiveness and reach of ads and services.
 
-[Learn more](https://l.facebook.com/l.php?u=ATMZ5mUDwUANrjJRqPApvEEg9cLwECvZCC85BvSS1-nQR7uJAejleEUIddyBo1lVUbMrf8Gacg57iAAXDrNeYw&h=ATOYppHzVC0Zs8SfauQsBcWtvx59-DfsJA4sMNbLPv9YhNcfrFZNtlRHRfzY_YaKhjRVNNUZLiuOM-HM3s8oyLN-qrh0RZ5l3Dhdcw16q8PDG2EiVslaudy1x5ZCJg&s=1)
+[Learn more](https://l.facebook.com/l.php?u=ATOPpCKDSkdtH0h3sFiCJitgoWaNFj2kzUCHtW0NN9RyruWcoNQFjm1MGFAcRtbBfos6hZNXlSxFX-VuyGR3gw&h=ATMgrvl05bLUintdazkfuonBgHVn200xSVjYa4grdBJVSt2tXsAxxBymJUazVdOzi3CHsNCC1z___i46KDny7ZBoVdB58ewC-ZNrxcxyWxdk5AGTtUW2zJwVR9D-qnP7-L0&s=1)
 about advertising on our Services and how you can
 
 [control](/ads/settings)
@@ -204,7 +204,7 @@ Facebook may share information internally within our family of companies or with
 
 You can contact us using the information provided below with questions or concerns. We also may resolve disputes you have with us in connection with our privacy policies and practices through TRUSTe. You can contact TRUSTe through their
 
-[website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=ATNPi6yDNhgZ8Od2kRtkxsJ6qgIBSiwK_x-uIClNx5Koo-DqE3BKPpwQB6mhDnu7rvYyuWmo6zlWieF2d_G21nOBnwo51CdUZn38OXgAPoD96fMEEdsF6kQ24HHq&s=1)
+[website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=ATMVdiBILqQ3pFXO1F37VfOrOZVfs2YVhoFhnI4CHjwFil0JyllJnxxjwY-Er174WM58auYAZAyEqN1ApDWSXWTnrobOmmwlZyA7Xuk43eGE9vsM4BDsimLQyDR-GfW8YA&s=1)
 .
 
 ### How will we notify you of changes to this policy?

@@ -1,4 +1,4 @@
-https://google.it/intl/it/policies/privacy/
+https://google.it/privacy
 
 Norme sulla privacy
 ===================

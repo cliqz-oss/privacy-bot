@@ -1,414 +1,414 @@
-https://google.co.uk/intl/en/policies/privacy/
+https://google.co.uk/privacy
 
-Privacy Policy
-==============
+Політика конфіденційності
+=========================
 
-There are many different ways that you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](../../policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you <a href="../../policies/privacy/example/more-relevant-search-results.html" id="more-relevant-search-results" class="highlight highlight-unselected">more relevant search results</a> and ads, to help you <a href="../../policies/privacy/example/connect-with-people.html" id="connect-with-people" class="highlight">connect with people</a> or to make <a href="../../policies/privacy/example/sharing-with-others.html" id="sharing-with-others" class="highlight">sharing with others quicker and easier</a>. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
+Користуватися нашими службами можна по-різному: шукати інформацію та ділитися нею, спілкуватися з іншими людьми чи створювати новий вміст. Якщо ви надаєте нам інформацію, наприклад, створюючи [обліковий запис Google](../../policies/privacy/key-terms/#toc-terms-account), ми можемо навіть покращити роботу таких служб для вас – показувати <a href="../../policies/privacy/example/more-relevant-search-results.html" id="more-relevant-search-results" class="highlight highlight-unselected">більш доречні результати пошуку</a> й оголошення, допомогти <a href="../../policies/privacy/example/connect-with-people.html" id="connect-with-people" class="highlight">знаходити людей</a> чи зробити <a href="../../policies/privacy/example/sharing-with-others.html" id="sharing-with-others" class="highlight">процес обміну інформацією швидшим і простішим</a>. Ми хочемо, щоб під час користування нашими службами ви розуміли, як використовується ваша інформація та якими способами можна захистити свою конфіденційність.
 
-Our Privacy Policy explains:
+У нашій Політиці конфіденційності йдеться про таке:
 
--   What information we collect and why we collect it.
--   How we use that information.
--   The choices we offer, including how to access and update information.
+-   яку інформацію ми збираємо та навіщо ми це робимо;
+-   як ми використовуємо цю інформацію;
+-   які можливості вибору ми пропонуємо, включно з доступом до інформації та її оновленням.
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms, such as cookies, IP addresses, pixel tags and browsers, then read about these [key terms](../../policies/privacy/key-terms/) first. Your privacy matters to Google, so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions, [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en-GB).
+Ми намагалися пояснити все якомога простіше, але якщо вам невідомі такі терміни, як файли cookie, IP-адреси, теги пікселів і веб-переглядачі, радимо спершу ознайомитися з такими [основними термінами](../../policies/privacy/key-terms/). Google приділяє велику увагу вашій конфіденційності, тому, незалежно від того, чи користуєтеся ви Google недовго, чи робите це вже протягом тривалого часу, радимо ознайомитися з нашими правилами, а в разі виникнення будь-яких питань [зв’язатися з нами](https://support.google.com/policies/troubleshooter/2990837?hl=uk).
 
-Information that we collect
+Інформація, яку ми збираємо
 ---------------------------
 
-We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which <a href="../../policies/privacy/example/ads-youll-find-most-useful.html" id="ads-youll-find-most-useful" class="highlight">ads you'll find most useful</a>, <a href="../../policies/privacy/example/the-people-who-matter-most.html" id="the-people-who-matter-most" class="highlight">the people who matter most to you online</a>, or which YouTube videos you might like.
+Ми збираємо інформацію з метою надання кращих послуг усім нашим користувачам: від основних відомостей, як-от мова, якою ви розмовляєте, до складніших – наприклад, які <a href="../../policies/privacy/example/ads-youll-find-most-useful.html" id="ads-youll-find-most-useful" class="highlight">оголошення ви вважаєте найкориснішими</a>, <a href="../../policies/privacy/example/the-people-who-matter-most.html" id="the-people-who-matter-most" class="highlight">ким ви найбільше цікавитесь у мережі</a> або які відео YouTube можуть вам сподобатися.
 
-We collect information in the following ways:
+Нижче описано, як ми збираємо інформацію.
 
--   **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](../../policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or <a href="../../policies/privacy/example/credit-card.html" id="credit-card" class="highlight">credit card</a> to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo.
+-   **Інформація, яку ви нам надаєте.** Наприклад, для багатьох наших служб потрібно зареєструвати обліковий запис Google. Під час реєстрації ми просимо надати [особисту інформацію](../../policies/privacy/key-terms/#toc-terms-personal-info), як-от ім’я, електронну адресу, номер телефону чи номер <a href="../../policies/privacy/example/credit-card.html" id="credit-card" class="highlight">кредитної картки</a>. Ця інформація зберігається у вашому обліковому записі. Якщо ви хочете ділитися вмістом за допомогою наших функцій, ми можемо попросити вас створити загальнодоступний [профіль Google](https://support.google.com/accounts/answer/112783?hl=uk), який міститиме ваші ім’я та фотографію.
 
--   **Information we get from your use of our services.** We <a href="../../policies/privacy/example/collect-information.html" id="collect-information" class="highlight">collect information</a> about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services or <a href="../../policies/privacy/example/view-and-interact-with-our-ads.html" id="view-and-interact-with-our-ads" class="highlight">view and interact with our ads</a> and content. This information includes:
+-   **Інформація, яку ми отримуємо, коли ви користуєтеся нашими службами.** Ми <a href="../../policies/privacy/example/collect-information.html" id="collect-information" class="highlight">збираємо інформацію</a> про те, якими службами та як ви користуєтесь. Наприклад, ми отримуємо інформацію, коли ви дивитеся відео на YouTube, відвідуєте веб-сайт, на якому працюють наші рекламні служби, або <a href="../../policies/privacy/example/view-and-interact-with-our-ads.html" id="view-and-interact-with-our-ads" class="highlight">переглядаєте й натискаєте наші оголошення</a> та вміст. Таку інформацію перелічено нижче.
 
-    -   **[Device information](../../policies/privacy/key-terms/#toc-terms-device)**
+    -   **[Інформація про пристрій](../../policies/privacy/key-terms/#toc-terms-device)**
 
-        We collect <a href="../../policies/privacy/example/device-specific-information.html" id="device-specific-information" class="highlight">device-specific information</a> (such as your hardware model, operating system version, [unique device identifiers](../../policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your <a href="../../policies/privacy/example/device-identifiers.html" id="device-identifiers" class="highlight">device identifiers</a> or <a href="../../policies/privacy/example/phone-number.html" id="phone-number" class="highlight">phone number</a> with your Google Account.
+        Ми збираємо <a href="../../policies/privacy/example/device-specific-information.html" id="device-specific-information" class="highlight">інформацію, яка стосується вашого пристрою</a> (а саме, модель апаратного забезпечення, версію операційної системи, [унікальні ідентифікатори пристрою](../../policies/privacy/key-terms/#toc-terms-unique-device-id), дані про мобільну мережу, зокрема номер телефону). Google може пов’язувати <a href="../../policies/privacy/example/device-identifiers.html" id="device-identifiers" class="highlight">ідентифікатори вашого пристрою</a> або <a href="../../policies/privacy/example/phone-number.html" id="phone-number" class="highlight">номер вашого телефону</a> з вашим обліковим записом Google.
 
-    -   **Log information**
+    -   **Реєстраційна інформація**
 
-        When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](../../policies/privacy/key-terms/#toc-terms-server-logs). This includes:
+        Коли ви користуєтеся нашими службами чи переглядаєте наданий Google вміст, ми автоматично збираємо та зберігаємо певну інформацію в [журналах сервера](../../policies/privacy/key-terms/#toc-terms-server-logs). Вона включає перелічене нижче.
 
-        -   details of how you used our service, such as your search queries.
-        -   telephony log information, such as your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls.
-        -   [Internet protocol address](../../policies/privacy/key-terms/#toc-terms-ip).
-        -   device event information, such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
-        -   cookies that may uniquely identify your browser or your Google Account.
+        -   дані про те, як ви використовуєте нашу службу, наприклад, ваші пошукові запити;
+        -   реєстраційну інформацію щодо телефонного зв’язку, як-от ваш номер телефону, номери телефонів ваших співрозмовників, номери переадресації, час і дати дзвінків, тривалість дзвінків, дані про маршрутизацію SMS-повідомлень і типи дзвінків;
+        -   [адресу інтернет-протоколу](../../policies/privacy/key-terms/#toc-terms-ip);
+        -   інформацію про зміни стану пристрою, як-от збої в роботі, системні операції, налаштування апаратного забезпечення, тип та мову веб-переглядача, дату й час ваших запитів і URL-адреси переходів;
+        -   файли cookie, які можуть однозначно ідентифікувати ваш веб-переглядач або ваш обліковий запис Google.
 
-    -   **Location information**
+    -   **Інформація про місцезнаходження**
 
-        When you use Google services, we <a href="../../policies/privacy/example/may-collect-and-process-information.html" id="may-collect-and-process-information" class="highlight">may collect and process information about your actual location</a>. We use various technologies to determine location, including IP address, GPS <a href="../../policies/privacy/example/sensors.html" id="sensors" class="highlight">and other sensors</a> that may, for example, provide Google with information on nearby devices, <a href="../../policies/privacy/example/wifi-access-points-and-cell-towers.html" id="wifi-access-points-and-cell-towers" class="highlight">Wi-Fi access points and mobile towers</a>.
+        Коли ви користуєтеся службами Google, ми <a href="../../policies/privacy/example/may-collect-and-process-information.html" id="may-collect-and-process-information" class="highlight">можемо збирати й обробляти дані про ваше фактичне місцезнаходження</a>. Для визначення вашого місцезнаходження ми застосовуємо різноманітні технології, як-от IP-адресу, GPS <a href="../../policies/privacy/example/sensors.html" id="sensors" class="highlight">й інші датчики</a>, які, наприклад, можуть надавати Google інформацію про розташовані поблизу пристрої, <a href="../../policies/privacy/example/wifi-access-points-and-cell-towers.html" id="wifi-access-points-and-cell-towers" class="highlight">точки доступу Wi-Fi та стільникові антени</a>.
 
-    -   **Unique application numbers**
+    -   **Унікальні номери програм**
 
-        Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
+        Деякі служби містять унікальний номер програми. Цей номер та інформація про встановлення (наприклад, тип операційної системи й номер версії програми) можуть надсилатися в Google під час встановлення чи видалення відповідної служби або під час періодичного з’єднання цієї служби з нашими серверами, наприклад, для автоматичних оновлень.
 
-    -   **Local storage**
+    -   **Локальна пам’ять**
 
-        We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](../../policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](../../policies/privacy/key-terms/#toc-terms-application-data-cache).
+        Ми можемо збирати та зберігати інформацію (включно з особистою інформацією) локально на вашому пристрої за допомогою таких механізмів, як [веб-сховище веб-переглядача](../../policies/privacy/key-terms/#toc-terms-browser-storage) (включно з технологією HTML 5) та [кеш-пам’ять даних додатка](../../policies/privacy/key-terms/#toc-terms-application-data-cache).
 
-    -   **Cookies and similar technologies**
+    -   **Файли cookie та схожі технології**
 
-        We <a href="../../policies/privacy/example/our-partners.html" id="our-partners" class="highlight">and our partners</a> use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](../../policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as <a href="../../policies/privacy/example/advertising-services.html" id="advertising-services" class="highlight">advertising services</a> or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyse the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is <a href="../../policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html" id="linked-with-information-about-visits-to-multiple-sites" class="highlight">linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites</a>.
+        Ми <a href="../../policies/privacy/example/our-partners.html" id="our-partners" class="highlight">та наші партнери</a> використовуємо різноманітні технології, щоб збирати й зберігати інформацію, коли ви відвідуєте служби Google. Наприклад, ми можемо використовувати [файли cookie чи схожі технології](../../policies/privacy/key-terms/#toc-terms-cookie), щоб розпізнавати ваш веб-переглядач або пристрій. Ми також використовуємо ці технології, щоб збирати та зберігати інформацію, коли ви взаємодієте зі службами, які ми пропонуємо нашим партнерам, зокрема, <a href="../../policies/privacy/example/advertising-services.html" id="advertising-services" class="highlight">рекламні служби</a> або функції Google, які можуть з’являтися на інших сайтах. Служба Google Analytics допомагає компаніям і власникам веб-сайтів аналізувати трафік до своїх сайтів та додатків. Інформація з Google Analytics може використовуватися разом із нашими рекламними службами, які генерують файли cookie DoubleClick. Тоді за допомогою наших технологій <a href="../../policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html" id="linked-with-information-about-visits-to-multiple-sites" class="highlight">користувач або Google пов’язують її з даними про відвідування декількох сайтів</a>.
 
-Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the <a href="#infochoices" class="gweb-smoothscroll-control">Transparency and choice</a> section of this policy.
+Інформація про вас, яку ми отримуємо від своїх партнерів і збираємо, коли ви входите в служби Google, може пов’язуватися з вашим обліковим записом Google. Ми обробляємо таку інформацію як особисту. Щоб дізнатися, як переглядати, контролювати та видаляти інформацію, пов’язану з обліковим записом Google, прочитайте розділ <a href="#infochoices" class="gweb-smoothscroll-control">Прозорість і можливість вибору</a> в цій політиці.
 
-How we use information that we collect
---------------------------------------
+Як ми використовуємо інформацію, яку збираємо
+---------------------------------------------
 
-We use the information we collect from all of our services to <a href="../../policies/privacy/example/provide-services.html" id="provide-services" class="highlight">provide</a>, <a href="../../policies/privacy/example/maintain-services.html" id="maintain-services" class="highlight">maintain</a>, <a href="../../policies/privacy/example/protect-services.html" id="protect-services" class="highlight">protect</a> and improve them, to <a href="../../policies/privacy/example/develop-new-ones.html" id="develop-new-ones" class="highlight">develop new ones</a> and to <a href="../../policies/privacy/example/protect-google-and-our-users.html" id="protect-google-and-our-users" class="highlight">protect Google and our users</a>. We also use this information to offer you tailored content – like giving you more relevant search results and ads.
+Ми використовуємо всю зібрану інформацію, щоб <a href="../../policies/privacy/example/provide-services.html" id="provide-services" class="highlight">надавати</a>, <a href="../../policies/privacy/example/maintain-services.html" id="maintain-services" class="highlight">підтримувати</a>, <a href="../../policies/privacy/example/protect-services.html" id="protect-services" class="highlight">захищати</a> та покращувати наявні служби, <a href="../../policies/privacy/example/develop-new-ones.html" id="develop-new-ones" class="highlight">розробляти нові служби</a>, а також <a href="../../policies/privacy/example/protect-google-and-our-users.html" id="protect-google-and-our-users" class="highlight">захищати Google і наших користувачів</a>. Крім того, ми використовуємо цю інформацію, щоб пропонувати вам краще підібраний вміст, зокрема показувати доречніші результати пошуку й оголошення.
 
-We may use the name that you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account, so that you are represented consistently across all our services. If other users already have your email or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo.
+Ми можемо використовувати ім’я, вказане вами в профілі Google, у всіх своїх пропонованих службах, для яких потрібен обліковий запис Google. Окрім того, ми можемо замінювати попередні імена, пов’язані з вашим обліковим записом Google, з метою однакового представлення вас в усіх наших службах. Якщо інші користувачі вже мають вашу електронну адресу чи інші дані, які визначають вашу особу, ми можемо показувати їм загальнодоступну інформацію з вашого профілю Google, як-от ваше ім’я та фото.
 
-If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to <a href="../../policies/privacy/example/limit-sharing-or-visibility-settings.html" id="limit-sharing-or-visibility-settings" class="highlight">limit sharing or visibility settings</a> in your Google Account.
+Якщо у вас є обліковий запис Google, ми можемо показувати в наших службах, зокрема в оголошеннях та іншому комерційному контексті, ім’я й фотографію вашого профілю та дії, які ви виконуєте в продуктах Google або додатках сторонніх розробників, під’єднаних до облікового запису Google (як-от оцінки +1, ваші відгуки й коментарі). Ми поважаємо ваш вибір щодо <a href="../../policies/privacy/example/limit-sharing-or-visibility-settings.html" id="limit-sharing-or-visibility-settings" class="highlight">обмеження показу чи налаштувань видимості</a> в обліковому записі Google.
 
-When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
+Коли ви зв’язуєтеся з Google, ми реєструємо цю бесіду, щоб допомогти вирішити проблеми, які у вас виникають. Ми також можемо використовувати вашу електронну адресу, щоб інформувати вас про наші служби, як-от повідомляти про майбутні зміни чи вдосконалення.
 
-We use information collected from cookies and other technologies, like [pixel tags](../../policies/privacy/key-terms/#toc-terms-pixel), to <a href="../../policies/privacy/example/improve-your-user-experience.html" id="improve-your-user-experience" class="highlight">improve your user experience</a> and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](../../policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health.
+Ми використовуємо інформацію, зібрану за допомогою файлів cookie й інших технологій, як-от [тегів пікселів](../../policies/privacy/key-terms/#toc-terms-pixel), щоб <a href="../../policies/privacy/example/improve-your-user-experience.html" id="improve-your-user-experience" class="highlight">покращувати роботу</a> та загальну якість наших служб. Google Analytics – це один із продуктів, які ми використовуємо в наших службах із цією метою. Наприклад, зберігаючи налаштування мови, ми можемо показувати вам служби вибраною мовою. Коли ми підбираємо для вас оголошення, ідентифікатори з файлів cookie чи схожих технологій не пов’язуються з такими [делікатними категоріями](../../policies/privacy/key-terms/#toc-terms-sensitive-categories), як дані про расу, релігію, сексуальну орієнтацію або стан здоров’я.
 
-Our automated systems analyse your content (including emails) to provide you personally relevant product features, such as customised search results, tailored advertising and spam and malware detection.
+Наші автоматизовані системи аналізують ваш вміст (зокрема електронні листи), щоб надавати функції продуктів, які відповідають вашим потребам, як-от персоналізовані результати пошуку, підібрані оголошення, виявлення спаму та зловмисного програмного забезпечення.
 
-We may <a href="../../policies/privacy/example/combine-personal-information.html" id="combine-personal-information" class="highlight">combine personal information from one service with information, including personal information, from other Google services</a> – for example, <a href="../../policies/privacy/example/to-make-it-easier-to-share.html" id="to-make-it-easier-to-share" class="highlight">to make it easier to share things with people you know</a>. Depending on [your account settings](https://myaccount.google.com/?hl=en), <a href="../../policies/privacy/example/your-activity-on-other-sites-and-apps.html" id="your-activity-on-other-sites-and-apps" class="highlight">your activity on other sites and apps</a> may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
+Ми можемо <a href="../../policies/privacy/example/combine-personal-information.html" id="combine-personal-information" class="highlight">поєднувати вашу особисту й іншу інформацію з кількох служб Google</a> – наприклад, <a href="../../policies/privacy/example/to-make-it-easier-to-share.html" id="to-make-it-easier-to-share" class="highlight">щоб вам було простіше ділитися даними з друзями</a>. Залежно від [налаштувань вашого облікового запису](https://myaccount.google.com/?hl=uk), <a href="../../policies/privacy/example/your-activity-on-other-sites-and-apps.html" id="your-activity-on-other-sites-and-apps" class="highlight">дані про вашу активність на інших сайтах і в додатках</a> можуть зв’язуватися з особистою інформацією, щоб покращувати служби й оголошення Google.
 
-We will ask for your consent before using information for a purpose other than those set out in this Privacy Policy.
+Перш ніж використовувати інформацію з метою, не вказаною в цій Політиці конфіденційності, ми попросимо вашої згоди на це.
 
-Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
+Google здійснює обробку особистої інформації на своїх серверах у багатьох країнах світу. Ми можемо обробляти вашу особисту інформацію на сервері, розташованому поза межами країни, у якій ви проживаєте.
 
-Transparency and choice
------------------------
+Прозорість і можливість вибору
+------------------------------
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
+У людей бувають різні підходи до конфіденційності. Наша мета – чітко означити, яку інформацію ми збираємо, з метою надання вам можливості осмисленого вибору способів її використання. Наприклад, ви можете виконувати вказані нижче дії:
 
--   [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos that you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls](https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow) to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed out of your account.
--   [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard.
--   [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Google advertising services.
--   [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others.
--   [Control](https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account.
--   [Take information](https://www.dataliberation.org/) associated with your Google Account out of many of our services.
--   [Choose](https://plus.google.com/settings/endorsements?hl=en) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
+-   Щоб вибрати, яка інформація має зберігатися в обліковому записі, коли ви користуєтеся службами Google, [перегляньте й оновіть налаштування історії активності в Google](https://myaccount.google.com/privacy?hl=uk#accounthistory). Така інформація може включати історію перегляду відео на YouTube, історію пошуку тощо. Можете також перейти в ці [елементи керування](https://myaccount.google.com/privacy?hl=uk#toolsyoucanusenow), щоб налаштувати, чи зберігатиметься на вашому пристрої певна активність у файлах cookie або схожих технологіях, коли ви користуєтеся нашими службами, не ввійшовши у свій обліковий запис.
+-   [Перевіряти та контролювати](https://www.google.com/dashboard/?hl=uk) певні типи інформації, пов’язаної з вашим обліковим записом Google, за допомогою інформаційної панелі Google.
+-   [Переглядати та змінювати](https://www.google.com/settings/ads/preferences?hl=uk) параметри оголошень, які показують Google та інші веб-сайти (як-от категорії, що можуть вас цікавити), у налаштуваннях реклами. Ви також можете перейти на цю сторінку, щоб вимкнути певні рекламні служби Google.
+-   [Налаштовувати](https://support.google.com/plus/answer/1355890?hl=uk), як профіль, зв’язаний з вашим обліковим записом Google, відображатиметься для інших.
+-   [Вибирати](https://support.google.com/plus/bin/static.py?hl=uk&page=guide.cs&guide=1257347), з ким ділитись інформацією через обліковий запис Google.
+-   [Видаляти інформацію](https://www.dataliberation.org/), зв’язану з обліковим записом Google, з багатьох наших служб.
+-   [Виберіть](https://plus.google.com/settings/endorsements?hl=uk), чи показувати ім’я та фотографію профілю в рекомендаціях, які додаються в оголошення.
 
-You may also set your browser to block all cookies, including cookies associated with our services or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services <a href="../../policies/privacy/example/may-not-function-properly.html" id="may-not-function-properly" class="highlight">may not function properly</a> if your cookies are disabled. For example, we may not remember your language preferences.
+Ви також можете налаштувати у своєму веб-переглядачі блокування всіх файлів cookie, включно з файлами cookie, пов’язаними з нашими службами, або надання повідомлення про встановлення нами файлу cookie. Однак варто пам’ятати, що багато наших служб <a href="../../policies/privacy/example/may-not-function-properly.html" id="may-not-function-properly" class="highlight">можуть не працювати належним чином</a> із вимкненими файлами cookie. Наприклад, при цьому ваші мовні налаштування можуть не зберегтися.
 
-Information that you share
---------------------------
+Інформація, якою ви ділитеся
+----------------------------
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on <a href="../../policies/privacy/example/sharing.html" id="sharing" class="highlight">sharing</a> and <a href="../../policies/privacy/example/removing-your-content.html" id="removing-your-content" class="highlight">removing your content</a>.
+Багато наших служб дозволяють ділитися інформацією з іншими користувачами. Пам’ятайте: якщо ви робите інформацію загальнодоступною, її можуть індексувати пошукові системи, зокрема Google. Наші служби надають вам різноманітні опції для <a href="../../policies/privacy/example/sharing.html" id="sharing" class="highlight">обміну</a> та <a href="../../policies/privacy/example/removing-your-content.html" id="removing-your-content" class="highlight">видалення наданого вами вмісту</a>.
 
-Accessing and updating your personal information
+Доступ до особистої інформації та її оновлення
+----------------------------------------------
+
+Щоразу, коли ви користуєтеся нашими службами, ми прагнемо забезпечити вам <a href="../../policies/privacy/example/access-to-your-personal-information.html" id="access-to-your-personal-information" class="highlight">доступ до вашої особистої інформації</a>. Якщо така інформація є неправильною, ми намагаємося надати вам можливість швидко її оновити чи видалити (окрім випадків, коли збереження такої інформації вимагається для законних комерційних чи юридичних цілей) Оновлюючи вашу особисту інформацію, ми можемо попросити вас підтвердити свою особу, перш ніж виконаємо ваш запит.
+
+Ми можемо відхиляти запити, які необґрунтовано повторюються, потребують непропорційних технічних зусиль (наприклад, розробки нової системи чи фундаментальної зміни поточної функціональності), загрожують конфіденційності інших користувачів, а також запити, обробка яких є недоцільною (як-от запити щодо інформації, розміщеної на архівних касетах).
+
+Якщо ми можемо надати доступ до інформації та її виправлення, це робиться безкоштовно, окрім випадків, коли такі дії потребують непропорційних зусиль. Наша мета – надавати служби таким чином, щоб забезпечувати захист інформації від випадкового чи навмисного знищення. Тому після видалення вами інформації з наших служб її залишкові копії з наших активних серверів видаляються не одразу, а інформація з наших резервних систем може не видалятися взагалі.
+
+Інформація, якою ми ділимося
+----------------------------
+
+Ми не надаємо особисту інформацію компаніям, організаціям і особам за межами Google, окрім указаних нижче випадків.
+
+-   **За вашою згодою**
+
+    Особиста інформація надається компаніям, організаціям або особам поза межами Google за наявності вашої згоди на це. Для надання будь-якої [закритої особистої інформації](../../policies/privacy/key-terms/#toc-terms-sensitive-info) вимагається ваша згода.
+
+-   **З адміністраторами доменів**
+
+    Якщо вашим обліковим записом Google замість вас керує [адміністратор домену](https://support.google.com/a/answer/178897?hl=uk) (наприклад, для користувачів G Suite), такий адміністратор домену та посередники, які забезпечують підтримку користувачів у вашій організації, матимуть доступ до даних вашого облікового запису Google (включно з вашою електронною поштою й іншими даними). Адміністратор вашого домену може:
+
+    -   переглядати статистичні дані вашого облікового запису, як-от статистику щодо встановлених вами програм;
+    -   змінювати пароль вашого облікового запису;
+    -   призупиняти чи припиняти доступ до вашого облікового запису;
+    -   отримувати доступ до інформації, яка є частиною вашого облікового запису, та зберігати її;
+    -   отримувати дані вашого облікового запису з метою дотримання вимог чинного законодавства, нормативних актів, <a href="../../policies/privacy/example/legal-process.html" id="legal-process" class="highlight">судових процесів чи вимог влади, які можуть бути виконані в примусовому порядку</a>.
+    -   обмежувати вашу можливість видаляти чи редагувати інформацію або налаштування конфіденційності.
+
+    Додаткову інформацію можна знайти в політиці конфіденційності адміністратора свого домену.
+
+-   **Для зовнішньої обробки**
+
+    Ми надаємо особисту інформацію своїм [філіям](../../policies/privacy/key-terms/#toc-terms-affiliates), іншим надійним компаніям або особам для обробки відповідно до наших інструкцій і цієї Політики конфіденційності, а також із дотриманням інших належних критеріїв конфіденційності та безпеки.
+
+-   **На законних підставах**
+
+    Ми повідомлятимемо особисту інформацію компаніям, організаціям або особам поза межами компанії Google за умови нашого добросовісного припущення, що доступ, використання, збереження чи розголошення такої інформації є обґрунтовано необхідним для:
+
+    -   дотримання чинного законодавства, нормативних актів, <a href="../../policies/privacy/example/legal-process.html" id="legal-process" class="highlight">судових процесів чи вимог влади, які можуть бути виконані в примусовому порядку</a>;
+    -   виконання відповідних Загальних положень та умов Google, зокрема, відстеження можливих порушень;
+    -   виявлення шахрайства, порушення безпеки чи технічних проблем, а також запобігання чи вжиття інших заходів із протидії їм;
+    -   захисту прав, власності чи безпеки компанії Google, її користувачів і громадськості, як цього вимагає чи дозволяє закон.
+
+<a href="../../policies/privacy/example/we-may-share.html" id="we-may-share" class="highlight">Ми можемо відкрито ділитися</a> [неособистою інформацією](../../policies/privacy/key-terms/#toc-terms-info) з користувачами та нашими партнерами, зокрема з видавцями, рекламодавцями або власниками пов’язаних сайтів. Наприклад, ми робимо це, щоб <a href="../../policies/privacy/example/to-show-trends.html" id="to-show-trends" class="highlight">показати загальні тенденції</a> користування нашими службами.
+
+Якщо Google братиме участь у процесі злиття, придбання чи продажу своїх активів, ми продовжуватимемо забезпечувати конфіденційність будь-якої особистої інформації та заздалегідь повідомимо користувачів, яких це стосується, про таку передачу особистої інформації й зміну політики конфіденційності.
+
+Безпека інформації
+------------------
+
+Ми робимо все можливе для того, щоб захистити Google і своїх користувачів від несанкціонованого доступу до довіреної нам інформації, внесення в неї змін, її розголошення чи знищення. Зокрема:
+
+-   Більшість наших служб зашифровано [за допомогою протоколу SSL](https://support.google.com/websearch/answer/173733?hl=uk).
+-   Ми пропонуємо вам [двоетапну перевірку](//www.google.com/intl/uk/landing/2step/) для отримання доступу до облікового запису Google, а також [функцію безпечного перегляду](https://www.google.com/chrome/intl/uk/more/security.html) в Google Chrome.
+-   Процедури збирання, зберігання й обробки інформації, включно із засобами фізичного захисту, постійно переглядаються з метою запобігання несанкціонованого доступу до систем.
+-   Доступ до особистої інформації має лише обмежене коло працівників, контрагентів і агентів Google, яким потрібна ця інформація для здійснення обробки від нашого імені. Усі вони беруть на себе строгі договірні зобов’язання щодо дотримання конфіденційності, у випадку недотримання яких можуть підлягати дисциплінарному покаранню чи звільненню.
+
+Коли застосовується ця Політика конфіденційності
 ------------------------------------------------
 
-Whenever you use our services, we aim to provide you with <a href="../../policies/privacy/example/access-to-your-personal-information.html" id="access-to-your-personal-information" class="highlight">access to your personal information</a>. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+Наша Політика конфіденційності застосовується до всіх служб, які пропонує компанія Google Inc. і її філії, зокрема YouTube, служби на пристроях Android і веб-сайтах (як-от рекламні служби). Однак є служби, які мають власну політику конфіденційності.
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems).
+Ця Політика конфіденційності не застосовується до служб, які надаються іншими компаніями чи особами, включно з продуктами або сайтами, що можуть відображатися у ваших результатах пошуку, сайтами, що включають служби Google, або іншими сайтами, посилання на які розміщено в наших службах. Наша Політика конфіденційності не поширюється на інформаційну діяльність інших компаній і організацій, які рекламують наші служби та можуть використовувати файли cookie, теги пікселів й інші технології для розміщення та надання відповідної реклами.
 
-Where we can provide information access and correction, we will do so free of charge, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+Дотримання Політики конфіденційності та співпраця з розпорядчими органами
+-------------------------------------------------------------------------
 
-Information that we share
--------------------------
+Ми регулярно перевіряємо, чи наші дії відповідають Політиці конфіденційності. Також ми дотримуємося кількох [принципів саморегулювання](../../policies/privacy/frameworks/), зокрема угод EU-US Privacy Shield Framework та Swiss-US Privacy Shield Framework відносно конфіденційності. Коли ми отримуємо офіційну письмову скаргу, ми зв’язуємося зі скаржником, щоб з’ясувати причини. Якщо ми отримуємо скаргу щодо використання особистої інформації, яку не вдається вирішити безпосередньо з користувачем, ми співпрацюємо з відповідними регулятивними органами, зокрема з місцевими органами, що займаються захистом даних.
 
-We do not share personal information with companies, organisations and individuals outside of Google unless one of the following circumstances applies:
+Зміни
+-----
 
--   **With your consent**
+Наша Політика конфіденційності може зазнавати періодичних змін. Ми не обмежуватимемо ваші права, згадані в цій Політиці конфіденційності, без вашої чітко висловленої згоди. Будь-які зміни до Політики конфіденційності буде опубліковано на цій сторінці, а у випадку внесення суттєвих змін ми зробимо більш помітне повідомлення (включно з надсиланням сповіщення про зміни в Політиці конфіденційності електронною поштою – для окремих служб). Ми також зберігаємо архів попередніх версій цієї Політики конфіденційності.
 
-    We will share personal information with companies, organisations or individuals outside Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](../../policies/privacy/key-terms/#toc-terms-sensitive-info).
+Застосування до конкретних продуктів
+------------------------------------
 
--   **With domain administrators**
+У поданих нижче примітках ідеться про конкретні способи забезпечення конфіденційності в певних продуктах і службах Google, якими ви, можливо, користуєтеся.
 
-    If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for G Suite users) then your domain administrator and resellers who provide user support to your organisation will have access to your Google Account information (including your email and other data). Your domain administrator may be able to:
+Щоб дізнатися більше про деякі з наших найпопулярніших служб, перегляньте [Посібник із конфіденційності продуктів Google](../../policies/technologies/product-privacy/).
 
-    -   view statistics regarding your account, such as statistics regarding applications that you install.
-    -   change your account password.
-    -   suspend or terminate your account access.
-    -   access or retain information stored as part of your account.
-    -   receive your account information in order to satisfy applicable law, regulation, <a href="../../policies/privacy/example/legal-process.html" id="legal-process" class="highlight">legal process or enforceable governmental request</a>.
-    -   restrict your ability to delete or edit information or privacy settings.
+Інші корисні матеріали про конфіденційність і безпеку можна знайти на [сторінках правил і принципів](../../policies/) Google. Там розміщені вказані нижче матеріали.
 
-    Please refer to your domain administrator’s privacy policy for more information.
+-   Інформація про наші [технології та принципи](../../policies/technologies/), зокрема:
+-   [Сторінка](../../policies/privacy/partners/) про те, які дані надсилаються в Google, коли ви відвідуєте веб-сайти, де використовуються наші рекламні, статистичні та соціальні продукти.
+-   Ви можете переглянути основні налаштування в інструменті [перевірки конфіденційності](https://myaccount.google.com/privacycheckup/1?hl=uk).
+-   [Центр безпеки](//www.google.com/intl/uk/safetycenter/) Google, де розповідається, як захистити себе в Інтернеті.
 
--   **For external processing**
+#### Приклад
 
-    We provide personal information to our [affiliates](../../policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-
--   **For legal reasons**
-
-    We will share personal information with companies, organisations or individuals outside Google if we have a belief in good faith that access, use, preservation or disclosure of the information is reasonably necessary to:
-
-    -   meet any applicable law, regulation, <a href="../../policies/privacy/example/legal-process.html" id="legal-process" class="highlight">legal process or enforceable governmental request</a>.
-    -   enforce applicable Terms of Service, including investigation of potential violations.
-    -   detect, prevent or otherwise address fraud, security or technical issues.
-    -   protect against harm to the rights, property or safety of Google, our users or the public, as required or permitted by law.
-
-<a href="../../policies/privacy/example/we-may-share.html" id="we-may-share" class="highlight">We may share</a> [non-personally identifiable information](../../policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly <a href="../../policies/privacy/example/to-show-trends.html" id="to-show-trends" class="highlight">to show trends</a> about the general use of our services.
-
-If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
-
-Information security
---------------------
-
-We work hard to protect Google and our users from unauthorised access to or unauthorised alteration, disclosure or destruction of information that we hold. In particular:
-
--   We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en).
--   We offer you [two-step verification](//www.google.com/intl/en/landing/2step/) when you access your Google Account and a [Safe Browsing feature](https://www.google.com/chrome/intl/en/more/security.html) in Google Chrome.
--   We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorised access to systems.
--   We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us and who are subject to strict contractual confidentiality obligations. They may be disciplined or their contract terminated if they fail to meet these obligations.
-
-When this Privacy Policy applies
+"доступ до особистої інформації"
 --------------------------------
 
-Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
+Наприклад, завдяки інформаційній панелі Google можна швидко й легко переглянути дані, пов’язані з обліковим записом Google.
 
-Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organisations that advertise our services and that may use cookies, pixel tags and other technologies to serve and offer relevant ads.
+#### Приклад
 
-Compliance and cooperation with regulatory authorities
-------------------------------------------------------
-
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](../../policies/privacy/frameworks/), including the EU-US and Swiss-US Privacy Shield Frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
-
-Changes
--------
-
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
-
-Specific product practices
---------------------------
-
-The following notices explain specific privacy practices with respect to certain Google products and services that you may use:
-
-For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](../../policies/technologies/product-privacy/).
-
-Further useful privacy and security-related materials can be found through Google’s [policies and principles pages](../../policies/), including:
-
--   Information about our [technologies and principles](../../policies/technologies/), which includes, among other things, more information on
--   A [page](../../policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products.
--   The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings.
--   Google’s [safety centre](//www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
-
-#### Example
-
-"access to your personal information"
--------------------------------------
-
-For example, with Google Dashboard you can quickly and easily see some of the data associated with your Google Account.
-
-#### Example
-
-"ads that you'll find most useful"
-----------------------------------
-
-For example, if you frequently visit websites and blogs about gardening, you may see ads related to gardening as you browse the web.
-
-#### Example
-
-"advertising services"
-----------------------
-
-For example, if you frequently visit websites and blogs about gardening that show our ads, you may start to see ads related to this interest as you browse the web.
-
-#### Example
-
-"and other sensors"
--------------------
-
-Your device may have sensors that provide information to assist in a better understanding of your location. For example, an accelerometer can be used to determine things like speed, or a gyroscope to work out direction of travel.
-
-#### Example
-
-"collect information"
----------------------
-
-This includes information like your usage data and preferences, Gmail messages, G+ profile, photos, videos, browsing history, map searches, docs or other Google-hosted content.
-
-#### Example
-
-"combine personal information from one service with information, including personal information, from other Google services"
-----------------------------------------------------------------------------------------------------------------------------
-
-For example, when you're signed in to your Google Account and search on Google, you can see search results from the public web, along with pages, photos and Google+ posts from your friends and people who know you or follow you on Google+ may see your posts and profile in their results.
-
-#### Example
-
-"connect with people"
----------------------
-
-For example, you could get suggestions of people you might know or want to connect with on Google+, based on the connections you have with people on other Google products, like Gmail; and people who have a connection with you may see your profile as a suggestion.
-
-#### Example
-
-Credit Card
------------
-
-Whilst we currently don’t ask for a credit card during sign up, verifying your age through a small credit card transaction is one way to confirm that you meet our age requirements, in case your account was disabled after you have entered a birthday indicating you are not old enough to have a Google Account.
-
-#### Example
-
-"develop new ones"
-------------------
-
-For example, Google’s spell checking software was developed by analysing previous searches where users had corrected their own spelling.
-
-#### Example
-
-"device identifiers"
---------------------
-
-Device identifiers let Google know which unique device you are using to access our services, which can be used to customise our service to your device or analyse any device issues related to our services.
-
-#### Example
-
-"device-specific information"
------------------------------
-
-For example, when you visit Google Play from your desktop, Google can use this information to help you decide on which devices you'd like your purchases to be available for use.
-
-#### Example
-
-"improve your user experience"
-------------------------------
-
-For example, cookies allow us to analyse how users interact with our services.
-
-#### Example
-
-"legal process or enforceable governmental request"
----------------------------------------------------
-
-Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to hand over user data. Our legal team reviews each and every request, regardless of type, and we frequently push back when the requests appear to be overly broad or don't follow the correct process.
-
-#### Example
-
-"limit sharing or visibility settings"
---------------------------------------
-
-For example, you can choose your settings so that your name and photo do not appear in an ad.
-
-#### Example
-
-"linked with information about visits to multiple sites"
---------------------------------------------------------
-
-Google Analytics is based on first-party cookies. Data generated through Google Analytics can be linked, by the Google Analytics customer or by Google, using Google technology, to third-party cookies, related to visits to other websites; for instance when an advertiser wants to use its Google Analytics data to create more relevant ads, or to further analyse its traffic.
-
-#### Example
-
-"maintain"
-----------
-
-For example, we continuously monitor our systems to check that they are working as intended and in order to detect and fix errors.
-
-#### Example
-
-"may collect and process information about your actual location"
-----------------------------------------------------------------
-
-For example, Google Maps can centre the maps view on your current location.
-
-#### Example
-
-"may not function properly"
----------------------------
-
-For example, we use a cookie called ‘lbcs’ which makes it possible for you to open many Google Docs in one browser.
-
-#### Example
-
-"and our partners"
-------------------
-
-We allow trusted businesses to use cookies or similar technologies for advertising and research purposes on our services.
-
-#### Example
-
-"phone number"
---------------
-
-For example, provided you have added a phone number as a recovery option, if you forget your password, Google can send you a text message with a code to enable you to reset it.
-
-#### Example
-
-"protect Google and our users"
-------------------------------
-
-For example, if you're concerned about unauthorised access to your email, "Last account activity" in Gmail shows you information about recent activity in your email, such as the IP addresses that accessed your mail, the associated location, as well as the time and date.
-
-#### Example
-
-"protect"
----------
-
-For example, one reason we collect and analyse IP addresses and cookies is to protect our services against automated abuse.
-
-#### Example
-
-"provide"
----------
-
-For example, the IP address assigned to your device is used to send the data that you requested back to your device.
-
-#### Example
-
-"sharing"
----------
-
-For example, with Google+, you have many different sharing options.
-
-#### Example
-
-"sharing with others, quicker and easier"
------------------------------------------
-
-For example, if someone is already a contact, Google will auto-complete their name if you want to add them to a message in Gmail.
-
-#### Example
-
-"the people who matter most to you online"
-------------------------------------------
-
-For example, when you type an address in the To, Cc or Bcc field of a message that you're composing, Gmail will suggest addresses from your Contacts list.
-
-#### Example
-
-"to make it easier to share things with people you know"
---------------------------------------------------------
-
-For example, if you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by auto-completing their email address when you start to type in their name.
-
-#### Example
-
-"view and interact with our ads"
---------------------------------
-
-For example, we regularly report to advertisers on whether we served their ad to a page and whether that ad was likely to be seen by users (as opposed to, for example, being on part of the page to which users did not scroll).
-
-#### Example
-
-"We may share aggregated, non-personally identifiable information publicly"
----------------------------------------------------------------------------
-
-When lots of people start searching for something, it can provide very useful information about particular trends at that time.
-
-#### Example
-
-"Wi-Fi access points and mobile phone masts"
+"оголошення, які ви вважаєте найкориснішими"
 --------------------------------------------
 
-For example, Google can approximate your device’s location based on the known location of nearby mobile masts.
+Наприклад, якщо ви часто відвідуєте веб-сайти та блоги про садівництво, під час перегляду веб-сторінок ви можете бачити оголошення, пов’язані із садівництвом.
 
-#### Example
+#### Приклад
 
-"more relevant search results"
-------------------------------
+"рекламні служби"
+-----------------
 
-For example, we can make search more relevant and interesting for you by including photos, posts and more from you and your friends.
+Наприклад, якщо ви часто відвідуєте веб-сайти та блоги про садівництво, на яких відображаються наші оголошення, під час перегляду веб-сторінок ви бачитимете оголошення, пов’язані з цим зацікавленням.
 
-#### Example
+#### Приклад
 
-"your activity on other sites and apps"
----------------------------------------
+"й інші датчики"
+----------------
 
-This activity might come from your use of Google products like Chrome Sync or from your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics). These products share information about your activity with Google and, depending on
+У вашому пристрої можуть бути датчики, які надають інформацію для точнішого визначення вашого місцезнаходження. Наприклад, акселерометр визначає вашу швидкість, а гіроскоп – напрямок руху.
 
-[your account settings](//myaccount.google.com/?hl=en)
-and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.
+#### Приклад
+
+"збір інформації"
+-----------------
+
+Це стосується даних про використання, налаштувань, повідомлень Gmail, профілю Google+, фотографій, відео, історії веб-перегляду, пошуків на карті, документів або іншого вмісту, розташованого на серверах Google.
+
+#### Приклад
+
+"поєднання особистої інформації з однієї служби з інформацією, зокрема з особистою інформацією, з інших служб Google"
+---------------------------------------------------------------------------------------------------------------------
+
+Наприклад, якщо ввійти в обліковий запис Google і виконати пошук у Google, можна побачити результати пошуку в Інтернеті, а також сторінки, фотографії та публікації своїх друзів у Google+, а люди, які вас знають або підписалися на ваш вміст у Google+, зможуть бачити ваші публікації та профіль у своїх результатах.
+
+#### Приклад
+
+"спілкування з людьми"
+----------------------
+
+Наприклад, ви можете отримувати пропозиції людей, яких ви можете знати чи з якими хочете спілкуватися в Google+, на основі зв’язків із користувачами в інших продуктах Google, як-от Gmail, а пов’язані з вами люди можуть бачити ваш профіль у своїх пропозиціях.
+
+#### Приклад
+
+"кредитна картка"
+-----------------
+
+Зараз ми не просимо надавати дані кредитної картки під час реєстрації, проте підтвердження віку за допомогою невеликої трансакції з кредитною карткою – єдиний спосіб підтвердити, що ваш вік відповідає вимогам, якщо обліковий запис вимкнено після введення дати народження, яка вказує, що ви не досягли потрібного віку, щоб мати обліковий запис Google.
+
+#### Приклад
+
+"розробка новинок"
+------------------
+
+Наприклад, програмне забезпечення для перевірки правопису Google розроблено шляхом аналізу попередніх пошуків, у яких користувачі виправили свої орфографічні помилки.
+
+#### Приклад
+
+"ідентифікатори пристрою"
+-------------------------
+
+Ідентифікатори пристрою повідомляють Google, на якому унікальному пристрої ви користуєтеся нашими службами. Ця інформація може використовуватися для налаштування служби відповідно до пристрою чи аналізу проблем, пов’язаних із нашими службами.
+
+#### Приклад
+
+"інформація про пристрій"
+-------------------------
+
+Наприклад, коли ви відвідуєте Google Play на комп’ютері, Google може використовувати цю інформацію, щоб вирішити, на яких пристроях ви хочете користуватися своїми покупками.
+
+#### Приклад
+
+"покращення взаємодії з користувачами"
+--------------------------------------
+
+Наприклад, файли cookie дають змогу проаналізувати процес взаємодії користувачів із нашими службами.
+
+#### Приклад
+
+"судові процеси чи вимоги влади, що мають позовну силу"
+-------------------------------------------------------
+
+Як і інші технологічні та комунікаційні компанії, Google постійно отримує від державних установ і судів з усього світу запити про надання даних користувачів. Наша команда юристів перевіряє кожний запит, незалежно від його типу. Ми часто повертаємо запити, якщо вважаємо, що вони надто загальні або порушують відповідну процедуру.
+
+#### Приклад
+
+"обмеження показу чи налаштувань видимості"
+-------------------------------------------
+
+Наприклад, можна вибрати такі налаштування, щоб ваше ім’я та фотографія не з’являлися в оголошеннях.
+
+#### Приклад
+
+"пов’язуються з інформацією про відвідування інших сайтів"
+----------------------------------------------------------
+
+Google Analytics базується на основних файлах cookie. З допомогою технологій Google, клієнт Google Analytics або Google можуть пов’язувати дані, які генеруються в Google Analytics, зі сторонніми файлами cookie з інших відвіданих веб-сайтів (наприклад, коли рекламодавець хоче використовувати дані Google Analytics, щоб створювати більш відповідні оголошення або докладніше аналізувати трафік). Дізнатися більше.
+
+#### Приклад
+
+"технічне обслуговування"
+-------------------------
+
+Наприклад, ми постійно перевіряємо, як працюють наші системи, щоб виявляти та виправляти помилки.
+
+#### Приклад
+
+"можуть збирати й обробляти дані про ваше фактичне місцезнаходження"
+--------------------------------------------------------------------
+
+Наприклад, Карти Google можуть показувати ваше поточне місцезнаходження в центрі області перегляду карт.
+
+#### Приклад
+
+"може не працювати належним чином"
+----------------------------------
+
+Наприклад, ми використовуємо файл cookie під назвою "lbcs", який дозволяє відкривати багато Google Документів в одному веб-переглядачі.
+
+#### Приклад
+
+"і наші партнери"
+-----------------
+
+Ми дозволяємо надійним компаніям використовувати в наших службах файли cookie та схожі технології з метою реклами або проведення досліджень.
+
+#### Приклад
+
+"номер телефону"
+----------------
+
+Наприклад, якщо ви додасте номер телефону як варіант відновлення, Google надішле вам текстове повідомлення з кодом для скидання пароля, коли ви його забудете.
+
+#### Приклад
+
+"захист Google і наших користувачів"
+------------------------------------
+
+Наприклад, якщо ви занепокоєні через несанкціонований доступ до вашої електронної пошти, у розділі "Остання активність в обліковому записі" в Gmail можна переглянути інформацію про останні дії в обліковому записі електронної пошти, як-от IP-адреси, з яких входили у вашу поштову скриньку, пов’язане місцезнаходження, а також час і дату.
+
+#### Приклад
+
+"захист"
+--------
+
+Наприклад, ми збираємо й аналізуємо IP-адреси та файли cookie, щоб захищати наші служби від зловживань, пов’язаних з автоматичними діями.
+
+#### Приклад
+
+"надання даних"
+---------------
+
+Наприклад, IP-адреса вашого пристрою використовується, щоб надсилати на нього дані, які ви запитуєте.
+
+#### Приклад
+
+"можливість ділитися"
+---------------------
+
+У Google+, наприклад, можна ділитися вмістом багатьма способами.
+
+#### Приклад
+
+"пришвидшення та спрощення обміну вмістом"
+------------------------------------------
+
+Наприклад, якщо користувач уже є у вашому списку контактів, Google автоматично завершить ім’я цього користувача, коли ви надсилатимете йому повідомлення в Gmail.
+
+#### Приклад
+
+"найближчі люди в Інтернеті"
+----------------------------
+
+Наприклад, коли ви створюєте повідомлення та вводите адресу в поле "Кому", "Копія" чи "Прихована копія", Gmail пропонує адреси з вашого списку контактів.
+
+#### Приклад
+
+"спрощення обміну вмістом із людьми, яких ви знаєте"
+----------------------------------------------------
+
+Наприклад, якщо ви спілкувалися з кимось через Gmail, а тепер хочете додати цю людину в Google Документи чи подію в Google Календарі, Google спростить завдання, автоматично завершивши електронну адресу, коли ви почнете вводити ім’я.
+
+#### Приклад
+
+"перегляд наших оголошень і взаємодія з ними"
+---------------------------------------------
+
+Наприклад, ми регулярно повідомляємо рекламодавцям про розміщення їхнього оголошення на сторінці, а також про імовірність того, що користувачі його побачили (на відміну від розміщення оголошень на тій частині сторінки, до якої користувачам потрібно прокручувати).
+
+#### Приклад
+
+"Ми можемо відкрито публікувати сукупну неособисту інформацію"
+--------------------------------------------------------------
+
+Коли багато людей щось шукають, ми можемо отримати дуже корисну інформацію про окремі тенденції в цей час.
+
+#### Приклад
+
+"точки доступу Wi-Fi та стільникові антени"
+-------------------------------------------
+
+Наприклад, Google може визначати приблизне місцезнаходження вашого пристрою на основі відомого місцезнаходження стільникових антен поблизу.
+
+#### Приклад
+
+"більш відповідні результати пошуку"
+------------------------------------
+
+Наприклад, ми можемо зробити пошук більш відповідним і цікавим, показуючи в результатах фотографії, публікації й інший вміст, що належить вам або вашим друзям.
+
+#### Приклад
+
+"ваша активність на інших сайтах і в додатках"
+----------------------------------------------
+
+Дані про таку активність збираються, коли ви користуєтеся продуктами Google (як-от Синхронізація Chrome) або переглядаєте сайти чи додатки наших партнерів. Багато власників веб-сайтів і додатків співпрацюють із Google, щоб покращувати свої служби та вміст. Наприклад, веб-сайти можуть використовувати наші рекламні сервiси (як-от AdSense) та інструменти статистики (як-от Google Analytics). Ці продукти надають Google інформацію про вашу активність. Залежно від
+
+[налаштувань вашого облікового запису](//myaccount.google.com/?hl=uk)
+та продуктів, які ви використовуєте (наприклад, якщо партнер користується Google Analytics у поєднанні з нашими рекламними службами), ці дані можуть зв’язуватися з вашою особистою інформацією.
