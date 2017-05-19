@@ -26,10 +26,15 @@ import requests
 import tldextract
 from bs4 import BeautifulSoup
 from readability import Document
+from headless import HeadlessPrivacyScraper
 
 import pypandoc
 from pypandoc.pandoc_download import download_pandoc
 
+KEYWORDS = ['privacy', 'datenschutz',
+            'Конфиденциальность',  'Приватность', 'тайность',
+            '隐私', '隱私', 'プライバシー', 'confidential',
+            'mentions-legales']
 
 LANGS = {
     'fr': 'fr',
@@ -81,7 +86,8 @@ def fetch_privacy_policy(policy_url):
         print('Failed to fetch:', response.reason)
         return
     lowered = response.text.lower()
-    if 'policy' not in lowered or 'privacy' not in lowered:
+
+    if not any(keyword in KEYWORDS for keyword in lowered.split()):
         print('No keyword found')
         return
     if len(lowered) < 1600:
@@ -94,8 +100,11 @@ def fetch_privacy_policy(policy_url):
 
     # Convert to github markup
     content = doc.summary().encode('utf-8')
-    converted = pypandoc.convert_text(content, 'markdown_github', format='html')
+    converted = pypandoc.convert_text(
+        content, 'markdown_github', format='html')
     converted = policy_url + '\n\n' + converted
+
+    print(domain)
 
     output_dir = os.path.join('privacy_policies', domain)
     try:
@@ -117,11 +126,11 @@ def iter_protocols(base_url):
 
 def iter_policy_static(url):
     patterns = [
-        '/privacy',
-        '/privacy-policy',
-        '/privacy/privacy-policy',
-        '/legal/privacy',
-        '/legal/confidential',
+        # '/privacy',
+        # '/privacy-policy',
+        # '/privacy/privacy-policy',
+        # '/legal/privacy',
+        # '/legal/confidential',
     ]
     for p in patterns:
         yield url.rstrip('/') + p
@@ -133,15 +142,16 @@ def iter_policy_heuristic(url):
     if response and response.status_code == 200:
         soup = BeautifulSoup(response.content, 'lxml')
         for link in soup.find_all('a', href=True):
-            for keyword in ['privacy', 'datenschutz', 'Конфиденциальность',
-                            '隐私', '隱私', 'プライバシー', 'confidential',
-                            'mentions-legales']:
+            for keyword in KEYWORDS:
                 href = link['href']
                 href_lower = href.lower()
                 text = link.text.lower()
+                # print("Text Link: ",  text, href)
                 if keyword in href_lower or keyword in text:
                     # Get full privacy policy URL
-                    if href.startswith('/'):
+                    if href.startswith('//'):
+                        href = 'http:' + href
+                    elif href.startswith('/'):
                         href = url.rstrip('/') + href
                     yield href
 
@@ -176,6 +186,7 @@ def get_privacy_policy_url(base_url):
             continue
     return False
 
+
 def main():
     logging.basicConfig(level=logging.ERROR)
 
@@ -203,6 +214,9 @@ def main():
         if not url.startswith('#') and len(url.strip()) > 0
     )
 
+    # instance of Headless Browser Scrapper
+    scraper = HeadlessPrivacyScraper()
+
     # Fetch data
     if len(urls) > 0:
         found = 0
@@ -222,6 +236,17 @@ def main():
         for url, result in zip(urls, policies):
             if not result:
                 print('Not found', url)
+
+                print('Trying with Javascript on: ', url)
+                for pUrl in iter_protocols(url):
+                    links = scraper.serve_qualified(pUrl)
+                    print(links)
+
+                    policies = map(get_privacy_policy_url, links)
+
+                    print("====")
+                scraper.quit_driver()
+
 
         print('-' * 15, file=sys.stderr)
 
