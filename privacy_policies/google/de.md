@@ -1,7 +1,57 @@
-https://google.de/privacy
+http://www.google.de/intl/de/policies/privacy/?fg=1
+
+[<img src="/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png" alt="Google" srcset="/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png 2x" />](/)
+=====================================================================================================================================================================
+
+[ Datenschutzerklärung & Nutzungsbedingungen](../../policies/)
+--------------------------------------------------------------
+
+<a href="#content" class="maia-teleport">Weiter zum Inhalt</a>
+
+-   [Übersicht](../../policies/)
+-   [Datenschutzerklärung](../../policies/privacy/)
+-   [Nutzungsbedingungen](../../policies/terms/)
+-   [Technologien und Prinzipien](../../policies/technologies/)
+-   [Häufig gestellte Fragen](../../policies/faq/)
+-   
+
+    [Mein Konto](//myaccount.google.com/?hl=de)
+
+-   Datenschutzerklärung
+    -   <a href="#infocollect" class="gweb-smoothscroll-control">Von uns erhobene Informationen</a>
+    -   <a href="#infouse" class="gweb-smoothscroll-control">Wie wir die von uns erhobenen Informationen nutzen</a>
+    -   <a href="#infochoices" class="gweb-smoothscroll-control">Transparenz und Wahlmöglichkeit</a>
+    -   <a href="#infosharing" class="gweb-smoothscroll-control">Informationen, die Sie anderen mitteilen</a>
+    -   <a href="#access" class="gweb-smoothscroll-control">Zugriff auf und Aktualisierung Ihrer personenbezogenen Daten</a>
+    -   <a href="#nosharing" class="gweb-smoothscroll-control">Von uns weitergegebene Informationen</a>
+    -   <a href="#infosecurity" class="gweb-smoothscroll-control">Datensicherheit</a>
+    -   <a href="#application" class="gweb-smoothscroll-control">Anwendungsbereich der Datenschutzerklärung</a>
+    -   <a href="#enforcement" class="gweb-smoothscroll-control">Einhaltung von Vorschriften und Zusammenarbeit mit Regulierungsbehörden</a>
+    -   <a href="#policychanges" class="gweb-smoothscroll-control">Änderungen</a>
+    -   <a href="#products" class="gweb-smoothscroll-control">Produktspezifische Praktiken</a>
+    -   <a href="#related" class="gweb-smoothscroll-control">Weitere hilfreiche Informationen zu Datenschutz und Sicherheit</a>
+-   [Rahmen zur Selbstregulierung](../../policies/privacy/frameworks/)
+-   [Wichtige Begriffe](../../policies/privacy/key-terms/)
+-   [Partner](../../policies/privacy/partners/)
+-   [Aktualisierungen](../../policies/privacy/archive/)
+
+Willkommen bei der Datenschutzerklärung von Google
+==================================================
+
+Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser Datenschutzerklärung erfahren Sie, welche Daten von uns erfasst werden, zu welchen Zwecken wir die Daten erfassen und was wir mit den erfassten Daten machen. Da dies wichtig ist, sollten Sie sich die Zeit nehmen, die Datenschutzerklärung sorgfältig zu lesen. Hinweis: Sie finden die Optionen zur Verwaltung Ihrer Daten und zum Schutz Ihrer Privatsphäre und Sicherheit unter [Mein Konto](https://myaccount.google.com/?hl=de).
 
 Datenschutzerklärung
 ====================
+
+Beispiele ausblenden
+
+Beispiele anzeigen
+
+Beispiele ausblenden
+
+Zuletzt geändert am: 17. April 2017 ([archivierte Versionen anzeigen](../../policies/privacy/archive/)) <span id="print-examples-notice">Die verlinkten Beispiele sind unten auf dieser Seite zu finden.</span>
+
+<a href="/intl/de/policies/privacy/google_privacy_policy_de.pdf" class="policy-pdf">PDF-Version herunterladen</a>
 
 Sie können unsere Dienste auf vielfältige Weise nutzen – um Informationen zu suchen und zu teilen, um mit anderen zu kommunizieren oder um neue Inhalte zu erstellen. Wenn Sie uns Informationen mitteilen, zum Beispiel durch Erstellung eines [Google-Kontos](../../policies/privacy/key-terms/#toc-terms-account), können wir damit diese Dienste noch weiter verbessern – indem wir Ihnen <a href="../../policies/privacy/example/more-relevant-search-results.html" id="more-relevant-search-results" class="highlight highlight-unselected">relevantere Suchergebnisse</a> und Werbung anzeigen, Ihnen dabei helfen, <a href="../../policies/privacy/example/connect-with-people.html" id="connect-with-people" class="highlight">mit anderen in Kontakt zu treten</a> oder <a href="../../policies/privacy/example/sharing-with-others.html" id="sharing-with-others" class="highlight">schneller und einfacher Inhalte mit anderen zu teilen</a>. Wir möchten, dass Sie als Nutzer unserer Dienste verstehen, wie wir Informationen nutzen und welche Möglichkeiten Sie haben, um Ihre Daten zu schützen.
 
@@ -12,6 +62,8 @@ In unserer Datenschutzerklärung wird erläutert:
 -   Welche Wahlmöglichkeiten wir anbieten, auch im Hinblick darauf, wie auf Informationen zugegriffen werden kann und wie diese aktualisiert werden können.
 
 Wir haben uns um eine möglichst einfache Darstellung bemüht, wenn Sie jedoch mit Begriffen wie Cookies, IP-Adressen, Pixel-Tags und Browsern nicht vertraut sind, sollten Sie sich zunächst über diese [Schlüsselbegriffe](../../policies/privacy/key-terms/) informieren. Der Schutz Ihrer Daten ist Google wichtig und daher bitten wir Sie, unabhängig davon, ob Sie ein neuer oder langjähriger Nutzer von Google sind, sich die Zeit zu nehmen, um unsere Praktiken kennenzulernen – und wenn Sie dazu Fragen haben sollten, können Sie [uns kontaktieren](https://support.google.com/policies/troubleshooter/2990837?hl=de).
+
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
 
 Von uns erhobene Informationen
 ------------------------------
@@ -37,7 +89,6 @@ Wir erfassen Informationen auf folgende Arten:
         -   [IP-Adresse](../../policies/privacy/key-terms/#toc-terms-ip).
         -   Daten zu Geräteereignissen wie Abstürze, Systemaktivität, Hardware-Einstellungen, Browser-Typ, Browser-Sprache, Datum und Uhrzeit Ihrer Anfrage und Referral-URL.
         -   Cookies, über die Ihr Browser oder Ihr Google-Konto eindeutig identifiziert werden können.
-
     -   **Standortbezogene Informationen**
 
         Wenn Sie Google-Dienste nutzen, <a href="../../policies/privacy/example/may-collect-and-process-information.html" id="may-collect-and-process-information" class="highlight">erfassen und verarbeiten wir möglicherweise Informationen über Ihren tatsächlichen Standort</a>. Wir verwenden zur Standortbestimmung verschiedene Technologien, wie IP-Adressen, GPS <a href="../../policies/privacy/example/sensors.html" id="sensors" class="highlight">und andere Sensoren</a>, die Google beispielsweise Informationen über nahe gelegene Geräte, <a href="../../policies/privacy/example/wifi-access-points-and-cell-towers.html" id="wifi-access-points-and-cell-towers" class="highlight">WLAN-Zugangspunkte oder Mobilfunkmasten</a> bereitstellen.
@@ -55,6 +106,8 @@ Wir erfassen Informationen auf folgende Arten:
         <a href="../../policies/privacy/example/our-partners.html" id="our-partners" class="highlight">Unsere Partner</a> und wir verwenden verschiedene Technologien, um Daten zu erfassen und zu speichern, wenn Sie einen Google-Dienst aufrufen. Hierzu gehören möglicherweise auch [Cookies oder ähnliche Technologien](../../policies/privacy/key-terms/#toc-terms-cookie), mit denen Ihr Browser oder Ihr Gerät identifiziert wird. Darüber hinaus verwenden wir diese Technologien auch zur Erfassung und Speicherung von Daten, wenn Sie mit Diensten interagieren, die Teil unseres Angebots für Partner sind, zum Beispiel <a href="../../policies/privacy/example/advertising-services.html" id="advertising-services" class="highlight">Werbedienste</a> oder auf anderen Websites verfügbare Google-Funktionen. Unser Produkt Google Analytics unterstützt Unternehmen und Websiteinhaber bei der Analyse des Traffics zu ihren Websites und Apps. Bei Verwendung von Google Analytics zusammen mit unseren Werbediensten, z. B. solchen, die das DoubleClick-Cookie nutzen, werden Google Analytics-Daten <a href="../../policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html" id="linked-with-information-about-visits-to-multiple-sites" class="highlight">vom Google Analytics-Kunden oder von Google mithilfe von Google-Technologie mit Daten über Besuche auf mehreren Websites verknüpft</a>.
 
 Die Daten, die wir erfassen, wenn Sie in Ihrem Google-Konto angemeldet sind, und die Daten, die wir von Partnern über Sie erhalten, können mit Ihrem Konto verknüpft werden. Die mit Ihrem Google-Konto verknüpften Daten werden von Google als personenbezogene Daten behandelt. Weitere Informationen dazu, wie Sie die mit Ihrem Google-Konto verknüpften Daten einsehen, verwalten oder löschen können, finden Sie im Abschnitt <a href="#infochoices" class="gweb-smoothscroll-control">Transparenz und Wahlmöglichkeit</a> in dieser Richtlinie.
+
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
 
 Wie wir die von uns erhobenen Informationen nutzen
 --------------------------------------------------
@@ -77,6 +130,8 @@ Bevor wir Informationen zu anderen als den in dieser Datenschutzerklärung aufge
 
 Google verarbeitet personenbezogene Daten auf unseren Servern, die sich in zahlreichen Ländern auf der ganzen Welt befinden. Daher verarbeiten wir Ihre personenbezogenen Daten gegebenenfalls auf einem Server, der sich außerhalb des Landes befindet, in dem Sie leben.
 
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
+
 Transparenz und Wahlmöglichkeit
 -------------------------------
 
@@ -92,10 +147,14 @@ Jeder hat unterschiedliche Bedenken im Hinblick auf den Datenschutz. Unser Ziel 
 
 Sie können Ihren Browser auch so einstellen, dass alle Cookies einschließlich der mit unseren Diensten verknüpften Cookies blockiert werden oder dass eine Meldung angezeigt wird, sobald ein Cookie von uns gesetzt wird. Bedenken Sie jedoch, dass viele unserer Dienste <a href="../../policies/privacy/example/may-not-function-properly.html" id="may-not-function-properly" class="highlight">möglicherweise nicht ordnungsgemäß funktionieren</a>, wenn Sie Cookies bei sich deaktiviert haben. Wir können dann beispielsweise Ihre bevorzugte Spracheinstellung nicht speichern.
 
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
+
 Informationen, die Sie anderen mitteilen
 ----------------------------------------
 
 Viele unserer Dienste erlauben es Ihnen, Informationen mit anderen zu teilen. Bedenken Sie, wenn Sie Informationen öffentlich mitteilen, dass diese Informationen möglicherweise von Suchmaschinen, einschließlich Google, indexiert werden. Unsere Dienste bieten Ihnen verschiedene Möglichkeiten, Ihre Inhalte zu <a href="../../policies/privacy/example/sharing.html" id="sharing" class="highlight">teilen</a> und zu <a href="../../policies/privacy/example/removing-your-content.html" id="removing-your-content" class="highlight">entfernen</a>.
+
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
 
 Zugriff auf und Aktualisierung Ihrer personenbezogenen Daten
 ------------------------------------------------------------
@@ -105,6 +164,8 @@ Wann auch immer Sie unsere Dienste nutzen, sind wir bestrebt, Ihnen <a href="../
 Wir lehnen gegebenenfalls Anfragen ab, die unangemessen oft wiederholt werden, die einen unverhältnismäßigen technischen Aufwand erfordern (beispielsweise die Entwicklung eines neuen Systems oder die grundlegende Änderung einer bestehenden Praxis), die den Schutz personenbezogener Daten Dritter gefährden oder die nur mit extremen Schwierigkeiten praktisch umsetzbar sind (beispielsweise Anfragen zu Daten, die sich in Sicherungssystemen befinden).
 
 Sofern wir den Zugriff auf und die Berichtigung von Daten gewähren können, erfolgt dies grundsätzlich kostenlos, außer in Fällen, in denen dies einen unverhältnismäßigen Aufwand erfordern würde. Wir sind bestrebt, unsere Dienste auf eine Art und Weise bereitzustellen, durch die die Daten vor zufälliger oder mutwilliger Zerstörung geschützt sind. Aus diesem Grund löschen wir möglicherweise verbliebene Vervielfältigungsstücke von Daten, die Sie aus unseren Diensten gelöscht haben, nicht sofort von unseren aktiven Servern und entfernen diese Daten nicht von unseren Sicherungssystemen.
+
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
 
 Von uns weitergegebene Informationen
 ------------------------------------
@@ -145,6 +206,8 @@ Wir geben keine personenbezogenen Daten an Unternehmen, Organisationen oder Pers
 
 Falls Google an einem Unternehmenszusammenschluss, einem Unternehmenserwerb oder einem Verkauf von Vermögensgegenständen beteiligt ist, werden wir weiterhin dafür sorgen, die Vertraulichkeit jeglicher personenbezogener Daten sicherzustellen und wir werden betroffene Nutzer benachrichtigen, bevor personenbezogene Daten übermittelt oder Gegenstand einer anderen Datenschutzerklärung werden.
 
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
+
 Datensicherheit
 ---------------
 
@@ -155,6 +218,8 @@ Wir bemühen uns intensiv darum, Google und unsere Nutzer vor unbefugtem Zugriff
 -   überprüfen wir unsere Praktiken zur Erhebung, Speicherung und Verarbeitung, einschließlich der physischen Sicherheitsmaßnahmen, zum Schutz vor unbefugtem Zugriff auf Systeme.
 -   beschränken wir den Zugriff auf personenbezogene Daten auf Mitarbeiter und Auftragnehmer von Google, die die Daten zwingend kennen müssen, um diese Daten für uns zu verarbeiten, und die strengen Vertraulichkeitsverpflichtungen unterworfen sind und disziplinarischen Maßnahmen unterzogen oder gekündigt werden können, falls sie diese Verpflichtungen nicht einhalten.
 
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
+
 Anwendungsbereich der Datenschutzerklärung
 ------------------------------------------
 
@@ -162,26 +227,47 @@ Unsere Datenschutzerklärung gilt für alle Dienste, die von Google Inc. und den
 
 Unsere Datenschutzerklärung gilt nicht für Dienste, die von anderen Unternehmen oder Personen angeboten werden, einschließlich Produkte oder Webseiten, die Ihnen in Suchergebnissen angezeigt werden, Webseiten, die möglicherweise Google-Dienste beinhalten, oder andere mit unseren Diensten verlinkte Webseiten. Unsere Datenschutzerklärung umfasst nicht den Umgang mit Informationen durch andere Unternehmen oder Organisationen, die unsere Dienste bewerben und gegebenenfalls Cookies, Pixel-Tags und andere Technologien verwenden, um relevante Anzeigen zur Verfügung zu stellen und anzubieten.
 
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
+
 Einhaltung von Vorschriften und Zusammenarbeit mit Regulierungsbehörden
 -----------------------------------------------------------------------
 
 Wir überprüfen die Einhaltung unserer Datenschutzerklärung regelmäßig. Wir erfüllen darüber hinaus mehrere [Rahmenbedingungen zur Selbstregulierung](../../policies/privacy/frameworks/), darunter auch das EU-US Privacy Shield Framework und das Swiss-US Privacy Shield Framework. Sobald wir formale schriftliche Beschwerden erhalten, nehmen wir mit der Person, die die Beschwerde eingereicht hat, zum Zwecke der Bearbeitung der Beschwerde Kontakt auf. Wir arbeiten mit den jeweils zuständigen Regulierungsbehörden einschließlich der lokalen Datenschutzbehörden zusammen, um alle Beschwerden bezüglich der Übermittlung von personenbezogenen Daten zu bearbeiten, die wir nicht mit unseren Nutzern klären können.
+
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
 
 Änderungen
 ----------
 
 Unsere Datenschutzerklärung kann sich von Zeit zu Zeit ändern. Wir werden Ihre Rechte nach dieser Datenschutzerklärung nicht ohne Ihre ausdrückliche Einwilligung einschränken. Alle Änderungen der Datenschutzerklärung werden von uns auf dieser Seite veröffentlicht werden. Falls die Änderungen wesentlich sein sollten, werden wir eine noch deutlichere Benachrichtigung zur Verfügung stellen (einschließlich, im Falle bestimmter Dienste, einer Benachrichtigung per E-Mail über die Änderungen der Datenschutzerklärung). Außerdem werden wir ältere Versionen dieser Datenschutzerklärung zu Ihrer Einsicht in einem Archiv aufbewahren.
 
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
+
 Produktspezifische Praktiken
 ----------------------------
 
 Die folgenden Hinweise erläutern gesonderte Datenschutzpraktiken im Zusammenhang mit bestimmten Google-Produkten und Diensten, die Sie möglicherweise nutzen:
 
+-   [Chrome und Chrome OS](https://www.google.com/chrome/intl/de/privacy.html)
+-   [Play Bücher](https://play.google.com/books/intl/de/privacy.html)
+-   [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=de)
+-   [Fiber](https://fiber.google.com/legal/privacy.html)
+-   [Projekt Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
+-   [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
+
 Weitere Informationen zu einigen der am häufigsten genutzten Google-Dienste erhalten Sie im [Leitfaden zum Datenschutz in Google-Produkten](../../policies/technologies/product-privacy/).
+
+<a href="#content" class="gweb-smoothscroll-control">Zurück nach oben</a>
+
+Weitere hilfreiche Informationen zu Datenschutz und Sicherheit
+--------------------------------------------------------------
 
 Weitere hilfreiche Informationen zu Datenschutz und Sicherheit finden Sie auf den [Seiten zur Datenschutzerklärung und zu den Prinzipien](../../policies/) von Google, darunter:
 
 -   Informationen zu unseren [Technologien und Prinzipien](../../policies/technologies/) mit Details dazu,
+    -   [wie wir Cookies verwenden](../../policies/technologies/cookies/),
+    -   welche Technologien wir für [Werbung](../../policies/technologies/ads/) nutzen und
+    -   wie wir [Muster wie zum Beispiel Gesichter](../../policies/technologies/pattern-recognition/) erkennen.
 -   eine [Seite](../../policies/privacy/partners/), auf der erläutert wird, welche Daten an Google weitergegeben werden, wenn Sie Websites besuchen, die unsere Werbeprodukte, Analysetools und sozialen Produkte verwenden.
 -   den [Privatsphärecheck](https://myaccount.google.com/privacycheckup/1?hl=de), mit dem Sie Ihre wichtigsten Datenschutzeinstellungen einfach überprüfen können.
 -   das [Sicherheitscenter](//www.google.com/intl/de/safetycenter/) von Google, das Informationen dazu bietet, wie Sie sicher im Internet surfen können.
@@ -192,6 +278,7 @@ Weitere hilfreiche Informationen zu Datenschutz und Sicherheit finden Sie auf de
 ------------------------------------------
 
 Zum Beispiel können Sie mit Google Dashboard schnell und einfach einige der Daten einsehen, die mit Ihrem Google-Konto verknüpft sind.
+[Weitere Informationen.](../../policies/privacy/example/access-to-your-personal-information.html)
 
 #### Beispiel
 
@@ -199,6 +286,7 @@ Zum Beispiel können Sie mit Google Dashboard schnell und einfach einige der Dat
 --------------------------------------------
 
 Wenn Sie beispielsweise häufig Websites und Blogs zum Thema Gartenarbeit besuchen, sehen Sie beim Surfen im Web möglicherweise entsprechende Anzeigen.
+[Weitere Informationen.](../../policies/privacy/example/ads-youll-find-most-useful.html)
 
 #### Beispiel
 
@@ -206,6 +294,7 @@ Wenn Sie beispielsweise häufig Websites und Blogs zum Thema Gartenarbeit besuch
 --------------
 
 Wenn Sie zum Beispiel häufig Websites und Blogs zum Thema Gartenarbeit besuchen und dort unsere Anzeigen geschaltet werden, sehen Sie beim Surfen im Web möglicherweise Anzeigen zu diesem Interessengebiet.
+[Weitere Informationen.](../../policies/privacy/example/advertising-services.html)
 
 #### Beispiel
 
@@ -213,6 +302,7 @@ Wenn Sie zum Beispiel häufig Websites und Blogs zum Thema Gartenarbeit besuchen
 ---------------------
 
 Ihr Gerät ist möglicherweise mit Sensoren ausgestattet, die Informationen zur genaueren Bestimmung Ihres Standorts liefern. Beispielsweise kann mithilfe eines Beschleunigungsmessers die Bewegungsgeschwindigkeit und mit einem Gyroskop die Bewegungsrichtung festgestellt werden.
+[Weitere Informationen.](../../policies/privacy/example/sensors.html)
 
 #### Beispiel
 
@@ -220,6 +310,7 @@ Ihr Gerät ist möglicherweise mit Sensoren ausgestattet, die Informationen zur 
 ---------------------------------------
 
 Erfasst werden Informationen wie Nutzungsdaten, Einstellungen, Gmail-Nachrichten, Google+ Profil, Fotos, Videos, Browserverlauf, Kartensuchen, Dokumente oder andere von Google gehostete Inhalte.
+[Weitere Informationen.](../../policies/privacy/example/collect-information.html)
 
 #### Beispiel
 
@@ -227,6 +318,7 @@ Erfasst werden Informationen wie Nutzungsdaten, Einstellungen, Gmail-Nachrichten
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Wenn Sie zum Beispiel in Ihrem Google-Konto angemeldet sind und eine Suche auf Google durchführen, erscheinen neben Suchergebnissen aus dem öffentlichen Web auch Seiten, Fotos und Google+ Beiträge von Freunden.
+[Weitere Informationen.](../../policies/privacy/example/combine-personal-information.html)
 
 #### Beispiel
 
@@ -234,6 +326,7 @@ Wenn Sie zum Beispiel in Ihrem Google-Konto angemeldet sind und eine Suche auf G
 ----------------------------------
 
 Zum Beispiel könnten Sie Empfehlungen für Personen auf Google+ erhalten, die Sie vielleicht kennen oder mit denen Sie möglicherweise in Kontakt treten möchten. Diese Empfehlungen basieren auf persönlichen Verbindungen aus anderen Google-Produkten wie Gmail. Und den Personen, die mit Ihnen in Verbindung stehen, wird möglicherweise Ihr Profil vorgeschlagen.
+[Weitere Informationen.](../../policies/privacy/example/connect-with-people.html)
 
 #### Beispiel
 
@@ -241,6 +334,7 @@ Zum Beispiel könnten Sie Empfehlungen für Personen auf Google+ erhalten, die S
 --------------------
 
 Obwohl zurzeit im Rahmen der Registrierung keine Kreditkartennummer erforderlich ist, lässt sich anhand einer kleinen Kreditkartentransaktion bestätigen, dass Sie die Altersanforderungen erfüllen. Dieser Schritt kann dann erforderlich werden, wenn Ihr Konto nach der Eingabe eines Geburtsdatums deaktiviert wurde, das nicht dem Mindestalter für die Erstellung eines Google-Kontos entspricht.
+[Weitere Informationen.](../../policies/privacy/example/credit-card.html)
 
 #### Beispiel
 
@@ -248,6 +342,7 @@ Obwohl zurzeit im Rahmen der Registrierung keine Kreditkartennummer erforderlich
 ---------------------------
 
 Zum Beispiel wurde die Software für die Rechtschreibprüfung von Google durch die Analyse vorangehender Suchen entwickelt, bei denen Nutzer ihre eigene Rechtschreibung korrigiert hatten.
+[Weitere Informationen.](../../policies/privacy/example/develop-new-ones.html)
 
 #### Beispiel
 
@@ -255,6 +350,7 @@ Zum Beispiel wurde die Software für die Rechtschreibprüfung von Google durch d
 -----------------
 
 Anhand von Gerätekennungen kann Google feststellen, welches konkrete Gerät Sie für den Zugriff auf unsere Dienste verwenden. Damit können wir etwa unseren Dienst auf Ihr Gerät anpassen oder Geräteprobleme im Zusammenhang mit unseren Diensten analysieren.
+[Weitere Informationen.](../../policies/privacy/example/device-identifiers.html)
 
 #### Beispiel
 
@@ -262,6 +358,7 @@ Anhand von Gerätekennungen kann Google feststellen, welches konkrete Gerät Sie
 ---------------------------------
 
 Wenn Sie zum Beispiel Google Play über Ihren Desktop-Computer aufrufen, kann Google Ihnen anhand dieser Information Entscheidungshilfen zu der Frage geben, auf welchen Geräten Ihre gekauften Inhalte lauffähig sein sollen.
+[Weitere Informationen.](../../policies/privacy/example/device-specific-information.html)
 
 #### Beispiel
 
@@ -269,6 +366,7 @@ Wenn Sie zum Beispiel Google Play über Ihren Desktop-Computer aufrufen, kann Go
 -------------------------------------
 
 Zum Beispiel können wir anhand von Cookies analysieren, wie Nutzer mit unseren Diensten interagieren.
+[Weitere Informationen.](../../policies/privacy/example/improve-your-user-experience.html)
 
 #### Beispiel
 
@@ -276,6 +374,7 @@ Zum Beispiel können wir anhand von Cookies analysieren, wie Nutzer mit unseren 
 ---------------------------------------------------------------------------------------------------------
 
 Wie andere Technologie- und Kommunikationsunternehmen auch erhält Google regelmäßig Anfragen von staatlichen Behörden und Gerichten auf der ganzen Welt, in denen wir zur Herausgabe von Nutzerdaten aufgefordert werden. Unsere Rechtsabteilung prüft jede einzelne Anfrage unabhängig von ihrer Art. Häufig werden Anfragen abgelehnt, die zu allgemein gehalten sind oder bei denen die korrekte Vorgehensweise nicht beachtet wurde.
+[Weitere Informationen.](../../policies/privacy/example/legal-process.html)
 
 #### Beispiel
 
@@ -283,6 +382,7 @@ Wie andere Technologie- und Kommunikationsunternehmen auch erhält Google regelm
 ------------------------------------------
 
 Sie können zum Beispiel einstellen, dass Ihr Name und Ihr Profilbild nicht in Anzeigen erscheinen.‌‍⁢⁡⁠‮‎⁣
+[Weitere Informationen.](../../policies/privacy/example/limit-sharing-or-visibility-settings.html)
 
 #### Beispiel
 
@@ -290,6 +390,7 @@ Sie können zum Beispiel einstellen, dass Ihr Name und Ihr Profilbild nicht in A
 --------------------------------------------------------
 
 Google Analytics basiert auf Erstanbieter-Cookies. Über Google Analytics generierte Daten können vom Google Analytics-Kunden beziehungsweise von Google mithilfe von Google-Technologie mit Drittanbieter-Cookies verknüpft werden, die im Zusammenhang mit Besuchen auf anderen Websites stehen, beispielsweise wenn ein Werbetreibender seine Google Analytics-Daten zur Erstellung relevanterer Anzeigen nutzen oder seinen Traffic genauer analysieren möchte.
+[Weitere Informationen.](../../policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html)
 
 #### Beispiel
 
@@ -297,6 +398,7 @@ Google Analytics basiert auf Erstanbieter-Cookies. Über Google Analytics generi
 ---------
 
 Wir überprüfen beispielsweise fortlaufend, ob unsere Systeme ordnungsgemäß funktionieren, sodass Fehler erkannt und behoben werden können.
+[Weitere Informationen.](../../policies/privacy/example/maintain-services.html)
 
 #### Beispiel
 
@@ -304,6 +406,7 @@ Wir überprüfen beispielsweise fortlaufend, ob unsere Systeme ordnungsgemäß f
 ---------------------------------------------------------------------------------------------
 
 Google Maps beispielsweise kann die Kartenansicht auf Ihren aktuellen Standort zentrieren.
+[Weitere Informationen.](../../policies/privacy/example/may-collect-and-process-information.html)
 
 #### Beispiel
 
@@ -311,6 +414,7 @@ Google Maps beispielsweise kann die Kartenansicht auf Ihren aktuellen Standort z
 --------------------------------------------------
 
 Wir verwenden beispielsweise ein Cookie namens "lbcs", mit dessen Hilfe sich eine große Zahl von Google Docs-Dokumenten in einem einzigen Browser öffnen lässt.
+[Weitere Informationen.](../../policies/privacy/example/may-not-function-properly.html)
 
 #### Beispiel
 
@@ -318,6 +422,7 @@ Wir verwenden beispielsweise ein Cookie namens "lbcs", mit dessen Hilfe sich ein
 ----------------
 
 Wir gestatten vertrauenswürdigen Unternehmen, Cookies oder ähnliche Technologien zu Werbe- und Forschungszwecken in unseren Diensten zu verwenden.
+[Weitere Informationen.](../../policies/privacy/example/our-partners.html)
 
 #### Beispiel
 
@@ -325,6 +430,7 @@ Wir gestatten vertrauenswürdigen Unternehmen, Cookies oder ähnliche Technologi
 ---------------
 
 Wenn Sie zum Beispiel eine Telefonnummer als Wiederherstellungsoption angeben, kann Google Ihnen, falls Sie einmal Ihr Passwort vergessen haben, eine SMS mit einem Code senden, um das Passwort zurückzusetzen.
+[Weitere Informationen.](../../policies/privacy/example/phone-number.html)
 
 #### Beispiel
 
@@ -332,6 +438,7 @@ Wenn Sie zum Beispiel eine Telefonnummer als Wiederherstellungsoption angeben, k
 --------------------------------------
 
 Wenn Sie zum Beispiel die Sorge haben, dass jemand unautorisiert auf Ihre E-Mails zugegriffen hat, können Sie unter "Letzte Kontoaktivität" in Gmail Informationen zu den letzten Aktivitäten in Ihrem Posteingang einsehen, etwa die IP-Adressen, über die auf Ihre E-Mails zugegriffen wurde, und wo und wann der Zugriff erfolgt ist.
+[Weitere Informationen.](../../policies/privacy/example/protect-google-and-our-users.html)
 
 #### Beispiel
 
@@ -339,6 +446,7 @@ Wenn Sie zum Beispiel die Sorge haben, dass jemand unautorisiert auf Ihre E-Mail
 --------
 
 Zum Beispiel ist ein Grund für die Erfassung und Auswertung von IP-Adressen, dass wir dadurch unsere Dienste vor Missbrauch durch automatisierte Mechanismen schützen.
+[Weitere Informationen.](../../policies/privacy/example/protect-services.html)
 
 #### Beispiel
 
@@ -346,6 +454,7 @@ Zum Beispiel ist ein Grund für die Erfassung und Auswertung von IP-Adressen, da
 ----------------
 
 Beispielsweise werden anhand der IP-Adresse, die Ihrem Gerät zugewiesen ist, die von Ihnen angeforderten Daten zurück an Ihr Gerät gesendet.
+[Weitere Informationen.](../../policies/privacy/example/provide-services.html)
 
 #### Beispiel
 
@@ -353,6 +462,7 @@ Beispielsweise werden anhand der IP-Adresse, die Ihrem Gerät zugewiesen ist, di
 --------
 
 Bei Google+ etwa haben Sie viele verschiedene Optionen zum Teilen.
+[Weitere Informationen.](../../policies/privacy/example/sharing.html)
 
 #### Beispiel
 
@@ -360,6 +470,7 @@ Bei Google+ etwa haben Sie viele verschiedene Optionen zum Teilen.
 -------------------------------------------------------
 
 Wenn sich jemand bereits in Ihrer Kontaktliste befindet, vervollständigt Google den Namen automatisch, wenn Sie ihn in Gmail als E-Mail-Empfänger hinzufügen.
+[Weitere Informationen.](../../policies/privacy/example/sharing-with-others.html)
 
 #### Beispiel
 
@@ -367,6 +478,7 @@ Wenn sich jemand bereits in Ihrer Kontaktliste befindet, vervollständigt Google
 ------------------------------------------------
 
 Wenn Sie zum Beispiel beim Schreiben einer E-Mail eine Adresse in das Feld "Empfänger", "Cc" oder "Bcc" eingeben, schlägt Ihnen Gmail Adressen aus Ihrer Kontaktliste vor.
+[Weitere Informationen.](../../policies/privacy/example/the-people-who-matter-most.html)
 
 #### Beispiel
 
@@ -374,6 +486,7 @@ Wenn Sie zum Beispiel beim Schreiben einer E-Mail eine Adresse in das Feld "Empf
 ------------------------------------------------------------------------------------------
 
 Wenn Sie zum Beispiel mit jemandem über Gmail kommuniziert haben und diese Person zu einem Google Docs-Dokument oder einem Termin in Google Kalender hinzufügen möchten, wird die E-Mail-Adresse automatisch vervollständigt, sobald Sie mit der Eingabe des Namens beginnen.
+[Weitere Informationen.](../../policies/privacy/example/to-make-it-easier-to-share.html)
 
 #### Beispiel
 
@@ -381,6 +494,7 @@ Wenn Sie zum Beispiel mit jemandem über Gmail kommuniziert haben und diese Pers
 ------------------------------------------------------------------
 
 Zum Beispiel teilen wir den Werbetreibenden regelmäßig mit, ob ihre Anzeige auf einer Seite geschaltet wurde und ob sich Nutzer diese Anzeige wahrscheinlich angesehen haben oder ob sie sich z. B. auf einem Teil der Seite befunden hat, den die Nutzer nicht auf den Bildschirm gescrollt haben.
+[Weitere Informationen.](../../policies/privacy/example/view-and-interact-with-our-ads.html)
 
 #### Beispiel
 
@@ -388,6 +502,7 @@ Zum Beispiel teilen wir den Werbetreibenden regelmäßig mit, ob ihre Anzeige au
 -------------------------------------------
 
 Wenn viele Nutzer nach etwas Bestimmtem suchen, kann dies Aufschluss über herrschende Trends geben.
+[Weitere Informationen.](../../policies/privacy/example/we-may-share.html)
 
 #### Beispiel
 
@@ -395,6 +510,7 @@ Wenn viele Nutzer nach etwas Bestimmtem suchen, kann dies Aufschluss über herrs
 -----------------------------------------
 
 Google kann beispielsweise den ungefähren Standort Ihres Geräts anhand des bekannten Standorts nahe gelegener Mobilfunkmasten ermitteln.
+[Weitere Informationen.](../../policies/privacy/example/wifi-access-points-and-cell-towers.html)
 
 #### Beispiel
 
@@ -402,13 +518,67 @@ Google kann beispielsweise den ungefähren Standort Ihres Geräts anhand des bek
 ----------------------------
 
 Zum Beispiel können wir die Suche für Sie relevanter und interessanter gestalten, indem wir Fotos, Beiträge und mehr von Ihnen und Ihren Freunden anbieten.
+[Weitere Informationen.](../../policies/privacy/example/more-relevant-search-results.html)
+
+#### Beispiel
+
+"entfernen"
+-----------
+
+Zum Beispiel können Sie Ihre [Web- & App-Aktivitäten](//support.google.com/websearch/answer/465?hl=de), [Ihren Blog](//support.google.com/blogger/answer/41387?hl=de), [eine Google-Website, deren Inhaber Sie sind](//support.google.com/sites/answer/90598?hl=de), [Ihren YouTube-Kanal](//support.google.com/youtube/answer/55759?hl=de), [Ihr Google+ Profil](//support.google.com/plus/answer/1044503?hl=de) oder [Ihr gesamtes Google-Konto](//support.google.com/accounts/answer/32046?hl=de) löschen.
+[Weitere Informationen.](../../policies/privacy/example/removing-your-content.html)
+
+#### Beispiel
+
+"Trends"
+--------
+
+Einige dieser Trends finden Sie bei [Google Trends](//www.google.com/trends/?hl=de) und den [angesagten YouTube-Videos](//www.youtube.com/trending).
+[Weitere Informationen.](../../policies/privacy/example/to-show-trends.html)
 
 #### Beispiel
 
 "Ihre Aktivitäten auf anderen Websites und in Apps"
 ---------------------------------------------------
 
-Die Aktivitäten, auf die sich die Anfragen beziehen, können von Ihrer Nutzung von Google-Produkten wie der Chrome-Synchronisierung oder von Ihren Besuchen der Websites und Apps von Google-Partnern herrühren. Viele Websites und Apps arbeiten bei der Verbesserung ihrer Inhalte und Dienste mit Google zusammen. Beispielsweise können Websites unsere Werbedienste wie AdSense oder Analysetools wie Google Analytics verwenden. Diese Produkte geben Daten über Ihre Aktivitäten an Google weiter. Je nach
+Die Aktivitäten, auf die sich die Anfragen beziehen, können von Ihrer Nutzung von Google-Produkten wie der Chrome-Synchronisierung oder von Ihren Besuchen der Websites und Apps von Google-Partnern herrühren. Viele Websites und Apps arbeiten bei der Verbesserung ihrer Inhalte und Dienste mit Google zusammen. Beispielsweise können Websites unsere Werbedienste wie AdSense oder Analysetools wie Google Analytics verwenden. Diese Produkte geben Daten über Ihre Aktivitäten an Google weiter. Je nach [Ihren Kontoeinstellungen](//myaccount.google.com/?hl=de) und den verwendeten Produkten können diese Daten mit Ihren personenbezogenen Daten verknüpft werden, zum Beispiel wenn ein Partner Google Analytics in Verbindung mit unseren Werbediensten verwendet.
+[Weitere Informationen.](../../policies/privacy/example/your-activity-on-other-sites-and-apps.html)
 
-[Ihren Kontoeinstellungen](//myaccount.google.com/?hl=de)
-und den verwendeten Produkten können diese Daten mit Ihren personenbezogenen Daten verknüpft werden, zum Beispiel wenn ein Partner Google Analytics in Verbindung mit unseren Werbediensten verwendet.
+Ihre personenbezogenen Daten sind bei uns sicher und geschützt ‒ und Sie behalten die Kontrolle darüber.
+--------------------------------------------------------------------------------------------------------
+
+[Weitere Informationen zu unserem Engagement für Datenschutz und Sicherheit](https://privacy.google.com/?hl=de)
+
+### Unsere rechtlichen Richtlinien
+
+-   Datenschutzerklärung
+-   [Nutzungsbedingungen](../../policies/terms/)
+-   [Häufig gestellte Fragen](../../policies/faq/)
+
+### Weitere Informationen
+
+-   [Technologien und Prinzipien](../../policies/technologies/)
+-   [Werbung](../../policies/technologies/ads/)
+-   [So verwendet Google Cookies](../../policies/technologies/cookies/)
+-   [Einsatz der Mustererkennung durch Google](../../policies/technologies/pattern-recognition/)
+-   [Von Google verwendete Standortdaten](../../policies/technologies/location-data/)
+
+-   [Verwendung von Kreditkartennummern durch Google Wallet](../../policies/technologies/wallet/)
+-   [Funktionsweise von Google Voice](../../policies/technologies/voice/)
+-   [Datennutzung durch Google bei Ihrer Nutzung von Websites oder Apps unserer Partner](../../policies/privacy/partners/)
+
+### Zusätzliche Ressourcen
+
+-   [Mein Konto](https://myaccount.google.com?hl=de)
+-   [Google Sicherheitscenter](../../safetycenter/families/start/)
+-   [Leitfaden zum Datenschutz in Google-Produkten](../../policies/technologies/product-privacy/)
+-   [Datenschutz, Sicherheit und Kontrolle](https://privacy.google.com?hl=de)
+
+<span>Sprache ändern:</span> Afrikaans Bahasa Indonesia Bahasa Melayu Català Čeština Dansk Deutsch Eesti English English (United Kingdom) Español Español (Latinoamérica) Euskara Filipino Français Français (Canada) Galego Hrvatski Isizulu Íslenska Italiano Kiswahili Latviešu Lietuvių Magyar Nederlands Norsk Polski Português (Brasil) Português (Portugal) Română Slovenčina Slovenščina Suomi Svenska Tiếng Việt Türkçe Ελληνικά Български Русский Српски Українська ‫עברית‬ ‫اردو‬ ‫العربية‬ ‫فارسی‬ አማርኛ मराठी हिन्दी বাংলা ગુજરાતી தமிழ் తెలుగు ಕನ್ನಡ മലയാളം ไทย 한국어 中文 (香港) 中文（简体中文） 中文（繁體中文） 日本語
+
+-   [Google](/)
+-   [Über Google](/intl/de/about/)
+-   [Datenschutz](/intl/de/policies/privacy/)
+-   [Nutzungsbedingungen](/intl/de/policies/terms/)
+
+

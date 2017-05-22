@@ -1,4 +1,323 @@
-https://spiegel.de/dienste/a-639126.html
+http://www.spiegel.de/meinspiegel/artikel/a-703602.html#a_datenschutz
+
+![](https://count.spiegel.de/nm_trck.gif?sp.site=9999)
+
+** <a href="/meinspiegel/" class="current-channel-name">Mein SPIEGEL</a>
+
+-   <a href="/" class="logo-spon"></a>
+-   <a href="/spiegel/" class="logo-der-spiegel"></a>
+-   <a href="/sptv/" class="logo-spiegel-tv"></a>
+
+**
+<a href="/meinspiegel/" class="button">Mein SPIEGEL</a>
+
+-   [Schlagzeilen](/schlagzeilen/) <span>ǀ</span>
+-   **[Wetter](/wetter/)<span>ǀ</span>
+-   DAX [12.638,69](http://boersen.manager-magazin.de/mm/kurse_einzelkurs_uebersicht.htn?i=159096)<span>ǀ</span>
+-   [TV-Programm](http://tvprogramm.spiegel.de/)<span>ǀ</span>
+-   [Abo](http://abo.spiegel.de/?b=SPOHNAVABO&utm_source=spon&utm_medium=text&utm_content=SPOHNAVABO&utm_campaign=navigationsleiste)
+
+** <a href="/meinspiegel/" class="current-channel-name">Mein SPIEGEL</a>
+
+**
+-   <a href="/" class="header-logo-spon">Nachrichten</a>
+-   [Schlagzeilen](/schlagzeilen/)
+
+<!-- -->
+
+-   [Nachrichtenarchiv](/nachrichtenarchiv/)
+-   [Newsletter](/dienste/a-902432.html)
+-   [RSS](/dienste/a-634260.html)
+-   [Mobil](/dienste/a-634549.html)
+-   <span class="with-sub-ul">mehr</span>
+    -   
+
+    -   [Story](/story/)
+    -   [Fotostrecken](/fotostrecken/)
+    -   [Infografiken](/multimedia/)
+    -   [Hilfe](/artikel/a-1040308.html)
+    -   [Impressum](/impressum)
+
+-   <a href="/politik/" class="with-sub-ul">Politik</a>
+    -   -   
+
+        -   [Übersicht](/politik/)
+        -   [Deutschland](/politik/deutschland/ "Deutschland")
+        -   [Ausland](/politik/ausland/ "Ausland")
+        -   [Europa](http://www.spiegel.de/thema/eu/ "Europa")
+        -   [Meinung](http://www.spiegel.de/thema/meinung/ "Meinung")
+
+    -   
+
+-   [Meinung](/meinung/)
+-   <a href="/wirtschaft/" class="with-sub-ul">Wirtschaft</a>
+    -   -   
+
+        -   [Übersicht](/wirtschaft/)
+        -   [Börse](http://boersen.manager-magazin.de/spon/ "Börse")
+        -   [Verbraucher & Service](/wirtschaft/service/ "Verbraucher & Service")
+        -   [Versicherungen](/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html "Versicherungen")
+        -   [Unternehmen & Märkte](/wirtschaft/unternehmen/ "Unternehmen & Märkte")
+        -   [Staat & Soziales](/wirtschaft/soziales/ "Staat & Soziales")
+        -   [Mittelstand](http://www.spiegel.de/thema/mittelstand/ "Mittelstand")
+
+    -   -   
+
+        -   [Brutto-Netto-Rechner](/wirtschaft/service/brutto-netto-rechner-was-von-lohn-und-gehalt-uebrig-bleibt-a-223811.html)
+        -   [Jobsuche](http://ad8.adfarm1.adition.com/redi?sid=3076401&kid=1213066&bid=3962693 "Anzeige")
+        -   [Immowelt](http://ad8.adfarm1.adition.com/redi?sid=3076393&kid=1213025&bid=3962018 "Anzeige")
+        -   [Tarifvergleiche](http://ad8.adfarm1.adition.com/redi?sid=3076396&kid=2001839&bid=6830716 "Anzeige")
+
+-   <a href="/panorama/" class="with-sub-ul">Panorama</a>
+    -   -   
+
+        -   [Übersicht](/panorama/)
+        -   [Justiz](/panorama/justiz/ "Justiz")
+        -   [Leute](/panorama/leute/ "Leute")
+        -   [Gesellschaft](/panorama/gesellschaft/ "Gesellschaft")
+        -   [Multimedia-Reportagen](http://www.spiegel.de/story/ "Multimedia-Reportagen")
+        -   [Elterncouch](http://www.spiegel.de/thema/elterncouch/ "Elterncouch")
+
+    -   -   
+
+        -   [LOTTO 6aus49](http://ad8.adfarm1.adition.com/redi?sid=3098101&kid=1896229&bid=6478263 "Anzeige")
+        -   [Eurojackpot](http://ad8.adfarm1.adition.com/redi?sid=3076398&kid=1896208&bid=6478218 "Anzeige")
+
+-   <a href="/sport/" class="with-sub-ul">Sport</a>
+    -   -   
+
+        -   [Übersicht](/sport/)
+        -   [Fußball-Liveticker](/sport/fussball/fussball-live-liveticker-tabellen-und-statistiken-a-839944.html "Fußball-Liveticker")
+        -   [Fußball-News](/sport/fussball/ "Fußball-News")
+        -   [Champions League](/sport/fussball/champions-league-live-ticker-spielplan-ergebnisse-tabelle-a-851014.html "Champions League")
+        -   [Fußball-Tippspiel](http://tippspiel.spiegel.de "Fußball-Tippspiel")
+        -   [Formel 1](/sport/formel1/ "Formel 1")
+        -   [Formel-1-Liveticker](/sport/formel1/formel-1-live-ticker-ergebnisse-termine-fahrer-teams-a-958409.html "Formel-1-Liveticker")
+        -   [Ergebnisse](http://sportal.spiegel.de/spiegel/ergebnisse/ "Ergebnisse")
+        -   [Live-Kalender](http://sportal.spiegel.de/spiegel/liveticker/ "Live-Kalender")
+
+    -   -   
+
+        -   [<span>Bundesliga</span> präsentiert von
+            Continental](http://ad8.adfarm1.adition.com/redi?sid=3213806&kid=1730455&bid=5921750 "Anzeige")
+
+-   <a href="/kultur/" class="with-sub-ul">Kultur</a>
+    -   -   
+
+        -   [Übersicht](/kultur/)
+        -   [Kino](/kultur/kino/ "Kino")
+        -   [Musik](/kultur/musik/ "Musik")
+        -   [TV](/kultur/tv/ "TV")
+        -   [Literatur](/kultur/literatur/ "Literatur")
+        -   [Gutenberg](http://gutenberg.spiegel.de "Gutenberg")
+        -   [Bestseller](/kultur/bestseller-buecher-belletristik-sachbuch-auf-spiegel-liste-a-458623.html "Bestseller")
+        -   [Buchrezensionen](http://www.spiegel.de/thema/buchrezensionen/ "Buchrezensionen")
+
+    -   -   
+
+        -   [Hörbücher](http://ad8.adfarm1.adition.com/redi?sid=3780444&kid=1926582&bid=6578510 "Anzeige")
+
+-   [Video](/video/)
+-   <a href="/netzwelt/" class="with-sub-ul">Netzwelt</a>
+    -   -   
+
+        -   [Übersicht](/netzwelt/)
+        -   [Netzpolitik](/netzwelt/netzpolitik/ "Netzpolitik")
+        -   [Web](/netzwelt/web/ "Web")
+        -   [Gadgets](/netzwelt/gadgets/ "Gadgets")
+        -   [Games](/netzwelt/games/ "Games")
+        -   [Apps](/netzwelt/apps/ "Apps")
+
+    -   
+
+-   <a href="/wissenschaft/" class="with-sub-ul">Wissenschaft</a>
+    -   -   
+
+        -   [Übersicht](/wissenschaft/)
+        -   [Mensch](/wissenschaft/mensch/ "Mensch")
+        -   [Natur](/wissenschaft/natur/ "Natur")
+        -   [Technik](/wissenschaft/technik/ "Technik")
+        -   [Weltall](/wissenschaft/weltall/ "Weltall")
+        -   [Medizin](/wissenschaft/medizin/ "Medizin")
+        -   [Datenlese](http://www.spiegel.de/thema/daten/ "Datenlese")
+        -   [ÜberMorgen](/wissenschaft/uebermorgen/ "ÜberMorgen")
+
+    -   -   
+
+        -   [Sudoku](/wissenschaft/mensch/sudoku-online-kostenlos-spielen-a-994416.html)
+        -   [Kenken](/wissenschaft/mensch/kenken-kostenlos-online-spielen-a-994418.html)
+        -   [Street](/wissenschaft/mensch/zahlenraetsel-street-online-und-kostenlos-spielen-a-994419.html)
+
+<!-- -->
+
+-   <a href="/gesundheit/" class="with-sub-ul">Gesundheit</a>
+    -   -   
+
+        -   [Übersicht](/gesundheit/)
+        -   [Diagnose & Therapie](/gesundheit/diagnose/ "Diagnose & Therapie")
+        -   [Ernährung & Fitness](/gesundheit/ernaehrung/ "Ernährung & Fitness")
+        -   [Psychologie](/gesundheit/psychologie/ "Psychologie")
+        -   [Sex & Partnerschaft](/gesundheit/sex/ "Sex & Partnerschaft")
+        -   [Schwangerschaft & Kind](/gesundheit/schwangerschaft/ "Schwangerschaft & Kind")
+
+    -   -   [BMI-Rechner](/gesundheit/ernaehrung/bmi-rechner-so-ermitteln-sie-ihren-body-mass-index-a-824673.html)
+        -   [Kalorienrechner](/gesundheit/ernaehrung/kalorienrechner-so-ermitteln-sie-ihren-optimalen-kalorienverbrauch-a-832713.html)
+        -   [Arztsuche](http://ad8.adfarm1.adition.com/redi?sid=3088031&kid=1214230&bid=3966013 "Anzeige")
+
+-   <a href="/einestages/" class="with-sub-ul">einestages</a>
+    -   -   
+
+        -   [Übersicht](/einestages/)
+        -   [Zeitzeugen](/einestages/thema/zeitzeugen/ "Zeitzeugen")
+        -   [Erster Weltkrieg](/einestages/thema/erster_weltkrieg/ "Erster Weltkrieg")
+        -   [Zweiter Weltkrieg](http://www.spiegel.de/einestages/thema/zweiter_weltkrieg/ "Zweiter Weltkrieg")
+        -   [DDR](http://www.spiegel.de/einestages/thema/ddr/ "DDR")
+        -   [Fotografie](http://www.spiegel.de/einestages/thema/fotografie/ "Fotografie")
+        -   [Film](http://www.spiegel.de/einestages/thema/film/ "Film")
+        -   [Musik](http://www.spiegel.de/einestages/thema/musik/ "Musik")
+        -   [Archiv](http://www.spiegel.de/einestages/archiv.html "Archiv")
+
+-   [KarriereSPIEGEL](/karriere/)
+-   <a href="/lebenundlernen/" class="with-sub-ul">Leben und Lernen</a>
+    -   -   
+
+        -   [Übersicht](/lebenundlernen/)
+        -   [Schule](/lebenundlernen/schule/ "Schule")
+        -   [Uni](/lebenundlernen/uni/ "Uni")
+        -   [Job](/lebenundlernen/job/ "Job")
+
+-   [bento](/bento/)
+-   <a href="/reise/" class="with-sub-ul">Reise</a>
+    -   -   
+
+        -   [Übersicht](/reise/)
+        -   [Städtereisen](/reise/staedte/ "Städtereisen")
+        -   [Deutschland](/reise/deutschland/ "Deutschland")
+        -   [Europa](/reise/europa/ "Europa")
+        -   [Fernweh](/reise/fernweh/ "Fernweh")
+        -   [Skiatlas](http://schneeundmehr.spiegel.de/ "Skiatlas")
+
+    -   -   
+
+        -   [Deals der Woche](http://ad8.adfarm1.adition.com/redi?sid=3826899&kid=1991618&bid=6797068 "Anzeige")
+
+-   <a href="/auto/" class="with-sub-ul">Auto</a>
+    -   -   
+
+        -   [Übersicht](/auto/)
+        -   [Tests](/auto/fahrberichte/ "Tests")
+        -   [Fahrkultur](/auto/fahrkultur/ "Fahrkultur")
+
+    -   -   
+
+        -   [Kfz-Versicherung](http://ad8.adfarm1.adition.com/redi?sid=3076396&kid=2001780&bid=6830667 "Anzeige")
+
+-   <a href="/stil/" class="with-sub-ul">Stil</a>
+    -   -   
+
+        -   [Übersicht](/stil/)
+        -   [Design](http://www.spiegel.de/thema/stil_design/ "Design")
+        -   [Mode](http://www.spiegel.de/thema/stil_mode/ "Mode")
+        -   [Kochen](http://www.spiegel.de/thema/stil_kochen/ "Kochen")
+        -   [Reisen](http://www.spiegel.de/thema/stil_reisen/ "Reisen")
+        -   [Hotels](http://www.spiegel.de/thema/stil_hotels/ "Hotels")
+
+    -   
+
+-   <a href="/international/" class="with-sub-ul">English</a>
+    -   -   
+
+        -   [Front Page](/international/)
+        -   [World](/international/world/ "World")
+        -   [Europe](/international/europe/ "Europe")
+        -   [Germany](/international/germany/ "Germany")
+        -   [Business](/international/business/ "Business")
+        -   [Zeitgeist](/international/zeitgeist/ "Zeitgeist")
+        -   [BeyondTomorrow](/international/tomorrow/ "BeyondTomorrow")
+        -   [Newsletter](/international/a-1072062.html "Newsletter")
+
+<!-- -->
+
+-   <a href="/spiegelplus/" class="with-sub-ul">SPIEGEL Plus</a>
+    -   -   
+
+        -   [Übersicht](/spiegelplus/)
+        -   [SPIEGEL Plus Deutschland](/spiegelplus/deutschland/ "SPIEGEL Plus Deutschland")
+        -   [SPIEGEL Plus Wirtschaft](/spiegelplus/wirtschaft/ "SPIEGEL Plus Wirtschaft")
+        -   [SPIEGEL Plus Gesellschaft](/spiegelplus/gesellschaft/ "SPIEGEL Plus Gesellschaft")
+        -   [SPIEGEL Plus Ausland](/spiegelplus/ausland/ "SPIEGEL Plus Ausland")
+        -   [SPIEGEL Plus Sport](/spiegelplus/sport/ "SPIEGEL Plus Sport")
+        -   [SPIEGEL Plus Wissenschaft](/spiegelplus/wissenschaft/ "SPIEGEL Plus Wissenschaft")
+        -   [SPIEGEL Plus Kultur](/spiegelplus/kultur/ "SPIEGEL Plus Kultur")
+
+-   [DER SPIEGEL live](/spiegellive/)
+-   <span class="with-sub-ul">DER SPIEGEL</span>
+    -   
+
+    -   [<span class="nav-channel-sub-entry"> **DER SPIEGEL
+        (digitales Magazin)** </span>](/spiegel/)
+    -   [<span class="nav-channel-sub-entry">Titelbilder & Heftarchive</span>](/spiegel/print/)
+    -   [<span class="nav-channel-sub-entry">Abo-Angebote</span>](http://abo.spiegel.de/?b=SPOHNAVABO&utm_source=spon&utm_medium=text&utm_content=SPOHNAVABO&utm_campaign=navigationsleiste)
+    -   [<span class="nav-channel-sub-entry">Shop</span>](/shop/)
+    -   [<span class="nav-channel-sub-entry">SPIEGELblog</span>](/thema/spiegelblog/)
+
+-   <a href="/sptv/" class="with-sub-ul">SPIEGEL TV</a>
+    -   -   
+
+        -   [Übersicht](/sptv/)
+        -   [SPIEGEL TV Magazin](/sptv/magazin/ "SPIEGEL TV Magazin")
+        -   [SPIEGEL TV Reportage](/sptv/reportage/ "SPIEGEL TV Reportage")
+        -   [SPIEGEL TV Programm](/sptv/programm/ "SPIEGEL TV Programm")
+        -   [SPIEGEL.TV](http://www.spiegel.tv "SPIEGEL.TV")
+
+-   <a href="/forum/" class="with-sub-ul">Forum</a>
+    -   -   
+
+        -   [Übersicht](/forum/)
+        -   [Votes](/forum/votes/a-589480.html "Votes")
+        -   [Netiquette](/extra/spon-forum-so-wollen-wir-debattieren-a-1032920.html "Netiquette")
+
+-   [Themen](/thema/)
+-   <span class="with-sub-ul">Service</span>
+    -   
+
+    -   [<span class="nav-channel-sub-entry">Wetter</span>](http://wetter.spiegel.de/)
+    -   [<span class="nav-channel-sub-entry">Börse</span>](http://boersen.manager-magazin.de)
+    -   [<span class="nav-channel-sub-entry">TV-Programm</span>](http://tvprogramm.spiegel.de/)
+    -   [<span class="nav-channel-sub-entry">Benzinpreis</span>](/auto/aktuell/benzinpreisvergleich-die-guenstigste-tankstelle-in-ihrer-naehe-a-185826.html)
+    -   [<span class="nav-channel-sub-entry">Bußgeldrechner</span>](/auto/aktuell/bussgeldrechner-was-zu-schnelles-fahren-kostet-a-244772.html)
+    -   [<span class="nav-channel-sub-entry">Werkstattvergleich</span>](http://werkstattvergleich.spiegel.de)
+    -   [<span class="nav-channel-sub-entry">Bücher bestellen</span>](http://www.amazon.de/b/ref=amb_link_51544565_1?ie=UTF8&node=4206085031&pf_rd_m=A3JWKAKR8XB7XF&pf_rd_s=center-1&pf_rd_r=0Y7KSJRQ0GD1TQVBZFBX&pf_rd_t=1401&pf_rd_p=515157807&pf_rd_i=1000127753&tag=wwwspiegelde-21)
+    -   [<span class="nav-channel-sub-entry">DSL-Vergleich</span>](http://ad8.adfarm1.adition.com/redi?sid=3076405&kid=1212883&bid=3961306)
+    -   [<span class="nav-channel-sub-entry">Ferientermine</span>](/lebenundlernen/schule/ferien-schulferien-und-feiertage-a-193925.html)
+    -   [<span class="nav-channel-sub-entry">Gasanbietervergleich</span>](http://ad8.adfarm1.adition.com/redi?sid=3076403&kid=1212850&bid=3961217)
+    -   [<span class="nav-channel-sub-entry">Stromanbietervergleich</span>](http://ad8.adfarm1.adition.com/redi?sid=3076404&kid=1212872&bid=3961268)
+    -   [<span class="nav-channel-sub-entry">Energiesparratgeber</span>](https://ratgeber.co2online.de/index.php?berater=ratgeberauswahl&portal_id=spiegel_online)
+    -   [<span class="nav-channel-sub-entry">Energievergleiche</span>](http://ad8.adfarm1.adition.com/redi?sid=3076397&kid=1212362&bid=3958971)
+    -   [<span class="nav-channel-sub-entry">Gehaltscheck</span>](http://www.personalmarkt.de/source-links/spiegel/serviceangebotebox.html)
+    -   [<span class="nav-channel-sub-entry">Uni-Tools</span>](/lebenundlernen/uni/studium-tipps-und-hilfe-fuer-uni-und-studentenleben-a-640620.html)
+    -   [<span class="nav-channel-sub-entry">Währungsrechner</span>](http://boersen.manager-magazin.de/spon/devisen_uebersicht.htn#rechner)
+    -   [<span class="nav-channel-sub-entry">Versicherungen</span>](/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html)
+
+<span id="js-close-button">Abbrechen</span>
+
+<span class="select-fa"> Zeitraum alles letzte Woche letzter Monat letztes Jahr seit 2005 vor 2005 vor 2000 vor 1995 vor 1990 vor 1980 vor 1970 vor 1960 </span> <span class="select-fa"> Überschrift und Vorspann Volltext Autor </span>
+
+-   [Nachrichten](/)
+-   <span>&gt;</span>[Mein SPIEGEL](/meinspiegel/)
+-   <span>&gt;</span>
+
+    Allgemeine Nutzungsbedingungen
+    ==============================
+
+<span class="headline-intro"></span> <span class="headline">Allgemeine Nutzungsbedingungen</span>
+-------------------------------------------------------------------------------------------------
+
+****
+
+-   [Drucken](/meinspiegel/artikel/a-703602-druck.html "Allgemeine Nutzungsbedingungen")
+-   [Nutzungsrechte](/extra/a-853891.html)
+-   [Feedback](/extra/a-267802.html)
 
 **Liebe Leserin, lieber Leser,**
 
@@ -33,20 +352,28 @@ Wir weisen darauf hin, dass, sofern Online-Dienste ersichtlich durch Kooperation
 (5)
 Die SPIEGEL-Gruppe behält sich vor, die vorliegenden Nutzungsbedingungen für die Zukunft zu ändern, z.B. um Gesetzesänderungen, Änderungen der Dienste oder Regelungslücken zu berücksichtigen. Änderungen der Allgemeinen Nutzungsbedingungen wird die SPIEGEL-Gruppe mindestens vier Wochen vor Inkrafttreten ankündigen. Die Änderungen werden wirksam, wenn Sie nicht innerhalb von vier Wochen nach der Ankündigung widersprechen. Die SPIEGEL-Gruppe weist Sie bei der Ankündigung der Änderungen auf das Recht zum Widerspruch und die Folgen des Ausbleibens eines Widerspruchs hin. Widersprechen Sie innerhalb der genannten Frist, gelten für Ihre Nutzung der Dienste weiterhin die bisherigen vertraglichen Regelungen. Die Kündigungsrechte gemäß Ziff. 9. bleiben unberührt.
 
+[<span>TOP</span>](#)
+
 ### 2. Verfügbarkeit
 
 Die Leistungen des Anbieters werden dem Nutzer unter Vorbehalt der Verfügbarkeit angeboten. Der Anbieter bemüht sich, den Service stets zugänglich zu halten. Durch Wartungsarbeiten, Weiterentwicklung oder Störungen können die Nutzungsmöglichkeiten eingeschränkt oder zeitweise unterbrochen werden. Dadurch kann es unter Umständen auch zu Datenverlusten kommen. Daraus entstehen keine Entschädigungsansprüche der betroffenen Nutzer. Der Anbieter ist ferner berechtigt, die angebotenen Dienste und Leistungen jederzeit nach eigenem Ermessen ohne Ankündigung zu ändern oder einzustellen.
+
+[<span>TOP</span>](#)
 
 ### 3. Eröffnung eines Benutzerkontos
 
 Für bestimmte Dienste der Online-Angebote der SPIEGEL-Gruppe wie z. B. Newsletter oder Teilnahme am Forum muss der Nutzer sich ein persönliches Benutzerkonto einrichten. Hierfür muss der Nutzer sich einmalig über die Eingabe der abgefragten Daten in der Eingabemaske registrieren und erhält anschließend ein passwortgeschütztes Benutzerkonto.
 Die Berechtigung gilt nur für den Nutzer persönlich, sie ist nicht übertragbar. Der Nutzer ist für die Geheimhaltung des Benutzernamens und Passworts selbst verantwortlich.
 
+[<span>TOP</span>](#)
+
 ### 4. Pflichten des Nutzers
 
 Der Nutzer verpflichtet sich, bei der Nutzung der Dienste nicht gegen geltende Rechtsvorschriften und etwaige vertragliche Bestimmungen zu verstoßen. Er verpflichtet sich insbesondere dazu, dass von ihm verbreitete Inhalte keine Rechte Dritter, insbesondere Urheberrechte, Persönlichkeitsrechte, Patent- und Markenrechte und sonstige Rechte verletzen, dass die geltenden Strafgesetze und Jugendschutzbestimmungen beachtet werden und dass keine rassistischen, den Holocaust leugnenden, grob anstößigen, pornografischen oder sexuellen, jugendgefährdenden, extremistischen, Gewalt verherrlichenden oder verharmlosenden, den Krieg verherrlichenden, für eine terroristische oder extremistische politische Vereinigung werbenden, zu einer Straftat auffordernden, ehrverletzende Äußerung enthaltenden, beleidigenden oder für Minderjährige ungeeigneten oder sonstige strafbaren Inhalte verbreitet werden.
 
 Außerdem verpflichtet sich der Nutzer, zum Schutz der Daten den anerkannten Grundsätzen der Datensicherheit Rechnung zu tragen und die Verpflichtungen der Datenschutzbestimmungen zu beachten. Der Nutzer verpflichtet sich insbesondere, an den Anbieter ausgehende E-Mails und Abfragen mit größtmöglicher Sorgfalt auf Viren zu überprüfen, gesetzliche und technische Vorschriften einzuhalten, Benutzername und Passwort geheim zu halten, nicht weiterzugeben, keine Kenntnisnahme zu dulden oder zu ermöglichen und bei einem Missbrauch oder Verlust dieser Angaben oder einem entsprechenden Verdacht dies dem Anbieter unverzüglich anzuzeigen. Hinweise auf eine missbräuchliche Nutzung der Inhalte des Anbieters sind ebenfalls unverzüglich anzuzeigen.
+
+[<span>TOP</span>](#)
 
 ### 5. Nutzungsumfang
 
@@ -59,6 +386,8 @@ Für alle weiteren Nutzungen (unter anderem - aber nicht ausschließlich - für 
 
 (3)
 Der Nutzer darf die Urheberrechtsvermerke, Markenzeichen und andere Rechtsvorbehalte in den Daten nicht entfernen. Er ist verpflichtet, die Anerkennung der Urheberschaft sicherzustellen.
+
+[<span>TOP</span>](#)
 
 ### 6. Datenschutz
 
@@ -189,13 +518,49 @@ Als Unternehmen haben wir uns zudem freiwillig der Selbstregulierung des Deutsch
 
 Um Werbung für Sie anhand Ihrer Nutzungsinteressen zu optimieren, haben wir es folgenden weiteren Dienstleistern gestattet, Nutzungsdaten zu erheben. Auf den angegebenen Webseiten der genannten Unternehmen finden Sie weitere Informationen zum Datenschutz sowie zu dem Angebot dieser Anbieter und ihrer Technologie.
 
+| Partner                            | Datenschutzinfos                                                                                              |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Criteo GmbH                        | [www.criteo.com/de/datenschutzrichtlinien](http://www.criteo.com/de/datenschutzrichtlinien)                   |
+| Google                             | [www.google.de/intl/de/policies/technologies/ads/](http://www.google.de/intl/de/policies/technologies/ads/)   |
+| groupm                             | [www.groupm.com/privacy-policy](http://www.groupm.com/privacy-policy)                                         |
+| adyard GmbH                        | [www.adyard.de/datenschutz/](http://www.adyard.de/datenschutz/)                                               |
+| Ligatus GmbH                       | [www.ligatus.de/datenschutz](http://www.ligatus.de/datenschutz)                                               |
+| Pilot 1/0 GmbH                     | [www.pilot.de/datenschutz](http://www.pilot.de/datenschutz)                                                   |
+| plista GmbH                        | [www.plista.com/privacy](http://www.plista.com/privacy)                                                       |
+| travelaudience GmbH                | [www.travelaudience.com/taresources/privacy.html](http://www.travelaudience.com/taresources/privacy.html)     |
+| xplosion interactive GmbH          | [www.xplosion.de/so-funktionierts/datenschutz.html](http://www.xplosion.de/so-funktionierts/datenschutz.html) |
+| mediascale GmbH & Co. KG           | [www.mediascale.de/datenschutz/](http://www.mediascale.de/datenschutz/)                                       |
+| Performance Media Deutschland GmbH | [www.performance-media.de/datenschutz](http://www.performance-media.de/datenschutz)                           |
+| uniquedigital GmbH                 | [www.uniquedigital.de/datenschutz](http://www.uniquedigital.de/datenschutz)                                   |
+| Xaxis                              | <http://www.targad.info>                                                                                      |
+| AdAudience GmbH                    | [www.adaudience.de/datenschutz/](http://www.adaudience.de/datenschutz/)                                       |
+
 Aufgrund des pseudonymen bzw. anonymen Charakters der erhobenen Daten benötigen wir und die genannten Drittunternehmen keine gesonderte Einwilligung zum Behavioural Targeting (§ 15 Abs. 3 Telemediengesetz). Sie können aber dem Einsatz des Behavioural Targeting gegenüber den genannten Unternehmen widersprechen.
 
 Hier eine Auflistung der Seiten zum Opt Out:
 
+| Partner                            | Opt Out Links                                                                                               |
+|------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Criteo GmbH                        | [www.criteo.com/de/datenschutzrichtlinien/opt-out](http://www.criteo.com/de/datenschutzrichtlinien/opt-out) |
+| Google                             | [www.google.de/intl/de/policies/technologies/ads/](http://www.google.de/intl/de/policies/technologies/ads/) |
+| groupm                             | [www.groupm.com/privacy-policy](http://www.groupm.com/privacy-policy)                                       |
+| adyard GmbH                        | [www.adyard.de/datenschutz/](http://www.adyard.de/datenschutz/)                                             |
+| Ligatus GmbH                       | [www.ligatus.de/datenschutz](http://www.ligatus.de/datenschutz)                                             |
+| Pilot 1/0 GmbH                     | [www.pilot.de/datenschutz](http://www.pilot.de/datenschutz)                                                 |
+| plista GmbH                        | [www.plista.com/opt-out](http://www.plista.com/opt-out)                                                     |
+| travelaudience GmbH                | [www.travelaudience.com/taresources/privacy.html](http://www.travelaudience.com/taresources/privacy.html)   |
+| xplosion interactive GmbH          | [www.xplosion.de/so-funktionierts/opt-out.html](http://www.xplosion.de/so-funktionierts/opt-out.html)       |
+| mediascale GmbH & Co. KG           | [www.mediascale.de/datenschutz/](http://www.mediascale.de/datenschutz/)                                     |
+| Performance Media Deutschland GmbH | [www.performance-media.de/opt-out](http://www.performance-media.de/opt-out)                                 |
+| uniquedigital GmbH                 | [www.uniquedigital.de/datenschutz](http://www.uniquedigital.de/datenschutz)                                 |
+| Xaxis                              | [www.targad.info](http://www.targad.info)                                                                   |
+| AdAudience GmbH                    | [www.adaudience.de/datenschutz/](http://www.adaudience.de/datenschutz/)                                     |
+
 Eine weitere komfortable Möglichkeit zur Deaktivierung von Cookies bietet der Präferenzmanager des BVDW.
 
 <http://www.meine-cookies.org/cookies_verwalten/praeferenzmanager-beta.html>
+
+[<span>TOP</span>](#)
 
 ### 7. Gewährleistung und Haftung
 
@@ -231,9 +596,13 @@ Da einige Staaten/Gerichtsbarkeiten den Ausschluss oder die Begrenzung der Haftu
 
 Der Nutzer haftet für alle Folgen und Nachteile, die dem Anbieter durch die missbräuchliche oder rechtswidrige Verwendung des Services oder dadurch entstehen, dass der Nutzer seinen sonstigen wesentlichen Vertragspflichten (unter anderem aber nicht ausschließlich die Verpflichtung zur Geheimhaltung des Passwortes) nicht nachkommt. Der Nutzer stellt den Anbieter von jeglichen Ansprüchen oder Forderungen Dritter auf erstes Anfordern frei, die diese wegen Verletzung von Rechten durch den Nutzer beziehungsweise auf Grund der vom Nutzer erstellten Inhalte geltend machen, einschließlich angemessener Rechtsverfolgungs- und Anwaltskosten. Ferner verpflichtet sich der Nutzer, den Anbieter bei der Abwehr solcher Ansprüche zu unterstützen.
 
+[<span>TOP</span>](#)
+
 ### 8. Leistungsänderung
 
 Der Anbieter ist berechtigt, seinen Service jederzeit nach angemessener Vorankündigungsfrist zu beenden, zu erweitern oder zu verändern. Zu derartigen Änderungen kann es insbesondere dann kommen, wenn sich - vor allem außerhalb des Verantwortungsbereiches des Anbieters - die technischen, rechtlichen oder kommerziellen Rahmenbedingungen für die Nutzung des Internets ändern und für den Anbieter dadurch die Dienste wesentlich erschwert werden oder nicht mehr zumutbar sind.
+
+[<span>TOP</span>](#)
 
 ### 9. Kündigung
 
@@ -247,6 +616,8 @@ Im Falle der außerordentlichen Kündigung kann der Anbieter den Zugang zu seine
 Sämtliche Kündigungen nach diesen Nutzungsbedingungen haben schriftlich zu erfolgen, wobei eine E-Mail ausreicht.
 
 Mit Wirksamwerden der Kündigung wird der Zugang zum Service des Anbieters gesperrt.
+
+[<span>TOP</span>](#)
 
 ### 10. Schlussbestimmungen und anwendbares Recht
 
@@ -270,6 +641,8 @@ Eine etwaige Ungültigkeit einer Bestimmung dieses Vertrags berührt nicht die G
 
 (7)
 Durch diese Vereinbarungen wird zwischen dem Anbieter und dem Nutzer kein gesellschaftsrechtliches Verhältnis begründet.
+
+[<span>TOP</span>](#)
 
 B) Besondere Nutzungsbedingungen
 --------------------------------
@@ -302,6 +675,8 @@ Ihre angegebene E-Mail-Adresse kann für andere Teilnehmer und Besucher des Foru
 Bei technischen Problemen und Fragen ist der Moderator unter der Mailadresse <forum@spiegel.de> erreichbar.
 
 Wir wünschen Ihnen viel Spaß bei der Diskussion in unserem Forum!
+
+[<span>TOP</span>](#)
 
 ### 2. Nutzungsbedingungen für SPIEGEL ONLINE Reise
 
@@ -342,6 +717,8 @@ Eine Verwendung der Reisetipps auf SPIEGEL ONLINE durch den Nutzer zu kommerziel
 
 Sofern der Nutzer selbst eingesendete Beiträge bzw. Fotos aus dem Angebot von SPIEGEL ONLINE entfernen möchte, kann er die Redaktion per E-Mail an <spon_reise@spiegel.de> oder über das Feld "Beitrag melden", der bei jedem Reisetipp zu finden ist, informieren. Die Redaktion wird die genannten Beiträge bzw. Fotos so schnell wie möglich aus dem Angebot entfernen, spätestens binnen 24 Stunden nach Erhalt der Information.
 
+[<span>TOP</span>](#)
+
 ### 3. Nutzungsbedingungen für einestages.de
 
 **Liebe Leserin, lieber Leser,**
@@ -368,3 +745,115 @@ Sie können Ihre Mitgliedschaft bei einestages durch schriftliche Mitteilung an 
 
 (7)
 Gerichtsstand ist Hamburg. Es gilt deutsches Recht.
+
+Gliederung
+
+**[A) Allgemeine Nutzungsbedingungen](#allgemeine_nutzungsbedingungen)**
+
+-   1. [Geltungsbereich](#a_geltungsbereich)
+-   2. [Verfügbarkeit](#a_verfuegbarkeit)
+-   3. [Eröffnung eines Benutzerkontos](#a_eroeffnung_eines_benutzerkontos)
+-   4. [Pflichten des Nutzers](#a_pflichten_des_nutzers)
+-   5. [Nutzungsumfang](#a_nutzungsumfang)
+-   6. [Datenschutz](#a_datenschutz)
+-   7. [Gewährleistung und Haftung](#a_gewaehrleistung)
+-   8. [Leistungsänderung](#a_leistungsaenderung)
+-   9. [Kündigung](#a_kuendigung)
+-   10. [Schlussbestimmungen](#a_schlussbestimmungen)
+
+**[B) Besondere Nutzungsbedingungen](#besondere_nutzungsbedingungen)**
+
+-   1. [Forum](#b_forum)
+-   2. [Reise](#b_reise)
+-   3. [einestages.de](#b_einestages)
+
+<a href="/#ref=article-body" class="article-functions home-link" title="Zur Startseite">Zur Startseite</a>
+
+Diesen Artikel...
+
+-   [Drucken](/meinspiegel/artikel/a-703602-druck.html "Allgemeine Nutzungsbedingungen")
+-   [Feedback](/extra/a-267802.html)
+-   [Nutzungsrechte](/extra/a-853891.html)
+
+**© SPIEGEL ONLINE**
+Alle Rechte vorbehalten
+[Vervielfältigung nur mit Genehmigung der SPIEGELnet GmbH](/extra/a-853891.html)
+
+<a href="#" class="link-angle-top">TOP</a>
+
+Die Homepage wurde aktualisiert. [Jetzt aufrufen.](/#ref=sticky-article)
+
+[Hinweis nicht mehr anzeigen.](# "Hinweis nicht mehr anzeigen.")
+
+#### Serviceangebote von SPIEGEL-ONLINE-Partnern
+
+-   ##### AUTO
+
+-   <span> [Benzinpreis](http://www.spiegel.de/auto/aktuell/benzinpreisvergleich-die-guenstigste-tankstelle-in-ihrer-naehe-a-185826.html) </span>
+-   <span> [Bußgeldrechner](http://www.spiegel.de/auto/aktuell/bussgeldrechner-was-zu-schnelles-fahren-kostet-a-244772.html) </span>
+-   <span> [Werkstattvergleich](http://werkstattvergleich.spiegel.de "Anzeige") </span>
+-   <span> [Kfz-Versicherung](http://ad8.adfarm1.adition.com/redi?sid=3076397&kid=2001923&bid=6830816 "Anzeige") </span>
+
+<!-- -->
+
+-   ##### ENERGIE
+
+-   <span> [Gasanbietervergleich](http://ad8.adfarm1.adition.com/redi?sid=3076397&kid=2001923&bid=6830797 "Anzeige") </span>
+-   <span> [Stromanbietervergleich](http://ad8.adfarm1.adition.com/redi?sid=3076397&kid=2001923&bid=6830802 "Anzeige") </span>
+-   <span> [Energievergleiche](http://ad8.adfarm1.adition.com/redi?sid=3076397&kid=2001923&bid=6830809 "Anzeige") </span>
+
+<!-- -->
+
+-   ##### JOB
+
+-   <span> [Gehaltscheck](http://www.personalmarkt.de/source-links/spiegel/serviceangebotebox.html "Anzeige") </span>
+-   <span> [Brutto-Netto-Rechner](http://www.spiegel.de/wirtschaft/service/brutto-netto-rechner-was-von-ihrem-lohn-noch-uebrig-bleibt-a-223811.html) </span>
+-   <span> [Uni-Tools](/lebenundlernen/uni/studium-tipps-und-hilfe-fuer-uni-und-studentenleben-a-640620.html) </span>
+-   <span> [Jobsuche](http://ad8.adfarm1.adition.com/redi?sid=3076402&kid=1213135&bid=3962765 "Anzeige") </span>
+-   <span> [Online Englisch lernen](http://gymglish.karriere.spiegel.de/ "Anzeige") </span>
+
+-   ##### FINANZEN
+
+-   <span> [Währungsrechner](http://boersen.manager-magazin.de/spon/devisen_uebersicht.htn#rechner) </span>
+-   <span> [Immobilien-Börse](http://ad8.adfarm1.adition.com/redi?sid=3076400&kid=1212996&bid=3961839 "Anzeige") </span>
+-   <span> [Versicherungen](/wirtschaft/service/versicherung-check-fuer-haftpflicht-hausrat-berufsunfaehigkeit-a-960380.html) </span>
+
+<!-- -->
+
+-   ##### FREIZEIT
+
+-   -   <span> [Eurojackpot](http://ad8.adfarm1.adition.com/redi?sid=3076399&kid=1896236&bid=6478348 "Anzeige") </span>
+    -   <span> [Lottozahlen](http://ad8.adfarm1.adition.com/redi?sid=3098102&kid=1896232&bid=6478286 "Anzeige") </span>
+    -   <span> [Sudoku](/wissenschaft/mensch/sudoku-online-kostenlos-spielen-a-994416.html) </span>
+    -   <span> [Kenken](/wissenschaft/mensch/kenken-kostenlos-online-spielen-a-994418.html) </span>
+    -   <span> [Streets](/wissenschaft/mensch/zahlenraetsel-street-online-und-kostenlos-spielen-a-994419.html) </span>
+    -   <span> [Reise-Deals](http://ad8.adfarm1.adition.com/redi?sid=3826900&kid=1991632&bid=6797077) </span>
+-   -   <span> [Bücher bestellen](http://www.amazon.de/b/ref=amb_link_51544565_1?ie=UTF8&node=4206085031&pf_rd_m=A3JWKAKR8XB7XF&pf_rd_s=center-1&pf_rd_r=0Y7KSJRQ0GD1TQVBZFBX&pf_rd_t=1401&pf_rd_p=515157807&pf_rd_i=1000127753&tag=wwwspiegelde-21) </span>
+    -   <span> [Hörbücher](http://ad8.adfarm1.adition.com/redi?sid=3780443&kid=1926526&bid=6578340 "Anzeige") </span>
+    -   <span> [Arztsuche](http://ad8.adfarm1.adition.com/redi?sid=3088032&kid=1214236&bid=3966039 "Anzeige") </span>
+    -   <span> [DSL-Vergleich](http://ad8.adfarm1.adition.com/redi?sid=3076397&kid=2001923&bid=6830829 "Anzeige") </span>
+    -   <span> [Ferientermine](/lebenundlernen/schule/ferien-schulferien-und-feiertage-a-193925.html) </span>
+
+#### SPIEGEL GRUPPE
+
+-   [Abo](http://abo.spiegel.de/?b=SPOHFOOTER&utm_source=spon&utm_medium=text&utm_content=SPOHFOOTER&utm_campaign=abbinder)
+-   <span>-</span>[Shop](https://www.amazon.de/b?ie=UTF8&node=2478999031&tag=wwwspiegelde-21)
+-   <span>-</span>[manager magazin](http://www.manager-magazin.de/)
+-   <span>-</span>[Harvard Business Manager](http://www.harvardbusinessmanager.de/)
+-   <span>-</span>[buchreport](http://www.buchreport.de/)
+-   <span>-</span>[Werbung](http://spiegel.media/)
+-   <span>-</span>[Jobs](http://www.spiegelgruppe.de/spiegelgruppe/home.nsf/Navigation/8F79C171C0A9F35EC1257B1000367A40?OpenDocument)
+
+-   **[Twitter](https://twitter.com/intent/follow?screen_name=SPIEGELONLINE "Twitter")
+-   **[Facebook](http://www.facebook.com/spiegelonline "Facebook")
+-   **[Google+](https://plus.google.com/106419678219919655169/posts "Google+")
+
+<!-- -->
+
+-   [Impressum](/impressum/)
+-   <span>-</span>[Datenschutz](/dienste/a-639126.html)
+-   <span>-</span>[Nutzungsrechte](/extra/a-853891.html)
+-   <span>-</span>[Kontakt](/kontakt/)
+-   <span>-</span>[Hilfe](/hilfe/)
+
+<span id="parsely-cfg" data-parsely-site="spiegel.de"></span>

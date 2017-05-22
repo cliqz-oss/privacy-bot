@@ -1,0 +1,232 @@
+https://foursquare.com/legal/privacy
+
+<a href="/" id="logo">Foursquare</a>
+
+<span class="locationReset" title="Use your current location"></span>
+
+<img src="https://ss0.4sqi.net/img/chrome/icon-go_foursquare8-8345435729fdc997093a9bc1654f5569.png" alt="Search" class="goIcon" />
+
+-   <a href="/login?continue=%2Flegal%2Fprivacy&amp;clicked=true" class="log btn">Log In</a>
+-   <a href="/signup/" id="signupButton" class="sign btn">Sign Up</a>
+
+Nearby:
+
+Get inspired:
+
+-   <a href="/explore?cat=topPicks" class="chicletLink"><span class="chicletText">Top Picks</span></a>
+-   <a href="/explore?cat=trending" class="chicletLink"><span class="chicletText">Trending</span></a>
+-   <a href="/explore?cat=food" class="chicletLink"><span class="chicletText">Food</span></a>
+-   <a href="/explore?cat=coffee" class="chicletLink"><span class="chicletText">Coffee</span></a>
+-   <a href="/explore?cat=drinks" class="chicletLink"><span class="chicletText">Nightlife</span></a>
+-   <a href="/explore?cat=arts" class="chicletLink"><span class="chicletText">Fun</span></a>
+-   <a href="/explore?cat=shops" class="chicletLink"><span class="chicletText">Shopping</span></a>
+
+**Last Updated: April 11, 2016**
+
+See here for a [Summary of Changes](https://goo.gl/IP0K1p)
+
+Foursquare Labs, Inc. Privacy Policy
+------------------------------------
+
+Foursquare Labs, Inc. ("Foursquare", "We") knows that you take your privacy seriously. We do, too. We are committed to giving you transparency of our privacy practices and control over your data in connection with Foursquare's Services (as defined in Foursquare's [Terms of Service](https://foursquare.com/legal/terms)). To that end, in addition to this Privacy Policy, we have developed the following other documents that complement and are part of this policy, all of which describe the data we collect, how we use it, with whom we share it, and your choices regarding your data:
+
+-   A ['Privacy 101' page](https://foursquare.com/privacy/privacy101-2013), a concise and easy to read way to learn about privacy on the Services and the guiding principles that inform how we develop the Services and the decisions we make; and
+-   A [set of FAQs](https://support.foursquare.com/hc/en-us/articles/201065830-Who-can-see-my-information-) related to privacy.
+
+This Privacy Policy covers Foursquare's treatment of personally identifiable information ("Personal Information" ) and other data that Foursquare gathers when you are accessing Foursquare's Services. You can control how certain information is used and shared through our Services as described below.
+
+### What Personal Information Does Foursquare Collect?
+
+-   Personal Information You Provide to Us: We receive and store information you enter on our Services or provide to us in any other way. The types of Personal Information collected may include your name, email address, phone number, birthday, Twitter and/or Facebook usernames, and location. We automatically receive your location when you use the Services. We use various technologies to determine location, such as location services of the applicable operating system or browser and sensor data from your device that may, for example, provide information on nearby Wi-Fi- access points and cell towers. The Personal Information you provide is used for such purposes as allowing you to set up a user account and profile that can be used to interact with other users through the Services, improving the content of the Services, customizing the advertising and content you and your friends see (including Foursquare or third-party advertising or content), and communicating with you about specials and new features. Your Services account will be associated with a Services ID, your email (when you log into the Services) and optionally a phone number, and this account will be used for all our Services that you use. Information you provide to one of our Services may be used with other Services you or your friends use. For example, location information we receive in connection with your use of one of our apps may be used to customize the content you and your friends see in another of our apps. Additionally, if you use a Service without logging into that Service on a device and later log into a Service on that device, Foursquare will combine information that was collected about your use of the Service in a logged-out state with your Services account. We may also draw upon this Personal Information in order to adapt the Services of our community to your needs, to research the effectiveness of our network and Services, and to develop new tools for the community.
+-   Children under 13: The Services are not directed to individuals who are younger than 13 years old.
+-   Information Collected Automatically: When you use the Services, Foursquare automatically receives and records information on our server logs from your browser or mobile platform, including your location, IP address, browser type, operating information, mobile carrier, device and application IDs, cookie information, information regarding your use of our Services and the page you requested. We treat this data as non-Personal Information, except where we are required to do otherwise under applicable law. Unless otherwise stated in this Privacy Policy, Foursquare only uses this data in aggregate or anonymous form. We may provide aggregate or anonymous information to our partners about how our users, collectively, use our Services, so that our partners may also understand how often people use their services and our Services.
+-   Information We Receive from Third Parties: We receive and store information from third parties that interact in some way with the Services or that provide services to us in connection with the Services, including through services, websites and applications offered by our developer customers that integrate our application programming interface ("API") or software development kit ("SDK") into their services, websites or applications. For example, if you unlock a Foursquare special that is redeemed through a credit card swipe, the credit card processor may tell us information about the redemption such as the time that your card was swiped. In addition, you may choose to use third party services, websites or apps that share your Personal Information, activities and/or content with Foursquare. For example, if Foursquare receives information about a user of third party services, websites and apps that integrate our API or SDK and Foursquare determines that user is a user of the Services, Foursquare will combine that information into the user’s Services account. Please read the privacy policy of any such app so that you understand its sharing practices.
+
+### How is My Information Shared?
+
+Information about our users is an integral part of our business. We use your information in order to provide you with the Services and in a manner consistent with the disclosures in this Privacy Policy. We neither rent nor sell your Personal Information to anyone for their own use, though, as described more fully in this Privacy Policy, including the section below (under "Publicly Available Information and Apps"), certain information is available to third parties, and we may provide it to third parties, by license or otherwise. The default user settings for all data about you that is visible to others is summarized in our [Privacy FAQs](https://support.foursquare.com/hc/en-us/articles/201065830-Who-can-see-my-information-), together with information on how to change the default user settings or how to generally remove information, where applicable.
+
+-   Friends and Followers:
+    -   Friends on Swarm and Foursquare (prior to version 8.0.0): Your friends can see, for example, your location (as described in more detail below), name, email, phone number, profile photo, hometown, mayorships and badges/stickers, links to your Twitter and Facebook accounts (if you have connected those accounts to your Foursquare account), a list of your friends, plans you write or comment on, photos you post, tips you write, and which Foursquare Services you use.
+    -   Followers and people you follow on Foursquare (version 8.0.0 and later): Followers can see your publicly available information and you can see the publicly available information of users you follow, as described below (under "Publicly Available Information and Apps").
+    -   Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think carefully about including any specific information you may deem private in comments, plans or tips or other content (location or otherwise) that you create in the Services.
+-   Businesses, Locations, Events and Brands: One of the key purposes of the Services is to help users learn about businesses, locations, events and brands (for example, a TV show, a TV personality, newspaper or a consumer good that manages a page on the Service) that are relevant to them, and for these entities to provide information about themselves, their locations and events to users, as well as to reward users when they visit their location or event through offers and specials. When you visit a particular location your visits may be shared with that location in order for that location to better provide services to you. Additionally, brands may have access to aggregated and anonymous/or anonymous data, such as de-identified data about places that its followers visit (that is, not tied to individual users). For more info read the [Privacy FAQs](https://support.foursquare.com/hc/en-us/articles/201065830-Who-can-see-my-information-).
+-   Publicly Available Information and Apps: When you use the Services, certain information is public, such as your public user profile information, tips, likes, saves, public photos, lists that you create and save, tastes, badges/stickers, mayorships, and lists of friends and/or followers (as applicable to a particular Service), and may be searchable by search engines and be shared with or disclosed to third parties, including through our API or SDK to a wide range of users and services.  We may also share or disclose aggregated and/or anonymous data, such as de-identified check-in data (that does not identify an individual user), to third parties, including users you may follow, users of our API and our customers, for analytical or other purposes.
+
+In addition, use of third party apps developed using our API or that incorporate our SDK is subject to the terms of use and privacy policies of such third party developers. Certain Personal Information may be made available to third party developers if you or your "friends" use these third party apps. You should review the policies of third party apps and websites to ensure that you are comfortable with the ways in which they use and disclose the information you share with them. We do not guarantee that they will follow our rules or our Privacy Policy. Note that your friends will also be able to see which third party apps that you use.
+
+-   Vendors/Contractors: We employ other companies and people, such as independent vendors and contractors, to perform tasks on our behalf and need to share your information with them in order form them to provide services to us. We do not authorize such vendors and contractors to use your Personal Information for their own benefit and we request that they provide a comparable level of protection for your Personal Information.
+
+### Determining and Sharing Location
+
+Determining your location - The Services deal with location, so in order to work, the Services need to know your location. Whenever you open and use/interact with our apps on your mobile device or go to one of our Sites, we use the location information from your mobile device or browser (e.g., latitude and longitude) to tailor the Services to your current location (i.e., we’ll show you a list of nearby locations, friends and tips). This information from is NOT shared with others. Also, the Services use your mobile device’s ‘background location’ to provide the Services, including to send you notifications of tips/friends/plans/interesting things etc. near you. If you have ‘background location’ turned on, the Foursquare app will, from time to time, tell us about your device’s location even if you are not directly interacting with the application.
+
+Sharing Location with the Foursquare app (version 8.0.0 and later) - Your real-time location is not shared on the Foursquare app. If you write a tip, like or otherwise interact with a place, users may infer that you have been to that location. Some content, like tips, are time stamped and other users could use that information to infer when you were at a place even though tips can be posted when you aren’t at the place you are leaving a tip about. Also, if you check into a place on Swarm, Foursquare may show your followers that you have been to that place.
+
+Sharing Location with the Foursquare app (prior to version 8.0.0) - Your location data is ONLY shared with others when you proactively decide to "check in" on the Foursquare app to tell the Services you’re at a particular place or, if you have turned on 'check-in by friends,' when your friend mentions you in his or her check in. The location information shared with a "check in" is the location information of that place.
+
+Sharing Location with Swarm app - By default, neighborhood sharing is turned on and your location data, at a neighborhood level, is shared with your Swarm friends and is updated from time to time using your background location. You can turn off neighborhood sharing on the check-in page. Your location is also shared when you proactively decide to "check in" on the Swarm app to tell the Services you're at a particular place or, if you have turned on 'check-in by friends,' when your friend mentions you in his or her check in. The location information shared with a "check in" is the location information of that place. Additionally, when you send a message on Swarm, your mobile device's location is shared with all recipients of the message, including friends of friends on Swarm who have received the same message (e.g., if you respond to a group message sent by a friend, all of the participants in that group message may see your mobile device's location). If you want to check-in without sharing your specific whereabouts with friends, you can check-in "off-the-grid".
+
+Your Check-in History - Each of your check-ins using the Services is saved to your "Check-in History," which allows you and your friends to look back at all the locations you have checked in since you created your Services account. You can delete any or all of your check-ins from the check-in details page on our website and in the apps. If for some reason you ever decide to delete your Services account, your entire check-in history will be removed from our database.
+
+### Services Features
+
+The Services include several features that may allow you to share your information with others. The [Privacy FAQs](https://support.foursquare.com/hc/en-us/articles/201065830-Who-can-see-my-information-) explain how these features work and describe how you can modify the default settings. Please review them carefully. Please remember that if you choose to provide personal information using certain features of the Services, that information may be available to the wider Services community, or may be published on our Sites, which is subject to indexing by third party search engines.
+
+We may provide you with the ability to log into the Service using your existing social media accounts, such as Facebook. We do not control such social media services, your profiles on those services, modify your privacy settings on those services or establish rules about how your information on those services will be used. You and the social media service providers are in control of those issues, not Foursquare. You are encouraged to read all policies and information on the applicable social media services to learn more about how they handle your information before using any such features made available to you on the Service. We are not responsible for any acts or omissions by any social media service provider or your use of features that come from their platform.
+
+### Sharing with Partners, in connection with business transfers, and for the protection of Foursquare and others:
+
+-   Our Partners: In addition to the data sharing described above, we enter into relationships with a variety of businesses and work closely with them. In certain situations, these businesses, provide services to you, sell items or provide promotions to you through the Services. In other situations, Foursquare provides services, or sells items jointly with these businesses. You can easily recognize when one of these businesses is associated with your transaction, and we will share your Personal Information that is related to such transactions with that business.
+-   Business Transfers: If Foursquare or substantially all of its assets are acquired, or in the unlikely event that Foursquare goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party.
+-   Protection of Foursquare and Others: We may release your information when we believe in good faith that release is necessary to comply with the law, including laws outside your country of residence; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Foursquare, our employees, our users, or others. This includes exchanging information with other companies and organizations (including outside of your country of residence) for fraud protection and credit risk reduction.
+
+### Email Communications
+
+By providing your email address to us, you expressly consent to receive emails from us, where permitted by law. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us or our partners. If you have a Services account and do not want to receive commercial email or other mail from us, please indicate your preference by making a modification on your account settings page or through the 'settings' tab on our website once you're logged into the Services. Please note that if you do not want to receive legal notices from us, such as notices regarding this Privacy Policy, those legal notices will still govern your use of the Services, and you are responsible for reviewing such legal notices for changes. We may receive a confirmation when you open an email from Foursquare if your computer supports this type of program. Foursquare uses this confirmation to help us make emails more interesting and helpful and improve our service.
+
+### Text Messages
+
+If you provide your phone number to us and opt in, Foursquare or our service provider may send you periodic text messages through an automatic telephone dialing system. These may include marketing text messages, as well as operational messages about features and updates to our Services. Standard text message and data rates will apply. You are not required to agree to receive text messages in order to use any of our apps or other services. You may unsubscribe from our text messages by texting STOP in response to a message, by following the instructions contained in the message or following the instructions available in the [Privacy FAQs](https://support.foursquare.com/hc/en-us/categories/200072150-Account-and-Privacy).
+
+### What About Cookies and Similar Technologies?
+
+We and our agents use technologies like cookies, pixels, and local storage (like on your browser or device, which is similar to a cookie but holds more information) and identifiers (including identifiers supplied by your browser or device or by app platform companies) on our website, in our emails, within our apps and through third party apps that use our API or SDK to provide you with a range of products and services. You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on Foursquare, please read Foursquare's ['Cookie Policy’](https://foursquare.com/legal/cookiepolicy). By continuing to use our Services through your computer or mobile device, you consent to our use of cookies, pixels and local storage in accordance with this Privacy Policy and Foursquare's Cookie Policy.
+
+We may work with advertisers or other partners and advertising service providers to serve ads to you on our Services, or on a third party website or app, that may be relevant to you based on your inferred interests, interaction with our Services or location.
+
+In connection with the foregoing, we, our partners, and our advertising service providers receive information through our Services, unaffiliated websites and apps and through various advertising exchanges, platforms and ad networks, including by bidding on advertising inventory on unaffiliated sites and apps directly or by working with other partners and advertising service providers. This information may include information about your activity on the Services or on unaffiliated websites and apps, including information received from a web browser, operating system, or device (including such things as the web address of a web page visited, the address of the referring or exit web pages, and the data and time of those visits; information about the browser type and browser settings; information about the operating system, device model, and carrier; location information; IP addresses; mobile device and advertising identifiers such as Apple IDFA or Google Advertising ID; and cookie information, pixel or other similar technology).
+
+We combine the information described above with additional demographic, location and other interest-based segment data, along with cookie information, from third parties to provide services to our customers such as tools to enable the display of targeted advertisements to users, including across a user’s devices, and tools to allow them to understand the effectiveness of advertising campaigns (e.g., we use the information we receive to determine the probability that a desktop web cookie and a mobile device belong to the same user and may use this information to provide advertising, analytics or other services). Additionally, we use the information we collect from our API or SDK when incorporated into applications of third parties to determine whether the same user is using different third party apps on the same mobile device that incorporate our API or SDK. We may share this information and other information with advertisers or other partners and advertising service providers for purposes such as to serve advertisements, and to measure advertisement conversion and effectiveness in the ordinary course of our business. We may share such information with third parties advertising partners in an aggregated form as part of a segment of users or in a de-identified form, but we would not share such information in a manner that specifically identifies you to an advertiser). Unless you opt-out as described below, we will retain this information we receive for as long as your Services account is active or as needed to provide the advertising services. Notwithstanding anything to the contrary herein, we will retain and use the information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**How to Opt-Out**
+
+Registered users of the Service can opt-out of Foursquare serving interest-based ads outside of Foursquare's apps and websites in the privacy settings section of your account settings.
+
+Any individual (whether or not they are a registered user of Foursquare) can opt out of receiving interest-based advertisements from Foursquare outside of Foursquare's apps and websites on their mobile device by using the DAA's "AppChoices application available at [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices/).
+
+Additionally, for information about how to opt out of receiving interest-based advertisements from our third party advertising partners outside of Foursquare’s apps and websites, or to learn more about interest-based advertising in general and to access the opt-outs of other online advertising companies, visit the Network Advertising Initiative at [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/#completed) or the Digital Advertising Alliance (DAA) at <http://www.aboutads.info/choices/> or, for interest-based advertising in apps, by using the DAA’s “AppChoices application” available at [http://http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices/).
+
+Also, certain versions of the iOS operating system permit you to "Limit Ad Tracking" in the system settings and certain versions of the Android operating system allow you to "Opt out of Interest-Based Ads" in the system settings.
+
+Cross-Device Opt-Out - You should complete the opt-out process for all devices and browsers that you use. When you opt-out, we will no longer use the information from you on that particular browser or device to provide you with the Services. For example, that means that if you opt-out for a device, we will be unable to tie that device to another device or to another browser on another device. Please keep in mind that, to the extent we have already disclosed information about you to third parties before you opt out, we cannot require such third parties to delete that information. For more information see [www.aboutads.info/choices](http://www.aboutads.info/choices/).
+
+At this time we do not honor web browser Do Not Track ("DNT") signals or similar mechanisms.
+
+We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
+
+### Is Personal Information About Me Secure?
+
+Your Foursquare account Personal Information is protected by a password for your privacy and security. You need to prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately, and limiting access to your computer and browser by signing off after you have finished accessing your account.
+
+Foursquare endeavors to safeguard user information to ensure that user account information is kept private. However, Foursquare cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+The Services may contain links to other sites. Foursquare is not responsible for the privacy policies and/or practices on other sites. When linking to another site, you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Services.
+
+### International Users
+
+If you are located outside of the United States, please note that our Services are hosted on computer servers in the United States. Therefore, your information may be processed and stored in the United States. As a result, United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain disclosure of your information through laws applicable in the United States. Your use of the Sites or the Services or your submission of any Personal Information to us will constitute your consent to the transfer of your Personal Information from your home country, including the United States, which may provide for different data protection rules than in your country.
+
+### What Personal Information Can I Access?
+
+Foursquare allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information and ensuring that it is accurate and complete. You can access this information on the Services by visiting the user settings page (except usage information, which can be accessed in the "History" tab). This list will change as our Service changes.
+
+-   Password
+-   Phone number
+-   Email address
+-   Other User profile information (for example, home city, photo)
+-   Usage information (for example, check-in history)
+
+If you have questions about the Personal Information we have collected from you, you can email privacy@foursquare.com.
+
+### How Do I Delete My Account?
+
+Should you ever decide to delete your Services account, you may do so by clicking on the "delete account" link on your account [settings page](https://foursquare.com/settings). If you terminate your account, your profile, including your check-in history, badges/stickers you received, your User Submissions (as defined in Foursquare's Terms of Service) and any promotional offers you received, will be removed from the Service and eventually deleted from Foursquare's servers. Because of the way we maintain Foursquare, such deletion may not be immediate, and residual copies of your profile information or posts may remain on backup media for up to ninety (90) days. Notwithstanding the foregoing, we will retain information as required by applicable law and we will not delete any information that has already been aggregated or anonymized.
+
+### How Is Information Removed From My Account?
+
+You can remove/change content or information that you have posted on the Services on your account and profile through the Services or you can ask us to remove it by writing to support@foursquare.com. Even after you remove information from your account or profile, copies of that information may remain viewable elsewhere, to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users. Removed and deleted information may remain on backup media for up to ninety (90) days prior to being deleted from our servers.
+
+### Will There Be Changes To This Privacy Policy?
+
+Foursquare may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on our Services or sending you an email. Users are bound by any changes to the Privacy Policy when they use the Services after such changes have been first posted.
+
+### What If I Have Questions Or Concerns?
+
+If you have any questions or concerns regarding privacy using the Service, please send a detailed message to: privacy@foursquare.com. We will make every effort to resolve your concerns.
+
+-   [About](/about)
+-   [Blog](http://blog.foursquare.com)
+-   [Businesses](http://business.foursquare.com)
+-   [Cities](/cities)
+-   [Developers](http://developer.foursquare.com)
+-   [Help](http://foursquare.com/help)
+-   [Jobs](/jobs/)
+-   [Cookies (Updated)](/legal/cookiepolicy)
+-   [Privacy (Updated)](/legal/privacy)
+-   [Terms](/legal/terms)
+-   <span id="currentLanguage" class="link">English</span>
+    -   <a href="https://foursquare.com/legal/privacy" class="current">English</a>
+    -   [Français](https://fr.foursquare.com/legal/privacy)
+    -   [Deutsch](https://de.foursquare.com/legal/privacy)
+    -   [Bahasa Indonesia](https://id.foursquare.com/legal/privacy)
+    -   [Italiano](https://it.foursquare.com/legal/privacy)
+    -   [日本語](https://ja.foursquare.com/legal/privacy)
+    -   [한국어](https://ko.foursquare.com/legal/privacy)
+    -   [Português](https://pt.foursquare.com/legal/privacy)
+    -   [Русский](https://ru.foursquare.com/legal/privacy)
+    -   [Español](https://es.foursquare.com/legal/privacy)
+    -   [ภาษาไทย](https://th.foursquare.com/legal/privacy)
+    -   [Türkçe](https://tr.foursquare.com/legal/privacy)
+
+Foursquare © 2017 ![](https://ss1.4sqi.net/img/icon-mini-crown-cdef5bfd4afc2ff3038c790ea2ae1e14.png) Lovingly made in NYC & SF
+
+### You must enable JavaScript to use foursquare.com
+
+We use the latest and greatest technology available to provide the best possible web experience.
+Please enable JavaScript in your browser settings to continue.
+
+[Download Foursquare](/download) for your smart phone and start exploring the world around you!
+
+-   Cities:
+-   [Atlanta](/cities/atlanta-georgia)
+-   [Austin](/cities/austin-texas)
+-   [Boston](/cities/boston-massachusetts)
+-   [Chicago](/cities/chicago-illinois)
+-   [Dallas](/cities/dallas-texas)
+-   [Denver](/cities/denver-colorado)
+-   [Houston](/cities/houston-texas)
+-   [Las Vegas](/cities/las-vegas-nevada)
+-   [Los Angeles](/cities/los-angeles-california)
+-   [New York](/cities/new-york-city-new-york)
+-   [Philadelphia](/cities/philadelphia-pennsylvania)
+-   [Portland](/cities/portland-oregon)
+-   [San Diego](/cities/san-diego-california)
+-   [San Francisco](/cities/san-francisco-california)
+-   [Seattle](/cities/seattle-washington)
+-   [Washington, D.C.](/cities/washington-dc)
+
+-   Countries:
+-   [Belgium](/cities/brussels-belgium "Brussels")
+-   [Brazil](/cities/sao-paulo "Sao Paulo")
+-   [Canada](/cities/toronto "Toronto")
+-   [Chile](/cities/santiago "Santiago")
+-   [Finland](/cities/helsinki-finland "Helsinki")
+-   [France](/cities/paris "Paris")
+-   [Germany](/cities/berlin "Berlin")
+-   [Great Britain](/cities/london "London")
+-   [Hungary](/cities/budapest-hungary "Budapest")
+-   [Indonesia](/cities/jakarta "Jakarta")
+-   [Japan](/cities/tokyo "Tokyo")
+-   [Mexico](/cities/mexico-city "Mexico City")
+-   [Netherlands](/cities/amsterdam-netherlands "Amsterdam")
+-   [Philippines](/cities/manila "Manila")
+-   [Russia](/cities/moscow "Moscow")
+-   [Singapore](/cities/singapore "Singapore")
+-   [Spain](/cities/barcelona-spain "Barcelona")
+-   [Thailand](/cities/bangkok "Bangkok")
+-   [Turkey](/cities/istanbul "Istanbul")
+
+![](/private/wtrack?event=pltp-dep&p=%2Flegal%2Fprivacy&ref=&ts=1495380255&u=-1&sig=IL%2BsDU569c7Hrl808YSYiBosStU%3D)
+
+

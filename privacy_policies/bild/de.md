@@ -1,4 +1,102 @@
-http://bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html
+http://www.bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html
+
+<a href="#skip-nav" class="skip" title="Sprunglink zur Hauptnavigation">Zur Hauptnavigation springen.</a> <a href="#breadcrumb" class="skip" title="Sprunglink zum Inhalt">Zum Inhalt springen.</a>
+<a href="" id="skip-nav"></a>
+<a href="http://www.bild.de/" id="logo"><img src="http://bilder.bild.de/fotos/bild-logo-35166394/Bild/30.bild.png" alt="Bild Logo" /></a>
+
+Hauptnavigation
+---------------
+
+-   [Infos zu BILDplus<span>BILDplus-Icon</span>](/faq/seite/bildplus/alles-ueber-bildplus-30427132.bild.html)
+-   [Aktives Abo<span>bildPlus Stil für User mit gültigem Abo</span>](/bild-plus/bildplus-startseite/bildplus/home-30723544.bild.html)
+-   
+
+<!-- -->
+
+-   [ePaper![ePaper ](http://bilder.bild.de/fotos/epaper-45258242/Bild/2.bild.svg)](/konfig2010/navi-2014/bild-de/301-49354438.bild.html)
+-   [Kontakt<span>Kontakt-Icon</span>](/corporate-site/kontakt-2015/bild-de/kontakt-42366552.bild.html)
+    -   [Kontaktübersicht](/corporate-site/kontakt-2015/bild-de/kontakt-42366552.bild.html)
+    -   [1414 Leser-Reporter](/corporate-site/kontakt/bildchannel-home/1414-leserreporter-43944282.bild.html)
+    -   [BILDplus](/faq/faq-artikel-web/bildplus/faq-web-30318066.bild.html)
+    -   <a href="https://www.wissen-sie-mehr.de/" class="external-link">Wissen Sie mehr?</a>
+    -   [BILD kämpft für Sie](/news/bild-kaempft/bild-kaempft-fuer-sie/bild-kaempft-43942532.bild.html)
+    -   [BILD & BamS nach Hause](/bildplus/aboseite/bild-de/bildplus-abo-30442024.bild.html)
+
+-   <a href="http://shop.bild.de/?wtmc=shop.off.home.button" class="external-link">BILD Shop<span>BILDshop-Icon</span></a>
+    -   <a href="http://shop.bild.de/fanshop/?wtmc=shop.off.home.button.fanshop" class="external-link">Fanshop</a>
+    -   <a href="http://shop.bild.de/lifestyle-sports/?wtmc=shop.off.home.button.lifestyle" class="external-link">Lifestyle &amp; Sports</a>
+    -   <a href="http://shop.bild.de/schuhe/?wtmc=shop.off.home.button.schuhe" class="external-link">Schuhe</a>
+    -   <a href="http://shop.bild.de/bild-produkte/?wtmc=shop.off.home.button.bildp" class="external-link">BILD-Produkte</a>
+    -   <a href="http://shop.bild.de/fanshop/?flagId=134&amp;wtmc=shop.off.home.button.sale" class="external-link">Sale %</a>
+    -   [BILD & BamS nach Hause](/bildplus/aboseite/bild-de/bildplus-abo-30442024.bild.html)
+
+-   <a href="/community" class="external-link">Community<span>Community-Icon</span></a>
+-   <a href="https://meinkonto.bild.de/" class="external-link">Mein Konto<span>Login-Icon für eingeloggte und Community active User</span></a>
+    -   <a href="/community/profile" class="external-link">%PROFILEPIC%</a>
+    -   <a href="https://meinkonto.bild.de/" class="external-link">Mein Konto</a>
+    -   <a href="/community/profile" class="external-link">Mein Profil</a>
+    -   <a href="/community/settings" class="external-link">Profil bearbeiten</a>
+    -   <a href="/community/privacy_settings" class="external-link">Privatsphäre</a>
+    -   [Hilfe](/faq/faq-artikel-web/bildplus/faq-web-30318066.bild.html)
+    -   <a href="https://don.bild.de/www/lo/" class="external-link">Logout</a>
+
+-   <a href="https://meinkonto.bild.de/" class="external-link">Mein Konto<span>Login-Icon für eingeloggte und Community inactive User</span></a>
+    -   <a href="https://meinkonto.bild.de/" class="external-link">%PROFILEPIC%</a>
+    -   <a href="https://meinkonto.bild.de/" class="external-link">Mein Konto</a>
+    -   <a href="https://don.bild.de/www/lo/" class="external-link">Logout</a>
+
+-   <a href="https://don.bild.de/www/li/" class="external-link">Login<span>Login-Icon für ausgeloggte User</span></a>
+    -   <a href="https://don.bild.de/www/li/" class="external-link">Login</a>
+    -   <a href="https://don.bild.de/www/reg/" class="external-link">Registrieren</a>
+    -   [Hilfe](/faq/faq-artikel-web/bildplus/faq-web-30318066.bild.html)
+
+-   [**](#)
+    BILD.de-Suche Auf BILD.de suchen
+    Finden
+
+-   -   [**Menü](#)
+    -   [BILD<span>plus</span>](/bild-plus/bildplus-startseite/bildplus/home-30723544.bild.html)
+    -   [News](/news/startseite/news/news-16804530.bild.html)
+    -   [Politik](/politik/startseite/politik/politik-16804552.bild.html)
+    -   [Geld](/geld/startseite/geld/geld-15683376.bild.html)
+    -   [Unterhaltung](/unterhaltung/startseite/unterhaltung/show-16804710.bild.html)
+    -   [Sport](/sport/startseite/sport/sport-home-15479124.bild.html)
+    -   [Bundesliga](/bundesliga/1-liga/home-1-bundesliga-fussball-news-31035072.bild.html)
+    -   [Lifestyle](/lifestyle/startseite/lifestyle/lifestyle-15478526.bild.html)
+    -   [Ratgeber](/ratgeber/startseite/ratgeber/home-15478376.bild.html)
+    -   [Reise](/reise/startseite/aktivurlaub/reise-15478744.bild.html)
+    -   [Auto](/auto/startseite/auto/auto-home-15478182.bild.html)
+    -   [Digital](/digital/startseite/digital/digital-home-15479358.bild.html)
+    -   [Spiele](/spiele/startseite/spiele/spiele-home-15478836.bild.html)
+    -   [Regio](/regional/startseite/regional/regio-15799990.bild.html)
+    -   [Video](/video/startseite/bildchannel-home/video-home-15713248.bild.html)
+
+-   [**](/)
+-   [BILD<span>plus</span>](/bild-plus/bildplus-startseite/bildplus/home-30723544.bild.html)
+-   [News](/news/startseite/news/news-16804530.bild.html)
+-   [Politik](/politik/startseite/politik/politik-16804552.bild.html)
+-   [Geld](/geld/startseite/geld/geld-15683376.bild.html)
+-   [Unterhaltung](/unterhaltung/startseite/unterhaltung/show-16804710.bild.html)
+-   [Sport](/sport/startseite/sport/sport-home-15479124.bild.html)
+-   [Bundesliga](/bundesliga/1-liga/home-1-bundesliga-fussball-news-31035072.bild.html)
+-   [Lifestyle](/lifestyle/startseite/lifestyle/lifestyle-15478526.bild.html)
+-   [Ratgeber](/ratgeber/startseite/ratgeber/home-15478376.bild.html)
+-   [Reise](/reise/startseite/aktivurlaub/reise-15478744.bild.html)
+-   [Auto](/auto/startseite/auto/auto-home-15478182.bild.html)
+-   [Digital](/digital/startseite/digital/digital-home-15479358.bild.html)
+-   [Spiele](/spiele/startseite/spiele/spiele-home-15478836.bild.html)
+-   [Regio](/regional/startseite/regional/regio-15799990.bild.html)
+-   [Video](/video/startseite/bildchannel-home/video-home-15713248.bild.html)
+
+21.05.2017 - 18:04 Uhr
+1.  <a href="http://www.bild.de/" class="external-link"><span>Home</span></a> ›
+2.  [<span>corporate-site</span>](/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html)
+
+ | BILD KG
+==========
+
+Datenschutzerklärung
+--------------------
 
 **Datenschutzerklärung für Dienste der BILD GmbH & Co. KG**
 
@@ -449,3 +547,115 @@ Sollten Sie noch Fragen zum Datenschutz bei BILD KG haben, steht Ihnen unser Dat
  
 
 Stand: August 2016
+
+-   [News](/news/startseite/news/news-16804530.bild.html)
+    -   [Wetter](http://wetter.bild.de/)
+-   [Politik](/politik/startseite/politik/politik-16804552.bild.html)
+    -   [BILD International](/politik/international/bild-international/home-44225950.bild.html)
+-   [Geld](/geld/startseite/geld/geld-15683376.bild.html)
+    -   [Stromtarif-Vergleich](http://stromvergleich.bild.de/promo/)
+    -   [Vergleichsrechner](http://finanzservice.bild.de/versicherungen/privatehaftpflicht-versicherung-vergleich/)
+    -   [Kredit-Vergleich](http://kreditvergleich.bild.de/promo/)
+    -   [Gehaltscheck](/ratgeber/job-karriere/gehalt/berechnen-sie-ihr-gehalt-17073700.bild.html)
+    -   [Gas-Vergleich](http://gasvergleich.bild.de/promo/)
+    -   [Börse](/geld/boerse/boerse/home-15703412.bild.html)
+-   [Sport](/sport/startseite/sport/sport-home-15479124.bild.html)
+    -   [Sport Livekalender](http://sportdaten.bild.de/sportdaten/livekalender/)
+    -   [Bild Sportwetten](http://sportwetten.bild.de)
+-   [Unterhaltung](/unterhaltung/startseite/unterhaltung/show-16804710.bild.html)
+    -   [Filme & Serien](http://vod.bild.de)
+    -   [Tickets](http://eventim.bild.de)
+    -   [BILD TV-Recorder](/unterhaltung/partner/fernsehen/save-tv-online-videorecorder-46997180.bild.html)
+    -   [TV Programm](http://tv.bild.de/)
+-   [Reise](/reise/startseite/aktivurlaub/reise-15478744.bild.html)
+    -   [BILD Reisen](http://reisen.bild.de)
+-   [Auto](/auto/startseite/auto/auto-home-15478182.bild.html)
+    -   [Gebrauchtwagen](http://automarkt.bild.de/)
+    -   [Neuwagen](http://neuwagen.bild.de/)
+    -   [Führerscheintest](http://fahrschule.bild.de)
+-   [Spiele](/spiele/startseite/spiele/spiele-home-15478836.bild.html)
+    -   [Online-Spiele](/spiele/online-spiele/online-spiele/home-15720618.bild.html)
+    -   [Browser-Spiele](/spiele/browsergames/multiplayer-spiele/home-15720754.bild.html)
+    -   [Download-Spiele](http://download-spiele.bild.de/)
+    -   [Karten-Spiele](/spiele/karten-brett-spiele/online-spiele/home-22793496.bild.html)
+    -   [BILDspielt](http://www.bildspielt.de/)
+    -   
+
+-   [Lifestyle](/lifestyle/startseite/lifestyle/lifestyle-15478526.bild.html)
+    -   [BILD FITNESS](/partner/lifestyle/bild-aktionen/bild-fitness-48971670.bild.html)
+    -   [BILD Bestseller](http://www.bestseller.bild.de)
+    -   [Horoskop](/lifestyle/horoskop/horoskop/home-21648048.bild.html)
+    -   [Fotoservice](http://fotokasten.bild.de)
+-   [Ratgeber](/ratgeber/startseite/ratgeber/home-15478376.bild.html)
+    -   [Immobiliensuche](http://immobiliensuche.bild.de/)
+    -   [Jobsuche / Stellenmarkt](/ratgeber/stellenmarkt/jobsuche/jobs-startseite-44558876.bild.html)
+    -   [Versicherungen](http://huk24.bild.de/)
+-   [Shopping](http://shop.bild.de/)
+    -   [BILD Shop](http://shop.bild.de/)
+    -   [BILD Gutscheine](http://gutscheine.bild.de/)
+-   [BILD Deals](/partner/bild-deals/bild-aktionen/bild-deals-48659736.bild.html)
+-   [Digital](/digital/startseite/digital/digital-home-15479358.bild.html)
+    -   [Download](http://software.bild.de/)
+    -   [BILD Apps](/digital/mobil/bild-apps/bild-app-bildplus-abo-smartphone-tablet-smart-tv-43955286.bild.html)
+-   <span>BILD.de folgen!</span>
+    -   <a href="http://www.facebook.com/bild" class="icon icon-uniE611">Facebook</a>
+    -   <a href="https://twitter.com/bild" class="icon icon-uniE612">Twitter</a>
+    -   <a href="https://plus.google.com/+bildde" class="icon icon-uniE614">Google+</a>
+    -   <a href="/corporate-site/newsletter/bild-service/newsletter-44536448.bild.html" class="icon icon-uniE615">Newsletter</a>
+
+<!-- -->
+
+-   [Impressum](/corporate-site/impressum/bild-de/impressum-30746918.bild.html)
+-   [Über BILD.de](/corporate-site/ueber-bild-de/bild-de/artikel-ueber-bild-de-17520982.bild.html)
+-   [Hilfe](/faq/faq-artikel-web/bildplus/faq-web-30318066.bild.html)
+-   [Kontakt](/corporate-site/kontakt-2015/bild-de/kontakt-42366552.bild.html)
+-   [BILD & BamS nach Hause](/bildplus/aboseite/bild-de/bildplus-abo-30442024.bild.html)
+-   [Media](http://www.mediaimpact.de/portrait/BILD-DIGITAL-Bild-Digital_25527286.html)
+-   [Jobs](/corporate-site/jobs/bild-de/artikel-jobs-2952862.bild.html)
+-   [Presse](http://www.axelspringer.de/presse/cw_pressemitteilung_index_de_44379.html?epp=10&s_vondatum_jahr=&s_vondatum_monat=&s_bisdatum_jahr=&s_bisdatum_monat=&s_text=&s_rubrik1=61&s_rubrik2=74)
+-   [Allg. Nutzungsbedingungen](/corporate-site/agb/bild-de/artikel-agb-2952414.bild.html)
+-   [Bes. Nutzungsbedingungen](/bild-community/agb/bild-service/besondere-nutzungsbedingungen-anmeldepflichtigen-dienste-21005710.bild.html)
+-   [Nutzungsbasierte Online Werbung](/corporate-site/nutzungsbasierte-online-werbung/daten/informationen-zu-nutzungsbasierter-online-werbung-24960472.bild.html)
+-   [Datenschutz](/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html)
+-   [Themenseiten](/themen/uebersicht/themenseiten/alle-themen-15838852.bild.html)
+-   [BILDspielt](http://www.bildspielt.de/)
+-   [BILDconnect](http://www.bildconnect.de)
+
+### Online Angebote Axel-Springer
+
+-   [Auto BILD](http://www.autobild.de/)
+-   [Autohaus24.de](http://www.autohaus24.de/)
+-   [B.Z.](http://www.bz-berlin.de/)
+-   [BILD](http://www.bild.de/)
+-   [COMPUTER BILD](http://www.computerbild.de/)
+-   [METAL HAMMER](http://www.metal-hammer.de/)
+-   [finanzen.net](http://www.finanzen.net/)
+-   [flug.idealo.de](http://flug.idealo.de/)
+-   [goFeminin.de](http://www.gofeminin.de/)
+-   [idealo.de](http://www.idealo.de/)
+-   [immonet.de](http://www.immonet.de/)
+-   [Ladenzeile.de](http://www.ladenzeile.de/)
+-   [MUSIKEXPRESS](http://www.musikexpress.de/)
+-   [onmeda](http://www.onmeda.de/)
+-   [preis.de](http://www.preis.de/)
+-   [ROLLING STONE](http://www.rollingstone.de/)
+-   [SPORT BILD](http://www.sportbild.bild.de)
+-   [stepstone.de](http://www.stepstone.de/)
+-   [TRAVELBOOK](http://www.travelbook.de/)
+-   [STYLEBOOK](http://www.stylebook.de/)
+-   [TECHBOOK](http://www.techbook.de/)
+-   [transfermarkt.de](http://www.transfermarkt.de/)
+-   [WELT](http://www.welt.de/)
+-   [N24](http://www.n24.de/n24/)
+-   [zanox.de](http://www.zanox.com/de/)
+-   [Umzugsauktion](http://www.umzugsauktion.de/)
+-   [iKiosk](http://www.ikiosk.de/)
+-   [Axel Springer SE](http://www.axelspringer.de/)
+-   [Axel Springer Akademie](http://www.axel-springer-akademie.de/)
+-   [Axel Springer Digital TV](http://www.asd.tv/)
+-   [Axel Springer Infopool](http://www.as-infopool.de/)
+-   <a href="http://www.ein-herz-fuer-kinder.de/" class="last">Ein Herz für Kinder</a>
+
+-   <a href="" class="link-switchworld">Zur mobilen Ansicht von BILD.de</a>
+
+

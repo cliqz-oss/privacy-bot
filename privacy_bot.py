@@ -26,7 +26,12 @@ import requests
 import tldextract
 from bs4 import BeautifulSoup
 from readability import Document
+from langdetect import detect
+import pandas as pd
+import datetime
+
 from headless import HeadlessPrivacyScraper
+import utils
 
 import pypandoc
 from pypandoc.pandoc_download import download_pandoc
@@ -42,7 +47,9 @@ LANGS = {
     'com': 'en',
     'co.uk': 'uk',
     'ru': 'ru'
-}
+}    
+
+DF = pd.DataFrame(pd.read_csv('DATA.csv'))
 
 
 def fetch(url):
@@ -52,7 +59,7 @@ def fetch(url):
             ext = tldextract.extract(url)
             suffix = ext.suffix
             headers = {}
-            headers['User-agent'] = 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'
+            headers['User-agent'] = 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/52.0'
             if suffix in LANGS:
                 headers["Accept-Language"] = LANGS.get(suffix, suffix)
             else:
@@ -68,7 +75,7 @@ def fetch(url):
             retry += 1
 
 
-def fetch_privacy_policy(policy_url):
+def fetch_privacy_policy(queried_url, policy_url):
     print('fetch_privacy_policy', policy_url)
 
     # Extract domain
@@ -95,26 +102,31 @@ def fetch_privacy_policy(policy_url):
         return
 
     # Extract policy content
-    doc = Document(response.content)
-    print(doc.title())
+    converted, language = utils.content_to_doc(response.url, response.content)
+    print("Passed conversion to doc: ", domain)
 
-    # Convert to github markup
-    content = doc.summary().encode('utf-8')
-    converted = pypandoc.convert_text(
-        content, 'markdown_github', format='html')
-    converted = policy_url + '\n\n' + converted
+    # store in privacy/
+    path = utils.write_policy_to_disk(language, domain, converted)
 
-    print(domain)
+    # store meta_info in meta/
+    # ,domain,privacy_url,fetched_date,status,language,disk_location
 
-    output_dir = os.path.join('privacy_policies', domain)
-    try:
-        os.makedirs(output_dir)
-    except os.error:
-        pass
 
-    # Write output
-    with open(os.path.join(output_dir, suffix + '.md'), 'wb') as output:
-        output.write(converted.encode('utf-8'))
+    row = [queried_url, 
+           response.url, 
+           datetime.datetime.now().strftime('%Y%m%d'),
+           response.status_code,
+           language,
+           path]
+
+    print(row)
+
+    # row.insert(0, len(DF.domain) + 1)
+    # DF.append(pd.DataFrame(row))
+    DF.loc[len(DF.index)] = row
+    # DF.index += 1
+    print('FINISHED adding it to DF')
+    # utils.write_meta_to_disk(path, response, queried_url, domain, suffix, language)
 
     return True
 
@@ -126,11 +138,11 @@ def iter_protocols(base_url):
 
 def iter_policy_static(url):
     patterns = [
-        # '/privacy',
-        # '/privacy-policy',
-        # '/privacy/privacy-policy',
-        # '/legal/privacy',
-        # '/legal/confidential',
+        '/privacy',
+        '/privacy-policy',
+        '/privacy/privacy-policy',
+        '/legal/privacy',
+        '/legal/confidential',
     ]
     for p in patterns:
         yield url.rstrip('/') + p
@@ -146,8 +158,8 @@ def iter_policy_heuristic(url):
                 href = link['href']
                 href_lower = href.lower()
                 text = link.text.lower()
-                # print("Text Link: ",  text, href)
                 if keyword in href_lower or keyword in text:
+                    print(text, href_lower)
                     # Get full privacy policy URL
                     if href.startswith('//'):
                         href = 'http:' + href
@@ -167,21 +179,27 @@ def iter_url_candidates(base_url, level=0):
         # Check to extract based on heuristic
         yield from iter_policy_heuristic(url)
         # Check static list
-        yield from iter_policy_static(url)
+        # yield from iter_policy_static(url) #TODO: remove
         # Check at second level
-        if level == 0:
-            for second_level_url in iter_second_level_url(base_url):
-                yield from iter_url_candidates(second_level_url, level=1)
+        # if level == 0:
+        #     for second_level_url in iter_second_level_url(base_url):
+        #         yield from iter_url_candidates(second_level_url, level=1)
 
 
 def get_privacy_policy_url(base_url):
     """Given a valid URL, try to locate the privacy statement page. """
     for url in iter_url_candidates(base_url):
         try:
-            result = fetch_privacy_policy(url)
-            if result:
-                # We found the policy
-                return True
+            if base_url in DF.domain.values:
+                privacy_url = DF[DF.domain == base_url].privacy_url.values[0]
+                result = fetch_privacy_policy(base_url, privacy_url)
+                if result:
+                    return True
+            else:
+                result = fetch_privacy_policy(base_url, url)
+                if result:
+                    # We found the policy
+                    return True
         except:
             continue
     return False
@@ -194,7 +212,7 @@ def main():
     try:
         # Check if Pandoc is available
         output = pypandoc.convert_text('#Test', 'rst', format='md')
-    except Error as e:
+    except Exception as e:
         # Download pandoc
         download_pandoc()
 
@@ -214,16 +232,17 @@ def main():
         if not url.startswith('#') and len(url.strip()) > 0
     )
 
+
     # instance of Headless Browser Scrapper
-    scraper = HeadlessPrivacyScraper()
+    headless_scraper = HeadlessPrivacyScraper()
 
     # Fetch data
     if len(urls) > 0:
-        found = 0
         print("Processing %s urls" % len(urls), file=sys.stderr)
         print("Number of jobs: %s" % jobs, file=sys.stderr)
         print('-' * 15, file=sys.stderr)
-        print("Privacy Bot")
+        print("Initiating Privacy Bot")
+
 
         if jobs > 1:
             pool = multiprocessing.Pool(jobs)
@@ -234,22 +253,28 @@ def main():
 
         print('Map done', file=sys.stderr)
         for url, result in zip(urls, policies):
-            if not result:
+            print('RESULT: ', result)
+            if result:
+                break
+            else:
                 print('Not found', url)
 
-                print('Trying with Javascript on: ', url)
-                for pUrl in iter_protocols(url):
-                    links = scraper.serve_qualified(pUrl)
-                    print(links)
-
+                print('Going headless with: ', url)
+                for purl in iter_protocols(url):
+                    links = headless_scraper.found_links(purl)
                     policies = map(get_privacy_policy_url, links)
-
-                    print("====")
-                scraper.quit_driver()
-
+                    for link in links:
+                        if fetch_privacy_policy(url, link):
+                            break
+        
+        print("Quiting headless browser")
+        headless_scraper.quit_driver()
+        
+        DF.drop_duplicates()
+        DF.to_csv("DATA.csv", sep=',', encoding='utf-8', index=False)
+        print("done")
 
         print('-' * 15, file=sys.stderr)
-
 
 if __name__ == "__main__":
     main()

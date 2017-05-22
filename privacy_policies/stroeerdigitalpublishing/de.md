@@ -1,4 +1,32 @@
-http://www.stroeerdigitalpublishing.de/datenschutz
+http://www.stroeerdigitalpublishing.de/datenschutz/
+
+<a href="" class="btn responsive-menu pull-left"></a> <a href="../index.html" class="brand"></a>
+
+-   
+
+    [Home](../index.html)
+-   
+
+    [Unternehmen](../index.html%3Fp=379.html)
+-   
+
+    [Jobs & Karriere](../index.html%3Fp=381.html)
+-   
+
+    [Presse](../index.html%3Fp=383.html)
+-   
+
+    [Kontakt](../kontakt.1.html)
+
+-   [Impressum](http://www.digital-media-products.de/impressum/)
+-   [Datenschutz](http://www.digital-media-products.de/datenschutz/)
+
+<span class="large_bold_white_tele unterstrich">Ströer Digital Publishing</span>
+
+Hinweise zum Datenschutz
+------------------------
+
+### <span class="star magenta">\*</span>auf t-online.de
 
 ### **Hinweise zum Datenschutz auf t-online.de**
 
@@ -153,6 +181,14 @@ Die Auslieferung nutzungsbasierter Online Werbung wird vom digitalen Werbevermar
 
 Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung zuständig sind folgende Unternehmen im Auftrag der Ströer Digital Publishing:
 
+-   [ADTECH](http://www.adtech.de/Home/)
+-   [AppNexus](https://www.appnexus.com/de)
+-   [AudienceScience](http://www.audiencescience.com/)
+-   [The ADEX](http://de.theadex.com/)
+-   [Emetriq GmbH](https://www.emetriq.com/)
+-   [nugg.ad GmbH](http://www.nugg.ad/de/)
+-   [Ströer SSP](http://www.stroeer.de/konvergenz-konzepte/daten-technologien/stroeer-ssp.html)
+
 Aufgrund des pseudonymen bzw. anonymen Charakters der Daten benötigen wir und die genannten Drittunternehmen keine gesonderte Einwilligung zur nutzungsbasierte Online Werbung (§ 15 Abs. 3 Telemediengesetz).
 
 Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, können Sie auf folgenden Links widersprechen und die Datenerhebung deaktivieren:
@@ -285,3 +321,40 @@ Platz der Einheit 1
 60327 Frankfurt am Main
 Tel.: +49 69 921017-610
 E-Mail: <sdp-datenschutz@stroeer.de>
+
+Weiteres
+--------
+
+-   
+
+    [Impressum](../index.html%3Fp=2593.html)
+-   
+
+    [Datenschutz](../index.html%3Fp=2614.html)
+-   
+
+    [Jugendschutz](../index.html%3Fp=2616.html)
+-   
+
+    [Ströer Digitale Werbung](http://www.stroeer.de/digitale-werbung.html)
+
+Netzwerk & Partner
+------------------
+
+-   
+
+    [t-online.de](http://www.t-online.de/)
+-   
+
+    [wetter.info](http://www.wetter.info/)
+-   
+
+    [wanted.de](http://www.wanted.de/)
+-   
+
+    [einfachtierisch.de](http://www.einfachtierisch.de/)
+-   
+
+    [mydoc.de](http://www.mydoc.de/)
+
+

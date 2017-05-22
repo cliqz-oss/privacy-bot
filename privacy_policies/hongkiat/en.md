@@ -1,0 +1,86 @@
+http://www.hongkiat.com/blog/privacy-policy-for-hongkiatcom/
+
+Please enable JavaScript in your browser to enjoy a better experience.
+
+<span class="screen-reader-text" itemprop="name">Hongkiat.com</span>
+
+Main Menu
+---------
+
+1.  
+
+    Design / Dev
+2.  
+
+    Technology
+3.  
+
+    Inspiration
+4.  
+
+    Social Commerce
+5.  
+
+    All
+6.  
+
+    <a href="https://deals.hongkiat.com/" class="menu-list__link">Deals</a>
+
+<span class="screen-reader-text">Search Hongkiat for:</span>
+
+<span class="screen-reader-text">Reveal Search Form</span>
+<span class="screen-reader-text">Reveal Off-canvas Navigation</span>
+
+Privacy Policy
+==============
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at me\[at\]hongkiat\[dot\]com.
+
+At hongkiat.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by hongkiat.com and how it is used.
+
+##### Log Files
+
+Like many other websites, Hongkiat (HKDC) makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+##### Cookies and Web Beacons
+
+Hongkiat (HKDC) usew cookies to store information about visitor preferences, record user-specific information on the pages the user accesses or visits, customize webpage content based on visitor browser type or other information that the visitor sends via their browser.
+
+##### DoubleClick DART Cookie
+
+-   Google, as a third party vendor, uses cookies to serve ads on Hongkiat (HKDC)
+-   Google’s use of the DART cookie enables it to serve ads to users based on their visit to hongkiat.com and other sites on the Internet.
+-   Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: [Google Adsense](http://www.google.com/adsense)and [Amazon](https://affiliate-program.amazon.com/).
+
+These third-party ad servers or ad networks use technology to deliver the advertisements and links that appear on Hongkiat (HKDC), sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+Hongkiat (HKDC) has no access to or control over these cookies that are used by third-party advertisers. You can however opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. hongkiat.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+© 2007&dash;2017 Hongkiat.com (HKDC). All Rights Reserved.
+
+Reproduction of materials found on this site, in any form, without explicit permission is prohibited. [Publishing policy](/blog/publishing-policy/) &dash; [Privacy Policy](/blog/privacy-policy-for-hongkiatcom/)
+
+-   -   -   
+
+<span class="screen-reader-text">Close Search</span>
+<span class="screen-reader-text">Search Hongkiat</span>
+
+Facebook
+Twitter
+Instagram
+Pinterest
+LinkedIn
+Google+
+Youtube
+Reddit
+Dribbble
+Behance
+Github
+CodePen
+Email
