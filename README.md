@@ -24,7 +24,28 @@ code and the data.
 
 ## Getting started
 
-**TODO**
+To get going with the project as a contributor, it is recommended to install the
+package in 'developer mode' using `pip`, in a virtual environment. You also need
+`Python 3`.
+
+```sh
+$ pip install -e .
+```
+
+There are two entry points, used respectively for:
+1. Automagically discover privacy policies given a list of domains
+2. Fetch privacy policies given the output of the first entry point (a list of
+   privacy policies for each domain).
+
+```sh
+$ find_policies --urls domains.txt
+# Outputs: found_policies.json
+$ fetch_policies policies_metadata.json
+# Outputs: index.json and privacy_policies/
+```
+
+Keep in mind that the file formats are still a work in progress, and will likely
+evolve in a near future. Feel free to contribute with ideas and improvements!
 
 ## Contributing
 
