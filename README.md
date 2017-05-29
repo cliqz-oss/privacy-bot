@@ -39,7 +39,7 @@ There are two entry points, used respectively for:
 
 ```sh
 $ find_policies --urls domains.txt
-# Outputs: found_policies.json
+# Outputs: policies_metadata.json
 $ fetch_policies policies_metadata.json
 # Outputs: index.json and privacy_policies/
 ```
