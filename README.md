@@ -1,4 +1,4 @@
-# Privacy Bot
+# :balloon: Privacy Bot
 
 Privacy policies are a legal requirement for websites handling users' data. So anyone should be able to access them, read them and understand what it takes (in terms of privacy) to be using a given service. Except no one reads them. User's fault? Probably not. We can list several reasons:
 
