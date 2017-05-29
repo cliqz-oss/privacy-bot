@@ -98,21 +98,21 @@ def main():
 
     # Fetch data
     if urls:
-        print('-' * 42, file=sys.stderr)
-        print('{0:35}'.format('Initializing Privacy Bot'), file=sys.stderr)
-        print('-' * 42, file=sys.stderr)
-        print('{0:35}{1:7}'.format('Urls to Process: ', len(urls)), file=sys.stderr)
-        print('{0:35}{1:7}'.format('Number of Jobs: ', jobs), file=sys.stderr)
-        print('-' * 42, file=sys.stderr)
-        print('', file=sys.stderr)
+        print('-' * 80,                     file=sys.stderr)
+        print('Initializing Privacy Bot',   file=sys.stderr)
+        print('-' * 80,                     file=sys.stderr)
+        print('Urls to Process: %s' % urls, file=sys.stderr)
+        print('Number of Jobs: %s' % jobs,  file=sys.stderr)
+        print('-' * 80,                     file=sys.stderr)
+        print('',                           file=sys.stderr)
 
         # Find privacy policies
         with futures.ProcessPoolExecutor(jobs) as pool:
             policies = pool.map(get_privacy_policy_url, urls)
 
         # Generate policies_metadata file
-        print('', file=sys.stderr)
-        print('{0:35}'.format('Generating policies_metadata file'), file=sys.stderr)
+        print('',                                      file=sys.stderr)
+        print('Generating policy_url_candidates file', file=sys.stderr)
 
         policies_metadata = {}
         for url, policies in zip(urls, policies):
@@ -123,10 +123,10 @@ def main():
                 "locale": "fr-FR"
             }
 
-        with open('policies_metadata.json', 'w') as output:
+        with open('policy_url_candidates.json', 'w') as output:
             json.dump(policies_metadata, output, sort_keys=True, indent=4)
 
-        print('... written to policies_metadata.json')
+        print('... written to policy_url_candidates.json')
         print('-' * 42, file=sys.stderr)
 
 
