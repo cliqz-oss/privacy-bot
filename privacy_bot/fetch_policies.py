@@ -115,8 +115,8 @@ def main():
                         output.write(policy["raw_content"])
 
                     # Output cleaned html
-                    with open(os.path.join(output_dir, 'policy.html'), 'w') as output:
-                        output.write(policy["clean_content"])
+                    with open(os.path.join(output_dir, 'policy.html'), 'wb') as output:
+                        output.write(policy["clean_content"].encode('utf-8'))
 
                     # TODO - output a markdown version to display on github
 

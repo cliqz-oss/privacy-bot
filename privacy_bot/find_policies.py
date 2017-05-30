@@ -14,7 +14,6 @@ Options:
     -h, --help          Show help
 """
 
-
 import concurrent.futures as futures
 import json
 import logging
@@ -29,30 +28,10 @@ KEYWORDS = ['privacy', 'datenschutz',
             '隐私', '隱私', 'プライバシー', 'confidential',
             'mentions-legales']
 
-LANGS = {
-    'fr': 'fr',
-    'de': 'de',
-    'com': 'en',
-    'co.uk': 'uk',
-    'ru': 'ru'
-}
-
 
 def iter_protocols(base_url):
     for protocol in ['https://', 'http://']:
         yield protocol + base_url
-
-
-def iter_policy_static(url):
-    patterns = [
-        '/privacy',
-        '/privacy-policy',
-        '/privacy/privacy-policy',
-        '/legal/privacy',
-        '/legal/confidential',
-    ]
-    for p in patterns:
-        yield url.rstrip('/') + p
 
 
 def iter_policy_heuristic(url, fetch):
@@ -77,22 +56,10 @@ def iter_policy_heuristic(url, fetch):
                 yield href
 
 
-def iter_second_level_url(url):
-    # TODO: Make heuristic
-    for p in ['/terms', '/legal', '/policies']:
-        yield url.rstrip('/') + p
-
-
 def iter_url_candidates(base_url, level=0):
     for url in iter_protocols(base_url):
         # Check to extract based on heuristic
         yield from iter_policy_heuristic(url)
-        # Check static list
-        # yield from iter_policy_static(url) #TODO: remove
-        # Check at second level
-        # if level == 0:
-        #     for second_level_url in iter_second_level_url(base_url):
-        #         yield from iter_url_candidates(second_level_url, level=1)
 
 
 def get_privacy_policy_url(base_url):
@@ -131,35 +98,37 @@ def main():
 
     # Fetch data
     if urls:
-        print(">> Privacy Bot",                 file=sys.stderr)
-        print('-' * 80,                         file=sys.stderr)
-        print("Processing %s urls" % len(urls), file=sys.stderr)
-        print("Number of jobs: %s" % jobs,      file=sys.stderr)
-        print('-' * 80,                         file=sys.stderr)
-        print('',                               file=sys.stderr)
+        print('-' * 80,                          file=sys.stderr)
+        print('Initializing Privacy Bot',        file=sys.stderr)
+        print('-' * 80,                          file=sys.stderr)
+        print('Urls to Process: %s' % len(urls), file=sys.stderr)
+        print('Number of Jobs: %s' % jobs,       file=sys.stderr)
+        print('-' * 80,                          file=sys.stderr)
+        print('',                                file=sys.stderr)
 
         # Find privacy policies
         with futures.ProcessPoolExecutor(jobs) as pool:
             policies = pool.map(get_privacy_policy_url, urls)
 
         # Generate policies_metadata file
-        print('',                       file=sys.stderr)
-        print('Generating policies_metadata file', file=sys.stderr)
-        print('-' * 80, file=sys.stderr)
+        print('',                                      file=sys.stderr)
+        print('Generating policy_url_candidates file', file=sys.stderr)
 
         policies_metadata = {}
         for url, policies in zip(urls, policies):
-            print('url:', url, 'policies:', policies)
+            # print('url: ', url, 'policies: ', policies)
             policies_metadata[url] = {
                 "domain": url,
                 "privacy_policies": policies,
                 "locale": "fr-FR"
             }
 
-        with open('found_policies.json', 'w') as output:
+        with open('policy_url_candidates.json', 'w') as output:
             json.dump(policies_metadata, output, sort_keys=True, indent=4)
 
+        print('... written to policy_url_candidates.json')
         print('-' * 80, file=sys.stderr)
+
 
 if __name__ == "__main__":
     main()

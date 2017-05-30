@@ -33,14 +33,14 @@ $ pip install -e .
 ```
 
 There are two entry points, used respectively for:
-1. Automagically discover privacy policies given a list of domains
-2. Fetch privacy policies given the output of the first entry point (a list of
+1. Automagically discovering privacy policies given a list of domains
+2. Fetching privacy policies given the output of the first entry point (a list of
    privacy policies for each domain).
 
 ```sh
 $ find_policies --urls domains.txt
-# Outputs: found_policies.json
-$ fetch_policies policies_metadata.json
+# Outputs: policy_url_candidates.json
+$ fetch_policies policy_url_candidates.json
 # Outputs: index.json and privacy_policies/
 ```
 
