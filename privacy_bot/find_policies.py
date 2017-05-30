@@ -98,13 +98,13 @@ def main():
 
     # Fetch data
     if urls:
-        print('-' * 80,                     file=sys.stderr)
-        print('Initializing Privacy Bot',   file=sys.stderr)
-        print('-' * 80,                     file=sys.stderr)
-        print('Urls to Process: %s' % urls, file=sys.stderr)
-        print('Number of Jobs: %s' % jobs,  file=sys.stderr)
-        print('-' * 80,                     file=sys.stderr)
-        print('',                           file=sys.stderr)
+        print('-' * 80,                          file=sys.stderr)
+        print('Initializing Privacy Bot',        file=sys.stderr)
+        print('-' * 80,                          file=sys.stderr)
+        print('Urls to Process: %s' % len(urls), file=sys.stderr)
+        print('Number of Jobs: %s' % jobs,       file=sys.stderr)
+        print('-' * 80,                          file=sys.stderr)
+        print('',                                file=sys.stderr)
 
         # Find privacy policies
         with futures.ProcessPoolExecutor(jobs) as pool:
@@ -127,7 +127,7 @@ def main():
             json.dump(policies_metadata, output, sort_keys=True, indent=4)
 
         print('... written to policy_url_candidates.json')
-        print('-' * 42, file=sys.stderr)
+        print('-' * 80, file=sys.stderr)
 
 
 if __name__ == "__main__":
