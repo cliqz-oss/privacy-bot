@@ -1,0 +1,760 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/layout.css">
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/purecss.css">
+	<link rel="stylesheet" href="/hilfe/resources/styles/font-awesome-4.0.3/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/header.css">
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/core.css">
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/mod-boxes.css">
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/theme.css">
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/mod-buttons.css">
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/icons.css">
+	<link rel="stylesheet" type="text/css" href="/hilfe/resources/styles/index.css">
+
+	<meta content="width=device-width,initial-scale=1, maximum-scale=1"
+		  name="viewport">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title></title>
+
+	<script type="text/javascript">
+		(function(i, s, o, g, r, a, m){
+			i['GoogleAnalyticsObject'] = r; // Acts as a pointer to support renaming.
+
+			// Creates an initial ga() function.  The queued commands will be executed once analytics.js loads.
+			i[r] = i[r] || function() {
+						(i[r].q = i[r].q || []).push(arguments)
+					},
+
+				// Sets the time (as an integer) this tag was executed.  Used for timing hits.
+					i[r].l = 1 * new Date();
+
+			// Insert the script tag asynchronously.  Inserts above current tag to prevent blocking in
+			// addition to using the async attribute.
+			a = s.createElement(o),
+					m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'uga');
+
+		function trackMeridian(emailRegEx) {
+
+			var getPageType = function(path) {
+				if(path == "/hilfe/artikel/cookieverwendung") {
+					return "LegalCookie";
+				} else if(path == "/hilfe/artikel/nutzungsbedingungen") {
+					return "LegalTC";
+				} else {
+					return "Other";
+				}
+			};
+
+			var MERIDIAN_NAME = 'meridian';
+			uga('create', {
+				trackingId: 'UA-24356365-20',
+				cookieDomain: "ebay-kleinanzeigen.de",
+				name: MERIDIAN_NAME
+			});
+			uga(MERIDIAN_NAME+'.set', 'anonymizeIp', true);
+			uga(MERIDIAN_NAME+'.set', 'location', window.location.href.replace(emailRegEx,'%removed%'));
+			if(emailRegEx.test(document.referrer)){
+				uga(MERIDIAN_NAME+'.set', 'referrer', document.referrer.replace(emailRegEx,'%removed%'));
+			}
+
+			uga(MERIDIAN_NAME+'.send', 'pageview',{
+				'page': location.href.replace(emailRegEx,'%removed%'),
+				'dimension1': getPageType(window.location.pathname)
+			});
+		}
+
+		uga('create', 'UA-24356365-9',{
+					'cookieDomain': "ebay-kleinanzeigen.de"
+				}
+		);
+		uga('set', 'anonymizeIp', true);
+
+		/* PII cleanup */
+		var emailRegEx = /([\w-+.]+@[\w-.]+)/;
+		// remove data from URL ("dl" protocol parameter)
+		uga('set', 'location', window.location.href.replace(emailRegEx,'%removed%'));
+		// remove data from referrer ("dr" protocol parameter), only if required
+		if(emailRegEx.test(document.referrer)){
+			uga('set', 'referrer', document.referrer.replace(emailRegEx,'%removed%'));
+		}
+
+		uga('send', 'pageview');
+		trackMeridian(emailRegEx);
+
+	</script>
+</head>
+<body class="positionfixed">
+<div class="page-container">
+	<header id="site-header" class="topbar-fixed mobile-row">
+		<div id="topbar-back">
+			<a href="/hilfe/"> <img id="topbar-logo"
+											   alt="eBay Kleinanzeigen"
+											   src="/hilfe/resources/styles/logo-ebayk-402x80.exau6wm95es0.png">
+			</a>
+		</div>
+		<div id="topbar-title">
+			<h1></h1>
+		</div>
+		<section id="site-header-top">
+
+			<div id="site-logo">
+				<a href="http://www.ebay-kleinanzeigen.de"
+				   data-gaevent="Navigation,ClickLogo"> <img alt="Kleinanzeigen"
+															 src="/hilfe/resources/styles/logo-ebayk-402x80.exau6wm95es0.png">
+				</a> <span>Kostenlos. Einfach. Lokal.</span>
+			</div>
+
+		</section>
+
+
+		<section id="site-bar" class="bar-green">
+			<div id="site-bar-content">
+				</nav>
+			</div>
+		</section>
+
+	</header>
+	<div class="content">
+
+<h2>
+	
+</h2>
+
+
+
+
+
+<div id="search">
+	<form action="/hilfe/search" method="GET">
+		<span class="input-group-addon"><a href="#"></a> </span> <input
+			id="searchbar" name="search-query" type="text"
+			placeholder="Geben Sie hier Ihre Frage ein ..." />
+		<button class="btn-blue">
+			<span class="btn-label">Antwort suchen</span>
+		</button>
+	</form>
+</div>
+
+
+
+<div id=nav>
+	<a href="/hilfe/">Hilfe</a>
+	<span class=tab>></span>
+	<span>Datenschutzerklärung</span>
+</div>
+
+<h2>Datenschutzerklärung</h2>
+
+<div class="hilfe-text"><p>
+
+
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Die vorliegende Datenschutzerklärung ist gültig ab
+dem 01.07.2017.</font></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;="" font-weight:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">Die
+bis zum 30.06.2017 geltende Datenschutzerklärung finden Sie <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/datenschutzerklaerung_alt">hier</a>.<br></font></span></p><div style="background-position: 0% 0%; padding: 1pt 4pt; border: 1pt solid windowtext; border-image: none; background-image: none; background-repeat: repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-size: auto;">
+
+<p style="background-position: 0% 0%; margin: 7px 0px; padding: 0cm; border: medium; border-image: none; background-image: none; line-height: 115%; background-repeat: repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-size: auto;"><span style="margin: 0px; color: black; line-height: 115%; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Ab Juli 2017 wird der Betrieb der eBay Kleinanzeigen
+Dienste von der Marktplaats B.V. Wibautstraat 224-2, 1097 DN Amsterdam,
+Niederlande auf die eBay Kleinanzeigen GmbH, Albert-Einstein-Ring 2-6, 14532
+Kleinmachnow, übergehen.</font></span></p><p style="background-position: 0% 0%; margin: 7px 0px; padding: 0cm; border: medium; border-image: none; background-image: none; line-height: 115%; background-repeat: repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-size: auto;"><span style="margin: 0px; color: black; line-height: 115%; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sie müssen dafür nichts unternehmen, es handelt sich
+lediglich um eine konzerninterne Umstrukturierung und es ändern sich nur
+gesellschaftsrechtliche Aspekte. Die eBay Kleinanzeigen GmbH wird dann die für
+die Verarbeitung Ihrer Daten verantwortliche Stelle im Sinne des
+Bundesdatenschutzgesetzes.</font></span></p>
+
+<p style="background-position: 0% 0%; margin: 7px 0px; padding: 0cm; border: medium; border-image: none; background-image: none; line-height: 115%; background-repeat: repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-size: auto;"><span style="margin: 0px; color: black; line-height: 115%; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Für neue Nutzer ab dem 1. Juli 2017 ist die eBay
+Kleinanzeigen GmbH Vertragspartner und verantwortliche Stelle.</font></span></p>
+
+<p style="background-position: 0% 0%; margin: 7px 0px; padding: 0cm; border: medium; border-image: none; background-image: none; line-height: 115%; background-repeat: repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-size: auto;"><span style="margin: 0px; color: black; line-height: 115%; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Für bereits registrierte Nutzer wird die eBay
+Kleinanzeigen GmbH zum Zeitpunkt der Eintragung des Übergangs in das
+Handelsregister der neue Vertragspartner und damit verantwortliche Stelle werden.
+Das geschieht voraussichtlich Anfang Juli 2017 und völlig automatisch.</font></span></p>
+
+</div><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><b><font style="background-color: rgb(255, 255, 255);" size="3">Zusammenfassung und Inhalt</font></b></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><b><font style="background-color: rgb(255, 255, 255);" size="3"><br> </font></b></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><b><font style="background-color: rgb(255, 255, 255);">***</font></b></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><b><font style="background-color: rgb(255, 255, 255);">ausführlichere Informationen finden Sie weiter unten***</font></b></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><b><font style="background-color: rgb(255, 255, 255);"><br></font></b></span></p><p style="margin: 0px;"><span style="margin: 0px;" lang="EN-US"><span style="margin: 0px; color: windowtext; font-family: " arial",sans-serif;="" font-size:="" 9pt;="" text-decoration:="" none;"="" lang="DE"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600">
+ <v:stroke joinstyle="miter">
+ 
+  <v:f eqn="if lineDrawn pixelLineWidth 0">
+  <v:f eqn="sum @0 1 0">
+  <v:f eqn="sum 0 0 @1">
+  <v:f eqn="prod @2 1 2">
+  <v:f eqn="prod @3 21600 pixelWidth">
+  <v:f eqn="prod @3 21600 pixelHeight">
+  <v:f eqn="sum @0 0 1">
+  <v:f eqn="prod @6 1 2">
+  <v:f eqn="prod @7 21600 pixelWidth">
+  <v:f eqn="sum @8 21600 0">
+  <v:f eqn="prod @7 21600 pixelHeight">
+  <v:f eqn="sum @10 21600 0">
+ </v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f>
+ <v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f">
+ </v:path></v:stroke></v:shapetype></span></span><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Geltungsbereich
+und Einwilligung</font></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">         </font></span></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);"><br></font></span></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Marktplaats
+B.V. (ab Juli 2017: eBay Kleinanzeigen GmbH) ist der Betreiber von www.ebay-kleinanzeigen.de
+(nachfolgend die „</font><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:
+normal"><font style="background-color: rgb(255, 255, 255);">Website</font></i></b><font style="background-color: rgb(255, 255, 255);">“) und die für Daten verantwortliche Stelle. In dieser
+Datenschutzerklärung werden die Erhebung, Nutzung, Weitergabe, Speicherung und
+der Schutz Ihrer personenbezogenen Daten beschrieben. Sie gilt für diese
+Website und für alle Anwendungen, Services oder Tools (zusammen „</font><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><font style="background-color: rgb(255, 255, 255);">Services</font></i></b><font style="background-color: rgb(255, 255, 255);">“),
+in denen auf diese Datenschutzerklärung verwiesen wird, unabhängig davon, auf
+welchem Weg Sie die Services aufrufen oder verwenden, einschließlich des
+Zugriffs über Mobilgeräte. </font><a style="mso-comment-reference:A_2"><b><font style="background-color: rgb(255, 255, 255);" color="#000000">Durch die
+Nutzung unserer Services und / oder die Einrichtung eines Kontos
+nehmen Sie die Bedingungen dieser Datenschutzerklärung an und Sie erklären sich
+mit der Erhebung, Nutzung, Weitergabe, Speicherung und dem Schutz Ihrer
+personenbezogenen Daten gemäß der Beschreibung in dieser Datenschutzerklärung
+einverstanden.</font></b></a></span></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Weltweite
+Datenschutzgrundsätze</font></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">             </font></span></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">www.ebay-kleinanzeigen.de
+ist Teil der <a href="http://www.ebayclassifiedsgroup.com" target="_blank">eBay Classifieds-Gruppe</a></font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">, die im Eigentum der <a href="http://www.ebayinc.com" target="_blank">eBay Inc.</a></font></span><span style="margin: 0px;"><span style="margin: 0px; font-family: " calibri",sans-serif;="" font-size:="" 9pt;"="" lang="EN-US"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" color="#000000"> </font></span></span></span><span style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">steht. eBay Inc. </font></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">hat weltweite Datenschutzgrundsätze, die als
+verbindliche unternehmensweit geltende Richtlinien (</font><i style="mso-bidi-font-style:
+normal"><font style="background-color: rgb(255, 255, 255);">Binding Corporate Rules</font></i><font style="background-color: rgb(255, 255, 255);">, BCRs) bezeichnet werden. Mit diesen
+verpflichten wir uns, Ihre personenbezogenen Daten zu schützen und unsere
+Datenschutzverpflichtungen einzuhalten, unabhängig davon, wo in unserer
+Unternehmensgruppe Ihre personenbezogenen Daten erhoben, verarbeitet oder
+gespeichert werden.</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Datenerhebung</font></span></b><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" color="#000000">  </font></span></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir
+erheben, verarbeiten und speichern personenbezogene Daten von Ihnen und den
+Geräten (auch Mobilgeräten), die Sie verwenden, wenn Sie ein Konto bei uns
+einrichten, unsere Services nutzen, uns Informationen durch ein Webformular
+mitteilen, Informationen zu Ihrem Konto hinzufügen oder aktualisieren, sich an
+Community-Diskussionen oder Chats beteiligen oder auf andere Weise mit uns in
+Kontakt treten. Außerdem verwenden wir Plug-Ins von sozialen Netzwerken,
+mittels derer diese sozialen Netzwerke Daten erheben können.</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Nutzung
+und Speicherung</font></span></b><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" color="#000000">             </font></span></span></p><p>
+
+<span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" color="#000000">W</font><span style="margin: 0px; color: black;"><font style="background-color: rgb(255, 255, 255);">ir nutzen die von uns erhobenen personenbezogenen Daten für folgende
+Zwecke: um unsere Services bereitzustellen und zu verbessern, um Ihnen eine
+personalisierte Nutzererfahrung auf unseren Websites zu bieten, um Sie zu
+kontaktieren, um Ihnen Leistungen des Kundenservice zur Verfügung zu stellen,
+um Ihnen personalisierte Werbeanzeigen einzublenden und Marketingmitteilungen
+zu übermitteln und um betrügerische oder rechtswidrige Aktivitäten zu erkennen,
+zu verhindern und zu untersuchen.</font></span></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir
+bewahren personenbezogene Daten von aktiven Konten so lange auf, wie sie für die
+Erbringung unserer Services notwendig und wesentlich sind. Darüber hinaus
+können wir personenbezogene Daten zu geschlossenen Konten aufbewahren, wenn
+dies aufgrund von anwendbarem Recht, zur Betrugsprävention, zur Durchsetzung
+von Gebührenforderungen, zur Behebung von Problemen, zur Unterstützung von
+Ermittlungen, zur Durchsetzung  </font><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">unserer <a href="http://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzungsbedingungen</a> </font></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">und zur Durchführung anderer nach anwendbaren
+nationalen Recht zulässigen oder erforderlichen Maßnahmen erforderlich ist.</font></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wahlmöglichkeiten</font></span></b><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" color="#000000">           </font></span></span></p><p>
+
+<span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" color="#000000">Sie können wählen,
+wie wir Ihre personenbezogenen Daten nutzen dürfen, um mit Ihnen in Kontakt zu
+treten, Ihnen Marketingmitteilungen zu übermitteln und Ihnen personalisierte
+Werbeanzeigen einzublenden.</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Auskunft,
+Korrektur und Löschung</font></span></b><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" color="#000000"> </font></span></p><p><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" color="#000000">Unser Ziel ist, dass die von uns erhobenen
+personenbezogenen Daten korrekt und aktuell sind. Wir bieten Ihnen die
+Möglichkeit, auf Ihre Daten zuzugreifen und diese zu aktualisieren</font><span style="margin: 0px; color: black;"><font style="background-color: rgb(255, 255, 255);">.</font></span></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Weitergabe
+von Informationen</font></span></b><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" color="#000000">      </font></span></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Gegebenenfalls
+geben wir Ihre personenbezogenen Daten an andere Mitglieder der
+eBay-Unternehmensgruppe oder an Dritte weiter. Eine solche Datenweitergabe kann
+erforderlich sein, um Ihnen den Zugriff auf unsere Services zu ermöglichen, um gesetzliche
+Verpflichtungen einzuhalten, um unsere Allgemeinen Geschäftsbedingungen
+durchzusetzen, um unsere Marketing- und Werbeaktivitäten zu ermöglichen oder um
+betrügerische oder rechtswidrige Aktivitäten zu verhindern, zu erkennen,
+einzudämmen und zu untersuchen. Wir geben Ihre personenbezogenen Daten nicht
+ohne Ihre ausdrückliche Einwilligung an Dritte für deren Marketing- und
+Werbezwecke weiter.</font></span></p><p>
+
+<b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sicherheit</font></span></b><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" color="#000000">            </font></span></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Ihre
+Daten werden von uns durch technische und organisatorische Sicherheitsmaßnahmen
+geschützt, um Risiken im Zusammenhang mit deren Verlust, Missbrauch,
+unberechtigtem Zugriff, unberechtigter Weitergabe und Änderung zu minimieren.
+Hierzu setzen wir beispielsweise Firewalls und Datenverschlüsselung, physische
+Zugangsbeschränkungen für unsere Rechenzentren und Berechtigungskontrollen für
+den Datenzugriff ein.</font></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wichtige
+Informationen</font></span></b><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" color="#000000">   </font></span></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Dieser
+Abschnitt enthält einige zusätzliche wichtige Informationen im Zusammenhang mit
+Ihrer Nutzung unserer Services.</font></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><br></span><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Fragen oder Beschwerden</font></span></b><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" color="#000000">       </font></span></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wenn Sie Fragen oder Beschwerden zu dieser
+Datenschutzerklärung, unseren weltweiten Datenschutzgrundsätzen oder unserem
+Umgang mit Daten haben, kontaktieren Sie uns bitte per E-Mail unter </font></span><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><a><span style="margin: 0px; font-family: " arial",sans-serif;"="" lang="DE"><font style="background-color: rgb(255, 255, 255);" color="#000000">datenschutz@ebay-kleinanzeigen.de</font></span></a></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> oder wenden sich an unseren <a href="https://www.ebay-kleinanzeigen.de/kontakt.html">Kundenservice</a>.</font></span><span style="margin: 0px;"><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><font style="background-color: rgb(255, 255, 255);" color="#000000"> </font></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" color="#000000">Sie</font><font style="background-color: rgb(255, 255, 255);">
+können sich auch schriftlich an uns wenden: Marktplaats B.V. –
+Datenschutzanfragen, Wibautstraat 224, 1097 DN Amsterdam, Niederlande (ab Juli
+2017: eBay Kleinanzeigen GmbH – Datenschutzanfragen, Albert-Einstein-Ring 2-6,
+D-14532 Kleinmachnow Dreilinden). Weitere Informationen zu eBay Inc. und dazu,
+wie eBay mit personenbezogenen Daten umgeht und diese schützt, finden Sie auch
+in unserem <a href="http://www.ebayprivacycenter.com/de">eBay-Datenschutzzentrum</a>.</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" size="3"><b>***Ausführliche Informationen***</b></font></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" size="3"><b><br></b></font></span></p><p style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" size="3"><b><br></b></font></span></p><p style="margin: 0px;"><br><b><span style="margin: 0px; color: black; font-family: "><font style="background-color: rgb(255, 255, 255);">Geltungsbereich und
+Einwilligung</font></span></b></p><table style="margin: 0px;" cellspacing="0" cellpadding="0" border="0"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="margin: 0px; padding: 0cm; border: 0px rgb(0, 0, 0); border-image: none;" valign="top"><br></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="margin: 0px; padding: 0cm; border: 0px rgb(0, 0, 0); border-image: none;" valign="top"><br></td></tr></tbody></table><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><span style="font-weight: bold;">I</span>n
+dieser Datenschutzerklärung werden die Erhebung, Nutzung, Weitergabe,
+Speicherung und der Schutz Ihrer personenbezogenen Daten beschrieben. Sie gilt
+für diese Website und für alle Anwendungen, Services oder Tools (zusammen „</font><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><font style="background-color: rgb(255, 255, 255);">Services</font></i></b><font style="background-color: rgb(255, 255, 255);">“),
+in denen auf diese Datenschutzerklärung verwiesen wird, unabhängig davon, auf
+welchem Weg Sie die Services aufrufen oder verwenden,</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> einschließlich des Zugriffs über Mobilgeräte</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">.</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Durch
+die Nutzung unserer Services und / oder die Einrichtung eines Kontos
+nehmen Sie die Bedingungen dieser Datenschutzerklärung an und Sie erklären sich
+mit der Erhebung, Nutzung, Weitergabe, Speicherung und dem Schutz Ihrer
+personenbezogenen Daten gemäß der Beschreibung in dieser Datenschutzerklärung
+einverstanden.</font></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> Wenn Sie uns die für uns erforderlichen Daten nicht zur
+Verfügung stellen, kann es möglicherweise sein, dass wir Ihnen nicht alle
+unsere Services bereitstellen können.</font></span></p><p>
+
+<b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Marktplaats B.V., Wibautstraat 224,
+1097 DN Amsterdam, Niederlande </font></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">(</font><b style="mso-bidi-font-weight:normal"><font style="background-color: rgb(255, 255, 255);">ab Juli 2017: eBay Kleinanzeigen
+GmbH, Albert-Einstein-Ring 2-6, D-14532 Kleinmachnow Dreilinden</font></b><font style="background-color: rgb(255, 255, 255);">)</font></span><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">,</font></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> ist die für Ihre Daten
+verantwortliche Stelle und ist verantwortlich für die Erhebung, Nutzung,
+Weitergabe, Speicherung und den Schutz Ihrer personenbezogenen Daten in
+Einklang mit unseren weltweiten Datenschutzgrundsätzen und dem jeweils
+anwendbaren nationalen Recht. Die für Ihre Daten verantwortliche Stelle kann,
+wie in dieser Datenschutzerklärung beschrieben, Ihre personenbezogenen Daten an
+andere Mitglieder der eBay-Unternehmensgruppe weitergeben. Wir können Ihre
+personenbezogenen Daten auf unseren Servern in der Europäischen Union, in den
+USA und anderswo auf der Welt, wo sich unsere Rechenzentren befinden,
+verarbeiten und speichern.</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Personenbezogene</font></span></b><b style="mso-bidi-font-weight:
+normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> </font><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">Daten</font></span></span></b></p><p>
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Unter „</font><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><font style="background-color: rgb(255, 255, 255);">personenbezogenen Daten</font></i></b><font style="background-color: rgb(255, 255, 255);">“ werden
+Informationen verstanden, die einer bestimmten Person zugeordnet oder zur
+Identifizierung dieser Person genutzt werden können, unabhängig davon, ob diese
+Zuordnung bzw. Identifizierung direkt auf Basis dieser Daten oder auf Basis
+dieser Daten und anderer zusätzlicher Informationen erfolgt, auf die eBay Inc.
+Zugriff hat oder wahrscheinlich haben wird. Nicht als personenbezogene Daten
+betrachten wir Daten, die anonymisiert oder aggregiert wurden, sodass sie in
+Kombination mit anderen Informationen oder auf andere Art und Weise nicht mehr
+zur Identifizierung einer bestimmten Person verwendet werden können. </font></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Änderungen dieser Datenschutzerklärung</font></span></b></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Im Falle von Änderungen dieser Datenschutzerklärung
+werden wir die geänderte Datenschutzerklärung sowie das Datum des
+Inkrafttretens der geänderten Datenschutzerklärung auf dieser Website
+veröffentlichen. Wir empfehlen Ihnen daher, die Datenschutzerklärung in
+regelmäßigen Abständen durchzulesen. Änderungen, die eine von Ihnen erteilte
+Einwilligung betreffen, werden wir nur durch erneute Einholung der Einwilligung
+durchführen. </font></span></p><p>
+
+<span style="margin: 0px;"><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" face="Calibri" color="#000000"> </font></span></span></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Weltweite Datenschutzgrundsätze</font></span></b></p>
+
+<p>
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">www.ebay-kleinanzeigen.de
+ist Teil der</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> <a href="http://www.ebayclassifiedsgroup.com/">eBay Classifieds</a>-Gruppe
+die im Eigentum der </font></span><a href="http://www.ebayinc.com/"><span style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">eBay Inc</font></span></span></a><span style="margin: 0px;"><span style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">.</font></span></span></span><span style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"="" lang="EN-US"> </span></span><span style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">steht. <a href="http://www.ebayinc.com/">eBay Inc</a>. </font></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">hat weltweite Datenschutzgrundsätze, die als
+verbindliche unternehmensweit geltende Richtlinien (</font><i style="mso-bidi-font-style:
+normal"><font style="background-color: rgb(255, 255, 255);">Binding Corporate Rules</font></i><font style="background-color: rgb(255, 255, 255);">, BCRs) bezeichnet werden. Mit diesen
+verpflichten wir uns, Ihre personenbezogenen Daten zu schützen und unsere
+Datenschutzverpflichtungen einzuhalten, unabhängig davon, wo in unserer
+Unternehmensgruppe Ihre personenbezogenen Daten erhoben, verarbeitet oder
+gespeichert werden. Unsere BCRs wurden von mehreren Datenschutzbehörden in der
+Europäischen Union anerkannt. Das bedeutet, dass wir Ihre personenbezogenen
+Daten überall in der eBay Inc.-Unternehmensgruppe in Einklang mit den
+Datenschutzstandards der Europäischen Union behandeln. Weitere Informationen zu
+unseren BCRs sowie unseren weltweit geltenden Datenschutzgrundsätzen finden Sie
+in unserem <a href="http://www.ebayprivacycenter.com/de">eBay-Datenschutzzentrum</a>.</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Datenerhebung</font></span></b><br></p><table style="margin: 0px;" cellspacing="0" cellpadding="0" border="0">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+  <td style="margin: 0px; padding: 0cm; border: 0px rgb(0, 0, 0); border-image: none;" valign="top">
+  <p style="margin: 8px 0px; text-align: justify; line-height: normal;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><v:shape id="Picture_x0020_18" style="width:41.25pt;height:41.25pt;visibility:visible;mso-wrap-style:square" type="#_x0000_t75" alt="http://pics.ebaystatic.com/aw/pics/help/imgPrivPolCollection.png" o:spid="_x0000_i1032">
+   <v:imagedata o:title="imgPrivPolCollection" src="file:///C:/Users/sukaplan/AppData/Local/Temp/msohtmlclip1/01/clip_image013.png">
+  </v:imagedata></v:shape></span></p>
+  <br></td>
+ </tr>
+</tbody></table><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir erheben, verarbeiten
+und speichern personenbezogene Daten von Ihnen und den Geräten (auch
+Mobilgeräten), die Sie verwenden, in folgenden Fällen: wenn Sie unsere Services
+nutzen, ein Konto einrichten, uns Informationen durch ein Webformular
+mitteilen, Informationen zu Ihrem Konto hinzufügen oder aktualisieren, sich an
+Community-Diskussionen, Chats oder auf andere Weise mit uns in Kontakt treten.
+Außerdem verwenden wir Plugins von sozialen Netzwerken, mittels derer diese
+sozialen Netzwerke Daten erheben können.</font></span></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><br></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zu den personenbezogenen Daten, die Sie uns bei der
+Nutzung unserer Services oder bei der Einrichtung eines Kontos bei uns angeben,
+können folgende gehören:</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Daten, die Sie
+persönlich identifizieren, wie Ihr Name, Ihre Anschriften, Ihre Telefonnummern,
+Ihre E-Mail-Adressen oder Ihre Nutzer-ID (sofern anwendbar), die Sie bei der
+Einrichtung Ihres Kontos bei uns angeben</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Aufgeben von Anzeigen, Antworten
+auf Anzeigen, Daten, die Sie bei einer Transaktion angeben, sowie weitere
+transaktionsbezogene Inhalte, die Sie generieren</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sonstige Inhalte, die
+Sie generieren oder die sich auf Ihr Konto beziehen (z. B. Hinzufügen von
+Artikeln zu Benachrichtigungen).</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="font-family: Arial,Helvetica,sans-serif;"></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zahlungsinformationen
+(z. B. Kreditkarten- oder Bankkontonummern) im Zusammenhang mit einem
+Feature-Kauf oder der Inanspruchnahme einer sonstigen von uns angebotenen
+entgeltlichen Leistung.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">In bestimmten Fällen
+geben Sie bei der Nutzung unserer Services Alter, Geschlecht, Interessen und
+persönliche Vorlieben an.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Daten, die Sie durch ein
+Webformular mitteilen, durch Aktualisieren oder Hinzufügen von Daten zu Ihrem
+Konto, durch Beteiligung an Community-Diskussionen, Chats oder wenn wir aus
+anderen Gründen mit Ihnen kommunizieren.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·  </font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">        <span style="font-family: Arial,Helvetica,sans-serif;"></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Aufzeichnungen von
+Telefongesprächen, unter der Bedingung, dass Ihre Zustimmung zur Aufzeichnung
+gemäß geltendem Recht eingeholt worden ist.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Daten, zu deren Erhebung
+und Verarbeitung wir nach geltendem nationalem Recht verpflichtet oder
+berechtigt sind und die wir für Ihre Authentifizierung, Identifizierung oder
+zur Überprüfung der von uns erhobenen Daten benötigen.</font></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zu den personenbezogenen
+Daten, die wir automatisch bei der Nutzung unserer Services oder bei der
+Einrichtung eines Kontos bei uns durch Sie erfassen, können folgende gehören:</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="font-family: Arial,Helvetica,sans-serif;"></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Erhobene Daten von den
+von Ihnen verwendeten Geräten, wenn Sie mit uns interagieren, z. B.
+Geräte-ID oder einmalige Nutzer-ID, Geräteart, ID für Werbeanzeigen und
+individuelle Geräte-Token</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Geolokalisierungsdaten,
+einschließlich Standortdaten von Ihrem Mobilgerät. Bitte beachten Sie, dass Sie
+bei den meisten Mobilgeräten die Verwendung von Standortdaten durch eine
+Anwendung im Einstellungsmenü des Mobilgeräts steuern können.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Computer- und Verbindungsinformationen,
+wie statistische Informationen über Ihre Seitenaufrufe, Informationen zum
+Datenverkehr zu und von Websites, Referral-URL, Informationen zu Werbeanzeigen,
+Ihre IP-Adresse, Ihre Browser-Verlaufsdaten sowie Ihre Weblog-Informationen.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zu den personenbezogenen Daten, die wir mithilfe
+von Cookies, Web-Beacons und ähnlichen Technologien erheben, können folgende
+gehören</font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">:</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Daten zu den Seiten, die
+Sie aufrufen, zu den Links, auf die Sie klicken, und zu anderen Aktionen, die
+Sie im Rahmen unserer Services sowie in unseren Werbe- oder E-Mail-Inhalten
+vornehmen. Weitere Informationen zu unserer Nutzung dieser Technologien
+(einschließlich des Verfahrens "SZMnG" zur Reichweitenmessung) und
+dazu, wie diese eingeschränkt werden können, finden Sie in unserer <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/cookieverwendung">Erklärung zu Cookies, Web-Beacons und ähnlichen Technologien</a>.</font></span><span style="margin: 0px;"><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><span style="margin: 0px;"></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);" color="#000000"><br></font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zu den personenbezogenen Daten aus anderen Quellen
+können folgende gehören</font></span></b><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">:</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·    </font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">      </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Informationen, die wir </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">bei
+Dritten einholen, beispielsweise demografische Daten, die öffentlich verfügbar
+sind, zusätzliche Kontaktdaten, Kreditprüfungsdaten und Informationen von
+Wirtschaftsauskunfteien, soweit dies nach geltendem nationalen Recht zulässig
+ist</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="font-family: Arial,Helvetica,sans-serif;"></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Informationen von
+sozialen Netzwerken, unter deren Verwendung wir es Ihnen ermöglichen, ein Konto
+zu erstellen, Informationen zu teilen oder Ihr Konto mit dem jeweiligen
+sozialen Netzwerk zu verbinden. Diese sozialen Netzwerke können uns automatisch
+Zugang zu bestimmten personenbezogenen Daten einräumen, die dort über Sie
+gespeichert sind (z. B. von Ihnen angesehene Inhalte, Inhalte, die Ihnen
+gefallen, und Informationen über die Werbung, die Ihnen angezeigt wurde oder
+auf die Sie geklickt haben usw.). Wenn Sie uns Zugriff auf eine Website mit
+Videoinhalten geben, willigen Sie ein, dass wir mindestens zwei (2) Jahre
+lang oder bis Sie Ihre Einwilligung widerrufen haben, das Betrachten von Videos
+durch Sie mit diesem sozialen Netzwerk teilen oder Informationen zum Betrachten
+von Videos durch Sie von diesem sozialen Netzwerk einholen dürfen. Auf welche
+personenbezogenen Daten wir zugreifen können, steuern Sie über die
+Datenschutzeinstellungen auf der Website des jeweiligen sozialen Netzwerks und
+über die Berechtigungen, die Sie uns bei der Gewährung von Zugriff geben. Durch
+das Gewähren des Zugriffs durch uns auf die auf der Website des jeweiligen
+sozialen Netzwerks gespeicherten Informationen erklären Sie sich damit
+einverstanden, dass wir in Einklang mit dieser Datenschutzerklärung diese
+erheben, nutzen und speichern dürfen.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">· </font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">         </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Informationen, die andere Nutzer über Sie zur Verfügung stellen können.
+Unsere Richtlinien schreiben vor, dass der Informationen zur Verfügung
+stellende Nutzer die Person, deren Informationen zur Verfügung gestellt werden,
+über unsere Erhebungs-, Nutzungs-, Weitergabe- und Speicherungsrichtlinien
+informieren muss, bevor die Informationen zur Verfügung gestellt werden, und
+dieser </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">die ausdrückliche</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> vorherige Einwilligung
+dieser Person einholen muss.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Persönliche Daten, die von sozialen Netzwerken erfasst
+werden (Social Plug-ins)</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir verwenden Plug-ins von verschiedenen sozialen Netzwerken. Diese sind so
+konfiguriert, dass sie erst bei Klick auf den Button eine Verbindung mit dem
+jeweiligen sozialen Netzwerk herstellen. Details zu den Social Plug-ins finden
+Sie </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">in unserer Erklärung z<span style="color: rgb(51, 51, 51);">u <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/cookieverwendung">Cookies, Web-Beacons und ähnliche Technologien</a>.</span> </font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Nutzung und Speicherung</font></span></b><br></p><p style="margin: 8px 0px; text-align: justify;"><span style="margin: 0px; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">W</font><span style="margin: 0px; color: black;"><font style="background-color: rgb(255, 255, 255);">ir nutzen die von uns erhobenen personenbezogenen Daten für folgende
+Zwecke: um unsere Services bereitzustellen und zu verbessern, um Ihnen im
+Rahmen der bedarfsgerechten Gestaltung unserer Services eine personalisierte
+Nutzererfahrung auf unseren Websites zu bieten, um Sie zu kontaktieren, um
+Ihnen Leistungen des Kundenservice zur Verfügung zu stellen, um Ihnen
+personalisierte Werbeanzeigen einzublenden und Marketingmitteilungen zu
+übermitteln und um betrügerische oder rechtswidrige Aktivitäten zu erkennen, zu
+verhindern und zu untersuchen.</font></span></span></p><p style="margin: 8px 0px; text-align: justify;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir bewahren personenbezogene Daten von aktiven
+Konten so lange auf, wie sie für die Erbringung unserer Services notwendig und
+wesentlich sind. Darüber hinaus können wir personenbezogene Daten zu
+geschlossenen Konten aufbewahren, wenn dies aufgrund von anwendbarem Recht, zur
+Betrugsprävention, zur Durchsetzung von Gebührenforderungen, zur Behebung von
+Problemen, zur Unterstützung von Ermittlungen, zur Durchsetzung </font><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">unserer <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzungsbedingungen</a> </font></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">und  zur Durchführung anderer nach anwendbaren nationalen Recht zulässigen oder
+erforderlichen Maßnahmen erforderlich ist.</font></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Nutzung
+von personenbezogenen Daten zwecks Bereitstellung, Verbesserung und
+Personalisierung unserer Services, wie beispielsweise</font></span></b><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">:</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Gewährung des Zugriffs auf
+unsere Services und deren Nutzung, insbesondere zur Veröffentlichung von
+Anzeigen und sonstigen Inhalten des Nutzers</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">         </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Anzeige von Website-Inhalten, die Services und Artikel beinhalten, die
+Ihnen möglicherweise gefallen</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Z</font></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">um Zugriff auf Ihren Verlauf, interne Nachrichten (sofern anwendbar) und
+andere von uns angebotene Features</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Bereitstellung von Kreditangeboten und -möglichkeiten durch andere
+Mitglieder unserer Unternehmensgruppe und mit deren Finanzinstitutspartnern.
+Dabei stellen wir sicher, dass wir Finanzinformationen nur mit Ihrer
+ausdrücklichen Zustimmung an die kooperierenden Finanzinstitute weitergegeben
+werden</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Z</font></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">ur Anpassung, Messung und Verbesserung unserer Services</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Bereitstellung weiterer, von Ihnen angeforderter Services, wie
+beschrieben, wenn wir die Daten erheben</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir können Geolokalisierungsdaten
+verwenden, um Ihnen </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">standortbasierte Services bereitzustellen (wie z. B. Werbeanzeigen,
+Suchergebnisse</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> und andere
+personalisierte Inhalte).</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Nutzung
+von personenbezogenen Daten zwecks Kontaktaufnahme bezüglich Ihres Kontos und
+der Bereitstellung von Kundenservice, wie beispielsweise</font></span></b><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">:</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Z</font></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">ur Kontaktaufnahme mit Ihnen bezüglich Ihres Kontos</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">, zur
+Behebung von </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Problemen mit Ihrem Konto, zur Durchsetzung von Gebührenforderungen, die
+beim Kauf von Features entstehen, für Meinungsumfragen oder Fragebögen oder zum
+anderweitigen Angebot von Kundenservice.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="font-family: Arial,Helvetica,sans-serif;"></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> Zur Kontaktaufnahme mit Ihnen zur Durchsetzung unserer <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzungsbedingungen</a> </font></span><span style="margin: 0px;"><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><span style="margin: 0px;"></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">von geltendem nationalem Recht oder von
+Vereinbarungen, die wir mit Ihnen haben </font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="font-family: Arial,Helvetica,sans-serif;"></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Für diese Zwecke können wir Sie per E-Mail, telefonisch, per SMS oder per
+Post kontaktieren</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background-position: 0% 0%; margin: 8px 0px; text-align: justify; background-image: none; line-height: normal; background-repeat: repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-size: auto;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Nutzung
+von personenbezogenen Daten zwecks der Personalisierung unserer Werbeanzeigen
+und Marketing-Mitteilungen, wie beispielsweise</font></span></b><b style="mso-bidi-font-weight:
+normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">:</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Personalisierung, Bewertung und Verbesserung unserer
+Werbeanzeigen</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sofern Sie Ihre Einwilligung hierzu erteilt haben (oder
+in gesetzlich zulässigen Fällen), werden wir die von Ihnen bereitgestellten
+Kontaktangaben verwenden, um Sie </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">per E-Mail, per SMS, telefonisch oder per Post zu
+kontaktieren, um Ihnen Rabatte und Sonderaktionen anzubieten und Sie über
+unsere Services und die unserer Unternehmensgruppe zu informieren. </font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Bereitstellung gezielter Marketingaktionen,
+Service-Aktualisierungen und Werbeangeboten</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Nutzung
+von personenbezogenen Daten zwecks</font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> der Verhinderung, Erkennung, Eindämmung und Untersuchung von
+betrügerischen und / oder rechtswidrigen Aktivitäten</font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">, wie
+beispielsweise</font></span></b><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">:</font></span></b><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Verhinderung,
+Erkennung, Eindämmung und Untersuchung von Betrugsfällen, </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sicherheitsverletzungen
+und möglicherweise verbotenen oder rechtswidrigen Aktivitäten</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><span style="font-family: Symbol;"></span>Zur Durchsetzung unserer Datenschutzerklärung, unseren <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzungsbedingungen</a></font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> und anderer</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> Richtlinien und Grundsätze.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Aufbewahrung
+von personenbezogenen Daten:</font></span></b></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"="">           </span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir
+bewahren </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">personenbezogene</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> Daten</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> von aktiven Konten</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> so lange auf, wie sie
+für </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">unseren Betrieb</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">
+notwendig und wesentlich sind. Wir können personenbezogene Daten zu
+geschlossenen Konten aufbewahren</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">,
+wenn dies zur Einhaltung von nationalem Recht</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">, </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">zur </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Betrugsprävention, </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">zur</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> Durchsetzung von
+Gebührenforderungen, </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">zur</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">
+Behebung von Problemen, </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">zur</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">
+Unterstützung von Ermittlungen, </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">zur</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">
+Durchsetzung </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">unserer <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzungsbedingungen</a> </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">und </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">zur</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> Durchführung anderer </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">nach geltendem nationalen Recht</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> zulässig</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">en</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> oder erforderlich</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">en</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> Maßnahmen</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> erforderlich ist</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">. </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wenn eine Aufbewahrung Ihrer personenbezogenen Daten
+für uns nicht länger notwendig ist, vernichten wir diese in sicherer Weise
+gemäß unseren Richtlinien für Datenaufbewahrung und -löschung.</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wahlmöglichkeiten</font></span></b><br></p><p style="background-position: 0% 0%; margin: 8px 0px; text-align: justify; background-image: none; line-height: normal; background-repeat: repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-size: auto;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><v:shape id="Picture_x0020_16" style="width:41.25pt;height:41.25pt;visibility:visible;mso-wrap-style:square" type="#_x0000_t75" alt="http://pics.ebaystatic.com/aw/pics/help/imgPrivPolChoice.png" o:spid="_x0000_i1030">
+ <v:imagedata o:title="imgPrivPolChoice" src="file:///C:/Users/sukaplan/AppData/Local/Temp/msohtmlclip1/01/clip_image015.png">
+</v:imagedata></v:shape></span></p><p>
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sie
+können wählen, wie wir Ihre personenbezogenen Daten nutzen dürfen, um mit Ihnen
+in Kontakt zu treten, Ihnen Marketingmitteilungen zu übermitteln und Ihnen
+personalisierte Werbeanzeigen einzublenden.</font></span></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Einstellungen für Marketingmitteilungen</font></span></b></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wenn Sie keine Marketingmitteilungen von uns
+erhalten möchten, können Sie diese über den Link in der von Ihnen erhaltenen E-Mail
+oder über die Einstellungsoptionen für Mitteilungen in ihrem Konto abbestellen.</font></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Werbeanzeigen</font></span></b></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Informationen zur Einblendung von personalisierten
+Werbeanzeigen auf unseren und fremden Websites sowie dazu, wie Sie diese
+deaktivieren können, finden Sie in unserer Erklärung zu <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/cookieverwendung">Cockies, Web-Beacons und ähnliche Technologien</a>.</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"></font><br></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Widerruf der Einwilligung</font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wenn Sie Ihre Einwilligung in die Nutzung oder
+Weitergabe Ihrer personenbezogenen Daten für die in dieser Datenschutzerklärung
+genannten Zwecke widerrufen, sind wir möglicherweise nicht mehr in der Lage,
+Ihnen den Zugriff auf alle unsere Services zu ermöglichen oder Ihnen alle
+unseren Nutzern angebotenen und gemäß dieser Datenschutzerklärung und unseren
+Allgemeinen Geschäftsbedingungen autorisierten Services und Kundenservices
+bereitzustellen.</font></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Auskunft, Korrektur und Löschung</font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Unser
+Ziel ist, dass die von uns erhobenen personenbezogenen Daten korrekt und
+aktuell sind. Wir bieten Ihnen die Möglichkeit, auf Ihre Daten zuzugreifen und
+diese zu aktualisieren.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sie können Ihre personenbezogenen Daten aufrufen, überprüfen und ändern,
+indem Sie sich in Ihr Konto einloggen. Bitte aktualisieren Sie Ihre
+personenbezogenen Daten umgehend, wenn diese sich ändern oder falsch sind.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sobald Sie etwas auf der Website veröffentlicht haben, kann es sein, dass
+Sie dies nicht ändern oder entfernen können. Wenn Sie uns eine entsprechende
+Anfrage senden, werden wir Ihr Konto schließen und Ihre personenbezogenen Daten
+aus öffentlichen Bereichen entfernen, sobald dies auf Basis Ihrer
+Kontoaktivität und gemäß geltendem nationalen Recht in angemessener Weise
+möglich ist.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Ihr gesetzliches Recht auf Auskunft, Korrektur oder Löschung Ihrer
+personenbezogenen Daten bleibt davon unberührt. Wenden Sie sich an uns und
+folgen Sie den Anweisungen im Bereich Kontaktinformationen unten, falls Sie
+Zugriff erhalten möchten und sich über die anfallenden Gebühren informieren
+möchten, soweit dies nach geltendem nationalen Recht zulässig ist. Wenn Sie
+gesetzlichen Anspruch auf Auskunft, Korrektur oder Löschung Ihrer
+personenbezogenen Daten haben, können wir unter bestimmten Umständen gemäß
+geltendem nationalen Recht eine solche Auskunft verweigern bzw. eine Korrektur
+oder Löschung Ihrer personenbezogenen Daten ablehnen. Wir nennen Ihnen in
+diesen Fällen jedoch unsere Gründe dafür.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Weitergabe von
+Informationen</font></span></b><br></p><p style="background-position: 0% 0%; margin: 8px 0px; text-align: justify; background-image: none; line-height: normal; background-repeat: repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-size: auto;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><v:shape id="Picture_x0020_14" style="width:41.25pt;height:41.25pt;visibility:visible;mso-wrap-style:square" type="#_x0000_t75" alt="http://pics.ebaystatic.com/aw/pics/help/imgPrivPolDisclosure.png" o:spid="_x0000_i1028">
+ <v:imagedata o:title="imgPrivPolDisclosure" src="file:///C:/Users/sukaplan/AppData/Local/Temp/msohtmlclip1/01/clip_image017.png">
+</v:imagedata></v:shape></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Gegebenenfalls
+geben wir Ihre personenbezogenen Daten an andere Mitglieder der
+eBay-Unternehmensgruppe oder an Dritte weiter. Eine solche Datenweitergabe kann
+erforderlich sein, um Ihnen den Zugriff auf unsere Services zu ermöglichen, um
+gesetzliche Verpflichtungen einzuhalten, um unsere Allgemeinen
+Geschäftsbedingungen durchzusetzen, um unsere Marketing- und Werbeaktivitäten
+zu ermöglichen oder um betrügerische oder rechtswidrige Aktivitäten zu verhindern,
+zu erkennen, einzudämmen und zu untersuchen. Wir geben Ihre personenbezogenen
+Daten nicht ohne Ihre ausdrückliche Einwilligung an Dritte für deren Marketing-
+und Werbezwecke weiter.</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">An
+Mitglieder der</font></span></b><span><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" face="Calibri" color="#000000"><b><span style="font-family: Arial,Helvetica,sans-serif;"> <a href="http://www.ebayprivacycenter.com/de/node/583" target="_blank">eBay Inc.-Unternehmensgruppe</a></span> </b></font></span></span><font style="background-color: rgb(255, 255, 255);" color="#000000"><b>, die diese</b></font><font style="background-color: rgb(255, 255, 255);"><b> zu folgenden Zwecken
+verwenden können:</b></font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Bereitstellung gemeinsamer
+Inhalte und Services (wie z. B. Neuanmeldung, Transaktionen und
+Kundenservice)</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Erkennung und Verhinderung von möglicherweise betrügerischen und
+rechtswidrigen Handlungen, Verstößen gegen </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">unsere <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzungsbedinungen</a> </font></span><a style="mso-comment-reference:
+A_34"><span style="margin: 0px;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></span></a><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> und Verletzungen der Datensicherheit.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Bereitstellung personalisierter Werbeanzeigen für Sie</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">     <span style="font-family: Arial,Helvetica,sans-serif;"></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">     Zur Verbesserung von deren Produkten, Websites, Anwendungen, Services,
+Tools und Marketingmitteilungen. Andere Mitglieder der eBay-Unternehmensgruppe
+werden Ihnen keine Marketingmitteilungen schicken, wenn Sie dem Erhalt dieser
+Mitteilungen von ihnen nicht zugestimmt haben.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal; page-break-after: avoid;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">An Dritte
+Serviceanbieter und Finanzinstitutspartner</font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">, die diese zu folgenden
+Zwecken verwenden können:</font></span></b></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal; page-break-after: avoid;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Um uns dabei zu
+unterstützen, unsere Services, Zahlungsbearbeitungsdienste und personalisierte
+Werbung bereitzustellen</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">         </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Um uns bei der
+Verhinderung, Erkennung, Eindämmung und Untersuchung von möglicherweise
+rechtswidrigen Handlungen, Verstößen gegen unsere Allgemeine
+Geschäftsbedingungen, Betrug und / oder Sicherheitsverletzungen, im Zusammenhang mit Rechnungsinkasso, Partner- und Prämienprogrammen und anderen
+Geschäftsvorgängen zu unterstützen.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal; page-break-after: avoid;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">An </font></span></b><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Drittanbieter
+von Websites, Anwendungen und Tools sowie andere Mitglieder der</font></span></b><span style="margin: 0px;"><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" face="Calibri" color="#000000"><span style="font-family: Arial,Helvetica,sans-serif;"><span style="font-weight: bold;"> <a href="http://www.ebayprivacycenter.com/de/node/583" target="_blank">eBay Inc.-Unternehmensgruppe</a></span></span> </font></span></span></span><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">:</font></span></b><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: rgb(45, 45, 45); font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> </font></span></b></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal; page-break-after: avoid;"><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: rgb(45, 45, 45); font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">         </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">mit denen wir gemäß
+unseren <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzungsbedingungen</a></font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">, damit diese Ihre Kleinanzeigen und deren Inhalt auf ihrer Website oder in ihren
+Anwendungen und Tools veröffentlichen oder bewerben. Sofern wir Drittanbietern
+mit dem Inhalt Ihrer Kleinanzeigen auch personenbezogene Daten übermitteln,
+geschieht dies ausschließlich auf der Grundlage eines Vertrags, der die Nutzung
+der personenbezogenen Daten durch den Drittanbieter beschränkt und diesen zur
+Durchführung von Sicherheitsmaßnahmen in Bezug auf diese Daten verpflichtet.
+Insbesondere ist es den Drittanbietern nicht gestattet, die in Ihren Kleinanzeigen
+enthaltenen personenbezogenen Daten zu verkaufen, zu vermieten oder auf
+irgendeine andere Art und Weise an Dritte weiterzugeben. Bei Übermittlung an
+Mitglieder unserer Unternehmensgruppe ergeben sich solche Einschränkungen aus
+unseren gemeinsamen verbindlichen Unternehmensregeln (Binding Corporate Rules,
+siehe oben).</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">An Strafverfolgungsbehörden, an Dritte im Rahmen
+von Gerichtsverfahren und an gesetzlich autorisierte Dritte</font></span></b><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">:</font></span></b></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal;"><b style="mso-bidi-font-weight:normal"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Zur Einhaltung unserer gesetzlichen Verpflichtungen, zur
+Durchsetzung unserer <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzungsbedingungen</a>,zur</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Verteidigung von Ansprüchen,
+dass ein Angebot oder sonstige Inhalte Rechte Dritter verletzen, oder um die
+Rechte, das Eigentum oder die Sicherheit von Dritten zu schützen</font></span><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);"><br></font></span></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          A</font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">n Strafverfolgungsbehörden, staatliche Stellen oder
+autorisierte Dritte aufgrund eines Auskunftsersuchens in Zusammenhang mit einem
+Ermittlungsverfahren oder dem Verdacht auf eine Straftat, eine rechtswidrige
+Handlung oder eine andere Handlung, aus der sich für uns, Sie oder einen
+anderen Nutzer eine rechtliche Haftung ergeben kann</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><span style="font-family: Arial,Helvetica,sans-serif;">An </span></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Rechteinhaber, die eine Vertraulichkeitsvereinbarung mit
+uns abgeschlossen haben, im Zusammenhang mit einer Untersuchung wegen Betrugs,
+Verletzung geistigen Eigentums, Produktpiraterie oder einer anderen
+rechtswidrigen Handlung, sofern wir dies nach eigenem Ermessen für notwendig
+oder sinnvoll erachten</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">         </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">An Kreditauskunfteien, sofern dies nach geltendem
+nationalen Recht zulässig ist</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">         </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">An Dritte, die ein Gerichtsverfahren einleiten oder an
+einem Gerichtsverfahren beteiligt sind, sofern sie uns eine rechtliche
+Anordnung, einen Gerichtsbeschluss oder eine gleichwertige rechtliche Verfügung
+vorlegen, oder wenn wir in gutem Glauben davon ausgehen, dass </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">die</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">
+Weitergabe der Daten notwendig ist, um unmittelbar drohende Gefahr für Leib und
+Leben oder finanziellen Verlust abzuwenden oder einen Verdacht auf eine
+rechtswidrige Handlung zu melden.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal;"><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Eigentümerwechsel</font></span></b></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><br></span></p><p style="background: white; margin: 8px 0px; text-align: justify; line-height: normal;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"="">Im Falle einer Fusion mit einem anderen Unternehmen
+oder einer Übernahme durch ein anderes Unternehmen können wir gemäß unseren
+weltweiten Datenschutzgrundsätzen Informationen an dieses Unternehmen
+weitergeben. Wenn ein solches Ereignis eintreten sollte, werden wir von dem
+neuen zusammengeschlossenen Unternehmen die Einhaltung dieser Datenschutzerklärung
+in Bezug auf Ihre personenbezogenen Daten verlangen. Sollten Ihre
+personenbezogenen Daten zu irgendwelchen nicht in dieser Datenschutzerklärung
+genannten Zwecken erhoben, genutzt, weitergegeben oder gespeichert werden,
+werden Sie im Voraus über die Verarbeitung Ihrer personenbezogenen Daten zu
+diesen neuen Zwecken informiert.</span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sicherheit</font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Ihre Daten werden von uns durch technische und
+organisatorische Sicherheitsmaßnahmen geschützt, um Risiken im Zusammenhang mit
+deren Verlust, Missbrauch, unberechtigtem Zugriff, unberechtigter Weitergabe
+und Änderung zu minimieren. Hierzu setzen wir beispielsweise Firewalls und
+Datenverschlüsselung, physische Zugangsbeschränkungen für unsere Rechenzentren
+und Berechtigungskontrollen für den Datenzugriff ein. Wenn Sie den Verdacht
+haben, dass Ihr Konto missbraucht wurde, setzen Sie sich bitte umgehend mit uns
+in Verbindung</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> und folgen Sie den Anweisungen im Bereich Kontaktinformationen unten.</font></span></p><p><font style="background-color: rgb(255, 255, 255);"><br></font><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wichtige Informationen</font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Dieser Abschnitt enthält
+einige zusätzliche wichtige Informationen im Zusammenhang mit Ihrer Nutzung
+unserer Services, die wir behandeln müssen:</font></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Login über soziale
+Netzwerke</font></span></b></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wann verwenden Sie den Login über soziale
+Netzwerke?</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wenn Sie bei uns ein Konto unter derselben E-Mail-Adresse
+eingerichtet haben, die Sie auch in dem sozialen Netzwerk verwenden, haben Sie Zugriff auf das dort eingerichtete Konto.</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">         </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wenn Sie bei uns kein Konto unter derselben
+E-Mail-Adresse eingerichtet haben, die Sie auch in dem sozialen Netzwerk
+verwenden, wird ein neues Konto in unseren Systemen für Sie erstellt.</font></span></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:
+0cm;text-align:justify"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sie können den Login
+über soziale Netzwerke oder den regulären Login jedes Mal nutzen, wenn </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sie sich in Ihr Konto bei
+uns einloggen. Wenn Sie sich über den regulären Login einloggen möchten, für
+Sie aber noch kein Passwort erstellt wurde, weil Sie sich über den Login über
+soziale Netzwerke angemeldet haben, können Sie ein Passwort über das Verfahren
+zur Passwortzurücksetzung anfordern.</font></span></p><p>
+
+<font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:
+0cm;text-align:justify"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Bitte beachten Sie, dass, wenn Sie den Login über soziale Netzwerke
+verwenden, die Richtlinien für „Angemeldet bleiben“ des Anbieters des Logins
+über soziale Netzwerke gelten. Wir haben keinen Einfluss auf diese Richtlinien.
+Da Anbieter von Logins über soziale Netzwerke eine aggressive Politik im
+Hinblick auf „Angemeldet bleiben“ haben können, empfehlen wir Ihnen zu Ihrer
+Sicherheit:</font></span></p><p style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:
+0cm;text-align:justify"><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><font style="background-color: rgb(255, 255, 255);"></font><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          <span style="font-family: Arial,Helvetica,sans-serif;"></span></font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Verwenden Sie den Login
+über soziale Netzwerke nicht, wenn Sie auf unsere Services über ein
+öffentliches oder gemeinsames Gerät zugreifen</font></span><br></p><p style="background: white; margin: 8px 0px 8px 38px; text-align: justify; line-height: normal; text-indent: -1cm;"><span style="margin: 0px; color: black; font-family: Symbol; font-size: 10pt;"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);">·</font><span style="font: 7pt " times="" new="" roman";="" margin:="" 0px;="" font-size-adjust:="" none;="" font-stretch:="" normal;"=""><font style="background-color: rgb(255, 255, 255);">          </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Besuchen Sie die Anbieter-Website Ihres Logins über
+soziale Netzwerke und informieren Sie sich über deren Richtlinien und Ihre
+Optionen</font></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Unerwünschte und bedrohende
+E-Mails</font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir dulden keinen Missbrauch unserer Services. Es
+ist Ihnen nicht erlaubt, andere Nutzer zu Ihren E-Mail-Verteilerlisten
+hinzuzufügen, Sie zu gewerblichen Zwecken anzurufen oder an diese
+SMS-Nachrichten zu gewerblichen Zwecke zu senden, selbst wenn dieser Nutzer bei
+Ihnen eingekauft hat, sofern der Nutzer nicht seine ausdrückliche Einwilligung
+dazu gegeben hat. Das Senden unerwünschter oder bedrohender E-Mail- oder
+SMS-Nachrichten stellt einen Verstoß gegen unsere Allgemeinen Geschäftsbedingungen
+dar. Bitte melden Sie derartige Spam- oder betrügerische E-Mails dem</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""> <a href="https://www.ebay-kleinanzeigen.de/kontakt.html" target="_blank">Kundenservice</a><font style="background-color: rgb(255, 255, 255);" color="#000000">.</font></span></p><p>
+
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Nachrichten-Tools</font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Sie dürfen unsere Nachrichten-Tools nicht für den
+Versand von Spam oder anderen Inhalten verwenden, die gegen unsere <a href="https://www.ebay-kleinanzeigen.de/hilfe/artikel/nutzungsbedingungen">Nutzunsbedingungen</a> </font></span><span style="margin: 0px;"><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><span style="margin: 0px;"><font style="background-color: rgb(255, 255, 255);" face="Calibri" color="#000000"> </font></span></span></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">verstoßen.
+Wir scannen über diese Tools versendete Nachrichten automatisch und filtern sie
+möglicherweise manuell, um sie auf Spam, Viren, Phishing-Angriffe sowie andere
+böswillige Aktivitäten und rechtswidrige oder verbotene Inhalte zu prüfen und
+die Nachricht insgesamt oder den verbotenen Inhalt ggf. zu blockieren. Wir
+speichern die über diese Tools versendeten Nachrichten jedoch nicht dauerhaft.</font></span></p><p>
+<b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Datenschutzregeln Dritter</font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Diese Datenschutzerklärung betrifft nur die Nutzung
+und Weitergabe personenbezogener Daten, die wir von Ihnen erfassen. Wenn Sie
+Ihre Daten an Dritte weitergeben oder wenn Sie auf die Website eines Dritten
+weitergeleitet werden, gilt dessen Datenschutzerklärung.</font></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wir können die Vertraulichkeit oder Sicherheit
+Ihrer Daten nicht garantieren, nachdem Sie diese an einen Dritten weitergegeben
+haben. Daher empfehlen wir Ihnen, die Datenschutzerklärungen sowie die
+Datensicherheitsgrundsätze Ihrer Handelspartner genau zu überprüfen, bevor Sie
+eine Transaktion durchführen und Ihre Daten weitergeben, selbst wenn dieser
+Dritte Käufer oder Verkäufer auf unseren Websites ist.</font></span></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"><br></font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Fragen oder Beschwerden</font></span></b></p><p><b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""></span></b><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wenn Sie Fragen zu dieser
+Datenschutzerklärung, unseren weltweiten Datenschutzgrundsätzen oder unserem
+Umgang mit Daten haben, kontaktieren Sie uns bitte per E-Mail unter </font></span><span style="margin: 0px; font-size: 9pt;" lang="EN-US"><a><span style="margin: 0px; font-family: " arial",sans-serif;"="" lang="DE"><font style="background-color: rgb(255, 255, 255);" color="#000000">datenschutz@ebay-kleinanzeigen.de</font></span></a></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> oder wenden sich an
+unseren</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);"> <a href="https://www.ebay-kleinanzeigen.de/kontakt.html">Kundenservice</a>. Sie können sich auch schriftlich an uns wenden: Marktplaats
+B.V. – Datenschutzanfragen, Wibautstraat 224, 1097 DN Amsterdam, Niederlande </font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">(ab Juli 2017: eBay Kleinanzeigen GmbH –
+Datenschutzanfragen, Albert-Einstein-Ring 2-6, D-14532 Kleinmachnow Dreilinden)</font></span><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">. </font></span></p><p><span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Wenn unsere Antwort für Sie
+nicht zufriedenstellend ist, können Sie sich an die für uns zuständige Datenschutzaufsichtsbehörde
+wenden.</font></span></p><p>
+
+<span style="margin: 0px; color: black; font-family: " arial",sans-serif;="" font-size:="" 9pt;"=""><font style="background-color: rgb(255, 255, 255);">Weitere Informationen zu
+eBay Inc. und dazu, wie eBay mit personenbezogenen Daten umgeht und diese
+schützt, finden Sie im <a href="http://www.ebayprivacycenter.com/de" target="_blank">eBay-Datenschutzzentrum</a>. </font></span></p>
+
+
+
+
+
+<p><br></p></div>
+
+
+
+</div>
+<footer id="pg-footer">
+<div id="footerbox">
+<ul id="pg-footer-linklist">
+    <li class="list-item-inline"><a href="/hilfe">Hilfe</a></li>
+    <li class="list-item-inline"><a href="/datenschutzerklaerung.html">Datenschutzerklärung</a></li>
+    <li class="list-item-inline"><a href="/hilfe/artikel/nutzungsbedingungen">Nutzungsbedingungen</a></li>
+    <li class="list-item-inline"><a href="/hilfe/artikel/policy">Grundsätze</a></li>
+
+    <li class="list-item-inline"><a href="/impressum.html">Impressum</a></li>
+    <li class="list-item-inline"><a href="/sicherheitshinweise.html">Tipps für Ihre Sicherheit</a></li>
+    <li class="list-item-inline"><a href="/s-shop-verzeichnis.html">Shop Übersicht</a></li>
+
+    <li class="list-item-inline"><a href="/s-beliebte-angebote.html">Beliebte Angebote</a></li>
+    <li class="list-item-inline"><a  href="/s-katalog-orte.html">Anzeigen Übersicht</a></li>
+    <li class="list-item-inline"><a href="/s-beliebte-suchen.html">Beliebte Suchen</a></li>
+    <li class="list-item-inline"><a href="/mobile-apps.html">Mobile Apps</a></li>
+
+</ul>
+</div>
+
+<p id="pg-footer-copyright" class="mousetype">
+    Copyright © 2005-2017 eBay International AG. Alle Rechte vorbehalten. Ausgewiesene Marken
+    gehören ihren jeweiligen Eigentümern.
+</p>
+</footer>
+</div>
+</body>
+</html>
+
