@@ -1,5 +1,9 @@
 # :balloon: Privacy Bot
 
+:information_source: **Welcome Mozilla Global Sprinters!** :wave: :tada: :confetti_ball:  
+Please join our [Gitter channel](https://gitter.im/munich-cliqz/Lobby) to start discussing the project! For more information on how to contribute, we encourage you to have a look at this README, and to check the [issues](https://github.com/cliqz-oss/privacy-bot/issues).
+
+
 Privacy policies are a legal requirement for websites handling users' data. So anyone should be able to access them, read them and understand what it takes (in terms of privacy) to be using a given service. Except no one reads them  :see_no_evil: . User's fault? Probably not. We can list several reasons:
 
 1. A lot of people don't even know what they are.  :question:
