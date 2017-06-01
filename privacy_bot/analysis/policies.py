@@ -21,7 +21,8 @@ def _get_latest_release():
     return {
         "tag": release["tag_name"],
         "name": release["name"],
-        "url": release["zipball_url"]
+        "url": release["zipball_url"],
+        "id": release["id"]
     }
 
 
@@ -37,28 +38,42 @@ Policy = namedtuple('Policy', [
 class Policies:
     def __init__(self):
         latest_release = _get_latest_release()
-        print("Fetch Latest Release")
+
+        print("Get Latest Release")
         print("-" * 80)
         print("Name:", latest_release["name"])
         print("Tag:", latest_release["tag"])
         print("Url:", latest_release["url"])
         print("-" * 80)
 
-        # Fetch the content of the archive
-        response = requests.get(
-            latest_release["url"],
-            stream=True,
-            allow_redirects=True,
-        )
+        # Check if there is a cached version already
+        cached_path = Path('.' + str(latest_release["id"]))
+
+        if cached_path.exists():
+            print("Load cached content")
+            with cached_path.open('rb') as cached_content:
+                content = cached_content.read()
+        else:
+            print("Fetch remote archive")
+            # Fetch the content of the archive
+            response = requests.get(
+                latest_release["url"],
+                stream=False,
+                allow_redirects=True,
+            )
+            content = response.content
+
+            # Cache fetched content
+            with cached_path.open('wb') as output:
+                output.write(content)
 
         self.policies = defaultdict(dict)
-
         self.domains = set()
         self.languages = set()
         self.tlds = set()
 
         print("Load archive")
-        with zipfile.ZipFile(io.BytesIO(response.content)) as archive:
+        with zipfile.ZipFile(io.BytesIO(content)) as archive:
             # Mapping from filename to zip archive filepath
             file_index = {}
             for filename in archive.namelist():
