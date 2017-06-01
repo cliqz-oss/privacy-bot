@@ -21,7 +21,7 @@ import sys
 import docopt
 from bs4 import BeautifulSoup
 
-import privacy_bot.fetcher as fetcher
+import privacy_bot.mining.fetcher as fetcher
 
 KEYWORDS = ['privacy', 'datenschutz',
             'Конфиденциальность', 'Приватность', 'тайность',

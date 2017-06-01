@@ -19,7 +19,7 @@ import docopt
 import langdetect
 from readability.readability import Document
 
-from privacy_bot.fetcher import fetch
+from privacy_bot.mining.fetcher import fetch
 
 
 KEYWORDS = ['privacy', 'datenschutz',
