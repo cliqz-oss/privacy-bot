@@ -28,7 +28,9 @@ def _get_latest_release():
 
 Policy = namedtuple('Policy', [
     'html',
+    'html_clean',
     'text',
+    'text_clean',
     'domain',
     'lang',
     'tld'
@@ -92,18 +94,26 @@ class Policies:
                     for policy in policy_pages:
                         base_path = file_index[policy['path']]
 
-                        with archive.open(base_path + 'policy.html') as policy_file:
-                            text = policy_file.read().decode('utf-8')
+                        content = {}
+                        content_files = [
+                            ('html',        'policy.raw.html'),
+                            ('html_clean',  'policy.html'),
+                            ('text',        'policy.raw.txt'),
+                            ('text_clean',  'policy.txt')
+                        ]
 
-                        with archive.open(base_path + 'policy.raw.html') as policy_file:
-                            html = policy_file.read().decode('utf-8')
+                        for key, content_path in content_files:
+                            with archive.open(base_path + content_path) as content_file:
+                                content[key] = content_file.read().decode('utf-8')
 
                         self.tlds.add(policy['tld'])
                         self.languages.add(policy['lang'])
 
                         self.policies[domain] = Policy(
-                            html=html,
-                            text=text,
+                            html=content['html'],
+                            text=content['text'],
+                            html_clean=content['html_clean'],
+                            text_clean=content['text_clean'],
                             domain=domain,
                             tld=policy['tld'],
                             lang=policy['lang']
