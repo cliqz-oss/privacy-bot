@@ -36,7 +36,9 @@ package in 'developer mode' using `pip`, in a virtual environment. You also need
 $ pip install -e .
 ```
 ## Prerequisites
-You'll need pandoc: http://pandoc.org/installing.html
+You'll need:
+- pandoc: http://pandoc.org/installing.html
+- phantomjs: http://phantomjs.org/download.html
 
 ## Usage
 There are two entry points, used respectively for:
