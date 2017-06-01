@@ -1,0 +1,454 @@
+  * # rbb (logo)
+
+  * Fernsehen
+  * Radio
+  * Mediathek
+
+Wetter
+
+Der rbb
+
+  * Über den rbb
+  * Presse
+  * Karriere
+  * Service
+
+Suchbegriff Zurücksetzen
+
+Suchvorschläge
+
+Ergebnisse
+
+  * Programm
+  * Themen
+  * Musik
+  * Videos
+  * Events
+  * Team
+
+Jetzt hören
+
+Playlist heute
+
+  * Beitrag empfehlen 
+  * Druckversion 
+
+# Datenschutzerklärung
+
+Der Schutz Ihrer personenbezogenen Daten bei der Erhebung, Verarbeitung und
+Nutzung anlässlich Ihres Besuchs auf unserem Internetangebot ist dem rbb ein
+wichtiges Anliegen. Nachfolgend finden Sie Informationen, welche Daten während
+Ihres Besuchs auf unserem Internetangebot erfasst und wie diese genutzt
+werden...
+
+## Integration von Social Plugins
+
+Einbindung von Internetangeboten wie Facebook, Google+, Twitter &amp; Co. u.a.
+
+Um das Internetangebot für unsere Nutzer attraktiver und benutzerfreundlicher
+zu machen, binden wir auf den Seiten von rbb-online.de sowie radioeins.de
+Social Plugins von ausgewählten Plattformen (z.B. Facebook, Google+, Twitter,)
+ein. Diese Plugins sind durch ein Logo des jeweiligen Anbieters und einen
+schriftlichen Zusatz gekennzeichnet.
+
+Bislang führte der Aufruf einer Seite unseres Angebots mit einem solchen
+Plugin in Ihrem Browser zum Aufbauen einer direkten, kurzen Verbindung mit
+dessen Servern. Dies dient in erster Linie dazu, den Inhalt des Plugins
+darzustellen. In diesem Fall erfährt der Anbieter Ihre IP-Adresse. In der
+Praxis ist Ihnen diese IP-Adresse namentlich nicht ohne weiteres zuzuordnen.  
+  
+Sind Sie gleichzeitig bei einem der Anbieter angemeldet, kann dieser ein
+Surfprofil von Ihnen erstellen. Unter bestimmten Umständen kann der
+Plattformanbieter hierbei ein Cookie auf Ihrem Rechner speichern Ob Sie diese
+Cookies zulassen wollen, entscheiden Sie über die Einstellungen Ihres
+Internetbrowsers.  
+  
+Ein Klick auf den Button eines der verlinkten sozialen Netzwerke bedeutet
+also, dass der Anwender seine Zustimmung erteilt, Daten an den jeweiligen
+Betreiber des sozialen Netzes zu übermitteln.
+
+Zwei Klicks für mehr Datenschutz  
+Künftig schützen wir Ihre Privatsphäre durch ein zweistufiges Verfahren, das
+eine Übermittlung persönlicher Daten nur durch die explizite Zustimmung des
+Anwenders zulässt. Die Zustimmungsbuttons sind mit dem jeweiligen Logo des
+jeweiligen Anbieters gekennzeichnet und beim normalen Seitenaufruf werden
+keine Daten an Facebook und Co. übermittelt.
+
+Und so funktioniert es  
+Erst durch aktivieren (drücken) der Buttons wird eine Verbindung mit dem
+Anbieter hergestellt. Eine Empfehlung kann dann durch den zweiten Click an
+Facebook, Google+ oder Twitter übermittelt werden. Dies geschieht bei Facebook
+direkt, bei Twitter und bei google+ kann die Empfehlung in einem Popup-Fenster
+noch bearbeitet werden. Die Zustimmung gilt immer nur für die aktuell
+aufgerufene Seite.
+
+## Erhebung und Verarbeitung von Daten
+
+Bei jedem Zugriff auf unser Internetangebot und jedem Abruf einer online
+angebotenen Datei werden folgende Informationen protokolliert: Name der
+abgerufenen Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge,
+Meldung über erfolgreichen Abruf, sowie der Typ Ihres Webbrowsers. Zusätzlich
+werden die IP-Adressen der anfragenden Rechner gespeichert.
+
+Die Registrierung der Zugriffe erfolgt aus Gründen der Datensicherheit und um
+die Stabilität und die Betriebssicherheit unseres Systems zu gewährleisten und
+gegen mögliche Angriffe von außen zu schützen. Außerdem werden die Daten zur
+Optimierung des Internetangebots statistisch ausgewertet. Die in den
+Protokolldateien erfassten Daten können keinen bestimmten Personen zugeordnet
+werden. Eine Zusammenführung mit anderen Datenquellen wird nicht vorgenommen.
+Die Daten dienen ausschließlich internen Zwecken.
+
+## Cookies
+
+Ein sogenannter Cookie ist eine kleine Datei, die von einem Webserver an Ihren
+Browser übermittelt und von diesem bei jedem Zugriff auf eine neue Seite
+mitgeschickt wird.
+
+Funktionale Cookies  
+Der Rundfunk Berlin-Brandenburg setzt ssog. funktionale Cookies aus
+technischen Gründen ein, um Ihnen einen komfortablen Zugriff auf das Angebot
+zu ermöglichen.
+
+Eine Nutzung unserer Angebote ist im Regelfall auch ohne Cookies möglich. Die
+meisten Browser sind so eingestellt, dass sie Cookies automatisch akzeptieren.
+Sie können das Speichern von Cookies jedoch deaktivieren oder Ihren Browser so
+einstellen, dass er Sie benachrichtigt, sobald Cookies gesendet werden. Dann
+können Sie selbst entscheiden, ob dieser Cookie akzeptiert werden soll oder
+nicht.
+
+Statistik-Cookies  
+Zur Optimierung unseres Online-Angebots führen wir anonyme  statistische
+Erhebungen durch.  Dafür setzt der Rundfunk Berlin-Brandenburg, wie auch die
+anderen Gemeinschaftseinrichtungen und Landesrundfunkanstalten der ARD, die
+folgenden standardisierten Verfahren mit sogenannten Zählpixeln ein:
+
+  * Das „Skalierbare Zentrale Meßverfahren (SZM) der Fa. INFOnline und
+  * Techniken der Fa. AT Internet.
+
+  
+Bei diesen Verfahren werden kleine Bilddateien  in abrufbare Internetseiten
+eingebaut, um die Messung von Zugriffszahlen mittels eines Cookies zu
+ermöglichen.
+
+Um das Setzen von Cookies des standardisierten SZM-Verfahrens von INFOnline zu
+verhindern, folgen Sie bitte diesem Link: http://optout.ivwbox.de. Um das
+Setzen von Cookies bei AT Internet zu verhindern folgen Sie bitte folgendem
+Link: http://www.xiti.com/de/optout.aspx
+
+## Personenbezogene Daten
+
+Sie können das Internetangebot des rbb ohne Offenlegung personenbezogener
+Informationen nutzen. Darunter versteht man Daten, die dazu genutzt werden
+können, Ihre Identität offenzulegen, wie zum Beispiel Ihr Name, Ihre
+Anschrift, Telefonnummer und E-Mail-Adresse.
+
+Personenbezogene Informationen, die Sie uns freiwillig zur Bearbeitung von
+Anfragen und Registrierungen (z.B. bei Aktionen mit Zuschauerbeteiligung,
+Gewinnspielen, Forumsbeiträgen) oder Bestellungen auf einer unserer Internet-
+Seiten in die dafür vorgesehenen Formulare eingegeben haben, werden auf dem
+üblichen Weg über das Internet an unseren Server, bzw. an eine an diesen
+angeschlossene Internetadresse der zuständigen Redaktion gesendet. Dort werden
+Ihre personenbezogenen Daten nur insoweit verarbeitet und gespeichert, als es
+für Ihre konkrete Anfrage oder Bestellung erforderlich ist.
+
+Wir weisen darauf hin, dass Ihre personenbezogenen Daten im Internet aus
+technischen Gründen nicht zuverlässig vor dem unbefugten Zugriff Dritter
+geschützt sind. Bitte beachten Sie diesen Umstand, bevor Sie sich entscheiden,
+persönliche Informationen via Internet an uns zu senden.
+
+Insbesondere werden Ihre personenbezogenen Daten nicht an Dritte
+weitergegeben. Bei Beendigung eines von Ihnen ausgewählten Dienstes oder
+Gewinnspiels werden alle personenbezogenen Daten gelöscht.
+
+Soweit Sie uns personenbezogenen Daten zur Verfügung gestellt haben, verwenden
+wir diese nur zweckbezogen, beispielsweise zur Beantwortung Ihrer Anfragen und
+für die technische Administration.
+
+Die Verarbeitung personenbezogener Daten erfolgt unter Beachtung der
+datenschutzrechtlichen Vorschriften des rbb-Staatsvertrages und der sonstigen
+einschlägigen Vorschriften über den Datenschutz.
+
+Ihre Daten werden gelöscht, wenn diese zur Erfüllung des mit der Speicherung
+verfolgten Zwecks nicht mehr erforderlich sind, wenn Sie Ihre Einwilligung zur
+Verarbeitung Ihrer personenbezogenen Daten widerrufen oder wenn die
+Speicherung aus sonstigen gesetzlichen Gründen unzulässig wird.
+
+Der Speicherung und der Verarbeitung Ihrer personenbezogenen Daten können Sie
+jederzeit widersprechen oder eine von Ihnen erteilte Zustimmung ohne Angabe
+von Gründen widerrufen. Dazu können Sie sich an den zuständigen
+Datenschutzbeauftragten des rbb wenden, den Sie unter rbb-online.de erreichen.
+
+## Vertraulichkeit von E-Mails
+
+Wenn Sie uns eine E-Mail senden, wird Ihre E-Mail-Adresse nur für die
+Korrespondenz mit Ihnen verwendet. Auf andere Zwecke würden wir ausdrücklich
+hinweisen und hierfür Ihre Einwilligung erbitten. Bitte beachten Sie aber,
+dass die Vertraulichkeit von E-Mails oder anderen elektronischen
+Kommunikationsformen im Internet grundsätzlich nicht gewährleistet ist. Für
+vertrauliche Informationen empfehlen wir Ihnen deswegen den Postweg.
+
+## Sonderfall Live-Blogs
+
+Für Angebote mit Liveblog (z. B. Social TV, Social Radio) wird der Dienst
+"Scribble Live" von Scribble Inc. (Kanada) verwendet, d.h. wir integrieren die
+Anwendung Scribble Live, die auf Servern von Scribble Inc. liegt, in unsere
+Webseiten und Blogs (auch „embedden“ genannt). Wenn Sie eine Seite mit Live-
+Blog aufrufen, baut Ihr Browser eine direkte Verbindung mit dem Server des
+Dienstleisters auf. Ihre IP-Adresse und weitere gerätebezogene Informationen
+werden übertragen. Der Dienstleister hat sich und mögliche Subunternehmer zur
+Einhaltung der europäischen Datenschutzgesetze verpflichtet. Die Liveblog-
+Seite setzt zudem temporäre Cookies auf Ihrer Festplatte. Dies dient dem
+Zweck, dass Sie die interaktiven Features des Live-Blogs nutzen können.
+Tracking-Cookies, die eine Bildung von Benutzerprofilen zulassen, kommen bei
+der Einbindung von Scribble Live in unseren Seiten nicht zum Einsatz.
+
+## Auskunftsrecht und Beschwerden
+
+Auf schriftliche Anfrage werden wir Sie gern über die zu Ihrer Person
+gespeicherten Daten informieren. Wenn Sie Fragen zur Verarbeitung Ihrer
+persönlichen Daten oder zum Datenschutz beim rbb haben, wenden Sie sich bitte
+an den Datenschutzbeauftragten des Rundfunk Berlin-Brandenburg, den Sie unter
+diesem Kontaktformular erreichen. Den Internetauftritt des
+Datenschutzbeauftragten finden Sie hier: http://www.rbb-
+online.de/unternehmen/der_rbb/struktur/datenschutz/datenschutz_im_rbb.html
+
+Wenn Sie der Ansicht sind, dass Sie bei der Verarbeitung Ihrer
+personenbezogenen Daten durch den rbb oder im Auftrag des rbb durch einen
+Dritten in Ihren schutzwürdigen Interessen verletzt wurden, können Sie sich
+ebenfalls an den Datenschutzbeauftragten des rbb wenden.
+
+### Online
+
+## Livestream
+
+### On Air
+
+## Frequenzen
+
+### Podcasts
+
+## Audio on Demand
+
+### Regeln &amp; Hilfe
+
+## Fußball Tippspiel
+
+### So erreichen Sie uns...
+
+## Kontakt
+
+### Playlisten
+
+## Musik
+
+### Wann läuft was?
+
+## Programm
+
+1
+
+### Fon &amp; Tab
+
+## Apps
+
+### Harte Fakten
+
+## Impressum
+
+### Härtere Fakten
+
+## AGB
+
+### Social Plugins
+
+## Datenschutz
+
+1
+
+### Einfach für alle
+
+## Der neue Rundfunkbeitrag
+
+## FAQs/Hilfe
+
+Sie haben ein Problem? Hier gibt's einige Antworten!
+
+  * Das Arena Fußball  
+Tippspiel  
+Dabei sein ist alles!
+
+  * radioeins  
+auf Facebook  
+Tipps &amp; Termine
+
+  * radioeins  
+auf Twitter  
+Folge uns!
+
+  * radioeins  
+auf Google+  
+Tipps &amp; Termine
+
+  * radioeins  
+Podcast  
+Jetzt abonnieren!
+
+  * Youtube  
+Channel  
+Radio Eins Videos
+
+  * radioeins  
+Newsletter  
+Tipps &amp; Termine per Mail
+
+  * Mobile Apps  
+für iOS &amp; Android  
+
+© 2017 radioeins
+
+Impressum
+
+Kontakt
+
+FAQs/Hilfe
+
+Frequenzen
+
+Datenschutz
+
+AGB
+
+Themen
+
+Brandenburg
+
+Comedy
+
+Kommentare &amp; Kolumnen
+
+Kunst &amp; Kultur
+
+Multimedia &amp; Medien
+
+Musik
+
+Politik &amp; Wirtschaft
+
+Sommernachtskonzerte
+
+Sport
+
+Stadtleben
+
+Verkehr
+
+Wetter
+
+Wissen
+
+Videos
+
+Sendungen
+
+Der schöne Morgen
+
+radioeins ab 10 Uhr
+
+radioeins ab 13 Uhr
+
+radioeins ab 16 Uhr
+
+radioeins live aus dem Babylon
+
+Die schöne Woche
+
+Arena Liga Live
+
+Barfly
+
+Die Blaue Stunde
+
+Die Literaturagenten
+
+Die Profis
+
+Die Sonntagsfahrer
+
+Hörbar Rust
+
+Medienmagazin
+
+radioZWEI
+
+Zwei auf EINS
+
+Zwölf Uhr mittags
+
+Music Specials
+
+Club Room
+
+Dancehall
+
+Dance Tracks
+
+Das Dreckige Dutzend
+
+Die Sendung
+
+Dschungelfieber
+
+Elektro Beats
+
+Experience
+
+Free falling
+
+Freistil
+
+HappySad
+
+Kaleidoskop
+
+Kings Hour
+
+Late Night Lounge
+
+Laut &amp; Kantig
+
+Nightline
+
+Planet Fruit
+
+Roots
+
+Schöne Töne
+
+Soundcheck
+
+Swagga!
+
+Tanzhalle
+
+Weekender
+
+Mehr
+
+Stundenplan
+
+Playlisten
+
+Studios
+
+Podcasts
+
+Newsletter
+
+Das Arena Fußball Tippspiel
+
+rbb Shop - radioeins
+
+rbb Ticketservice - radioeins
+
+Spreadshirt-Shop - radioeins
+

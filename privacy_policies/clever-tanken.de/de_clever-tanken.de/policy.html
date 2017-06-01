@@ -1,0 +1,663 @@
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="de" xmlns:ng="http://angularjs.org" xmlns:ui="http://angularjs.org"> <!--<![endif]-->
+  <head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Datenschutz - clever-tanken.de</title>
+    <meta name="description" content="Datenschutzbedingungen von clever-tanken.de">
+    <meta name="keywords" content="spritpreise, tankstelle, deutschland, stadt, günstig, datenschutz">
+    <meta name="robots" content="index,follow">
+    
+    <meta name="author" content="inforoad GmbH">
+    <meta name="content-language" content="de">
+
+     <meta name="msapplication-config" content="none"/>
+
+    <!-- icons -->
+    <link rel="apple-touch-icon" href="/static/apple-touch-icon.png">
+    <link rel="shortcut icon" href="/static/favicon.png">
+
+    <!-- css -->
+    <link rel="stylesheet" href="/static/css/bootstrap3.min.css">
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="stylesheet" href="/static/css/main.responsive.css">
+
+    
+    
+
+    <!-- Adds -->
+    <script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+    <script src="//ec-ns.sascdn.com/diff/251/pages/clevertanken.js"></script>
+    
+<script type="text/javascript">
+    var smartadserver_page_name='clevertanken_ros';
+</script>
+
+    <!-- IE -->
+    <!--[if lt IE 9]>
+        <script src="js/vendor/html5-3.6-respond-1.4.2.min.js"></script>
+        <script src="/static/libs/json3.min.js"></script>
+        <script>
+          document.createElement('ng-form');
+          document.createElement('ng:form');
+        </script>
+    <![endif]-->
+
+  </head>
+    <body ng-app="ctApp">
+      <!--[if lt IE 8]>
+          <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      <![endif]-->
+      <div id="wrapper" class="container-fluid">
+        
+
+<div id="top-bar" class="row">
+    
+    <div id="top-bar-ad" class="hidden-xs col-sm-12 col-md-12 col-lg-12">
+        <!-- Autobild:SuperBanner-->
+        <script type="text/javascript">
+        sas_pageid='10017/('+ smartadserver_page_name + ')';
+        sas_formatid=3648;    // Format : superbanner01 728x90
+        sas_target='';      // Targeting
+        SmartAdServerAjax(sas_pageid,sas_formatid,sas_target);
+        </script>
+        <noscript>
+            <a href="http://ww251.smartadserver.com/call/pubjumpi/10017/(clevertanken_ros)/3648/S/[timestamp]/?" target="_blank">
+                <img src="http://ww251.smartadserver.com/call/pubi/10017/(clevertanken_ros)/3648/S/[timestamp]/?" border="0" alt="" />
+            </a>
+        </noscript>
+        <!-- Ende Autobild:SuperBanner-->
+    </div>
+    
+</div>
+
+
+<div id="" class="row">
+
+    <div id="main" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+        <!-- Navbar Header -->
+        <div id="main-header" class="row">
+            <div id="autobild-logo-container">
+                <a href="//www.autobild.de" target="_blank">
+                    <div id="main-header-ab-logo" ></div>
+                </a>
+            </div>
+            <div id="ct-logo-container">
+                <a href="/">
+                    <div id="main-header-left"></div>
+                    <div id="main-header-center"></div>
+                    <div id="main-header-right"></div>
+                </a>
+            </div>
+        </div>
+
+        <div
+        id="main-navbar"
+        class="row">
+        <nav  class="nav navbar-default navbar-static-top">
+            
+
+            <div class="navbar-header visible-xs row">
+                <div class="navbar-header-toggle col-xs-8">
+                    <button type="button" class="navbar-header-toggle-button collapsed" data-toggle="collapse" data-target="#main-navbar-collapse">
+                        <span class="glyphicon glyphicon-menu-hamburger"></span>
+                    </button>
+                    <div id="header-selected-page-text"><p><li class = "active"><a href="/">Home</a></p></div>
+                </div>
+
+                <div class="navbar-right header-search-button col-xs-4"  ng-init="searchIsHidden=false" ng-class="{'navbar-search-active':!searchIsHidden}" ng-click="searchIsHidden=!searchIsHidden">
+                    <button type="button" class="navbar-search-toggle-button">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                </div>
+            </div>
+
+            <div id="main-navbar-collapse" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar">
+
+                    
+                    <li><a href="/">Home</a>
+                        
+
+                        
+                        <li><a href="/favoriten">Favoriten</a></li>
+                        
+
+                        
+                        <li>
+                            <a href="/statistik/historie/diesel">Statistiken</a>
+                        </li>
+                        
+
+                        
+                        <li>
+                            <a href="/clever-deal">clever-deal</a>
+                        </li>
+                        
+
+                        <li><a href="/gutscheine/">Gutscheine</a></li>
+
+                    </ul>
+
+                    <ul class = "nav navbar-nav navbar-right">
+                        <li class="active">
+                            <a href="/accounts/profile/">Mein clever-tanken.de</a>
+                        </li>
+                    </ul>
+
+                </div>
+                
+            </nav>
+        </div>
+
+        <div id="main-searchbar" class="row" ng-hide="searchIsHidden">
+            
+            <form
+            role="form"
+            id="searchform"
+            name="searchform"
+            ng-submit="search()"
+            action="/tankstelle_liste"
+            method="get"
+            ng-controller="SearchController"
+            ng-init="initSearch('','','','','')"
+            >
+            <div id="search-dropdowns" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <div class="row">
+                    <div class="col-xs-1 col-lg-1 visible-xs"></div>
+                    <div id="fuel-type" class="col-xs-8 col-sm-8 col-md-8 col-lg-6 ct-select">
+                        <button type="button" class="dropdown-toggle">
+                            <span ng-bind="spritsorte_name"></span>
+                        </button>
+                        <ul class="dropdown-menu">
+                            
+                            <li
+                            ng-class="{selected:search.spritsorte==3}"
+                            ng-click="spritsorteSelected(3, 'Diesel')"
+                            ng-init="registerSpritsorte(3, 'Diesel')"
+                            >
+                            Diesel
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==5}"
+                            ng-click="spritsorteSelected(5, 'Super E10')"
+                            ng-init="registerSpritsorte(5, 'Super E10')"
+                            >
+                            Super E10
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==7}"
+                            ng-click="spritsorteSelected(7, 'Super E5')"
+                            ng-init="registerSpritsorte(7, 'Super E5')"
+                            >
+                            Super E5
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==6}"
+                            ng-click="spritsorteSelected(6, 'SuperPlus')"
+                            ng-init="registerSpritsorte(6, 'SuperPlus')"
+                            >
+                            SuperPlus
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==12}"
+                            ng-click="spritsorteSelected(12, 'Premium Diesel')"
+                            ng-init="registerSpritsorte(12, 'Premium Diesel')"
+                            >
+                            Premium Diesel
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==2}"
+                            ng-click="spritsorteSelected(2, 'LKW-Diesel')"
+                            ng-init="registerSpritsorte(2, 'LKW-Diesel')"
+                            >
+                            LKW-Diesel
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==1}"
+                            ng-click="spritsorteSelected(1, 'Autogas')"
+                            ng-init="registerSpritsorte(1, 'Autogas')"
+                            >
+                            Autogas
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==8}"
+                            ng-click="spritsorteSelected(8, 'Erdgas')"
+                            ng-init="registerSpritsorte(8, 'Erdgas')"
+                            >
+                            Erdgas
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==4}"
+                            ng-click="spritsorteSelected(4, 'Bioethanol')"
+                            ng-init="registerSpritsorte(4, 'Bioethanol')"
+                            >
+                            Bioethanol
+                        </li>
+                        
+                            <li
+                            ng-class="{selected:search.spritsorte==13}"
+                            ng-click="spritsorteSelected(13, 'AdBlue')"
+                            ng-init="registerSpritsorte(13, 'AdBlue')"
+                            >
+                            AdBlue
+                        </li>
+                        
+                    </ul>
+                    <input type="text" name="spritsorte" ng-model="spritsorte" style="display:none;">
+                </div>
+                <div id="radius" class="col-xs-4 col-sm-4 col-md-4 col-lg-4 ct-select">
+                    <button type="button" class="dropdown-toggle">
+                        <span ng-bind="radius"></span> km
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li ng-click="radiusSelected(1)">1 km</li>
+                        <li ng-click="radiusSelected(2)">2 km</li>
+                        <li ng-click="radiusSelected(5)">5 km</li>
+                        <li ng-click="radiusSelected(10)">10 km</li>
+                        <li ng-click="radiusSelected(20)">20 km</li>
+                        <li ng-click="radiusSelected(25)">25 km</li>
+                    </ul>
+                    <input type="text" name="r" ng-model="radius" style="display:none;">
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+            <div class="row">
+                <div class="col-xs-1 col-sm-1 col-md-1 col-lg-1" id="geolocation" data-ng-visible="geolocation">
+                    <span data-ng-click="getCurrentPosition()">
+                        <img src="/static/img/search_position.png" alt="Geo"/>
+                    </span>
+                    <input type="text" name="lat" style="display:none;" ng-model="lat">
+                    <input type="text" name="lon" style="display:none;" ng-model="lon">
+                </div>
+                <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8" id="search">
+                    <div id="search-form-group" class="form-group">
+                        <div class="input-group">
+                            <input type="search"
+                                   class="form-control ct-input"
+                                   ngg-click="searchInputClicked()"
+                                   id="search-box"
+                                   placeholder = "PLZ und/oder Ort"
+                                   name="ort"
+                                   autocomplete="off"
+                                   ng-model="search_box"
+                                   typeahead="address.value for address in getLocations($viewValue)"
+                                   typeahead-on-select="selectedLocation($item, $model, $label)"
+                                   typeahead-min-length="3"
+                            >
+                            <span class="input-group-addon" id="search-button-addon">
+                                <button type="submit">
+                                    <span class="glyphicon glyphicon-search" id="search-button"></span>
+                                </button>
+                            </span>
+                        </div>
+                        <i ng-show="loadingLocations" class="glyphicon glyphicon-refresh"></i>
+                        <div ng-show="noResults">
+                          <i class="glyphicon glyphicon-remove"></i> No Results Found
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </form>
+    
+</div>
+
+<div id="main-content" class="row ">
+    <!-- <div id="divider-main" class="divider"></div> -->
+    
+
+    
+
+<div class="content-datenschutz">
+    <div id="divider-main" class="divider"></div>
+    <h1 style="font-weight:bold">Datenschutzerklärung des Informationsangebotes von clever-tanken.de</h1>
+    <p>Das Internet-Angebot sowie die gleichnamigen Apps von clever-tanken.de werden betrieben von infoRoad GmbH, Geschäftsführer Steffen Bock, mit Sitz in der Hauptstraße 27 in 90562 Heroldsberg.</p>
+    <p> clever-tanken.de nimmt den Schutz der persönlichen Daten sehr ernst und erhebt und nutzt alle personenbezogenen Daten in Übereinstimmung mit dem jeweils geltenden Datenschutzrecht.   clever-tanken.de möchte Ihnen anhand dieser Datenschutzerklärung erläutern, welche Daten unbedingt benötigt werden und wie Sie durch Angabe weiterer, freiwilliger Daten Zusatznutzen erlangen können. Ihre Daten werden nur erhoben und gespeichert, wenn Sie uns dazu Ihre erforderliche Zustimmung gegeben haben.</p>
+
+ <h1>§ 1 Persönliche Daten </h1>
+    <p>Für das Melden von Benzinpreisen, das Registrieren beim Newsletter sowie der Teilnahme an Gewinnspielen werden einige persönliche Angaben abgefragt. Abgefragt werden jeweils nur die Daten, die clever-tanken.de benötigt, um die entsprechende Anwendung oder Leistung zur Verfügung zu stellen. Konkret wird zum Abgeben einer Preismeldung und für die Nutzung von Preispushdiensten eine Anmeldung bei clever-tanken.de notwendig, bei der folgende Daten erhoben werden: Gewünschter Benutzername und gültige E-Mail-Adresse.  </p>
+
+    <h1>§ 2 Verwendung Ihrer notwendigen Daten </h1>
+    <p>clever-tanken.de fragt Sie immer dann gegebenenfalls nach einem Benutzernamen, wenn Sie einen interaktiven Dienst in Anspruch nehmen oder sich hierfür registrieren lassen, etwa um einen Newsletter zu bestellen,  Kraftstoffpreise zu melden oder an einem Gewinnspiel oder einem Forum sowie der Community teilzunehmen. In diesem Fall werden diejenigen personenbezogenen Daten abgefragt, die für den jeweiligen Service und seine Personalisierung nötig sind. clever-tanken.de protokolliert Ihre Einwilligung zur Erhebung und Speicherung der Daten. Sollten Sie Ihre Zustimmung jedoch nicht geben, können wir Ihnen die ausgewählte Anwendung oder Leistung auch nicht zur Verfügung stellen. Mit Ihrem Zugriff auf diese Website werden mögliche Identifizierungsdaten (IP-Adresse) und weitere Angaben (u. a. der von Ihnen verwendete Internet-Browser und das Betriebssystem; Domain-Name der Website, von der Sie kamen; die Anzahl der Besuche, die durchschnittliche Verweilzeit, die aufgerufenen Seiten usw.) auf dem Server von clever-tanken.de für Zwecke der Datensicherheit gespeichert. Eine Auswertung der Daten, mit Ausnahme für statistische Zwecke und dann in anonymisierter bzw. pseudonymisierter Form (d.h. auf Domain-Ebene verkürzte IP-Adresse), erfolgt nicht. Alle Ihre personenbezogenen Angaben werden bei clever-tanken.de auf einem besonders geschützten Server gespeichert und nur für die Zwecke genutzt, für die der Nutzer sie clever-tanken.de bekannt gegeben hat.  
+
+    <h1>§ 3 Weitergabe personenbezogener Daten </h1>
+    <p>clever-tanken.de nutzt Ihre in Ziffer 2 genannten personenbezogenen Informationen nur firmenintern und gibt sie nur an solche Unternehmen weiter, die bei der Erfüllung der mit Ihnen abgeschlossenen Verträge eingeschaltet werden. Ansonsten werden Ihre personenbezogenen Angaben nicht an Dritte weitergegeben, außer wir sind – etwa aufgrund einer gerichtlichen oder behördlichen Anordnung - zur Herausgabe verpflichtet oder Sie haben uns hierzu Ihr ausdrückliches Einverständnis gegeben. So erhalten Sie bei bestimmten Angeboten die Möglichkeit, weiteres Werbematerial anzufordern bzw. der Zusendung vor Werbematerial zuzustimmen. Wenn Ihre Daten zu diesem Zweck an Werbepartner übermittelt oder von Dritten verwendet werden sollen, ist das ausdrücklich und deutlich gekennzeichnet und kann allein von Ihnen aktiv bei der Anmeldung über ein so genanntes "Double-Opt-In-Verfahren" gefordert werden. Dadurch wird sichergestellt, dass Ihre Daten nicht missbräuchlich verwendet werden können. Dieses Einverständnis ist jederzeit und mit Wirkung für die Zukunft widerrufbar. Es genügt dafür ein formloses Schreiben an  </p>
+    <p>clever-tanken.de<br>
+    infoRoad GmbH<br>
+    Hauptstr. 27<br>
+    90562 Heroldsberg</p>
+    <p>oder senden Sie eine <a href="/kontakt">Nachricht</a>.</p>
+
+    <h1>§ 4 Art der Datenauswertung </h1>
+    <p>clever-tanken.de wird Analysen über das Verhalten der Nutzer auf den Seiten von clever-tanken.de durchführen. Dies geschieht vor dem Hintergrund, dass clever-tanken.de seinen Dienst ständig verbessern möchte. Diese Auswertungen sind nicht personenbezogen, sondern werden pseudonymisiert durchgeführt. Selbstverständlich teilen wir unseren Werbekunden auch nicht mit, wer, wann, auf welches Angebot geklickt hat, es sei denn, Sie haben uns ausdrücklich zur Weitergabe ermächtigt. Sie können der pseudonymisierten Verwendung Ihrer Daten zur Verbesserung unseres Dienstes jederzeit widersprechen. Ihren Widerspruch richten Sie an die in § 7 genannte Adresse.  </p>
+
+    <h2>INFOnline</h2>
+    <p>clever-tanken.de nutzt das Messverfahren („SZMnG“) der <a target="_blank" href="https://www.infonline.de">INFOnline GmbH</a> zur Ermittlung statistischer Kennwerte über die Nutzung unserer Angebote. Ziel der Reichweitenmessung ist es, die Nutzungsintensität, die Anzahl der Nutzer einer Webseite und das Surfverhalten statistisch – auf Basis eines einheitlichen Standardverfahrens - zu bestimmen und somit marktweit vergleichbare Werte zu erhalten.</p>
+    <p>Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von <a target="_blank" href="http://www.ivw.eu">Werbeträgern e.V. (IVW)</a> sind oder an den Studien der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF - http://www.agof.de) teilnehmen, werden die Nutzungsstatistiken regelmäßig von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (agma - http://www.agma-mmc.de), sowie der IVW veröffentlicht und können auf den jeweiligen Webseiten eingesehen werden.
+    <p><strong>1. Datenverarbeitung</strong></h3>
+    <p>Die INFOnline GmbH erhebt und verarbeitet Daten nach deutschem Datenschutzrecht. Durch technische und organisatorische Maßnahmen wird sichergestellt, dass einzelne Nutzer zu keinem Zeitpunkt identifiziert werden können. Daten, die möglicherweise einen Bezug zu einer bestimmten, identifizierbaren Person haben, werden frühestmöglich anonymisiert.</p>
+    <p>1.1 Anonymisierung der IP-Adresse<p>
+    <p>Im Internet benötigt jedes Gerät zur Übertragung von Daten eine eindeutige Adresse, die sogenannte IPAdresse. Die zumindest kurzzeitige Speicherung der IP-Adresse ist aufgrund der Funktionsweise des Internets technisch erforderlich. Die IP-Adressen werden vor jeglicher Verarbeitung gekürzt und nur an    onymisiert weiterverarbeitet. Es erfolgt keine Speicherung oder Verarbeitung der ungekürzten IP-Adressen.</p>
+    <p>1.2 Geolokalisierung bis zur Ebene der Bundesländer / Regionen</p>
+    <p>Eine sogenannte Geolokalisierung, also die Zuordnung eines Webseitenaufrufs zum Ort des Aufrufs, erfolgt ausschließlich auf der Grundlage der anonymisierten IP-Adresse und nur bis zur geographischen Ebene der Bundesländer / Regionen. Aus den so gewonnenen geographischen Informationen kann in keinem Fall ein Rückschluss auf den konkreten Wohnort eines Nutzers gezogen werden.</p>
+    <p>1.3 Identifikationsnummer des Gerätes</p>
+    <p>Die Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder ein Cookie mit der Kennung „ioam.de", ein „Local Storage Object“ oder eine anonyme Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. Die Gültigkeit des Cookies ist auf maximal 1 Jahr beschränkt.</p>
+    <p>1.4 Anmeldekennung</p>
+    <p>Zur Messung von verteilter Nutzung (Nutzung eines Dienstes von verschiedenen Geräten) kann die Nutzerkennung beim Login, falls vorhanden, als anonymisierte Prüfsumme an INFOnline übertragen werden.</p>
+    <p><strong>2. Löschung</strong></p>
+    <p>Die gespeicherten Nutzungsvorgänge werden nach spätestens 7 Monaten gelöscht.</p>
+    <p><strong>3. Widerspruch</strong></p>
+    <p>Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter folgendem Link widersprechen: <a target="_blank" href="http://optout.ioam.de">http://optout.ioam.de</a></p>
+    <p>Weitere Informationen zum Datenschutz im Messverfahren finden Sie auf der Webseite der <a target="_blank" href="https://www.infonline.de">INFOnline GmbH</a>, die das Messverfahren betreibt, der Datenschutzwebseite der <a target="_blank" href="http://www.agof.de/datenschutz">AGOF</a> und der Datenschutzwebseite der <a target="_blank" href="http://www.ivw.eu">IVW</a>.</p>
+
+    <h2>Google</h2>
+    <p> Darüber hinaus nutzt clever-tanken.de Google Analytics, einen Webanalysedienst der Google, Inc., 600 Amphitheatre Parkway, Mountain View, CA 94043 ("Google") für die bedarfsgerechte Gestaltung von Webangeboten. Hierzu setzt Google auch Cookies ein (siehe § 6 Verwendung von Cookies). Die Auswertung und Aufbereitung dieser Daten erfolgt in der Regel durch Google auf einem Server in den USA. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb der EU oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die IP-Adresse zunächst an einen Google-Server in den USA übertragen und dort gekürzt. Google wird die übertragenen Informationen im Auftrag des Betreibers dieser Website nutzen, um Ihre Nutzung dieser Website auszuwerten, um Reports über die Websiteaktivitäten zu erstellen und um weitere mit der Nutzung der Website und der Internetnutzung verbundene Dienstleistungen zu erbringen. Google wird Ihre im Rahmen von Google Analytics übermittelte IP-Adresse nicht mit anderen Daten von Google in Verbindung bringen.</p> 
+    <p> Sie können die Speicherung der für Google Analytics erforderlichen Cookies durch eine Einstellung Ihrer Browser-Software verhindern. Sie können in diesem Fall jedoch unter Umständen nicht alle Funktionen dieser Website nutzen. Sie können außerdem die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung der Daten durch Google verhindern: Installieren Sie hierzu das unter dem folgenden <a target="_blank" href="http://tools.google.com/dlpage/gaoptout?hl=de">Link verfügbare Plug-In</a>. Sie können die Erfassung durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, das die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website verhindert: <a onclick="gaOptout(); alert('Google Analytics wurde deaktiviert');" href>Google Analytics deaktivieren</a></p> 
+    <p>Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter http://www.google.com/analytics/terms/de.html bzw. unter https://www.google.de/intl/de/policies/. Wir weisen Sie darauf hin, dass auf dieser Website Google Analytics um den Code „anonymizeIp“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.</p>
+    <p> Darüber hinaus nutzt clever-tanken.de Google AdSense, einen Webanzeigendienst von Google, um Werbung (Textanzeigen, Banner etc.) zu schalten. Dabei speichert Ihr Browser unter Umständen ein von Google oder Dritten gesendetes Cookie. Die in dem Cookie gespeicherten Informationen können durch Google oder auch Dritte aufgezeichnet, gesammelt und ausgewertet werden. Darüber hinaus verwendet Google Adsense zur Sammlung von Informationen auch kleine unsichtbare Grafiken, durch deren Verwendung einfache Aktionen wie der Besucherverkehr auf der Website aufgezeichnet, gesammelt und ausgewertet werden können. Die durch den Cookie und/oder die Grafiken erzeugten Informationen über Ihre Nutzung dieser Website werden an einen Server von Google in den USA übertragen und dort gespeichert. Google benutzt die so erhaltenen Informationen, um eine Auswertung Ihres Nutzungsverhaltens im Hinblick auf AdSense-Anzeigen durchzuführen. Google wird diese Informationen gegebenenfalls auch an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Ihre IP-Adresse wird von Google nicht mit anderen von Google gespeicherten Daten in Verbindung gebracht. Sie können das Speichern von Cookies auf Ihrer Festplatte und die Anzeige der genannten Grafiken verhindern. Sie müssen hierzu in Ihren Browser-Einstellungen die Annahme von Cookies deaktivieren (siehe hierzu auch § 6 "Verwendung von Cookies").</p> 
+    <p> Weitere Informationen zur Nutzung von Cookies für Anzeigenvorgaben durch Google erhalten Sie <a target="_blank" href="http://www.google.com/policies/technologies/ads/">hier</a>.</p> 
+    <p> Auf mehreren Seiten von clever-tanken.de ist ein Google+ Button des sozialen Netzwerks "Google+" eingebunden. Dieses soziale Netzwerk wird ebenfalls von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben. Der Button von Google+ ist an dem Zeichen "+1" erkennbar. Wenn Sie auf clever-tanken.de surfen und eine unserer Websites aufrufen, die einen Google+ Button enthält, wird von Ihrem Browser eine direkte Verbindung mit den Google-Servern aufgebaut und der Button von dort geladen. Dabei wird die Information an Google Inc. übermittelt, dass die entsprechende Seite auf clever-tanken.de aufgerufen wurde. Der Inhalt der "+1"-Schaltfläche  wird von Google direkt an Ihren Browser übermittelt und von diesem in die Website eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Google mit der Schaltfläche erhebt. Nach Angabe von Google werden ohne einen Klick auf die Schaltfläche keine personenbezogenen Daten erhoben. Nur bei eingeloggten Mitgliedern des sozialen Netzwerks Google+ werden Daten, unter anderem die IP-Adresse, erhoben und verarbeitet.<p> 
+    <p> Wenn Sie Google+-Mitglied sind und nicht möchten, dass Google über unseren Internetauftritt Daten über Sie erhebt, müssen Sie sich vor Ihrem Besuch unseres Internetauftritts bei Google+ ausloggen. clever-tanken.de erfährt zu keinem Zeitpunkt, ob und wann Sie den Google+ Button verwendet haben, sondern erhält von Google ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung des Google+-Buttons. Welche Daten Google im Einzelnen zu eigenen Zwecken erhebt und Informationen über die weitere Verarbeitung und Nutzung der Daten, erfahren Sie in der <a target="_blank" href="https://www.google.com/intl/de/+/policy/+1button.html">Datenschutzerklärung von Google</a>.<p> 
+
+    <h2>Facebook </h2>
+    Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). Facebook-Buttons sind in der Regel mit dem Facebook-Logo gekennzeichnet. Abhängig von der Art des Buttons können weitere Angaben hinzukommen (z.B. "Like" oder "Empfehlen"). Wenn Sie auf clever-tanken.de surfen und eine unserer Websites aufrufen, die einen Facebook-Button enthält, wird von Ihrem Browser eine direkte Verbindung mit den Facebook-Servern aufgebaut und der Button von dort geladen. Dabei wird die Information an Facebook übermittelt, dass die entsprechende clever-tanken.de -Seite aufgerufen wurde. Wenn Sie auf den Facebook-Button klicken, ist es möglich, dass Facebook weitere Daten verarbeitet. So kann Facebook z.B. einen Cookie setzen, über den Facebook auf anderen Internetseiten, die ebenfalls Facebook-Buttons eingebunden haben, erkennen kann, dass Sie bereits auf den  Button geklickt haben.
+    Sind Sie als Facebook-Nutzer gleichzeitig bei Facebook eingeloggt, ist außerdem die Zuordnung des Seitenabrufs zu Ihrem Profil möglich. Wenn Sie eingebundene Facebook-Buttons anklicken und sich danach bei Facebook einloggen (oder bereits eingeloggt sind), können die "ge-like-ten" oder "empfohlenen" Informationen in Ihrem Profil in Kurzform veröffentlicht werden. Facebook kann so gegebenenfalls weitere Nutzungsdaten erheben und speichern. So können bei Facebook-Nutzerprofile entstehen, die über das hinausgehen, was Sie selbst bei Facebook preisgeben. clever-tanken.de erfährt zu keinem Zeitpunkt, welche Facebook-Buttons Sie wann verwendet haben, sondern erhält von Facebook ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung der Fanpages von clever-tanken.de auf Facebook und eine zusammengefasste Statistik zur Verwendung von Facebook-Buttons in Bezug auf clever-tanken.de.
+    Welche Daten Facebook im Einzelnen zu eigenen Zwecken erhebt, erfahren Sie in der Datenschutzerklärung von Facebook; dort erhalten Sie auch weitere Informationen zu Datenerhebung und -verarbeitung durch Facebook und zu Ihren darauf bezogenen Rechten, Die Facebook-Datenschutzerklärung ist abrufbar unter <a target="_blank" href="https://www.facebook.com/policy.php">https://www.facebook.com/policy.php</a>, die Information von Facebook zu sog. Social Plugins unter  <a target="_blank" href="http://www.facebook.com/help/?page=1068">http://www.facebook.com/help/?page=1068</a></p>
+
+    <h2>Twitter</h2>
+    <p> Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107). Wenn Sie auf clever-tanken.de surfen und eine unserer Websites aufrufen, die einen Twitter-Button enthält, wird von Ihrem Browser ebenfalls eine direkte Verbindung mit den Servern von Twitter aufgebaut und der Button von dort geladen. Dabei wird die Information an Twitter übermittelt, dass die entsprechende clever-tanken.de-Seite aufgerufen wurde. Auch wenn Sie nicht eingeloggt sind, kann Twitter so gegebenenfalls Nutzungsdaten erheben und auch speichern.
+    Wenn Sie die Twitter-Buttons auf clever-tanken.de anklicken und über das sich öffnende Twitter-Fenster Informationen "twittern", übermitteln Sie die getwitterten Informationen an Twitter. Diese Informationen werden dann in Ihrem Twitter-Nutzerprofil veröffentlicht. Weitere Informationen zur Datenerhebung, Auswertung und Verarbeitung Ihrer Daten durch Twitter sowie Ihren darauf bezogenen Rechte erhalten Sie in der Datenschutzerklärung von Twitter, die unter <a target="_blank" href="http://twitter.com/privacy">http://twitter.com/privacy</a> abrufbar ist.</p>
+
+    <h1>§ 5 Nutzungsbasierte Onlinewerbung</h1>
+    <p>Informationen zum Einsatz von Cookies für nutzungsbasierte Online-Werbung (engl. Online Behavioral Advertising, kurz OBA) und dazu, wie sie ihre Nutzung unterbinden können, finden Sie unter <a target="_blank" href="http://www.youronlinechoices.eu">http://www.youronlinechoices.eu</a>.</p>
+
+    <p>2011 hat die Online-Werbeindustrie in Europa eine Initiative zur Selbstregulierung gestartet, das sogenannte EDAA OBA Framework. Es steht für mehr Transparenz beim Einsatz nutzungsbasierter Online-Werbung. Durch die Bereitstellung von Informationen soll der Nutzer transparent über die Verarbeitung und Speicherung seiner Daten aufgeklärt werden. Media Impact nimmt an dieser Initiative teil und akzeptiert freiwillig die Regeln des Frameworks. Mehr Informationen hierzu finden Sie unter <a target="_blank" href="http://www.edaa.eu">http://www.edaa.eu</a>.</p>
+
+    <p>Amazon: <a target="_blank" href="http://www.amazon.de/gp/dra/info">http://www.amazon.de/gp/dra/info</a><br>
+    Yieldlab: <a target="_blank" href="http://www.yieldlab.de/privacy/">http://www.yieldlab.de/privacy/</a><br>
+    Abilicom: <a target="_blank" href="http://www.adrolays.com/de/opt-out">http://www.adrolays.com/de/opt-out</a><br>
+    Krux: <a target="_blank" href="http://www.krux.com/privacy/consumer-choice/">http://www.krux.com/privacy/consumer-choice/</a><br>
+    Emetriq: <a target="_blank" href="https://www.emetriq.com/opt-out/">https://www.emetriq.com/opt-out/</a><br>
+    Xplosion: <a target="_blank" href="https://www.xplosion.de/opt-out.php">https://www.xplosion.de/opt-out.php</a><br>
+    Criteo: <a target="_blank" href="http://www.criteo.com/de/privacy/">http://www.criteo.com/de/privacy/</a><br>
+    Nugg.ad: <a target="_blank" href="http://mtm.nuggad.net/">http://mtm.nuggad.net/</a><br>
+    Smart AdServer: <a target="_blank" href="http://smartadserver.de/privacy-policy">http://smartadserver.de/privacy-policy</a><br>
+    Ad Audience: <a target="_blank" href="http://www.adaudience.de/datenschutz/">http://www.adaudience.de/datenschutz/</a></p>
+
+    <h1>§ 6 Auskunftsrecht </h1>
+    <p>Sie können jederzeit Auskunft über die bei uns über Sie gespeicherten Daten erhalten. Bei Bedarf schreiben Sie bitte an  </p>
+    <p>clever-tanken.de<br>
+    infoRoad GmbH<br>
+    Hauptstr. 27<br>
+    90562 Heroldsberg</p>
+    <p>oder senden Sie eine <a href="/kontakt">Nachricht</a>.</p>
+
+    <h1>§ 7 Verwendung von Cookies </h1>
+    <p>Cookies sind kleine Dateien mit Konfigurationsinformationen nach den Vorgaben der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e. V. (IVW) und wechselnden Werbepartnern. Diese dienen ausschließlich dazu, die Nutzungshäufigkeit und die Anzahl der Nutzer unserer Website zu ermitteln bzw. die Einblendung von Werbebotschaften zu optimieren. Auf bestimmten Seiten werden Anzeigen von Unternehmen oder Agenturen direkt geliefert: hier kommen möglicherweise Cookies zum Einsatz, ohne dass wir Einfluss darauf haben oder Sie darauf hinweisen können; der Hinweis erfolgt dann von dem Werbetreibenden. In einigen Bereichen unseres Angebots werden Cookies verwendet, um Benutzerfunktionen zu realisieren. Personenbezogene Daten können von den Cookies nicht erkannt, gespeichert oder weitergeleitet werden. Die Daten werden also nicht dazu benutzt, Sie als Besucher der Website zu identifizieren. Mit Hilfe dieser Cookies können wir lediglich analysieren, wie User unsere Websites nutzen und daraufhin die Inhalte unserer Angebote besser auf die Bedürfnisse der Nutzer abstimmen. Sie können mit Hilfe eines einfachen Verfahrens in Ihrem Browser Cookies aktivieren oder ganz oder einen Teil von ihnen deaktivieren, wenn Sie die Vorteile nicht nutzen wollen. Bitte beachten Sie hierzu die individuellen Einstellmöglichkeiten Ihres Browsers.  Aus technischen Gründen ist es nicht möglich, Beiträge im Online-Forum von clever-tanken.de zu schreiben, wenn Sie auf Ihrem Rechner keine Cookies akzeptieren. Sie können diese Cookies allerdings beim Verlassen des Forums jeweils automatisch löschen, indem Sie beim Verlassen des Forums die Schaltfläche "Log out" oben rechts wählen. In diesem Fall müssen Sie beim nächsten Besuch Ihre Zugangsdaten neu eingeben. Wir empfehlen die Option "Log out", wenn andere Personen Zugang zu Ihrem Rechner haben.  </p>
+
+    <h1>§ 8 Löschung von personenbezogenen Daten </h1>
+    <p>Sie können jederzeit Ihr Einverständnis gemäß § 13 (2) TMG bezüglich der Erhebung und Speicherung Ihrer personenbezogenen Daten schriftlich oder elektronisch widerrufen. Die Post-Anschrift lautet:  </p>
+    <p>clever-tanken.de<br>
+    infoRoad GmbH<br>
+    Hauptstr. 27<br>
+    90562 Heroldsberg</p>
+    <p>oder senden Sie eine <a href="/kontakt">Nachricht</a>. In diesem Falle wird clever-tanken.de Ihre Daten löschen. Im Falle Ihres Widerrufs der Erhebung und Speicherung und der Verarbeitung Ihrer Daten kann clever-tanken.de bestimmte Dienste wie z.B. die Zustellung des Newsletters oder die Teilnahme an Gewinnspielen nicht mehr erbringen.  </p>
+
+    <h1>§ 9 Weitere Hinweise zum Datenschutz </h1>
+    <p>Bitte denken Sie daran, dass Sie immer, wenn Sie freiwillig persönliche Informationen online bekannt geben (z.B. in Chatbereichen, per E-Mail, in Foren) diese Informationen von anderen gesammelt und verwendet werden können. Sie könnten also von anderen unerwünschte Nachrichten erhalten, wenn Sie in Bereichen mit öffentlichem Zugriff persönliche Informationen online versenden. Handeln Sie online stets vorsichtig und verantwortungsvoll und achten Sie auf die Geheimhaltung Ihres Passwortes und/oder sonstiger persönlicher Informationen.  </p>
+
+    <h1>§ 10 Änderungsvorbehalt </h1>
+    <p>clever-tanken.de behält sich das Recht vor, jederzeit diese Erklärung zum Datenschutz unter Beachtung der rechtlichen Vorgaben zu aktualisieren. Wir informieren auf unseren Websites über Aktualisierungen und bitten Sie um die Erteilung etwaig erforderlicher Einwilligungen.</p>
+
+    <p> Stand: Februar 2014</p>
+</div>
+
+
+
+    
+
+
+    <div id="main-content-footer" class="col-xs-12 col-sm-12 col-md-12 col-lg-12  main-content-item">
+        <div id="footer-social-buttons-container" class="row">
+            <div class="">
+                <div id="fb-root"></div>
+                <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.3&appId=713129795369892"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+                <div id="google-share-button" class="col-xs-12 col-sm-4 col-md-4 col-md-4">
+                  <script src="https://apis.google.com/js/platform.js" async defer>
+                  {lang: 'de'}
+                  </script>
+                  <div class="g-plus" data-action="share" data-width="120" data-href="https://www.clever-tanken.de"></div>
+                </div>
+            </div>
+            <div id="facebook-share-button" class="col-xs-12 col-sm-4 col-md-4 col-md-4">
+                <div class="fb-like" data-href="https://www.clever-tanken.de" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+            </div>
+            <div id="twitter-share-button" class="col-xs-12 col-sm-4 col-md-4 col-md-4">
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.clever-tanken.de" data-hashtags="clevertanken">Tweet</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            </div>
+        </div>
+
+        <div id="main-content-footer-quick-finder" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <h2>Quickfinder</h2>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 no-padding">
+                <a href="/tankstellen">Finden Sie die besten Tankstellen</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 no-padding">
+                <a href="/spritpreise">Finden Sie die günstigsten Spritpreise</a>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 no-padding">
+                <a href="/marken">Finden Sie Ihre bevorzugte Marke</a>
+            </div>
+        </div>
+
+        <div id="main-content-footer-legal" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div id="divider-legal" class="divider"></div>
+            <p style="white-space: pre-wrap;">Diese Informationen sind für Privatanwender kostenlos. Alle Angaben ohne Gewähr. Jegliches Weiterverarbeiten oder Zitieren unserer Informationen -auch auszugsweise- bedarf der ausdrücklichen Genehmigung von clever-tanken.de. Preisangaben und Grunddaten von Tankstellen mit der MTS-K werden bereitgestellt von der Markttransparenzstelle für Kraftstoffe (MTS-K). Alle genannten Produktnamen, Logos und eingetragene Warenzeichen sind Eigentum der jeweiligen Rechteinhaber.</p>
+            <ul>
+                <li><a href="/impressum">Impressum</a></li>
+                <li><a href="/agb">AGB</a></li>
+                <li><a href="/datenschutz">Datenschutz</a></li>
+                <li><a href="/kontakt">Kontakt</a></li>
+                <li><a href="/media_partner">Media</a></li>
+                <li><a href="/faq">FAQ</a></li>
+            </ul>
+            <div id="google-powered">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+</div> <!-- .main-content -->
+
+
+    <div id="right-side-bar" class="hidden-xs">
+        
+        <!-- Autobild:Skyscraper -->
+        <script type="text/javascript">
+        sas_pageid='10017/('+ smartadserver_page_name + ')';
+        sas_formatid=3650;    // Format : skyscraper01 160x600
+        sas_target='';      // Targeting
+        SmartAdServerAjax(sas_pageid,sas_formatid,sas_target);
+        </script>
+        <noscript>
+            <a href="http://ww251.smartadserver.com/call/pubjumpi/10017/(clevertanken_ros)/3650/S/[timestamp]/?" target="_blank">
+                <img src="http://ww251.smartadserver.com/call/pubi/10017/(clevertanken_ros)/3650/S/[timestamp]/?" border="0" alt="" /></a>
+        </noscript>
+        <!-- Ende Autobild:Skyscraper-->
+        
+    </div>
+
+</div> <!-- .main -->
+
+
+
+</div>
+
+
+      </div>
+      <!-- Scripts -->
+
+      <script type="text/javascript" src="/static/js/vendor/angular.min.js"></script>
+      <script type="text/javascript" src="/static/js/vendor/angular-animate.min.js"></script>
+
+      <!-- <script type="text/javascript" src="/static/angular/angular.js"></script> -->
+      <script type="text/javascript" src="/static/libs/ui-bootstrap-tpls-0.6.0.js"></script>
+      <script type="text/javascript" src="/static/js/main.js"></script>
+      <script type="text/javascript" src="/static/js/tankstellen_details.js"></script>
+      <script type="text/javascript" src="/static/js/favoriten.js"></script>
+      <script type="text/javascript" src="/static/js/geolocation.js"></script>
+      <script type="text/javascript" src="/static/js/preisalarm.js"></script>
+      <script type="text/javascript" src="/static/libs/dygraph-combined.js"></script>
+      <script type="text/javascript" src="/static/js/map.js"></script>
+
+      <!-- Google Analytics -->
+      <script>
+
+        // Google Analytics Opt Out Code
+        var gaProperty = 'UA-578696-1';
+        var disableStr = 'ga-disable-' + gaProperty;
+        if (document.cookie.indexOf(disableStr + '=true') > -1) {
+          window[disableStr] = true;
+        }
+        function gaOptout() {
+          document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+          window[disableStr] = true;
+        }
+
+
+        // Google Analytics Code
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', gaProperty]);
+        _gaq.push(['_gat._anonymizeIp']);  // Ip Anonymization
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script>
+
+      <!-- IVW -->
+      <script type="text/javascript">
+        var viewdesktop = Math.max(document.documentElement.clientWidth, window.innerWidth || 769) >= 768;
+        if (viewdesktop) {
+          var ivw_prefix = '';
+          var ivw_sv = 'in';
+          var ivw_st = 'autobild';
+        } 
+        // add the 'else' part again only if the website is optimized for mobile
+        //else {
+        //  var ivw_prefix = 'mob-';
+        //  var ivw_sv = 'mo';
+        //  var ivw_st = 'mobaubi';
+        //}
+      </script>
+
+      
+    <!-- SZM VERSION="2.0" -->
+    <script type="text/javascript">
+    var iam_data = {
+    "st":ivw_st, // site/domain
+    "cp":ivw_prefix+"clever_unternehmenskommunikation", // code
+    "mg":"yes", // migration-mode aktiviert
+    "sv":ivw_sv,
+    }
+    iom.c(iam_data);
+    </script>
+    <!--/SZM -->
+
+
+      
+
+
+<script>
+try {
+
+    g = new Dygraph(
+        document.getElementById("chart"),
+        [[new Date(1488409200000),1.173,1.349],[new Date(1488495600000),1.172,1.345],[new Date(1488582000000),1.176,1.349],[new Date(1488668400000),1.181,1.355],[new Date(1488754800000),1.171,1.341],[new Date(1488841200000),1.169,1.339],[new Date(1488927600000),1.167,1.337],[new Date(1489014000000),1.165,1.337],[new Date(1489100400000),1.159,1.332],[new Date(1489186800000),1.172,1.345],[new Date(1489273200000),1.168,1.343],[new Date(1489359600000),1.159,1.333],[new Date(1489446000000),1.151,1.326],[new Date(1489532400000),1.143,1.317],[new Date(1489618800000),1.137,1.310],[new Date(1489705200000),1.139,1.312],[new Date(1489791600000),1.144,1.317],[new Date(1489878000000),1.151,1.325],[new Date(1489964400000),1.140,1.313],[new Date(1490050800000),1.136,1.309],[new Date(1490137200000),1.135,1.309],[new Date(1490223600000),1.134,1.305],[new Date(1490310000000),1.133,1.309],[new Date(1490396400000),1.138,1.315],[new Date(1490482800000),1.149,1.330],[new Date(1490565600000),1.134,1.313],[new Date(1490652000000),1.131,1.312],[new Date(1490738400000),1.130,1.314],[new Date(1490824800000),1.131,1.318],[new Date(1490911200000),1.136,1.326],[new Date(1490997600000),1.142,1.333],[new Date(1491084000000),1.145,1.337],[new Date(1491170400000),1.142,1.334],[new Date(1491256800000),1.144,1.336],[new Date(1491343200000),1.147,1.341],[new Date(1491429600000),1.149,1.343],[new Date(1491516000000),1.150,1.347],[new Date(1491602400000),1.157,1.355],[new Date(1491688800000),1.164,1.362],[new Date(1491775200000),1.157,1.355],[new Date(1491861600000),1.160,1.357],[new Date(1491948000000),1.166,1.361],[new Date(1492034400000),1.167,1.363],[new Date(1492120800000),1.173,1.369],[new Date(1492207200000),1.175,1.370],[new Date(1492293600000),1.179,1.375],[new Date(1492380000000),1.175,1.372],[new Date(1492466400000),1.169,1.364],[new Date(1492552800000),1.166,1.363],[new Date(1492639200000),1.158,1.354],[new Date(1492725600000),1.157,1.355],[new Date(1492812000000),1.161,1.359],[new Date(1492898400000),1.167,1.365],[new Date(1492984800000),1.156,1.353],[new Date(1493071200000),1.151,1.348],[new Date(1493157600000),1.141,1.341],[new Date(1493244000000),1.135,1.335],[new Date(1493330400000),1.139,1.337],[new Date(1493416800000),1.140,1.337],[new Date(1493503200000),1.147,1.343],[new Date(1493589600000),1.149,1.345],[new Date(1493676000000),1.138,1.333],[new Date(1493762400000),1.133,1.328],[new Date(1493848800000),1.131,1.327],[new Date(1493935200000),1.125,1.323],[new Date(1494021600000),1.128,1.324],[new Date(1494108000000),1.131,1.329],[new Date(1494194400000),1.120,1.319],[new Date(1494280800000),1.120,1.319],[new Date(1494367200000),1.120,1.318],[new Date(1494453600000),1.121,1.319],[new Date(1494540000000),1.124,1.322],[new Date(1494626400000),1.131,1.331],[new Date(1494712800000),1.135,1.336],[new Date(1494799200000),1.129,1.329],[new Date(1494885600000),1.129,1.331],[new Date(1494972000000),1.120,1.324],[new Date(1495058400000),1.119,1.322],[new Date(1495144800000),1.124,1.326],[new Date(1495231200000),1.128,1.327],[new Date(1495317600000),1.136,1.337],[new Date(1495404000000),1.128,1.329],[new Date(1495490400000),1.132,1.333],[new Date(1495576800000),1.133,1.333],[new Date(1495663200000),1.135,1.335],[new Date(1495749600000),1.133,1.331],[new Date(1495836000000),1.140,1.338],[new Date(1495922400000),1.146,1.344],[new Date(1496008800000),1.135,1.334],[new Date(1496095200000),1.128,1.328],[new Date(1496181600000),1.128,1.328]],
+        {
+            title: 'Preisentwicklung<br><span class="dygraph-sub-title">3 Monate<br><span class="dygraph-diesel">Diesel</span> und <span class="dygraph-super-e10">Super E10</span></span>',
+            //xlabel: 'Uhrzeit',
+            //ylabel: 'Preis',
+            yAxisLabelWidth: 25,
+            drawXGrid: true,
+            drawYGrid: true,
+            height: 200,
+            legend: 'never',
+            colors: ['white', 'red'],
+            axisLabelFontSize: 10,
+            titleHeight: 50,
+            // no zooming
+            interactionModel:{},
+
+            // plot line thickness
+            strokeWidth: 3,
+
+            // grid line settings
+            gridLineWidth: 0.3,
+            gridLineColor: '#9EB9C8',
+
+            // axes settings
+            axisLineColor: '#152F4E',
+            axes: {
+                x: {
+                    drawGrid: true,
+                    pixelsPerLabel : 50,
+                    AxisLabelWidth: 20,
+                    /*ticker: function(a,b, pixels, opts, dygraph, vals) {
+                    return Dygraph.dateTicker(a,b, 120, opts, dygraph, vals);
+                }*/
+                axisLabelFormatter: function(date) {
+                    var d = new Date(date);
+                    var month = Dygraph.zeropad(d.getMonth()+1);
+                    var day = d.getDate();
+                    return day + '.' + month;
+                },
+                ticker: function(a,b, pixels, opts, dygraph, vals) {
+                  return Dygraph.dateTicker(a,b, 550, opts, dygraph, vals);
+                }
+//                ticker: function(a,b, pixels, opts, dygraph, vals) {
+//                    var start = new Date(1488409200000);
+//                    var end = new Date(1496181600000);
+//                    return [{'v': start, 'label': start.getDate()+'.'+ Dygraph.zeropad(start.getMonth()+1)},{'v': end, 'label':end.getDate()+'.'+ Dygraph.zeropad(end.getMonth()+1)}]
+//                    return Dygraph.dateTicker(a,b, 10, opts, dygraph, vals);
+//                }
+            },
+        }
+    });
+}
+catch(err)
+{
+
+}
+</script>
+
+
+  
+
+    </body>
+</html>

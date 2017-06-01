@@ -1,0 +1,403 @@
+  * Berufe entdecken
+
+Berufe entdecken
+
+    * Die beliebtesten Berufe
+    * Die bestbezahlten Berufe
+    * Berufe nach Themen
+    * Berufe A bis Z
+    *   * Ausbildungsplatz finden
+
+Ausbildungsplatz finden
+
+    * Ausbildungsplätze 2017
+    * Alle Städte
+    * Alle Branchen
+    * Alle Unternehmen
+    * Alle Partnerunternehmen
+  * Rund um die Ausbildung
+
+Rund um die Ausbildung
+
+    * Ausbildungsarten
+    * Bewerbung
+    * Gehalt
+    * Wohnung
+    * Downloads
+    * Ausbildung bewerten
+    * Unser Blog
+    * azubi.report
+    *   * Duales Studium
+
+Duales Studium
+
+    * Alle Studiengänge
+    * Alle Hochschulen
+    * Alle Unternehmen
+
+Suchen
+
++
+
+Für Unternehmen  Für Lehrer Für Eltern
+
+Login
+
+## Datenschutzerklärung
+
+# Ausbildung.de
+
+## Datenschutzerklärung
+
+Datenschutzhinweis
+
+Stand 22.01.2016
+
+1\. Geltungsbereich
+
+Diese Datenschutzerklärung klärt Sie, den Nutzer, über die Art, den Umfang und
+Zwecke der Erhebung und Verwendung personenbezogener Daten durch die
+verantwortliche Stelle TERRITORY EMBRACE GmbH , Kortumstr. 16, 44787 Bochum,
+bei Nutzung dieser Website auf. Wir verweisen auf unsere vollständigen
+Kontaktdaten im Impressum von www.ausbildung.de.
+
+2\. Zugriffsdaten/ Server-Logfiles
+
+TERRITORY EMBRACE erhebt (über ihren Webspace-Provider) automatisch (also
+nicht über eine Registrierung) Daten über jeden Zugriff auf die Website (so
+genannte Serverlogfiles). Zu den Zugriffsdaten gehören:  
+Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs,
+übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst
+Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte
+Seite), IP-Adresse und der anfragende Provider. Diese Nutzungsdaten sind
+notwendig, damit die von Ihnen aufgerufene Webseite an Ihren Rechner geschickt
+und Ihnen angezeigt werden kann. Diese Nutzungsdaten werden innerhalb von 7
+Tagen nach Aufruf der Website gelöscht.  
+  
+TERRITORY EMBRACE verwendet die Protokolldaten nur in anonymisierter Form für
+statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der
+Optimierung des Angebotes von www.ausbildung.de.
+
+Wir treffen nach dem Stand der Technik Vorkehrungen, um Ihre Daten vor
+Verlust, Zerstörung, Verfälschung, Manipulation und unberechtigtem Zugriff zu
+schützen. Soweit Ihre Daten bei uns erhoben und erfasst werden, erfolgt deren
+Speicherung auf besonders geschützten Servern. Diese sind durch technische und
+organisatorische Maßnahmen gegen Verlust, Zerstörung, Zugriff, Veränderung
+oder Verbreitung Ihrer Daten durch unbefugte Personen geschützt. Der Zugriff
+auf Ihre Daten ist nur wenigen, befugten Personen möglich. Diese sind für die
+technische, kaufmännische oder redaktionelle Betreuung der Server zuständig.
+Alle unsere Mitarbeiter sind zur Vertraulichkeit verpflichtet. Für den
+technischen Betrieb (Hosting) der Website haben wir einen Dienstleister
+beauftragt. Dieser führt die Datenverarbeitung in unserem Auftrag durch. Die
+Erhebung, Verarbeitung und Nutzung Ihrer Daten durch den Dienstleister erfolgt
+ausschließlich im Rahmen unserer Weisungen. Auch für ihn gelten die Aussagen
+dieser Datenschutzerklärung in gleicher Weise.
+
+3\. Umgang mit personenbezogenen Daten
+
+Personenbezogene Daten sind Informationen, mit deren Hilfe eine Person
+bestimmbar ist, also Angaben, die zurück zu einer Person verfolgt werden
+können. Dazu gehören der Name, die Emailadresse oder die Telefonnummer. Aber
+auch Daten über Vorlieben, Hobbies, Mitgliedschaften oder welche Webseiten von
+jemandem angesehen wurden zählen zu personenbezogenen Daten.  
+  
+Personenbezogene Daten werden von TERRITORY EMBRACE nur dann erhoben, genutzt
+und weiter gegeben, wenn dies gesetzlich erlaubt ist oder die Nutzer in die
+Datenerhebung einwilligen.
+
+Die Daten registrierter Nutzer mit eigenem Account werden durch uns und
+beauftragte Dienstleister verwendet, soweit dies für Ihre Inanspruchnahme und
+Nutzung des Angebots „Ausbildung.de“ (nachfolgend: unser Angebot) von
+TERRITORY EMBRACE auf www.ausbildung.de und anderen damit verbundenen
+Websites, bei denen wir laut Impressum Inhaber sind, sowie auf deren
+Subdomains ), gemäß der bei Registrierung oder später gesondert akzeptierten
+Nutzungsbedingungen erforderlich ist.
+
+Bei der Kontaktaufnahme mit TERRITORY EMBRACE (zum Beispiel per
+Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung
+der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
+
+Wenn Nutzer Kommentare im Blog oder sonstige Beiträge hinterlassen, werden
+ihre IP-Adressen gespeichert. Das erfolgt zur Sicherheit der TERRITORY
+EMBRACE, falls jemand in Kommentaren und Beiträgen widerrechtliche Inhalte
+schreibt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem
+Fall kann TERRITORY EMBRACE selbst für den Kommentar oder Beitrag belangt
+werden und ist daher an der Identität des Verfassers interessiert.
+
+4\. Registrierung mit Facebook Connect
+
+Der Nutzer kann sich bei www.ausbildung.de auch mit seinem Facebook-Profil
+registrieren und einen Account anlegen. Folgende Daten werden dann von
+Facebook übertragen: Vorname und Nachname, E-Mail-Adresse, Alter (in Jahren),
+Geschlecht und Profilbild. Im Gegenzug wird Facebook mitgeteilt, dass der
+Nutzer sich als Nutzer von www.ausbildung.de registriert hat. Weitere Daten
+des Nutzers werden nicht durch TERRITORY EMBRACE an Facebook übermittelt.
+Natürlich kann der Nutzer die Verknüpfung auch wieder rückgängig machen. Dazu
+muss er TERRITORY EMBRACE bei seinem Anbieter (Facebook) einfach die
+entsprechenden Zugriffsrechte für das Verfahren der „umgehenden
+Personalisierung“ entziehen. Näheres hierzu und zur Anmeldung auf einer
+anderen Webseite mittels Facebook erfährt man bei Facebook unter:
+https://www.facebook.com/full_data_use_policy#loggingin
+
+5\. Newsletter
+
+Mit dem Newsletter informieren wir Sie über uns und unsere Angebote.  
+  
+Wenn Sie den Newsletter empfangen möchten, benötigen wir von Ihnen eine valide
+Email-Adresse sowie Informationen, die uns die Überprüfung gestatten, dass Sie
+der Inhaber der angegebenen Email-Adresse sind bzw. deren Inhaber mit dem
+Empfang des Newsletters einverstanden ist. Weitere Daten werden nicht erhoben.
+Diese Daten werden nur für den Versand der Newsletter verwendet und werden
+nicht an Dritte weiter gegeben.  
+  
+Mit der Anmeldung zum Newsletter speichern wir Ihre IP-Adresse und das Datum
+der Anmeldung. Diese Speicherung dient alleine dem Nachweis im Fall, dass ein
+Dritter eine Emailadresse missbraucht und sich ohne Wissen des Berechtigten
+für den Newsletterempfang anmeldet.  
+  
+Ihre Einwilligung zur Speicherung der Daten, der Email-Adresse sowie deren
+Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen. Der
+Widerruf kann über einen Link in den Newslettern selbst, in Ihrem
+Profilbereich oder per Mitteilung an die oben stehenden Kontaktmöglichkeiten
+erfolgen.
+
+6\. Einbindung von Diensten und Inhalten Dritter
+
+Es kann vorkommen, dass innerhalb dieses Onlineangebotes Inhalte Dritter, wie
+zum Beispiel Videos von YouTube, Kartenmaterial von Google-Maps, RSS-Feeds
+oder Grafiken von anderen Webseiten eingebunden werden. Dies setzt immer
+voraus, dass die Anbieter dieser Inhalte (nachfolgend bezeichnet als "Dritt-
+Anbieter") die IP-Adresse der Nutzer wahr nehmen. Denn ohne die IP-Adresse,
+könnten sie die Inhalte nicht an den Browser des jeweiligen Nutzers senden.
+Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir
+bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-
+Adresse lediglich zur Auslieferung der Inhalte verwenden. Jedoch haben wir
+keinen Einfluss darauf, falls die Dritt-Anbieter die IP-Adresse z.B. für
+statistische Zwecke speichern. Soweit dies uns bekannt ist, klären wir die
+Nutzer darüber auf.  
+
+7\. Cookies
+
+Um den Besuch auf unserer Website attraktiv zu gestalten und dem Nutzer die
+Nutzung bestimmter Funktionen zu ermöglichen, verwenden wir auf verschiedenen
+Seiten sogenannte Cookies. Hierbei handelt es sich um kleine Textdateien, die
+auf Ihrem Endgerät abgelegt werden. Einige der von uns verwendeten Cookies
+werden nach dem Ende der Browser-Sitzung, also nach Schließen deines Browsers,
+wieder gelöscht (sog. Sitzungs-Cookies).
+
+Andere Cookies verbleiben auf Ihrem Endgerät und ermöglichen es, Ihren Browser
+beim nächsten Besuch wiederzuerkennen (persistente Cookies). Cookies, die zur
+Erbringung unseres Dienstes nicht technisch erforderlich sind, werden nur mit
+Ihrem Einverständnis gesetzt, welches Sie jederzeit widerrufen können. Sie
+können uns Ihr Einverständnis durch die Einstellung Ihres Browsers mitteilen,
+indem Sie bestimmen, dass Sie über das Setzen von Cookies informiert werden
+wollen und deren Annahme erst erfolgt, wenn Sie dies ausdrücklich bestätigen.
+Sie können so auch festlegen, dass Sie die Annahme von Cookies für bestimmte
+Fälle oder generell ausschließen. Persistente Cookies werden ausschließlich im
+Zusammenhang mit den von TERRITORY EMBRACE eingesetzten Webanalysediensten
+verwendet und nur solange genutzt, wie es der Zweck erfordert; sie haben eine
+Lebensdauer von maximal zwei Jahren. Sie können die Cookies über die
+Datenschutzfunktionen ihres Browsers jederzeit von der Festplatte ihres
+Rechners löschen. In diesem Fall, könnten die Funktionen und die
+Benutzerfreundlichkeit des Angebots eingeschränkt werden.  
+
+8\. Google Analytics
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+(„Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf
+Computer der Nutzer gespeichert werden und die eine Analyse der Benutzung der
+Website durch sie ermöglichen. Die durch den Cookie erzeugten Informationen
+über Benutzung dieser Website durch die Nutzer werden in der Regel an einen
+Server von Google in den USA übertragen und dort gespeichert.  
+  
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird die
+IP-Adresse der Nutzer von Google jedoch innerhalb von Mitgliedstaaten der
+Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die
+volle IP-Adresse an einen Server von Google in den USA übertragen und dort
+gekürzt. Die IP-Anonymisierung ist auf dieser Website aktiv. Im Auftrag des
+Betreibers dieser Website wird Google diese Informationen benutzen, um die
+Nutzung der Website durch die Nutzer auszuwerten, um Reports über die
+Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und
+der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber
+zu erbringen.  
+  
+Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse
+wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die
+Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-
+Software verhindern; Dieses Angebot weist die Nutzer jedoch darauf hin, dass
+Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website
+vollumfänglich werden nutzen können. Die Nutzer können darüber hinaus die
+Erfassung der durch das Cookie erzeugten und auf ihre Nutzung der Website
+bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung
+dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link
+verfügbare Browser-Plugin herunterladen und
+installieren:http://tools.google.com/dlpage/gaoptout?hl=de.  
+  
+
+Diese Website verwendet Google Analytics mit der Erweiterung „_anonymizeIp()“.
+Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine direkte
+Personenbeziehbarkeit kann damit ausgeschlossen werden.
+
+Die Nutzung von Google Analytics erfolgt in Übereinstimmung mit den
+Voraussetzungen, auf die sich die deutschen Datenschutzbehörden mit Google
+verständigten. Informationen des Drittanbieters: Google Dublin, Google Ireland
+Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001.
+Nutzerbedingungen: http://www.google.com/analytics/terms/de.html, Übersicht
+zum Datenschutz: http://www.google.com/intl/de/analytics/learn/privacy.html,
+sowie die Datenschutzerklärung: http://www.google.de/intl/de/policies/privacy.
+
+9\. Einsatz von Social Media Plugins
+
+(1) Wir setzen derzeit folgende Social-Media-Plug-ins ein: Facebook, Google+,
+Twitter. Wir setzen dabei die sog. 2-Klick-Lösung ein. Das heißt, wenn Sie
+unsere Seite besuchen, werden zunächst grundsätzlich keine personenbezogenen
+Daten an die Anbieter dieser Plug-ins weitergegeben. Den Anbieter des Plug-ins
+erkennen Sie über die Markierung auf dem ausgegrauten Kasten anhand des
+Anfangsbuchstabens. Nur wenn Sie auf einen der Plug-ins klicken, werden
+personenbeziehbare Daten übermittelt: Durch die Aktivierung des Plug-ins
+werden Daten automatisiert an den jeweiligen Plug-in-Anbieter übermittelt und
+dort (bei US-amerikanischen Anbietern in den USA) gespeichert. Wir haben weder
+Einfluss auf die erhobenen Daten und Datenverarbeitungsvorgänge, noch sind uns
+der volle Umfang der Datenerhebung, die Zwecke sowie die Speicherfristen
+bekannt. Da der Plug-in-Anbieter die Datenerhebung insbesondere über Cookies
+vornimmt, empfehlen wir Ihnen, vor dem Klick auf den ausgegrauten Kasten über
+die Sicherheitseinstellungen Ihres Browsers alle Cookies zu löschen.
+
+(2) Wenn Sie ein Plug-in aktivieren, erhält der Plug-in-Anbieter die
+Information, dass Sie die entsprechende Unterseite unser Website aufgerufen
+haben. Zudem werden die unter Ziffer 2. dieser Erklärung genannten Daten
+übermittelt, wobei im Fall von Facebook nach Angaben der jeweiligen Anbieter
+in Deutschland nur eine anonymisierte IP erhoben wird. Dies erfolgt unabhängig
+davon, ob Sie ein Konto bei diesem Plug-in-Anbieter besitzen und dort
+eingeloggt sind. Wenn Sie bei dem Plug-in-Anbieter eingeloggt sind, werden
+diese Daten direkt Ihrem Konto zugeordnet. Wenn Sie den aktivierten Button
+betätigen und z. B. die Seite verlinken, speichert der Plug-in-Anbieter auch
+diese Information in Ihrem Nutzerkonto und teilt dies Ihren Kontakten
+öffentlich mit. Wenn Sie die Zuordnung mit Ihrem Profil bei dem Plug-in-
+Anbieter nicht wünschen, müssen Sie sich vor Aktivierung des Buttons
+ausloggen.
+
+(3) Der Plug-in-Anbieter speichert diese Daten als Nutzungsprofile und nutzt
+diese für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten
+Gestaltung seiner Website. Eine solche Auswertung erfolgt insbesondere (auch
+für nicht eingeloggte Nutzer) zur Darstellung von bedarfsgerechter Werbung und
+um andere Nutzer des sozialen Netzwerks über Ihre Aktivitäten auf unserer
+Website zu informieren. Ihnen steht ein Widerspruchsrecht zu gegen die Bildung
+dieser Nutzerprofile, wobei Sie sich zur Ausübung dessen an den jeweiligen
+Plug-in-Anbieter wenden müssen.
+
+(4) Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer
+Verarbeitung durch den Plug-in-Anbieter erhalten Sie in den im Folgenden
+mitgeteilten Datenschutzerklärungen dieser Anbieter. Dort erhalten Sie auch
+weitere Informationen zu Ihren diesbezüglichen Rechten und
+Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre.
+
+(5) Adressen der jeweiligen Anbieter und URL mit deren Datenschutzhinweisen:6
+
+· a) Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA;
+http://www.facebook.com/policy.php; weitere Informationen zur Datenerhebung:
+http://www.facebook.com/help/186325668085084,
+http://www.facebook.com/about/privacy/your-info-on-other applications sowie
+http://www.facebook.com/about/privacy/your-info everyoneinfo.
+
+· b) Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043,
+USA; https://www.google.com/policies/privacy/partners/?hl=de.
+
+· c) Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California
+94103, USA; https://twitter.com/privacy.
+
+10\. Auswertung des Surfverhaltens mit Overheat
+
+Diese Website nutzt overheat.de, ein Webanalyse-Tool der Firma »Overheat UG«
+mit dem Sitz in Haus Alsbach 2, 51766 Engelskirchen, Deutschland. Es werden
+damit Interaktionen von zufällig ausgewählten, einzelnen Besuchern mit der
+Internetseite anonymisiert aufgezeichnet. So entsteht ein Protokoll von z.B.
+Mausbewegungen und -Klicks mit dem Ziel, Verbesserungsmöglichkeiten der
+jeweiligen Internetseite aufzuzeigen. Außerdem werden Informationen zum
+Betriebssystem, Browser, eingehende und ausgehende Verweise (Links),
+geografische Herkunft, sowie Auflösung und Art des Geräts zu statistischen
+Zwecken ausgewertet. Diese Informationen sind nicht personenbezogen und werden
+von overheat.de nicht an Dritte weitergegeben. Wenn Sie eine Aufzeichnung
+nicht wünschen, können Sie diese auf allen Internetseiten, die overheat
+einsetzen, durch das Setzen des DoNotTrack-Headers in Ihrem Browser
+deaktivieren. Informationen dazu finden Sie auf der folgenden Seite:
+http://overheat.de/opt-out.html  
+
+11\. Einsatz der Videobewerbungstechnologie "JobUFO".
+
+Diese Webseite nutzt die Videobewerbungstechnologie "JobUFO" der JobUFO GmbH
+("JobUFO"). JobUFO nutzt für die Analyse dabei IP- und Mac-Adressen der User,
+die allerdings ausschließlich anonymisiert genutzt werden. Ein Rückschluss auf
+eine Person ist hierdurch nicht möglich. Die durch den Einsatz erfassten
+Informationen werden lediglich dazu verwendet, die Funktion der direkten
+Weiterleitung auf vorher ausgewählte Stellenanzeigen auf Seiten von
+Drittanbietern in die JobUFO-App anzubieten und die Nutzung der App zu
+analysieren, indem anonymisierte Auswertungen und Grafiken zur Anzahl der
+Besuche, Anzahl der pro Nutzer aufgerufenen Seiten usw. erstellt werden. Die
+Analysen werden ausschließlich zu Zwecken der eigenen Marktforschung sowie der
+Optimierung des Angebotes von JobUFO in Hinsicht auf Bedienbarkeit und
+Nutzererfahrung genutzt. Durch die Nutzung der JobUFO-App erklären Sie sich
+mit der Bearbeitung der hierdurch anonymisiert erhobenen Daten in der zuvor
+beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+Weitere Informationen finden Sie unter folgendem Link
+www.jobufo.com/legal/#privacy-policy-app. Der Datenerhebung und -speicherung
+kann jederzeit mit Wirkung für die Zukunft per Mail an info@jobufo.com
+widersprochen werden.  
+
+12\. Widerruf, Änderungen, Berichtigungen und Aktualisierungen
+
+Alle Informationswünsche, Auskunftsanfragen oder Widerrufe der Einwilligung
+zur Datenverarbeitung richten Sie bitte an unsere im Impressum genannten
+Kontaktdaten oder verwenden Sie unser Kontaktformular.
+
+Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über
+die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat
+der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung
+seiner personenbezogenen Daten, soweit dem keine gesetzliche
+Aufbewahrungspflicht entgegensteht.
+
+Die vom Nutzer auf unserem Internetauftritt eventuell erteilten Einwilligungen
+(beispielsweise bei Registrierung für www.ausbildung.de) hat TERRITORY EMBRACE
+jeweils protokolliert und gespeichert. Der Nutzer kann den Inhalt jeder dieser
+Einwilligungen jederzeit bei TERRITORY EMBRACE abfragen. Erteilte
+Einwilligungen können jederzeit mit Wirkung für die Zukunft widerrufen und die
+Teilnahme an www.ausbildung.de nach den Nutzungsbedingungen jederzeit beendet
+werden.
+
+TERRITORY EMBRACE wird diese Datenschutzerklärung stets aktuell halten, um sie
+an die Website inhaltlich betreffende sowie allgemein an rechtliche
+Veränderungen anzupassen. Registrierte Nutzer werden über Änderungen
+rechtzeitig informiert.  
+
+  
+
+  * Datenschutz
+
+  * Ausbildung.de
+  * Über uns
+  * Kontakt
+  * Karriere
+  * Mobile Version
+
+  * Für Unternehmen
+  * Kostenlos inserieren
+  * Login
+  * Alle Partnerunternehmen
+
+  * Sonstiges
+  * Impressum
+  * AGB
+  * Datenschutz
+  * Nutzungsbedingungen
+
+  * Du findest uns auch bei
+  * Twitter
+  * Facebook
+  * Google+
+  * Vimeo
+
+Ein Portal von
+
+  *   *   *   *   *   *   * 
+

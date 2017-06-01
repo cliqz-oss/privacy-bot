@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html class='web' lang='de'>
+<head>
+<meta charset='utf-8'>
+<meta content='IE=Edge' http-equiv='X-UA-Compatible'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2fe665a762","applicationID":"4391208","transactionName":"c1tfEBMLDghUFElWXENAWBIACBFLVQcSVVdDV1kRFR4=","queueTime":0,"applicationTime":147,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta content='app-id=438327574' name='apple-itunes-app'>
+<meta content='392057147513424' property='fb:app_id'>
+<meta content='http://www.rock-am-ring.com/facebook/rar-fallback.jpg' property='og:image'>
+<meta content='Datenschutzerklärung - Rock am Ring 2017' property='og:title'>
+<meta content='Rock am Ring' property='og:site_name'>
+<meta content='website' property='og:type'>
+<title>Datenschutzerklärung - Rock am Ring 2017</title>
+<link rel="stylesheet" media="all" href="/assets/rar/web-cf754a741c3585c4422dbfc61beb0e11.css"/>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss"/>
+<link href='https://assets.mlk-festivals.com/rar/festival/1/favicon/113282f7526339ca1f40f0bc30cc9140.ico' rel='shortcut icon'>
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="rYp4XqST0fh1CpNVnt09CsbU0Hl640lVm3UqnGlw3JtAtSAKSmPA2Bw/i43v4Wtg1iEaFCqYGo5kRHA/D5ZaSg=="/>
+</head>
+<body class='festivals datenschutz rar public before-festival' data-action='datenschutz' data-controller='festivals' data-variant='rar'>
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+<symbol id="print" viewBox="0 0 1024 1024">
+<path class="path1" d="M832.472 36.198c0-19.98-16.216-36.198-36.194-36.198h-579.11c-19.978 0-36.194 16.216-36.194 36.198v217.188h651.5v-217.188zM941.054 289.584h-868.666c-39.976 0-72.388 32.414-72.388 72.396v398.178c0 39.98 32.412 72.396 72.388 72.396h72.39v-217.188c0-39.98 32.412-72.396 72.39-72.396h579.11c39.976 0 72.39 32.414 72.39 72.396v217.188h72.39c39.976 0 72.39-32.414 72.39-72.396v-398.178c0-39.98-32.412-72.396-72.39-72.396v0 0 0zM868.666 470.574c-19.98 0-36.194-16.216-36.194-36.198s16.216-36.198 36.194-36.198c19.98 0 36.194 16.216 36.194 36.198s-16.216 36.198-36.194 36.198v0 0 0zM796.278 579.168h-579.11c-19.978 0-36.194 16.216-36.194 36.198v361.98c0 19.98 16.216 36.198 36.194 36.198h579.11c19.98 0 36.194-16.216 36.194-36.198v-361.98c0-19.98-16.216-36.198-36.194-36.198v0 0 0zM705.792 904.952h-398.138c-10.008 0-18.096-8.090-18.096-18.1 0-9.99 8.088-18.1 18.096-18.1h398.138c10.008 0 18.096 8.108 18.096 18.1 0 10.010-8.090 18.1-18.096 18.1v0 0 0zM289.556 796.356c0-9.99 8.088-18.1 18.096-18.1h325.75c10.008 0 18.096 8.108 18.096 18.1 0 10.010-8.090 18.1-18.096 18.1h-325.75c-10.008 0-18.096-8.090-18.096-18.1 0 0 0 10.010 0 0v0 0zM705.792 723.962h-398.138c-10.008 0-18.096-8.090-18.096-18.1 0-9.99 8.088-18.1 18.096-18.1h398.138c10.008 0 18.096 8.108 18.096 18.1 0 10.010-8.090 18.1-18.096 18.1v0 0 0z"></path>
+</symbol>
+<symbol id="x" viewBox="0 0 1024 1024">
+<path class="path1" d="M905.088 0l-407.296 407.296-407.296-407.296-90.496 90.496 407.296 407.296-407.296 407.296 90.496 90.496 407.296-407.296 407.296 407.296 90.496-90.496-407.296-407.296 407.296-407.296-90.496-90.496z"></path>
+</symbol>
+<symbol id="star" viewBox="0 0 1126 1024">
+<path class="path1" d="M1104.584 393.846h-416.914l-129.22-393.846-129.218 393.846h-416.914l336.456 241.23-121.906 388.924 331.582-226.462 331.582 226.462-121.904-388.924 336.456-241.23zM816.38 930.462l-257.93-178.452-261.382 178.452 97.7-309.838-262.964-187.392h325.398l101.268-315.076 101.27 315.076h325.398l-262.964 187.392 94.208 309.838z"></path>
+</symbol>
+<symbol id="share" viewBox="0 0 800 1024">
+<path class="path1" d="M247.618 182.856c5.258 0 10.018-2.048 13.468-5.358l119.868-115.072v577.572c0 10.112 8.534 18.286 19.048 18.286s19.048-8.174 19.048-18.286v-577.572l119.868 115.072c3.448 3.31 8.21 5.358 13.466 5.358 10.514 0 19.048-8.174 19.048-18.286 0-5.048-2.134-9.618-5.582-12.928l-152.38-146.286c-3.448-3.31-8.21-5.358-13.466-5.358s-10.020 2.048-13.466 5.358l-152.382 146.286c-3.448 3.31-5.58 7.88-5.58 12.928 0 10.112 8.532 18.286 19.048 18.286 0 0-10.514 0 0 0v0 0zM514.286 292.572c-10.514 0-19.048 8.174-19.048 18.286s8.534 18.286 19.048 18.286h247.62v658.286h-723.81v-658.286h247.62c10.514 0 19.048-8.174 19.048-18.286s-8.534-18.286-19.048-18.286h-247.618c-21.028 0-38.094 16.384-38.094 36.572v658.286c0 20.188 17.068 36.572 38.094 36.572h723.81c21.028 0 38.096-16.384 38.096-36.572v-658.286c0-20.188-17.068-36.572-38.096-36.572h-247.62z"></path>
+</symbol>
+<symbol id="search" viewBox="0 0 1024 1024">
+<path class="path1" d="M1024 987.776l-220.11-220.11c72.96-81.536 117.708-188.85 117.708-306.868 0-254.49-206.31-460.8-460.8-460.8s-460.8 206.31-460.8 460.8c0 254.49 206.31 460.8 460.8 460.8 118.016 0 225.33-44.75 306.868-117.71l220.11 220.11 36.224-36.224zM460.8 870.4c-225.842 0-409.6-183.756-409.6-409.6s183.758-409.6 409.6-409.6c225.844 0 409.6 183.756 409.6 409.6s-183.758 409.6-409.6 409.6v0 0 0z"></path>
+</symbol>
+<symbol id="lightning" viewBox="0 0 864 1024">
+<path class="path1" d="M864 420.572c0-10.112-8.778-18.286-19.636-18.286h-401.504l183.736-376.43-0.078-0.038c1.14-2.322 1.846-4.826 1.846-7.534 0-10.112-8.778-18.286-19.636-18.286-5.654 0-10.644 2.322-14.198 5.888l-0.136-0.11-589.012 585.216c-3.278 3.274-5.38 7.59-5.38 12.434 0 10.112 8.776 18.286 19.636 18.286h401.504l-183.736 376.43 0.176 0.092c-1.158 2.286-1.944 4.774-1.944 7.48 0 10.112 8.776 18.286 19.636 18.286 5.654 0 10.664-2.286 14.256-5.85l0.080 0.072 589.012-585.216c3.26-3.274 5.38-7.59 5.38-12.434v0zM322.488 912.238l147.016-301.24-0.080-0.038c1.14-2.322 1.846-4.826 1.846-7.534 0-10.112-8.776-18.286-19.636-18.286h-386.66l476.556-473.362-147.016 301.222 0.080 0.038c-1.14 2.322-1.846 4.846-1.846 7.534 0 10.112 8.776 18.286 19.636 18.286h386.66l-476.556 473.382z"></path>
+</symbol>
+<symbol id="facebook-alt" viewBox="0 0 1024 1024">
+<path class="path1" d="M4.962 934.538c0 46.688 37.82 84.502 84.502 84.502h845.070c46.688 0 84.502-37.816 84.502-84.502v-845.070c0-46.686-37.816-84.502-84.502-84.502h-845.068c-46.686 0-84.502 37.818-84.502 84.502v845.070zM533.128 892.278v-338.024h-84.506v-126.764h84.506c0-217.816 9.284-232.39 274.65-232.39v126.76c-139.866 0-126.764 7.818-126.764 105.632h126.764v126.764h-126.764v338.024h-147.886z"></path>
+</symbol>
+<symbol id="email" viewBox="0 0 1366 1024">
+<path class="path1" d="M0 0v1024h1365.334v-1024h-1365.334zM1234.672 64l-552.004 517.504-551.97-517.504h1103.974zM68.266 96l436.634 409.344-436.634 409.376v-818.72zM116.532 960l436.668-409.376 129.468 121.376 129.434-121.344 436.702 409.344h-1132.27zM1297.068 914.72l-436.634-409.376 436.634-409.344v818.72z"></path>
+</symbol>
+<symbol id="arrow" viewBox="0 0 1490 1024">
+<path class="path1" d="M1489.454 512l-517.548-512-52.652 52.104 427.66 423.050h-1346.914v73.692h1346.914l-427.66 423.050 52.652 52.104 517.548-512z"></path>
+</symbol>
+<symbol id="star-filled" viewBox="0 0 1126 1024">
+<path class="path1" d="M1116.898 393.846h-416.914l-129.22-393.846-129.218 393.846h-416.914l336.456 241.23-121.906 388.924 331.582-226.462 331.582 226.462-121.904-388.924 336.456-241.23z"></path>
+</symbol>
+<symbol id="antenna" viewBox="0 0 960 1024">
+<path class="path1" d="M918.26 102.4c0-35.472-5.302-69.714-14.4-102.4h43.076c8.222 32.89 13.024 67.052 13.024 102.4 0 100.722-35.644 193.044-94.832 266.24h-55.722c67.076-69.674 108.856-163.020 108.856-266.24 0 0 0 103.218 0 0v0 0zM674.13 286.72h55.472c39.528-51.404 63.442-115.016 63.442-184.32 0-35.922-6.428-70.37-17.99-102.4h-45.578c13.566 31.62 21.788 65.946 21.788 102.4 0.042 71.844-29.76 136.478-77.134 184.32 0 0 47.374-47.842 0 0v0 0zM150.552 368.64c-67.034-69.674-108.814-163.020-108.814-266.24 0-35.472 5.302-69.714 14.4-102.4h-43.076c-8.224 32.89-13.022 67.052-13.022 102.4 0 100.68 35.604 193.044 94.79 266.24h55.722zM285.87 286.72c-47.374-47.842-77.176-112.476-77.176-184.32 0-36.454 8.224-70.778 21.788-102.4h-45.58c-11.52 32.032-17.99 66.478-17.99 102.4 0 69.304 23.876 132.914 63.442 184.32h55.512zM500.87 245.76h-0.25c47.792 0 83.73-51.732 83.73-101.376 0-56.566-46.706-102.892-104.348-102.892s-104.348 45.588-104.348 102.154c0 49.52 35.812 90.686 83.438 100.188l-459.088 780.164h48.168l144.626-245.76h266.336v245.76h41.738v-245.76h266.296l144.584 245.76h48.25l-459.13-778.24zM459.13 737.28h-242.254l120.502-204.8h121.752v204.8zM459.13 491.52h-97.67l97.67-165.97v165.97zM500.87 325.632l97.586 165.888h-97.586v-165.888zM500.87 737.28v-204.8h121.712l120.5 204.8h-242.212z"></path>
+</symbol>
+<symbol id="share-android" viewBox="0 0 980 1024">
+<path class="path1" d="M808.976 699.124c-47.966 0-90.87 21.37-120.032 54.97l-377.62-203.182c3.858-13.654 6.056-27.99 6.056-42.918 0-14.916-2.196-29.266-6.056-42.89l377.62-203.182c29.162 33.568 72.052 54.954 120.030 54.954 87.486 0 158.63-71.1 158.63-158.23 0-87.5-71.16-158.646-158.63-158.646-87.62 0-158.778 71.146-158.778 158.646 0 14.87 2.226 29.222 6.086 42.86l-377.798 202.9c-29.102-33.406-71.978-54.584-119.822-54.584-87.53 0-158.662 70.596-158.662 158.17 0 87.59 71.132 158.186 158.662 158.186 47.86 0 90.72-21.178 119.822-54.614l377.798 202.914c-3.86 13.654-6.086 27.99-6.086 42.83 0 87.53 71.162 158.66 158.778 158.66 87.486 0 158.63-71.13 158.63-158.662 0-87.1-71.16-158.186-158.63-158.186v0z"></path>
+</symbol>
+<symbol id="chevron-down" viewBox="0 0 1574 1024">
+<path class="path1" d="M1138.020 238.582l-377.714 418.020h46.818l-377.714-418.020-70.078 77.554 374.020 413.888 23.408-21.818h-31.772v12.584l58.718 64.982 424.39-469.636-70.078-77.554z"></path>
+</symbol>
+<symbol id="arrow-left" viewBox="0 0 1024 1024">
+<path class="path1" d="M1024 307.2v409.6h-409.6v-409.6h409.6zM614.4 1019.826l-603.398-509.914 603.398-509.914v1019.826z"></path>
+</symbol>
+<symbol id="arrow-right" viewBox="0 0 1024 1024">
+<path class="path1" d="M0 307.2v409.6h409.6v-409.6h-409.6zM409.6 1019.826l603.398-509.914-603.398-509.914v1019.826z"></path>
+</symbol>
+<symbol id="list" viewBox="0 0 1304 1024">
+<path class="path1" d="M180.186 409.514c-56.612 0-102.486 45.872-102.486 102.486s45.872 102.486 102.486 102.486c56.612 0 102.486-45.872 102.486-102.486s-45.872-102.486-102.486-102.486v0zM180.186 757.966c-56.612 0-102.486 45.872-102.486 102.486s45.872 102.486 102.486 102.486c56.612 0 102.486-45.872 102.486-102.486s-45.872-102.486-102.486-102.486v0zM467.146 266.034h655.91c56.614 0 102.486-45.872 102.486-102.486s-45.872-102.486-102.486-102.486h-655.91c-56.612 0-102.486 45.872-102.486 102.486s45.872 102.486 102.486 102.486v0zM180.186 61.062c-56.612 0-102.486 45.872-102.486 102.486s45.872 102.486 102.486 102.486c56.612 0 102.486-45.872 102.486-102.486s-45.872-102.486-102.486-102.486v0zM1123.056 409.514h-655.91c-56.612 0-102.486 45.872-102.486 102.486s45.872 102.486 102.486 102.486h655.91c56.614 0 102.486-45.872 102.486-102.486s-45.872-102.486-102.486-102.486v0zM1123.056 757.966h-655.91c-56.612 0-102.486 45.872-102.486 102.486s45.872 102.486 102.486 102.486h655.91c56.614 0 102.486-45.872 102.486-102.486s-45.872-102.486-102.486-102.486v0z"></path>
+</symbol>
+<symbol id="pause" viewBox="0 0 1024 1024">
+<path class="path1" d="M512 0c282.832 0 512 229.23 512 512 0 282.832-229.23 512-512 512-282.832 0-512-229.23-512-512 0-282.832 229.23-512 512-512zM307.2 307.2v409.6h153.6v-409.6h-153.6zM563.2 307.2v409.6h153.6v-409.6h-153.6z"></path>
+</symbol>
+<symbol id="play" viewBox="0 0 1024 1024">
+<path class="path1" d="M512 0c-282.77 0-512 229.168-512 512 0 282.77 229.168 512 512 512 282.77 0 512-229.168 512-512 0-282.77-229.168-512-512-512zM384 742.4v-460.8l358.4 230.4-358.4 230.4z"></path>
+</symbol>
+<symbol id="file" viewBox="0 0 1024 1024">
+<path class="path1" d="M892.118 188.118l-120.234-120.236c-37.338-37.336-111.084-67.882-163.884-67.882h-448c-52.8 0-96 43.2-96 96v832c0 52.8 43.2 96 96 96h704c52.8 0 96-43.2 96-96v-576c0-52.8-30.546-126.546-67.882-163.882zM640 135.562c2.196 0.804 4.452 1.68 6.758 2.636 18.060 7.482 30.598 16.176 34.616 20.194l120.236 120.238c4.018 4.018 12.712 16.554 20.194 34.614 0.956 2.306 1.832 4.562 2.636 6.756h-184.44v-184.438zM832 896h-640v-768h384v256h256v512zM256 512h512v64h-512zM256 640h512v64h-512zM256 768h512v64h-512z"></path>
+</symbol>
+<symbol id="ticket" viewBox="0 0 1024 1024">
+<path class="path1" d="M575.996 320l127.998 127.998-255.994 255.994-127.998-127.998zM1001.526 297.504l-73.516-73.516-32.008 32.008c-16.378 16.38-39.010 26.51-64 26.51-49.988 0-90.514-40.522-90.514-90.51 0-25.002 10.14-47.638 26.534-64.018l31.988-31.986-73.518-73.516c-29.968-29.968-79.008-29.968-108.976 0l-595.040 595.038c-29.966 29.968-29.966 79.010 0 108.976l73.52 73.518 31.962-31.964c16.382-16.406 39.030-26.552 64.044-26.552 49.988 0 90.51 40.524 90.51 90.51 0 25.006-10.14 47.64-26.534 64.022l-31.984 31.986 73.516 73.518c29.966 29.966 79.008 29.966 108.976 0l595.040-595.040c29.964-29.976 29.964-79.016 0-108.984zM448.002 831.996l-256-256 384-384 256 256-384 384z"></path>
+</symbol>
+<symbol id="envelope" viewBox="0 0 1024 1024">
+<path class="path1" d="M928 128h-832c-52.8 0-96 43.2-96 96v640c0 52.8 43.2 96 96 96h832c52.8 0 96-43.2 96-96v-640c0-52.8-43.2-96-96-96zM398.74 550.372l-270.74 210.892v-501.642l270.74 290.75zM176.38 256h671.24l-335.62 252-335.62-252zM409.288 561.698l102.712 110.302 102.71-110.302 210.554 270.302h-626.528l210.552-270.302zM625.26 550.372l270.74-290.75v501.642l-270.74-210.892z"></path>
+</symbol>
+<symbol id="checkmark" viewBox="0 0 1024 1024">
+<path class="path1" d="M864 128l-480 480-224-224-160 160 384 384 640-640z"></path>
+</symbol>
+<symbol id="volume-medium" viewBox="0 0 1024 1024">
+<path class="path1" d="M719.53 831.53c-12.286 0-24.568-4.686-33.942-14.058-18.744-18.744-18.744-49.136 0-67.882 131.006-131.006 131.006-344.17 0-475.176-18.744-18.746-18.744-49.138 0-67.882 18.744-18.742 49.138-18.744 67.882 0 81.594 81.592 126.53 190.076 126.53 305.468 0 115.39-44.936 223.876-126.53 305.47-9.372 9.374-21.656 14.060-33.94 14.060zM549.020 741.020c-12.286 0-24.568-4.686-33.942-14.058-18.746-18.746-18.746-49.136 0-67.882 81.1-81.1 81.1-213.058 0-294.156-18.746-18.746-18.746-49.138 0-67.882s49.136-18.744 67.882 0c118.53 118.53 118.53 311.392 0 429.922-9.372 9.37-21.656 14.056-33.94 14.056zM401.332 78.668c25.668-25.668 46.668-16.968 46.668 19.332v828c0 36.3-21 44.998-46.668 19.33l-241.332-241.33h-160v-384h160l241.332-241.332z"></path>
+</symbol>
+<symbol id="volume-mute" viewBox="0 0 1024 1024">
+<path class="path1" d="M401.332 78.668c25.668-25.668 46.668-16.968 46.668 19.332v828c0 36.3-21 44.998-46.668 19.33l-241.332-241.33h-160v-384h160l241.332-241.332zM960 619.148v84.852h-84.852l-107.148-107.148-107.148 107.148h-84.852v-84.852l107.148-107.148-107.148-107.148v-84.852h84.852l107.148 107.148 107.148-107.148h84.852v84.852l-107.148 107.148z"></path>
+</symbol>
+<symbol id="facebook" viewBox="0 0 1024 1024">
+<path class="path1" d="M575.87 1024h-191.87v-512h-128v-176.45l128-0.058-0.208-103.952c0-143.952 39.034-231.54 208.598-231.54h141.176v176.484h-88.23c-66.032 0-69.206 24.656-69.206 70.684l-0.262 88.324h158.69l-18.704 176.45-139.854 0.058-0.13 512z"></path>
+</symbol>
+<symbol id="instagram" viewBox="0 0 1024 1024">
+<path class="path1" d="M854 0h-684c-93.5 0-170 76.5-170 170v684c0 93.5 76.5 170 170 170h684c93.5 0 170-76.5 170-170v-684c0-93.5-76.5-170-170-170zM327.8 448h368.4c6.988 20.058 10.8 41.59 10.8 64 0 107.524-87.476 195-195 195s-195-87.476-195-195c0-22.41 3.812-43.942 10.8-64zM896 448.050v383.95c0 35.2-28.8 64-64 64h-640c-35.2 0-64-28.8-64-64v-384h100.108c-4.642 20.602-7.108 42.016-7.108 64 0 160.458 130.542 291 291 291s291-130.542 291-291c0-21.984-2.464-43.398-7.108-64l100.108 0.050zM896 224c0 17.6-14.4 32-32 32h-64c-17.6 0-32-14.4-32-32v-64c0-17.6 14.4-32 32-32h64c17.6 0 32 14.4 32 32v64z"></path>
+</symbol>
+<symbol id="twitter" viewBox="0 0 1024 1024">
+<path class="path1" d="M1024 194.418c-37.676 16.708-78.164 28.002-120.66 33.080 43.372-26 76.686-67.17 92.372-116.23-40.596 24.078-85.556 41.56-133.41 50.98-38.32-40.83-92.922-66.34-153.346-66.34-116.022 0-210.088 94.058-210.088 210.078 0 16.466 1.858 32.5 5.44 47.878-174.6-8.764-329.402-92.4-433.018-219.506-18.084 31.028-28.446 67.116-28.446 105.618 0 72.888 37.088 137.192 93.46 174.866-34.438-1.092-66.832-10.542-95.154-26.278-0.020 0.876-0.020 1.756-0.020 2.642 0 101.788 72.418 186.696 168.522 206-17.626 4.8-36.188 7.372-55.348 7.372-13.538 0-26.698-1.32-39.528-3.772 26.736 83.46 104.32 144.206 196.252 145.896-71.9 56.35-162.486 89.934-260.916 89.934-16.958 0-33.68-0.994-50.116-2.94 92.972 59.61 203.402 94.394 322.042 94.394 386.422 0 597.736-320.124 597.736-597.744 0-9.108-0.206-18.168-0.61-27.18 41.056-29.62 76.672-66.62 104.836-108.748z"></path>
+</symbol>
+<symbol id="tumblr" viewBox="0 0 1024 1024">
+<path class="path1" d="M576.032 448l-0.002 234.184c0 59.418-0.77 93.656 5.53 110.5 6.25 16.754 21.918 34.146 38.99 44.202 22.684 13.588 48.542 20.376 77.708 20.376 51.854 0 82.478-6.848 133.742-40.54v153.944c-43.7 20.552-81.866 32.594-117.324 40.922-35.5 8.242-73.86 12.406-115.064 12.406-46.828 0-74.456-5.886-110.41-17.656-35.958-11.868-66.66-28.806-92.020-50.54-25.45-21.922-43.022-45.208-52.848-69.832-9.826-24.636-14.716-60.414-14.716-107.244v-359.1h-137.426v-145.006c40.208-13.042 85.164-31.788 113.78-56.152 28.754-24.45 51.766-53.706 69.106-87.944 17.392-34.146 29.348-77.712 35.872-130.516h165.084l-0.002 255.996h255.968v192h-255.968z"></path>
+</symbol>
+<symbol id="plus" viewBox="0 0 400 400">
+<path d="M160,160 L0,160 L0,240 L160,240 L160,400 L240,400 L240,240 L400,240 L400,160 L240,160 L240,0 L160,0 L160,160 Z"></path>
+</symbol>
+</svg>
+<div class='Site' style='background-image:url(https://assets.mlk-festivals.com/rar/festival/1/web_artwork/8a43272aa899d3938a4c96628c65ea7a.png)'>
+<header class='Site-header'>
+<a class='Logo' href='/'>
+<img width="430" height="138" alt="Rock am Ring" src="https://assets.mlk-festivals.com/rar/festival/1/logo/635d21a33f4b22d5530f63704a4c7678.png"/>
+</a>
+<div class='Site-meta'>
+<div class='MetaBanner'>
+<h4 class='MetaBanner-primary'>
+<span>
+2.– 4. Juni 2017
+</span>
+</h4>
+<h6 class='MetaBanner-secondary'>
+<span>Nürburgring/Eifel</span>
+</h6>
+</div>
+</div>
+<nav class='Site-nav'>
+<div class='Navigation'>
+<div class='Navigation-segment'>
+<a class=" " href="/">Home
+</a><a class=" " href="/spielplan">Spielplan
+</a><a class=" " rel="external" href="http://www.eventim.de/tickets.html?affiliate=rri&amp;doc=campaign&amp;campaign=home">Tickets
+</a><a class=" " href="/news">News
+</a><a class=" " href="/info">Info
+</a></div>
+<div class='Navigation-segment'>
+<a class=" " rel="external" href="https://rar.experience-camping.com/">Experience
+</a><a class=" " href="/history">History
+</a><a class=" " href="/media">Media
+</a><a class=" " href="/lidl"><img src="http://assets.mlk-festivals.com/rar/lidl-logo.svg" alt="">
+</a></div>
+</div>
+</nav>
+</header>
+<main class='Site-content' role='main'>
+<div class='Container Container--fixed'>
+<h1 class='PageTitle'>Datenschutzerklärung</h1>
+<p>Wir, die <strong>Marek Lieberberg Konzertagentur GmbH &amp; Co. KG</strong>, sind als Betreiber dieser Webseite die verantwortliche Stelle für die Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten im Sinne des Bundesdatenschutzgesetzes (BDSG). Personenbezogene Daten sind Einzelangaben über Ihre persönlichen oder sachlichen Verhältnisse. Hierzu zählen insbesondere Ihr Name und Ihre Anschrift. In den nachfolgenden Bestimmungen unterrichten wir Sie über Art, Umfang und Zwecke der Erhebung und Verwendung Ihrer personenbezogenen Daten auf dieser Webseite.</p> <ol> <li><strong>Erhebung, Verarbeitung und Nutzung von personenbezogenen Daten<br><br></strong>Bei jedem Zugriff auf Inhalte unserer Webseite werden Verbindungsdaten an unseren Webserver übertragen. Zu diesen Verbindungsdaten gehören:<br><br>・die IP-Adresse der jeweiligen Nutzer,<br>・der Browsertyp / die Browserversion,<br>・das Zugriffsdatum,<br>・die Referrer-URL sowie<br>・der Hostname des zugreifenden Rechners.<br><br>Diese Verbindungsdaten werden nicht für einen Rückschluss auf die Person des Nutzers verwendet oder mit Daten aus anderen Datenquellen zusammengeführt, sondern dienen der Bereitstellung der Webseite.<br><br>Darüber hinaus erheben und verarbeiten wir personenbezogene Daten von Ihnen nur, sofern Sie eingewilligt haben, es zur Erbringung der erwünschten Dienste erforderlich ist und nach Maßgabe der folgenden Bestimmungen.<br><br></li><li><strong>Übermittlung von personenbezogenen Daten<br><br></strong>Eine Übermittlung Ihrer personenbezogenen Daten an Dritte findet nicht statt, es sei denn, Sie haben Ihre Einwilligung erteilt, die Datenübermittlung ist zur Erbringung der jeweiligen Leistungen erforderlich oder wir sind aufgrund gesetzlicher Bestimmungen und/oder einer behördlichen oder gerichtlichen Anordnung zu einer Datenübermittlung berechtigt oder verpflichtet.<br><br></li><li><strong>Verwendung von Cookies<br><br></strong><strong></strong>Um den Besuch unserer Webseite attraktiv zu gestalten und die Nutzung bestimmter Funktionen (z.B. im Rahmen des Ticketerwerbs) zu ermöglichen, verwenden wir sogenannte Cookies. Cookies sind kleine Textdateien, die auf ihrem Computer gespeichert werden und die es uns ermöglichen, ihren Internet-Browser wiederzuerkennen. Einige der von uns verwendeten Cookies werden nach dem Ende der Browsersitzung wieder gelöscht (sog. Session-Cookies). Andere Cookies verbleiben hingegen auf Ihrem Endgerät und ermöglichen uns oder unseren Partnerunternehmen, ihren Browser beim nächsten Besuch wiederzuerkennen (sog. persistente Cookies).<br><br>Sie können Cookies generell über die Datenschutzfunktion ihres Internetbrowsers jederzeit löschen. Wir weisen jedoch darauf hin, dass in diesem Fall ggf. nicht sämtliche Funktionen dieser Webseite in vollem Umfang genutzt werden können.<br><br></li><li><strong>Nutzung von Google Analytics<br><br></strong>Unsere Webseite verwendet Google Analytics. Hierbei handelt es sich um ein sogenanntes "Tracking-Tool", das uns hilft, für Sie das Internetangebot interessanter zu gestalten. Hierfür nutzen wir auf dieser Webseite Cookies (siehe unter III. Verwendung von Cookies)<br><br>Google Analytics ist ein Webanalysedienst, welcher von der Google Inc. (nachfolgend "Google") in den USA betrieben wird. Die durch den Cookie erzeugten Informationen durch ihre Benutzung unserer Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Wir möchten Sie darauf hinweisen, dass auf unserer Webseite der Code von Google Analytics um den Code „anonymizeIP();“ erweitert wurde. Hierdurch wird Ihre IP-Adresse von Google zunächst innerhalb von Mitgliedsstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt und erst anschließend an einen Server von Google in den USA übertragen.<br><br>In unserem Auftrag wird Google die erhaltenen Informationen verwenden, um Ihre Nutzung unserer Webseite auszuwerten und um z.B. Reports über die Webseitenaktivitäten zusammenzustellen. Eine Zusammenführung der Nutzungsprofile mit Ihren personenbezogenen Daten erfolgt nicht.<br><br>Wie zuvor beschrieben, können Sie den Einsatz von Cookies durch eine entsprechende Einstellung Ihrer Browsersoftware verhindern. Sie können die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung unserer Webseite bezogenen Daten auch verhindern, indem Sie das unter dem folgenden Link: <a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a> verfügbare Browser-Plugin herunterladen und installieren.<br><br>Darüber hinaus können Sie die Erfassung durch Google Analytics verhindern, indem Sie auf folgenden Link klicken <a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>. Hierdurch wird ein sogenanntes "Opt-out-Cookie" gesetzt, wodurch die zukünftige Erfassung Ihrer Daten beim Besuch unserer Webseite verhindert wird. Bitte beachten Sie jedoch, dass wenn Sie Ihre Cookies löschen, dies zur Folge hat, dass auch das Opt-out-Cookie gelöscht wird und ggf. von Ihnen erneut aktiviert werden muss.<br><br>Weitere Informationen zu Google Analytics finden Sie unter:<br><a href="https://www.google.com/intl/de/analytics/">https://www.google.com/intl/de/analytics/<br><br></a></li><li><a href="https://www.google.com/intl/de/analytics/"></a><strong>Nutzung von Facebook Plugins<br><br></strong>Auf unserer Webseite verwenden wir ein Social Plugin („Plugin“) des sozialen Netzwerks Facebook.<br><br>Facebook wird betrieben von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA („Facebook“). Eine Übersicht über die Plugins von Facebook und deren Aussehen finden Sie hier: <a href="https://developers.facebook.com/docs/plugins">https://developers.facebook.com/docs/plugins</a><br><br>Für das Plugin haben wir für ein Plus an Datenschutz eine zweistufige Lösung eingerichtet. Damit Sie das Plugin nutzen können, müssen Sie erst auf den Button klicken und ihn aktivieren. Nur dann wird eine Verbindung mit Facebook aufgebaut und Sie können mit einem zweiten Klick den Button vollständig nutzen.<br><br>Nutzen Sie das Plugin (durch einmaliges Anklicken), stellt Ihr Browser eine direkte Verbindung zu den Server von Facebook her. Der Inhalt des Plugins wird von Facebook direkt an Ihren Browser übermittelt und in die Seite eingebunden. Durch die Einbindung der Plugins erhält Facebook die Information, dass Ihr Browser die entsprechende Seite unseres Webauftritts aufgerufen hat, auch wenn Sie kein Profil besitzen oder gerade nicht eingeloggt sind. Diese Information (einschließlich Ihrer IP-Adresse) wird von Ihrem Browser direkt an einen Server von Facebook übermittelt und dort gespeichert.<br><br>Sind Sie bei Facebook eingeloggt, kann Facebook den Besuch unserer Webseite Ihrem Profil auf Facebook unmittelbar zuordnen.<br><br>Wenn Sie mit dem Plugin interagieren und zum Beispiel den „Gefällt mir“-Button betätigen, wird die entsprechende Information ebenfalls direkt an einen Server von Facebook übermittelt und dort gespeichert. Die Informationen werden außerdem in dem sozialen Netzwerk veröffentlicht und dort Ihren Kontakten angezeigt.<br><br>Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Facebook sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen von Facebook: <a href="http://www.facebook.com/policy.php">http://www.facebook.com/policy.php<br><br></a></li><li><a href="http://www.facebook.com/policy.php"></a><strong>Newsletter<br><br></strong>Wenn Sie sich für unseren Newsletter anmelden, werden Sie zunächst über eine Bestätigungs-Mail gebeten, die Abgabe Ihrer Einwilligung zu bestätigen. Durch dieses sog. "Double-opt-in-Verfahren" möchten wir überprüfen, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und als dieser in den Empfang des Newsletters eingewilligt haben.<br><br>Ihre Einwilligung in den Erhalt des Newsletters sowie der damit verbundenen Verarbeitung Ihrer personenbezogenen Daten können Sie jederzeit, z.B. über den in dem Newsletter enthaltenen Link, mit Wirkung für die Zukunft widerrufen.<br><br></li><li><strong>Direktwerbung<br><br></strong>Sofern wir Ihre E-Mail-Adresse im Zusammenhang mit einem Produktverkauf oder bei der Erbringung einer Serviceleistung erhalten haben und Sie einer Direktwerbung für eigene ähnliche Waren oder Dienstleistungen nicht widersprochen haben, verwenden wir Ihre E-Mail-Adresse zu diesen Zwecken. Dieser Verwendung können Sie jederzeit widersprechen. Auf dieses Widerspruchsrecht werden Sie bei jeder Verwendung Ihrer Daten zu Werbezwecken hingewiesen.<br><br></li><li><strong>Links zu anderen Webseiten<br><br></strong><strong></strong>Innerhalb des Angebots dieser Webseite können sich Links zu den Seiten Dritter befinden.<br><br>Zum Zeitpunkt der Verlinkung haben wir die externen Seiten auf mögliche Rechtsverletzungen überprüft und keinerlei Rechtsverletzungen feststellen können. Eine ständige Überprüfung sämtlicher Inhalte der von uns verlinkten Seiten können wir nicht gewährleisten. Sofern uns tatsächliche Anhaltspunkte für Rechtsverletzungen bekannt werden, werden wir den Link löschen.<br><br></li><li><strong>Datensicherheit<br><br></strong>Um Ihre Daten insbesondere gegen Verlust, Zugriff oder Verbreitung durch unbefugte Dritte zu schützen, haben wir angemessene technische und organisatorische Sicherungsmaßnahmen ergriffen. Dennoch können wir nicht garantieren, dass Ihre Informationen bzw. Daten vor jeglichen widerrechtlichen Handlungen Dritter sicher sind. Sie sollten Ihre Daten (Passwörter etc.) daher stets vertraulich behandeln und das Browserfenster nach Abschluss des Besuchs unserer Webseite schließen.<br><br></li><li><strong>Ihre Rechte und Kontakt<br><br></strong>Auf Anfrage teilen wir Ihnen gern mit, ob und welche personenbezogenen Daten wir von Ihnen gespeichert haben. Darüber hinaus berichtigen wir unrichtige Daten oder löschen diese, sofern die Speicherung unzulässig ist oder dies im Übrigen nach Maßgabe des BDSG erforderlich ist. Ihr konkretes Begehren richten Sie bitte unter eindeutiger Identifizierungsmöglichkeit Ihrer Person an eine der folgenden Kontaktadressen:<br><br><strong>E-Mail: <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="741d1a121b3419181f5a171b19">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script><br></strong><strong>Tel: +49 (0)69 / 956 20 20<br></strong><strong>Fax: +49 (0)69 / 568 199</strong></li></ol>
+</div>
+<style>a.Sponsor:last-child{display:block;width:130px;margin:0 auto;}</style>
+<div class='Container Container--fixed align-center' style='width:600px'>
+<a class='Sponsor' href='http://rockstarenergydrink.com/de' rel='external'>
+<img alt="Rockstar" src="https://assets.mlk-festivals.com/rar/sponsor/9/logo/e454ef4aebbd6680e9def6a4d19ba01b.png"/>
+</a>
+<a class='Sponsor' href='http://www.becks.de/' rel='external'>
+<img alt="Becks" src="https://assets.mlk-festivals.com/rar/sponsor/11/logo/72c1729823351dc11caaf4f83cd639a0.png"/>
+</a>
+<a class='Sponsor' href='https://www.engelbert-strauss.de' rel='external'>
+<img alt="Engelbert Strauss" src="https://assets.mlk-festivals.com/rar/sponsor/39/logo/e9871883a8c75c87c56d54056ddade69.png"/>
+</a>
+<a class='Sponsor' href='http://www.swr3.de/rockamring ' rel='external'>
+<img alt="SWR3" src="https://assets.mlk-festivals.com/rar/sponsor/23/logo/58e170a31d2a14d9234e8cc0632661cf.png"/>
+</a>
+<a class='Sponsor' href='http://www.dasding.de/rock-am-ring/' rel='external'>
+<img alt="Dasding" src="https://assets.mlk-festivals.com/rar/sponsor/24/logo/b6d0c8f2e291a8fda34e4d283e03dfb1.png"/>
+</a>
+<a class='Sponsor' href='https://www.zippo.de/' rel='external'>
+<img alt="Zippo" src="https://assets.mlk-festivals.com/rar/sponsor/38/logo/fbb77afd7f0c32074a42f188b738a388.png"/>
+</a>
+</div>
+</main>
+<footer class='Site-footer'>
+<p class='copyright'>
+<small>
+&copy; 2017 Marek Lieberberg Konzertagentur, Rock am Ring. All Rights Reserved.
+<a href="/impressum">Impressum</a>
+<a href="/agb">AGB</a>
+<a href="/datenschutz">Datenschutz</a>
+</small>
+</p>
+</footer>
+</div>
+<div class='Theater'>
+<div class='Theater-player'>
+<iframe id="Theater-video" class="Theater-embed" src="" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+<h6 class='Theater-message'>
+Rock am Ring -
+</h6>
+<a class='Theater-close' href='#'>
+<svg class='Icon Icon--x'><use xlink:href='#x'></use></svg>
+</a>
+<a class='Theater-skip' href='#'>
+Zur website
+<svg class='Icon Icon--arrow-right'><use xlink:href='#arrow-right'></use></svg>
+</a>
+</div>
+<script>
+  window.Festival                            = {};
+  window.Festival.key                        = 'rar';
+  window.Festival.format                     = 'web';
+  window.Festival.edition                    = '2017';
+  window.Festival.startTime                  = new Date(1496405100 * 1000);
+  window.Festival.endTime                    = new Date(1496619900 * 1000);
+  window.Festival.days                       = [new Date('2017-06-02'),new Date('2017-06-03'),new Date('2017-06-04')];
+  window.Festival.itunesAffiliateId          = '';
+  window.Festival.version                    = 'rar.1496331751';
+</script>
+<script src="/assets/web-714a77bde7aa24626c7312fc7acdb07d.js"></script>
+<div id='fb-root'></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '392057147513424',
+      xfbml      : true,
+      version    : 'v2.5'
+    });
+  };
+  
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/de_DE/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-138396-12', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

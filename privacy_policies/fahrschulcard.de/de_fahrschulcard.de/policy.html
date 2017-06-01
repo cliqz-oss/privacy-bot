@@ -1,0 +1,221 @@
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de-DE" lang="de-DE">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2010 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+<base href="http://fahrschulcard.de/" />
+
+
+<meta name="generator" content="TYPO3 4.4 CMS" />
+
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_2d5648440f.css?1312961281" media="all" />
+
+
+
+<script src="typo3temp/javascript_93077bb238.js?1312961281" type="text/javascript"></script>
+
+
+<link rel="stylesheet" type="text/css" href="http://fahrschulcard.de/fileadmin/tv-templates/fahrschulcard_3/styles.css" />
+<link rel="stylesheet" type="text/css" href="http://fahrschulcard.de/fileadmin/fahrschulboegen/online/fragebogen_v2.css" />
+<script type="text/javascript" language="javascript" src="http://fahrschulcard.de/fileadmin/js/jquery/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="http://fahrschulcard.de/fileadmin/js/jquery/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://fahrschulcard.de/fileadmin/js/fsc_v3.min.js"></script><link rel="stylesheet" type="text/css" href="http://fahrschulcard.de/fileadmin/tv-templates/fahrschulcard_3/styles_fullwidth.css" />
+<title>Datenschutz - FAHRSCHULCARD</title><meta name="description" content="Hinweise zum Datenschutz. Fahrschulcard nimmt den Schutz Ihrer personenbezogenen Daten ernst. Die nachfolgende Erklärung informiert Sie darüber, wie wir Ihre Daten verwenden und dabei den Datenschutz gewährleisten." />
+<meta name="keywords" content="Datenschutz,Datenübermittlung,Datensicherheit,Datenschutzrecht" />
+<meta name="robots" content="index,follow" />
+<meta name="copyright" content="Deutscher Fahrschulverlag GmbH" />
+<meta name="author" content="FAHRSCHULCARD" />
+<meta name="DC.Description" content="Hinweise zum Datenschutz. Fahrschulcard nimmt den Schutz Ihrer personenbezogenen Daten ernst. Die nachfolgende Erklärung informiert Sie darüber, wie wir Ihre Daten verwenden und dabei den Datenschutz gewährleisten." />
+<meta name="DC.Subject" content="Datenschutz,Datenübermittlung,Datensicherheit,Datenschutzrecht" />
+<meta name="DC.Rights" content="Deutscher Fahrschulverlag GmbH" />
+<meta name="DC.Creator" content="FAHRSCHULCARD" />
+<link rel="schema.dc" href="http://purl.org/metadata/dublin_core_elements" />
+
+
+
+</head>
+<body onload="on_load_func()">
+
+
+		<div id="phpids"><div id="c1870" class="csc-default"></div></div>
+		<div id="wrapper">
+			<div id="banner_top"></div>
+
+			<div id="main">
+				<div id="header">
+					<div id="logo">
+						<a href="http://fahrschulcard.de/">
+							<img src="/fileadmin/tv-templates/fahrschulcard_3/images/fsc_header_logo.gif" width="550px" height="85px" alt="Fahrschulcard" title="Das Lernsystem für die Theorieprüfung" />							
+						</a>
+					</div>				
+					<div id="header_right"><div id="c1177" class="csc-default">				<div id="login_content" style="display:none;" >
+					<div id="loginform" style="display:block; padding:2px 10px 1px 10px; margin:0 0 0 0; border:1px solid #ddd; background-color:#fff; width:300px;" >
+						<!-- <form action="index.php?id=fsc" method="post"> -->
+						<form action="/de/fsc.html" method="post">
+							<input type="hidden" name="logintype" value="login" />
+							<!-- <input type="hidden" name="pid" value="74" /> -->
+							<input type="hidden" name="version" value="fsc" />
+							<input type="hidden" value="fsc" name="redirect_url"/>
+							<div>
+								<div style="float:left; padding-right:10px;" >
+									E-Mail:
+									<br/><input id="top_user" style="width:150px;" type="text" name="user" value=""/>
+								</div>
+								<div style="float:left; padding-right:10px;" >
+									Passwort:
+									<br/><input style="width:100px;" type="password" name="pass" value=""/>
+								</div>
+								<div style="clear:both; padding: 5px 0 5px 0;" >
+									<input type="submit" name="submit" value="Anmelden" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="index.php?id=passwortvergessen">Passwort vergessen?</a>
+								</div>
+								<div style="clear:both;"></div>
+							</div>
+						</form>
+					</div>
+				</div>
+			
+
+<script type="text/javascript">
+
+if (typeof jQuery != 'undefined') {
+
+	$(document).ready(function(){
+
+		var oTimerId = null;
+
+		/* Validate Username */
+        function validate_username(item) {
+
+            $('#'+item).css("border", "1px solid #CCC");
+            $('#'+item).css("padding", "3px");
+
+        	if($('#'+item).val().length > 3) {
+        		window.clearTimeout(oTimerId);
+        		oTimerId = window.setTimeout(function() {
+        			$.ajax({
+        				type: "POST",
+        				url: '/fileadmin/assets/ajax_login_validation.php',
+        				data: "func=validate_username&username="+$('#'+item).val(),
+        				success: function(resultData){
+        					console.log("Result: "+resultData);
+        					if(resultData == '1') {
+        					    $('#'+item).css("background-color", "#CCFFCC");
+        					} else {
+        						$('#'+item).css("background-color", "#FFCCCC");
+        					}
+        				}
+        			});
+        		}, 750);
+        	} else {
+        		$('#'+item).css("background-color", '#FFFFFF');
+        	}
+        }
+
+		$('#_user').unbind();
+		$('#_user').keyup(function(){ validate_username('_user');});
+
+		$('#inside_right_user').unbind();
+		$('#inside_right_user').keyup(function(){ validate_username('inside_right_user');});
+
+		$('#top_user').unbind();
+		$('#top_user').keyup(function(){ validate_username('top_user');});
+
+		$('#inside_user').unbind();
+		$('#inside_user').keyup(function(){ validate_username('inside_user');});
+	});
+}
+</script>
+<div id="topnav"><p>
+		<a href="http://fahrschulcard.de/de/fahrlehrer.html">Fahrlehrer</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="http://fahrschulcard.de/de/fahrschueler.html"> Fahrschüler</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+		<a href="javascript:expand('header_content');javascript:expand('login_content');">Login</a>
+	</p></div><div id="settings"><div id="header_content" style="display:block; margin:20px 0 0 0;"><table><tr><td><a href="de/datenschutz.html" class="flaggen" style="background-position: -0px -0px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Deutsch" alt="Deutsch" />
+				</a></td><td><a href="en/datenschutz.html" class="flaggen" style="background-position: -20px -0px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Englisch" alt="Englisch" />
+				</a></td><td><a href="it/datenschutz.html" class="flaggen" style="background-position: -40px -0px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Italienisch" alt="Italienisch" />
+				</a></td><td><a href="hr/datenschutz.html" class="flaggen" style="background-position: -60px -0px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Kroatisch" alt="Kroatisch" />
+				</a></td><td><a href="ro/datenschutz.html" class="flaggen" style="background-position: -80px -0px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Rumänisch" alt="Rumänisch" />
+				</a></td><td><a href="ru/datenschutz.html" class="flaggen" style="background-position: -100px -0px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Russisch" alt="Russisch" />
+				</a></td></tr><tr><td><a href="fr/datenschutz.html" class="flaggen" style="background-position: -0px -12px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Französisch" alt="Französisch" />
+				</a></td><td><a href="gr/datenschutz.html" class="flaggen" style="background-position: -20px -12px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Griechisch" alt="Griechisch" />
+				</a></td><td><a href="pl/datenschutz.html" class="flaggen" style="background-position: -40px -12px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Polnisch" alt="Polnisch" />
+				</a></td><td><a href="pt/datenschutz.html" class="flaggen" style="background-position: -60px -12px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Portugiesisch" alt="Portugiesisch" />
+				</a></td><td><a href="es/datenschutz.html" class="flaggen" style="background-position: -80px -12px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Spanisch" alt="Spanisch" />
+				</a></td><td><a href="tr/datenschutz.html" class="flaggen" style="background-position: -100px -12px;">
+				<img src="/fileadmin/images/blank.gif" height="11px" width="18px" title="Türkisch" alt="Türkisch" />
+				</a></td></tr></table></div>
+
+
+</div></div></div>
+				</div>
+				<div id="content">
+					<div id="content_top"><div id="c1372" class="csc-default"></div><div id="c1373" class="csc-default"></div></div>
+					<div id="content_left"><div id="c356" class="csc-default"><h1>Hinweise zum Datenschutz</h1>
+<h3><b>Fahrschulcard nimmt den Schutz Ihrer personenbezogenen Daten ernst. Die nachfolgende Erklärung informiert Sie darüber, wie wir Ihre Daten verwenden und dabei den Datenschutz gewährleisten</b>.</h3>
+<p>Gegenstand dieser Erklärung ist die Erhebung, Verarbeitung und Nutzung personenbezogener Daten, die Fahrschulcard erhebt, wenn Sie unsere Angebote nutzen. Verantwortliche Stelle im Sinne des Datenschutzrechts ist Fahrschulcard, vertreten durch die Deutscher Fahrschulverlag GmbH. Falls Sie Fragen zu der Verwendung Ihrer Daten haben oder von den hierin beschriebenen Rechtsbehelfen Gebrauch machen wollen, senden Sie uns bitte eine E-Mail.<br /><br /> </p>
+<h3><b>Keine Einwilligung durch Nutzung</b></h3>
+<p>Maßgeblich für die Verwendung Ihrer Daten sind die jeweils geltenden gesetzlichen Bestimmungen, insbesondere das Bundesdatenschutzgesetz und das Teledienste-Datenschutzgesetz bzw. das Telemediengesetz. Soweit wir Daten für einen Zweck nutzen, der nach diesen Bestimmungen Ihre Einwilligung erfordert, werden wir Sie jeweils um Ihre ausdrückliche Einwilligung bitten. Sie können die einmal gegebene Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen und/oder künftigen Verwendungen Ihrer Daten widersprechen. Die bloße Registrierung, Nutzung der Dienste oder Kenntnisnahme von dieser Erklärung ersetzt Ihre ausdrückliche Einwilligungserklärung nicht.<br /><br /> </p>
+<h3><b>Verwendung Ihrer Daten</b></h3>
+<p>Im Folgenden werden die Möglichkeiten der Verwendung Ihrer Daten kurz skizziert. Bitte beachten Sie, dass nicht alle Daten tatsächlich für alle Zwecke verwendet werden und dass für einzelne Dienste ggf. durch besondere Datenschutzerklärungen ergänzende Informationen gegeben werden.<br /><br /> </p>
+<h3><b>Erheben von Daten</b></h3>
+<p>Fahrschulcard erhebt Daten, wenn Sie ein Nutzerkonto einrichten oder wenn Sie Dienste besuchen oder nutzen:</p><ul><li>Wenn Sie einen Account einrichten, bitten wir Sie um bestimmte Angaben zu Ihrer Person. Von diesen sind nur diejenigen Angaben als Pflichtangaben vorgesehen, die wir für das Vertragsverhältnis bzw. die Durchführung der Dienste benötigen.</li></ul><ul><li>Wenn Sie die Fahrschulcard-Services besuchen oder nutzen, erhebt und speichert Fahrschulcard automatisch in den Server-Logs technische Informationen, die Ihr Browser uns übermittelt. <br /><br /></li><li>Durch die Nutzung des Lernsystems werden gegebenenfalls weitere Daten gespeichert. Im Zuge der Registrierung werden Ihre Adress,- Benutzer,- Kontaktdaten gespeichert. Während der Nutzung der Lernplattform werden Daten zur Lernfortschirttskontrolle erhoben und ebenfalls serverseitig gespeichert. Auf diese Daten hat neben dem User selbst, sowohl der Betreiber als auch die betreuende Fahrschule teilweise Zugriff. Folgende Daten werden hierzu unter anderem gespeichert:<br />- zeitliche Gültigkeit des Benutzerkontos<br />- Login,- Aktivitätszeiten<br />- Status der bearbeiteten Fragen, Übungsbögen, Prüfungssimulationen, etc.<br />- betreuende Fahrschule, Filiale, Fahrlehrer<br />- gewählte Führerscheinklasse und Sprache<br /><br /></li></ul><h3><b>Verarbeitung und Nutzung von Daten</b></h3>
+<p>Fahrschulcard verwendet die erhobenen Daten für folgende grundlegende Zwecke, wobei nicht alle Daten tatsächlich für alle Zwecke benutzt werden:</p><ul><li>Die Daten Ihres Accounts zu Ihrer Person und Adresse (Bestandsdaten) verwendet Fahrschulcard zur Begründung und Verwaltung des Nutzungsverhältnisses.</li></ul><ul><li>Die Daten zu Ihrer Nutzung der einzelnen Services (Nutzungsdaten) verwenden wir zur technischen Abwicklung und ggf. Abrechnung dieser Service-Nutzung. Dabei kann es vorkommen, dass Nutzungsdaten verschiedener Services zusammengeführt werden.</li></ul><ul><li>Außerdem werten wir ggf. Nutzungsprofile anonymisiert zur Marktforschung, Werbung und Verbesserung unserer Services aus, soweit Sie nicht von Ihrem gesetzlichen Recht Gebrauch gemacht haben, dieser Nutzung Ihrer Daten zu widersprechen.</li></ul><ul><li>Nur soweit Sie dem ausdrücklich zugestimmt haben verwendet Fahrschulcard Ihre Daten auch personenbezogen (d.h. nicht anonym oder unter einem vorgenannten Pseudonym), um unsere Inhalte einschließlich der Werbeangebote auf Ihre ganz persönlichen Interessen auszurichten und/oder Sie über spezielle Angebote oder neue Services und Produkte zu unterrichten.<br /><br /></li></ul><h3><b>Datenübermittlung an Dritte</b></h3>
+<p>Fahrschulcard übermittelt Ihre persönlichen Daten ausschließlich dann an Dritte, wenn:</p><ul><li>Sie der Übermittlung zugestimmt haben oder</li></ul><ul><li>die Übermittlung zur Durchführung oder Abrechnung der Services notwendig ist, insbesondere wenn ein Erfüllungsgehilfe für die Abwicklung des Fahrschulcard-Services diese Daten benötigt (solche Erfüllungsgehilfen sind, soweit Ihnen nicht ausdrücklich etwas anderes mitgeteilt wird, nur insoweit zur Verwendung berechtigt, als dies für den Service notwendig ist).</li></ul><ul><li>nach Maßgabe der anwendbaren Gesetze staatliche Stellen von uns ggf. Auskünfte oder Daten zur Erfüllung ihrer gesetzlichen Aufgaben, z.B. zum Zwecke der Strafverfolgung, verlangen.<br /><br /> </li></ul><h3><b>Einsatz von Google Analytics</b></h3>
+<p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet so genannte „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung bringen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden. Der Datenerhebung und -speicherung kann jederzeit mit Wirkung für die Zukunft <a href="http://tools.google.com/dlpage/gaoptout?hl=de" title="Analytics Widerspruch" target="_blank">widersprochen</a> werden. Angesichts der Diskussion um den Einsatz von Analysetools mit vollständigen IP-Adressen möchten wir darauf hinweisen, dass diese Website Google Analytics mit der Erweiterung „_anonymizeIp()“ verwendet und daher IP-Adressen nur gekürzt weiterverarbeitet werden, um eine direkte Personenbeziehbarkeit auszuschließen.<br /><br /></p>
+<h3><b>Löschen von Daten</b></h3>
+<p>Soweit Ihre Daten nicht mehr für die vorgenannten Zwecke einschließlich der Abrechnung erforderlich sind, werden diese gelöscht. Bitte beachten Sie, dass bei jeder Löschung die Daten zunächst nur gesperrt und dann erst mit zeitlicher Verzögerung endgültig gelöscht bzw. anonymisiert werden, um versehentlichen Löschungen oder evtl. vorsätzlichen Schädigungen vorzubeugen. Aus technischen Gründen werden Daten ggf. in Datensicherungsdateien und Spiegelungen von Services dupliziert. Solche Kopien werden ebenfalls ggf. erst mit einer technisch bedingten zeitlichen Verzögerung gelöscht.<br /><br /></p>
+<h3><b>Bearbeitung oder Löschung von persönlichen Daten Ihres Accounts</b></h3>
+<p>Sie haben das Recht, die zu Ihrer Person gespeicherten persönlichen Daten und Einstellungen Ihres Accounts jederzeit einzusehen und diese zu korrigieren, zu ergänzen oder zu löschen. Soweit Sie wünschen, dass wir Ihr Nutzerkonto ganz löschen, informieren Sie einfach unseren Administrator per E-Mail.<br /><br /> </p>
+<h3><b>Datensicherheit</b></h3>
+<p>Fahrschulcard ist bemüht, Ihre Daten vor unbefugtem Zugriff, Verlust, Missbrauch, oder Zerstörung zu schützen. Ihre persönlichen Daten sind nur solchen Mitarbeitern zugänglich, welche notwendigerweise Einsicht in Ihre Daten haben müssen, um ihre Tätigkeit ordnungsgemäß ausüben und Ihnen die Services und Produkte bestmöglich anbieten können. Außerdem ergreift Fahrschulcard soweit möglich zum Schutz Ihrer persönlichen Daten verfahrenstechnische und elektronische Schutzmaßnahmen.</p></div></div>
+					<div id="content_right">
+						<div id="rightnav"></div>
+						<div id="rightcontent"></div>
+					</div>
+
+					<div class="brclear"></div>
+				</div>
+				<div class="brclear"></div>
+				<div id="footer"><div id="c1374" class="csc-default"><div class="footer"><p><div style="font-size: 1.5em; margin-bottom: 10px;">Support/Hotline: 089 242 3990 - 50</div><a href="http://fahrschulcard.de/de/startseite.html">Startseite</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://fahrschulcard.de/de/fsc.html">Lernsystem</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://fahrschulcard.de/de/news.html">News</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://fahrschulcard.de/de/faq">Hilfe &amp; FAQ</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://fahrschulcard.de/de/impressum-kontakt.html">Kontakt &amp; Impressum</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://fahrschulcard.de/de/datenschutz.html">Datenschutz</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://fahrschulcard.de/de/agbs.html">AGB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://fahrschulcard.de/de/banner-links.html">Banner & Links</a></p></div></div><div id="c1174" class="csc-default"><div class="footer_sm"><p> © 2016 Deutscher Fahrschulverlag GmbH | FAHRSCHULCARD - Das Lernsystem für die Theorie-Prüfung </p></div></div></div>
+			</div>
+		</div>
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(function() {
+		    _gat._anonymizeIp();
+		    var tracker = _gat._createTracker('UA-2709173-1');
+		    tracker._trackPageview();
+		  });
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+
+
+
+
+</body>
+</html>
+<!-- Cached page generated 05-31-17 20:25. Expires 06-01-17 20:25 -->
+<!-- Parsetime: 0 ms-->

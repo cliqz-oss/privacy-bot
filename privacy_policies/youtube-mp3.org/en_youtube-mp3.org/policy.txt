@@ -1,0 +1,25 @@
+#
+
+You have to enable JavaScript to use this Service!
+
+## What is YouTube mp3?
+
+YouTube-mp3.org is the easiest online service for converting videos to mp3.
+You do not need an account, the only thing you need is a YouTube URL. We will
+start to convert the audiotrack of your videofile to mp3 as soon as you have
+submitted it and you will be able to download it. Different from other
+services the whole conversion process will be perfomed by our infrastructure
+and you only have to download the audio file from our servers. Because of this
+our software is platform-independent: You can use it with your Mac, a Linux PC
+or even an iPhone. All our conversions will be perfomed in high quality mode
+with a bitrate of at least 128 kBit/s. Do not worry, our service is completely
+free. We need approximately 3 to 4 minutes per video.
+
+Blog * Addons * Privacy * Impress
+
+English * Deutsch * Türkçe * Polski * Français * ქართული  
+Euskara * Español * Ελληνικά * Nederlands * 繁體中文  
+Italiano * Svenska * Slovensky * Српски * العربية  
+Português * Slovenščina * українська * Русский  
+Dansk * suomi * 日本語 * Norsk * 한국어
+

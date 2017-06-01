@@ -1,0 +1,129 @@
+Toggle navigation
+
+  * Jetzt kündigen 
+    * Kündigungsschreiben 
+    * Widerrufsschreiben 
+    * Adressen- &amp; Hotline-Datenbank 
+    * Tipps &amp; Tricks 
+  * Meine Verträge
+  *   * Wechselkompass
+  * Blog
+  * Hilfe
+  * Registrieren
+  * Anmelden
+  * Mein Konto
+
+# Vertragscheck-Datenschutzbestimmungen
+
+Um unseren Dienst nutzen zu können, musst du deine Bank-Login-Daten in das
+vorgesehene Feld eintragen. Diese werden dann über eine gesicherte Verbindung
+an unseren Server weiter gegeben. Es erfolgt keine Speicherung dieser Daten in
+unserer Datenbank! Die Daten sind lediglich während des Aufrufes im
+Arbeitsspeicher verfügbar. Nachdem wir selbst verständlicherweise kein
+Finanzdienstleister sind, wird dann ein anonymer Account bei der Firma figo
+GmbH angelegt (siehe deren Datenschutzbestimmungen hier:
+http://figo.io/privacy.html). An diesen Account werden dann die Login-Daten
+weiter gegeben. Wichtig: Auch hier werden diese nicht dauerhaft gespeichert!
+
+Sobald figo die Daten synchronisiert hat, kannst du wählen, welche Konten
+gecheckt werden sollen. Nur von diesen Konten übertragen wir die Transaktionen
+von figo an den aboalarm Server, um diese für den Vertragscheck auszuwerten.
+Sobald das Matching abgeschlossen ist, wird der anonyme figo Nutzer gelöscht.
+Der anonyme figo Nutzer wird auch gelöscht, wenn es einen Fehler bei der
+Verbindung mit dem Server deiner Bank gab oder die Bank-Login-Daten falsch
+waren.
+
+Sobald der Vertragscheck abgeschlossen ist, senden wir dir eine E-Mail mit dem
+Link zur Auswertungsseite. Dort kannst du dann wählen, welche Verträge
+gespeichert werden sollen und welche nicht, weil sie z.B. bereits gekündigt
+sind oder der Anbieter falsch erkannt wurde. Nach einer Wartezeit von 60 Tagen
+löschen wir alle Transaktionen vom aboalarm Server. In dieser Zeit können wir
+die Erkennung bei erneuten Vertragschecks optimieren. Kurz gesagt: Wir
+speichern auch hier nur das, was wirklich notwendig ist!
+
+Für den Fall, dass du dich über unsere Seite auf den Dienst von
+Friendsurance.de leiten lässt, mit denen wir kooperieren, übertragen wir
+(soweit bekannt) folgende Daten von dir an Friendsurance:  
+\- Anrede \- Vorname \- Nachname \- E-Mail-Adresse \- Policennummern \-
+Versicherungsanbieter (z.B. ERGO, Allianz oder HUK) \- Versicherungstypen
+(z.B. Haftpflicht- oder Rechtsschutzversicherung) \- Versicherungssubtypen
+(z.B. Teilkasko oder Vollkasko Bei Kfz-Haftpflichtversicherung)
+
+Die Datenschutzbestimmungen von Friendsurance kannst du hier nachlesen:
+Friendsurance Datenschutzbestimmungen
+
+  * aboalarm
+  * Partnerprogramm
+  * Über aboalarm
+  * Presse
+  * Jobs
+
+  * Apps
+  * aboalarm iOS
+  * aboalarm Android
+  * aboalarm Kindle Fire
+
+  * Rechtliches
+  * Kündigungsgarantie
+  * AGB
+  * Datenschutz
+  * Vertragscheck-Datenschutz
+  * Impressum
+
+  * Infos
+  * Statistiken
+  * Glossar
+  * Nutzer Bewertungen
+  * Petition
+
+  * Facebook
+  * Twitter
+  * Google+
+
+(C) 2017 Aboalarm GmbH • Made with ♥ in Germany
+
+×
+
+#### Anmelden
+
+E-Mail
+
+Passwort Passwort vergessen?
+
+Anmelden
+
+* * *
+
+Facebook Login
+
+Registrieren
+
+×
+
+#### Registrieren
+
+##### Deine Vorteile mit aboalarm
+
+  * Sicher  
+Mit Anwälten erarbeitet
+
+  * Zeitsparend  
+Alles ist vorbereitet
+
+  * Schnell  
+Durch direkten Versand
+
+  * Sorgenfrei  
+Wir helfen bei Problemen
+
+E-Mail
+
+Passwort
+
+Passwort wiederholen Ich akzeptiere die AGB und Datenschutzbestimmungen von
+aboalarm  Registrieren
+
+* * *
+
+Anmelden
+

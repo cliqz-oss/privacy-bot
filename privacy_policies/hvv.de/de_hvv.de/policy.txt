@@ -1,0 +1,271 @@
+# Hauptnavigation
+
+  * Start
+  * Fahrpläne
+    * Fahrplanauskunft
+      * Abkürzungen Haltestellen
+      * Anruf Sammeltaxi / -bus
+      * Bundesweite Fahrplanauskunft
+      * Fahrplanauskunft auf Ihrer Homepage
+      * Datenschnittstelle
+    * Aktuelle Meldungen
+    * Abfahrten
+    * Linienfahrplan
+    * Haltestellenaushang
+    * Haltestellen
+    * Pläne
+      * Übersicht
+      * Verkehrsnetzplan
+      * Aufzugsplan
+    * HVV-App
+  * Fahrkarten
+    * Onlineshop
+      * Übersicht
+      * Einzel-, Tages-, Wochenkarte kaufen
+      * Monatskarten kaufen
+      * Abonnement bestellen
+      * Fahrkarte für Firmen / Institutionen kaufen
+    * Einzel- / Tageskarten
+      * Übersicht
+      * Hamburg CARD
+      * Schüler-Gruppenkarte
+    * Wochen- / Monatskarten
+      * Vollzeit-Karten
+      * Teilzeit-Karten
+      * Karten für Schüler
+      * Karten für Azubis und Studenten
+      * Karten für Senioren
+      * Karten "AGH mobil"
+      * HVV-Mobilitätskarte
+    * Abonnement
+      * Übersicht
+      * Vorteile
+      * Preise
+      * Bestellung und Service
+      * Ergänzungskarte
+    * ProfiCard für Mitarbeiter
+    * Firmen und Institutionen
+      * Übersicht
+      * ProfiCard für Unternehmen
+    * KombiTicket
+    * Anschlussfahrten / Übergangstarife
+      * Übersicht
+      * Schleswig-Holstein-Tarif
+      * Niedersachsentarif
+      * Soltau / Schneverdingen
+      * Cuxhaven Übergangstarif
+      * Rotenburg (Wümme) Übergangstarif
+      * Uelzen Übergangstarif
+      * Schönes-Wochenende-Ticket
+      * Länder-Tickets
+      * DB-City-Ticket
+    * Gemeinschaftstarif
+    * HVV-Card
+    * HVV-App
+  * Service
+    * Kontakt
+    * Service- / Verkaufsstellen
+    * Fragen und Antworten
+    * Newsletter-Services
+      * Newsletter
+      * Tipp des Monats
+    * Downloads
+    * Fundsachen
+    * Rechte und Pflichten
+      * Übersicht
+      * HVV-Garantie
+      * Fahrgastrechte
+      * Einstieg vorn
+      * Gemeinschaftstarif
+    * Mobilität für alle
+      * Übersicht
+      * Haltestellen
+      * Mobilitätshilfen
+      * Spezielle Fahrkarten
+      * Schulungen
+    * Touristen und Neubürger
+      * Übersicht
+      * Audiotouren
+    * Erzieher / Lehrer
+    * Fahrradfahrer
+      * Übersicht
+      * Fahrradmitnahme
+      * Bike+Ride
+      * StadtRad
+      * ADFC-HVV-Faltrad
+    * Autofahrer
+      * Übersicht
+      * Park+Ride
+      * Carsharing
+      * Autovermietung
+    * switchh
+    * Flüchtlinge
+      * Übersicht
+      * Mobilitätsberatung für Flüchtlinge
+  * Über uns
+    * Der HVV
+      * Übersicht
+      * HVV-Filme
+      * Verkehrsunternehmen
+      * Aufgabenträger
+      * Fahrgastbeirat
+    * Aktuelles
+    * Presse
+      * Pressemitteilungen
+      * Pressekontakt
+      * Foto- und Drehgenehmigungen
+    * Publikationen
+    * Verkehrsangebot
+      * Übersicht
+      * Anruf-Sammel-Taxi / -Mobil
+      * Busbeschleunigung
+    * Historie
+    * Vergabebekanntmachungen
+    * Stellenangebote
+  *    
+
+  * MeinHVV
+
+
+
+# Datenschutz
+
+Der Schutz Ihrer Privatsphäre ist uns wichtig!  
+Da bei der Nutzung des HVV-Internet-Angebots teilweise personenbezogene Daten
+erhoben und verarbeitet werden, möchten wir Ihnen mitteilen, wie mit Ihren
+Daten umgegangen wird.
+
+## Erhebung und Verarbeitung personenbezogener Daten
+
+Grundsätzlich können Sie das HVV-Internet-Angebot nutzen, ohne dass wir
+personenbezogene Daten von Ihnen benötigen. Wir erfahren nur die üblicherweise
+bei der Internetnutzung anfallenden Verbindungsinformationen. Dazu gehören
+unter anderem das Zugriffsdatum, die Webseiten, die Sie bei uns besuchen und
+Ihre IP-Adresse.  
+IP-Adressen werden von uns als Teil der Schutzmaßnahmen gegen Angriffe von
+außen für einige Stunden gespeichert und automatisch wieder gelöscht, wenn es
+im fraglichen Zeitraum keine Auffälligkeiten gab. Ansonsten werden die
+anfallenden Verbindungsinformationen nur zu statistischen Zwecken ausgewertet.
+Ein Rückschluss auf einen bestimmten Nutzer ist dabei nicht möglich.
+
+Personenbezogene Daten werden nur dann erhoben und verarbeitet, wenn Sie eines
+der weiterführenden Service-Angebote (z. B. den HVV-Newsletter, den
+Fahrkarten-Onlineshop, die HVV-Garantie, die HVV-Card, switchh) nutzen und Sie
+dabei die für die Bearbeitung Ihres jeweiligen Wunsches notwendigen Daten in
+die entsprechenden Formulare eingeben.
+
+Voraussetzung für die Nutzung der weiterführenden Serviceangebote ist
+grundsätzlich ein MeinHVV-Kundenkonto, mit dem Sie sich jeweils
+authentifizieren. Der Fahrkarten-Onlineshop kann auch ohne ein MeinHVV-
+Kundenkonto genutzt werden.
+
+Die folgenden weiterführenden Service-Angebote werden dabei nicht von der HVV
+GmbH sondern von bestimmten Verkehrsunternehmen betrieben:
+
+  * Fahrkarten-Onlineshop (Hamburger Hochbahn AG)
+  * switchh (Hamburger Hochbahn AG)
+  * HVV-Firmenservice (S-Bahn Hamburg GmbH)
+  * HVV-Card/eTicket (Hamburger Hochbahn AG und DB Vertrieb GmbH)
+  * Abo-Bestellung online (Hamburger Hochbahn AG und DB Vertrieb GmbH)
+
+Die HVV GmbH ist nicht der Anbieter der fraglichen Leistungen, sondern stellt
+den Verkehrsunternehmen und ihren Kooperationspartnern lediglich eine
+Plattform für deren Mobilitätsangebote zur Verfügung: ihre Webseite und ihre
+App, insbesondere die Infrastruktur der MeinHVV-Kundenkonten.  
+Verträge, die über diese Plattform zu Stande kommen, bestehen somit
+ausschließlich zwischen dem Verkehrsunternehmen bzw. dem jeweiligen
+Kooperationspartner und dem jeweiligen Kunden. Diese Rollenverteilung ist im
+Rahmen des jeweiligen Registrierungs-, Bestell- oder Reservierungsprozesses
+auch ersichtlich.  
+Die datenschutzrechtliche Verantwortung für die personenbezogenen Daten, die
+im Zusammenhang mit der Nutzung der weiterführenden Service-Angebote erhobenen
+und verarbeitet werden, liegt bei den Verkehrsunternehmen. Siehe dazu auch die
+Datenschutzhinweise und Erläuterungen in den für die einzelnen Service-
+Angebote geltenden Allgemeinen Geschäftsbedingungen (AGB).
+
+In einigen Bereichen des HVV-Internet-Angebots kommen so genannte Cookies zum
+Einsatz. Dabei werden vom jeweiligen Webserver auf Ihrem Computer
+Informationen hinterlegt, die bei einem Wiederbesuch des HVV-Internet-Angebots
+ausgelesen werden können. Dadurch wird es möglich, das jeweilige Internet-
+Angebot entsprechend Ihren Bedürfnissen noch weiter zu optimieren.  
+Cookies kommen auch im Rahmen der Nutzung des Analyse-Tools des Adserver-
+Anbieters adform zum Einsatz. Bei Sichtkontakt mit einem Werbemittel des HVV
+wird ein Cookie gesetzt. Dieses Cookie enthält keine Informationen, mit denen
+sich Nutzer persönlich identifizieren lassen. Personenbezogene bzw.
+personenbeziehbare Daten werden von adform nicht verarbeitet oder gespeichert.
+Weitere Informationen zu den Datenschutzbestimmungen von adform finden Sie
+unter: http://www.adform.com/site/privacy-policy.  
+Alle gängigen Internet-Browser können so konfiguriert werden, dass Sie über
+die Platzierung von Cookies informiert werden. So wird der Gebrauch von
+Cookies für Sie transparent. Sie können jederzeit auf den Gebrauch von Cookies
+verzichten, das Angebot der HVV-Webseite bleibt weiterhin komplett nutzbar,
+mit Ausnahme des Bereiches MeinHVV  für die Nutzung und Personalisierung der
+Seiten sind Cookies zwingend notwendig.
+
+## Nutzung und Weitergabe personenbezogener Daten und Zweckbindung
+
+Soweit im Rahmen des HVV-Internet-Angebots personenbezogene Daten durch die
+HVV GmbH erhoben, gespeichert oder genutzt werden, erfolgt dies unter
+Einhaltung der jeweils geltenden Vorschriften zum Schutz personenbezogener
+Daten.
+
+Insbesondere nutzen wir personenbezogene Daten nur für den gesetzlich
+erlaubten Zweck der Vertragsabwicklung und die Wahrung berechtigter eigener
+Geschäftsinteressen im Hinblick auf die Beratung und Betreuung unserer Kunden
+und die bedarfsgerechte Produktgestaltung.  
+Dies gilt selbstverständlich auch für die Nutzung und Weitergabe von
+personenbezogenen Daten im Rahmen der von den Verkehrsunternehmen
+bereitgestellten und betreuten weiterführenden Service-Angebote. Siehe dazu
+auch die Datenschutzhinweise und Erläuterungen in den für die einzelnen
+Service-Angebote geltenden Allgemeinen Geschäftsbedingungen (AGB).
+
+## Ihre Rechte als Nutzer
+
+Entsprechend den geltenden gesetzlichen Verpflichtungen teilen wir Ihnen auf
+Anfrage gerne mit, ob und welche personenbezogenen Daten über Sie bei der HVV
+GmbH gespeichert sind. Darüber hinaus können Sie uns unrichtige Daten
+berichtigen oder solche Daten löschen lassen, deren Speicherung unzulässig
+oder nicht mehr erforderlich ist. Insbesondere können Sie jederzeit der
+Verwendung Ihrer personenbezogenen Daten für Zwecke der Werbung oder Markt-
+und Meinungsforschung widersprechen.  
+Wenn Sie diese Rechte wahrnehmen wollen oder Fragen hinsichtlich der
+Verarbeitung Ihrer personenbezogenen Daten haben, können Sie sich direkt an
+unseren Beauftragten für den Datenschutz wenden.
+
+Bitte verwenden Sie die nachfolgenden Kontaktdaten nur für Fragen und Anfragen
+rund um das Thema Datenschutz:
+
+Kai H. Terschüren  
+Datenschutzbeauftragter der HVV GmbH  
+Steindamm 94  
+20099 Hamburg  
+Telefon: 040/32 57 75-0  
+E-Mail
+
+In allen anderen Fällen nutzen Sie bitte das allgemeine Kontaktformular.
+
+Für Anfragen und Widersprüche in Bezug auf die von den vorgenannten
+Verkehrsunternehmen bereitgestellten und betreuten weiterführenden Service-
+Angebote sind grundsätzlich die Datenschutzbeauftragten der jeweiligen
+Verkehrsunternehmen zuständig. Im Sinne einer möglichst schnellen und
+kundenfreundlichen Bearbeitung können Sie diese aber auch bei der HVV GmbH
+einreichen. Wir übernehmen die Übermittlung an die zuständige Stelle für Sie.
+
+Weitere Informationen zur Struktur des HVV haben wir für Sie online
+bereitgestellt.
+
+##### Schnellzugriff
+
+  * English
+  * Presse
+  * Inhalt
+  * Extranet
+  * Datenschutz
+  * Impressum
+
+##### Zusatzfunktionen
+
+  * 
+
+
+

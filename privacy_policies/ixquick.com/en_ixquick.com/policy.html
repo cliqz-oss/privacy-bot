@@ -1,0 +1,772 @@
+<!DOCTYPE HTML>
+    <!--[if lt IE 7 ]> <html class='ie6 ie no-js'> <![endif]-->                                                                         
+    <!--[if IE 7 ]> <html class='ie7 ie no-js'> <![endif]-->                                                                                                                                               
+    <!--[if IE 8 ]> <html class='ie8 ie no-js'> <![endif]-->                                                                                                                                                
+    <!--[if IE 9 ]> <html class='ie9 ie no-js'> <![endif]-->                                                                                                                                                 
+    <!--[if (gt IE 9)|!(IE)]><!-->                                                                                                                                                                          
+    <html class="no-js">                                                                                                                                                                                                  
+    <!--<![endif]-->
+     <head>     
+    <meta name="viewport" content="width=device-width,maximum-scale=1,minimum-scale=0,user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <title> TOOLS - Make homepage </title>
+    
+<link rel="icon" href="/sp-favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/sp-favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/graphics/favicon/sp-apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/graphics/favicon/sp-apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/graphics/favicon/sp-apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/graphics/favicon/sp-apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/graphics/favicon/sp-apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/graphics/favicon/sp-apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/graphics/favicon/sp-apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/graphics/favicon/sp-apple-touch-icon-152x152.png">
+<link rel="icon" sizes="196x196" href="/graphics/favicon/sp-favicon-196x196.png" type="images/png">
+<link rel="icon" sizes="160x160" href="/graphics/favicon/sp-favicon-160x160.png" type="images/png">
+<link rel="icon" sizes="96x96" href="/graphics/favicon/sp-favicon-96x96.png" type="images/png">
+<link rel="icon" sizes="16x16" href="/graphics/favicon/sp-favicon-16x16.png" type="images/png">
+<link rel="icon" sizes="32x32" href="/graphics/favicon/sp-favicon-32x32.png" type="images/png">
+<link href="/graphics/favicon/sp-favicon-16x16.png" type="images/png" rel="shortcut icon">
+<meta name="msapplication-TileColor" content="#6589c7">
+<meta name="msapplication-TileColor" content="/graphics/favicon/sp-mstile-144x144.png">
+
+    
+    <script language='javascript' type='text/javascript' src='/js/retina_about_pages.js?v=6'></script>            
+    
+    <link href='/css/responsive_jwplayer.css?v=1' type='text/css' media="all"  rel='StyleSheet' />
+    <link href='/css/retina_about_pages.css?v=8' type='text/css' media="all"  rel='StyleSheet' />
+    <!--[if lt IE 9]><link href='/css/lt_ie9.css?v=6' type='text/css' media="all"  rel='StyleSheet' /><![endif]-->
+    
+    <!--[if lt IE 9]><script language='javascript' type='text/javascript' src='/js/less_than_ie9.js?v=6'></script><![endif]-->
+    <script>function setFocus() { var pageUrl = window.location.href; if (!pageUrl.match(/jump_to/)) { document.getElementById("query_top").focus(); } }</script>
+	<script>
+   	jQuery(window).load(function() {
+		jQuery('.accordionButton').click(function(e){
+			e.preventDefault();
+            var div_display = jQuery(this).next('.accordionContent').css('display');
+            if (div_display == 'block') {
+                jQuery(this).next('.accordionContent').slideUp();
+            } else {
+                jQuery('div.accordionContent').slideUp();
+                jQuery(this).next('.accordionContent').slideToggle();
+            }
+    	});
+    });
+
+jQuery(window).load(function () {
+    jQuery('div[id^=tOoLtIp]').each(function() {
+        var obj = jQuery(this);
+        jQuery(this).addClass('sb-tooltip');
+        jQuery(this).find('*').removeAttr('bgcolor color face style');
+    });
+});
+
+function verifyChecked (form_obj) { 
+    var formname = form_obj.name; 
+    var orig_query = document[formname].query.value; 
+    if (orig_query == "") { 
+        return false; 
+    } 
+    form_obj.submit(); 
+
+    return false; 
+}
+      
+    </script>
+	
+    <script type='text/javascript'>
+    
+        $(document).ready(function() {
+
+            if((BrowserDetect.OS.indexOf("BB10") != -1) && (navigator.userAgent.indexOf("Mobile Safari") != -1)) MY_BROWSER = "Browser";
+            if ( !(((MY_BROWSER == 'Chrome') || (MY_BROWSER == 'Chromium')) && (MY_BROWSER_VERSION > 31)) ) {
+ document.blah1.action = '/do/search';
+ }
+ });
+        var param_propgated = false;
+        var sm_hashtag = '#hmb';
+                
+        jQuery(window).load(function(){
+            if (param_propgated == false) {
+                trigger_parameter_propagation();
+            }
+            });
+        function trigger_parameter_propagation() {
+            param_propgated = true;
+            var additional_parm = '';
+            var additional_hinput_parm = '';
+            var only_hinput_parm = 'hmb=1';
+        
+            var pref_args = prepare_propagation_arguments();
+            additional_hinput_parm = pref_args+'&';
+            if (jQuery('#lmv') && (jQuery('#lmv').attr('class') == 'home')) {additional_hinput_parm += 'lmv=1';}
+            cpt_js_prgtr(additional_parm, additional_hinput_parm, only_hinput_parm);
+        }
+        function cpt_js_prgtr(additional_parm, additional_hinput_parm, only_hinput_parm) {
+            var urlParams;
+            var additional_parm = additional_parm || '';
+            var additional_hinput_parm = additional_hinput_parm || '';
+            var only_hinput_parm = only_hinput_parm || '';
+
+            (window.onpopstate = function () {
+                var match,
+                pl     = /\+/g,
+                search = /([^&=]+)=?([^&]*)/g,
+                decode = function (s) { try {return decodeURIComponent(s.replace(pl, " "));} catch(e){} },
+                query  = window.location.search.substring(1);
+                urlParams = {};
+                while (match = search.exec(query)) {
+                    urlParams[decode(match[1])] = decode(match[2]);
+                }
+                if (typeof urlParams['prfh'] != 'undefined' && typeof urlParams['prf'] != 'undefined') {
+                    delete urlParams['prfh'];
+                }
+            })();
+            var params = new Array ('vf', 'vft', 'fm', 'fmt', 'op', 'prf','prfh', 'lmv');
+    
+            cpt_prms = additional_parm + '&' +additional_hinput_parm;
+            cpt_prms = cpt_prms.replace(/&&/g,'&');
+            var hinput_parm = additional_hinput_parm + '&' + only_hinput_parm;
+            var cpt_h = get_hinputs(hinput_parm);
+            jQuery.each(params, function(index, elem) {
+                var validate_regex = new RegExp('^[a-zA-Z0-9]+$');
+                if ( elem == 'prfh') {
+                    validate_regex = new RegExp('^[a-zA-Z0-9_/]+$');
+                }
+                if (urlParams[elem] != undefined && validate_regex.test(urlParams[elem])) {
+                    cpt_h += '<input value="'+urlParams[elem]+'" name="'+elem+'" type="hidden">';
+                    if (cpt_prms === '') {
+                        cpt_prms += elem+'='+urlParams[elem]+'&';
+                    } else {
+                        cpt_prms += '&'+elem+'='+urlParams[elem]+'&';
+                    }   
+                }
+            });
+            cpt_prms =  cleanParams(cpt_prms,[]);
+            
+            if (cpt_prms || cpt_h) {
+                if (jQuery('.cpt_prgtr').length) {
+                    jQuery('.cpt_prgtr').each(function() {
+                        var search_box_params = jQuery(this).html();
+                        var pttrn = new RegExp('name=('+params.join('|')+')');
+                        if(!(pttrn.test(search_box_params))) {
+                            jQuery(this).prepend(cpt_h);
+                        }
+                    });
+                }
+            }           
+          
+            var base_url = "<!--KEEPTEL-->http://www.startpage.com";
+            base_url = base_url.replace('<!--KEEPTEL-->','');
+            if (base_url != '') {
+                base_url = base_url.match(/^https?:\/\/[^/]+/)[0];
+            }
+            base_url_regexp = '^('+base_url+'.+?|\\/\\w.+?)(#.*)?$';
+            base_url_regexp = base_url_regexp.replace('http://', 'https?://');
+            var jump_to_tag_regexp = new RegExp(base_url_regexp, 'g');
+            var pttrn = new RegExp('('+params.join('|')+')=.+?(&|$)','g');
+            jQuery("a").each(function() {
+                if (jQuery(this).hasClass('no-cpt-prgpt')) {
+                    return;
+                } else {
+                    var old_inner_content = jQuery(this).html();
+                    var href = jQuery(this).attr("href");
+                    if(href != undefined && href.match(jump_to_tag_regexp)) {
+                        href = href.replace(pttrn, ''); 
+                        href = href.replace(/&$/, '');
+                        var append_char = (href.match(/\?/)) ? "&" : "?";
+                        var jump_to_tag = '';
+                        var p_matches;
+                        if (p_matches = jump_to_tag_regexp.exec(href)) {
+                            href = p_matches[1];
+                            jump_to_tag  = p_matches[p_matches.length - 1];
+                        }
+                        if (!jump_to_tag) {
+                            jump_to_tag = '';
+                        }
+
+                        if (cpt_prms || jump_to_tag) {
+                            href += append_char + cpt_prms + jump_to_tag;
+                        }
+
+
+                        if (! jQuery(this).hasClass('no-sm-hashtag')) {
+                            href = href.replace(/\?$/, '');
+                            href += sm_hashtag;
+                        }
+
+                        jQuery(this).attr("href", href);
+                    }
+                    jQuery(this).html(old_inner_content);
+                }
+            });
+        }
+    
+    
+    function load_img (img_url) {
+
+    if (document.images) {
+        var dt = new Date();
+        var arbit_num = dt.getTime(); 
+        img_url += '&anticache=' + arbit_num + '&/filename.gif';
+        var i_ob = new Image(); i_ob.src = img_url;
+    }
+    return true;
+    }
+    function get_http_host() {
+    var http_host = '';
+    var page_url = document.URL;
+    var url_parts = page_url.split('://');
+    var protocol = url_parts[0];
+
+    if (url_parts[1].indexOf('/') != -1) {
+       var slash_pos = url_parts[1].indexOf('/');
+       http_host = protocol + '://' + url_parts[1].substr(0, slash_pos);
+    } else {
+       http_host = protocol + '://' + url_parts[1];
+    }
+    
+    return http_host;
+}
+                    function makeHomePage(obj, page_url) {
+			            enable_retina_design = 1;
+                        load_img('/do/adviewtrack.pl?a=10&g=357&l=english');
+                        var ua = navigator.userAgent;
+                        var ff = 0;
+                        if (ua.indexOf('Firefox') != -1) {
+                            ff = 1;
+                        }
+                        var homepage_url = page_url;
+                        var http_host = get_http_host();if ((http_host.indexOf('ixquick.') != -1) && (page_url.indexOf('http') != 0)) {homepage_url = http_host + page_url;
+                        }
+                        var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome');
+                        var is_edge = navigator.userAgent.indexOf('Edge');
+                            var agentname = navigator.userAgent;  var out_str = '';if (is_edge != -1 || (agentname.toLowerCase().indexOf('netscape') != -1) || (agentname.toLowerCase().indexOf('navigator') != -1)) {
+                            out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->http://www.ixquick.com/eng/<!--/HOME-->';       } else if( (agentname.toLowerCase().indexOf('ipad') != -1) && (agentname.toLowerCase().indexOf('safari') != -1) ) {
+         out_str += "<h3>Ixquick Search has a new mobile app for iOS devices! Click <a class=\"blue_link\" href=\"https://itunes.apple.com/us/app/ixquick-search/id689533855?mt=8\">here</a> to download it for FREE! <br>Alternately, follow the instructions below to add an icon to your home screen that you can use to quickly return to StartPage or Ixquick. </h3>";
+         out_str += "<ul class='check_green_l_16'><li>Open Ixquick.com or StartPage.com</li>";
+         out_str += "<li>In mobile Safari, click on the Share icon in your browser.</li>";
+         out_str += "<li>Click on 'Add to Home Screen'.</li>";
+         out_str += "<li>Give the icon a name, like Ixquick or StartPage.</li>";
+         out_str += "<li>Click on 'Add' button.</li>";
+         out_str += "<li>You should be returned to the home screen. An icon will be added to your device that can be used to load the site whenever you are online.</li></ul>";
+
+                            }else if ( (agentname.toLowerCase().indexOf('vivaldi') != -1)) {
+                                out_str += '<div id=\"popup_set_homepage_vivaldi_responsive\" class=\"holder\">    					<div class=\"opener\"></div>    					<div class=\"pop_container\" style=\"display: block;\">    						<div class=\"popup retina bordered popup_width\">    							<div class=\"cross_icon\">    								<p class=\"closer\">    									<a href=\"javascript:void(0);\"></a>    								</p>    							</div><div><div class=\"popup_box\"> <span class=\"head_homepage_popup\">Set StartPage by Ixquick As Your Home Page</span><div class=\"vivaldi_setashome_popup_step steps vivaldi_set_as_home_first\"><span class=\"num_install_popup\">1</span><label> In the menu, click on Vivaldi &#62; Settings. </label></div><div class=\"vivaldi_setashome_popup_step steps vivaldi_set_as_home_first_alt\"><span class=\"num_install_popup\">1</span><label> In the menu, click on Vivaldi &#62; Preferences. </label></div><div class=\"vivaldi_setashome_popup_step steps second\"><span class=\"num_install_popup\">2</span><label> Click on the section &#39;Startup&#39;. </label></div><div class=\"vivaldi_setashome_popup_step steps third\"><span class=\"num_install_popup\">3</span><label> Under Homepage, insert: <!--HOME-->http://www.startpage.com</label></div><div class=\"vivaldi_setashome_popup_step steps fourth\"><span class=\"num_install_popup\">4</span><label> Click on &#39;Save&#39;. </label></div><div class=\"vivaldi_setashome_popup_step steps fifth\"><span class=\"num_install_popup\">5</span><label> Under &#39;Startup with&#39;, click on the &#39;Homepage&#39; radio button. </label></div></div></div></div>    					</div>    				</div>';
+                                
+                            }else if (agentname.toLowerCase().indexOf('firefox') != -1) {
+                                
+                                out_str += '<h3>To set your homepage in Firefox, follow these steps:</h3><ul class="check_green_l_16">';
+                                if (BrowserDetect.OS.indexOf('Linux') != -1) {
+                                out_str += '<li>Click on the Edit Menu.</li>';
+                                out_str += '<li>Select Preferences.</li>';
+                                }
+                                else if (BrowserDetect.OS.indexOf('Mac') != -1) {
+                                    out_str += '<li>Click on the Firefox Menu.</li>';
+                                    out_str += '<li>Select Preferences.</li>';
+                                }
+                                else if (BrowserDetect.OS.indexOf('Window') != -1) {
+                                    out_str += '<li>Click on the Tools Menu.</li>';
+                                    out_str += '<li>Click on Options.</li>';
+                                }
+                                out_str += '<li>Click on the General tab.</li>';
+                                out_str += '<li>Delete existing address in the homepage box and replace with <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--></li>';
+                                out_str += '<li>You also can open the tabs you want to use as a home page, and then click on the Use Current Pages button under the Home Page box.</li></ul>';
+                                
+                            } else if (BrowserDetect.browser.toLowerCase().indexOf('chrome') != -1) { /* (for retina) So that Instructions for chrome are not displayed for other browsers */
+                                
+                                out_str += '<h3>To set your homepage in Chrome, follow these steps:</h3>';
+                                    // checking for mac OS
+                                    if (BrowserDetect.OS.indexOf('Mac') != -1) {
+                                        // if version is beetween 3 and 18
+                                        if (BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+                                            out_str += '<ul class="check_green_l_16"><li>Click the wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="margin-top:-5px;" align="absmiddle" /></li>';
+                                            out_str += '<li>Go to Preferences -> Basics.</li>';
+                                            out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
+                                            out_str += '<li>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in the "Open this page" text box.</li>';
+                                            out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
+                                            if (BrowserDetect.version <= 9) {
+                                                out_str += '<li>Close Preferences.</li>';
+                                            } else {
+                                                out_str += '<li>Close Preferences tab.</li>';
+                                            }
+                                        } else {
+                                            // for version greater than or equal to 19
+                                            if ((BrowserDetect.version >= 19) && (BrowserDetect.version < 23)) {
+                                                out_str += '<ul class="check_green_l_16"><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span>-> Settings</span>.</li>';
+                                            } else {
+                                                if (BrowserDetect.version >= 23) {
+                                                    out_str += '<ul class="check_green_l_16"><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="margin-top:-1px;"/> <span>-> Settings</span>.</li>';
+                                                }
+                                            }
+                                            out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+                                            out_str += '<li>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
+                                            out_str += '<li>Click OK.</li>';
+                                        }
+                                    } else {
+                                        //  check for windows OS
+                                        if (BrowserDetect.OS.indexOf('Window') != -1) {
+                                            // for version beetween 3 and 18
+                                            if (BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+                                                out_str += '<ul class="check_green_l_16"><li>Click the wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="margin-top:-5px;" align="absmiddle" /></li>';
+                                                out_str += '<li>Go to Options -> Basics</li>';
+                                                out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
+                                                out_str += '<li>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in the "Open this page" text box.</li>';
+                                                out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
+                                                if (BrowserDetect.version <= 9) {
+                                                    out_str += '<li>Click "Close".</li>';
+                                                } else {
+                                                    out_str += '<li>Close this settings tab.</li>';
+                                                }
+
+                                            } else {
+                                                // for version greater than 18
+                                                if ((BrowserDetect.version >= 19) && (BrowserDetect.version < 23)) {
+                                                    out_str += '<ul class="check_green_l_16"><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span>-> Settings</span>.</li>';
+                                                } else {
+                                                    if (BrowserDetect.version >= 23) {
+                                                        out_str += '<ul class="check_green_l_16"><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="margin-top:-1px;"/> <span>-> Settings</span>.</li>';} }
+                                                        out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+                                                        out_str += '<li>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
+                                                        out_str += '<li>Click OK.</li>';
+                                            }
+                                        } else {
+                                            // checking for Linux OS
+                                            if (BrowserDetect.version >= 3 && BrowserDetect.version <= 18) {
+                                                out_str += '<ul class="check_green_l_16"><li>Click the wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="margin-top:-5px;" align="absmiddle" /></li>';
+                                                if (BrowserDetect.version <= 9) {
+                                                    out_str += '<li>Go to Settings -> Basics.</li>';
+                                                } else {
+                                                    out_str += '<li>Go to Preferences -> Basics.</li>';
+                                                }
+                                                out_str += '<li>Select the option "Open this page" in the "Home page" section.</li>';
+                                                out_str += '<li>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in the "Open this page" text box.</li>';
+                                                out_str += '<li>To see your home page every time you start up Google Chrome, select "Open the home page" in the "On startup" section.</li>';
+                                                if (BrowserDetect.version <= 9) {
+                                                    out_str += '<li>Click "Close".</li>';
+                                                } else {
+                                                    out_str += '<li>Close Preferences tab.</li>';
+                                                }
+                                            } else {
+                                                if ((BrowserDetect.version >= 19) && (BrowserDetect.version < 23)) {
+                                                    out_str += '<ul class="check_green_l_16"><li>Go to the Wrench icon <img src=\'/graphics/chrome_toolsmenu.gif\' height="25" style="position:absolute;"/> <span>-> Settings</span>.</li>';
+                                                } else {
+                                                    if (BrowserDetect.version >= 23) {
+                                                        out_str += '<ul class="check_green_l_16"><li>Go to the settings icon <img src=\'/graphics/chrome_settingMenu.gif\' height="25" style="margin-top:-1px;"/> <span>-> Settings</span>.</li>';
+                                                    }
+                                                }
+                                                out_str += '<li>Click on "Set pages" in the "On startup" section.</li>';
+                                                out_str += '<li>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in the "Add a new page" text field.</li>';
+                                                out_str += '<li>Click OK.</li>';
+                                            }
+                                    }
+                                }
+                                            out_str += '</ul>'; 
+                                            
+                                        } else if ((agentname.toLowerCase().indexOf('seamonkey') != -1) && (BrowserDetect.OS.indexOf('Mac') != -1)) {
+                                            out_str += '<h3>Go to Preferences in the Mozilla menu of your Browser.<br> Then choose Category Navigator.<br>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in Homepage Location: field<BR>Click OK to Close.</h3>';
+                                            
+                                        } else if ((agentname.toLowerCase().indexOf('seamonkey') != -1) && (BrowserDetect.OS.indexOf('Linux') != -1)) {
+                                            out_str += '<h3>Go to Preferences in the Edit menu of your Browser.<br>Then choose Category Navigator.<br>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in Homepage Location: field<br>Click OK to Close</h3>';
+                                            
+                                    } else if (((agentname.toLowerCase().indexOf('opera') != -1) || (agentname.indexOf('OPR') != -1)) && (BrowserDetect.OS.indexOf('Mac') != -1)) { /* (for retina)To detect newer versions of opera having different useragent*/
+                                        out_str += '<h3>Go to Preferences in the Opera menu of your Browser.<br>Then choose General Tab.<br>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in Homepage Location: field<br>Click OK to Close the window</h3></font><br></body></html>';
+                                        
+                                    } else if ((((agentname.toLowerCase().indexOf('opera') != -1)  || (agentname.indexOf('OPR') != -1)) && (BrowserDetect.OS.indexOf('Linux') != -1)) || (((agentname.toLowerCase().indexOf('opera') != -1) || (agentname.indexOf('OPR') != -1)) && (BrowserDetect.OS.indexOf('Window') != -1))) { /* (for retina)To detect newer versions of opera having different useragent*/
+                                        out_str += '<h3><ul class="check_green_l_16"><li>Go to Preferences in the Tools menu of your Browser.</li><li>Then choose General Tab.</li><li>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in Homepage Location: field</li><li>Click OK to Close the window</li></ul></h3>';
+                                        
+                                    }
+                                    else if ((agentname.toLowerCase().indexOf('safari') != - 1)) {
+                                        out_str += '<h3><ul class="check_green_l_16"><li>Go to Preferences in the Safari menu of your Browser.</li><li>Then choose the General Tab.</li><li>Enter <!--HOME-->http://www.ixquick.com/eng/<!--/HOME--> in Home page field.</li><li>Close the window.</li></ul></h3>';
+                                        
+                                    } else {
+                                        out_str += 'Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME-->http://www.ixquick.com/eng/<!--/HOME-->';
+                                        
+                                    }
+                                    out_str = out_str.replace(/<!--HOME-->.*?<!--\/HOME-->/g, homepage_url);  out_str += '</font><br>'; //'</body></html>';  var s_b = BrowserDetect.browser.toLowerCase();
+                                                                var s = '#'+'popup_set_homepage_'+ BrowserDetect.browser.toLowerCase() +'_responsive';
+                                                                /*if($(s).length == 0){
+                                                                    s = '#'+'popup_set_homepage_nobrowser_responsive';
+                                                                   $('.sethometitle').css('display','none');
+                                                                }*/
+                                                                var s_html = $(s).html();
+                                                                if($(s).length != 0){
+                                                                 $('#makeHomePage_link').html(s_html);
+                                                                 $(s + ' .pop_container').css('display','block');
+                                                                }else{
+                                                                 $('#makeHomePage_link').html(out_str);
+                                                                }
+                                                                remove_os_specific_messages_for_vivaldi()
+ }
+        function remove_os_specific_messages_for_vivaldi() {
+            if (MY_BROWSER == 'Vivaldi') {
+                var is_mac = BrowserDetect.OS.indexOf('Mac');
+                if (is_mac != -1 ) {//2016-11-03 [Ankur] accommodating instructions for Mac (#44638)
+                    var div_vivaldi = '#'+'popup_set_homepage_'+ BrowserDetect.browser.toLowerCase() +'_responsive';
+                    $(div_vivaldi + ' .vivaldi_set_as_home_first').css('display','none');
+
+                } else {
+                    var div_vivaldi = '#'+'popup_set_homepage_'+ BrowserDetect.browser.toLowerCase() +'_responsive';
+                    $(div_vivaldi + ' .vivaldi_set_as_home_first_alt').css('display','none');
+                }
+            }
+        }
+    
+    </script>
+    </head>
+
+    <body class=" inner make-your-homepage"  onLoad="javascript:makeHomePage(this, '/eng/'); return false;">
+    
+    
+    <div id="wrapper" class=" sp spbyix ">
+    <div class="navbar navbar-default nav-effect" role="navigation" style="margin-bottom: 0">
+    <div class="navbar-header">
+    <a class="navbar-brand " tabindex="0" href="/eng/?" target="_top">
+    <img src="/graphics/no_tm_startpage_retina_results_page_logo_spbyix_eng.png?r=1" width="134" height="39" />
+    <img class="logo_sm" src="/graphics/no_tm_startpage_retina_query_form_logo_short.png" height='24px'>
+    </a>
+    
+    
+	<div id='results_header'>
+    
+<form action="/do/asearch" class="cpt_prgtr" autocomplete="off" method="POST" name="blah1" id="search_form" onSubmit="return verifyChecked(this);"  target="_top" >
+    <div id='search'>
+    <table cellspacing="0" cellpadding="0" border="0" class="search_container">
+    <tbody><tr>
+    <td id='input_p'><!--[if IE 7]><div style="position:relative; width:300px; height:0;"></div><![endif]-->
+    <div id='field_size' class='search-field'>
+    <div class="text-fields">
+    <div>
+    <span class="clear_search"></span>
+    <span class='no_text' style="display: none;">enter your search terms here</span>
+    <span class='no_text_small' style="display: none;">enter search</span>
+    <input type="hidden" value="english" name="language">
+    <input type="hidden" name="nj" id="nj" value="1" />
+    <input type='text' autocomplete='off' name='query' id='query_top' value="" queryterm="">
+    </div>
+    </div>
+    
+    <span class='small-go-btn' title='StartPage by Ixquick Web Search'><input type="submit" value="GO" id="submit1"></span>
+    
+    <div id="auto_suggest"></div>
+    </div>
+    </td>
+    
+    
+    
+    <td></td>
+    <td><noscript></noscript></td>
+    </tr>
+    <tr>
+    <script> 
+    if (typeof jQuery === 'function') {
+        jQuery('#search_form #nj').attr('value', '0');
+    }
+    
+    </script>
+        </tr>   
+    </tbody>
+    </table>
+    </div>
+</form>
+
+    
+</div>
+</div>
+</div>
+<!--a class="menu_anchor" href="/do/preferences?language=english&language_ui=english" tabindex="0"-->
+<div class="settings_cont inner-pages"><a href="/do/preferences?language=english&language_ui=english" class="menu_anchor"><span id="menu-icon-id">Settings</span></a><input type="checkbox" class="toggle-check" id="toggle-slider"><label id="menu-icon-id" for="toggle-slider">Settings</label><style> ul.slide-menu *:focus,a#menu-icon-id:focus{outline:none;} </style><div class="slide-wrapper" id="menu-id" unselectable="on"><ul class="slide-menu"><li><a id='privacy-link-mobile' href='/eng/protect-privacy.html?'>Privacy</a><ul class='slide-sub-menu'><li><a href='/eng/protect-privacy.html?'>How we protect you</a></li><li><a href='/eng/protect-privacy-qa.html?'>Q&A</a></li><li><a href='/eng/privacy-policy.html?'>Our privacy policy</a></li></ul></li><li><a id="slide-menu-pref-url" href="/do/preferences?language=english&language_ui=english&nj=0" class="single right-arrow no-sm-hashtag">Settings</a></li><li><a href="https://support.ixquick.com/index.php?/Knowledgebase/List" class="single right-arrow">Support</a></li><li class="list-box-opener"><a class="single open-box community">Community</a><input type="checkbox" class="toggle-check" id="toggle-community"><label class="toggle-label right-arrow" for="toggle-community">Community</label><div class="community-box toggle-content"
+                                              id="community_sub" style="white-space:nowrap;"><table class="slide-sub-menu" cellspacing="0" cellpadding="0"><tr><td><a href="https://www.facebook.com/startpagesearch">Facebook</a></td></tr><tr><td><a href="https://twitter.com/#!/ixquick">Twitter</a></td></tr><tr><td><a href='https://www.startpage.com/blog/'>Blog</a></td></tr></table></div></li><li class="list-box-opener"><a class="single open-box about">About Us</a>
+                                              <input type="checkbox" class="toggle-check" id="toggle-about">
+                                              <label class="toggle-label right-arrow" for="toggle-about">About Us</label>
+                                              <div class="aboutus-box toggle-content"
+                                              id="aboutus_sub" style="white-space:nowrap;"><table class="slide-sub-menu" cellspacing="0" cellpadding="0"><tr><td><a href='/eng/what-makes-ixquick-special.html?'>How we're different</a></td></tr><tr><td><a href='/eng/company-background.html?'>Our history</a></td></tr><tr><td><a href='/eng/company-management-bio.html?'>Our people</a></td></tr><tr><td><a href='/eng/company.html?'>Company</a></td></tr><tr><td><a href='https://www.startpage.com/blog/press/'>Press center</a></td></tr></table></div></li><li class="no-mobile"><a>Add StartPage</a><ul class="slide-sub-menu"><li><a href="/eng/download-ixquick-plugin.html?" id="my-browser-name">Add to Browser</a></li><li><a href="/eng/make-ixquick-your-homepage.html?">Homepage</a></li><li><a href="/eng/mobile-app-qa.html?">Mobile Device</a></li></ul></li><li class="list-box-opener"><a class="single open-box language">Language</a>
+                                    <input type="checkbox" class="toggle-check" id="toggle-language">
+                                    <label class="toggle-label right-arrow" for="toggle-language">Language</label>
+                                    <div class="language-box toggle-content" id="settings_lang_div">
+<table cellspacing='0' cellpadding='0' border='0' width='100%'>
+<tr>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('dansk', 'dan', 'ixquick.com'); return retina_set_language('dansk', 'dan','ixquick.com', this);" href='/dan/make-ixquick-your-homepage.html?'>Dansk</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('deutsch', 'deu', 'ixquick.com'); return retina_set_language('deutsch', 'deu','ixquick.com', this);" href='/deu/make-ixquick-your-homepage.html?'>Deutsch</a></td>
+</tr>
+<tr>
+<td><a class='active '>English</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('english_uk', 'uk', 'ixquick.com'); return retina_set_language('english_uk', 'uk','ixquick.com', this);" href='/uk/make-ixquick-your-homepage.html?'>English UK</a></td>
+</tr>
+<tr>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('espanol', 'esp', 'ixquick.com'); return retina_set_language('espanol', 'esp','ixquick.com', this);" href='/esp/make-ixquick-your-homepage.html?'>Espa&ntilde;ol</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('francais', 'fra', 'ixquick.com'); return retina_set_language('francais', 'fra','ixquick.com', this);" href='/fra/make-ixquick-your-homepage.html?'>Fran&ccedil;ais</a></td>
+</tr>
+<tr>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('italiano', 'ita', 'ixquick.com'); return retina_set_language('italiano', 'ita','ixquick.com', this);" href='/ita/make-ixquick-your-homepage.html?'>Italiano</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('nederlands', 'ned', 'ixquick.com'); return retina_set_language('nederlands', 'ned','ixquick.com', this);" href='/ned/make-ixquick-your-homepage.html?'>Nederlands</a></td>
+</tr>
+<tr>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('norsk', 'nor', 'ixquick.com'); return retina_set_language('norsk', 'nor','ixquick.com', this);" href='/nor/make-ixquick-your-homepage.html?'>Norsk</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('polski', 'pol', 'ixquick.com'); return retina_set_language('polski', 'pol','ixquick.com', this);" href='/pol/make-ixquick-your-homepage.html?'>Polski</a></td>
+</tr>
+<tr>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('portugues', 'por', 'ixquick.com'); return retina_set_language('portugues', 'por','ixquick.com', this);" href='/por/make-ixquick-your-homepage.html?'>Portugu&ecirc;s</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('suomi', 'suo', 'ixquick.com'); return retina_set_language('suomi', 'suo','ixquick.com', this);" href='/suo/make-ixquick-your-homepage.html?'>Suomi</a></td>
+</tr>
+<tr>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('svenska', 'sve', 'ixquick.com'); return retina_set_language('svenska', 'sve','ixquick.com', this);" href='/sve/make-ixquick-your-homepage.html?'>Svenska</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('turkce', 'tur', 'ixquick.com'); return retina_set_language('turkce', 'tur','ixquick.com', this);" href='/tur/make-ixquick-your-homepage.html?'>T&uuml;rk&ccedil;e</a></td>
+</tr>
+<tr>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('jiantizhongwen', 'jia', 'ixquick.com'); return retina_set_language('jiantizhongwen', 'jia','ixquick.com', this);" href='/jia/make-ixquick-your-homepage.html?'>&#20013;&#25991;</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('nihongo', 'nih', 'ixquick.com'); return retina_set_language('nihongo', 'nih','ixquick.com', this);" href='/nih/make-ixquick-your-homepage.html?'>&#26085;&#26412;&#35486;</a></td>
+</tr>
+<tr>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('fantizhengwen', 'fan', 'ixquick.com'); return retina_set_language('fantizhengwen', 'fan','ixquick.com', this);" href='/fan/make-ixquick-your-homepage.html?'>&#32321;&#39636;&#20013;&#25991;</a></td>
+<td><a class=" addsettings " onclick="prepareCookieUpdateParams('hangul', 'han', 'ixquick.com'); return retina_set_language('hangul', 'han','ixquick.com', this);" href='/han/make-ixquick-your-homepage.html?'>&#54620;&#44544;</a></td>
+</tr>
+</table>
+
+</div></li><li><a href="/eng/spread-the-word.html?" class="single right-arrow">Share</a></li><li class="list-box-opener"><a class="single open-box theme">Theme</a>
+                                        <input type="checkbox" class="toggle-check" id="toggle-theme">
+                                        <label class="toggle-label right-arrow" for="toggle-theme">Theme</label>
+                                        <div class="theme-box settings_themes toggle-content" id="settings_themes" style="white-space:nowrap;"><table class="slide-sub-menu" cellspacing="0" cellpadding="0"><tr ><td><a  data-theme='theme-air-new' class='theme-air-new active ' onClick="change_theme('air', 'ixquick.com');updateThemeClass('air-theme');updateDesignType(1, 'ixquick.com')" name='air-new'>Air</a></td></tr><tr ><td><a  data-theme='theme-night-new' class='theme-night-new  ' onClick="change_theme('night', 'ixquick.com');updateThemeClass('air-theme');updateDesignType(1, 'ixquick.com')" name='night-new'>Night</a></td></tr><tr ><td><a  data-theme='theme-white-new' class='theme-white-new  ' onClick="change_theme('white', 'ixquick.com');updateThemeClass('air-theme');updateDesignType(1, 'ixquick.com')" name='white-new'>White</a></td></tr><tr ><td><a  data-theme='theme-black-new' class='theme-black-new  ' onClick="change_theme('black', 'ixquick.com');updateThemeClass('air-theme');updateDesignType(1, 'ixquick.com')" name='black-new'>Black</a></td></tr><tr ><td><a  data-theme='theme-classic-new' class='theme-classic-new  ' onClick="change_theme('black', 'ixquick.com');updateThemeClass('air-theme');updateDesignType(1, 'ixquick.com')" name='classic-new'></a></td></tr></table></div></li></ul></div></div>
+
+<script type="text/javascript">
+    if (typeof jQuery === 'function') {
+        jQuery( document ).ready(function(){    
+            if (typeof getAutoqueryService === 'function') {
+                getAutoqueryService('/do', 'english', 'query_top', 'jquery.autocomplete.js', '', 'auto_suggest');
+            }
+            jQuery('#auto_suggest').css('margin-right',jQuery('#search_form input:submit').outerWidth()+'px');
+        });
+    }
+</script>
+
+
+    <div id="wrapper-inner" class="">
+    <div class="row">
+      <div class="col-lg-12">
+        <div id='inner_content'>
+          <table border="0" cellspacing="0" cellpadding="0" width="100%" class="bodyContent">
+            <tr>
+              <td class="left_column_td" nowrap="nowrap" valign="top">
+                <!--td class="left_column_td" nowrap="nowrap" style="padding-left:30px;"-->
+                <div class="leftContent" style="">
+    <div class="sidebar">
+<div class="accordionButton "><a href="javascript:void(0);" onclick="return false;"><span>PRIVACY</span></a></div><div class="accordionContent"><ul><li id='how_we_protect_you'><a href="/eng/protect-privacy.html" >How we protect you</a></li><li id='q_and_a'><a href="/eng/protect-privacy-qa.html" >Q&A</a></li><li id='our_privacy_policy'><a href="/eng/privacy-policy.html" >Our privacy policy</a></li></ul></div><script> $('#sidebar_browser_name').html(MY_BROWSER);</script><script>$('.sidebar .accordionContent').css('display', function(){ if($(this).find('li.selected').length){ return 'block'; } return 'none';})</script><li><a style="color: #0952A1 !important; cursor:pointer; text-decoration:none;clear: both; padding-top:4px!important;padding-bottom: 4px!important;padding-left:9px!important;" href="/do/preferences?language_ui=english">SETTINGS</a></li><li><a style="color: #0952A1 !important; cursor:pointer; text-decoration:none;clear: both; padding-top:4px!important;padding-bottom: 4px!important;padding-left:9px!important;" href="https://support.startpage.com/index.php?/Knowledgebase/List">SUPPORT</a></li><div class="accordionButton "><a href="javascript:void(0);" onclick="return false;"><span>COMMUNITY</span></a></div><div class="accordionContent"><ul><li id='facebook'><a href="https://www.facebook.com/startpagesearch" >Facebook</a></li><li id='twitter'><a href="https://twitter.com/#!/ixquick" >Twitter</a></li><li id='community_blog'><a href="https://www.startpage.com/blog/" >Blog</a></li></ul></div><script> $('#sidebar_browser_name').html(MY_BROWSER);</script><script>$('.sidebar .accordionContent').css('display', function(){ if($(this).find('li.selected').length){ return 'block'; } return 'none';})</script><div class="accordionButton "><a href="javascript:void(0);" onclick="return false;"><span>ABOUT</span></a></div><div class="accordionContent"><ul><li id='how_we_are_different'><a href="/eng/what-makes-ixquick-special.html" >How we're different</a></li><li id='our_history'><a href="/eng/company-background.html" >Our history</a></li><li id='our_people'><a href="/eng/company-management-bio.html" >Our people</a></li><li id='about_text_sidebar_company'><a href="/eng/company.html" >Company</a></li><li id='press_center'><a href="https://www.startpage.com/blog/press/" >Press center</a></li></ul></div><script> $('#sidebar_browser_name').html(MY_BROWSER);</script><script>$('.sidebar .accordionContent').css('display', function(){ if($(this).find('li.selected').length){ return 'block'; } return 'none';})</script><div class="accordionButton no-mobile"><a href="javascript:void(0);" onclick="return false;"><span>ADD STARTPAGE</span></a></div><div class="accordionContent" style="display: block;" ><ul><li id='add_to_browser_new'><a href="/eng/download-ixquick-plugin.html" id="sidebar_browser_name">Add to Browser</a></li><li class="selected"><a  href="/eng/make-ixquick-your-homepage.html">Homepage</a><span class="menubg_right"></span></li><li id='settings_mobile_device'><a href="/eng/mobile-app-qa.html" >Mobile Device</a></li></ul></div><script> $('#sidebar_browser_name').html(MY_BROWSER);</script><script>$('.sidebar .accordionContent').css('display', function(){ if($(this).find('li.selected').length){ return 'block'; } return 'none';})</script><li><a style="color: #0952A1 !important; cursor:pointer; text-decoration:none;clear: both; padding-top:4px!important;padding-bottom: 4px!important;padding-left:9px!important;" href="/eng/spread-the-word.html">SHARE</a></li></div><br><br><br><br><br><br><script>if($('html').hasClass('is-mobile-device')){ $('#settings_mobile_device, #settings_toolbar').hide(); }</script> 
+    </div></div></td>
+    <td>
+    <div class="rightContent" id="content">
+    <h1>Make homepage</h1><h3 class="cont pad_t30 sethometitle">Start every Web-browsing session off right with the wholesome goodness of Ixquick Metasearch.<br><br><h3 class="cont" id='makeHomePage_link'></h3><h3 id='add_steps'></h3></div></div><div id="popup_set_homepage_chrome_responsive" class="holder">
+    					<div class="opener"></div>
+    					<div class="pop_container" style="display: none;">
+    						<div class="popup retina bordered popup_width">
+    							<div class="cross_icon">
+    								<p class="closer">
+    									<a href="javascript:void(0);"></a>
+    								</p>
+    							</div><div>
+<div class="popup_box"> 
+<span class="head_homepage_popup">Set StartPage by Ixquick As Your Home Page</span><div class="chrome_setashome_popup_step steps first"><span class="num_install_popup">1</span><label> Click on Chrome's menu: <span class="chrome_install_popup_img"><img id="chrome_settingMenu" align="absmiddle" src='/graphics/chrome_settingMenu_expand.png'/><img id="loadimg_chrome_settingMenu" style="display:none;" src='/graphics/chrome_settingMenu_expand_above_v53.png'/></span></label></div><div class="chrome_setashome_popup_step steps second"><span class="num_install_popup">2</span><label> Choose <b>Settings</b>.</label></div><div class="chrome_setashome_popup_step steps"><span class="num_install_popup">3</span><label> Under <b>On startup</b>, choose <b>Open a specific page or set of pages</b>, and click on  <b>Set pages</b>.</label></div><div class="chrome_setashome_popup_step steps"><span class="num_install_popup">4</span><label> Enter <b><!--HOME-->https://www.ixquick.com</b>, then <b>OK</b>.</label></div></div></div>
+</div>
+    					</div>
+    				</div><div id="popup_set_homepage_firefox_responsive" class="holder">
+    					<div class="opener"></div>
+    					<div class="pop_container" style="display: none;">
+    						<div class="popup retina bordered popup_width">
+    							<div class="cross_icon">
+    								<p class="closer">
+    									<a href="javascript:void(0);"></a>
+    								</p>
+    							</div><div>
+<div class="popup_box"> 
+<span class="head_homepage_popup">Set StartPage by Ixquick As Your Home Page</span><div class="firefox_setashome_popup_step steps first"><span class="num_install_popup">1</span><label> Drag with your mouse our logo below to the Homepage icon on the top-right corner of your browser. <span class="firefox_install_popup_img newer"><a href ='/eng/'> <img align="absmiddle" src='/graphics/firefox_sethome_spbyix.png'/> </a> <img src='/graphics/firefox_arrow.png'/></span></label></div><div class="firefox_setashome_popup_step steps"><span class="num_install_popup">2</span><label> Press "Yes" in the pop-up.</label></div></div></div>
+</div>
+    					</div>
+    				</div><div id="popup_set_homepage_ie_responsive" class="holder">
+    					<div class="opener"></div>
+    					<div class="pop_container" style="display: none;">
+    						<div class="popup retina bordered popup_width">
+    							<div class="cross_icon">
+    								<p class="closer">
+    									<a href="javascript:void(0);"></a>
+    								</p>
+    							</div><div><div class="popup_box"> 
+<span class="head_homepage_popup">Set StartPage by Ixquick As Your Home Page</span><div class="ie_setashome_popup_step steps"><span class="num_install_popup">1</span><label> Click the down arrow to the right of the Home icon, just under the URL bar on the left.</label></div><div class="ie_setashome_popup_step steps"><span class="num_install_popup">2</span><label> In the popup, choose <b>Add</b> <b>or change home page...</b> </label><span class="ie_install_popup_img ie_img_setashome"><img align="absmiddle" src='/graphics/ie_homepageSetting_ix.png?r=1'/></span></div><div class="ie_setashome_popup_step steps"><span class="num_install_popup">3</span><label> Choose <b>Use this webpage as your only home page</b> (or another option), and click <b>Yes</b>.</label></div></div></div>
+</div>
+    					</div>
+    				</div><div id="popup_set_homepage_safari_responsive" class="holder">
+    					<div class="opener"></div>
+    					<div class="pop_container" style="display: none;">
+    						<div class="popup retina bordered popup_width">
+    							<div class="cross_icon">
+    								<p class="closer">
+    									<a href="javascript:void(0);"></a>
+    								</p>
+    							</div><div><div class="popup_box"> 
+<span class="head_homepage_popup">Set StartPage by Ixquick As Your Home Page</span><div class="safari_setashome_popup_step steps"><span class="num_install_popup">1</span><label> In the <b>Safari</b> menu, choose <b>Preferences...</b></label></div><div class="safari_setashome_popup_step steps"><span class="num_install_popup">2</span><label> Choose <b>General</b> at the top left of the popup.</label></div><div class="safari_setashome_popup_step steps"><span class="num_install_popup">3</span><label> Just under <b>Homepage:</b>, Enter <b><!--HOME-->https://www.ixquick.com</b>: <span class="safari_install_popup_img"><img align="absmiddle" src='/graphics/safari_homepageSetting_ix.png?r=1'/></span></label></div></div></div>
+</div>
+    					</div>
+    				</div><div id="popup_set_homepage_edge_responsive" class="holder">
+    					<div class="opener"></div>
+    					<div class="pop_container" style="display: none;">
+    						<div class="popup retina bordered popup_width">
+    							<div class="cross_icon">
+    								<p class="closer">
+    									<a href="javascript:void(0);"></a>
+    								</p>
+    							</div><div><div class="popup_box"> 
+<span class="head_homepage_popup">Set StartPage by Ixquick As Your Home Page</span><div class="edge_setashome_popup_step steps"><span class="num_install_popup">1</span><label> Click the three-dot icon in the top right:<span class="edge_install_popup_img"><img align="absmiddle" src='/graphics/edge_settingMenu.png'/></span></label></div><div class="edge_setashome_popup_step steps"><span class="num_install_popup">2</span><label> Choose <b>Settings</b>.</label></div><div class="edge_setashome_popup_step steps"><span class="num_install_popup">3</span><label> Under <b>Open with</b>, choose <b>A specific page or pages</b>.</label></div><div class="edge_setashome_popup_step steps"><span class="num_install_popup">4</span><label> Choose <b>Custom</b>, enter www.ixquick.com, and click the <b>+</b> button to the right.</label></div></div></div>
+</div>
+    					</div>
+    				</div><div id="popup_set_homepage_nobrowser_responsive" class="holder">
+    					<div class="opener"></div>
+    					<div class="pop_container" style="display: none;">
+    						<div class="popup retina bordered popup_width">
+    							<div class="cross_icon">
+    								<p class="closer">
+    									<a href="javascript:void(0);"></a>
+    								</p>
+    							</div><div><div class="popup_box"> 
+<span class="head_homepage_popup">Set StartPage by Ixquick As Your Home Page</span>Sorry, the home page for this browser cannot be configured automatically. But you can almost certainly configure it manually. If you do that, then the URL to put in at the home page setting is <!--HOME--><!--/HOME--></div></div></div>
+</div>
+    					</div>
+    				</div><div id="popup_set_homepage_opera_responsive" class="holder">
+    					<div class="opener"></div>
+    					<div class="pop_container" style="display: none;">
+    						<div class="popup retina bordered popup_width">
+    							<div class="cross_icon">
+    								<p class="closer">
+    									<a href="javascript:void(0);"></a>
+    								</p>
+    							</div><div><div class="popup_box"> 
+<span class="head_homepage_popup">Set StartPage by Ixquick As Your Home Page</span><div class="opera_setashome_popup_step steps"><span class="num_install_popup">1</span><label> Open <b>Preferences/Settings</b>.</label></div><div class="opera_setashome_popup_step steps"><span class="num_install_popup">2</span><label> Within <b>Basic</b>, under <b>On startup</b>, choose <b>Open a specific page or set of pages</b>.</label></div><div class="opera_setashome_popup_step steps"><span class="num_install_popup">3</span><label> Next to that, click <b>Set pages</b> and enter <b><!--HOME-->https://www.ixquick.com/eng/</b></label></div><div class="opera_setashome_popup_step steps"><span class="num_install_popup">4</span><label> Click <b>OK</b>.</label></div></div></div>
+</div>
+    					</div>
+    				</div><div id="popup_set_homepage_vivaldi_responsive" class="holder">
+    					<div class="opener"></div>
+    					<div class="pop_container" style="display: none;">
+    						<div class="popup retina bordered popup_width">
+    							<div class="cross_icon">
+    								<p class="closer">
+    									<a href="javascript:void(0);"></a>
+    								</p>
+    							</div><div>
+<div class="popup_box"> 
+<span class="head_homepage_popup">Set StartPage by Ixquick As Your Home Page</span><div class="vivaldi_setashome_popup_step steps vivaldi_set_as_home_first"><span class="num_install_popup">1</span><label> In the menu, click on Vivaldi &#62; Settings. </label></div><div class="vivaldi_setashome_popup_step steps vivaldi_set_as_home_first_alt"><span class="num_install_popup">1</span><label> In the menu, click on Vivaldi &#62; Preferences. </label></div><div class="vivaldi_setashome_popup_step steps second"><span class="num_install_popup">2</span><label> Click on the section &#39;Startup&#39;. </label></div><div class="vivaldi_setashome_popup_step steps third"><span class="num_install_popup">3</span><label> Under Homepage, insert: <!--HOME-->http://www.startpage.com</label></div><div class="vivaldi_setashome_popup_step steps fourth"><span class="num_install_popup">4</span><label> Click on &#39;Save&#39;. </label></div><div class="vivaldi_setashome_popup_step steps fifth"><span class="num_install_popup">5</span><label> Under &#39;Startup with&#39;, click on the &#39;Homepage&#39; radio button. </label></div></div></div>
+</div>
+    					</div>
+    				</div> <script type="text/javascript">
+    				jQuery('[id^="popup_set_homepage_"]').contentPopup({
+                    mode: 'click',
+                    popup: '.pop_container',
+                    btnOpen: '.opener',
+                    btnClose: '.closer',
+                    hideOnClickOutside: true
+                }).on('aftercontentpopupshow',function(){load_tracker(10.1222)});
+            </script><script>
+	var os = (BrowserDetect && BrowserDetect.OS ? BrowserDetect.OS.toLowerCase() : '');
+	(function($){
+		$('.multiple_texts').each(function(index, value) {
+			var match=false;
+			$(this).find('.steps').hide();
+			$(this).find('.steps').each(function(idx, val) {
+				if(os.indexOf($(this).attr('data-os')) > -1) {
+					$(this).show();
+					match=true;
+				}
+			});
+			if(!match) {
+			$(this).find('.steps[data-os="general"]').show();
+			}
+		});
+	})(jQuery);
+	</script>
+	<script>
+        if (BrowserDetect.browser.toLowerCase().indexOf('chrome') != -1){
+            if (BrowserDetect.version >= 53 && document.getElementById('chrome_settingMenu') !== undefined){
+                document.getElementById('chrome_settingMenu').src=document.getElementById('loadimg_chrome_settingMenu').src;
+            }
+        }
+    </script>
+    
+    </div></div>
+    <div class="clear"></div>
+    </td>
+    </tr>
+</tbody>
+</table>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="push"></div>
+    </div>
+    
+	<div class="footer" id="footer">
+ 	<div class="copyright">
+  	&copy; 2017 StartPage
+ 	</div>
+		
+ 	<div class="right_links"><a id="startmail" href="https://www.startmail.com/" style="text-decoration: none;">
+    <!--<span class="icon icon-small"><span class="icon-mail"></span></span>&nbsp;-->
+  	<span style="text-decoration: underline;">StartMail</span></a>
+  	<a id="privacy_policy" href="/eng/privacy-policy.html?">Privacy Policy</a>
+ 	</div>
+    <div class='imgavt'> </div>
+    </div>
+    <script type='text/javascript'>
+        function load_img (img_url) {
+            if (document.images) {
+                img_url += '&/filename.gif';
+                var i_ob = new Image(); 
+                i_ob.src = img_url;}; 
+                return true;
+        }   function smt(val) {
+       load_img('/do/smt?p='+val);
+   }
+   jQuery(document).ready( function() {
+       var url = window.location.href; 
+       if(url.match(/\?/)) 
+           url = url.replace(/#hmb/,'&hmb=1'); 
+       else 
+           url = url.replace(/#hmb/,'?hmb=1'); 
+       smt(encodeURIComponent(url));
+   });
+</script>
+    <script type="text/javascript" charset="utf-8"> $(function() { $('body').hide().show(); });</script>
+    <script type="text/javascript" charset="utf-8">
+        jQuery(document).ready(function() {
+            var tooltipsLinks = jQuery('[data-popup^="popup_"]');
+            jQuery(tooltipsLinks).each(function(index,value){
+                var id = jQuery(this).attr('data-popup');
+                //initialize popup
+                jQuery('#' + id).contentPopup({
+                    mode: 'click',
+                    popup: '.pop_container',
+                    btnOpen: '.opener',
+                    btnClose: '.closer',
+                    hideOnClickOutside: true
+                }); 
+                //
+                jQuery(this).on('click', function(e){
+                    var id = jQuery(this).attr('data-popup');
+                    if(is_touch_device() || viewport().width <= 768) { 
+                        jQuery('#' + id).find('.opener').trigger('click');
+                    }
+                });
+            });
+            if(jQuery('html').hasClass('is-not-touch-device')){
+                jQuery(window).resize(function(){
+                    if(viewport().width > 768) {
+                        if(!jQuery('div').hasClass("wide_window_popup")){
+                         jQuery('.popup-active .closer').trigger('click');
+                       }
+                    }
+                });
+            }
+            function is_touch_device() {
+                return (('ontouchstart' in window) || (navigator.MaxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0));
+            }
+        });
+    </script>
+    </body>
+    </html>

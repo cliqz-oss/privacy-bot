@@ -1,0 +1,301 @@
+  * Zur Navigation springen (Enter Drücken)
+  * Zum Hauptinhalt springen (Enter Drücken)
+
+Unsere Inhalte
+
+Suche Suchen  Kontakt
+
+Anmeldung Online-Banking
+
+Anmeldung Online-Banking
+
+  * Login Konto / Depot
+  * Firmenkunden (Freigabe notwendig)
+  *   * 23.05.2017 - Neuerungen im Online-Banking
+  *   * Demoanwendungen
+  * Wichtige Sicherheitshinweise
+  * FAQ: Antworten auf Ihre Fragen
+  * Zugangsdaten beantragen
+
+    Berliner Volksbank eG
+    E-Mail: service@berliner-volksbank.de
+    Telefon Privatkunden: 030 3063-3300
+    Telefon Firmenkunden: 030 3063-3355
+    
+
+## Menü
+
+  * Privatkunden
+  * Firmenkunden
+  * Mitglieder
+  * Wir für Sie
+  * Banking
+
+# Datenschutz
+
+Die Berliner Volksbank eG ist sich der Bedeutung über den Umgang mit
+personenbezogenen Daten bewusst und ist bemüht, Ihre Kunden und die
+Interessenten (Nutzer) angemessen über den Umgang mit den von ihnen erhobenen
+Daten und über deren Rechte zu informieren. Die vorliegende Erklärung soll
+hierzu Transparenz schaffen, indem häufig auftretende Fragen behandelt werden.
+
+### Welche Daten werden gespeichert und genutzt?
+
+Personenbezogene Daten des Nutzers (Bestandsdaten und Nutzungsdaten) werden
+von uns nur insoweit erhoben und genutzt, als dies zur Begründung, Erfüllung
+und Abwicklung der angebotenen bzw. der vertraglich vereinbarten Leistungen
+erforderlich ist. Ferner erfassen wir alle Zugriffe auf unserer Website, wobei
+es zur Speicherung Ihrer IP-Adresse kommt. Näheres lesen Sie bitte unten beim
+Thema "Cookies".
+
+### Wie werden diese Daten genutzt?
+
+Bei der Nutzung einiger Webseiten, z. B. bei einer Registrierung, Bestellung,
+beim Abruf von Informationsangeboten oder wenn Sie Kontakt zu uns per E-Mail
+aufnehmen, werden Sie aufgefordert, uns bestimmte persönliche Daten (wie Name,
+Geburtsdatum, Post- oder E-Mail-Anschrift, Telefonnummer etc.) durch Eingabe
+in diese Webseiten zu übermitteln. Es steht Ihnen selbstverständlich frei, uns
+diese Informationen nicht zu geben. Allerdings sind wir dann nicht in der
+Lage, Ihnen die gewünschten Informationen, Dienstleistungen oder Produkte zur
+Verfügung zu stellen.
+
+Im übrigen wird die Berliner Volksbank eG die ihr überlassenen
+personenbezogenen Daten ausschließlich zu dem jeweils bei der Datenerhebung
+angegebenen Zweck verarbeiten und nutzen. Nach Zweckerreichung werden die
+Daten gelöscht, wenn nicht eine dem entgegenstehende gesetzliche
+Aufbewahrungspflicht vorliegt.
+
+Des Weiteren sind Informations-Applikationen (z. B. Finanzierungsrechner,
+Börseninformationen) eingebunden. Die Applikationen werden auf den Servern der
+Partner gehostet. Personenbezogene Daten werden nur insoweit erhoben,
+verarbeitet, gespeichert und genutzt, als dies zur Durchführung der
+angebotenen Dienstleistungen erforderlich ist. Bitte beachten Sie, dass die
+Nutzung dieser Applikationen den dort hinterlegten Datenschutzbestimmungen
+unterliegt.
+
+Im Rahmen des Online-Bankings haben Sie die Möglichkeit, Überweisungen
+durchzuführen. Die in der Überweisung enthaltenen Daten (Überweisungsdaten)
+übermittelt die Bank unmittelbar oder unter Beteiligung zwischengeschalteter
+Stellen an den Zahlungsdienstleister des Zahlungsempfängers. Der
+Zahlungsdienstleister des Zahlungsempfängers kann dem Zahlungsempfänger die
+Überweisungsdaten, zu denen auch die Internationale Bankkontonummer (IBAN)
+gehört, ganz oder teilweise zur Verfügung stellen. Bei grenzüberschreitenden
+Überweisungen und bei Eilüberweisungen im Inland können die Überweisungsdaten
+über das Nachrichtenübermittlungssystem Society for Worldwide Interbank
+Financial Telecommunication (SWIFT) mit Sitz in Belgien an den
+Zahlungsdienstleister des Zahlungsempfängers weitergeleitet werden. Aus
+Gründen der Systemsicherheit speichert SWIFT die Überweisungsdaten
+vorübergehend in seinen Rechenzentren in der Europäischen Union, in der
+Schweiz und in den USA.
+
+### Werden die Daten Dritten zur Verfügung gestellt?
+
+Alle Informationen, die Sie uns durch Eingabe auf diesen Webseiten zur
+Verfügung stellen, werden auf einem Server gespeichert, der sich innerhalb der
+Europäischen Union ('EU') befindet. Die uns zur Verfügung gestellten
+personenbezogenen Daten werden ohne Ihre Einwilligung, die durch eine
+bewusste, eindeutige Handlung zu erteilen wäre, grundsätzlich nicht an Dritte
+(natürliche oder juristische Personen) weitergegeben.
+
+Eine erteilte Einwilligung zur Erhebung, Verarbeitung und Nutzung Ihrer
+personenbezogenen Daten kann von Ihnen jederzeit mit Wirkung für die Zukunft
+widerrufen werden. Der Widerruf kann schriftlich oder auf einem anderen
+Kommunikationsweg erfolgen. Eine Datenweitergabe an Dritte kann sich
+allerdings aufgrund zwingender gesetzlicher Vorschriften ergeben.
+
+### Auskunft über gespeicherte Daten
+
+Auf Wunsch erhalten Sie unentgeltlich Auskunft über alle personenbezogenen
+Daten, die wir über Sie gespeichert haben. Auf ausdrücklichen Wunsch erteilen
+wir die Auskunft auch elektronisch. Sie haben selbstverständlich die
+Möglichkeit, etwaige Fehler berichtigen, zeitlich überholte Informationen auf
+den neuesten Stand bringen oder die gespeicherten Daten löschen zu lassen.
+Einem Wunsch auf Datenlöschung können wir allerdings nur insoweit entsprechen
+als uns nicht gesetzliche Aufbewahrungspflichten daran hindern.
+
+### Thema "Cookies"
+
+Zur optimalen Darstellung unseres Webseitenangebots setzen wir "Cookies"
+(engl. Keks, Plätzchen) im Zusammenspiel mit Ihrem Webbrowser ein. Ein
+"Cookie" ist eine kleine Textdatei, die von unserem Webserver auf der
+Festplatte Ihres Computers gespeichert wird. Cookies werden als Teil der
+Webtechnologie eingesetzt und fügen Ihrem Computersystem keinen Schaden zu.
+Durch die Konfiguration Ihres Browsers können Sie selbst bestimmen, ob und
+ggf. in welcher Weise Sie den Einsatz von Cookies auf Ihrem Computer zulassen.
+Sollten Sie sich dazu entscheiden, Cookies nicht zuzulassen oder zu löschen,
+kann dies zur Folge haben, dass Ihnen einige Funktionen auf unseren Webseiten
+nicht bzw. nicht im gewohnten Umfang zur Verfügung stehen.
+
+Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren.
+Wir verwenden Cookies für verschiedene Zwecke, z. B. um festzustellen, ob Sie
+unsere Webseiten bereits zu einem früheren Zeitpunkt besucht haben, aber auch
+um Ihnen die weitere Nutzung unserer Webseiten (z. B. durch Speicherung Ihrer
+Nutzungs- und Einstellungspräferenz von Applikationen- oder
+Informationsangeboten) zu erleichtern. Obwohl Cookies den von Ihnen benutzten
+Computer identifizieren, werden von Cookies keine personenbezogenen Daten
+gespeichert. Wir setzen auch keine Technologie ein, die durch Cookies
+anfallende Informationen mit Ihren persönlichen Nutzerdaten verbinden, um so
+Ihre Identität oder E-Mail-Anschrift festzustellen.
+
+### Zusätzlicher Hinweis:
+
+Auf dieser Website werden durch Technologien der etracker GmbH
+(www.etracker.de) Daten in anonymisierter Form zu Marketing- und
+Optimierungszwecken gesammelt und gespeichert. Aus diesen Daten werden unter
+einem Pseudonym Nutzungsprofile erstellt. Hierzu können Cookies eingesetzt
+werden, die allerdings Daten ausschließlich in pseudonymer Form sammeln und
+speichern. Die Daten werden nicht dazu benutzt, den Besucher dieser Website
+persönlich zu identifizieren und werden nicht mit Daten über den Träger des
+Pseudonyms zusammengeführt.
+
+Zusätzlich verwendet unser Internetauftritt den Webanalysedienst Piwik.
+Aufgrund der Auswertungen ist es uns möglich, den Internetauftritt so optimal
+und nutzerfreundlich wie möglich zu gestalten. Der Dienst verwendet Cookies,
+die eine Analyse der Benutzung der Webseite ermöglichen. Die durch den Cookie
+erzeugten Informationen über Ihre Benutzung dieses Internetangebotes werden
+auf einem Server innerhalb der EU gespeichert. Die IP-Adressen werden dabei
+vor deren Speicherung anonymisiert und lassen daher keinen Rückschluss mehr
+auf den einzelnen Nutzer zu.
+
+Darüber hinaus erfolgt die Verarbeitung und Nutzung der Daten sowie der
+Betrieb des Webseitenanalysetools ausschließlich mit Hilfe von Systemen der
+Rechenzentralen der Volksbanken Raiffeisenbanken. Eine Datenweitergabe an
+Dritte erfolgt nicht.
+
+  * Der Datenerhebung mittels Piwik widersprechen
+  * Der Datenerhebung mittels e-Tracker widersprechen
+
+Manche Browser lassen bereits in der Grundeinstellung Cookies zu. Sollten Sie
+die nicht wünschen, können Sie diese Einstellung Ihres Browsers ändern. Wie
+dies erfolgt, entnehmen Sie bitte den Angaben des Herstellers Ihres Browsers.
+Sofern Sie sich gegen Cookies entscheiden, kann es vorkommen, dass Teile
+unseres Internetangebotes nicht genutzt werden können.
+
+Damit Ihre Daten nicht von Piwik ausgewertet werden, können Sie auch die Do-
+Not-Track-Einstellung in Ihrem Browser aktivieren und so das Schreiben der
+Statistikinformationen und die Weiterleitung an die Webserver der
+Rechenzentralen der Volksbanken Raiffeisenbanken verhindern. Wie Sie dies
+machen können, entnehmen Sie bitte den unten aufgeführten Angaben des
+jeweiligen Herstellers:
+
+  * Mozilla Firefox
+  * Internet Explorer
+  * Safari
+  * Google Chrome
+  * Opera
+
+Im Zusammenhang mit unseren Internetseiten nutzen wir ebenfalls das Online-
+Werbeprogramm „Google AdWords“ und im Rahmen dessen das von Google angebotene
+Conversion-Tracking. Ein Cookie für das Conversion-Tracking wird auf Ihrem
+Computer gespeichert, wenn Sie auf eine von uns im Google-Such- oder
+Werbenetzwerk geschaltete Anzeige klicken. Diese Cookies verlieren nach 30
+Tagen ihre Gültigkeit und dienen nicht der persönlichen Identifizierung. Wenn
+Sie bestimmte Seiten unserer Website besuchen solange das Cookie gültig ist,
+können sowohl wir als auch Google erkennen, dass Sie auf eine Anzeige geklickt
+haben und darüber zu dieser Seite weitergeleitet wurde. Jeder Google AdWords-
+Kunde erhält ein anderes Cookie. Cookies können somit nicht über die Websites
+von AdWords-Kunden nachverfolgt werden. Die mithilfe des Conversion-Cookies
+eingeholten Informationen dienen dazu, Conversion-Statistiken uns als AdWords-
+Kunde zu erstellen. Wir erfahren dabei die Gesamtanzahl der Nutzer, die auf
+unsere Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag
+versehenen Seite weitergeleitet wurden. Wir erhalten jedoch keine
+Informationen, mit denen Sie sich als Nutzer persönlich identifizieren lassen.
+Nutzer, die nicht am Tracking teilnehmen möchten, können das Cookie des Google
+Conversion-Trackings über ihren Internetbrowser unter "Nutzereinstellungen"
+deaktivieren. In diesem Falle werden Sie nicht in die Conversion-Tracking
+Statistiken aufgenommen. Nähere Informationen erhalten Sie auch in den Google
+Datenschutzbestimmungen, die über diesen Link aufrufbar sind.
+
+### Ihre Datenschutzrechte
+
+Wir möchten Ihnen (Nutzer, Kunde, Interessent) kurz zusammenfassend
+vorstellen, welche wichtigen Rechte Sie gegenüber der Berliner Volksbank eG
+als verantwortliche Stelle besitzen. Das Auskunfts- und Berichtigungsrecht
+haben wir Ihnen schon vorgestellt. Die Rechte lassen sich aus dem
+Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG) herleiten:
+
+  * Unterrichtung bei der direkten Datenerhebung bei Ihnen: über die Identität der verantwortlichen Stelle, über die Zweckbestimmung der Erhebung, Verarbeitung und Nutzung und über deren ggf. erfolgende Übermittlung an Dritte
+  * Benachrichtigung bei der erstmals - ohne Ihre Kenntnis - erfolgenden Speicherung Ihrer Daten: über die Identität der verantwortlichen Stelle, über deren Art und über die Zweckbestimmung der Erhebung, Verarbeitung und Nutzung
+  * Auskunft von der verantwortlichen Stelle: über die zu Ihrer Person gespeicherten Daten, über deren Herkunft und Empfänger oder Kategorien von Empfängern, an die Ihre Daten ggf. weitergegeben werden, und über den Zweck der Datenspeicherung. Als Regelfristen für die Löschung von Daten gelten die gesetzlichen Aufbewahrungsfristen. Eine Übermittlung von Daten an Drittstaaten erfolgt nicht
+  * Berichtigung: unrichtig gespeicherter Daten
+  * Sperrung: strittiger oder nicht mehr benötigter, aber aufbewahrungspflichtiger Daten
+  * Löschung: nicht mehr erforderlicher Daten, wenn diese keiner Aufbewahrungspflicht unterliegen
+  * Speziellen Widerspruch: gegen die Nutzung und Übermittlung Ihrer Daten zu Zwecken der Werbung, Markt- und Meinungsforschung
+  * Generellen Widerspruch: gegen Verarbeitung und Nutzung von zu Ihrer Person erhobenen Daten auf Grund entgegenstehender persönlicher Gegebenheiten
+  * Jederzeitigen Widerruf einer von Ihnen erteilten Einwilligung: zur Verarbeitung und Nutzung Ihrer Daten, die nicht auf Grund einer vorrangigen Gesetzesvorschrift oder unmittelbar zur Abwicklung eines bestehenden Vertragsverhältnisses erforderlich ist, Information bei unrechtmäßiger Kenntniserlangung: im Falle, dass ein Dritter durch eine unrechtmäßige Übermittlung oder auf sonstige Weise Kenntnis von gespeicherten Bestands- oder Nutzungsdaten des Nutzers erlangt und dadurch schwerwiegende Beeinträchtigungen drohen.
+
+Informationen über die Berliner Volksbank eG als verantwortliche Stelle
+entnehmen Sie bitte unserem Impressum. Wir behalten uns vor, die
+Datenschutzerklärung jederzeit auf die aktuelle Rechtslage anzupassen.
+Änderungen werden wir jeweils auf unserer Homepage bekannt machen.  
+  
+Bei weiteren Fragen schreiben Sie bitte an den Datenschutzbeauftragten der
+Berliner Volksbank, 10892 Berlin. Bitte nutzen Sie bei einem gewünschten
+E-Mail Kontakt die E-Mail Adresse der Berliner Volksbank eG (service@berliner-
+volksbank.de). Telefonisch ist der Datenschutzbeauftragte über das Service-
+Telefon 3063-3300 erreichbar.
+
+### Kontakt
+
+  * Kunden-Service 
+  * Mo - Fr: 08:00 - 20:00 Uhr
+  * Telefon 030 3063-3300 | Privatkunden @ 030 3063-3355 | Firmenkunden
+  * Schreiben Sie uns Schreiben Sie uns
+  * Rückruf Wir rufen Sie auch gern zurück
+  * Termin vereinbaren Vereinbaren Sie einen Termin
+
+Seitenanfang
+
+  * Impressum
+  * Datenschutz
+  * Nutzungsbedingungen
+  * Pflichtinformationen
+  * AGB / Sonderbedingungen / Konditionen
+
+  * Sitemap
+
+### Kontakt
+
+  * 030 3063-3300 Privatkunden
+  * 030 3063-3355 Firmenkunden
+  * Schreiben Sie uns eine E-Mail
+  * Wir rufen Sie gerne zurück
+  * Vereinbaren Sie einen Termin
+  * Standorte und Geldautomaten
+
+### Service
+
+  * Produktabschluss-Center
+  * Newsletter abonnieren
+  * Mobile Apps
+  * Karten &amp; Onlinezugang sperren
+  * Ihre Meinung ist uns wichtig
+  * Aktuelle Banknews
+
+### Suche
+
+Suche
+
+Suchen
+
+BLZ: 100 900 00  
+BIC: BEVODEBB
+
+### Social Media
+
+  *   *   *   *   *   *   *   * 
+
+Wir machen den Weg frei. Gemeinsam mit den Spezialisten der
+Genossenschaftlichen FinanzGruppe Volksbanken Raiffeisenbanken
+
+  *   *   *   *   *   *   *   *   *   * 
+
+Postanschrift:
+
+Berliner Volksbank eG  
+10892 Berlin
+
+Bleiben Sie auf dem Laufenden - jetzt anmelden!  
+
+www.berliner-volksbank.de/newsletter  
+

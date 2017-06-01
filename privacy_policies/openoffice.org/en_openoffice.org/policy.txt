@@ -1,0 +1,59 @@
+Language:  Asturianu (ast) CatalÃ (ca) ÄeÅ¡tina (cs) Dansk (da) Deutsch (de)
+English (en) EspaÃ±ol (es) Euskara (eu) Suomi (fi) FranÃ§ais (fr) GÃ idhlig
+(gd) Galego (gl) Italiano (it) LietuviÅ³ (lt) Magyar (hu) Nederlands (nl)
+Norsk (no) Polski (pl) PortuguÃªs [do Brasil] (pt-br) PortuguÃªs [Europeu]
+(pt) slovenÄina (sk) slovenÅ¡Äina (sl) Svenska (sv) TÃ¼rkÃ§e (tr) Tiáº¿ng
+Viá»t (vi) ÎÎ»Î»Î·Î½Î¹ÎºÎ¬ (el) Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸ ÐµÐ·Ð¸Ðº (bg) Ð
+ÑÑÑÐºÐ¸Ð¹ (ru) CÑÐ¿ÑÐºÐ¸ [ÑÐ¸ÑÐ¸Ð»Ð¸ÑÐ¾Ð¼] (sr) ×¢××¨××ª (he)
+à¤¹à¤¿à¤¨à¥à¤¦à¥ (hi) áá¶áá¶ááááá (km) à®¤à®®à®¿à®´à¯ (ta)
+à¸ à¸²à¸©à¸²à¹à¸à¸¢ (th) ç®ä½ä¸­æ (zh-cn) æ­£é«ä¸­æ (zh-tw) æ¥æ¬èª
+(ja) íêµ­ì´ (ko)
+
+  
+The Free and Open Productivity Suite
+
+Apache OpenOffice 4.1.3 released
+
+  * Product
+  * Download
+  * Support
+  * Blog
+  * Extend
+  * Develop
+  * Focus Areas
+  * Native Language
+
+home
+
+# Apache OpenOffice - Privacy
+
+Information about your use of this website is collected using server access
+logs and a tracking cookie. The collected information consists of the
+following:
+
+  1. The IP address from which you access the website;
+  2. The type of browser and operating system you use to access our site;
+  3. The date and time you access our site;
+  4. The pages you visit; and
+  5. The addresses of pages from where you followed a link to our site.
+
+Part of this information is gathered using a tracking cookie set by the Google
+Analytics service and handled by Google as described in their privacy policy .
+See your browser documentation for instructions on how to disable the cookie
+if you prefer not to share this data with Google.
+
+We use the gathered information to help us make our site more useful to
+visitors and to better understand how and when our site is used. We do not
+track or collect personally identifiable information or associate gathered
+data with any personally identifying information from other sources.
+
+By using this website, you consent to the collection of this data in the
+manner and for the purpose described above.
+
+Copyright &amp; License | Privacy | Contact Us | Donate | Thanks
+
+Apache and the Apache feather logo are trademarks of The Apache Software
+Foundation. OpenOffice, OpenOffice.org and the seagull logo are registered
+trademarks of The Apache Software Foundation. Other names appearing on the
+site may be trademarks of their respective owners.
+

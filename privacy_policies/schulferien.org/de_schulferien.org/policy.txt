@@ -1,0 +1,394 @@
+{{ location1.name }}
+
+{{ weather1.temperature }}°
+
+{{ location2.name }}
+
+{{ weather2.temperature }}°
+
+  * Ferien
+    * nach Bundesländern
+      * Baden-Württemberg
+      * Bayern
+      * Berlin
+      * Brandenburg
+      * Bremen
+      * Hamburg
+      * Hessen
+      * Mecklenburg-Vorp.
+      * Niedersachsen
+      * NRW
+      * Rheinland-Pfalz
+      * Saarland
+      * Sachsen
+      * Sachsen-Anhalt
+      * Schleswig-Holstein
+      * Thüringen
+    * nach Jahren
+      * Schulferien 2017
+      * Schulferien 2018
+      * Schulferien 2019
+      * Schulferien 2020
+    * nach Schuljahren
+      * Ferien 2016 / 2017
+      * Ferien 2017 / 2018
+      * Ferien 2018 / 2019
+    * nach Ferien
+      * Winterferien
+      * Osterferien
+      * Pfingstferien
+      * Sommerferien
+      * Herbstferien
+      * Weihnachtsferien
+    * Kalender Download NEU
+    * Ferienkalender 
+    * Feriendichte 2017/2018
+    * Ferien Juni 2017
+    * Ferien im iCal-Format
+  * Feiertage
+    * Feiertage aktuell
+    * Feiertage 2017
+    * Feiertage 2018
+    * Feiertage 2019
+    * Feiertage 2020
+  * Ferien Ausland
+    * Belgien
+    * Dänemark
+    * Frankreich
+    * Großbritannien
+    * Niederlande
+    * Liechtenstein
+    * Luxemburg
+    * Österreich
+    * Polen
+    * Norwegen
+    * Schweiz
+  * Jahreskalender
+    * Kalender aktuell
+    * Kalender 2017
+    * Kalender 2018
+    * Kalender 2019
+    * Kalender 2020
+    * Kalender drucken
+  * Sonstiges
+    * Zeitumstellung
+    * Arbeitstage
+    * Aktuelle Uhrzeit
+    * Kalenderwoche
+    * Mondkalender
+    * Namenstage
+    * Taschenrechner
+    * Einschulung
+    * -> mehr ...
+    * * * *
+
+    * Datenschutzhinweis
+    * Impressum
+
+Kalender.com Arbeitstage 2016 Zeitumstellung
+
+Kontakt
+
+  1. Datenschutzhinweis
+
+##  Schulferien.org - Datenschutzerklarung
+
+
+
+Geltungsbereich
+
+Diese Datenschutzerklarung klart Nutzer uber die Art, den Umfang und Zwecke
+der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen
+Anbieter [Moritz Johannsen, Karlstr. 12, 16548 Glienicke,
+info@schulferien.org] auf dieser Website (im folgenden "Angebot") auf.  
+  
+Die rechtlichen Grundlagen des Datenschutzes finden sich im
+Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).  
+
+
+Zugriffsdaten/ Server-Logfiles
+
+Der Anbieter (beziehungsweise sein Webspace-Provider) erhebt Daten uber jeden
+Zugriff auf das Angebot (so genannte Serverlogfiles). Zu den Zugriffsdaten
+gehoren:  
+  
+Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs,
+ubertragene Datenmenge, Meldung uber erfolgreichen Abruf, Browsertyp nebst
+Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte
+Seite), IP-Adresse und der anfragende Provider.  
+  
+Der Anbieter verwendet die Protokolldaten nur fur statistische Auswertungen
+zum Zweck des Betriebs, der Sicherheit und der Optimierung des Angebotes. Der
+Anbieterbehalt sich jedoch vor, die Protokolldaten nachtraglich zu uberprufen,
+wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer
+rechtswidrigen Nutzung besteht.
+
+Umgang mit personenbezogenen Daten
+
+Personenbezogene Daten sind Informationen, mit deren Hilfe eine Person
+bestimmbar ist, also Angaben, die zuruck zu einer Person verfolgt werden
+konnen. Dazu gehoren der Name, die Emailadresse oder die Telefonnummer. Aber
+auch Daten uber Vorlieben, Hobbies, Mitgliedschaften oder welche Webseiten von
+jemandem angesehen wurden zahlen zu personenbezogenen Daten.  
+  
+Personenbezogene Daten werden von dem Anbieter nur dann erhoben, genutzt und
+weiter gegeben, wenn dies gesetzlich erlaubt ist oder die Nutzer in die
+Datenerhebung einwilligen.
+
+Kontaktaufnahme
+
+Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular
+oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage
+sowie fur den Fall, dass Anschlussfragen entstehen, gespeichert.
+
+Kommentare und Beitrage
+
+Wenn Nutzer Kommentare im Blog oder sonstige Beitrage hinterlassen, werden
+ihre IP-Adressen gespeichert. Das erfolgt zur Sicherheit des Anbieters, falls
+jemand in Kommentaren und Beitragen widerrechtliche Inhalte schreibt
+(Beleidigungen, verbotene politische Propaganda, etc.). In diesem Fall kann
+der Anbieter selbst fur den Kommentar oder Beitrag belangt werden und ist
+daher an der Identitat des Verfassers interessiert.
+
+Newsletter
+
+Mit dem Newsletter informieren wir Sie uber uns und unsere Angebote.  
+  
+Wenn Sie den Newsletter empfangen mochten, benotigen wir von Ihnen eine valide
+Email-Adresse sowie Informationen, die uns die Überprufung gestatten, dass Sie
+der Inhaber der angegebenen Email-Adresse sind bzw. deren Inhaber mit dem
+Empfang des Newsletters einverstanden ist. Weitere Daten werden nicht erhoben.
+Diese Daten werden nur fur den Versand der Newsletter verwendet und werden
+nicht an Dritte weiter gegeben.  
+  
+Mit der Anmeldung zum Newsletter speichern wir Ihre IP-Adresse und das Datum
+der Anmeldung. Diese Speicherung dient alleine dem Nachweis im Fall, dass ein
+Dritter eine Emailadresse missbraucht und sich ohne Wissen des Berechtigten
+fur den Newsletterempfang anmeldet.  
+  
+Ihre Einwilligung zur Speicherung der Daten, der Email-Adresse sowie deren
+Nutzung zum Versand des Newsletters konnen Sie jederzeit widerrufen. Der
+Widerruf kann uber einen Link in den Newslettern selbst, in Ihrem
+Profilbereich oder per Mitteilung an die oben stehenden Kontaktmoglichkeiten
+erfolgen.
+
+Einbindung von Diensten und Inhalten Dritter
+
+Es kann vorkommen, dass innerhalb dieses Onlineangebotes Inhalte Dritter, wie
+zum Beispiel Videos von YouTube, Kartenmaterial von Google-Maps, RSS-Feeds
+oder Grafiken von anderen Webseiten eingebunden werden. Dies setzt immer
+voraus, dass die Anbieter dieser Inhalte (nachfolgend bezeichnet als "Dritt-
+Anbieter") die IP-Adresse der Nutzer wahr nehmen. Denn ohne die IP-Adresse,
+konnten sie die Inhalte nicht an den Browser des jeweiligen Nutzers senden.
+Die IP-Adresse ist damit fur die Darstellung dieser Inhalte erforderlich. Wir
+bemuhen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-
+Adresse lediglich zur Auslieferung der Inhalte verwenden. Jedoch haben wir
+keinen Einfluss darauf, falls die Dritt-Anbieter die IP-Adresse z.B. fur
+statistische Zwecke speichern. Soweit dies uns bekannt ist, klaren wir die
+Nutzer daruber auf.
+
+Cookies
+
+Cookies sind kleine Dateien, die es ermoglichen, auf dem Zugriffsgerat der
+Nutzer (PC, Smartphone o.a.) spezifische, auf das Gerat bezogene Informationen
+zu speichern. Sie dienen zum einem der Benutzerfreundlichkeit von Webseiten
+und damit den Nutzern (z.B. Speicherung von Logindaten). Zum anderen dienen
+sie, um die statistische Daten der Webseitennutzung zu erfassen und sie zwecks
+Verbesserung des Angebotes analysieren zu konnen. Die Nutzer konnen auf den
+Einsatz der Cookies Einfluss nehmen. Die meisten Browser verfugen eine Option
+mit der das Speichern von Cookies eingeschrankt oder komplett verhindert wird.
+Allerdings wird darauf hingewiesen, dass die Nutzung und insbesondere der
+Nutzungskomfort ohne Cookies eingeschrankt werden.  
+  
+Sie konnen viele Online-Anzeigen-Cookies von Unternehmen uber die US-
+amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite
+http://www.youronlinechoices.com/uk/your-ad-choices/  verwalten.
+
+Registrierfunktion
+
+Die im Rahmen der Registrierung eingegebenen Daten werden fur die Zwecke der
+Nutzung des Angebotes verwendet. Die Nutzer konnen uber angebots- oder
+registrierungsrelevante Informationen, wie Änderungen des Angebotsumfangs oder
+technische Umstande per E-Mail informiert werden. Die erhobenen Daten sind aus
+der Eingabemaske im Rahmen der Registrierung ersichtlich. Dazu gehoren [Z.B.
+NAME, POSTALISCHE ADRESSE, E-MAIL-ADRESSE, IP-ADRESSE UND DEREN ZWECK, ZUM
+BEISPIEL COMMUNITY ODER PRODUKTESTS].
+
+Google Analytics
+
+Dieses Angebot benutzt Google Analytics, einen Webanalysedienst der Google
+Inc. („Google"). Google Analytics verwendet sog. „Cookies", Textdateien, die
+auf Computer der Nutzer gespeichert werden und die eine Analyse der Benutzung
+der Website durch sie ermoglichen. Die durch den Cookie erzeugten
+Informationen uber Benutzung dieser Website durch die Nutzer werden in der
+Regel an einen Server von Google in den USA ubertragen und dort gespeichert.  
+  
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird die
+IP-Adresse der Nutzer von Google jedoch innerhalb von Mitgliedstaaten der
+Europaischen Union oder in anderen Vertragsstaaten des Abkommens uber den
+Europaischen Wirtschaftsraum zuvor gekurzt. Nur in Ausnahmefallen wird die
+volle IP-Adresse an einen Server von Google in den USA ubertragen und dort
+gekurzt. Die IP-Anonymisierung ist auf dieser Website aktiv. Im Auftrag des
+Betreibers dieser Website wird Google diese Informationen benutzen, um die
+Nutzung der Website durch die Nutzer auszuwerten, um Reports uber die
+Websiteaktivitaten zusammenzustellen und um weitere mit der Websitenutzung und
+der Internetnutzung verbundene Dienstleistungen gegenuber dem Websitebetreiber
+zu erbringen.  
+  
+Die im Rahmen von Google Analytics von Ihrem Browser ubermittelte IP-Adresse
+wird nicht mit anderen Daten von Google zusammengefuhrt. Die Nutzer konnen die
+Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-
+Software verhindern; Dieses Angebot weist die Nutzer jedoch darauf hin, dass
+Sie in diesem Fall gegebenenfalls nicht samtliche Funktionen dieser Website
+vollumfanglich werden nutzen konnen. Die Nutzer konnen daruber hinaus die
+Erfassung der durch das Cookie erzeugten und auf ihre Nutzung der Website
+bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung
+dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link
+verfugbare Browser-Plugin herunterladen und installieren:
+http://tools.google.com/dlpage/gaoptout?hl=de.  
+  
+Alternativ zum Browser-Add-On oder innerhalb von Browsern auf mobilen Geraten,
+klicken Sie bitte diesen Link, um die Erfassung durch Google Analytics
+innerhalb dieser Website zukunftig zu verhindern. Dabei wird ein Opt-Out-
+Cookie auf Ihrem Gerat abgelegt. Loschen Sie Ihre Cookies, mussen Sie diesen
+Link erneut klicken.
+
+Verwendung von Facebook Social Plugins
+
+Dieses Angebot verwendet Social Plugins ("Plugins") des sozialen Netzwerkes
+facebook.com, welches von der Facebook Inc., 1601 S. California Ave, Palo
+Alto, CA 94304, USA betrieben wird ("Facebook"). Die Plugins sind an einem der
+Facebook Logos erkennbar (weißes „f" auf blauer Kachel, den Begriffen "Like",
+"Gefallt mir" oder einem „Daumen hoch"-Zeichen) oder sind mit dem Zusatz
+"Facebook Social Plugin" gekennzeichnet. Die Liste und das Aussehen der
+Facebook Social Plugins kann hier eingesehen werden:
+https://developers.facebook.com/docs/plugins/.  
+  
+Wenn ein Nutzer eine Webseite dieses Angebots aufruft, die ein solches Plugin
+enthalt, baut sein Browser eine direkte Verbindung mit den Servern von
+Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an Ihren Browser
+ubermittelt und von diesem in die Webseite eingebunden. Der Anbieter hat daher
+keinen Einfluss auf den Umfang der Daten, die Facebook mit Hilfe dieses
+Plugins erhebt und informiert die Nutzer daher entsprechend seinem
+Kenntnisstand:  
+  
+Durch die Einbindung der Plugins erhalt Facebook die Information, dass ein
+Nutzer die entsprechende Seite des Angebots aufgerufen hat. Ist der Nutzer bei
+Facebook eingeloggt, kann Facebook den Besuch seinem Facebook-Konto zuordnen.
+Wenn Nutzer mit den Plugins interagieren, zum Beispiel den Like Button
+betatigen oder einen Kommentar abgeben, wird die entsprechende Information von
+Ihrem Browser direkt an Facebook ubermittelt und dort gespeichert. Falls ein
+Nutzer kein Mitglied von Facebook ist, besteht trotzdem die Moglichkeit, dass
+Facebook seine IP-Adresse in Erfahrung bringt und speichert. Laut Facebook
+wird in Deutschland nur eine anonymisierte IP-Adresse gespeichert.  
+  
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Facebook sowie die diesbezuglichen Rechte und
+Einstellungsmoglichkeiten zum Schutz der Privatsphare der Nutzer , konnen
+diese den Datenschutzhinweisen von Facebook entnehmen:
+https://www.facebook.com/about/privacy/.  
+  
+Wenn ein Nutzer Facebookmitglied ist und nicht mochte, dass Facebook uber
+dieses Angebot Daten uber ihn sammelt und mit seinen bei Facebook
+gespeicherten Mitgliedsdaten verknupft, muss er sich vor dem Besuch des
+Internetauftritts bei Facebook ausloggen.
+
+1 Schaltflache von Google
+
+Dieses Angebot verwendet die "+1″-Schaltflache des sozialen Netzwerkes Google
+Plus, welches von der Google Inc., 1600 Amphitheatre Parkway, Mountain View,
+CA 94043, United States betrieben wird ("Google"). Der Button ist an dem
+Zeichen "+1″ auf weißem oder farbigen Hintergrund erkennbar.  
+  
+Wenn ein Nutzer eine Webseite dieses Angebotes aufruft, die eine solche
+Schaltflache enthalt, baut der Browser eine direkte Verbindung mit den Servern
+von Google auf. Der Inhalt der "+1″-Schaltflache wird von Google direkt an
+seinen Browser ubermittelt und von diesem in die Webseite eingebunden. der
+Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die Google mit
+der Schaltflache erhebt. Laut Google werden ohne einen Klick auf die
+Schaltflache keine personenbezogenen Daten erhoben. Nur bei eingeloggten
+Mitgliedern, werden solche Daten, unter anderem die IP-Adresse, erhoben und
+verarbeitet.  
+  
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Google sowie Ihre diesbezuglichen Rechte und
+Einstellungsmoglichkeiten zum Schutz Ihrer Privatsphare konnen die Nutzer
+Googles Datenschutzhinweisen zu der "+1″-Schaltflache entnehmen:
+http://www.google.com/intl/de/+/policy/+1button.html und der FAQ:
+http://www.google.com/intl/de/+1/button/.
+
+Twitter
+
+Dieses Angebot nutzt die Schaltflachen des Dienstes Twitter. Diese
+Schaltflachen werden angeboten durch die Twitter Inc., 795 Folsom St., Suite
+600, San Francisco, CA 94107, USA. Sie sind an Begriffen wie "Twitter" oder
+"Folge", verbunden mit einem stillisierten blauen Vogel erkennbar. Mit Hilfe
+der Schaltflachen ist es moglich einen Beitrag oder Seite dieses Angebotes bei
+Twitter zu teilen oder dem Anbieter bei Twitter zu folgen.  
+  
+Wenn ein Nutzer eine Webseite dieses Internetauftritts aufruft, die einen
+solchen Button enthalt, baut sein Browser eine direkte Verbindung mit den
+Servern von Twitter auf. Der Inhalt des Twitter-Schaltflachen wird von Twitter
+direkt an den Browser des Nutzers ubermittelt. Der Anbieter hat daher keinen
+Einfluss auf den Umfang der Daten, die Twitter mit Hilfe dieses Plugins erhebt
+und informiert die Nutzer entsprechend seinem Kenntnisstand. Nach diesem wird
+lediglich die IP-Adresse des Nutzers die URL der jeweiligen Webseite beim
+Bezug des Buttons mit ubermittelt, aber nicht fur andere Zwecke, als die
+Darstellung des Buttons, genutzt.  
+Weitere Informationen hierzu finden sich in der Datenschutzerklarung von
+Twitter unter http://twitter.com/privacy.
+
+Google AdSense
+
+Dieses Angebot benutzt Google AdSense, einen Dienst zum Einbinden von
+Werbeanzeigen der Google Inc. ("Google"). Google AdSense verwendet sog.
+"Cookies", Textdateien, die auf dem Computer der Nutzer gespeichert werden und
+die eine Analyse der Benutzung der Website ermoglicht. Google AdSense
+verwendet auch so genannte Web Beacons (unsichtbare Grafiken). Durch diese Web
+Beacons konnen Informationen wie der Besucherverkehr auf den Seiten dieses
+Angebots ausgewertet werden.  
+  
+Die durch Cookies und Web Beacons erzeugten Informationen uber die Benutzung
+dieser Website (einschließlich der IP-Adresse der Nutzer) und Auslieferung von
+Werbeformaten werden an einen Server von Google in den USA ubertragen und dort
+gespeichert. Diese Informationen konnen von Google an Vertragspartner von
+Google weiter gegeben werden. Google wird Ihre IP-Adresse jedoch nicht mit
+anderen von Ihnen gespeicherten Daten zusammenfuhren.  
+  
+Die Nutzer konnen die Installation der Cookies durch eine entsprechende
+Einstellung Ihrer Browser Software verhindern; der Anbieter weist die Nutzer
+jedoch darauf hin, dass sie in diesem Fall gegebenenfalls nicht samtliche
+Funktionen dieses Angebotes voll umfanglich nutzen konnen. Durch die Nutzung
+dieser Website erklaren die Nutzer sich mit der Bearbeitung der uber sie
+erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu
+dem zuvor benannten Zweck einverstanden.
+
+Amazon-Partnerprogramm
+
+[Bitte fugen Sie hier Ihren Namen ein] ist Teilnehmer des Partnerprogramms von
+Amazon EU, das zur Bereitstellung eines Mediums fur Websites konzipiert wurde,
+mittels dessen durch die Platzierung von Werbeanzeigen und Links zu [bitte
+fugen Sie hier den zutreffenden Namen der Website ein (Amazon.co.uk /
+Local.Amazon.co.uk / Amazon.de / de.BuyVIP.com / Amazon.fr / Amazon.it /
+it.BuyVIP.com / Amazon.es / es.BuyVIP.com )] Werbekostenerstattung verdient
+werden kann. Amazon setzt Cookies ein, um die Herkunft der Bestellungen
+nachvollziehen zu konnen. Unter anderem kann Amazon erkennen, dass Sie den
+Partnerlink auf dieser Website geklickt haben. Weitere Informationen zur
+Datennutzung durch Amazon erhalten Sie in der Datenschutzerklarung des
+Unternehmens:
+http://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=3312401
+
+Widerruf, Änderungen, Berichtigungen und Aktualisierungen
+
+Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten uber
+die personenbezogenen Daten, die uber ihn gespeichert wurden. Zusatzlich hat
+der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Loschung
+seiner personenbezogenen Daten, soweit dem keine gesetzliche
+Aufbewahrungspflicht entgegensteht.
+
+Datenschutz-Muster von Rechtsanwalt Thomas Schwenke - I LAW it
+
+Kontakt
+
+Ferien, Kalender, Feiertage - © 2001-2017
+

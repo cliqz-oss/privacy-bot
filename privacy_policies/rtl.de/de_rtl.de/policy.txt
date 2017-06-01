@@ -1,0 +1,536 @@
+  * Menu
+
+    *     * RTL bei
+    *     *     * TV PROGRAMM
+    * SENDUNGEN
+    * VIDEOS
+    * BEWERBUNGSAUFRUFE
+    * SOMMERAKTION
+    *     * THEMEN DES TAGES
+    *     * TV NOW – GANZE FOLGEN AUF ABRUF
+    * RTLspiele.de
+    * RTL TICKETS
+    * RTL HD
+    * RTL SMART TV
+    * RTL - WIR HELFEN KINDERN
+    * RTLplus
+    *     * Themen und Personen
+    * Zuschauerservice & Kontakt
+
+JavaScript scheint in Ihrem Browser deaktiviert zu sein.
+
+Sie müssen JavaScript in Ihrem Browser aktivieren um alle Funktionen des
+RTL.de Portal nutzen zu können.
+
+# Datenschutz
+
+###
+
+#
+
+Unsere Aufgabe ist es, Ihre Privatsphare zu schutzen. Wir verwenden die von
+uns gesammelten Informationen uber Sie unter Beachtung des geltenden
+Datenschutzgesetzes.  
+  
+Alle Widerspruchsmoglichkeiten (Opt-Out) auf einen Blick:  
+Cookies von Werbepartnern:  
+http://www.ip.de/lp/datenschutzinfo_online-werbung.cfm  
+  
+Deaktivierungsmoglichkeiten fur Cookies von Werbepartnern:
+
+  * Google - Zum Deaktivieren bitte hier klicken
+  * nugg.ad - Zum Deaktivieren bitte hier klicken
+  * The Adex - Zum Deaktivieren bitte hier klicken
+
+sowie unter  
+http://www.meine-cookies.org/cookies_verwalten/praeferenzmanager-beta.html  
+  
+Deaktivierung Google Analytics/Universal Analytics:  
+http://tools.google.com/dlpage/gaoptout?hl=de  
+  
+Deaktivierung SZM:  
+http://optout.ioam.de  
+  
+Deaktivierung Nielsen:  
+http://www.nielsen-online.com/corp.jsp?section=leg_scs_de&amp;nav=2  
+  
+Deaktivierung Optimizely:  
+http://www.optimizely.com/opt_out  
+  
+Deaktivierung Messung durch IP Deutschland:  
+http://www.ip.de/consumer-opt-out  
+  
+I. Definitionen und Nutzung von Daten durch RTL interactive  
+  
+1\. Was sind personenbezogene Daten?  
+Wir verstehen unter personenbezogenen Daten Informationen zu Ihrer Identitat
+wie beispielsweise Ihren Namen, E-Mail-Adresse oder Postanschrift.  
+  
+2\. Weitergabe an Dritte  
+Alle Daten, die Sie uns ubermitteln, werden selbstverstandlich vertraulich
+behandelt.   Wir stellen Ihre Daten grundsatzlich nicht anderen zur Nutzung
+zur Verfugung, es sei denn, Sie haben hierzu Ihr Einverstandnis gegeben oder
+wir sind zur Preisgabe dieser Daten verpflichtet, beispielsweise aufgrund
+gerichtlicher Verfugung.  
+  
+3\. Was tun wir mit Ihren Daten?  
+  
+3.1. Warum verarbeiten wir Ihre Daten?  
+Wir speichern, verarbeiten und nutzen Informationen, um Sie besser zu
+verstehen und Ihnen bessere Dienste anbieten zu konnen. Durch die nachfolgend
+beschriebenen Maßnahmen, konnen wir den Nutzern unserer Websites/Angebote
+maßgeschneiderte Inhalte und Services zur Verfugung stellen und den
+personlichen Nutzwert innerhalb unserer Online-Angebote fur Sie erhohen.
+Hierzu nehmen wir insbesondere interne Untersuchungen hinsichtlich der
+Demographie, Nutzerinteressen und dem -verhalten vor (nachfolgend
+„Nutzungsanalyse" genannt). Außerdem messen wir Zugriffe auf Seiten und
+Inhalte und fuhren ggf. Fehleranalysen durch.  
+  
+3.2. Wie funktioniert die Nutzungsanalyse?  
+Wir analysieren z.B. Ihr Nutzungsverhalten auf unseren Portalen, um Ihnen dort
+Empfehlungen zu Inhalten, bzw. Produkten zu geben und benutzerindividuelle
+Inhalte darzustellen, die Sie interessieren konnten. Hierzu werden z.B.
+Cookies verwendet. Ferner erstellen wir pseudonymisierte Profile. Wir setzen
+fur diese Nutzungsanalyse u.a. externe Dienstleister ein.  
+  
+Einzelheiten zum Einsatz von Cookies finden Sie unter „Verwendung von
+Cookies". Einzelheiten zu den von uns fur die Nutzungsanalyse eingesetzten
+Messungs- und Analysetools finden Sie unter „Messungs- und Analysetools".  
+  
+3.3. Wann nutzen wir personenbezogene Daten fur Werbung und
+Produktinformationen?  
+Sofern Sie hierzu durch Abgabe einer Einverstandniserklarung eingewilligt
+haben, speichern und verarbeiten wir auch personliche Informationen (wie z.B.
+Ihre Kontaktdaten) fur Zwecke der individuellen Information und Betreuung.
+Hierzu gehoren personalisierte Dienste, sowie die Moglichkeit interaktiver
+Kommunikation (z.B. Zusendung von E-Mails mit Produktangeboten).  
+  
+3.4. Welche Daten werden noch gespeichert?  
+Zur Behebung/Verhinderung/Nachverfolgung von evtl. aufgetretenen Fehlern und
+zur Gewahrleistung der Datensicherheit (d.h. zur Ermittlung und Behebung von
+Fehlern in unseren Angeboten sowie zur Verhinderung von Missbrauch und zur
+Strafverfolgung) speichern und nutzen wir Ihre IP-Adresse fur die Dauer von
+einem Monat. Diese wird nicht an Dritte weitergegeben und nach Ablauf der
+Speicherfrist unverzuglich geloscht.  
+  
+3.5. Was passiert mit Daten, die im Zusammenhang mit Gewinnspielen erhoben
+werden?  
+Im Zusammenhang mit von uns angebotenen Gewinnspielen speichern wir Ihre
+Daten, damit wir mit Ihnen im Fall eines Gewinns in Kontakt treten konnen. Ist
+das Gewinnspiel beendet, d.h. sind die ausgelobten Preise an die Gewinner
+ausgeliefert worden, loschen wir Ihre Daten nach Ende einer vierwochigen
+Aufbewahrungsfrist unverzuglich.  
+  
+4\. Verwendung von Cookies  
+  
+4.1. Warum werden Cookies eingesetzt?  
+Um Ihnen unser Angebot so angenehm wie moglich zu gestalten, verwenden wir
+sogenannte Cookies. Cookies sind kleine Textdateien, die eine Wiedererkennung
+des Nutzers ermoglichen, so dass die Nutzer sich nicht jedes Mal neu
+registrieren mussen. Zudem konnen Cookies - z.B. im Rahmen der Nutzungsanalyse
+- dabei helfen, ein Anpassen der Angebote an Ihre Interessen zu ermoglichen.
+Wir setzen daher Cookies, um die Nutzung des Angebotes zu analysieren und
+Ihnen interessante Informationen zu geben. Selbstverstandlich konnen Sie
+unsere Angebote grundsatzlich auch ohne Cookies nutzen. WWW-Browser lassen
+sich so einstellen, dass Cookies generell abgelehnt werden.  
+  
+4.2. Welche Cookies werden eingesetzt?  
+Wir setzen sowohl eigene Cookies als auch Cookies von unseren
+Kooperationspartnern. So werden die Werbeanzeigen in unseren Angeboten sowohl
+von unserem Vermarkter IP Deutschland auch von Dienstleistern und Partnern,
+wie z.B. von DoubleClick/Google, Videoplaza/Ooyala, The Adex, oder der Nugg.ad
+AG gesetzt. Eine Übersicht der Unternehmen, die Cookies fur Werbeanzeigen auf
+unseren Seiten setzen, finden Sie unter
+http://www.ip.de/lp/datenschutzinfo_online-werbung.cfm  
+  
+4.3. Wie werden Cookies im Zusammenhang mit Werbeanzeigen genutzt?  
+Wir platzieren fur den in der Anzeige beworbenen Kunden eventuell ein
+eindeutiges Cookie auf Ihrem Browser oder lesen dort ein solches. Bei der
+Schaltung der Anzeige werden Informationen uber Ihren Besuch auf unseren
+Portalen / Angeboten, z.B. wie oft Sie eine Anzeige angesehen haben, erhoben
+und an den Werbekunden weitergegeben. Es werden aber keine personenbezogenen
+Daten, wie z.B. Ihr Name oder Ihre Adresse, generiert oder weitergegeben. Sie
+konnen also anhand dieser Informationen nicht personlich identifiziert werden.  
+  
+4.4. Wie kann ich eine Nutzung verhindern?  
+Wenn Sie die Weitergabe von Informationen bzw. das Setzen dieser Cookies
+trotzdem nicht wunschen oder weitere Informationen zum Einsatz dieser Cookies
+erhalten wollen, finden Sie diese unter:  
+
+  * http://www.doubleclick.com/us/corporate/privacy/privacy/
+  * http://www.google.com/intl/de/privacy_ads.html
+  * http://www.meine-cookies.org/
+  * https://nugg.ad/de/datenschutz/allgemeine-informationen.html
+  * http://de.theadex.com/company/privacy/
+
+Sollten sie wunschen, dass fur den genannten Zweck keine Informationen im
+Zusammenhang mit Ihrer Nutzung unseres Online-Angebots ubermittelt werden,
+konnen Sie interessenbezogene Werbung bei folgenden Kooperationspartnern
+Deaktivieren:
+
+  * Google - Zum Deaktivieren bitte hier klicken
+  * nugg.ad - Zum Deaktivieren bitte hier klicken
+  * http://www.meine-cookies.org/cookies_verwalten/praeferenzmanager-beta.html  
+(unter dem dritten Link konnen auch Cookies von anderen Anbietern als Google
+und nugg.ad deaktiviert werden).
+
+  * www.ip.de/consumer-opt-out
+  * http://de.theadex.com/company/consumer-opt-out/
+
+4.5. Nutzung der mov.ad-Technologie  
+Fur unsere Websites nutzen wir die Frequency-Capping Technology der mov.ad
+GmbH, St. Cajetan Str. 41, D-81669 Munchen („mov.ad"). Frequency Capping
+bedeutet, dass wir uber mov.ad ermitteln, wie oft von Ihrem Browser eine
+bestimmte Werbung angeschaut, bzw. aufgerufen wurde. Hieruber haben wir die
+Moglichkeit, Ausspielungsfrequenzen zu definieren, so dass die fur Sie
+ausgespielte Werbung variiert. mov.ad liest dabei ein Identifizierungsmerkmal
+aus Ihrem Browser-Cache aus, was im Anschluss verschlusselt/anonymisiert an
+unsere Werbeausspielungssystem ubermittelt wird. Sie sind hieruber fur uns und
+mov.ad nicht als Person zu erkennen. Wir nutzen lediglich die anonyme
+Information, wie haufig ein Werbemittel auf Ihrem Browser bereits ausgespielt
+wurde und bestimmen danach, ob dies erneut geschehen soll. Diese Annahmen
+konnen wir uber die Websites in unserem Netzwerk hinweg treffen. Sie konnen
+das verwendete Identifikationsmerkmal durch Loschen des Browser-Cache
+entfernen. Es wird dann wieder neu gesetzt, wenn Sie eine unserer Websites
+aufrufen. Diese Technologie erganzt den Einsatz von Cookies fur ahnliche
+Zwecke.  
+  
+4.6. Nutzung von Content Recommendation Diensten  
+Wir setzen auf unseren Angeboten ebenfalls Content-Recommendation Dienste ein.
+Diese Dienste analysieren verschiedene Informationen, die sich aus Ihrem
+Surfverhalten bei uns und sowie aus weiteren Quellen, wie z.B. Gerate-IDs
+ermitteln lassen. Hierbei werden anonymisierte/pseudonymisierte Profile
+ermittelt. Hieraus ermittelt der Betreiber dann unter anderem durch Abgleich
+mit anderen ahnlichen Profilen Empfehlungen fur Inhalte aus unserem Content-
+Netzwerk, die Sie evtl. interessieren konnten und die Ihnen dann als
+Empfehlungen dargestellt werden. Dieser Dienst nutzt unter anderem Cookies.  
+  
+Wir setzen derzeit den Dienst „Outbrain" der Outbrain UK Ltd. ein.  
+  
+Dieser Dienst wird von Outbrain als verantwortliche Stelle selbststandig
+betrieben. Inhalte werden durch Outbrain ausgeliefert. Wir erheben und
+verarbeiten in diesem Zusammenhang keine personenbezogenen Daten.  
+  
+Einzelheiten zur Datennutzung durch Outbrain Dienste finden sie in der
+Datenschutzerklarungen von Outbrain unter:
+
+  * http://www.outbrain.de/legal/privacy-713
+
+Dort haben Sie auch die Moglichkeit, die Nutzung des Dienstes fur Ihren
+Browser per Opt-Out abzuschalten.  
+  
+5\. Geolokalisation / Nutzung auf mobilen Geraten  
+Sofern Sie unsere Angebote (insbesondere beim Abruf von Videoinhalten) uber
+mobile Endgerate nutzen, die eine Geolokalisation erlauben, verwenden wir
+diese Funktion fur bestimmte Inhalte aus lizenzrechtlichen Grunden in einigen
+Fallen und nach vorherigem Einverstandnis durch Sie, um zu uberprufen, ob das
+von Ihnen aufgerufene Angebot an Ihrem Aufenthaltsort verfugbar ist. Die
+hierbei anfallenden Daten zu Ihrem Standort werden von RTL interactive weder
+gespeichert noch fur irgendwelche anderen Zwecke als die fur die
+vorbeschriebene Prufung verwendet.  
+  
+6\. Sonstige Verwendung von Standortdaten  
+Einige unserer Dienste funktionieren nur, bzw. einige unserer Inhalte
+(redaktionell und werblich) konnen nur ausgespielt werden, wenn wir Ihren
+ungefahren Standort feststellen konnen. Hierzu bestimmen wir anhand Ihrer IP-
+Adresse den ungefahren Standort Ihres Gerates und stellen Ihnen hierzu sowohl
+passende redaktionelle als auch werbliche Inhalte zur Verfugung. Es wird dabei
+nicht die volle IP-Adresse verwendet sondern eine auf drei Stellen gekurzte
+IP-Adresse. Diese kann daher nicht mehr zur Identifizierung Ihres
+Rechners/Internetanschlusses verwendet werden. Die Standortdaten werden dabei
+allein zur Ausspielung der Inhalte verwendet. Sie konnen hieruber nicht als
+Person identifiziert werden. Die Daten werden nicht dauerhaft gespeichert und
+nicht an Dritte weitergegeben. Wir erstellen daruber hinaus auch keine Profile
+mit Standort- und/oder Bewegungsdaten.  
+  
+7\. Ihr Recht auf jederzeitigen Widerruf  
+Sie haben jederzeit das Recht, eine erteilte Einwilligung zur Nutzung Ihrer
+personenbezogenen Daten zu widerrufen.  
+  
+8\. Sicherheit Ihrer Daten  
+Wir sind um die Sicherheit Ihrer Daten im Rahmen der geltenden
+Datenschutzgesetze bemuht, dennoch ist keine elektronische Kommunikation
+vollkommen sicher. Wir mochten Sie darauf hinweisen, dass - trotz unserer
+hohen Anforderungen - Informationen, die Sie freiwillig uber das Netz
+freigeben, von anderen genutzt werden konnen. Deshalb kann RTL interactive fur
+die Offenlegung von Informationen aufgrund von Fehlern bei der
+Datenubertragung und/ oder unautorisiertem Zugriff durch Dritte keine
+Verantwortung oder Haftung ubernehmen.  
+  
+9\. Keine Haftung fur Partner-Online-Angebote  
+Des Weiteren arbeiten wir mit verschiedenen Partnern zusammen, die ihrerseits
+Internet-Sites und -Dienste anbieten, die durch unsere Sites zuganglich sind.
+Diese Partner haben in der Regel eigene Datenschutzerklarungen und/oder
+-richtlinien. Wir ubernehmen ebenfalls keine Verantwortung oder Haftung fur
+diese mit RTL interactive nicht im Zusammenhang stehenden Erklarungen und
+Richtlinien.  
+  
+  
+II. Messungs- und Analysetools  
+  
+1\. Google Analytics / Universal Analytics  
+Diese Website benutzt Google Analytics mit den Funktionen von Universal
+Analytics, einen Webanalysedienst der Google Inc. („Google").  
+  
+1.1. Google-Analytics  
+Google Analytics verwendet sog. „Cookies", Textdateien, die auf Ihrem Computer
+gespeichert werden und die eine Analyse der Benutzung der Website durch Sie
+ermoglichen. Die durch den Cookie erzeugten Informationen uber Ihre Benutzung
+dieser Website werden in der Regel an einen Server von Google in den USA
+ubertragen und dort gespeichert. Im Falle der Aktivierung der IP-
+Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch
+innerhalb von Mitgliedstaaten der Europaischen Union oder in anderen
+Vertragsstaaten des Abkommens uber den Europaischen Wirtschaftsraum zuvor
+gekurzt. Nur in Ausnahmefallen wird die volle IP-Adresse an einen Server von
+Google in den USA ubertragen und dort gekurzt. Im Auftrag des Betreibers
+dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der
+Website auszuwerten, um Reports uber die Websiteaktivitaten zusammenzustellen
+und um weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen gegenuber dem Websitebetreiber zu erbringen. Die im Rahmen
+von Google Analytics von Ihrem Browser ubermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengefuhrt. Sie konnen die Speicherung der
+Cookies durch eine entsprechende Einstellung Ihrer Browser-Software
+verhindern; wir weisen Sie jedoch darauf hin, dass in diesem Fall
+gegebenenfalls nicht samtliche Funktionen dieser Website vollumfanglich werden
+nutzen konnen. Sie konnen daruber hinaus die Erfassung der durch das Cookie
+erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-
+Adresse) an Google sowie die Verarbeitung dieser Daten durch Google
+verhindern, indem Sie das unter dem folgenden Link verfugbare Browser-Plugin
+herunterladen und installieren
+[http://tools.google.com/dlpage/gaoptout?hl=de].  
+  
+Auf dieser Website ist die IP-Anonymisierung aktiviert.  
+  
+1.2. Universal-Analytics  
+Ferner werden von uns die Universal-Analytics-Funktionen eingesetzt. Hieruber
+haben wir die Moglichkeit, mittels einer Google-ID (sofern vorhanden) und aus
+Cookies, die bei Werbeausspielungen von Google generiert werden (Doubleclick),
+sozio-demografische Daten von Nutzern zu erfassen und zu analysieren. Sofern
+eine Google-ID vorhanden ist, erfassen wir diese Daten auch gerateubergreifend
+(z.B. wenn Nutzer ein Smartphone und einen PC verwenden). Weitergehende
+Informationen hierzu finden Sie unter:
+
+  * https://support.google.com/analytics/answer/2444872
+  * https://support.google.com/analytics/answer/2838718?hl=de
+
+1.3. Deaktivierung  
+Sofern Sie die Messung uber Google-Analytics mittels des Browser-Plugins oder
+Opt-Out Links (s.o.) deaktiviert haben, wird hieruber auch die Messung uber
+Universal Analytics deaktiviert. Die Deaktivierung funktioniert stets pro
+Gerat, bzw. Browser, nicht gerateubergreifend/browserubergreifend. D.h., dass
+Sie eine Deaktivierung von Google-Analytics auf ihrem PC nicht dazu fuhrt,
+dass Google Analytics auch auf dem Smartphone deaktiviert wird. Gleiches gilt,
+wenn Sie z.B. im Internet-Explorer deaktivieren. Dies hatte keine Auswirkung
+auf den Firefox-Browser  
+  
+2\. Datenschutzerklarung zur Nutzung des Messverfahrens der INFOnline GmbH  
+Unsere Webseite nutzt das Messverfahren („SZMnG") der INFOnline GmbH
+(https://www.infonline.de) zur Ermittlung statistischer Kennwerte uber die
+Nutzung unserer Angebote. Ziel der Reichweitenmessung ist es, die
+Nutzungsintensitat, die Anzahl der Nutzer einer Webseite und das Surfverhalten
+statistisch - auf Basis eines einheitlichen Standardverfahrens - zu bestimmen
+und somit marktweit vergleichbare Werte zu erhalten.Fur Web-Angebote, die
+Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von
+Werbetragern e.V. (IVW - http://www.ivw.eu) sind oder an den Studien der
+Arbeitsgemeinschaft Online-Forschung e.V. (AGOF - http://www.agof.de)
+teilnehmen, werden die Nutzungsstatistiken regelmaßig von der AGOF und der
+Arbeitsgemeinschaft Media-Analyse e.V. (agma - http://www.agma-mmc.de), sowie
+der IVW veroffentlicht und konnen auf den jeweiligen Webseiten eingesehen
+werden.  
+  
+2.1. Datenverarbeitung  
+Die INFOnline GmbH erhebt und verarbeitet Daten nach deutschem
+Datenschutzrecht. Durch technische und organisatorische Maßnahmen wird
+sichergestellt, dass einzelne Nutzer zu keinem Zeitpunkt identifiziert werden
+konnen. Daten, die moglicherweise einen Bezug zu einer bestimmten,
+identifizierbaren Person haben, werden fruhestmoglich anonymisiert.  
+  
+2.1.1 Anonymisierung der IP-Adresse  
+Im Internet benotigt jedes Gerat zur Übertragung von Daten eine eindeutige
+Adresse, die sogenannte IP- Adresse. Die zumindest kurzzeitige Speicherung der
+IP-Adresse ist aufgrund der Funktionsweise des Internets technisch
+erforderlich. Die IP-Adressen werden vor jeglicher Verarbeitung gekurzt und
+nur anonymisiert weiterverarbeitet. Es erfolgt keine Speicherung oder
+Verarbeitung der ungekurzten IP-Adressen.  
+  
+2.1.2 Geolokalisierung bis zur Ebene der Bundeslander / Regionen  
+Eine sogenannte Geolokalisierung, also die Zuordnung eines Webseitenaufrufs
+zum Ort des Aufrufs, erfolgt ausschließlich auf der Grundlage der
+anonymisierten IP-Adresse und nur bis zur geographischen Ebene der
+Bundeslander / Regionen. Aus den so gewonnenen geographischen Informationen
+kann in keinem Fall ein Ruckschluss auf den konkreten Wohnort eines Nutzers
+gezogen werden.  
+  
+2.1.3 Identifikationsnummer des Gerates  
+Die Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen
+alternativ entweder ein Cookie mit der Kennung „ioam.de", ein „Local Storage
+Object" oder eine anonyme Signatur, die aus verschiedenen automatisch
+ubertragenen Informationen Ihres Browsers erstellt wird. Die Gultigkeit des
+Cookies ist auf maximal 1 Jahr beschrankt.  
+  
+2.1.4 Anmeldekennung  
+Zur Messung von verteilter Nutzung (Nutzung eines Dienstes von verschiedenen
+Geraten) kann die Nutzerkennung beim Login, falls vorhanden, als anonymisierte
+Prufsumme an INFOnline ubertragen werden.  
+  
+2.2. Loschung  
+Die gespeicherten Nutzungsvorgange werden nach spatestens 7 Monaten geloscht.  
+  
+2.3. Widerspruch  
+Wenn Sie an der Messung nicht teilnehmen mochten, konnen Sie unter folgendem
+Link widersprechen: http://optout.ioam.de. Weitere Informationen zum
+Datenschutz im Messverfahren finden Sie auf der Webseite der INFOnline GmbH
+(https://www.infonline.de), die das Messverfahren betreibt, der
+Datenschutzwebseite der AGOF (http://www.agof.de/datenschutz) und der
+Datenschutzwebseite der IVW (http://www.ivw.eu).  
+  
+3\. Datenschutzerklarung zur Nutzung der Nielsen Webanalyse  
+Nielsen, als beauftragtes Marktforschungsunternehmen, setzt zum Zweck der
+Webanalyse auf dieser Webseite Cookies ein. Die Webanalyse dient dazu,
+statistische Analysen uber die Nutzung dieser Webseite und deren Angebot zu
+erstellen. Diese Informationen dienen dazu die Webseite und die damit
+verbundenen Services im Hinblick auf Effektivitat und Effizienz zu verstehen
+und zu verbessern. Im Rahmen der Webanalyse und dem damit verbundenen Cookie
+werden nur anonyme Nutzerinformationen erfasst. Wenn Sie sich weitergehend zum
+Thema Cookies informieren wollen, dann besuchen Sie doch bitte die Webseite
+http://www.meine-cookies.org/alles_ueber_cookies/index.html oder
+http://www.allaboutcookies.org/. Sie konnen dem Setzen des Cookies durch
+Nielsen als beauftragtes Marktforschungsunternehmen jederzeit widersprechen.
+Hierfur haben Sie verschiedene Moglichkeiten. Unter der „Hilfe"-Option in der
+Symbolleiste der meisten Browser erfahren Sie, wie Sie verhindern, dass Ihr
+Browser neue Cookies akzeptiert, wie Sie den Browser dazu veranlassen, Sie zu
+benachrichtigen, wenn Sie ein neues Cookie erhalten oder wie Sie Cookies
+ganzlich deaktivieren. Daruber hinaus konnen Sie weitere Informationen zum
+Nielsen Webanalyse Service, dem Nielsen Cookie und wie Sie das Nielsen Cookie
+abstellen (Opt-out) finden, in dem Sie einfach bitte hier klicken. Wenn Sie
+Fragen bezuglich des Nielsen Webanalyse Auftrages haben, wenden Sie sich bitte
+per E-Mail an info.deutschland@nielsen.com.  
+  
+4\. Webanalyse Dienst Optimizely  
+Auf diesem Angebot wird der Webanalysedienst Optimizely (betrieben von der
+Optimizely, Inc). (nachfolgend "Optimizely") eingesetzt. Mittels sog.
+"Cookies", d.h. Textdateien, die auf Ihrem Computer gespeichert werden, haben
+wir so die Möglichkeit, die Nutzung unseres Angebots durch Sie zu analysieren.
+Diese Informationen werden in der Regel an die Optimizely Inc. In den USA
+übermittelt und dort gespeichert. und die eine Analyse der Benutzung der
+Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
+über Ihre Benutzung dieser Website werden in der Regel an einen Server von
+Optimizely in den USA übertragen und dort gespeichert. Wir haben hierzu mit
+der Optimizely Inc. entsprechende EU-Standardvertragsklauseln vereinbart.  
+Optimizely verarbeitet die Daten allein für uns als Betreiberin des Angebots.
+Die Daten sowie insbesondere die von Ihrem Browser übermittelte IP-Adresse
+wird nicht mit anderen Daten von Optimizely verknüpft. Wenn Sie eine
+Datenerhebung über Cookies nicht wünschen, können Sie dies in Ihren
+Browsereinstellungen entsprechend einstellen. Dies kann jedoch dazu führen,
+dass das Angebot insgesamt nicht oder nur eingeschränkt nutzbar ist. Sie haben
+werde die Möglichkeit, die Datenerhebung über Optimizely zu deaktivieren. Dann
+erfolgt keine Erfassung der durch das Cookie erzeugten Daten zur Nutzung der
+Website oder deren Auswertung mehr („Opt-Out“). Sie können das Opt-Out unter
+http://www.optimizely.com/opt_out setzen. Bitte beachten Sie dass das Opt-Out
+stets nur für den Browser gilt, in dem Sie es setzen, nicht aber auch
+automatisch für andere Endgeräte, die Sie nutzen.  
+  
+5\. Eigene Messung  
+Weiterhin fuhrt RTL interactive eine eigene Messung durch, bei der ebenfalls
+Cookies verwendet werden.  
+  
+  
+III. Social - Network Integrationen  
+  
+1\. Verwendung von Facebook Social Plugins  
+In unserem Angebot nutzen wir zum Teil sogenannte Social Plugins ("Plugins")
+des von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA
+betrieben Social Networks „facebook.com" (nachfolgend "Facebook" gennannt).
+Sie konnen diese an der Kennzeichnung mit dem Facebook Logo oder dem
+textlichen Hinweis auf Facebook oder der Beschriftung „Facebook Social Plugin"
+erkennen.  
+  
+Bei einem Aufruf einer Seite innerhalb unseres Angebots, die ein solches
+Plugin enthalt, wird uber Ihren Browser eine direkte Verbindung den Systemen
+von Facebook aufgebaut. Der im Plugin ausgespielte Inhalt wird dann direkt von
+Facebook an Ihren Browser ubermittelt und von diesem in die Internetseite
+eingebunden.  
+  
+Zusatzlich wird uber das Plugin an Facebook die Information ubermittelt, dass
+uber Ihren Browser die entsprechende Seite unseres Angebotes aufgerufen wurde.
+Wenn Sie am selben Computer zeitgleich bei Facebook eingeloggt sind, kann
+Facebook den Aufruf unserer Website Ihrem Facebook-Account zuordnen und mit
+diesem verknupfen, wobei sich dies nicht nur auf den reinen Aufruf beschrankt.
+Sollten Sie das Plugin aktiv nutzen, also zum Beispiel den "Gefallt mir"
+Button klicken oder einen Kommentar hinterlassen, wird dies ebenfalls uber das
+Plugin an Facebook ubermittelt und dort gespeichert.  
+  
+Einzelheiten zum Umfang und Zweck der Datenerhebung, Datenverarbeitung, und
+Nutzung durch Facebook konnen Sie den Datenschutzhinweisen von Facebook
+entnehmen. Dort finden Sie auch Hinweise zum Schutz Ihrer Privatsphare und zu
+den diesbezuglichen Einstellungsmoglichkeiten auf Facebook. Sie finden diese
+unter: https://www.facebook.com/privacy/explanation  
+  
+Wenn Sie mit der vorbeschriebenen Übermittlung von Daten an Facebook durch die
+Nutzung unserer Angebote nicht einverstanden sind und dies verhindern mochten,
+so loggen Sie sich bitte vor dem Besuch unseres Angebots bei Facebook aus.  
+  
+2\. Verwendung von Twitter  
+Auf unserer Website werden sogenannte Social Plugins („Plugins") des
+Mikroblogging-Dienstes Twitter verwendet, der von der Twitter Inc., 1355
+Market St, Suite 900, San Francisco, CA 94103, USA („Twitter") betrieben wird.
+Die Plugins sind mit einem Twitter-Logo beispielsweise in Form eines blauen
+„Twitter-Vogels" gekennzeichnet. Eine Übersicht uber die Twitter Plugins und
+deren Aussehen finden Sie hier: https://twitter.com/about/resources/buttons.  
+  
+Wenn Sie eine Seite unseres Webauftritts aufrufen, die ein solches Plugin
+enthalt, stellt Ihr Browser eine direkte Verbindung zu den Servern von Twitter
+her. Der Inhalt des Plugins wird von Twitter direkt an Ihren Browser
+ubermittelt und in die Seite eingebunden. Durch die Einbindung erhalt Twitter
+die Information, dass Ihr Browser die entsprechende Seite unseres Webauftritts
+aufgerufen hat, auch wenn Sie kein Profil bei Twitter besitzen oder gerade
+nicht bei Twitter eingeloggt sind. Diese Information (einschließlich Deiner
+IP-Adresse) wird von Ihrem Browser direkt an einen Server von Twitter in die
+USA ubermittelt und dort gespeichert.  
+  
+Sind Sie bei Twitter eingeloggt, kann Twitter den Besuch unserer Website Ihrem
+Twitter-Account unmittelbar zuordnen. Wenn Sie mit den Plugins interagieren,
+zum Beispiel den „Twittern"-Button betatigen, wird die entsprechende
+Information ebenfalls direkt an einen Server von Twitter ubermittelt und dort
+gespeichert. Die Informationen werden außerdem auf Ihrem Twitter-Account
+veroffentlicht und dort Ihren Kontakten angezeigt.  
+  
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Twitter sowie Deine diesbezuglichen Rechte und
+Einstellungsmoglichkeiten zum Schutz Ihrer Privatsphare konnen Sie den
+Datenschutzhinweisen von Twitter https://twitter.com/privacy entnehmen. Wenn
+Sie nicht mochten, dass Twitter die uber unseren Webauftritt gesammelten Daten
+unmittelbar Ihrem Twitter-Account zuordnen, mussen Sie sich vor Ihrem Besuch
+unserer Website bei Twitter ausloggen. Sie konnen das Laden der Twitter
+Plugins auch mit Add-Ons fur Ihren Browser komplett verhindern, z. B. mit dem
+Skript-Blocker „NoScript" (http://noscript.net/).  
+  
+3\. Whatsapp  
+Sie haben daruber hinaus in unseren mobilen Angeboten die Moglichkeit, Inhalte
+von Websites per Whatsapp an andere zu empfehlen. Bei Nutzung dieser Funktion
+wird von Ihnen als Absender eine Whatsapp Nachricht mit einem von Ihnen
+gewahlten Inhalt an einen von Ihnen ausgewahlten Empfanger geschickt. Es
+werden dabei nur dann Daten an WhatsApp versandt, wenn Sie diese Funktion
+aktiv nutzen. Einzelheiten zum Datenschutz bei WhatsApp finden Sie unter:
+http://www.whatsapp.com/legal/  
+  
+  
+IV. Änderungen dieser Datenschutzerklarung  
+RTL interactive behalt sich das Recht vor, diese Datenschutzerklarung
+jederzeit unter Beachtung der geltenden Datenschutzbestimmungen zu andern.  
+  
+Koln, den 10.05.2016
+
+\- Anzeige -
+
+  1. RTL.de
+  2. Kontakt und Hilfe
+  3. Datenschutz
+
+
+
+Impressum Nutzungsbedingungen AGB TV Gewinnspiele Datenschutz Nutzungsbasierte
+Online-Werbung Teletext Jobs Kontakt
+
+##### (C) 2017 RTL interactive GmbH
+

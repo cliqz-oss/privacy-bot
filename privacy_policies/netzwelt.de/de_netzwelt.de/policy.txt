@@ -1,0 +1,461 @@
+netzwelt
+
+  * News
+  * Themen
+    * Fußball im Internet schauen
+    * Game of Thrones (TV-Serie)
+    * E3 2017
+    * Amazon-Angebote
+    * Apple iPhone 8
+    * Apple Music
+    * Archos 50 Saphir
+    * Bitdefender
+    * Blink
+    * Diablo 3
+    * IT for EDU
+    * Samsung SSDs
+  * Kaufberatung
+    * Smartphone
+    * Tablet-PC
+    * Notebook
+    * Digitalkamera
+    * Kopfhörer
+    * Bluetooth-Lautsprecher
+    * Andere Hardware
+      * Smartwatch
+      * eBook-Reader
+      * Mediaplayer
+      * NAS
+      * Externe Speichermedien
+      * SSD
+      * Monitor
+      * Smart-Home
+      * Multiroom-Audiosysteme
+      * Powerbank
+      * Fitness-Tracker
+      * MP3-Player
+    * Online-Dienste
+      * Die besten Freemailer
+      * Die besten Video-Streaming-Dienste
+      * Die besten Dienste für Online-TV
+      * Die besten Musik-Streaming-Dienste
+    * iTunes-Guthaben
+    * Amazon-Deals
+    * Mobilfunktarife
+  * Download
+    * Social
+    * Office
+    * Sicherheit
+    * WWW &amp; LAN
+    * Browser
+    * Mailer
+    * System
+    * Optik
+    * Codecs
+    * Video
+    * Audio
+    * Foto &amp; Bild
+    * Programmierung
+    * Finanzen
+    * Heim &amp; Hobby
+    * Spiele
+    * Anleitungen
+    * Download-Charts
+    * Software-Updates
+    * Dateitypen
+    * Dateien umwandeln
+    * Prozesse
+  * Gaming
+    * Videospiele
+    * Die besten Spiele
+      * Nintendo Switch
+      * PC
+      * PS4
+      * Wii U
+      * Xbox One
+    * Release-Liste
+    * Konsolen im Test
+    * Spielhalle
+  * TV &amp; Stream
+    * Serien
+      * Die besten Serien bei Netflix
+      * Die besten Serien bei Amazon Video
+      * Die besten Serien bei iTunes
+      * Die besten Serien bei Sky Ticket
+    * TV-Sender im Live-Stream
+    * Mediatheken
+    * Sendung verpasst?
+    * Video-Streaming
+    * Online-Fernsehen
+    * Musik-Streaming
+    * netzwelt-Videos
+  * Service & Störungen
+    * Störungen und Probleme
+    * DSL-Speedtest
+    * Wie lautet meine IP?
+    * Android-Updates
+    * Proxy-Liste
+    * Proxy-Checker
+
+  * 
+  * 
+  * 
+  * 
+
+  * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Datenschutz
+
+Die nachfolgenden Informationen sollen Ihnen zeigen, welche Daten auf
+netzwelt.de gespeichert werden und wofür. Viele Begriffe und Systematiken
+erklären wir, damit Sie als Nutzer der netzwelt verstehen wo welche Daten
+anfallen und wie diese genutzt werden.
+
+###  Speicherung von Daten
+
+Als Betreiber der Webseite erheben wir nur die Daten, die notwendig sind, um
+unsere Dienste betreiben zu können. Personenbezogene Daten (Name, E-Mail-
+Adresse etc.) werden nur gespeichert, wenn Sie zuvor Ihr Einverständnis
+erklärt haben. Dies ist zum Beispiel bei der Anmeldung zur Community der Fall.
+
+Weitere Daten wie IP-Adresse, Zeitpunkt und aufgerufene Seiten werden nur in
+anonymisierter Form gespeichert und zu statistischen Zwecken ausgewertet.
+
+###  Weitergabe personenbezogener Daten
+
+Wir geben keine E-Mail-Adressen oder andere personenbezogene Daten an Dritte
+heraus. Sollten Sie mit uns per E-Mail Kontakt aufgenommen haben, haben wir
+Ihre E-Mail-Adresse bei uns lediglich zum Nachvollziehen unseres
+Schriftverkehrs gespeichert. Unaufgefordert werden Sie von uns keine E-Mails
+erhalten.
+
+###  Verwendung von Cookies
+
+Wir weisen darauf hin, dass dieser Dienst Cookies verwendet. Das Akzeptieren
+dieser Cookies durch den Besucher/Nutzer ist keine Voraussetzung für die
+Nutzung des Dienstes. Jedoch sind möglicherweise durch das Blockieren von
+Cookies nicht alle Funktionen möglich.
+
+###  Was sind Cookies?
+
+Ein Cookie ist eine kleine Textdatei, die von den jeweiligen Servern beim
+Besuch des Dienstes verschickt und auf der Festplatte des jeweiligen Nutzers
+zwischengespeichert wird. Wird der entsprechende Server erneut aufgerufen,
+sendet der Browser des Nutzers den zuvor empfangenen Cookie wieder zurück an
+den Server. Der Server kann dann die durch diese Prozedur erhaltenen
+Informationen auf verschiedene Arten auswerten. Dabei gibt es grundsätzlich
+zwei verschiedene Arten von Cookies. Zum einen Session-Cookies die nur für
+eine jeweilige Besucher-Session gespeichert werden. Dies bedeutet, dass die
+Cookies sofort automatisch gelöscht werden, wenn der jeweilige Dienst vom
+Besucher/Nutzer geschlossen wird. Zum anderen temporäre/permanente Cookies,
+die für einen längeren Zeitraum oder unbegrenzt auf dem Datenträger des
+Nutzers gespeichert werden.
+
+###  Wie setzt netzwelt Cookies ein?
+
+Die netzwelt GmbH setzt temporäre/permanente Cookies für seine Dienste ein.
+Beim Besuch eines Dienstes durch einen Nutzer werden Cookies an den Browser
+des Nutzers gesendet und auf der Festplatte des Nutzers gespeichert. Diese
+Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer
+zu machen. Die Cookies enthalten keine personenbezogenen Daten bzw. keinerlei
+persönliche Informationen über den Nutzer, so dass uns eine Identifizierung
+der Person mit den anhand der Cookies gewonnenen Informationen nicht möglich
+ist.
+
+Die gewonnenen Informationen dienen ausschließlich dem Zweck, Statistiken über
+die Nutzung unseres Angebots zu erstellen. Hierdurch können wir unser Angebot
+bestmöglich Ihren Kundenwünschen anpassen. Die netzwelt GmbH verwendet auch
+Cookies, die dauerhaft auf der Festplatte des Nutzers verbleiben. Diese
+Cookies sind erforderlich, um bei einem neuen Besuch zu erkennen, um welchen
+Besucher es sich handelt und welche Einstellungen und Eingaben dieser Besucher
+benötigt. Diese Cookies verbleiben auf der Festplatte und löschen sich nach
+der vorgegebenen Zeit von alleine.
+
+###  Welche Daten sind in den Cookies enthalten?
+
+Über die Cookies werden Informationen zu bestimmten Nutzungsverhalten,
+aufgesuchten Seiten der netzwelt GmbH -Dienste etc. gespeichert. Es werden
+jedoch keinerlei personenbezogene Daten gespeichert. Die gespeicherten Cookies
+ermöglichen daher keine Zuordnung von Nutzungsverhalten zu einer bestimmten
+oder bestimmbaren Person. Soweit Cookies verwendet werden, werden diesen
+verschlüsselte Nummern zugewiesen. Name, IP-Adresse, Adressen und weitere
+personenbezogene Daten sind in diesen Cookies jedoch nicht enthalten und den
+Cookie-Ident-Nummern sind auch zu keinem Zeitpunkt personenbezogene Daten
+zuzuordnen.
+
+Die an die netzwelt GmbH übermittelten Infos sind derart verallgemeinert, dass
+wir lediglich Informationen dazu enthalten, welche Seiten besucht worden sind,
+welche Filme angesehen worden sind, oder welche einzelnen Seiten auf der
+Homepage angeklickt worden sind. Diese Infos werden nur unter einem Pseudonym
+übermittelt und gespeichert, das dem Namen nicht zugeordnet werden kann. Die
+Speicherung dient mithin nur der eigenen Überprüfung der Effizienz von
+Inhalten auf den Seiten von netzwelt und nicht der Auswertung von persönlichen
+Nutzungsverhalten bestimmbarer einzelner Nutzer.
+
+###  Werden auch Cookies von Drittanbietern eingesetzt bzw. Webbeacons und
+nutzerbasierte Online-Werbung?
+
+Die Werbung in diesem Angebot wird durch die anonyme Erhebung und Verarbeitung
+Ihres Nutzungsverhaltens auf prognostizierte Interessen hin für Sie optimiert.
+Dazu setzen Drittunternehmen in unserem Auftrag Cookies auf Ihren Rechner, die
+Nutzungsdaten erfassen.
+
+Hierbei handelt es sich um solche Daten, die erhoben werden können, während
+Sie sich z. B. auf den Seiten dieses Online-Angebots bewegen oder Werbung
+anklicken. Auf diese Weise können wir die Nutzung von Online-Werbung
+analysieren, die für Sie interessant sein und Ihren Vorlieben entsprechen
+könnten (nutzungsbasierte Online-Werbung). In keinem Fall werden dabei
+personenbezogene Daten (wie Name, Anschrift, E-Mail-Adresse) gespeichert.
+Sofern IP-Adressen erfasst werden, werden diese anonymisiert, so dass ein
+Personenbezug ausgeschlossen ist.
+
+Wenn Sie keine nutzungsbasierte Online-Werbung mehr erhalten möchten, können
+Sie über Ihre Browsereinstellungen das Setzen bzw. Speichern von Cookies
+verhindern Darüber hinaus können Sie dem Einsatz von Cookies der in unserem
+Auftrag handelnden Drittunternehmen über die nachstehenden Links
+widersprechen:
+
+  * Nugg.ad AG: Datenschutz und Cookies
+  * AdAudience GmbH: Datenschutz und Cookies
+  * AudienceScience: Datenschutz und Cookies
+  * Yield lab GmbH: Datenschutz und Cookies
+
+Wir gestatten es außerdem sonstigen Dritten, beispielsweise Media-Agenturen,
+Cookies zu setzen, um die Nutzung von Online-Werbung zu analysieren und Ihnen
+anhand Ihrer Vorlieben spezielle, Sie interessierende Werbung auf unserem
+Online-Angebot zu präsentieren. Darüber hinaus soll den Media-Agenturen
+ermöglicht werden, die Zielgruppe ihrer Werbetreibenden möglichst genau und
+ohne große Streuverluste anzusprechen. Hierzu werden z.B. anonyme
+Nutzerstatistiken erstellt und die Daten zu Marktforschungszwecken verwendet.
+Ein Rückschluss auf eine Person ist nicht möglich. Sie können die Platzierung
+von Cookies Dritter auch durch eine entsprechende Einstellung Ihres Browsers
+verhindern.
+
+Anonymisierung der IP-Adresse: Im Internet benötigt jedes Gerät zur
+Übertragung von Daten eine eindeutige Adresse, die sogenannte IPAdresse. Die
+zumindest kurzzeitige Speicherung der IP-Adresse ist aufgrund der
+Funktionsweise des Internets technisch erforderlich. Die IP-Adressen werden
+vor jeglicher Verarbeitung gekürzt und nur anonymisiert weiterverarbeitet. Es
+erfolgt keine Speicherung oder Verarbeitung der ungekürzten IP-Adressen.
+
+Geolokalisierung bis zur Ebene der Bundesländer / Regionen: Eine sogenannte
+Geolokalisierung, also die Zuordnung eines Webseitenaufrufs zum Ort des
+Aufrufs, erfolgt ausschließlich auf der Grundlage der anonymisierten IP-
+Adresse und nur bis zur geographischen Ebene der Bundesländer / Regionen. Aus
+den so gewonnenen geographischen Informationen kann in keinem Fall ein
+Rückschluss auf den konkreten Wohnort eines Nutzers gezogen werden.
+
+Weitere Informationen zu nutzungsbasierter Online-Werbung sind auch auf dem
+Verbraucherportal www.meine-cookies.org erhältlich. Auf meine-cookies.org
+können Sie über nachstehenden Link darüber hinaus auch bei weiteren Anbietern
+die Erhebung von Nutzungsdaten deaktivieren bzw. aktivieren und den Status der
+Aktivierung bei unterschiedlichen Anbietern einsehen:
+
+  * http://www.meine-cookies.org/cookies_verwalten/praeferenzmanager-beta.html
+
+Wir setzen die folgenden Tracking-Tools auf unseren Diensten ein:
+
+###  Google Analytics
+
+Wir verwenden im Rahmen dieses Angebots Google Analytics, einen
+Webanalysedienst der Google Inc., USA ("Google"). Google Analytics verwendet
+Cookies, die eine Analyse der Benutzung unseres Online-Angebots durch Sie
+ermöglichen. Die durch die Cookies erzeugten Informationen über Ihre Benutzung
+unseres Angebots (einschließlich Ihrer IP-Adresse) werden an einen Server von
+Google in Europa bzw. in einem Mitgliedstaat des Abkommens des Europäischen
+Wirtschaftsraums zur Anonymisierung der IP Adresse gesendet, so dass eine
+Personenbeziehbarkeit ausgeschlossen ist. Erst nach der Anonymisierung der IP-
+Adresse wird diese gekürzte IP-Adresse an einen Server in die USA übermittelt.
+Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in
+den USA übertragen und dort gekürzt.
+
+In unserem Auftrag wird Google die durch die Cookies erzeugten Informationen
+benutzen, um Ihre Nutzung des Angebots auszuwerten, um Reports über die
+Nutzung des Angebots zusammenzustellen und um weitere mit der Nutzung des
+Angebots und der allgemeinen Internetnutzung verbundene Dienstleistungen zu
+erbringen. Die (gekürzte) IP-Adresse wird nicht mit anderen Daten von Google
+zusammengeführt. Neben den o.g. Browser-Einstellungen können Sie die
+Verarbeitung Ihrer Daten durch Google verhindern, indem Sie das unter dem
+folgenden Link verfügbare Browser Plugin herunterladen und installieren:
+
+  * http://tools.google.com/dlpage/gaoptout?hl=de
+
+###  Google Adsense
+
+Diese Website benutzt Google AdSense, einen Dienst zum Einbinden von
+Werbeanzeigen der Google Inc. ("Google"). Google AdSense verwendet sog.
+"Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine
+Analyse der Benutzung der Website ermöglicht. Google AdSense verwendet auch so
+genannte Web Beacons (unsichtbare Grafiken). Durch diese Web Beacons können
+Informationen wie der Besucherverkehr auf diesen Seiten ausgewertet werden.
+
+Die durch Cookies und Web Beacons erzeugten Informationen über die Benutzung
+dieser Website (einschließlich Ihrer IP-Adresse) und Auslieferung von
+Werbeformaten werden an einen Server von Google in den USA übertragen und dort
+gespeichert. Diese Informationen können von Google an Vertragspartner von
+Google weiter gegeben werden. Google wird Ihre IP-Adresse jedoch nicht mit
+anderen von Ihnen gespeicherten Daten zusammenführen.
+
+Als Drittanbieter verwendet Google Cookies zur Anzeigenschaltung auf Ihrer
+Website. Durch Verwendung des DART-Cookies wird die Anzeigenschaltung anhand
+der Besuche der Nutzer auf Ihren Websites und anderen Websites im Internet für
+Google ermöglicht. Nutzer können die Verwendung des DART-Cookies deaktivieren,
+indem sie folgenden Link aufrufen:
+
+  * Datenschutzbestimmungen des Werbenetzwerks und Content-Werbenetzwerks von Google
+
+Sie können die Installation der Cookies durch eine entsprechende Einstellung
+Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie
+in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll
+umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie sich
+mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor
+beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+
+###  Was ist Onsite-Targeting?
+
+Auf den Webseiten von netzwelt GmbH werden mit den oben unter bezeichneten
+Cookies Daten zur Optimierung von Werbeangeboten gespeichert. Auch hier findet
+jedoch keine Zuordnung zu der jeweiligen Person statt. Es handelt sich
+lediglich um gesammelte Daten zur Optimierung der Webseite. Die Daten werden
+dazu genutzt, auf den jeweiligen Nutzer zugeschnittene Werbung/besondere
+Angebote und Services zur Verfügung stellen zu können. So ist das Angebot für
+den Kunden noch attraktiver und kann besser und kundenfreundlicher genutzt
+werden. Nur so kann nur auf die jeweiligen Kundeninteressen zugeschnittene
+Werbung/Services angeboten werden. Der Kunde erhält somit nur noch ihn
+wirklich interessierende Werbung und nicht ein breites Spektrum an genereller
+Werbung. Davon abgesehen kann der Kunde natürlich jederzeit seine Einwilligung
+zur Zusendung von Werbung generell widerrufen.
+
+###  Was ist Re-Targeting?
+
+Re-Targeting funktioniert ganz ähnlich wie Onsite-Targeting. Der wesentliche
+Unterschied ist, dass beim Re-Targeting auch dritte Unternehmen mit
+eingebunden werden. Der Dienst der netzwelt GmbH verwendet auch so genannte
+Re-Targeting Software. Durch diese Technologie wird ermöglicht, dass ein
+Nutzer auch auf den Webseiten der Partner der netzwelt GmbH mit Werbung
+angesprochen werden kann. Damit kann dem Nutzer eine interessenbasierte
+Werbung zur Verfügung gestellt werden, die noch über das Leistungsspektrum der
+netzwelt GmbH hinausgeht.
+
+Dazu werden ebenfalls die oben bezeichneten Cookies genutzt, mit denen das
+bisherige Nutzungsverhalten ausgelesen wird. Auch in diesem Fall erfolgt keine
+personenbezogene Speicherung und Weitergabe der Daten. Auch der Partner der
+netzwelt GmbH erhält keinerlei personenbezogene Daten des Nutzers. Es wird
+Werbung lediglich auf den Seiten der Partner ebenfalls angezeigt, ohne dass
+die Daten (Cookies, die Nutzungsverhalten speichern) mit den personenbezogenen
+Daten einer bestimmbaren Person zusammengeführt werden. Auch für den Dritten
+ist eine Zusammenführung des Nutzungsverhaltens mit der jeweiligen Person
+nicht möglich.
+
+###  Wie kann das Setzen von Cookies generell ausgeschlossen werden?
+
+Der Nutzer kann natürlich auch generell die Platzierung von Cookies durch eine
+entsprechende Einstellung des Browsers dauerhaft oder auch nur zeitweise
+verhindern (für nähere Informationen bitte hier klicken). Falls der Kunde den
+Browser entsprechend einstellt, kann er eventuell nicht mehr sämtliche Dienste
+und/oder Funktionen unseres Angebots vollständig nutzen. Jeder Browser lässt
+sich so einstellen, dass Cookies generell abgelehnt werden.
+
+###  Alle Opt-Outs auf einen Blick
+
+  * MeineCookies
+  * Google Analytics
+  * Google AdSense
+
+###  Forum
+
+Im Forum nutzen wir Cookies für die Registrierung und persönliche
+Einstellungen. Die Informationen die von unserer Forensoftware gespeichert
+werden beinhalten die permanente Anmeldung, die verwendete Sprache oder das
+verwendete Erscheinungsbild sowie das eingestellte Verhalten der Seite.
+
+###  Noch Fragen?
+
+Schicken Sie uns eine E-Mail, wenn Sie weitere Fragen zu unserer Webseite
+haben.
+
+  1. Themen
+  2. A
+  3. B
+  4. C
+  5. D
+  6. E
+  7. F
+  8. G
+  9. H
+  10. I
+  11. J
+  12. K
+  13. L
+  14. M
+  15. N
+  16. O
+  17. P
+  18. Q
+  19. R
+  20. S
+  21. T
+  22. U
+  23. V
+  24. W
+  25. X
+  26. Y
+  27. Z
+  28. #
+
+  * Kaufberatung
+  * Hersteller
+  * Produkte
+  * Bestenlisten
+  * Testberichte
+  * Systemupdates
+
+  * Produkte
+  * Smartphone
+  * Tablet-PC
+  * Digitalkamera
+  * Videospiele
+  * Streaming-Anbieter
+
+  * Downloads
+  * Updates
+  * Top-100
+  * Anleitungen
+  * Dateien umwandeln
+  * Dateitypen
+
+  * Video & Streaming
+  * Serien
+  * TV-Sender
+  * Videos
+
+  * Spiele
+  * Tests
+  * Spielhalle
+  * Kostenlose Spiele
+
+  * Service
+  * Störungsmelder
+  * DSL-Speedtest
+  * Tarife
+
+Impressum *  Transparenz *  Werbung  
+Unser Team *  Rechtliche Hinweise *  Datenschutz *  
+Jugendschutz *  Stellenangebote
+
+© netzwelt GmbH 2017
+
+Abbrechen  Seite drucken
+

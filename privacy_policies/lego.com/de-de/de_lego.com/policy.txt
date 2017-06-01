@@ -1,0 +1,1029 @@
+##  Legal
+
+You are here: www.LEGO.com >
+
+  * Legal
+>
+
+  * Unser gutes Recht
+> Datenschutz
+
+  * Legal 
+  * Unser gutes Recht 
+    * Fair Play 
+
+    * Datenschutz 
+
+    * Nutzungsbedingungen für LEGO Apps 
+
+[Article page/Published] : 09 Dezember 2014, 12:47 CET
+
+###  Die Datenschutzrichtlinie der LEGO® Gruppe
+
+  *   *   *   *   * 
+
+###
+
+Letzte Änderung: 8. Juli 2016
+
+Fur die LEGO Gruppe ("LEGO", "wir", "uns", "unser/e") stehen Kinder und
+Kinderspiele 'im Mittelpunkt unseres Handelns. Wir nehmen diese Verantwortung
+ernst und verfolgen hohe Ziele, da fur die "Baumeister" der Zukunft nur das
+Beste gut genug ist. Diese Datenschutzrichtlinie gilt fur die Erfassung,
+Nutzung und Weiterleitung von Informationen durch die LEGO Gruppe, wobei LEGO
+System A/S hauptsachlich fur die Verarbeitung der Daten zustandig ist. Die
+LEGO Gruppe ist definiert als http://www.lego.com/aboutus/lego-group.
+
+Unsere Datenschutzrichtlinie soll unsere Datenschutzpraktiken und -Grundsatze
+in einem Format transparent gestalten, durch das die Nutzer navigieren und das
+sie lesen und verstehen konnen. Wir setzen alles daran, Ihre personenbezogenen
+Daten umsichtig, vertrauenswurdig und respektvoll zu behandeln.
+
+Daher hat die LEGO Gruppe eine Genehmigung von EU-weiten verbindlichen
+unternehmensinternen Vorschriften bei den Europaischen Datenschutzbehorden
+beantragt und fuhrt die Europaischen Datenschutzrechte unter Berucksichtigung
+der nationalen Gesetzgebung außerhalb der Europaischen Union als globalen
+Standard ein. Die verbindlichen unternehmensinternen Vorschriften beinhalten
+hohe Maßstabe zur Erfassung, Nutzung und Weiterleitung Ihrer Daten sowie
+allgemein in Bezug auf Ihre Daten. Wenn Sie mehr uber die verbindlichen
+unternehmensinternen Vorschriften erfahren mochten, klicken Sie hier
+http://ec.europa.eu/justice/data-protection/document/international-
+transfers/binding-corporate-rules/index_en.htm.
+
+Daruber hinaus ist die LEGO Gruppe einem Kinderschutzprogramm fur
+elektronische Medien zum Online-Schutz von Kindern beigetreten, in dessen
+Rahmen sich die LEGO Gruppe regelmaßigen Audits unterzieht. Mehr daruber
+erfahren Sie in unserem Abschnitt Datenschutz bei Kindern.
+
+Wir hoffen, dass wir uns Ihres Vertrauens wurdig erweisen und hoffen, dass Sie
+mit der LEGO Gruppe spielerische Erfahrungen machen.
+
+LEGO hat das TRUSTe's Privacy Seal Siegel erhalten zum Zeichen, dass diese
+Datenschutzrichtlinie und unsere Praktiken auf Übereinstimmung mit dem TRUSTe-
+Programm gepruft wurden, das Sie auf der Validierungsseite einsehen konnen,
+wenn Sie auf das TRUSTe-Siegel klicken. Die TRUSTe-Zertifizierung enthalt
+Informationen, die uber validierte LEGO-Kanale, Anwendungen und Sites erfasst
+wurden. Wenn Sie Fragen oder Anliegen zu unserer Datenschutzrichtlinie oder zu
+unseren Datenschutzpraktiken haben, wenden Sie sich bitte an uns unter
+privacy.officer@lego.com. Wenn Sie ein ungelostes Problem zum Thema
+Datenschutz oder Datennutzung haben, das wir nicht ausreichend behandelt
+haben, wenden Sie sich bitte an TRUSTe unter https://feedback-
+form.truste.com/watchdog/request.
+
+  
+
+Diese Datenschutzrichtlinie beschreibt die Verarbeitung von personenbezogenen
+Daten durch die LEGO Gruppe.
+
+ 1\. Unsere allgemeinen Grundsatze zu Datenschutz, -Nutzung und -Verarbeitung
+
+ 2\. Die von uns erfassten, genutzten und verarbeiteten Datentypen
+
+ 3\. Weshalb und wie wir Ihre Daten erfassen, nutzen und verarbeiten
+
+ 4\. Wie wir Ihre Daten innerhalb der LEGO-Konzerngesellschaften nutzen
+
+ 5\. Weitergabe Ihrer Daten an andere Unternehmen
+
+ 6\. Ihre Einstellungen und Optionen
+
+ 7\. Cookie-Richtlinie
+
+ 8\. Datenschutz in Bezug auf Kinder
+
+ 9\. LEGO-Mitarbeiter
+
+ 10\. LEGO-Partner
+
+ 11\. Datenschutz und Datensicherheit
+
+ 12\. Datenubertragungen, -Speicherung und globale -Verarbeitung
+
+ 13\. Änderungen an dieser Datenschutzrichtlinie
+
+ 14\. Kontaktdaten
+
+
+
+1\. Unsere allgemeinen Grundsatze bezuglich der Datenverarbeitung  
+  
+Um sicherzustellen, dass Ihre Daten korrekt verarbeitet werden, haben wir die
+folgenden Grundsatze eingefuhrt:
+
+  1. Wir erfassen und verarbeiten Ihre personenbezogenen Daten nur, wenn wir nach geltendem Recht eine Rechtsgrundlage fur die Verarbeitung haben, z. B:    
+    1. Ihre Zustimmung eingeholt haben,
+    2. eine Vereinbarung mit Ihnen erfullt werden muss, 
+    3. wir hierzu von Gesetzes wegen verpflichtet sind, oder
+    4. wir hierfur objektive Grunde haben und die Verarbeitung Ihnen keinen Schaden zufugt. 
+    5. Wir werden allerdings Ihre Zustimmung als Elternteil oder gesetzliche Vertretung immer einholen, wenn Ihr Kind im Alter unter 13 Jahren online personenbezogene Daten zur Verfugung stellt. 
+    6. Wir werden Sie immer uber die Verarbeitung und den Zweck der Verarbeitung informieren, sofern - und nur in Sonderfallen - dies uns von Gesetzes wegen nicht untersagt ist.
+    7. Wir verarbeiten Ihre personenbezogenen Daten nur zum ursprunglichen Zweck oder zu anderen Zwecken, die dem ursprunglichen Zweck nicht entgegen stehen.
+    8. Wir leiten Ihre personenbezogenen Daten nicht an andere Personen oder Unternehmen außerhalb der LEGO Gruppe weiter, sofern Sie uns nicht Ihre Zustimmung dazu erteilt haben, sofern wir nicht uber eine Vereinbarung mit Ihnen verfugen und sofern wir nicht von Gesetzes wegen hierzu verpflichtet sind.
+    9. Wir sind bemuht, Ihre personenbezogenen Daten regelmaßig zu uberprufen und zu aktualisieren.
+    10. Wir konnten Ihre personenbezogenen Daten durch Informationen aus anderen Datenbanken erganzen, um sicherzustellen, dass Ihre Daten korrekt und aktuell sind.
+    11. Wir nutzen hohe technische Standards, um Ihre personenbezogenen Daten zu schutzen.
+    12. Wir speichern Ihre personenbezogenen Daten nicht langer als erforderlich ist, um den Zweck zu erfullen, zu dem die personenbezogenen Daten erfasst oder weiterverarbeitet wurden.
+
+  
+  
+
+2\. Welche Datentypen verarbeiten wir?  
+  
+Wir verarbeiten zwei grundlegende Typen von Daten - personenbezogene Daten und
+anonyme Daten.
+
+Wir werden Ihre personenbezogenen Daten erfassen, wenn Sie mit uns uber unsere
+verschiedenen Kanale in Kontakt treten, wo Ihnen spezifische Bedingungen
+angeboten werden, die Sie daruber informieren, ob und welche spezifischen
+Daten zu welchem Zweck erfasst werden. Wir empfehlen Ihnen dringend, dass Sie
+die spezifischen Bedingungen auf unseren Kanalen vor Annahme unserer
+Bedingungen sorgfaltig lesen. Derzeit verfugen wir uber folgende spezifische
+Kanale:
+
+LEGO ID https://account.lego.com/
+
+LEGO Shop http://shop.lego.com/
+
+LEGO VIP http://shop.lego.com/VIP
+
+LEGO CLUB http://www.lego.com/club
+
+LEGO IDEAS http://www.lego.com/ideas
+
+LEGO REBRICK http://rebrick.lego.com/
+
+LEGO DUPLO http://www.lego.com/duplo
+
+LEGO KUNDENSERVICE http://service.lego.com/
+
+LEGO App Stores (Apple iTunes Store, Google Play Store usw.)
+
+LEGO-Sites fur soziale Netzwerke (Facebook, Twitter, YouTube usw.)
+
+LEGO Education - https://education.lego.com/
+
+LEGO Education shop - https://shop.education.lego.com/
+
+LEGO Education Community - https://community.education.lego.com/
+
+LEGO Education Konto - https://account.education.lego.com/
+
+  
+
+Wir verarbeiten jedoch typischerweise die folgenden Kategorien von
+personenbezogenen Daten:
+
+• Anmeldeinformationen, die Sie beim Anlegen eines Accounts in einem unserer
+Kanale zur Verfugung stellen, einschließlich Ihres Vor- und Familiennamens,
+des Wohnsitzlandes, Geschlechts, Geburtsdatums, der E-Mail-Adresse, des
+Benutzernamens und Passworts.
+
+• Transaktionsdaten, die Sie zur Verfugung stellen, wenn Sie Informationen
+anfordern oder ein Produkt oder eine Dienstleistung von uns beziehen, gleich
+ob an unseren Standorten oder durch unsere Anwendungen, einschließlich Ihrer
+Postanschrift, Telefonnummer und Zahlungsangaben (z. B. Kreditkartennummer).
+
+• Informationen, die Sie in offentlichen Foren auf unseren Sites, Kanalen und
+Anwendungen zur Verfugung stellen.
+
+• Informationen, die entweder personlich oder innerhalb einer begrenzten
+Gruppe mittels unserer Message-, Chat-, Post- oder einer ahnlichen
+Funktionalitat gesandt werden, wenn wir diese personenbezogenen Daten von
+Gesetzes wegen verarbeiten durfen.
+
+• Informationen, die Sie uns zur Verfugung stellen, wenn Sie unsere Sites,
+Kanale und Anwendungen, unsere Anwendungen auf Websites oder Plattformen
+Dritter, wie Sozialer Netzwerk-Sites verwenden, oder zur Website oder
+Plattform Dritter mit Ihrem Registrierungs-Account einen Link zu Ihrem Profil
+legen.
+
+• Standortinformationen beim Besuch unserer Seiten, Kanale oder Anwendungen,
+einschließlich Standortinformationen, die entweder uber ein mobiles Gerat
+bereitgestellt werden, das mit einem unserer Sites, Kanale oder Anwendungen
+kommuniziert, oder mit Ihrer IP-Adresse in Zusammenhang steht, wenn uns die
+Verarbeitung dieser Information von Gesetzes wegen gestattet ist.
+
+• Nutzungs-, Viewing - und technische Daten, einschließlich Ihrer
+Geratekennung oder IP-Adresse, wenn Sie unsere Sites besuchen, unsere
+Anwendungen auf Sites oder -Plattformen Dritter nutzen oder von uns versandte
+E-Mails offnen.
+
+  
+
+3\. Warum und wie verarbeiten wir Ihre personenbezogenen Daten?  
+  
+Durch das "Verarbeiten" Ihrer Daten erfassen, nutzen, speichern wir diese
+sowie leiten sie weiter und loschen sie irgendwann.
+
+• Wir verarbeiten Ihre personenbezogenen Daten und anonymen Informationen zum
+Zweck der Fuhrung unseres Tagesgeschafts und der Weitergabe der Erfahrungen
+von LEGO. Mit anderen Worten: Sie geben uns Ihre Daten, so dass wir unser
+Geschaft fuhren und Ihnen die LEGO-Erfahrungen online und offline zur
+Verfugung stellen konnen.
+
+• Wir verarbeiten die personenbezogenen Daten, die Sie uns zur Verfugung
+stellen bei der Anfrage nach Produkten, Leistungen oder Informationen, wenn
+Sie sich bei uns anmelden, sich an offentlichen Foren oder anderen Aktivitaten
+auf unseren Websites und Anwendungen beteiligen, an Kundenumfragen teilnehmen
+oder auf andere Weise mit uns kommunizieren. Bitte beachten Sie, dass - wenn
+Sie uns auf einer Website oder Plattform Dritter (z. B. uber unsere
+Anwendungen oder Kanale fur Social-Media-Netzwerke) personenbezogene Daten zur
+Verfugung stellen - die von Ihnen bereitgestellten personenbezogenen Daten
+moglicherweise vom Inhaber der Site oder Plattform des Dritten separat
+verarbeitet werden. Die von uns verarbeiteten personenbezogenen Daten sind von
+dieser Datenschutzrichtlinie abgedeckt, wahrend die von der Website oder
+Plattform Dritter verarbeiteten personenbezogenen Daten den
+Datenschutzpraktiken der Website oder Plattform Dritter unterliegen.
+Datenschutzentscheidungen, die Sie auf der Website oder Plattform Dritter
+getroffen haben, gelten nicht fur den Gebrauch der personenbezogenen Daten
+durch uns, die wir direkt uber unsere Sites, Kanale oder Anwendungen
+verarbeitet haben.
+
+• Wir verarbeiten die personenbezogenen Informationen mit technologischen
+Mitteln wie Cookies, Flash Cookies und Web Beacons, die auch aufzeichnen, wann
+Sie unsere Sites, Kanale oder Anwendungen auf den Websites oder Plattformen
+Dritter besuchen. Bitte lesen Sie unsere Cookie-Richtlinie, wenn Sie weitere
+Informationen wunschen, einschließlich "Do Not Track" (Keine Ruckverfolgung)
+und zum Deaktivieren von Cookies http://www.lego.com/legal/cookieinfo.
+
+• Wir erfassen Informationen aus anderen vertrauenswurdigen Quellen, um die
+von Ihnen zur Verfugung gestellten oder von uns automatisch verarbeiteten
+personenbezogenen Daten zu aktualisieren oder zu erganzen.
+
+  
+
+4\. Wie wir Ihre Daten innerhalb der LEGO-Konzerngesellschaften nutzen.  
+  
+Die LEGO Gruppe hat ihren Sitz in Billund, Danemark, aber wir verfugen
+weltweit uber Tochtergesellschaften und Niederlassungen. Mehr uber die LEGO
+Gruppe und Ihre Tochtergesellschaften erfahren Sie hier
+http://www.lego.com/aboutus/lego-group/locations. Fur die Datenverarbeitung
+ist hauptsachlich LEGO System A/S, Aastvej 1, 7190 Billund, Danemark
+zustandig. Weitere Tochtergesellschaften der LEGO Gruppe haben ggf. Zugriff
+auf Ihre Daten, wenn sie Dienstleistungen fur die datenverarbeitende Stelle
+(als Datenverarbeiter) ausfuhren und - sofern dies nicht nach geltendem Recht
+verboten ist - zur eigenen Nutzung (als datenverarbeitende Stelle) zu den
+folgenden Zwecken:
+
+• um Ihnen die von Ihnen benotigten Produkte und Leistungen zur Verfugung zu
+stellen;
+
+• um mit Ihnen uber Ihren Account oder Ihre Transaktionen mit uns zu
+kommunizieren und um Ihnen Informationen uber Funktionen auf unseren Sites und
+Anwendungen oder Änderungen an unseren Richtlinien zuzusenden;
+
+• um Ihnen Newsletters zu senden, wenn Sie sich dazu anmelden; Sie konnen sich
+jederzeit abmelden, indem Sie die Anweisungen zur Abmeldung am Fuß einer jeden
+Mitteilung ausfuhren;
+
+• um die Informationen der LEGO-Partner zu verarbeiten, wobei die lokale LEGO-
+Tochtergesellschaft der formale Vertragspartner ist;
+
+• um Tatigkeiten zu erkennen, zu untersuchen und zu verhindern, die ggf. gegen
+unsere Richtlinien verstoßen oder illegal sind.
+
+  
+  
+
+Öffentliche Foren und Chat-Funktionen  
+  
+Sie sollten sich bewusst sein, dass alle personenbezogenen Daten, die Sie im
+Rahmen von auf der Site angebotenen offentlichen Foren oder Chatfunktionen
+mitteilen, von anderen, die darauf Zugriff haben, gelesen, erfasst und genutzt
+werden konnen. Wenn Sie Ihre personenbezogenen Daten von den offentlich
+zuganglichen Bereichen auf der Website entfernen lassen mochten, setzen Sie
+sich in Verbindung mit privacy.officer@lego.com. In einigen Fallen sind wir
+evtl. nicht in der Lage, Ihre personenbezogenen Daten zu entfernen; in diesem
+Fall teilen wir Ihnen mit, dass und weshalb dies fur uns nicht moglich ist.
+Bitte beachten Sie, dass Benutzer unter 13 Jahren diese Bereiche der Site ohne
+die Zustimmung ihres Elternteils oder gesetzlichen Vertreters nicht nutzen
+durfen.
+
+  
+  
+
+LEGO ID  
+  
+Bitte denken Sie daran, dass Ihre LEGO ID auf anderen Websites Dritter
+verwendet werden kann, mit denen wir zusammenarbeiten, um Ihnen das Ausfuhren
+von virtuellen Spielen zu ermoglichen, ohne dass Sie einen separaten Account
+anzulegen brauchen. Wenn Sie Ihre LEGO ID nutzen, hat LEGO Zugriff auf
+bestimmte Informationen, die Sie diesen Websites Dritter ggf. zur Verfugung
+stellen, und wird diese Daten im Rahmen unserer Datenschutzrichtlinie
+erfassen, nutzen und verarbeiten. Websites Dritter haben Zugriff auf bestimmte
+Informationen im Rahmen Ihres LEGO-Profils, um Ihnen die Teilnahme an deren
+Site zu ermoglichen; Informationen uber die Nutzung Ihrer Daten durch sie
+entnehmen Sie bitte deren Datenschutzrichtlinie.
+
+MyFriends
+
+Bitte beachten Sie, dass Sie im Rahmen einiger unserer Spiele unseren „Friend-
+Finder-Tool" nutzen konnen, so dass Sie mit Freunden Kontakt aufnehmen und
+spielen konnen.  Bitte beachten Sie, dass zwischen Nutzern, die bekanntermaßen
+weniger als 13 Jahre alt sind, keinerlei personenbezogene Daten ausgetauscht
+werden.
+
+  
+  
+
+Social Media (Funktionen) und Widgets  
+  
+Unsere Website umfasst Social-Media-Funktionen, wie den Facebook-"Like"-Button
+und Widgets, wie den "Share this"-Button oder interaktive Miniprogramme, die
+auf unserer Site laufen. Diese Funktionen erfassen evtl. Ihre IP-Adresse, wenn
+Sie aktiv auf den Link klicken, welche Site Sie auf unserer Website besuchen,
+und konnen ein Cookie setzen, um den einwandfreien Betrieb der Funktion zu
+ermoglichen. Hosting von Social-Media-Funktionen und Widgets erfolgt entweder
+durch Dritte oder direkt auf unserer Website.  Ihre Kommunikation mit diesen
+Funktionen unterliegt der Datenschutzrichtlinie des Unternehmens, das sie zur
+Verfugung stellt.
+
+  
+  
+
+5\. Weitergabe Ihrer Daten an andere Unternehmen  
+  
+Wir werden Ihre personenbezogenen Daten nicht außerhalb der LEGO Gruppe
+weitergeben, außer in abgegrenzten Fallen, wie z. B.:
+
+• um unsere von Ihnen akzeptierten Nutzungsbedingungen oder andere geltende
+Bestimmungen durchzusetzen;
+
+• um Schutz und Sicherheit unserer Kunden und von Dritten zu gewahrleisten;
+
+• um unsere Rechte und unser Eigentum sowie die unserer Kunden und von Dritten
+zu schutzen;
+
+• um dem Rechtsweg zu entsprechen, oder in anderen Fallen, wenn wir der
+Meinung sind, dass eine Weiterleitung von Rechts wegen erforderlich ist, wie
+z. B. die Einhaltung einer Vorladung oder eines ahnlichen rechtlichen
+Vorgangs;
+
+• wenn Unternehmen fur uns Dienstleistungen ausfuhren, wie z. B. Auslieferung
+von Paketen, die Abwicklung von Zahlungen und Kundendienst; diese Unternehmen
+durfen jedoch Ihre personenbezogenen Informationen nicht fur andere als die
+von uns eindeutig definierten oder von Gesetzes wegen erforderlichen Zwecke
+nutzen, und dies wird unsererseits durch schriftliche Vertrage gewahrleistet;
+
+• wenn wir personenbezogene Daten in Verbindung mit einer Fusion, Übernahme
+oder dem Verkauf unserer Vermogenswerte - ganz oder teilweise - an Dritte
+weitergeben. Sie werden per E-Mail bzw. mit einem deutlichen Hinweis auf
+unserer Website uber eventuelle Änderungen der Eigentumsverhaltnisse oder der
+Nutzung Ihrer personlichen Daten informiert, sowie uber Wahlmoglichkeiten, die
+Ihnen hinsichtlich Ihrer personenbezogenen Daten zur Verfugung stehen:
+
+• wenn Sie uns Ihre Zustimmung zur Weitergabe Ihrer personenbezogenen Daten an
+ein anderes Unternehmen zu Marketing-Zwecken erteilen, damit dieses Ihnen
+Angebote und Werbung uber seine Produkte und Dienstleistungen zusenden kann.
+Wenn Sie die Erlaubnis zur Weitergabe dieser Informationen an Dritte
+ruckgangig machen mochten, kontaktieren Sie uns unter
+http://service.lego.com/contactus. In einigen Fallen kann es erforderlich
+sein, dass Sie direkt mit diesen Dritten Kontakt aufnehmen mussen:
+
+ • wenn Sie uns bitten, Ihre personenbezogenen Daten an Websites oder
+Plattformen Dritter - wie z. B. Social-Networking-Websites - weiterzugeben.
+Bitte beachten Sie, dass nach der Übermittlung Ihrer personenbezogenen Daten
+zu Marketingzwecken an ein anderes Unternehmen die Daten, die das andere
+Unternehmen erhalten hat, den Datenschutzpraktiken des anderen Unternehmens
+unterliegen.
+
+  
+  
+
+6\. Ihre Einstellungen und Optionen  
+  
+Wir bieten Ihnen die Moglichkeit, bestimmte Einstellungen und Optionen zur
+Verarbeitung Ihrer Informationen vorzunehmen, die Folgendes einschließen:
+
+• Sie konnen Ihren Registrierungs-Account korrigieren, aktualisieren und
+loschen.
+
+• Sie konnen Ihre Optionen in Bezug auf Abonnements, Newsletters und Warnungen
+andern.
+
+• Sie konnen wahlen, ob Sie Angebote und Werbung von uns uber unsere Produkte
+und Dienstleistungen, oder Produkte und Dienstleistungen, von denen wir
+annehmen, dass sie fur Sie interessant sind, erhalten mochten.
+
+• Sie konnen wahlen, ob wir Ihre personenbezogenen Daten an andere Unternehmen
+weitergeben durfen, so dass sie Ihnen Angebote und Werbung uber deren Produkte
+und Dienstleistungen zusenden konnen.
+
+• Sie konnen Zugriff auf die personenbezogenen Daten verlangen, die wir uber
+Sie fuhren, und dass wir sie andern oder loschen sollen, und dass wir von
+Dritten, an die wir die Daten weitergeleitet haben, verlangen sollen, ebenso
+zu verfahren.
+
+Sie konnen Ihre Einstellungen und Optionen ausfuhren oder den Zugriff auf oder
+das Loschen von Fehlern aus ihren personenbezogenen Daten verlangen, indem Sie
+Ihr(e) Account(s) aufsuchen oder sich mit dem LEGO Kundenservice unter
+http://service.lego.com/contactus in Verbindung setzen. Wenn Sie uber den LEGO
+Kundenservice mit uns Kontakt aufnehmen, mussen wir Ihre Identitat aus
+Sicherheitsgrunden prufen. Es kann bis zu 10 Tagen dauern, bis Änderungen
+wirksam werden. Hiermit weisen wir darauf hin, dass wir, wenn Sie uns die
+Verarbeitung der von Ihnen erhaltenen personenbezogenen Daten nicht gestatten,
+eventuell nicht in der Lage sind, Ihnen bestimmte Produkte zu liefern bzw.
+Dienstleistungen zu erbringen, und dass einige unserer Dienstleistungen
+eventuell Ihre Interessen und Praferenzen nicht berucksichtigen konnen. Wenn
+Sie Fragen in Bezug auf Ihre spezifischen personenbezogenen Daten haben, die
+wir verarbeiten oder aufbewahren, wenden Sie sich bitte an den LEGO
+Kundenservice.
+
+Wir werden Ihre Informationen aufbewahren, solange Ihr Account aktiv ist, oder
+solange, wie es erforderlich ist, um die Dienstleistung zu erbringen. Wenn Sie
+Ihr Account kundigen mochten oder wunschen, dass wir Ihre Daten nicht mehr
+dazu verwenden, Dienstleistungen fur Sie zu erbringen, wenden Sie sich bitte
+an uns unter http://service.lego.com/contactus. Wir werden Ihre Daten so
+aufbewahren und nutzen, wie es unseren gesetzlichen Verpflichtungen
+entspricht, zur Beilegung von Rechtsstreitigkeiten und zur Durchsetzung
+unserer Vertrage.
+
+
+
+7\. Cookie-Richtlinie  
+  
+Wie auf den meisten Webseiten werden auch bei uns bestimmte Informationen
+automatisch erfasst und in Log-Dateien gespeichert. Diese Informationen konnen
+Internet-Protokoll- (IP) Adressen, Browsertypen, Internet-Service-Provider
+(ISP), verweisende / Exit-Seiten, Betriebssysteme, Datums-/Zeitstempel, sowie
+Clickstream-Daten umfassen.  Wir verknupfen diese automatisch erfassten Daten
+nicht mit anderen Daten, die wir uber Sie erfassen.
+
+Technologien wie Cookies, Beacons, Scripts und Tags werden von LEGO und
+unseren externen Partnern fur Tracking-Dienstprogramme sowie von
+Dienstleistungsanbietern genutzt.  Diese Technologien kommen zur Trendanalyse,
+zur Verwaltung der Website, zur Verfolgung der Nutzer-Bewegungen auf der
+gesamten Site und zur Erfassung von demografischen Angaben uber unsere
+Nutzerzahlen insgesamt zur Anwendung.  Wir erhalten von diesen Unternehmen
+evtl. aufgeschlusselte und zusammenfassende Berichte uber die Nutzung dieser
+Technologien.
+
+Weitere Informationen uber Cookies entnehmen Sie bitte unserer Cookie-
+Richtlinie.
+
+  
+  
+
+8\. Datenschutz in Bezug auf Kinder
+
+  
+  
+Wir erkennen die Notwendigkeit eines weiteren Datenschutzes in Bezug auf
+personenbezogene Daten von Kindern, die wir ggf. auf unseren Websites, Kanalen
+und Anwendungen verarbeiten, an. Einige der Funktionen unserer Sites, Kanale
+und Anwendungen sind altersgesteuert, so dass sie Kindern nicht zur Verfugung
+stehen, und wir erfassen, nutzen oder verarbeiten nicht wissentlich
+personenbezogene Daten von Kindern in Verbindung mit diesen Funktionen. Wenn
+wir beabsichtigen, personenbezogene Daten von Kindern zu verarbeiten,
+unternehmen wir zusatzliche Maßnahmen zum Schutz der Daten von Kindern,
+einschließlich:
+
+• Benachrichtigung an die Eltern uber unsere Informationspraktiken in Bezug
+auf Kinder, einschließlich Erlauterung der Arten der personenbezogenen Daten
+von Kindern, die wir ggf. erfassen, nutzen und verarbeiten, die Art, wie wir
+diese personenbezogenen Daten nutzen und ob und an wen wir diese Daten ggf.
+weitergeben.
+
+• nach geltendem Recht die Einholung der Zustimmung der Eltern zur Erfassung,
+Nutzung und Verarbeitung der personenbezogenen Daten ihrer Kinder oder zur
+Zusendung von Informationen uber unsere Produkte und Dienstleistungen direkt
+an ihre Kinder
+
+• Beschrankung der Erfassung, Nutzung und Verarbeitung von personenbezogenen
+Daten von Kindern durch uns auf das fur die Beteiligung an einer Online-
+Aktivitat angemessener Weise Erforderliche
+
+• Gewahren des Zugriffs oder der Moglichkeit zum Zugriff durch Eltern auf die
+von uns erfassten, genutzten oder verarbeiteten personenbezogenen Daten ihrer
+Kinder sowie die Moglichkeit, Änderungen oder Loschen der personenbezogenen
+Daten zu verlangen
+
+In Bezug auf Kinder in der Altersgruppe zwischen 13 und 18 Jahren halten wir
+uns an geltendes Recht.
+
+A. Welche Daten von Kindern erfassen wir, wie nutzen wir sie und wie und wann
+kommunizieren wir diese mit den Eltern?
+
+Die LEGO Gruppe bietet ihren Benutzern eine Vielzahl von Webseiten, Kanalen
+und Anwendungen, von denen einige primar auf Familien mit Nutzern aller
+Altersgruppen abzielen, und andere auf Kinder abgestimmt sind. Unsere
+Webseiten, Kanale und Anwendungen bieten eine Vielzahl von Aktivitaten,
+einschließlich solcher, die evtl. das Erfassen von Daten von Kindern
+beinhalten. Nachstehend fassen wir potenzielle Falle fur die Erfassung von
+Daten zusammen und umreißen, wie und wann wir die Eltern informieren bzw.
+deren Zustimmung einholen. In jedem Fall, in dem wir personenbezogene Daten
+von einem Kind erfassen, werden wir diese Daten nur so lange aufbewahren, wie
+angemessener Weise erforderlich ist, um die Aktivitatsanforderung zu erfullen
+und die Sicherheit unserer Benutzer und unserer Leistungen sicherzustellen,
+oder wie gesetzlich vorgeschrieben. Sollten wir feststellen, dass wir Daten
+von einem Kind auf eine Weise erfasst haben, die den COPPA-Vorgaben
+widerspricht, werden wir entweder die Information loschen oder unverzuglich
+die Zustimmung der Eltern fur diese Erfassung einholen.
+
+  
+  
+Anmeldung
+
+In vielen Fallen konnen Kinder sich auf unseren Sites und Anwendungen
+anmelden, u. a. um Inhalte zu betrachten, zu spielen, an Wettbewerben
+teilzunehmen und spezielle Funktionen zu nutzen. Wahrend des Anmeldeverfahrens
+bitten wir das Kind evtl. um bestimmte Informationen zu Zwecken der
+Benachrichtigung und aus Sicherheitsgrunden, einschließlich Folgender: E-Mail-
+Adresse eines Elternteils oder gesetzlichen Vertreters, Vornamen und
+Geschlecht des Kindes, Mitglieds- oder Account-Benutzername und Passwort. Wir
+konnen Kinder auch nach ihrem Geburtsdatum fragen, um ihr Alter zu uberprufen.
+Wir empfehlen Kindern dringend, keinesfalls personenbezogene Daten in ihren
+Benutzernamen zur Verfugung zu stellen.
+
+Bitte beachten Sie, dass Kinder sich entscheiden konnen, ob sie ihre Daten an
+uns weitergeben mochten, aber bestimmte Funktionen sind ohne diese nicht
+moglich. Folglich erhalten Kinder ggf. keinen Zugriff auf bestimmte
+Funktionen, wenn die erforderliche Information nicht zur Verfugung gestellt
+wurde. Wir verlangen von einem Kind nicht, dass es mehr Informationen liefert,
+als angemessenerweise erforderlich ist, um an einer Online-Aktivitat
+teilzunehmen.
+
+Zur Erfassung der elterlichen E-Mail-Adresse: Entsprechend den COPPA-Vorgaben
+verlangen wir auf jeder auf Kinder abzielenden Website oder Anwendung, oder in
+jedem Fall, in dem wir nach dem Alter fragen und feststellen, dass der
+Benutzer erst 12 Jahre alt oder junger ist, nach der E-Mail-Adresse eines
+Elternteils oder gesetzlichen Vertreters, bevor wir vom Kind personenbezogene
+Daten erfassen. Wenn Sie der Meinung sind, dass Ihr Kind an einer Aktivitat
+beteiligt ist, die personenbezogene Daten erfasst, und Sie oder ein anderer
+Elternteil / gesetzlicher Vertreter KEINE E-Mail zur Benachrichtigung oder mit
+der Bitte um Zustimmung erhalten haben, wenden Sie sich bitte an unseren
+Datenschutzbeauftragten unter Data Privacy Officer privacy.officer@lego.com.
+Wir werden die E-Mails der Eltern, die zum Zweck der Zustimmung der Eltern zur
+Verfugung gestellt wurden, nicht zur Zusendung von Werbung an den Elternteil
+verwenden, sofern der Elternteil sich nicht ausdrucklich fur E-Mail-Marketing
+angemeldet hat oder anderweitig an einer Aktivitat teilgenommen hat, die einen
+derartigen E-Mail-Kontakt gestattet.
+
+  
+  
+Von einem Kind erstellte Inhalte
+
+Bestimmte Aktivitaten auf unseren Sites, Kanalen und Anwendungen gestatten
+Kindern das Erstellen oder den Umgang mit Inhalten und das Speichern bei der
+LEGO Gruppe. Einige derartige Aktivitaten verlangen von Kindern keine
+personenbezogenen Daten und fuhren daher ggf. nicht zu einer Benachrichtigung
+der Eltern oder der Einholung von deren Zustimmung. Wenn eine Aktivitat
+potentiell gestattet, dass ein Kind personenbezogene Daten in seine erstellten
+Inhalte einfugt, werden wir entweder die Sendung vorab prufen, um
+personenbezogene Daten zu entfernen, oder per E-Mail die elterliche Zustimmung
+zur Erfassung einholen. Beispiele fur erstellte Inhalte, die ggf.
+personenbezogene Daten enthalten konnen:
+
+\- Geschichten oder Eingabe-Textfelder,
+
+\- Zeichnungen, bei denen die Eingabe von Text oder freihandige Eintragung von
+Informationen moglich ist,
+
+\- Bilder Ihres Kindes,
+
+\- Audio- oder Filmdateien, die ihr Kind darstellen, und
+
+\- weitere Persistent Identifiers (permanent gultige Identifikatoren), die zur
+eindeutigen Identifizierung Ihres Kindes verwendet werden konnen.  
+  
+  
+  
+
+Wenn die LEGO Gruppe zusatzlich zum Erfassen von Inhalten, die
+personenbezogene Daten umfassen, auch plant, die Inhalte offentlich zu posten
+oder an Dritte zu deren eigenem Gebrauch weiterzugeben, werden wir ein hoheres
+Niveau der elterlichen Zustimmung anstreben (nachweisliche Zustimmung der
+Eltern)
+
+  
+  
+
+Elterliche Zustimmungsmechanismen:
+
+Zustimmung per E-Mail (niedriges Zustimmungsniveau):
+
+Falls die LEGO Gruppe personenbezogene Daten von einem Kind zu erfassen
+wunscht, ist laut COPPA zuvor die Einholung der Zustimmung eines Elternteils
+oder gesetzlichen Vertreters per E-Mail erforderlich. In der E-Mail erklaren
+wir, welche Informationen wir erfassen, wie wir planen, sie zu nutzen, wie der
+Elternteil seine Zustimmung geben kann und wie der Elternteil seine Zustimmung
+widerrufen kann. Wenn wir die elterliche Zustimmung nicht innerhalb
+angemessener Zeit erhalten, werden wir die Kontaktdaten der Eltern und alle
+anderen vom Kind zum Zweck der Kontaktaufnahme mit Ihnen erfassten
+personenbezogenen Daten loschen.
+
+  
+  
+Nachweisliche Zustimmung  (hohes Zustimmungsniveau):
+
+Falls die LEGO Gruppe personenbezogene Daten von einem Kind erfasst, die
+offentlich gepostet oder an Dritte weitergeleitet werden, werden wir ein
+hoheres Zustimmungsniveau als nur Zustimmung per E-Mail anstreben. Zu diesen
+Zustimmungsverfahren auf ""hohem Niveau"" zahlen u. a. die Frage nach einer
+Kreditkarte oder einer anderen Zahlungsmethode zum Nachweis (inklusive einer
+Schutzgebuhr), ein Telefongesprach oder Video-Chat mit einem geschulten
+Kundenservice-Vertreter oder die Anforderung eines unterzeichneten
+Zustimmungsformulars per E-Mail, als E-Mail-Anhang oder Fax. Nachdem ein
+Elternteil die Zustimmung auf "hohem Niveau" erteilt hat, kann er die
+Moglichkeit erhalten, fur die kunftige Kommunikation eine PIN oder ein
+Passwort zur Bestatigung seiner Identitat zu verwenden.
+
+  
+  
+Wettbewerbe und Gewinnspiele
+
+Fur Wettbewerbe und Gewinnspiele benotigen wir typischerweise nur die
+personenbezogenen Daten, die fur die Teilnahme des Kindes erforderlich sind,
+wie z. B. den Vornamen (zur Unterscheidung von anderen Familienmitgliedern),
+sowie die E-Mail-Adresse der Eltern (fur Mitteilungen an die Eltern, soweit
+gesetzlich vorgeschrieben). Wir wenden uns nur an den Elternteil, um weitere
+personenbezogene Daten zu erhalten, wenn es um die Preisverleihung geht, d. h.
+wenn das Kind den Wettbewerb oder das Gewinnspiel gewinnt.
+
+Naturlich wird das Kind bei einigen Wettbewerben und Gewinnspielen
+aufgefordert, selbst erstellte Inhalte mit seinem eigenen Eintrag zu senden.
+In diesen Fallen kann es erforderlich sein, vor dem Senden die Zustimmung der
+Eltern einzuholen. Weitere Informationen uber unsere Richtlinien zur
+Erfassung, Mitteilung und Zustimmung finden Sie im vorstehenden Abschnitt "Von
+einem Kind erstellte Inhalte". Die Eltern erhalten eine Mitteilung zusammen
+mit Anweisungen, wie sie ihrem Kind die Zustimmung zur Teilnahme an derartigen
+Aktivitaten per E-Mail geben konnen (an die fur den Elternteil gespeicherte
+E-Mail-Adresse gesandt).  Wir werden Ihrem Kind erst gestatten, an diesen
+Aktivitaten teilzunehmen, nachdem wir Ihre Zustimmung dazu erhalten haben.
+
+  
+  
+E-Mail-Kontakt mit einem Kind
+
+Gelegentlich kann es notwendig sein, dass die LEGO Gruppe, um eine Frage oder
+Anfrage eines Kindes beantworten zu konnen, nach den Online-Kontaktdaten des
+Kindes - wie z. B. einer E-Mail-Adresse - fragt. Die LEGO Gruppe loscht diese
+Daten unverzuglich nach Beantwortung der Frage oder Anfrage.
+
+In Verbindung mit bestimmten Aktivitaten oder Dienstleistungen erfassen wir
+evtl. die Online-Kontaktdaten eines Kindes, wie z. B. eine E-Mail-Adresse, die
+wir vom Elternteil erhalten haben, um mehr als nur ein Mal mit dem Kind zu
+kommunizieren. In diesen Fallen behalten wir die Online-Kontaktdaten des
+Kindes, um die Anfrage zu beantworten, und nicht zu anderen Zwecken, wie z. B.
+Marketing. Als Beispiel ware hier ein Newsletter zu nennen, der gelegentlich
+neue Informationen uber eine Website, ein Spiel/eine Aktivitat, eine TV-Show,
+eine Personlichkeit/Figur oder einen Spielfilm bietet. Wenn wir die Online-
+Kontaktdaten eines Kindes fur laufende Kommunikation erfassen, bitten wir
+gleichzeitig um die E-Mail-Adresse eines Elternteils, um diesen uber die
+Erfassung und Nutzung der Daten des Kindes zu informieren und dem Elternteil
+die Moglichkeit einzuraumen, kunftigen Kontakt mit dem Kind zu unterbinden. In
+einigen Fallen kann ein Kind in mehr als eine laufende Kommunikation
+involviert sein und es kann notwendig sein, dass ein Elternteil fur jede
+Kommunikation eine separate Abmeldung ("Opt out") senden muss. Eltern konnen
+ihr Kind vom Empfang derartiger Mitteilungen abmelden, indem sie die in jeder
+Mitteilung enthaltenen "Unsubscribe"-Anweisungen ausfuhren oder eine E-Mail an
+die folgende Adresse senden: http://service.lego.com/contactus.
+
+  
+  
+"Push-Benachrichtigungen":
+
+Push-Benachrichtigungen sind Benachrichtigungen uber mobile und sonstige
+Gerate, die typischerweise mit Download-Anwendungen in Zusammenhang stehen und
+an den Inhaber des Gerats auch dann ubermittelt werden konnen, wenn das Gerat
+gerade nicht genutzt wird. Wir werden ein Kind auffordern, die E-Mail-Adresse
+eines Elternteils anzugeben, bevor das Kind Push-Benachrichtigungen von
+unseren an das Kind gerichteten Anwendungen erhalten kann, die eine
+Geratekennung erfassen. Wir werden dann den Elternteil uber unseren Kontakt
+mit dem Kind informieren und es dem Elternteil ermoglichen, weitere
+Benachrichtigungen zu unterbinden. Schließlich werden wir die Geratekennung
+nicht mit den anderen personenbezogenen Daten in Verbindung bringen, ohne die
+Zustimmung des Elternteils einzuholen.  Wenn Sie nicht mehr wunschen, dass Ihr
+Kind derartige Mitteilungen erhalten soll, konnen Sie sie uber das Gerat
+selbst abstellen.
+
+  
+  
+Standortbestimmung:
+
+Wenn eine an ein Kind gerichtete Website, ein Kanal oder eine Anwendung Daten
+uber den geografischen Standort des Kindes (Standortbestimmung), die
+Straßenbezeichnung, Anschrift oder Koordinaten erfasst, werden wir vorher die
+Zustimmung eines Elternteils per E-Mail einholen. Dies bedeutet ebenfalls,
+dass wir in einigen Fallen Daten uber die Standortbestimmung der Kinder
+erfassen, zu denen keine elterliche Zustimmung erforderlich ist, d. h. Daten
+in Bezug auf die Stadt, das Land und die Region, die nicht mit dem
+spezifischen Kind verknupft sind.  Wenn Sie die Erfassung dieser Daten durch
+uns unterbinden mochten, konnen Sie dies auf der Gerateebene in den
+Einstellungen tun, oder indem Sie sich an uns wenden unter
+http://service.lego.com/contactus.
+
+  
+  
+Persistent Identifiers:
+
+Wenn Kinder mit uns kommunizieren, konnen manche Informationen automatisch
+erfasst werden, einerseits um unsere Websites und Anwendungen fur Kinder
+interessanter und nutzlicher zu gestalten, und andererseits zu verschiedenen
+geschaftlichen Zwecken unseres Unternehmens. Beispiele hierfur sind die Art
+des Computer-Betriebssystems, die IP-Adresse des Kindes oder die Kennung des
+mobilen Gerats, der Web-Browser, die Haufigkeit, mit der das Kind verschiedene
+Teile unserer Sites oder Anwendungen besucht, sowie Informationen uber den
+Online- oder Mobilfunkanbieter. Diese Informationen werden mit Hilfe von
+Technologien wie Cookies, Flash Cookies, Web-Beacons und anderen eindeutigen
+Kennungen erfasst (die wir im Abschnitt "Cookie-Richtlinie" unserer
+allgemeinen Datenschutzrichtlinie definieren). Diese Informationen konnen
+durch die LEGO Gruppe oder durch Dritte erfasst werden, die sie fur die LEGO
+Gruppe verarbeiten. Diese Daten werden grundsatzlich und ausschließlich zu
+internen Zwecken verwendet, um:  
+  
+  
+  
+
+• Kindern Zugang zu Funktionen und Aktivitaten auf unseren Sites und
+Anwendungen zu ermoglichen
+
+• Inhalte kundenspezifisch zu gestalten und unsere Sites und Anwendungen zu
+verbessern
+
+• Forschung und Analyse in Bezug auf die Leistung unserer Sites und
+Anwendungen durchzufuhren
+
+• anonyme Berichte zur Nutzung durch die LEGO Gruppe zu generieren.
+
+Falls wir diese Informationen von Kindern auf unseren Webseiten und
+Anwendungen zu anderen Zwecken erfassen (oder deren Erfassung anderen
+gestatten), werden wir vor einer derartigen Erfassung die Eltern
+benachrichtigen und deren Zustimmung einholen.
+
+Eine Aufstellung der Drittleistungsparteien, die Persistent Identifiers auf
+unseren Sites und Anwendungen erfassen, ist nachstehend aufgefuhrt - Cookie-
+Richtlinie http://www.lego.com/legal/cookieinfo
+
+  
+
+B. Wenn von Kindern erfasste Informationen anderen zur Verfugung gestellt
+werden  
+  
+  
+  
+Zusatzlich zu den wenigen Fallen, in denen personenbezogene Daten eines Kindes
+offentlich gepostet werden (nach Einholung der elterlichen Zustimmung auf
+hohem Niveau), konnen wir von Kindern erfasste personenbezogene Daten auch in
+einer begrenzten Anzahl von Fallen weitergeben oder weiterleiten,
+einschließlich Folgender:  
+  
+  
+  
+
+• Wir konnen Informationen an unsere Dienstleistungen weitergeben, wie z. B.
+Software-Losungen, Sicherheit im Internet und Kundendienst; diese Unternehmen
+durfen jedoch Ihre personenbezogenen Informationen nicht fur andere als die
+von uns eindeutig definierten oder von Gesetzes wegen erforderlichen Zwecke
+nutzen, und dies wird unsererseits durch schriftliche Vertrage gewahrleistet.
+
+• Wir konnen personenbezogene Daten weiterleiten, wenn dies von Gesetzes wegen
+zugelassen oder erforderlich ist, z. B. als Reaktion auf einen
+Gerichtsbeschluss oder eine Vorladung. Soweit von Gesetzes wegen zulassig,
+durfen wir auch personenbezogene Daten weiterleiten, die wir von Kindern (i)
+als Reaktion auf die Aufforderung einer Vollzugsbehorde oder staatlichen
+Stelle (einschließlich Schulen oder Dienststellen fur Kinder) erfasst haben;
+(ii) wenn wir glauben, dass die Weiterleitung die Anstiftung zu einem
+Verbrechen verhindern, eine Untersuchung in Bezug auf Öffentliche Sicherheit
+erleichtern oder die Sicherheit eines Kindes beim Gebrauch unserer Sites und
+Anwendungen schutzen kann; (iii) um die Sicherheit und Integritat unserer
+Sites, Anwendungen und sonstigen Technologie sowie der Technologie unserer
+Dienstleister zu schutzen; oder (iv) damit wir Vorkehrungen gegen Haftung
+treffen konnen.
+
+• Eltern sind berechtigt, der Erfassung, Nutzung und Verarbeitung der
+personenbezogenen Daten ihres Kindes zuzustimmen, ohne gleichzeitig der
+Weiterleitung dieser Daten an Dritte zustimmen zu mussen, da wir Daten nur in
+der vorstehend aufgefuhrten Form an Dritte weiterleiten.  
+  
+  
+  
+
+C. Einstellungen und Optionen der Eltern
+
+Die Eltern konnen sich jederzeit weigern, uns die Nutzung und Erfassung
+weiterer personenbezogener Daten von ihren Kindern in Verbindung mit einem
+bestimmten Account zu gestatten, und konnen verlangen, dass wir aus unseren
+Aufzeichnungen die in Verbindung mit diesem Account erfassten
+personenbezogenen Daten loschen. Bitte beachten Sie, dass eine Aufforderung,
+Aufzeichnungen zu loschen, dazu fuhren kann, dass ein Account, eine
+Mitgliedschaft oder eine sonstige Dienstleistung eingestellt wird.
+
+Wenn ein Kind sich fur ein LEGO ID Account angemeldet hat, bieten wir zwei
+Verfahren, um Eltern den Zugriff, Änderungen oder Loschen der durch uns
+erfassten personenbezogenen Daten ihrer Kinder zu ermoglichen:  
+  
+  
+  
+
+  1\. Die Eltern konnen den Zugang zu den personenbezogenen Daten ihres Kindes
+verlangen und diese loschen, indem sie sich in das
+
+  Account des Kindes uber die hier erreichbare Seite https://account.lego.com
+einloggen. Die Eltern benotigen den Benutzernamen und das Passwort des Kindes.
+Auf der Homepage fur die Seite
+
+  https://account.lego.com ist erlautert, wie Sie ein Passwort
+wiederherstellen, wenn das Kind sich nicht daran erinnern kann.
+
+  2\. Die Eltern konnen sich an den Kundendienst wenden, um Zugang zu den
+personenbezogenen Daten ihres Kindes zu erhalten, sie zu andern oder zu
+loschen;
+
+  dazu klicken sie auf http://service.lego.com/contactus.
+
+Alle weiteren Anfragen konnen an folgende Anschrift gerichtet werden:
+
+LEGO System A/S  
+  
+Aastvej 1  
+  
+DK-7190 Billund  
+  
+Danemark  
+  
+z. Hd. des Datenschutzbeauftragten \- CLA  
+
+\- oder Sie konnen sich direkt per E-Mail oder Telefon an unseren
+Kundenservice  wenden unter http://service.lego.com/contactus.
+
+Bitte geben Sie in jeglicher Korrespondenz, sei es per E-Mail oder Post, den
+Benutzernamen des Kindes und die E-Mail-Adresse und Telefonnummer der Eltern
+an. Um die Daten von Kindern zu schutzen, unternehmen wir angemessene
+Vorsichtsmaßnahmen, um die Identitat eines Elternteils zu uberprufen, bevor
+wir Zugriff auf personenbezogene Daten gewahren.
+
+Wir bewahren die Daten Ihres Kindes so lange auf, wie sein Account aktiv ist
+oder wie erforderlich ist, um ihm Dienstleistungen zu bieten. Wenn Sie das
+Account Ihres Kindes auflosen mochten oder verlangen, dass wir diese
+Informationen nicht mehr dazu verwenden, ihm Dienstleistungen zu bieten,
+wenden Sie sich bitte an uns unter: http://service.lego.com/contactus. Wir
+werden ihre Daten so aufbewahren und nutzen, wie es unseren gesetzlichen
+Verpflichtungen entspricht, zur Beilegung von Rechtsstreitigkeiten und zur
+Durchsetzung unserer Vertrage.
+
+Wenn wir wesentliche Änderungen an der Art der Nutzung der von Kindern unter
+13 Jahren erfassten personenbezogenen Informationen vornehmen, werden wir die
+Eltern per E-Mail informieren, um die nachweisliche Zustimmung der Eltern fur
+die neue Nutzung der personenbezogenen Daten des Kindes einzuholen.
+
+
+
+9\. Mitarbeiter der LEGO Gruppe  
+  
+Gleich, ob Sie Mitarbeiter der LEGO Gruppe sind oder sich um eine Stelle bei
+ihr bewerben, werden wir spezifische fur Ihre Anstellung und Bewerbung
+relevante Daten verarbeiten. Die in Abs. 1 aufgefuhrten Grundsatze gelten
+ebenfalls fur Ihre Anstellung oder Bewerbung.
+
+  
+  
+
+10\. LEGO Partner  
+  
+Wir definieren LEGO Partner als andere Unternehmen, die mit der LEGO Gruppe
+Geschafte tatigen. Als LEGO Partner verarbeiten wir Informationen uber Ihre
+Gesellschaft und in Bezug auf die Transaktionen zum Zweck der Verwaltung
+unserer Zusammenarbeit und zu Auswertungszwecken.
+
+
+
+11\. Datenschutz und Datensicherheit  
+  
+Sicherheit, Vollstandigkeit und Vertraulichkeit Ihrer Informationen sind uns
+außerst wichtig. Wir haben technische, verwaltungstechnische und physische
+Sicherheitsmaßnahmen implementiert, die personenbezogene Daten gegen
+unbefugten Zugriff, Weiterleitung, Nutzung und Änderung schutzen sollen. Sie
+spielen jedoch ebenfalls eine wichtige Rolle beim Schutz Ihrer Informationen.
+Es ist wichtig, dass Sie ein Passwort wahlen, das nicht leicht zu erraten ist,
+und dass Sie Ihre Passworter nicht weitergeben.
+
+Wir uberprufen unsere Sicherheitsmaßnahmen zu gegebener Zeit, um geeignete
+neue Technologien und Verfahren zu berucksichtigen. Alle externen
+Übertragungen, die personenbezogene Daten enthalten, erfolgen mittels
+verschlusselter Technologie. Bitte beachten Sie, dass trotz unserer
+bestmoglichen Vorkehrungen keine Sicherheitsmaßnahme perfekt oder
+unuberwindbar ist.
+
+Die Angaben zu Kreditkartendaten werden von zugelassenen Dienstleistern
+behandelt, die den PCI (Payment Card Industry) Standards entsprechen und uber
+geeignete Sicherheitseinrichtungen verfugen.
+
+Sollten Sie Schwachstellen an unserem Sicherheitssystem feststellen oder
+Bedenken haben, wenden Sie sich bitte ohne zu zogern an uns:
+http://service.lego.com/.
+
+Falls bei der LEGO Gruppe eine Datenschutzverletzung auftritt und Ihre Daten
+betroffen sind, werden wir uns mit Ihnen in Verbindung setzen, wenn das Risiko
+von Missbrauch Ihrer Daten besteht und wir von Gesetzes wegen dazu
+verpflichtet sind. In einigen Fallen ist die LEGO Gruppe auch von Gesetzes
+wegen verpflichtet, die (Datenschutz-) Behorden bei einem Verstoß gegen den
+Datenschutz zu informieren.
+
+  
+  
+
+12\. Datenubertragungen, -Speicherung und globale -Verarbeitung  
+  
+Wir sind weltweit tatig und konnen Ihre personenbezogenen Daten zu den in
+dieser Datenschutzrichtlinie beschriebenen Zwecken an einzelne
+Tochtergesellschaften der LEGO Gruppe oder an Dritte an Standorten weltweit
+ubertragen. Wenn Ihre personenbezogenen Daten von uns oder von Unternehmen,
+die derartige Dienstleistungen fur uns ausfuhren, ubertragen, gespeichert oder
+verarbeitet werden, unternehmen wir alles Zumutbare, um den Schutz Ihrer
+personenbezogenen Daten sicherzustellen. Weiterhin halten wir bei der Nutzung
+oder Weiterleitung von personenbezogenen Daten unsere verbindlichen
+unternehmensinternen Vorschriften ein, wenn diese zum Tragen kommen.
+
+Die verbindlichen unternehmensinternen Vorschriften bieten Ihnen die hochste
+Sicherheit hinsichtlich der Art der Verarbeitung Ihrer Daten.
+
+
+
+13\. Änderungen an dieser Datenschutzrichtlinie  
+  
+Zu gegebener Zeit konnen wir diese Datenschutzrichtlinie andern, um neue
+Technologien, Branchengepflogenheiten, aufsichtsrechtliche Anforderungen
+einzubeziehen, oder aus anderen Grunden. Wir werden Sie per E-Mail oder durch
+eine Mitteilung auf unserer Website im Voraus benachrichtigen, wenn diese
+Änderungen wesentlich sind und, sofern dies laut geltendem Recht erforderlich
+ist, werden wir Ihre Zustimmung einholen.
+
+
+
+14\. Kontakt  
+  
+Wenn Sie Anfragen haben, Ihre Meinung oder eine Frage zu dieser
+Datenschutzrichtlinie außern mochten, wenden Sie sich bitte an unseren
+Datenschutzbeauftragten:
+
+LEGO System A/S  
+  
+Aastvej 1  
+  
+DK-7190 Billund  
+  
+Danemark  
+  
+z. Hd. des Datenschutzbeauftragten \- CLA
+
+\- oder Sie konnen sich direkt per E-Mail oder Telefon an unseren Kundendienst
+wenden unter http://service.lego.com/contactus.
+
+Bitte geben Sie in Ihrer Anfrage Ihre Identitat und die Tochtergesellschaft
+der LEGO Gruppe an, an die sich Ihre Anfrage richtet. Wenn keine LEGO-
+Tochtergesellschaft angegeben ist, werden wir Ihre Anfrage so behandeln, als
+ob sie an LEGO System A/S gerichtet ist.
+
+Unsere Websites und Anwendungen konnen Links auf andere Websites beinhalten,
+die nicht unter unserer Verantwortung oder Kontrolle stehen. Wir sind fur die
+Datenschutzpraktiken dieser Sites nicht verantwortlich. Wir legen Ihnen nahe,
+es sich bewusst zu machen, wenn Sie unsere Sites oder Anwendungen verlassen,
+und die Datenschutzrichtlinien von anderen Sites zu lesen, die ggf. Ihre
+personenbezogenen Daten verarbeiten.
+
+Hinweis an in Kalifornien ansassige Personen: Wenn Sie in Kalifornien ansassig
+sind, gestattet Ihnen § 1798.83 des California Civil Code , Informationen uber
+die Weiterleitung Ihrer personenbezogenen Daten durch bestimmte Mitglieder der
+LEGO Gruppe an Dritte zum Zweck des Direktmarketing durch diese Dritten zu
+verlangen. Diese Datenschutzrichtlinie gilt hinsichtlich dieser juristischen
+Personen nur auf deren Aktivitaten im Staat Kalifornien.
+
+Kundenservice
+
+  * Bauanleitung
+  * Fehlende Teile
+  * Kontakt
+  * Rückrufaktionen
+
+Über uns
+
+  * Verantwortung
+  * Jobs
+  * Rechtliche Informationen
+  * Presse
+
+Eltern
+
+  * Geschenkecke
+  * Online-Sicherheit
+  * Entwicklung des Kindes
+
+LehrerInnen / ErzieherInnen
+
+  * LEGO Education Webseite
+  * LEGO Education Produkte
+
+LEGOLAND
+
+  * Parks
+  * Discovery Centers
+
+  * Datenschutzrichtlinien
+
+LEGO, the LEGO logo, the Minifigure, DUPLO, BIONICLE, LEGENDS OF CHIMA,
+DIMENSIONS, the FRIENDS logo, the MINIFIGURES logo, MINDSTORMS, MIXELS,
+NINJAGO and NEXO KNIGHTS are trademarks of the LEGO Group. ©2017 The LEGO
+Group.  
+  
+

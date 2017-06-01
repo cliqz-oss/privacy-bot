@@ -1,0 +1,225 @@
+Direkt zum Inhalt  
+
+
+Direkt-Links \-------------------------- Personensuche Erweiterte Suche Die
+Uni von A-Z Marvin Vorlesungsverzeichnis  LSF/QIS-Portal Katalog Plus OPAC
+Lernplattform ILIAS Webmail Studierende Webmail Mitarbeiter
+
+  
+  Startseite Studium Forschung Fachbereiche Einrichtungen Internationales
+Aktuelles  
+  
+
+
+  * Profil
+  * Administration
+  * Personal
+  * Qualitätsmanagement
+  * Ombudsperson
+  * Service
+  * Projekte
+  * Kontakt / Lageplan
+  * Sicherheit
+
+Informationen für
+
+    
+
+  * Studienbewerber/innen 
+  * Studieninteressierte 
+  * Studienanfänger/innen 
+  * Studierende 
+  * Lehrende 
+  * Freunde und Förderer 
+  * Absolventen/Alumni 
+  * Journalisten 
+  * Bewerber/innen 
+
+Sie sind hier:» Universität » Datenschutzerklärung
+
+  * 
+
+  *   * 
+
+# Datenschutzerklärung
+
+Nach § 13 Absatz 1 Telemediengesetz hat „Der Diensteanbieter [...] den Nutzer
+zu Beginn des Nutzungsvorgangs über Art, Umfang und Zwecke der Erhebung und
+Verwendung personenbezogener Daten [...] in allgemein verständlicher Form zu
+unterrichten, sofern eine solche Unterrichtung nicht bereits erfolgt ist.“
+
+Die Philipps-Universität Marburg nimmt den Schutz Ihrer personenbezogenen
+Daten ernst. Wir möchten Sie informieren, wann wir welche Daten bei Ihrem
+Zugriff auf unsere Webseiten erheben und wie wir diese verwenden.
+
+Durch die Weiterentwicklung unserer Webseiten und die Umsetzung neuer
+Technologien können Änderungen am Inhalt dieser Datenschutzerklärung notwendig
+werden. Wir bitten Sie daher, sich diese Datenschutzerklärung von Zeit zu Zeit
+erneut durchzulesen.
+
+Die Verarbeitung der Daten durch die Philipps-Universität erfolgt gemäß den
+datenschutzrechtlichen Bestimmungen. Die Daten werden nicht in Staaten
+außerhalb des Anwendungsbereichs der Richtlinie 95/46/EG des Europäischen
+Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen
+bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr
+gespeichert oder verarbeitet.
+
+## Protokollierte Daten
+
+Beim Zugriff auf die Webseiten der Philipps-Universität werden folgende Daten
+in Form von Zugriffsprotokollen gespeichert:
+
+  1. die IP-Adresse des Clients
+  2. die (Server-)Zeit des Zugriffs
+  3. die HTTP-Methode und die URL der Anfrage
+  4. der HTTP-Statuscode der Server-Antwort
+  5. die Byte-Größe der Server-Antwort
+  6. die vom Browser übermittelte Herkunftsseite
+  7. der User-Agent (die Browser-Selbstbezeichnung)
+
+Zugriffe auf unsere Webseiten werden in Protokolldateien für fünf vollständige
+Tage gespeichert und dann durch Rotation gelöscht. Die IP-Adressen, die in den
+Protokolldateien abgelegt werden, sind um das letzte Byte gekürzt und dadurch
+anonymisiert. Die Zuordnung einer IP-Adresse zu einer natürlichen Person ist
+damit nicht oder nur mit einem unverhältnismäßig großen Aufwand möglich.
+
+Um einen andauernden oder kurz bevorstehenden vorsätzlichen Angriff auf die
+Webseite abzuwehren und Beweise zu sichern, behält sich die Philipps-
+Universität vor, kurzzeitig die Anonymisierung der IP-Adresse in den
+Protokolldateien zu deaktivieren.
+
+## Cookies
+
+Ein sogenannter Cookie ist ein Textfragment, das eine Webseite über den
+Browser auf dem Rechner des Anfragenden platziert und dessen Inhalt bei jedem
+folgenden Zugriff des Browsers auf die Webseite erneut an diese übermittelt
+wird.
+
+Bei Zugriff auf unsere Webseite wird ein Cookie mit der Bezeichnung
+„I18N_LANGUAGE“ auf einen Wert gesetzt, der Ihre bevorzugte Spracheinstellung
+repräsentiert (z. B. „de“, „en“), falls Sie nicht-deutschsprachige Seiten im
+CMS aufrufen. Unbeabsichtigt kann unter eng begrenzten Randbedingungen
+aufgrund einer Eigenheit des eingesetzten Content Management Systems ein
+weiterer Cookie gesetzt werden. Dieser wird jedoch bei anschließenden Anfragen
+Ihrerseits durch die CMS-Server aus der Anfrage entfernt, so dass er nicht zu
+einer Identifizierung geeignet ist.
+
+Ein weiterer Cookie dient der Auswertung Ihrer Zugriffe auf unsere Seiten
+durch die Analysesoftware „Piwik“. Bitte entnehmen Sie weitere Informationen
+zu Piwik unter „Auswertungen“.
+
+Darüber hinaus wird ein Cookie bei der Schaltung von Werbebannern gesetzt.
+Bitte entnehmen Sie weitere Informationen dazu unter „Werbung“.
+
+Die Philipps-Universität weist Sie darauf hin, dass Sie die Speicherung von
+Cookies für unsere Seite in Ihrem Webbrowser deaktivieren können.
+Infolgedessen kann Ihre bevorzugte Spracheinstellung jedoch dann nicht
+gespeichert werden (s. o.).
+
+## Auswertungen
+
+Die Webseite der Philipps-Universität nutzt die Analysesoftware Piwik, mit
+welcher Nutzeranfragen statistisch ausgewertet werden können. Piwik setzt dazu
+einen Cookie auf Ihrem Rechner, um Sie – in anonymisierter Form – als
+wiederkehrenden Nutzer unserer Seiten zu identifizieren. Zusätzlich werden
+durch Piwik Informationen zum verwendeten Browser, zu
+Betriebssystemeinstellungen (Bildschirmauflösung), Ein- und Ausstiegsseiten
+und zur Aufenthaltsdauer erfasst. Neben der oben dargestellten Möglichkeit,
+das Setzen von Cookies über den Browser zu steuern, können Sie mit einem Opt
+Out-Cookie gezielt jeglicher Erfassung Ihrer Besuche auf unserer Webseite
+durch Piwik widersprechen:
+
+## Verweise
+
+Unsere Webseiten enthalten gegebenenfalls Verweise („Links“) zu Webseiten
+anderer Anbieter. Diese sind in der Regel mit einem Symbol () gekennzeichnet.
+Die Philipps-Universität hat keinen Einfluss darauf, ob diese Anbieter
+ebenfalls die gesetzlichen Datenschutzbestimmungen erfüllen. Bitte prüfen Sie
+stets dann die Datenschutzerklärungen der Anbieter.
+
+## Werbung
+
+Auf einigen Webseiten der Philipps-Universität sind in Zusammenarbeit mit der
+Firma VariFast GmbH und unter Verwendung des Adservers der Adition
+technologies AG (Adition) Werbebanner geschaltet.
+
+Dabei kommen auch Cookies zum Einsatz. Es handelt sich ausschließlich um
+Session-Cookies und temporäre Cookies, die dazu dienen, die Zahl der Leser
+(„Visitors“) statistisch zu messen und die zahlenmäßig festgelegte
+Auslieferung der Werbemittel zu begrenzen. Technisch bedingt, wird dabei die
+IP-Adresse der Besucher auch an diese beiden Firmen übermittelt. Es werden nur
+technische, aber keine identifizierenden Daten erfasst. Alle Daten inklusive
+der IP-Adressen werden nur anonymisiert und rein statistisch ausgewertet. Über
+den Web-Server der Adition werden nur die Verkehrsdaten der Übermittlung
+temporär gespeichert, deren Erfassung insoweit ohne ausdrückliche Einwilligung
+des Benutzers erfolgen darf.
+
+Alle einschlägigen datenschutzrechtlichen Bestimmungen, insbesondere die des
+deutschen Telemediengesetzes und des Bundesdatenschutzgesetzes, werden von
+VariFast GmbH und Adition eingehalten.
+
+Durch Klicken auf den nachfolgenden Link wird die Erfassung von anonymisierten
+Daten gestoppt. Adition ersetzt in diesem Fall den bestehenden Cookie durch
+einen neuen Opt Out-Cookie. Wird dieser Opt Out-Cookie selbst gelöscht, kann
+Adition nicht mehr feststellen, dass ein Opt-Out stattgefunden hat. In diesem
+Fall ist der Opt Out-Vorgang zu wiederholen.
+
+Link für Opt Out
+
+## Gültigkeit
+
+Die Datenschutzerklärung ist aktuell gültig und zuletzt am 30.08.2013 geändert
+worden.
+
+Zuletzt aktualisiert: 01.06.2017
+
+Schnellsuche
+
+Termine
+
+    
+
+Die Zepter der Universitäten Marburg und Gießen
+
+01.06.2017
+
+Von der Freiheit eines Christenmenschen - Reformation und ...
+
+01.06.2017
+
+Deutsche Hochschulmeisterschaften Tennis
+
+30.05.2017 - 02.06.2017
+
+Promovieren ja oder nein?
+
+01.06.2017
+
+Sammlung Hilde Eitel#3
+
+01.06.2017 - 24.09.2017
+
+Coffee Lecture: Fake News, Fake Science.
+
+01.06.2017
+
+Investigations on Hydroxycinnamoyltransferases
+
+01.06.2017
+
+weitere
+
+
+
+  
+
+
+Philipps-Universität Marburg, Biegenstraße 10, 35032 Marburg  
+Tel. +49 6421 28-20, Studifon +49 6421 28-22222, Fax +49 6421 28-22500,
+E-Mail: info@uni-marburg.de
+
+URL dieser Seite: http://www.uni-marburg.de/datenschutz
+
+Impressum | Datenschutz  
+     
+

@@ -1,0 +1,2630 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<!--  in case of enabling "Header set X-UA-Compatible..." as of the .htaccess file remove all
+      "X-UA-Compatible" related lines within the HTML code in order to avoid edge case issues.
+      More info: h5bp.com/i/378 -->
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="cleartype" content="on">
+
+
+<meta property="og:url" content="https://www.hagebau.de/datenschutz/" >
+  <meta property="og:description" content="Datenschutzbestimmungen - weitere Informationen finden Sie auf hagebau.de" >
+  <meta property="og:site_name" content="www.hagebau.de" >
+  <meta property="og:title" content="Datenschutzbestimmungen - hagebau.de" >
+  <meta name="robots" content="noindex, follow" >
+  <meta name="description" content="Die offiziellen Datenschutzbestimmungen von hagebau.de" >
+  <link href="https://www.hagebau.de/datenschutz/" rel="canonical">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.hagebau.de/datenschutz/" />
+<title>Datenschutz - hagebau.de</title>
+  <script type="text/javascript">
+    window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
+    ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"a832161708",applicationID:"14717964",sa:1}
+
+    
+          var newRelicPageType = 'LandingPage_Datenschutzbestimmungen';
+          
+          var newRelicPageName = newRelicPageType + window.location.pathname + location.search;
+        
+      newrelic.setCustomAttribute("PageType", newRelicPageType);
+      newrelic.setPageViewName(newRelicPageName);
+      
+      newrelic.setCustomAttribute("FirstCall", document.referrer != null && document.referrer.indexOf("hagebau.de") == -1);
+      
+      newrelic.setCustomAttribute("deviceTypeIshop", "Desktop");
+    </script>
+<script type="text/javascript">
+  window.hj=window.hj||function(){(hj.q=hj.q||[]).push(arguments)};
+  hj('tagRecording', ['ThirdPartyUserId: 8d608f8c-8fec-4cd1-9521-31524c86621f']);
+</script><link rel="stylesheet" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/index.css" type="text/css" charset="utf-8">
+<link rel="preload" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/index-below.css" as="style" onload="this.rel='stylesheet'" type="text/css" charset="utf-8">
+<noscript><link rel="stylesheet" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/index-below.css" type="text/css" charset="utf-8"></noscript>
+
+<link rel="stylesheet" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/static.css" type="text/css" charset="utf-8"><script>
+  /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+  !function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);
+  /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+  !function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+</script><!--[if lt IE 9]>
+  <link rel="stylesheet" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/ie8/ie8.css" type="text/css" charset="utf-8">
+<![endif]-->
+
+<link rel="shortcut icon" type="image/x-icon" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/favicon.ico">
+<link rel="icon" type="image/x-icon" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/favicon.ico">
+
+<link rel="apple-touch-icon" sizes="32x32" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/apple-touch-icon-32x32.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/apple-touch-icon-152x152.png">
+
+<link rel="stylesheet" type="text/css" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/print/common.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/print/agb.css" media="print" />
+<script type="text/javascript">
+  window.iShop = {
+    config: {
+      baseUrl : "https://www.hagebau.de",
+    }
+  };
+</script>
+
+<script>document.documentElement.className += 'js';</script>
+
+<script type="text/javascript">
+!function(a,b){function c(c,d){function e(f){b.removeEventListener("DOMContentLoaded",e),c.call(d||a,f)}function f(e){"complete"===b.readyState&&(b.detachEvent("onreadystatechange",f),c.call(d||a,e))}b.addEventListener&&b.addEventListener("DOMContentLoaded",e)||b.attachEvent&&b.attachEvent("onreadystatechange",f)}a.domReady=c}(window,document);
+</script>
+
+<!--[if lt IE 9]>
+<script src="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/js/ie/html5shiv.js"></script>
+<![endif]--><link rel="preconnect" href="https://image.hagebau.de">
+<link rel="preconnect" href="https://www.hagebau.de">
+<link rel="preconnect" href="https://ad-emea.doubleclick.net">
+<link rel="preconnect" href="https://ad.360yield.com">
+<link rel="preconnect" href="https://ad.yieldlab.net">
+<link rel="preconnect" href="https://ad11.adfarm1.adition.com">
+<link rel="preconnect" href="https://ads.yahoo.com">
+<link rel="preconnect" href="https://adserver.adtech.de">
+<link rel="preconnect" href="https://ap.lijit.com">
+<link rel="preconnect" href="https://bat.bing.com">
+<link rel="preconnect" href="https://bh.contextweb.com">
+<link rel="preconnect" href="https://cm.g.doubleclick.net">
+<link rel="preconnect" href="https://connect.facebook.net">
+<link rel="preconnect" href="https://cotads.adscale.de">
+<link rel="preconnect" href="https://dis.criteo.com">
+<link rel="preconnect" href="https://dis.eu.criteo.com">
+<link rel="preconnect" href="https://dsum-sec.casalemedia.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://ih.adscale.de">
+<link rel="preconnect" href="https://imagesrv.adition.com">
+<link rel="preconnect" href="https://js-agent.newrelic.com">
+<link rel="preconnect" href="https://maps.googleapis.com">
+<link rel="preconnect" href="https://maps.gstatic.com">
+<link rel="preconnect" href="https://match.sharethrough.com">
+<link rel="preconnect" href="https://nexus.ensighten.com">
+<link rel="preconnect" href="https://pixel.rubiconproject.com">
+<link rel="preconnect" href="https://rtb-csync.smartadserver.com">
+<link rel="preconnect" href="https://scs.webtrends.com">
+<link rel="preconnect" href="https://secure.adnxs.com">
+<link rel="preconnect" href="https://simage2.pubmatic.com">
+<link rel="preconnect" href="https://sp.analytics.yahoo.com">
+<link rel="preconnect" href="https://sslwidget.criteo.com">
+<link rel="preconnect" href="https://static.criteo.net">
+<link rel="preconnect" href="https://staticxx.facebook.com">
+<link rel="preconnect" href="https://stats.fcld.me">
+<link rel="preconnect" href="https://statse.webtrendslive.com">
+<link rel="preconnect" href="https://trc.taboola.com">
+<link rel="preconnect" href="https://ums.adtech.de">
+<link rel="preconnect" href="https://us-u.openx.net">
+<link rel="preconnect" href="https://widget.eu.criteo.com">
+<link rel="preconnect" href="https://www.facebook.com">
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://x.bidswitch.net">
+<link rel="dns-prefetch" href="https://image.hagebau.de">
+<link rel="dns-prefetch" href="https://www.hagebau.de">
+<link rel="dns-prefetch" href="https://ad-emea.doubleclick.net">
+<link rel="dns-prefetch" href="https://ad.360yield.com">
+<link rel="dns-prefetch" href="https://ad.yieldlab.net">
+<link rel="dns-prefetch" href="https://ad11.adfarm1.adition.com">
+<link rel="dns-prefetch" href="https://ads.yahoo.com">
+<link rel="dns-prefetch" href="https://adserver.adtech.de">
+<link rel="dns-prefetch" href="https://ap.lijit.com">
+<link rel="dns-prefetch" href="https://bat.bing.com">
+<link rel="dns-prefetch" href="https://bh.contextweb.com">
+<link rel="dns-prefetch" href="https://cm.g.doubleclick.net">
+<link rel="dns-prefetch" href="https://connect.facebook.net">
+<link rel="dns-prefetch" href="https://cotads.adscale.de">
+<link rel="dns-prefetch" href="https://dis.criteo.com">
+<link rel="dns-prefetch" href="https://dis.eu.criteo.com">
+<link rel="dns-prefetch" href="https://dsum-sec.casalemedia.com">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com">
+<link rel="dns-prefetch" href="https://ih.adscale.de">
+<link rel="dns-prefetch" href="https://imagesrv.adition.com">
+<link rel="dns-prefetch" href="https://js-agent.newrelic.com">
+<link rel="dns-prefetch" href="https://maps.googleapis.com">
+<link rel="dns-prefetch" href="https://maps.gstatic.com">
+<link rel="dns-prefetch" href="https://match.sharethrough.com">
+<link rel="dns-prefetch" href="https://nexus.ensighten.com">
+<link rel="dns-prefetch" href="https://pixel.rubiconproject.com">
+<link rel="dns-prefetch" href="https://rtb-csync.smartadserver.com">
+<link rel="dns-prefetch" href="https://scs.webtrends.com">
+<link rel="dns-prefetch" href="https://secure.adnxs.com">
+<link rel="dns-prefetch" href="https://simage2.pubmatic.com">
+<link rel="dns-prefetch" href="https://sp.analytics.yahoo.com">
+<link rel="dns-prefetch" href="https://sslwidget.criteo.com">
+<link rel="dns-prefetch" href="https://static.criteo.net">
+<link rel="dns-prefetch" href="https://staticxx.facebook.com">
+<link rel="dns-prefetch" href="https://stats.fcld.me">
+<link rel="dns-prefetch" href="https://statse.webtrendslive.com">
+<link rel="dns-prefetch" href="https://trc.taboola.com">
+<link rel="dns-prefetch" href="https://ums.adtech.de">
+<link rel="dns-prefetch" href="https://us-u.openx.net">
+<link rel="dns-prefetch" href="https://widget.eu.criteo.com">
+<link rel="dns-prefetch" href="https://www.facebook.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://x.bidswitch.net">
+</head>
+<body class="is-web ">
+  <div class="modal fade" id="the-modal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+
+<div class="CookieHint" data-url="/cookiehint/seen/">
+    <div class="CookieHint-inner">
+      Hagebau.de verwendet <strong>Cookies</strong> um ein besseres Nutzererlebnis zu bieten. Wenn Sie hagebau.de nutzen, stimmen Sie der Verwendung von Cookies zu. <a href="/datenschutz/">Mehr Infos</a></div>
+    <span class="Icon Icon--close"></span>
+  </div>
+<div class="Page" id="page">
+    <div class="Print--no">
+  <div class="Metahead">
+    <div class="Row Metahead-inner">
+
+        <div class="Column Column--25 Metahead-left">
+          <a href="javascript:void(0);" class="Metahead-link"><span class="Icon Icon--percentOff"></span><span data-et-action="Header_USP-Leiste" data-et-label="3% Sofort-Rabatt">3% Sofort-Rabatt</span></a>
+          <div class="Metahead-bubble">
+            <div class="Arrow"></div>
+            Mit Ihrer Partner-Card erhalten Sie 3%* Sofort-Rabatt auf jeden Online-Einkauf oder beim Einkauf in Ihrem hagebaumarkt.<div class="Copy Copy--small Copy--silent">
+              * Tabakwaren, Zeitschriften, Bücher, Gutscheine, Pfand sowie Streckengeschäfte, Dienstleistungen und Palettenwaren sind nicht rabattfähig. Nicht mit anderen Aktionen kombinierbar.</div>
+          </div>
+        </div>
+        <div class="Column Column--25 Metahead-left">
+          <a href="javascript:void(0);" class="Metahead-link"><span class="Icon Icon--placeDelivery"></span><span data-et-action="Header_USP-Leiste" data-et-label="Lieferung ins Wohnzimmer">Lieferung ins Wohnzimmer</span></a>
+          <div class="Metahead-bubble">
+            <div class="Arrow"></div>
+            Ob Wohnzimmer, Terrasse oder Keller: Viele unserer großen und sperrigen Artikel liefern wir direkt an den gewünschten Ort.</div>
+        </div>
+        <div class="Column Column--25 Metahead-center">
+          <a href="javascript:void(0);" class="Metahead-link"><span class="Icon Icon--billPay"></span><span data-et-action="Header_USP-Leiste" data-et-label="Kauf auf Rechnung">Kauf auf Rechnung</span></a>
+          <div class="Metahead-bubble">
+            <div class="Arrow"></div>
+            Bestellen Sie heute und bezahlen Sie erst nach Erhalt der Ware (Bonität vorausgesetzt. Gilt nicht für Artikel zur Sofortlieferung aus dem Regionallager).</div>
+        </div>
+        <div class="Column Column--25 Metahead-right">
+          <a href="javascript:void(0);" class="Metahead-link"> <span class="Icon Icon--clickCollect"></span> <span data-et-action="Header_USP-Leiste" data-et-label="Versandkostenfrei in den Markt liefern"> Versandkostenfrei in den Markt liefern</span>
+          </a>
+          <div class="Metahead-bubble">
+            <div class="Arrow"></div>
+            Sie sparen 5,95 € Versandkosten. Zuschläge für Spedition, 24-Std-Lieferung oder sonstige Dienste werden nicht übernommen.</div>
+        </div>
+        <div class="Metahead-close" data-url="/usp/close/">
+          <span class="Icon Icon--close" data-et-action="Header_USP-Leiste" data-et-label="Icon--close"></span>
+        </div>
+      </div>
+    </div>
+
+  <div class="Metahead-brandLine"></div>
+</div><header class="Masthead Print--no">
+  <div class="ServiceHeader">
+  <div class="ServiceHeader-market">
+    <ul class="InlineMenu">
+      <li class="InlineMenu-item"><a data-et-action="Header_MeinMarkt" href="/marktfinder/"><span class="Icon Icon--location"></span>&nbsp;Wählen Sie Ihren hagebaumarkt aus</a></li>
+        </ul>
+  </div>
+  <div class="ServiceHeader-menu">
+      <ul class="InlineMenu">
+        <li id="header-meta-menu-login" class="InlineMenu-item ServiceHeader-menuLeft"><a href="javascript:void(0)" data-et-action="Header_Anmeldung" data-et-label="Anmelden/Registrieren"><span class="Icon Icon--profile"></span>&nbsp;&nbsp;Anmelden/Registrieren</a></li>
+          </ul>
+
+      <div class="HeaderLoginPopover">
+  <div class="HeaderLogin">
+    <div class="u-w25">
+      <div class="FormError--default is-hidden"></div>
+
+      <form action="/logincheck/" method="post" novalidate id="header-login-form">
+        <input type="hidden" name="successUrl" value="https://www.hagebau.de/ajax/header/login/success/" />
+        <input type="hidden" name="failureUrl" value="https://www.hagebau.de/ajax/header/login/failure/" />
+        <input type="hidden" name="mergeList" value="true" />
+
+        <div class="Input Input--required">
+          <div class="u-w25">
+            <input id="email" name="emailAddress" class="InputField Validate-Email" type="email" maxlength="50" placeholder="E-Mail-Adresse" required value=""/>
+            <p class="Input-errorDescription is-hidden"></p>
+          </div>
+        </div>
+        <div class="Input Input--required">
+          <div class="u-w25">
+            <input id="password" name="password" class="InputField u-w25 Validate-Password" type="password" maxlength="15" placeholder="Passwort" required />
+            <p class="Input-errorDescription is-hidden"></p>
+          </div>
+        </div>
+        <div>
+          <div class="HeaderLogin-button">
+            <button class="Button Button--primary" type="submit">
+              Anmelden</button>
+          </div>
+          <div class="HeaderLogin-text">
+            <div class="HeaderLogin-textbottom">
+              <p><a href="/passwort/vergessen/">Passwort vergessen?</a></p>
+              <p>Neu bei hagebau.de? Jetzt <a href="https://www.hagebau.de/registrierung/">registrieren</a></p>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+  </div>
+<div class="Row Masthead-mainarea">
+    <div class="Column Column--33">
+      <div class="Logo DataLink" data-et-action="Header_Logo" data-destination-url="/"></div>
+</div>
+    <div class="Column Column--33">
+      <div class="Searchform">
+    <form id="search_id_form" name="headerSearchForm" class="ignore" action="/search/" method="get" accept-charset="UTF-8"><input class="Searchform-inputField" data-et-action="Header_Suche" data-et-label="Input|headerSearchForm" value="" type="text" name="q" placeholder="Produkte oder Standorte finden" data-js-suggest="/searchSuggest/" autocomplete="off" maxlength="200" />
+      <input type="hidden" name="sc" value="" />
+      <a href="javascript:void(0);" class="Searchform-iconButton Searchform-iconButton--close"><span class="Searchform-iconButton-iconClose" data-et-action="Header_Suche" data-et-label="Icon|close"></span></a>  
+      <a href="javascript:void(0);" class="Searchform-iconButton"><span class="js-magnifying-glass Searchform-iconButton-iconSearch" data-et-action="Header_Suche" data-et-label="Icon|search"></span></a>
+    </form></div>
+</div>
+    <div class="Column Column--33">
+      <div class="ShopMenu">
+  <ul class="InlineMenu">
+    <li class="InlineMenu-item InlineMenu-hover">
+      <div id="js-miniWishlist">
+        <a id="WishListMenuButton" href="javascript:void(0);" data-url="/merkzettel/" class="IconButton IconButton--big">
+  <span class="Icon Icon--wishList InlineMenu-itemIcon" data-et-action="Header_Merkzettel" data-et-label="Icon--wishList"></span>
+  <span class="InlineMenuBadge InlineMenuBadge-heart js-inlineMenuWishlistBadge is-hiddenImportant" data-et-action="Header_Merkzettel" data-et-label="Wishlistbadge">0</span>
+</a>
+<div class="InlineMenuPullDown">
+  <ul class="Arrow">
+    <li class="InlineMenuPullDown-empty">
+          <strong>Es befinden sich noch keine Artikel in Ihrem Merkzettel.</strong>
+        </li>
+      </ul>
+</div></div>
+    </li>
+    <li class="InlineMenu-item InlineMenu-hover">
+        <a id="BasketMenu" href="javascript:void(0);" data-url="/basket/" class="IconButton IconButton--big">
+          <span class="Icon Icon--cart InlineMenu-itemIcon" data-et-action="Header_Warenkorb" data-et-label="Icon--cart"></span>
+          </a>
+        <div class="InlineMenuPullDown">
+  <ul class="Arrow js-miniBasketContent">
+
+    <li class="InlineMenuPullDown-empty">
+  <strong>Es befinden sich noch keine Artikel in Ihrem Warenkorb.</strong>
+</li></ul>
+</div></li>
+    <li class="InlineMenu-item InlineMenu-hover">
+      <span id="BurgerMenu" class="IconButton IconButton--big"><span class="Icon Icon--menu InlineMenu-itemIcon" data-et-action="Header_BurgerMenü" data-et-label="Icon--menu"></span></span>
+
+      <div id="BurgerMenuPullDownMenu" class="PullDownMenu">
+  <ul class="Arrow">
+    <li class="PullDownMenuItem">
+        <a href="/meinkonto/" data-et-action="Header_BurgerMenü" data-et-label="Mein Konto">Mein Konto</a>
+      </li>
+    <li class="PullDownMenuItem">
+      <a href="/merkzettel/" data-et-action="Header_BurgerMenü" data-et-label="Merkzettel">Merkzettel&nbsp;(<span id="WishlistCount">0</span>)</a>
+    </li>
+    <li class="PullDownMenuItem">
+        <a href="/newsletter/" data-et-action="Header_BurgerMenü" data-et-label="Newsletter">Newsletter</a>
+      </li>
+    <li class="PullDownMenuItem PullDownMenuItem--is-divider">
+      <a href="/service/" data-et-action="Header_BurgerMenü" data-et-label="Service-Übersicht">Service-Übersicht</a>
+    </li>
+    <li class="PullDownMenuItem">
+      <a href="/beratung/" data-et-action="Header_BurgerMenü" data-et-label="Beratung" >Ratgeber</a>
+    </li>
+    <li class="PullDownMenuItem">
+      <a href="/beratung/video-mediathek/" data-et-action="Header_BurgerMenü" data-et-label="Mediathek">Mediathek</a>
+    </li>
+    <li class="PullDownMenuItem">
+      <a href="/marken/" data-et-action="Header_BurgerMenü" data-et-label="Markenübersicht">Markenübersicht</a>
+    </li>
+    <li class="PullDownMenuItem">
+      <a href="/service/partnercard/" data-et-action="Header_BurgerMenü" data-et-label="hagebau Partner-Card">hagebau Partner-Card</a>
+    </li>
+    <li class="PullDownMenuItem">
+      <a href="/umzugshilfe/" data-et-action="Header_BurgerMenü" data-et-label="hagebau Umzugshilfe">hagebau Umzugshilfe</a>
+    </li>
+    <li class="PullDownMenuItem">
+      <a href="/kataloge/" data-et-action="Header_BurgerMenü" data-et-label="hagebau Kataloge">hagebau Kataloge</a>
+    </li>
+    <li class="PullDownMenuItem PullDownMenuItem--is-divider">
+      <a href="http://unternehmen.hagebau.com/ueber_uns/ueber_uns.jsp" target="blank" data-et-action="Header_BurgerMenü" data-et-label="Über uns">Über uns</a>
+    </li>
+    <li class="PullDownMenuItem">
+      <a href="/kontakt/" data-et-action="Header_BurgerMenü" data-et-label="Kontakt">Kontakt</a>
+    </li>
+    <li class="PullDownMenuItem">
+      <span class="Label Copy--strong u-paddingHs">Markt finden</span>
+    </li>
+    <li class="PullDownMenuItem">
+      <div class="Searchform u-marginVxs">
+          <form id="market_finder_form" name="headerMarketFinderForm" class="ignore" action="/marktfinder/" method="get" accept-charset="UTF-8"><input class="Searchform-inputField" type="text" name="query" placeholder="PLZ oder Ort" autocomplete="off" />
+            <input type="hidden" name="bms" value="1" />
+            <span href="javascript:void(0);" class="Searchform-iconButton Searchform-iconButton--close"><span class="Searchform-iconButton-iconClose"></span></span>
+            <span href="javascript:void(0);" class="Searchform-iconButton"><span class="js-magnifying-glass Searchform-iconButton-iconSearch" data-et-action="Header_BurgerMenü" data-et-label="Icon--search"></span></span>
+          </form></div>
+      </li>
+    <li class="PullDownMenuItem">
+      <a href="/werbung/" data-et-action="Header_BurgerMenü" data-et-label="Marktbeilage online blättern">Marktbeilage online blättern</a>
+    </li>
+  </ul>
+</div>
+</li>
+  </ul>
+</div></div>
+  </div>
+  <div class="MainNavigation">
+  <ul>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartencenter" class="MainNavigation-itemLink" href="/gartencenter/">Gartencenter</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_gartengeraete Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/">Gartengeräte</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/gartenhandwerkzeug/">Gartenhandwerkzeug</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/heckenscheren-gartenscheren/">Heckenscheren &amp; Gartenscheren</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/holzspalter/">Holzspalter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/kettensaegen/">Kettensägen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/laubsauger-haecksler/">Laubsauger &amp; Häcksler</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/motorhacken/">Motorhacken</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/motorsensen-rasentrimmer/">Motorsensen &amp; Rasentrimmer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/rasenmaeher-rasentraktoren/">Rasenmäher &amp; Rasentraktoren</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartengeräte" href="/gartencenter/gartengeraete/vertikutierer/">Vertikutierer</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_gartenmoebel Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/">Gartenmöbel</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/gartenliegen/">Gartenliegen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/gartenmoebelauflagen/">Gartenmöbelauflagen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/gartenmoebelschutzhuellen/">Gartenmöbelschutzhüllen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/gartenmoebel-sets/">Gartenmöbel-Sets</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/gartenstuehle-gartenbaenke/">Gartenstühle &amp; Gartenbänke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/gartentische/">Gartentische</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/hollywoodschaukeln-strandkoerbe/">Hollywoodschaukeln &amp; Strandkörbe</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/sonnenschirme-sonnensegel/">Sonnenschirme &amp; Sonnensegel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenmöbel" href="/gartencenter/gartenmoebel/balkonmoebel/">Balkonmöbel</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_gartenbewaesserung Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbewässerung &amp; Teiche" href="/gartencenter/gartenbewaesserung-teiche/">Gartenbewässerung &amp; Teiche</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbewässerung &amp; Teiche" href="/gartencenter/gartenbewaesserung-teiche/gartenpumpen-hauswasserwerke/">Gartenpumpen &amp; Hauswasserwerke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbewässerung &amp; Teiche" href="/gartencenter/gartenbewaesserung-teiche/gartenschlaeuche-kupplungen-ventile/">Gartenschläuche, Kupplungen &amp; Ventile</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbewässerung &amp; Teiche" href="/gartencenter/gartenbewaesserung-teiche/regentonnen-erdtanks/">Regentonnen &amp; Erdtanks</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbewässerung &amp; Teiche" href="/gartencenter/gartenbewaesserung-teiche/teiche-zubehoer/">Teiche &amp; Zubehör</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_garten-geraete-haeuser Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Garten- &amp; Gerätehäuser" href="/gartencenter/garten-geraetehaeuser/">Garten- &amp; Gerätehäuser</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Garten- &amp; Gerätehäuser" href="/gartencenter/garten-geraetehaeuser/gartenhaeuser/">Gartenhäuser</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Garten- &amp; Gerätehäuser" href="/gartencenter/garten-geraetehaeuser/geraetehaeuser-geraeteschraenke/">Gerätehäuser &amp; Geräteschränke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Garten- &amp; Gerätehäuser" href="/gartencenter/garten-geraetehaeuser/muelltonnenboxen-fahrradunterstaende/">Mülltonnenboxen &amp; Fahrradunterstände</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Garten- &amp; Gerätehäuser" href="/gartencenter/garten-geraetehaeuser/pavillons-partyzelte/">Pavillons &amp; Partyzelte</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_grills-gartenkamine Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Grills &amp; Gartenkamine" href="/gartencenter/grills-gartenkamine/">Grills &amp; Gartenkamine</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Grills &amp; Gartenkamine" href="/gartencenter/grills-gartenkamine/gasgrills-elektrogrills/">Gasgrills &amp; Elektrogrills</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Grills &amp; Gartenkamine" href="/gartencenter/grills-gartenkamine/grillkamine/">Grillkamine</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Grills &amp; Gartenkamine" href="/gartencenter/grills-gartenkamine/grillzubehoer/">Grillzubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Grills &amp; Gartenkamine" href="/gartencenter/grills-gartenkamine/holzkohlegrills/">Holzkohlegrills</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_gartenbau Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/">Gartenbau</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/gartenbeleuchtung/">Gartenbeleuchtung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/gartendekoration/">Gartendekoration</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/gartenzaeune-sichtschutz/">Gartenzäune &amp; Sichtschutz</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/markisen/">Markisen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/rasenbegrenzung-beetbegrenzung/">Rasenbegrenzung &amp; Beetbegrenzung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/terrassen-balkonboeden/">Terrassen- &amp; Balkonböden</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/terrassenueberdachung/">Terrassenüberdachung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartenbau" href="/gartencenter/gartenbau/terrassenstrahler-feuerkoerbe/">Terrassenstrahler &amp; Feuerkörbe</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_spielgeraete Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/">Spielgeräte</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/trampoline/">Trampoline</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/ballsport/">Ballsport</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/sup-boards/">SUP Boards</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/go-kart-elektroautos/">Go-Kart &amp; Elektroautos</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/sandkaesten/">Sandkästen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/schaukeln-rutschen/">Schaukeln &amp; Rutschen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/spielhaeuser-spieltuerme/">Spielhäuser &amp; Spieltürme</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Spielgeräte" href="/gartencenter/spielgeraete/spielzeug/">Spielzeug</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_pflanzen-gewaechshaeuser Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/">Pflanzen &amp; Gewächshäuser</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/beete-pflanztische/">Beete &amp; Pflanztische</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/beetpflanzen-kuebelpflanzen/">Beetpflanzen &amp; Kübelpflanzen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/gewaechshaeuser/">Gewächshäuser</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/graeser-wasserpflanzen/">Gräser &amp; Wasserpflanzen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/komposter/">Komposter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/obstbaum-obststraeucher/">Obstbaum &amp; Obststräucher</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/pflanzenschutz-duenger/">Pflanzenschutz &amp; Dünger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/blumenkaesten-pflanzkuebel/">Blumenkästen &amp; Pflanzkübel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/rasen-saatgut/">Rasen &amp; Saatgut</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/rosen/">Rosen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/spaliere-pergolas/">Spaliere &amp; Pergolas</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pflanzen &amp; Gewächshäuser" href="/gartencenter/pflanzen-gewaechshaeuser/ziergehoelze-heckenpflanzen/">Ziergehölze &amp; Heckenpflanzen</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_pools-camping Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pools &amp; Camping" href="/gartencenter/pools-camping/">Pools &amp; Camping</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pools &amp; Camping" href="/gartencenter/pools-camping/campingbedarf/">Campingbedarf</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pools &amp; Camping" href="/gartencenter/pools-camping/poolleitern-poolzubehoer/">Poolleitern &amp; Poolzubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pools &amp; Camping" href="/gartencenter/pools-camping/poolpflege-filter/">Poolpflege &amp; Filter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Pools &amp; Camping" href="/gartencenter/pools-camping/swimmingpools/">Swimmingpools</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale" href="/gartencenter/sale/">Sale</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    </div>
+</div>
+</li>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Werkzeug &amp; Maschinen" class="MainNavigation-itemLink" href="/werkzeug-maschinen/">Werkzeug &amp; Maschinen</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_elektrowerkzeug Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/">Elektrowerkzeug</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/akkuschrauber/">Akkuschrauber</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/bohrhaemmer-abbruchhaemmer/">Bohrhämmer &amp; Abbruchhämmer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/bohrmaschinen/">Bohrmaschinen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/dremel/">Dremel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/elektrowerkzeug-zubehoer/">Elektrowerkzeug-Zubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/erdbohrer-ruehrgeraete/">Erdbohrer &amp; Rührgeräte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/feinspruehpistolen-systeme/">Feinsprühpistolen &amp; -Systeme</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/fraesen/">Fräsen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/hobel-tacker/">Hobel &amp; Tacker</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/klebepistolen-heissluftgeraete/">Klebepistolen &amp; Heißluftgeräte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/loetkolben-loetzubehoer/">Lötkolben &amp; Lötzubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/messgeraete/">Messgeräte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/saegen/">Sägen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/schleifer/">Schleifer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektrowerkzeug" href="/werkzeug-maschinen/elektrowerkzeug/spezialwerkzeuge/">Spezialwerkzeuge</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_handwerkzeug Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/">Handwerkzeug</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/feilen-handsaegen-drahtbuersten/">Feilen, Handsägen &amp; Drahtbürsten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/hammer-meissel/">Hammer &amp; Meißel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/handwerkzeugzubehoer/">Handwerkzeugzubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/hobel-beitel-schleifpapier/">Hobel, Beitel &amp; Schleifpapier</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/kellen-spachtel-reibebretter/">Kellen, Spachtel &amp; Reibebretter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/messer-scheren-schaber/">Messer, Scheren &amp; Schaber</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/messwerkzeuge/">Messwerkzeuge</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/schraubendreher/">Schraubendreher</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/schraubenschluessel-steckschluessel/">Schraubenschlüssel &amp; Steckschlüssel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/schraubstoecke-schraubzwingen/">Schraubstöcke &amp; Schraubzwingen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/sonstige-handwerkzeuge/">Sonstige Handwerkzeuge</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/werkzeugkoffer-werkzeugsets/">Werkzeugkoffer &amp; Werkzeugsets</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Handwerkzeug" href="/werkzeug-maschinen/handwerkzeug/zangen/">Zangen</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_baustellengeraete Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustellengeräte" href="/werkzeug-maschinen/baustellengeraete/">Baustellengeräte</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustellengeräte" href="/werkzeug-maschinen/baustellengeraete/heizgeblaese-heizstrahler/">Heizgebläse &amp; Heizstrahler</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustellengeräte" href="/werkzeug-maschinen/baustellengeraete/kompressoren-druckluftgeraete/">Kompressoren &amp; Druckluftgeräte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustellengeräte" href="/werkzeug-maschinen/baustellengeraete/ruettelplatten-vibrationsstampfer/">Rüttelplatten &amp; Vibrationsstampfer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustellengeräte" href="/werkzeug-maschinen/baustellengeraete/schubkarren-sackkarren/">Schubkarren &amp; Sackkarren</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustellengeräte" href="/werkzeug-maschinen/baustellengeraete/schweissgeraete/">Schweißgeräte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustellengeräte" href="/werkzeug-maschinen/baustellengeraete/stromerzeuger-generatoren/">Stromerzeuger &amp; Generatoren</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustellengeräte" href="/werkzeug-maschinen/baustellengeraete/sonstige-baustellengeraete/">Sonstige Baustellengeräte</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_reinigungsmaschinen Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigungsmaschinen" href="/werkzeug-maschinen/reinigungsmaschinen/">Reinigungsmaschinen</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigungsmaschinen" href="/werkzeug-maschinen/reinigungsmaschinen/hochdruckreiniger/">Hochdruckreiniger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigungsmaschinen" href="/werkzeug-maschinen/reinigungsmaschinen/nass-trockensauger/">Nass- &amp; Trockensauger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigungsmaschinen" href="/werkzeug-maschinen/reinigungsmaschinen/schneefraesen-kehrmaschinen/">Schneefräsen &amp; Kehrmaschinen</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_werkstatteinrichtung Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Werkstatteinrichtung" href="/werkzeug-maschinen/werkstatteinrichtung/">Werkstatteinrichtung</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Werkstatteinrichtung" href="/werkzeug-maschinen/werkstatteinrichtung/baustrahler-arbeitsleuchten/">Baustrahler &amp; Arbeitsleuchten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Werkstatteinrichtung" href="/werkzeug-maschinen/werkstatteinrichtung/kettenzug-hebeanlagen/">Kettenzug &amp; Hebeanlagen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Werkstatteinrichtung" href="/werkzeug-maschinen/werkstatteinrichtung/leitern-tritte-gerueste/">Leitern, Tritte &amp; Gerüste</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Werkstatteinrichtung" href="/werkzeug-maschinen/werkstatteinrichtung/werkstattmoebel/">Werkstattmöbel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Werkstatteinrichtung" href="/werkzeug-maschinen/werkstatteinrichtung/werkzeugboxen-kaesten/">Werkzeugboxen &amp; Kästen</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale" href="/werkzeug-maschinen/sale/">Sale</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+            <li class="TopCategory"><span class="Icon Icon--marken Pull--left"></span>
+              <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|" href="/werkzeug-maschinen/profi-werkzeuge/">Profi-Werkzeuge</a>
+                </li>
+            </ul>
+          </div>
+
+    </div>
+</div>
+</li>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bauen &amp; Renovieren" class="MainNavigation-itemLink" href="/bauen-renovieren/">Bauen &amp; Renovieren</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_arbeitskleidung Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Arbeitskleidung" href="/bauen-renovieren/arbeitskleidung/">Arbeitskleidung</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Arbeitskleidung" href="/bauen-renovieren/arbeitskleidung/arbeitshosen/">Arbeitshosen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Arbeitskleidung" href="/bauen-renovieren/arbeitskleidung/arbeitsjacken-westen/">Arbeitsjacken &amp; Westen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Arbeitskleidung" href="/bauen-renovieren/arbeitskleidung/arbeitspullover-shirts-hemden/">Arbeitspullover, Shirts &amp; Hemden</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Arbeitskleidung" href="/bauen-renovieren/arbeitskleidung/schutzhandschuhe-accessoires/">Schutzhandschuhe &amp; Accessoires</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Arbeitskleidung" href="/bauen-renovieren/arbeitskleidung/schutzhelm-brille-maske/">Schutzhelm, -brille &amp; -maske</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Arbeitskleidung" href="/bauen-renovieren/arbeitskleidung/arbeitsschuhe-sicherheitsschuhe/">Arbeitsschuhe &amp; Sicherheitsschuhe</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_baustoffe Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/">Baustoffe</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/bindemittel-moertel/">Bindemittel &amp; Mörtel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/dachrinnen-fallrohre/">Dachrinnen &amp; Fallrohre</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/entwaesserung/">Entwässerung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/fuellstoffe-dichtstoffe/">Füllstoffe &amp; Dichtstoffe</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/kleber-pflegemittel-reiniger/">Kleber, Pflegemittel &amp; Reiniger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/moebelbauplatten/">Möbelbauplatten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/putz-dichtanstriche/">Putz &amp; Dichtanstriche</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/trockenbau/">Trockenbau</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Baustoffe" href="/bauen-renovieren/baustoffe/verblendsteine-paneele/">Verblendsteine &amp; Paneele</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_bodenbelaege Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bodenbeläge" href="/bauen-renovieren/bodenbelaege/">Bodenbeläge</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bodenbeläge" href="/bauen-renovieren/bodenbelaege/fliesen/">Fliesen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bodenbeläge" href="/bauen-renovieren/bodenbelaege/laminat/">Laminat</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bodenbeläge" href="/bauen-renovieren/bodenbelaege/parkett/">Parkett</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bodenbeläge" href="/bauen-renovieren/bodenbelaege/pvc-vinylboden/">PVC &amp; Vinylboden</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bodenbeläge" href="/bauen-renovieren/bodenbelaege/sockelleisten-profile-verlegezubehoer/">Sockelleisten, Profile &amp; Verlegezubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bodenbeläge" href="/bauen-renovieren/bodenbelaege/teppichboden/">Teppichboden</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_fenster-tueren-treppen Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/">Fenster, Türen &amp; Treppen</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/fenster/">Fenster</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/fliegengitter/">Fliegengitter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/haustueren/">Haustüren</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/rolllaeden-jalousien/">Rollläden &amp; Jalousien</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/treppen-treppengelaender/">Treppen &amp; Treppengeländer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/tuerbeschlaege-schloesser/">Türbeschläge &amp; Schlösser</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/vordaecher/">Vordächer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fenster, Türen &amp; Treppen" href="/bauen-renovieren/fenster-tueren-treppen/zimmertueren/">Zimmertüren</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_eisenwaren Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Eisenwaren" href="/bauen-renovieren/eisenwaren/">Eisenwaren</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Eisenwaren" href="/bauen-renovieren/eisenwaren/baubeschlaege-moebelbeschlaege/">Baubeschläge &amp; Möbelbeschläge</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Eisenwaren" href="/bauen-renovieren/eisenwaren/duebel-befestigung/">Dübel &amp; Befestigung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Eisenwaren" href="/bauen-renovieren/eisenwaren/holzverbinder-torbeschlaege/">Holzverbinder &amp; Torbeschläge</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Eisenwaren" href="/bauen-renovieren/eisenwaren/schrauben-naegel/">Schrauben &amp; Nägel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Eisenwaren" href="/bauen-renovieren/eisenwaren/sonstige-kleineisenwaren/">sonstige Kleineisenwaren</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_malern-tapezieren Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/">Farben, Anstriche &amp; Tapeten</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/abbeizer-verduennung-reiniger/">Abbeizer, Verdünnung &amp; Reiniger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/bodenbeschichtungen/">Bodenbeschichtungen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/fassadenfarben-sockelfarben/">Fassadenfarben &amp; Sockelfarben</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/grundierungen/">Grundierungen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/holzfarben-holzschutz/">Holzfarben &amp; Holzschutz</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/lacke/">Lacke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/malerbedarf/">Malerbedarf</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/tapeten/">Tapeten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Farben, Anstriche &amp; Tapeten" href="/bauen-renovieren/farben-anstriche-tapeten/wandfarbe-deckenfarbe/">Wandfarbe &amp; Deckenfarbe</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_elektroinstallation Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektroinstallation" href="/bauen-renovieren/elektroinstallation/">Elektroinstallation</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektroinstallation" href="/bauen-renovieren/elektroinstallation/elektroinstallationszubehoer/">Elektroinstallationszubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektroinstallation" href="/bauen-renovieren/elektroinstallation/kabel-kabelverlegung/">Kabel &amp; Kabelverlegung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektroinstallation" href="/bauen-renovieren/elektroinstallation/schalter-steckdosen-unterputzdosen/">Schalter, Steckdosen &amp; Unterputzdosen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektroinstallation" href="/bauen-renovieren/elektroinstallation/sicherungen-verteilerkaesten/">Sicherungen &amp; Verteilerkästen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Elektroinstallation" href="/bauen-renovieren/elektroinstallation/steckdosenleisten-verlaengerungen-kabeltrommeln/">Steckdosenleisten, Verlängerungen &amp; Kabeltrommeln</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_smartHome Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Smart Home" href="/bauen-renovieren/smart-home/">Smart Home</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_weitere-kategorien Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|weitere Kategorien" href="/bauen-renovieren/weitere-kategorien/">weitere Kategorien</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|weitere Kategorien" href="/bauen-renovieren/weitere-kategorien/briefkaesten/">Briefkästen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|weitere Kategorien" href="/bauen-renovieren/weitere-kategorien/fussbodenheizung/">Fußbodenheizung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|weitere Kategorien" href="/bauen-renovieren/weitere-kategorien/sicherheitstechnik-klingelanlagen/">Sicherheitstechnik &amp; Klingelanlagen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|weitere Kategorien" href="/bauen-renovieren/weitere-kategorien/solartechnik/">Solartechnik</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale" href="/bauen-renovieren/sale/">Sale</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    </div>
+</div>
+</li>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bad &amp; Küche" class="MainNavigation-itemLink" href="/bad-kueche/">Bad &amp; Küche</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_badmoebel Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/">Badmöbel</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/badmoebel-sets/">Badmöbel-Sets</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/badregale/">Badregale</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/badschraenke/">Badschränke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/badspiegel/">Badspiegel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/spiegelschraenke/">Spiegelschränke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/waschbecken/">Waschbecken</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/waschtischarmaturen/">Waschtischarmaturen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badmöbel" href="/bad-kueche/badmoebel/waschtische/">Waschtische</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_saunen Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Saunen &amp; Wärmekabinen" href="/bad-kueche/saunen-waermekabinen/">Saunen &amp; Wärmekabinen</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Saunen &amp; Wärmekabinen" href="/bad-kueche/saunen-waermekabinen/infrarotkabinen/">Infrarotkabinen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Saunen &amp; Wärmekabinen" href="/bad-kueche/saunen-waermekabinen/saunahaeuser-fasssaunen/">Saunahäuser &amp; Fasssaunen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Saunen &amp; Wärmekabinen" href="/bad-kueche/saunen-waermekabinen/saunaoefen-strahler-zubehoer/">Saunaöfen, Strahler &amp; Zubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Saunen &amp; Wärmekabinen" href="/bad-kueche/saunen-waermekabinen/saunen/">Saunen</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_wc-sanitaer Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|WC &amp; Sanitär" href="/bad-kueche/wc-sanitaer/">WC &amp; Sanitär</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|WC &amp; Sanitär" href="/bad-kueche/wc-sanitaer/sanitaertechnik/">Sanitärtechnik</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|WC &amp; Sanitär" href="/bad-kueche/wc-sanitaer/wc-accessoires/">WC-Accessoires</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|WC &amp; Sanitär" href="/bad-kueche/wc-sanitaer/wc-sitze-wc-becken/">WC-Sitze &amp; WC-Becken</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_badzubehoer Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badzubehör" href="/bad-kueche/badzubehoer/">Badzubehör</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badzubehör" href="/bad-kueche/badzubehoer/badrueckwaende/">Badrückwände</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badzubehör" href="/bad-kueche/badzubehoer/badaccessoires/">Badaccessoires</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badzubehör" href="/bad-kueche/badzubehoer/badematten/">Badematten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badzubehör" href="/bad-kueche/badzubehoer/barrierefreies-bad/">Barrierefreies Bad</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badzubehör" href="/bad-kueche/badzubehoer/handtuchhalter-haken/">Handtuchhalter &amp; Haken</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badzubehör" href="/bad-kueche/badzubehoer/kosmetikeimer/">Kosmetikeimer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Badzubehör" href="/bad-kueche/badzubehoer/personenwaagen/">Personenwaagen</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_dusche-badewanne Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dusche &amp; Badewanne" href="/bad-kueche/dusche-badewanne/">Dusche &amp; Badewanne</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dusche &amp; Badewanne" href="/bad-kueche/dusche-badewanne/badewannen/">Badewannen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dusche &amp; Badewanne" href="/bad-kueche/dusche-badewanne/badewannen-duscheinlagen/">Badewannen- &amp; Duscheinlagen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dusche &amp; Badewanne" href="/bad-kueche/dusche-badewanne/badewannenaufsaetze/">Badewannenaufsätze</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dusche &amp; Badewanne" href="/bad-kueche/dusche-badewanne/duscharmaturen-wannenarmaturen/">Duscharmaturen &amp; Wannenarmaturen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dusche &amp; Badewanne" href="/bad-kueche/dusche-badewanne/duschen-duschkabinen/">Duschen &amp; Duschkabinen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dusche &amp; Badewanne" href="/bad-kueche/dusche-badewanne/duschvorhaenge/">Duschvorhänge</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dusche &amp; Badewanne" href="/bad-kueche/dusche-badewanne/duschwannen/">Duschwannen</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_heizen-warmwasser Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Heizen &amp; Warmwasser" href="/bad-kueche/heizen-warmwasser/">Heizen &amp; Warmwasser</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Heizen &amp; Warmwasser" href="/bad-kueche/heizen-warmwasser/badheizkoerper-thermostate/">Badheizkörper &amp; Thermostate</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Heizen &amp; Warmwasser" href="/bad-kueche/heizen-warmwasser/durchlauferhitzer-boiler/">Durchlauferhitzer &amp; Boiler</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_kuechengeraete Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchengeräte" href="/bad-kueche/kuechengeraete/">Küchengeräte</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchengeräte" href="/bad-kueche/kuechengeraete/dunstabzugshauben/">Dunstabzugshauben</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchengeräte" href="/bad-kueche/kuechengeraete/kuechenoefen/">Küchenöfen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchengeräte" href="/bad-kueche/kuechengeraete/geschirrspueler/">Geschirrspüler</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchengeräte" href="/bad-kueche/kuechengeraete/herde-kochfelder/">Herde &amp; Kochfelder</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchengeräte" href="/bad-kueche/kuechengeraete/klein-kuechengeraete/">Klein-Küchengeräte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchengeräte" href="/bad-kueche/kuechengeraete/kuechenhelfer/">Küchenhelfer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchengeräte" href="/bad-kueche/kuechengeraete/kuehl-gefrierschraenke/">Kühl- &amp; Gefrierschränke</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_kuechenmoebel Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchenmöbel" href="/bad-kueche/kuechenmoebel/">Küchenmöbel</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchenmöbel" href="/bad-kueche/kuechenmoebel/kuechenordnung/">Küchenordnung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchenmöbel" href="/bad-kueche/kuechenmoebel/kuechenrueckwaende/">Küchenrückwände</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchenmöbel" href="/bad-kueche/kuechenmoebel/kuechenschraenke/">Küchenschränke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchenmöbel" href="/bad-kueche/kuechenmoebel/kuechenspuelen-spueltischarmaturen/">Küchenspülen &amp; Spültischarmaturen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchenmöbel" href="/bad-kueche/kuechenmoebel/kuechenzeilen/">Küchenzeilen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchenmöbel" href="/bad-kueche/kuechenmoebel/muelleimer/">Mülleimer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Küchenmöbel" href="/bad-kueche/kuechenmoebel/singlekuechen-minikuechen/">Singleküchen &amp; Miniküchen</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale" href="/bad-kueche/sale/">Sale</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <a href="/service/online-services/aufbau-und-montage/kuechenaufbau/#lmPromo=la,3,hk,landingpagedatenschutzbestimmungen,fl,topnaviservice-teaser_assetsbinaryimages14baumarkt-direkt3271ads-teaseranschlussservicekuechejpg">
+                <img alt="Bad & Küche" data-src="/assets/binaryImages/14_baumarkt direkt/3271_ads-Teaser_anschlussservice_kueche.jpg" data-et-action="Header_TopNavigation" data-et-label="Teaser|assets/binaryImages/14_baumarkt direkt/3271_ads-Teaser_anschlussservice_kueche.jpg">
+                </a>
+                </div>
+
+    </div>
+</div>
+</li>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohnen" class="MainNavigation-itemLink" href="/wohnen/">Wohnen</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_beleuchtung-dekoration Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Lampen &amp; Leuchten" href="/wohnen/lampen-leuchten/">Lampen &amp; Leuchten</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Lampen &amp; Leuchten" href="/wohnen/lampen-leuchten/deckenleuchte/">Deckenleuchte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Lampen &amp; Leuchten" href="/wohnen/lampen-leuchten/einbauleuchten/">Einbauleuchten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Lampen &amp; Leuchten" href="/wohnen/lampen-leuchten/haenge-pendelleuchten/">Hänge- &amp; Pendelleuchten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Lampen &amp; Leuchten" href="/wohnen/lampen-leuchten/leuchtmittel/">Leuchtmittel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Lampen &amp; Leuchten" href="/wohnen/lampen-leuchten/tischleuchte-stehleuchte/">Tischleuchte &amp; Stehleuchte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Lampen &amp; Leuchten" href="/wohnen/lampen-leuchten/wandleuchte-aufsatzleuchte/">Wandleuchte &amp; Aufsatzleuchte</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_wohntextilien Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohntextilien" href="/wohnen/wohntextilien/">Wohntextilien</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohntextilien" href="/wohnen/wohntextilien/infrarotheizteppich/">Infrarotheizteppich</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohntextilien" href="/wohnen/wohntextilien/fussmatten-stufenmatten/">Fußmatten &amp; Stufenmatten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohntextilien" href="/wohnen/wohntextilien/gardinen-vorhaenge-rollos/">Gardinen, Vorhänge &amp; Rollos</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohntextilien" href="/wohnen/wohntextilien/kissen-decken-bezuege/">Kissen, Decken &amp; Bezüge</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohntextilien" href="/wohnen/wohntextilien/teppiche/">Teppiche</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohntextilien" href="/wohnen/wohntextilien/tischdecken/">Tischdecken</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_moebel Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/">Möbel</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/betten-lattenroste/">Betten &amp; Lattenroste</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/boxen-koerbe-kisten/">Boxen, Körbe &amp; Kisten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/essgruppen-eckbaenke/">Essgruppen &amp; Eckbänke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/garderoben-spiegel/">Garderoben &amp; Spiegel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/kleideraufbewahrung/">Kleideraufbewahrung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/matratzen/">Matratzen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/polstermoebel/">Polstermöbel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/regale/">Regale</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/schraenke/">Schränke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/stuehle/">Stühle</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/tische/">Tische</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/tresore-sicherheitsschraenke/">Tresore &amp; Sicherheitsschränke</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Möbel" href="/wohnen/moebel/wohnwaende-tv-moebel/">Wohnwände &amp; TV-Möbel</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_dekoration Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dekoration" href="/wohnen/dekoration/">Dekoration</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dekoration" href="/wohnen/dekoration/kunst-zimmerpflanzen/">Kunst- &amp; Zimmerpflanzen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dekoration" href="/wohnen/dekoration/wanddekoration/">Wanddekoration</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_reinigung-bodenpflege Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigung &amp; Bodenpflege" href="/wohnen/reinigung-bodenpflege/">Reinigung &amp; Bodenpflege</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigung &amp; Bodenpflege" href="/wohnen/reinigung-bodenpflege/bodenwischer-besen/">Bodenwischer &amp; Besen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigung &amp; Bodenpflege" href="/wohnen/reinigung-bodenpflege/dampfreiniger-fenstersauger/">Dampfreiniger &amp; Fenstersauger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigung &amp; Bodenpflege" href="/wohnen/reinigung-bodenpflege/reinigungsmittel/">Reinigungsmittel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Reinigung &amp; Bodenpflege" href="/wohnen/reinigung-bodenpflege/staubsauger/">Staubsauger</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_waschen-trocknen-buegeln Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Waschen, Trocknen, Bügeln" href="/wohnen/waschen-trocknen-buegeln/">Waschen, Trocknen, Bügeln</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Waschen, Trocknen, Bügeln" href="/wohnen/waschen-trocknen-buegeln/buegeleisen-buegelbretter/">Bügeleisen &amp; Bügelbretter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Waschen, Trocknen, Bügeln" href="/wohnen/waschen-trocknen-buegeln/waescheboxen/">Wäscheboxen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Waschen, Trocknen, Bügeln" href="/wohnen/waschen-trocknen-buegeln/waeschestaender/">Wäscheständer</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Waschen, Trocknen, Bügeln" href="/wohnen/waschen-trocknen-buegeln/waschmaschinen-trockner/">Waschmaschinen &amp; Trockner</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_raumklima Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Raumklima" href="/wohnen/raumklima/">Raumklima</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Raumklima" href="/wohnen/raumklima/klimageraete/">Klimageräte</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Raumklima" href="/wohnen/raumklima/luftbefeuchter-entfeuchter/">Luftbefeuchter &amp; Entfeuchter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Raumklima" href="/wohnen/raumklima/radiatoren-heizluefter/">Radiatoren &amp; Heizlüfter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Raumklima" href="/wohnen/raumklima/thermometer-wetterstationen/">Thermometer &amp; Wetterstationen</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale" href="/wohnen/sale/">Sale</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    </div>
+</div>
+</li>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminöfen" class="MainNavigation-itemLink" href="/kaminoefen/">Kaminöfen</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_kamine-oefen Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kamine &amp; Öfen" href="/kaminoefen/kamine-oefen/">Kamine &amp; Öfen</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kamine &amp; Öfen" href="/kaminoefen/kamine-oefen/kaminbausaetze-kamineinsaetze/">Kaminbausätze &amp; Kamineinsätze</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kamine &amp; Öfen" href="/kaminoefen/kamine-oefen/kaminoefen/">Kaminöfen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kamine &amp; Öfen" href="/kaminoefen/kamine-oefen/kuechenoefen/">Küchenöfen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kamine &amp; Öfen" href="/kaminoefen/kamine-oefen/pelletoefen/">Pelletöfen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kamine &amp; Öfen" href="/kaminoefen/kamine-oefen/oeloefen/">Ölöfen</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_kaminzubehoer Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminzubehör" href="/kaminoefen/kaminzubehoer/">Kaminzubehör</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminzubehör" href="/kaminoefen/kaminzubehoer/aschesauger/">Aschesauger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminzubehör" href="/kaminoefen/kaminzubehoer/bodenplatten/">Bodenplatten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminzubehör" href="/kaminoefen/kaminzubehoer/brennstoffe-anzuender/">Brennstoffe &amp; Anzünder</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminzubehör" href="/kaminoefen/kaminzubehoer/holzaufbewahrung/">Holzaufbewahrung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminzubehör" href="/kaminoefen/kaminzubehoer/kamin-ofenrohre/">Kamin- &amp; Ofenrohre</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminzubehör" href="/kaminoefen/kaminzubehoer/kaminbesteck/">Kaminbesteck</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminzubehör" href="/kaminoefen/kaminzubehoer/schornsteine-kaminhauben/">Schornsteine &amp; Kaminhauben</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_dekokamine Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Dekokamine" href="/kaminoefen/dekokamine/">Dekokamine</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale" href="/kaminoefen/sale/">Sale</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <a href="/service/online-services/lieferung-und-ruecksendung/#lmPromo=la,3,hk,landingpagedatenschutzbestimmungen,fl,topnaviservice-teaser_assetsbinaryimages14baumarkt-direkt3272ads-teaserlieferservicekaminofenjpg">
+                <img alt="Kaminöfen" data-src="/assets/binaryImages/14_baumarkt direkt/3272_ads-Teaser_lieferservice_kaminofen.jpg" data-et-action="Header_TopNavigation" data-et-label="Teaser|assets/binaryImages/14_baumarkt direkt/3272_ads-Teaser_lieferservice_kaminofen.jpg">
+                </a>
+                </div>
+
+    </div>
+</div>
+</li>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrrad &amp; Auto" class="MainNavigation-itemLink" href="/fahrrad-auto/">Fahrrad &amp; Auto</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_fahrrad-ebikes Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrräder" href="/fahrrad-auto/fahrraeder/">Fahrräder</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrräder" href="/fahrrad-auto/fahrraeder/e-bikes/">E-Bikes</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrräder" href="/fahrrad-auto/fahrraeder/kinderfahrrad-jugendfahrrad/">Kinderfahrrad &amp; Jugendfahrrad</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrräder" href="/fahrrad-auto/fahrraeder/mountainbike-crossbike/">Mountainbike &amp; Crossbike</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrräder" href="/fahrrad-auto/fahrraeder/stadtrad-trekkingrad/">Stadtrad &amp; Trekkingrad</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_fahrradzubehoer Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrradzubehör" href="/fahrrad-auto/fahrradzubehoer/">Fahrradzubehör</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrradzubehör" href="/fahrrad-auto/fahrradzubehoer/e-bike-akkus/">E-Bike Akkus</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrradzubehör" href="/fahrrad-auto/fahrradzubehoer/fahrradanhaenger-fahrrad-kindersitze/">Fahrradanhänger &amp; Fahrrad-Kindersitze</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrradzubehör" href="/fahrrad-auto/fahrradzubehoer/fahrradhelme-fahrradkleidung/">Fahrradhelme &amp; Fahrradkleidung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrradzubehör" href="/fahrrad-auto/fahrradzubehoer/fahrradkoerbe-fahrradtaschen/">Fahrradkörbe &amp; Fahrradtaschen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrradzubehör" href="/fahrrad-auto/fahrradzubehoer/fahrradschloesser/">Fahrradschlösser</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrradzubehör" href="/fahrrad-auto/fahrradzubehoer/fahrradteile/">Fahrradteile</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrradzubehör" href="/fahrrad-auto/fahrradzubehoer/fahrradwerkzeug/">Fahrradwerkzeug</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_autoreifen Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autoreifen" href="/fahrrad-auto/autoreifen/">Autoreifen</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autoreifen" href="/fahrrad-auto/autoreifen/ganzjahresreifen/">Ganzjahresreifen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autoreifen" href="/fahrrad-auto/autoreifen/sommerreifen/">Sommerreifen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autoreifen" href="/fahrrad-auto/autoreifen/winterreifen/">Winterreifen</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_autozubehoer Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/">Autozubehör</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/autokindersitze/">Autokindersitze</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/automatten/">Automatten</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/autoschutz-autopflege/">Autoschutz &amp; Autopflege</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/autositzbezuege/">Autositzbezüge</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/fahrrad-und-gepaecktraeger/">Fahrrad- und Gepäckträger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/motoroel-schmiermittel/">Motoröl &amp; Schmiermittel</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/reisekomfort/">Reisekomfort</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/pkw-anhaenger/">PKW-Anhänger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Autozubehör" href="/fahrrad-auto/autozubehoer/radkappen/">Radkappen</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_carports-garagen Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Carports &amp; Garagen" href="/fahrrad-auto/carports-garagen/">Carports &amp; Garagen</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_motorrad Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Motorrad" href="/fahrrad-auto/motorrad/">Motorrad</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Motorrad" href="/fahrrad-auto/motorrad/e-scooter/">E-Scooter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Motorrad" href="/fahrrad-auto/motorrad/motorradhelme/">Motorradhelme</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Motorrad" href="/fahrrad-auto/motorrad/motorradkleidung-protektoren/">Motorradkleidung &amp; Protektoren</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Motorrad" href="/fahrrad-auto/motorrad/motorroller/">Motorroller</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale" href="/fahrrad-auto/sale/">Sale</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <a href="/fahrrad-auto/fahrraeder/fahrrad-mit-service/#lmPromo=la,3,hk,landingpagedatenschutzbestimmungen,fl,topnaviservice-teaser_assetsbinaryimages14baumarkt-direkt3273ads-teaserreparaturservicefahrradjpg">
+                <img alt="Fahrrad & Auto" data-src="/assets/binaryImages/14_baumarkt direkt/3273_ads-Teaser_reparaturservice_fahrrad.jpg" data-et-action="Header_TopNavigation" data-et-label="Teaser|assets/binaryImages/14_baumarkt direkt/3273_ads-Teaser_reparaturservice_fahrrad.jpg">
+                </a>
+                </div>
+
+    </div>
+</div>
+</li>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Tierbedarf" class="MainNavigation-itemLink" href="/tierbedarf/">Tierbedarf</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_hundebedarf Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/">Hundebedarf</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundefressnapf/">Hundefressnapf</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundebekleidung/">Hundebekleidung</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundebetten-hundedecken/">Hundebetten &amp; Hundedecken</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundeboxen-tragetaschen/">Hundeboxen &amp; Tragetaschen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundefutter/">Hundefutter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundehuetten-hundezwinger/">Hundehütten &amp; Hundezwinger</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundeleinen-halsbaender/">Hundeleinen &amp; Halsbänder</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundepflege/">Hundepflege</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Hundebedarf" href="/tierbedarf/hundebedarf/hundespielzeug/">Hundespielzeug</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_reptilienbedarf Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Terraristik" href="/tierbedarf/terraristik/">Terraristik</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Terraristik" href="/tierbedarf/terraristik/terrarien/">Terrarien</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Terraristik" href="/tierbedarf/terraristik/terrariumzubehoer/">Terrariumzubehör</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_katzenbedarf Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/">Katzenbedarf</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/katzenboxen-tragetaschen/">Katzenboxen &amp; Tragetaschen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/katzen-fressnapf/">Katzen-Fressnapf</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/katzenfutter/">Katzenfutter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/katzenhoehlen-kissen/">Katzenhöhlen &amp; Kissen</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/katzenklappen-katzennetze/">Katzenklappen &amp; Katzennetze</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/katzenspielzeug-katzenpflege/">Katzenspielzeug &amp; Katzenpflege</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/katzentoiletten-katzenstreu/">Katzentoiletten &amp; Katzenstreu</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Katzenbedarf" href="/tierbedarf/katzenbedarf/kratzbaeume-kletterbaeume/">Kratzbäume &amp; Kletterbäume</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_kleintierbedarf Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kleintierbedarf" href="/tierbedarf/kleintierbedarf/">Kleintierbedarf</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kleintierbedarf" href="/tierbedarf/kleintierbedarf/kaefige-kaefigzubehoer/">Käfige &amp; Käfigzubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kleintierbedarf" href="/tierbedarf/kleintierbedarf/kleintierfutter/">Kleintierfutter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kleintierbedarf" href="/tierbedarf/kleintierbedarf/staelle-gehege/">Ställe &amp; Gehege</a>
+                      </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_aquaristik Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Aquaristik" href="/tierbedarf/aquaristik/">Aquaristik</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Aquaristik" href="/tierbedarf/aquaristik/aquarien/">Aquarien</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Aquaristik" href="/tierbedarf/aquaristik/aquariendekoration-zubehoer/">Aquariendekoration &amp; Zubehör</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Aquaristik" href="/tierbedarf/aquaristik/fischfutter/">Fischfutter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Aquaristik" href="/tierbedarf/aquaristik/wasserzusaetze-duenger/">Wasserzusätze &amp; Dünger</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_vogelbedarf Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Vogelbedarf" href="/tierbedarf/vogelbedarf/">Vogelbedarf</a>
+                    </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Vogelbedarf" href="/tierbedarf/vogelbedarf/vogelfutter/">Vogelfutter</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Vogelbedarf" href="/tierbedarf/vogelbedarf/vogelhaeuser/">Vogelhäuser</a>
+                      </li>
+
+                <li>
+                    <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Vogelbedarf" href="/tierbedarf/vogelbedarf/vogelkaefige-volieren/">Vogelkäfige &amp; Volieren</a>
+                      </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_wildtierbedarf Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wildtierbedarf" href="/tierbedarf/wildtierbedarf/">Wildtierbedarf</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale" href="/tierbedarf/sale/">Sale</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <a href="/beratung/heimtierberatung/#lmPromo=la,3,hk,landingpagedatenschutzbestimmungen,fl,topnaviservice-teaser_assetsbinaryimages14baumarkt-direkt3376ads-teaserheimtierberatungjpg">
+                <img alt="Tierbedarf" data-src="/assets/binaryImages/14_baumarkt direkt/3376_ads-Teaser_heimtierberatung.jpg" data-et-action="Header_TopNavigation" data-et-label="Teaser|assets/binaryImages/14_baumarkt direkt/3376_ads-Teaser_heimtierberatung.jpg">
+                </a>
+                </div>
+
+    </div>
+</div>
+</li>
+    <li class="MainNavigation-item">
+        <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Sale %" class="MainNavigation-itemLink" href="/sale/">Sale %</a>
+
+        <div class="PullDownMenu">
+  <div class="Row">
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Gartencenter" href="/sale/gartencenter/">Gartencenter</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Werkzeug &amp; Maschinen" href="/sale/werkzeug-maschinen/">Werkzeug &amp; Maschinen</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bad &amp; Küche" href="/sale/bad-kueche/">Bad &amp; Küche</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Bauen &amp; Renovieren" href="/sale/bauen-renovieren/">Bauen &amp; Renovieren</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Wohnen" href="/sale/wohnen/">Wohnen</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Kaminöfen" href="/sale/kaminoefen/">Kaminöfen</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Fahrrad &amp; Auto" href="/sale/fahrrad-auto/">Fahrrad &amp; Auto</a>
+                    </li>
+
+                </ul>
+
+            <ul>
+
+                <li class="TopCategory"><span class="Icon Icon--ln_sale Pull--left"></span> <a data-et-action="Header_TopNavigation" data-et-label="Kategorie|Tierbedarf" href="/sale/tierbedarf/">Tierbedarf</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+    <div class="Column--25 ">
+
+        &nbsp;</div>
+
+    </div>
+</div>
+</li>
+    </ul>
+
+</div></header>
+
+<div class="u-marginVl Print--only"><img src="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/hagebaumarkt.png" /></div><ol class="Breadcrumb Print--no">
+    <li class="Breadcrumb-entry is-first"
+             itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb" >
+
+            <a itemprop="url" href="/" class="" data-value="Breadcrumb" data-action="Breadcrumb_klick">
+                  <span itemprop="title" data-et-action="Breadcrumb" data-et-label="Startseite">Startseite</span>
+                </a>
+              </li>
+          <li><span class="Icon Icon--arrowRight"></span></li>
+          <li class="Breadcrumb-entry is-active"
+             >
+
+            Datenschutzbestimmungen</li>
+          </ol>
+<div class="Container">
+      <div>
+  <div class="LandingPage">
+	  <div class="Row TeaserRaster is-belowTheFold">
+        <div class="Row">
+          <h1>Datenschutz</h1>
+        </div>
+      </div>
+    <div class="Row TeaserRaster is-belowTheFold">
+      <div class="Row">
+        Bei allen Vorgängen der Datenverarbeitung (z.B. Erhebung, Verarbeitung und Übermittlung) verfahren wir nach den gesetzlichen Vorschriften. Ihre für die Geschäftsabwicklung notwendigen Daten werden gespeichert und für die Bestellabwicklung im erforderlichen Umfang an von uns beauftragte Dienstleister weiter gegeben. <br> <br> Im Rahmen des gesetzlich Zulässigen und unter Berücksichtigung Ihrer jeweiligen schutzwürdigen Interessen an dem Ausschluss der Übermittlung oder Nutzung können wir zur Bonitäts- und Kreditprüfung bei Bestellungen Adress- und Bonitätsdaten an die SCHUFA 65203 Wiesbaden weitergeben und anfragen. Bei Bestellungen auf Rechnung und Ratenkäufen nutzen wir neben anderen Bonitätsdaten auch Anschriftendaten, um das Risiko von Zahlungsausfällen im Einzelfall abschätzen zu können.<br> <br>
+<div style="border: 1px solid black; padding: 5px; background-color: #f5edd1;">Die Otto (GmbH &amp; Co KG) und andere Versandhandelsunternehmen der Otto Group räumen ihren Kunden grundsätzlich die Möglichkeit ein, Waren unter Inanspruchnahme unsicherer Zahlungsarten (z.B. Rechnungskauf, Finanzierungskauf) zu erwerben. Zu den weiteren Versandhandelsunternehmen der Otto Group gehören die folgenden:<br> <br> - ambria GmbH <br> - Baur Versand (GmbH &amp; Co KG) <br> - bonprix Handelsgesellschaft mbH <br> - création L GmbH GmbH <br> - Heinrich Heine GmbH <br> - Josef Witt GmbH <br> - Quelle GmbH <br> - Schwab Versand GmbH <br> - Sieh an! GmbH <br> - SportScheck GmbH <br> - UNITO Versand und Dienstleistungen GmbH <br> <br> Unternehmen, die ihren Kunden grundsätzlich unsichere Zahlungsarten einräumen, haben ein berechtigtes Interesse daran, sich so gut wie möglich vor dem Entstehen von Zahlungsausfällen zu schützen. Dies geschieht unter anderem dadurch, dass vor der Einräumung der Möglichkeit der Inanspruchnahme unsicherer Zahlungsarten die Bonität des Kunden geprüft wird. Im Rahmen dieser Prüfung ist die Otto (GmbH &amp; Co KG) dazu berechtigt, bei den oben aufgeführten anderen Versandhandelsunternehmen der Otto Group anzufragen, ob diesen negative Bonitätsinformationen zu dem jeweiligen Kunden vorliegen. Des Weiteren ist die Otto (GmbH &amp; Co KG) dazu berechtigt, den oben aufgeführten anderen Versandhandelsunternehmen der Otto Group negative Bonitätsinformationen zu dem jeweiligen Kunden zu übermitteln, bevor diese dem Kunden die Möglichkeit der Inanspruchnahme unsicherer Zahlungsarten einräumen. Bei den Bonitätsinformationen handelt es sich um Informationen über offene Entgeltforderungen und um solche Informationen, aus denen sich unmittelbar die Gefahr eines Zahlungsausfalls ergibt (z.B. Insolvenz, Schuldnerberatung, Stundung aufgrund von Zahlungsunfähigkeit). Die Otto (GmbH &amp; Co KG) ist des Weiteren dazu berechtigt, Informationen über äußerst atypische Bestellvorgänge (z.B. zeitgleiche Bestellung einer Vielzahl von Waren an dieselbe Adresse unter Nutzung verschiedener Kundenkonten) an die oben aufgeführten Konzernversandhandelsunternehmen der Otto Group zu übermitteln und solche bei diesen anzufragen. Hierdurch sollen Zahlungsausfälle vermieden und unsere Kunden vor einem Missbrauch ihrer Konten bzw. ihrer Identität geschützt werden.<br><br><strong>Auskunft zu einer Zahlungsarteneinschränkung:</strong><br>Sie möchten wissen, warum Sie nicht alle Zahlungsarten nutzen können? Wir geben Ihnen gerne Auskunft.<br><br><a href="/assets/download/13_hagebau web/8312_Anfrageformular_ZA_Hagebau.pdf" target="_blank"> Auskunft anfordern&gt;&gt;</a><br><br></div>
+<br> Die Otto (GmbH &amp; Co KG) kann ferner Adress- und Bestelldaten für eigene Marketingzwecke erheben und verarbeiten. Für fremde Marketingzwecke werden ausschließlich solche Daten weitergegeben, bei denen dies gesetzlich erlaubt ist (allgemein veröffentlichte und bestimmte in Listen zusammengefasste Daten gemäß § 28 Abs. 3 Nr. 3 a.F. und § 47 Nr. 2 n.F. Bundesdatenschutzgesetz sowie gem. § 28 Abs. 3 S.2 und S.4 n.F. Bundesdatenschutzgesetz). <br> <br> <b>Hinweis:</b>&nbsp;<span style="font-family: andale mono,times;"><strong></strong></span>Sie können der Nutzung, Verarbeitung und Übermittlung Ihrer personenbezogenen Daten zu Marketingzwecken jederzeit durch eine formlose Mitteilung auf dem Postweg an OTTO, 20088 Hamburg, oder durch eine E-Mail an service@hagebau.de widersprechen. Dies gilt allerdings nicht für die zur Abwicklung Ihrer Bestellung erforderlichen Daten. Nach Erhalt Ihres Widerspruchs werden wir die betroffenen Daten nicht mehr zu anderen Zwecken als zur Abwicklung Ihrer Bestellung nutzen, verarbeiten und übermitteln sowie die weitere Versendung von Werbemitteln einschließlich unserer Kataloge an Sie einstellen. <br> <br>
+<p><strong>Cookies</strong><br> Cookies&nbsp;sind kleine Dateien, die Ihr Browser auf Ihrem Gerät in einem dafür vorgesehenen Verzeichnis ablegt. Durch diese Cookies kann z.B. festgestellt werden, ob Sie eine Webseite schon einmal besucht haben. Die meisten Browser akzeptieren Cookies automatisch. Sie können Ihren Browser allerdings so einstellen, dass keine Cookies gespeichert werden oder vor dem Speichern eines Cookies eine explizite Zustimmung erforderlich ist. Außerdem können Sie bereits gesetzte Cookies jederzeit löschen. Bitte beachten Sie, dass das Deaktivieren von Cookies ggf. zu Einschränkungen bei der Nutzung unserer Webseite führen kann.</p>
+<p><strong><br>Webanalyse mit Google Analytics und Google Remarketing</strong></p>
+<p>Um diese Webseite und unser Angebot optimieren zu können, benutzen wir Google Analytics und Google Remarketing, Dies sind Dienstleistungen der Google Inc. („Google“). Google verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Webseite (einschließlich Ihrer IP-Adresse) werden an einen Server von Google in den USA übertragen und dort gespeichert. Ihre IP-Adresse wird von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Eine klare Zuordnung der IP-Adresse wird dadurch nicht mehr möglich. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um den Code „gat._anonymizeIp();“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.“</p>
+<p>Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Drittanbieter, einschließlich Google, schalten Anzeigen auf Webseiten im Internet. Drittanbieter, einschließlich Google, verwenden gespeicherte Cookies zum Schalten von Anzeigen auf Grundlage vorheriger Besuche eines Nutzers auf dieser Webseite. Wir verwenden das Measurement Protocol, welches es ermöglicht Aktivitäten des Nutzers in verschiedenen Umgebungen zu erfassen. Diese Daten können nicht mit anderen Daten des Endnutzers in Zusammenhang gebracht werden.</p>
+<p>Durch die Nutzung dieser Webseite erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden. Der Datenerhebung und -speicherung kann jederzeit mit Wirkung für die Zukunft widersprochen werden. Sie können die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link (<a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>) verfügbare Browser-Plugin herunterladen und installieren. Wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können werden.</p>
+<p>Da Nutzerdaten aber nicht nur durch Cookies erhoben werden, verhindert das Löschen jener nicht vollständig die Datenerhebung durch das Measurement-Protokoll.</p>
+<p>Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden sie unter <a href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a>.</p>
+<p>Sie können die Erfassung durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, das die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website verhindert: <a href="#" data-ga-optout="">Google Analytics deaktivieren</a></p>
+<p>Bitte beachten Sie, dass Sie dies ggf. auf jedem ihrer Geräte durchführen müssen.</p>
+<p>Nähere Informationen zu Nutzungsbedingungen, zum Datenschutz und zur Verwendung von Cookies von Google finden Sie unter:&nbsp;</p>
+<p><a href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a>&nbsp;</p>
+<p><a href="https://www.google.de/intl/de/policies/">https://www.google.de/intl/de/policies/</a></p>
+<p><a href="https://www.google.de/intl/de/policies/technologies/ads/">https://www.google.de/intl/de/policies/technologies/ads/</a><br>&nbsp;</p>
+<p><strong><br>Webanalyse mit Google Conversion und Google Adwords</strong></p>
+<p>Diese Webseite nutzt das Google Conversion Tracking. Dabei wird von Google Adwords ein Cookie auf Ihrem Rechner gesetzt, sofern Sie über eine Google-Anzeige auf unsere Webseite gelangt sind. Diese Cookies verlieren nach 30 Tagen ihre Gültigkeit und dienen nicht der persönlichen Identifizierung. Besucht der Nutzer bestimmte Seiten der Webseite des Adwords-Kunden und das Cookie ist noch nicht abgelaufen, können Google und der Kunde erkennen, dass der Nutzer auf die Anzeige geklickt hat und zu dieser Seite weitergeleitet wurde. Jeder Adwords-Kunde erhält ein anderes Cookie. Cookies können somit nicht über die Webseiten von Adwords-Kunden nachverfolgt werden. Die mithilfe des Conversion-Cookies eingeholten Informationen dienen dazu, Conversion-Statistiken für Adwords-Kunden zu erstellen, die sich für Conversion-Tracking entschieden haben. Die Adwords-Kunden erfahren die Gesamtanzahl der Nutzer, die auf ihre Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Sie erhalten jedoch keine Informationen, mit denen sich Nutzer persönlich identifizieren lassen. Wenn Sie nicht an dem Tracking-Verfahren teilnehmen möchten, können Sie auch das hierfür erforderliche Setzen eines Cookies ablehnen – etwa per Browser-Einstellung, die das automatische Setzen von Cookies generell deaktiviert. Sie können Cookies für Conversion-Tracking auch deaktivieren, indem Sie Ihren Browser so einstellen, dass Cookies von der Domain „www.googleadservices.com“ blockiert werden. Googles Datenschutzbelehrung zum Conversion-Tracking finden Sie hier. (URL: <a href="https://services.google.com/sitestats/de.html"><span>https://services.google.com/sitestats/de.html</span></a>)</p>
+<p>Ferner verwenden wir das Tool Google Tag Manager, das uns erlaubt, Website-Tags über eine Oberfläche zu verwalten. Der Tag Manager ist eine Domain ohne Cookies und erfasst keine personenbezogenen Daten. Das Tool sorgt für die Auslösung anderer Tags, die ihrerseits unter Umständen Daten erfassen (z.B. Google Analytics, Google AdWords). Wenn auf Domain- oder Cookie-Ebene eine Deaktivierung vorgenommen wurde, bleibt diese ebenfalls für alle Tracking-Tags bestehen, die mit Google Tag Manager implementiert werden.</p>
+<p><strong><br>Webtrends Analytics</strong></p>
+<p>Auf dieser Website werden durch Webtrends Analytics, einen Webanalysedienst der Webtrends EMEA Acquisition Ltd. ( <a href="http://www.webtrends.de/"><span>www.webtrends.de</span></a> ), anonymisierte Daten erhoben und gespeichert. Diese Daten dienen der Analyse des Besucherverhaltens. Hierzu können Cookies eingesetzt werden. Dies sind kleine Textdateien, die lokal auf dem Rechner des Seitenbesuchers gespeichert werden und so eine Wiedererkennung beim erneuten Besuch unserer Website ermöglichen. Die IP-Adresse der Seitenbesucher wird von Webtrends vor der Speicherung gekürzt und somit anonymisiert. Der Datenerhebung und -speicherung durch Webtrends können Sie jederzeit mit Wirkung für die Zukunft unter dem folgenden Link widersprechen: <a>Klicken Sie hier</a>, um das Webtrends-Tracking in diesem Browser zu deaktivieren.</p>
+<p><strong><br>Hotjar</strong></p>
+<p>Für die Verbesserung der Nutzererfahrung auf unseren Internetseiten setzen wir die Software Hotjar (http://www.hotjar.com, 3 Lyons Range, 20 Bisazza Street, Sliema SLM 1640, Malta, Europe) ein. Mittels Hotjar können wir das Nutzerverhalten (Mausbewegungen, Klicks, Scrollhöhe etc.) auf unseren Internetseiten messen und auswerten. Zu diesem Zweck setzt Hotjar Cookies auf Endgeräten der Nutzer und kann Daten von Nutzern wie z. B. Browser Informationen, Betriebssystem, Verweildauer auf der Seite etc. speichern. Mehr über die Datenverarbeitung durch Hotjar finden Sie <a href="https://www.hotjar.com/privacy">hier</a>. Informationen zum Opt-Out finden Sie <a href="https://www.hotjar.com/opt-out">hier</a>.</p>
+<p><strong><br>Criteo</strong></p>
+<p>Auf dieser Webseite werden durch die Technologie von Criteo SA, Informationen über das Surfverhalten der Webseitenbesucher zu Marketingzwecken in anonymisierter Form gesammelt und gespeichert (Targeting/Retargeting). Diese Daten werden mithilfe von sog. "Cookie"-Textdateien auf Ihrem Computer gespeichert. Criteo analysiert anhand eines Algorithmus das Surfverhalten und kann anschließend gezielte Produktempfehlungen als personalisierte Werbebanner auf anderen Webseiten (sog. Publishern) anzeigen. In keinem Fall können diese Daten dazu verwendet werden, den Besucher dieser Website persönlich zu identifizieren. Die gesammelten Daten werden lediglich zur Verbesserung des Angebots benutzt. Eine andere Verwendung oder Weitergabe an Dritte erfolgt nicht. Weitere Information zu der Technologie von Criteo erhalten Sie in der Criteo Datenschutzrichtlinie ( <a href="http://www.criteo.com/de/datenschutzrichtlinie"><span>http://www.criteo.com/de/datenschutzrichtlinie</span></a> ). Dort finden Sie auch eine Möglichkeit, der vollkommen anonymen Analyse Ihres Surfverhaltens zu widersprechen.</p>
+<p>Bitte beachten Sie, dass Sie nach einer eventuellen Deaktivierung der Anzeige personalisierter Werbeanzeigen von Criteo und anderen Werbepartnern weiterhin Werbeanzeigen erhalten werden, die jedoch weniger passgenau auf Ihre Interessen/Ihr SurfVerhalten abgestimmt sind.</p>
+<p><strong><br>NextPerformance</strong></p>
+<p>Die Technologie von NextPerformance GmbH wird für www.hagebau.de eingesetzt, um Besucherverhalten auf der Website unter Verwendung von Cookies anonym zu sammeln und zu speichern. Damit können angepasste und personalisierte Werbemittel beim Surfen auf Partnerwebsites angezeigt werden. Die Daten sind nicht personenbezogen. Weitere Informationen und die Möglichkeit zur Deaktivierung der NextPerformance Technologie für Ihren Browser finden Sie auf der NextPerformance Website : <a href="http://www.nextperformance.com/privacy"><span>NextPerformance Datenschutzbestimmungen</span></a></p>
+<p><strong><br>Sociomantic<br></strong><br>Mit Hilfe von Browser Cookies sammelt Sociomantic anonyme, nicht personenbezogene Daten über Ihre Interaktionen mit unseren Anzeigen und den Webseiten unserer Kunden (Werber). Die gesammelten Daten werden niemals mit personenbezogenen Daten in Verbindung gebracht oder kombiniert. Sie werden anonym und sicher an unsere Partner und Kunden weitergegeben, um Online Werbung relevanter zu machen. Mehr über die Datensammlung, -speicherung und –nutzung erfahren Sie in den Sociomantic Datenschutzrichtlinien auf der Website: <a target="_blank" href="https://www.sociomantic.com/privacy/de/">Sociomantic Datenschutzbestimmungen</a>. Hier finden Sie auch die Möglichkeit zur Deaktivierung der sociomantic Technologie für Ihren Browser.<strong><br><br><br>Verwendung von Facebook und Google+ Social-Plugins:</strong></p>
+<p>Auf unserer Website werden sogenannte Social Plugins ("Plugins") der sozialen Netzwerke Facebook und Google+ verwendet. Diese Dienste werden von den Unternehmen Facebook Inc. und Google Inc. angeboten ("Anbieter"). Facebook wird betrieben von der Facebook Inc.,1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). Google+ wird betrieben von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google"). Eine Übersicht über die Plugins und deren Aussehen finden Sie hier: <a href="http://developers.facebook.com/plugins"><span>http://developers.facebook.com/plugins</span></a> bzw. <a href="https://developers.google.com/+/plugins"><span>https://developers.google.com/+/plugins</span></a></p>
+<p>Wenn Sie eine Seite unseres Webauftritts aufrufen, die ein solches Plugin enthält, stellt Ihr Browser eine direkte Verbindung zu den Servern von Google oder Facebook her. Der Inhalt des Plugins wird vom jeweiligen Anbieter direkt an Ihren Browser übermittelt und in die Seite eingebunden. Durch die Einbindung der Plugins erhalten die Anbieter die Information, dass Ihr Browser die entsprechende Seite unseres Webauftritts aufgerufen hat, auch wenn Sie kein Profil bei dem entsprechenden sozialen Netzwerk besitzen oder gerade nicht eingeloggt sind. Diese Information (einschließlich Ihrer IP-Adresse) wird von Ihrem Browser direkt an einen Server des jeweiligen Anbieters in die USA übermittelt und dort gespeichert.</p>
+<p>Sind Sie bei einem der sozialen Netzwerke eingeloggt, können die Anbieter den Besuch unserer Website Ihrem Profil auf Facebook bzw. Google+ unmittelbar zuordnen. Wenn Sie mit den Plugins interagieren, zum Beispiel den "Gefällt mir"-Button oder den "+1"-Button betätigen, wird die entsprechende Information ebenfalls direkt an einen Server der Anbieter übermittelt und dort gespeichert. Die Informationen werden außerdem in dem sozialen Netzwerk veröffentlicht und dort Ihren Kontakten angezeigt.</p>
+<p>Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch die Anbieter sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen der Anbieter.</p>
+<p>Datenschutzhinweise von Facebook:</p>
+<p><a href="http://www.facebook.com/policy.php"><span>http://www.facebook.com/policy.php</span></a></p>
+<p>Datenschutzhinweise von Google:</p>
+<p><a href="http://www.google.com/intl/de/+/policy/+1button.html"><span>http://www.google.com/intl/de/+/policy/+1button.html</span></a></p>
+<p>Wenn Sie nicht möchten, dass Google oder Facebook die über unseren Webauftritt gesammelten Daten unmittelbar Ihrem Profil in dem jeweiligen sozialen Netzwerk zuordnen, müssen Sie sich vor Ihrem Besuch unserer Website bei dem entsprechenden Netzwerk ausloggen.</p>
+<p><strong><br>Newsletter</strong></p>
+<p>Für den Versand des Newsletters verwenden wir das sogenannte Double Opt-In-Verfahren, d.h., wir werden Ihnen erst dann einen Newsletter per E-Mail zusenden, wenn Sie uns zuvor ausdrücklich bestätigt haben, dass wir den Newsletter-Dienst aktivieren sollen. Wir werden Ihnen dann eine Benachrichtigungs-E-Mail zusenden und Sie bitten, durch das Anklicken eines in dieser E-Mail enthaltenen Links zu bestätigen, dass Sie unseren Newsletter erhalten möchten.</p>
+<p>Sollten Sie später keine Newsletter mehr von uns erhalten wollen, können Sie diesem jederzeit widersprechen. Selbstverständlich finden Sie auch in jedem Newsletter einen Abmelde-Link.</p>
+<p><strong><br>Kontakt</strong></p>
+<p>Wenn Sie uns eine E-Mail oder eine Nachricht per Kontaktformular senden, so erheben, speichern und verarbeiten wir Ihre Daten nur, soweit dies für die Abwicklung Ihrer Anfragen und für die Korrespondenz mit Ihnen erforderlich ist. Zur personifizierten Anrede erheben wir die folgenden Daten: Anrede, Vorname, Nachname und Ihre E-Mail-Adresse.</p>
+<p>Aus technischen Gründen werden beim Besuch unserer Seite <a href="https://www.hagebau.de">hagebau.de</a> standardmäßig Protokolldateien in sogenannten Logfiles gespeichert. Dies sind konkret die folgenden Informationen: IP-Adresse des zugreifenden Rechners, die Webseite, von der aus Sie uns besuchen, die Webseite, die Sie bei uns besuchen, das Datum und die Dauer des Besuches, der Browsertyp mit dem Sie uns besuchen und dessen Browser-Einstellungen sowie Ihr Betriebssystem. Die Daten werden zum Schutz der Datenverarbeitungssysteme gegen unerlaubten Zugriff für maximal 7 Tage gespeichert und dann gelöscht.</p>
+<p>Sie haben das Recht, jederzeit kostenlos Auskunft&nbsp;über die von uns gespeicherten Daten zu erhalten, unrichtige Daten korrigieren zu lassen und die Löschung oder Sperrung Ihrer personenbezogenen Daten zu verlangen. Darüber hinaus haben Sie jederzeit das Recht, der weiteren Nutzung Ihrer personenbezogenen Daten für die Zukunft zu widersprechen. Wenden Sie sich dazu bitte an:<br><br></p>
+<p><a href="mailto:datenschutz@baumarktdirekt.de">datenschutz@baumarktdirekt.de</a><br><br></p>
+<p>Wir behalten uns das Recht vor, jederzeit diese Erklärung zum Datenschutz unter Beachtung der rechtlichen Vorgaben zu ändern.<br><br></p>
+<p>Hamburg, September 2015</p></div>
+    </div>
+  </div>
+</div><div class="BackTop u-hv8x is-block u-marginTm Print--no">
+  <a href="javascript:void(0);" class="js-BackToTop BackToTop-button IconButton IconButton--rect u-floatRight">
+    <span class="Icon Icon--arrowUp" data-et-action="NachOben"></span>
+  </a>
+</div><div class="Container Print--no">
+  <div class="NewsletterFooter">
+    <div class="Row">
+      <div class="Column Column--60 NewsletterFooter-left">
+        <div class="NewsletterFooter-header">
+          <div class="NewsletterFooter-header">Newsletter</div>
+        </div>
+        <form action="/ajax/newsletter/subscribe/footer/" method="post">
+
+          <div class="NewsletterForm">
+
+            <p class="NewsletterForm-top">Jetzt anmelden und 10 Euro Einkaufsgutschein sichern.<span class="sup">*</span></p>
+
+            <p class="NewsletterForm-error is-hidden"></p>
+
+            <div class="Input Input--required NewsletterForm-email">
+              <div class="CompoundLabel">
+                <label>E-Mail-Adresse:</label>
+              </div>
+              <div class="Input-data">
+                <input type="email" placeholder="Ihre E-Mail-Adresse" class="InputField Validate-Email" name="emailAddress" required="required" data-et-action="NewsletterAnmeldung" data-et-label="Input|Email">
+                <p class="Input-errorDescription"></p>
+              </div>
+              <div class="NewsletterForm-actionFooter Pull--right u-marginRs">
+                <button class="Button Button--primary NewsletterFormSubmit" type="submit" data-et-action="NewsletterAnmeldung" data-et-label="jetzt anmelden">jetzt anmelden</button>
+              </div>
+            </div>
+
+            <div class="NewsletterForm-confirmation">
+              <div class="SpecialInfoLabel">
+                <input id="footer_newsletter" type="checkbox" class="Checkbox" name="approved" data-et-action="NewsletterAnmeldung" data-et-label="Checkbox|Permission">
+                <label for="footer_newsletter">Ja, ich möchte über Angebote &amp; Aktionen von hagebau.de per E-Mail informiert werden. Die Abmeldung ist jederzeit auf www.hagebau.de/abmelden möglich.</label>
+                <p class="Input-errorDescription"></p>
+              </div>
+
+              <div class="Newsletter-confirmationLegend u-marginT5x">
+                <span class="sup">*</span>
+                Mindestbestellwert 30€, gilt nicht bei Sofortlieferung aus dem Regionallager.</div>
+
+            </div>
+          </div>
+
+          <div class="NewsletterForm-success is-hidden">
+            Vielen Dank für Ihr Interesse an unserem Newsletter! Sie erhalten in Kürze eine E-Mail mit einem Bestätigungslink zur Aktivierung. Der 10 Euro Gutschein für Ihre nächste Bestellung wird Ihnen im Anschluss an die Aktivierung separat per E-Mail zugesandt.</div>
+
+        </form>
+
+      </div>
+
+      <div class="Column Column--40 NewsletterFooter-right">
+        <img data-src="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/css/web/assets/NL_Teaser_Pic_Stoerer.jpg" />
+      </div>
+
+    </div>
+
+  </div>
+</div></div>
+    <div class="Container Print--no">
+  <div class="FooterTeaser container-outer">
+  <div class="Footer">
+  <div class="Row">
+    <div class="Column Column--25">
+<div style="color: grey; font-size: 18px; line-height: 25px; margin: 0 0 5px;">Information</div>
+<ul class="Linklist">
+<li><a href="/service/" data-et-action="Footer" data-et-label="Link|Service-Übersicht">Service-Übersicht</a></li>
+<li><a href="/marktfinder/" data-et-action="Footer" data-et-label="Link|Marktfinder">Marktfinder</a></li>
+<li><a href="/newsletter/" data-et-action="Footer" data-et-label="Link|Newsletter">Newsletter</a></li>
+<li><a href="/service/online-services/lieferung-und-ruecksendung/" data-et-action="Footer" data-et-label="Link|Versandinformationen">Versandinformationen</a></li>
+<li><a href="#" class="RateCalculatorLink ServicePage-menuLink" data-target="#the-modal" data-toggle="modal" data-remote="/ajax/rateCalculator/" data-et-action="Footer" data-et-label="Link|Ratenrechner">Ratenrechner</a></li>
+<li><a href="/service/partnercard/" data-et-action="Footer" data-et-label="Link|hagebau Partner-Card">hagebau Partner-Card</a></li>
+<li><a href="/service/gutschein-karte/" data-et-action="Footer" data-et-label="Link|hagebau Gutschein-Karte">hagebau Gutschein-Karte</a></li>
+<li><a href="/service/online-services/lieferung-und-ruecksendung/click-und-collect/" data-et-action="Footer" data-et-label="Link|ClickCollect">Online kaufen im Markt abholen</a></li>
+<li><a href="/kataloge/" data-et-action="Footer" data-et-label="Link|Kataloge">Kataloge</a></li>
+<li><a href="/service/online-services/bezahlung/" data-et-action="Footer" data-et-label="Link|Zahlungsarten">Zahlungsarten</a></li>
+</ul>
+</div>
+<div class="Column Column--25">
+<div style="color: grey; font-size: 18px; line-height: 25px; margin: 0 0 5px;">Extras</div>
+<ul class="Linklist">
+<li><a href="/affiliate/" data-et-action="Footer" data-et-label="Link|Affiliate-Programm">Affiliate-Programm</a></li>
+<li><a href="/beratung/video-mediathek/tv-werbespots/" data-et-action="Footer" data-et-label="Link|TV-Spots">TV-Spots</a></li>
+<li><a href="/beratung/video-mediathek/" data-et-action="Footer" data-et-label="Link|Mediathek">Mediathek</a></li>
+<li><a href="/marken/" data-et-action="Footer" data-et-label="Link|Marken von A-Z">Marken von A-Z</a></li>
+</ul>
+<div class="Footer-service">
+<div style="color: grey; font-size: 18px; line-height: 25px; margin: 0 0 5px;">24h-Service-Hotline</div>
+<p>0180 / 603 00 03</p>
+<p class="Copy--tiny">Festnetz 20 Cent/Anruf inkl. Mwst.,<br> Mobilfunk max. 60 Cent/Anruf inkl. Mwst.</p>
+</div>
+<ul class="Linklist">
+<li><a href="/kontakt/" data-et-action="Footer" data-et-label="Link|Kontakt">Kontakt</a></li>
+</ul>
+</div>
+<div class="Column Column--25">
+<div style="color: grey; font-size: 18px; line-height: 25px; margin: 0 0 5px;">Top Kategorien</div>
+<ul class="Linklist">
+<li><a href="/kaminoefen/" data-et-action="Footer" data-et-label="Link|Kaminöfen">Kaminöfen</a></li>
+<li><a href="/bad-kueche/kuechenmoebel/" data-et-action="Footer" data-et-label="Link|Küchen">Küchen</a></li>
+<li><a href="/wohnen/moebel/" data-et-action="Footer" data-et-label="Link|Möbel">Möbel</a></li>
+<li><a href="/gartencenter/garten-geraetehaeuser/gartenhaeuser/" data-et-action="Footer" data-et-label="Link|Gartenhäuser">Gartenhäuser</a></li>
+<li><a href="/gartencenter/gartenmoebel/" data-et-action="Footer" data-et-label="Link|Gartenmöbel">Gartenmöbel</a></li>
+</ul>
+<div style="color: grey; font-size: 18px; line-height: 25px; margin: 20px 0 5px;">Top Ratgeber</div>
+<ul class="Linklist" style="height: 102px;">
+<li><a href="/beratung/gartencenter-ratgeber/grill-ratgeber/" data-et-action="Footer" data-et-label="Link|Grill-Ratgeber">Grill Ratgeber</a></li>
+<li><a href="/beratung/gartencenter-ratgeber/gartenmoebel-ratgeber/" data-et-action="Footer" data-et-label="Link|Gartenmöbel-Ratgeber">Gartenmöbel Ratgeber</a></li>
+<li><a href="/beratung/gartencenter-ratgeber/rasenmaeher-ratgeber/" data-et-action="Footer" data-et-label="Link|Rasenmäher-Ratgeber">Rasenmäher Ratgeber</a></li>
+<li><a href="/beratung/gartencenter-ratgeber/pflanzen-blumen/rasenpflege/rasenkalender/" data-et-action="Footer" data-et-label="Link|Rasenkalender">Rasenkalender</a></li>
+</ul>
+</div>
+<div class="Column Column--25">
+<div style="color: grey; font-size: 18px; line-height: 25px; margin: 0 0 5px;">Baumärkte</div>
+<ul class="Linklist">
+<li><a href="/baumaerkte/hamburg/" data-et-action="Footer" data-et-label="Link|Baumarkt Hamburg">Baumarkt Hamburg</a></li>
+<li><a href="/baumaerkte/berlin/" data-et-action="Footer" data-et-label="Link|Baumarkt Berlin">Baumarkt Berlin</a></li>
+<li><a href="/baumaerkte/hannover/" data-et-action="Footer" data-et-label="Link|Baumarkt Hannover">Baumarkt Hannover</a></li>
+<li><a href="/baumaerkte/muenchen/" data-et-action="Footer" data-et-label="Link|Baumarkt München">Baumarkt München</a></li>
+<li><a href="/baumaerkte/koeln/" data-et-action="Footer" data-et-label="Link|Baumarkt Köln">Baumarkt Köln</a></li>
+<li><a href="/baumaerkte/leipzig/" data-et-action="Footer" data-et-label="Link|Baumarkt Leipzig">Baumarkt Leipzig</a></li>
+<li><a href="/baumaerkte/duesseldorf/" data-et-action="Footer" data-et-label="Link|Baumarkt Düsseldorf">Baumarkt Düsseldorf</a></li>
+<li><a href="/baumaerkte/frankfurt/" data-et-action="Footer" data-et-label="Link|Baumarkt Frankfurt">Baumarkt Frankfurt</a></li>
+<li><a href="/baumaerkte/dresden/" data-et-action="Footer" data-et-label="Link|Baumarkt Dresden">Baumarkt Dresden</a></li>
+<li><a href="/baumaerkte/dortmund/" data-et-action="Footer" data-et-label="Link|Baumarkt Dortmund">Baumarkt Dortmund</a></li>
+</ul>
+</div>
+<style><!--
+.SocialFooter .Social {
+    padding-top:35px;
+}
+.TrustedShopFooter .TrustedShop {
+    padding-top:20px;
+}
+.TrustedShopFooter .TrustedShopAnchor{
+        height: 50px; 
+        width: 50px; 
+        float: left; 
+        margin: 5px 20px 0 40px;
+    }
+    .TrustedShopFooter .TrustedShopLabel{
+        color: #808080; 
+        clear: both;
+    }
+--></style>
+<div class="Row TrustedShopFooter SocialFooter" style="padding-top: 25px; clear:both;">
+<div class="TrustedShop Column Column--35">
+<a href="https://www.trustedshops.de/shop/certificate.php?shop_id=XA2C31353B815926B6A4AF27A42C706D4" target="_blank"><div class="TrustedShopAnchor" data-et-action="Footer" data-et-label="Icon|Trusted Shop" style="margin-left: 0px;"></div></a>
+<a href="https://www.trustedshops.de/shop/certificate.php?shop_id=XA2C31353B815926B6A4AF27A42C706D4" target="_blank"><span class="TrustedShopLabel" data-et-action="Footer" data-et-label="Link|Trusted Shop">Käuferschutz<br>Datenschutz<br>Sichere Zahlung mit SSL-Verschlüsselung</span></a></div>
+<div class="Social Column Column--40" style="padding-top: 10px; padding-left: 31px;">
+<div style="color: grey; font-size: 18px; line-height: 25px; margin: 0 0 5px 33px;"><a data-et-action="Footer" data-et-label="Link|Smartphone App Landingpage" href="/apps/smartphone/#lmPromo=la,3,hk,Footer,fl,HP_desktop_Smartphone_App_Link">hagebau Smartphone Apps</a></div>
+    <a href="https://app.adjust.com/qyko3m?campaign=desktop&amp;adgroup=startseite&amp;creative=footer" target="_blank" title="hagebau Android App im App Store downloaden" data-et-action="Footer" data-et-label="Link|Android-App"><img src="/assets/binaryImages/14_baumarkt direkt/12847_google-play-badge-hagebau.png" alt="hagebau Android App"></a>
+    <a href="https://app.adjust.com/b2yt30?campaign=desktop&amp;adgroup=startseite&amp;creative=footer" target="_blank" title="hagebau iOS App im App Store downloaden" data-et-action="Footer" data-et-label="Link|iOS-App"><img src="/assets/binaryImages/14_baumarkt direkt/12848_app-store-badge-hagebau.png" alt="hagebau iOS App"></a>
+</div>
+<div class="Social Column Column--20" style="padding-top: 10px;">
+<div style="color: grey; font-size: 18px; line-height: 25px; margin: 0 0 5px;">hagebau Social</div>
+<a href="http://www.facebook.de/hagebau" target="_blank" title="hagebau auf Facebook besuchen" data-et-action="Footer" data-et-label="Link|Facebook"><img src="/assets/binaryImages/14_baumarkt direkt/12849_facebook-logo-hagebau.png" style="padding-right: 10px;"></a>
+<a href="https://www.youtube.com/hagebaumarkt" target="_blank" title="zum hagebau Youtube Channel" data-et-action="Footer" data-et-label="Link|YouTube"><img src="/assets/binaryImages/14_baumarkt direkt/12850_youtube-icon-hagebau.png"></a>
+</div>
+</div></div>
+</div></div>
+<div class="FooterBottom Container Container--fullwidth">
+  <div class="FooterBottom--left">
+    © hagebau.de&nbsp;2017 &ndash; Online Baumarkt Shop</div>
+  <div class="FooterBottom--middle">
+    <a data-et-action="Footer" data-et-label="Icon|hagebau Logo" href="/" class="FooterBottom--logo"></a>
+  </div>
+  <div class="FooterBottom--right">
+    <a data-et-action="Footer" data-et-label="Link|AGB" href="/agb/">AGB</a>&nbsp;|&nbsp;<a href="/impressum/" data-et-action="Footer" data-et-label="Link|Impressum">Impressum</a>&nbsp;|&nbsp;<a href="/datenschutz/" data-et-action="Footer" data-et-label="Link|Datenschutz">Datenschutz</a>
+  </div>
+</div></div>
+</div>
+
+  <div id="fullscreen-container"></div>
+  <script type="text/javascript">
+  window.config = {};
+
+  window.config.jValidateCustomConfig = '/ajax/jvalidateoptions/';
+
+  window.config.storeFinderUrl = '/marktfinder/';
+  window.config.lightbox = {
+      iframeTemplate : '/ajax/iframelayer/?t=IFRAME',
+      confirmationTemplate : '/ajax/iframelayer/?t=CONFIRMATION',
+      messageTemplate : '/ajax/iframelayer/?t=MESSAGE',
+      simpleResponseTemplate : '/ajax/iframelayer/?t=SIMPLERESPONSE'
+  };
+  window.config.lastSeen = {
+      deleteUrl : '/lastseen/delete/'
+  };
+  window.config.prudsys = {
+      trackingUrl : '/ajax/prudsys/recommendations/click/'
+  };
+  
+  window.config.jsPath = 'XmVjMzY2NDQ0Y2EyZTJmM2NhZDVhZDRkMmA3Z2AzZWUyMmFoNmRhM2deMkRENkVEXjM+NV47RF4=';
+  window.config.voucherOn = false;
+  window.config.showVoucherLayer = true;
+  window.config.voucherPath = '\/request\/addVoucher\/';
+  window.config.throbberColor = '#008035';
+</script>
+
+<script type="text/javascript">
+  var argusSessionID = "7881e5354281b6cbe2ab57cbfa24c0fab1ffc74e";
+  var clientId = "1200";
+  
+      window.config.argusJson = [{"type":"page","params":{"pc":"Datenschutzbestimmungen","ls":0,"pc2":"Datenschutzbestimmungen"}}]</script>
+
+<script type="text/javascript">
+ var dl_obj = {"blockedCustomer":false,"deviceType":"desktop","gaId":"UA-53601385-1","isCartDiscount":false,"customerID":"","cartItemsJson":[],"pageName":"LandingPage_Datenschutzbestimmungen","recoTestGroup":"BOTH"};
+</script>
+<script async src="//nexus.ensighten.com/bmd/prod/Bootstrap.js"></script>
+<script src="/64beeccc42a6a7b425d25c5a1f81b66aa29e52b8/assets/bmd/js/web/bmd_landingpage.min.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,871 @@
+# Sie fragen, wir antworten!
+
+Meinten Sie …
+
+## Unsere Antwort:
+
+Hat Ihnen diese Antwort geholfen?
+
+JaNein
+
+Vielen Dank!
+
+Wir helfen Ihnen gerne persönlich weiter!
+
+Haben Sie noch weitere Fragen? Gerne stehen wir Ihnen persönlich über den
+Support-Chat oder die Hotline zur Verfügung.
+
+### Support-Chat
+
+Im Chat stehen wir Ihnen Mo.-Fr. von 08-20 Uhr und Sa. von 10-18 Uhr zu allen
+Themen kostenfrei zur Verfügung.
+
+Chat starten
+
+Leider steht zurzeit kein FONIC Berater für den Chat zur Verfügung.
+
+Hotline
+
+Unsere Kundenbetreuung ist Mo.-Fr. von 08-20 Uhr und Sa. von 10-18 Uhr für Sie
+da.
+
+Kosten gemäß Ihrem FONIC Tarif (max. 9 Ct/Min Inland) von Ihrem FONIC
+Mobilfunkanschluss. Kosten für Anrufe von anderen Anschlüssen gemäß Preisliste
+des jeweiligen Anbieters.
+
+0176 8888 0000
+
+### Diese Fragen und Antworten könnten Ihnen ebenfalls helfen:
+
+  * #### {{faqCtrl.getQuestion()}}
+
+TarifeServiceMein FONICSIM-Karte freischalten Hilfe
+
+TarifeHandyshopService
+
+TarifeHandyshopServiceMein FONICFreischaltenFragen &amp;
+AntwortenVerkaufsstellenAppsKontakt
+
+TarifeHandyshopService
+
+# Datenschutzerklärung
+
+## Datenschutzhinweise der Telefónica Germany GmbH & Co. OHG für
+Telekommunikationsverträge der Marke „FONIC“, für die Seite fonic.de und für
+die App „Mein FONIC“
+
+## I. Allgemeine Informationen
+
+### 1\. Datenschutz
+
+Als Telekommunikationsunternehmen nimmt Telefónica Germany GmbH & Co. OHG (im
+Folgenden: „Telefónica“) den Schutz und die Sicherheit von personenbezogenen
+Daten sehr ernst. Daher informieren wir unsere Kunden an dieser Stelle über
+das Thema Datenerfassung und -schutz sowie über unseren sorgfältigen,
+verantwortungsvollen Umgang mit ihren Daten.
+
+### 2\. Kontakt zum Bereich Datenschutz
+
+Unser Datenschutzbeauftragter ist unter den folgenden Kontaktdaten zu
+erreichen:
+
+Telefónica Germany GmbH & Co. OHG  
+Georg-Brauchle-Ring 23-25  
+80992 München  
+E-Mail: datenschutz@telefonica.com
+
+### 3\. Auskunftsrecht
+
+Nach dem Bundesdatenschutzgesetz haben Sie das Recht, Auskunft über die zu
+Ihrer Person gespeicherten personenbezogenen Daten – auch soweit sie sich auf
+Herkunft oder Empfänger dieser Daten beziehen – und den Zweck der Speicherung
+dieser Daten zu erhalten. Senden Sie hierzu bitte eine schriftliche Anfrage an
+den Fachbereich Datenschutz unter der oben (unter Ziffer 2.) erwähnte
+Anschrift.
+
+Bitte bezeichnen Sie in Ihrem Schreiben die Art der personenbezogenen Daten,
+über die Sie informiert werden möchten, möglichst genau und geben Sie bitte
+Ihre Mobilfunkrufnummer mit an. Wenn Sie Fragen hinsichtlich der Verarbeitung
+Ihrer personenbezogenen Daten haben, wenden Sie sich bitte an unseren
+Kundenservice. Vertrauliche Anfragen können Sie auch direkt an unseren
+Datenschutzbeauftragten richten.
+
+### 4\. Datensicherheit
+
+Die Sicherheit persönlicher Informationen hat einen hohen Stellenwert bei uns.
+
+Wir sichern unsere Webseite und anderen Systeme sowie alle zugehörigen Daten
+mit einem erheblichen Aufwand an technischen, administrativen und physischen
+Mitteln, die gegen Verlust, unbefugten Zugang, Zerstörung, Missbrauch,
+Änderung und unsachgemäße Verbreitung schützen.
+
+### 5\. Änderungen dieser Datenschutzhinweise
+
+Da Gesetzesänderungen oder Änderungen unserer unternehmensinternen Prozesse
+eine Anpassung dieser Datenschutzerklärung erforderlich machen können, die wir
+uns entsprechend vorbehalten, bitten wir Sie, diese Datenschutzerklärung
+möglichst bei jedem Aufruf der Website erneut zu lesen.
+
+## II. Besuch unserer Website
+
+Wir möchten Sie gerne darüber informieren, wie und welche Daten wir im Rahmen
+Ihres Websites-Besuchs verarbeiten.
+
+### 1\. Personenbezogene Daten
+
+Personenbezogene Daten sind Einzelangaben über persönliche oder sachliche
+Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Keine
+personenbezogenen Daten sind anonymisierte oder statistische Daten, bei denen
+ein Bezug zu Ihrer Person nicht oder nur mit unverhältnismäßig großem Aufwand
+an Zeit, Kosten und Arbeitskraft hergestellt werden könnte. Pseudonyme Daten
+sind solche, die bei denen der Name oder ein anderes Identifikationsmerkmal
+durch ein Kennzeichen ersetzt wurde, so dass die betroffene Person nur
+wesentlich erschwert identifiziert werden kann.
+
+Personenbezogene Daten sind u.a. Bestandsdaten, Verkehrsdaten, Inhaltsdaten
+und Nutzungsdaten.
+
+Nutzungsdaten sind gemäß § 15 Abs. 1 TMG insbesondere
+
+  * Merkmale zur Identifikation des Nutzers,
+  * Angaben über Beginn und Ende sowie über den Umfang der jeweiligen Nutzung und
+  * Angaben über die vom Nutzer in Anspruch genommenen Telemedien.
+
+Zu den anderen Datenarten siehe u.a. unten.
+
+### 2\. Datenverarbeitungen auf unserer Website
+
+Sie können unsere Website jederzeit besuchen, ohne Angaben über Ihre Person zu
+machen. Um die Qualität unserer Website zu verbessern, speichern wir jedoch
+statistische Daten über den Zugriff auf die einzelnen Seiten. Diese
+Datenspeicherung erfolgt grundsätzlich ohne Personenbezug, das heißt: Die
+Daten werden anonym erfasst und erlauben keinen Rückschluss auf Ihre
+Identität. Darüber hinaus werden in bestimmten Fällen zum Zwecke der
+Systemsicherheit Daten auf unseren Servern gespeichert. Eine Auswertung dieser
+Daten zu anderen Zwecken, insbesondere zur Bildung von Nutzerprofilen, findet
+in diesem Zusammenhang nicht statt.
+
+Bei einzelnen Diensten ist es erforderlich, dass Sie sich hierfür gesondert
+anmelden. Ihre personenbezogenen Daten, die aufgrund dieser individuellen
+Nutzung benötigt werden, erheben, verarbeiten und nutzen wir ausschließlich
+unter Beachtung der jeweils geltenden gesetzlichen Vorschriften zum Schutz
+personenbezogener Daten. Es unterliegt Ihrer freien Entscheidung, ob Sie
+Dienste nutzen möchten. Ohne Angabe Ihrer personenbezogenen Daten können wir
+allerdings in diesen Fällen den gewünschten Service nicht zur Verfügung
+stellen. Sie finden an der jeweiligen Eingabestelle jeweils gesonderte
+Hinweise auf das genaue Verfahren und entsprechende Einwilligungserklärungen,
+über deren Abgabe Sie frei entscheiden können.
+
+### 3\. Logfiles
+
+Zu Zwecken der Bereitstellung der Website, Missbrauchsverhinderung und
+Systemsicherheitsgründen werden u.a. die IP-Adresse Ihres Endgeräts und der
+Zeitpunkt des Website-Abrufs gespeichert.
+
+### 4\. Vertragsschluss im Webshop
+
+Wenn Sie unsere Produkte online erwerben, werden Ihre personenbezogenen Daten,
+die Sie uns z.B. im Bestellformular übermitteln, von uns verarbeitet, um die
+Ihre Bestellung und Ihren Vertrag durchzuführen. Ihre Daten werden in
+bestimmten Fällen an Dritte (z.B. Auskunfteien – nähere Details siehe hierzu
+unten) übermittelt. Wir übermitteln Ihre Daten nur an Dritte, wenn eine
+gesetzliche Legitimation hierzu vorliegt. Zur Sicherheit Ihrer Daten sind die
+Webseiten des Webshops verschlüsselt.
+
+### 5\. Kundenaccounts
+
+Wir bieten unseren Kunden auf unserer Website die Möglichkeit, sich einen
+Kundenaccount anzulegen und sich dort anzumelden.
+
+Bei der Erstregistrierung Ihres Kundenaccounts werden Ihre Rufnummer und ein
+von Ihnen zu vergebendes Passwort abgefragt, die als Pflichtangaben
+gekennzeichnet sind. Diese Pflichtangaben sind erforderlich, um Ihnen den
+Kundenaccount und die mit diesem in Verbindung stehenden Dienste zur Verfügung
+stellen zu können. Die darüber hinaus abgefragten Daten sind freiwillige
+Daten, die zur Bereitstellung des Services nicht zwingend sind. Das von Ihnen
+zu vergebende Passwort darf zwischen 8 und 30 Zeichen lang sein, wobei
+mindestens vier der folgenden Kategorien erfüllt sein müssen: Kleinbuchstabe,
+Großbuchstabe, Ziffer, Sonderzeichen. Das Passwort darf nicht Teile Ihrer
+angegeben Rufnummer enthalten. Ihr Passwort wird in unseren Systemen
+verschlüsselt gespeichert.
+
+In Ihrem Kundenaccount können Sie die von Ihnen abgegeben Einwilligungen z.B.
+zur Nutzung Ihrer Daten ändern. Zur Sicherheit Ihrer Daten sind die Webseiten
+des Kundenaccounts verschlüsselt.
+
+Wenn Sie sich auf unserer Website einloggen, können Sie personenbezogene
+Services nutzen, wie zum Beispiel Änderungen an Ihren Verträgen vornehmen oder
+Datenschutzeinstellungen verwalten. Ihre Daten werden in diesem Fall -bedingt
+durch die personalisierte Anmeldung- personenbezogen verwendet und
+gespeichert, wenn Sie unser Portal oder elektronischen Kommunikationskanäle
+(z.B. Chat) benutzen.
+
+Ihren Kundenaccount können Sie mit Hilfe unseren Kundenservices löschen. Bitte
+kontaktieren Sie unseren Kundenservice hierzu.
+
+### 6\. Feedback
+
+Auf einigen unserer Websites bieten wir Ihnen die Möglichkeit, uns Feedback zu
+geben. Zur Abgabe von Feedback sind die Angabe eines Nicknamens, eine
+Bewertung in Form von Sternenanzahl und Ihr Bewertungstext erforderlich.
+Darüber hinaus abgefragte Daten sind freiwillige Angaben.
+
+### 7\. Cookies
+
+Wir möchten diese Website auch in Zukunft attraktiv für Sie gestalten. Deshalb
+setzen wir auf unseren Internet-Seiten teilweise sogenannte Cookies ein. Bei
+Cookies handelt es sich um kleine Textdateien, die von einem Webserver
+generiert werden und mittels des genutzten Webbrowsers auf dem Computersystem
+des Nutzers gespeichert werden. Sie sind individuellen Websites zugeordnet und
+können grundsätzlich nur durch diese geschrieben und gelesen werden. Ihr
+genereller Zweck ist es, einer webbasierten Applikation die Möglichkeit zu
+geben, den Status eines Online-Besuchs zu verwalten und eine reibungslose
+Navigation zwischen den einzelnen Diensten und Inhalten auf der Website zu
+ermöglichen.
+
+Wir verwenden sowohl Cookies, die nur für die Dauer eines Online-Besuches im
+Einsatz sind, als auch längerfristige Cookies. Längerfristige Cookies werden
+insbesondere dazu genutzt, um Ihnen als Internet-Nutzer dauerhaft
+wiederkehrende Einstellungen auf unserer Website zur Verfügung stellen zu
+können. Cookies ermöglichen uns auch eine Analyse Ihres Nutzungsverhaltens,
+jedoch nur im Rahmen der Gültigkeitsdauer des Cookies. Auf diese Weise können
+wir unsere Website individuell an Ihre Wünsche anpassen. Wir erfassen zu
+statistischen Zwecken sowie zur Verbesserung unseres Services die Anzahl der
+Aufrufe einzelner Seiten, den gewählten Link, der zu einer Seite führte, und
+den Typ des verwendeten Browsers.
+
+Sie haben jederzeit die Möglichkeit, das Speichern von Cookies und die
+Gültigkeitsdauer eines Cookies zu ändern. Sie können z.B. Ihren Browser so
+einstellen, dass er Sie über das Setzen von Cookies vorher informiert, oder
+Sie können die Annahme von Cookies vollständig verweigern. Die Verweigerung
+von Cookies kann technisch in bestimmten Fällen zu einer Einschränkung der
+Funktionalität führen oder dazu, dass bestimmte Dienste nur in Verbindung mit
+dem Setzen von Cookies richtig funktionieren.
+
+Bei den Angaben zu den Cookies anderer Anbieter oder solchen, die von
+Drittanbietern gesetzt werden (s.u.), befindet sich grundsätzlich ein Link,
+über den Sie Ihren Widerspruch erklären können. In diesem Zusammenhang wird
+von dem Anbieter ein Opt-Out-Cookie auf Ihrem Rechner gesetzt, der verhindert,
+dass weitere Daten erfasst werden. Solange Sie Ihren Widerspruch
+aufrechterhalten möchten, sollten Sie den Opt-Out-Cookie nicht löschen. Soweit
+dieser Cookie von Ihren nachträglich gelöscht wird, müssen Sie die
+Deaktivierung erneut durchführen. Zusätzlich können Sie der Datenerhebung und
+-speicherung durch viele weitere Dienste unter dem Link
+http://www.youronlinechoices.com/de/praferenzmanagement oder unter
+http://www.networkadvertising.org/choices/#completed (nur auf Englisch
+verfügbar) jederzeit mit Wirkung für die Zukunft widersprechen.
+
+Folgende Drittanbieter-Cookies können auf einzelnen unserer Websites gesetzt
+werden:
+
+a. Google Analytics
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+(„Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf
+Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
+über Ihre Benutzung dieser Website werden in der Regel an einen Server von
+Google in den USA übertragen und dort gespeichert. Wir weisen Sie darauf hin,
+dass auf dieser Webseite die IP-Anonymisierung aktiviert wurde, d.h. dass
+Google Ihre IP-Adresse innerhalb von Mitgliedstaaten der Europäischen Union
+oder in anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum zuvor kürzt. Nur in Ausnahmefällen wird die volle IP-Adresse
+an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag
+des Betreibers dieser Website wird Google diese Informationen benutzen, um
+Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten
+zusammenzustellen und um weitere mit der Websitenutzung und der
+Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu
+erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte
+IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung
+Ihrer Browser- Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie
+in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website
+vollumfänglich nutzen können (s.o.). Sie können darüber hinaus die Erfassung
+der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen
+Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten
+durch Google verhindern, indem Sie das unter dem folgenden Link
+http://tools.google.com/dlpage/gaoptout?hl=de verfügbare Browser-Plugin
+herunterladen und installieren.
+
+Alternativ zum Browser-Plugin und auf mobilen Endgeräten können Sie die
+Erfassung durch Google Analytics verhindern, indem Sie auf untenstehenden Link
+klicken. Es wird ein Opt-Out-Cookie gesetzt, der die zukünftige Erfassung
+Ihrer Daten beim Besuch dieser Website verhindert: Google Analytics
+deaktivieren. Solange Sie Ihren Widerspruch aufrechterhalten möchten, sollten
+Sie den Opt-Out-Cookie nicht löschen. Soweit dieser Cookie von Ihren
+nachträglich gelöscht wird, müssen Sie die Deaktivierung erneut durchführen.
+
+Google Analytics Opt-out.
+
+Nähere Informationen finden Sie hierzu unter
+http://tools.google.com/dlpage/gaoptout?hl=de bzw. unter
+http://www.google.com/intl/de/analytics/privacyoverview.html.
+
+Verwendung von Google Analytics in der App
+
+Diese App benutzt „Google Analytics, einen Analysedienst von Google Inc., 1600
+Amphitheatre Parkway, Mountain View, Kalifornien, 94043 USA ("Google"). Google
+Analytics verwendet sog. "IDs", Identifier, die auf Ihrem Gerät erzeugt und
+gespeichert werden und die eine Analyse der Benutzung der App durch Sie
+ermöglichen. Die durch die ID erzeugten Informationen über Ihre Benutzung
+dieser App werden in der Regel an einen Server von Google in den USA
+übertragen und dort gespeichert. Wir weisen Sie darauf hin, dass in dieser App
+die IP-Anonymisierung aktiviert wurde, d.h. dass Google Ihre IP-Adresse
+innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor
+kürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von
+Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers
+dieser App wird Google diese Informationen benutzen, um Ihre Nutzung der App
+auszuwerten, um Reports über die App-Aktivitäten zusammenzustellen und um
+weitere mit der App­-Nutzung und der Internetnutzung verbundene
+Dienstleistungen gegenüber dem App-Betreiber zu erbringen. Die im Rahmen von
+Google Analytics von Ihrem Gerät übermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengeführt. Sie können darüber die Erfassung der
+durch den Analysedienst erzeugten und auf Ihre Nutzung der App bezogenen Daten
+(inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch
+Google verhindern, indem Sie die Einstellung unten bei „Google Analytics in
+der App aktiv" deaktivieren. Wir weisen Sie jedoch darauf hin, dass Sie in
+diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser App
+vollumfänglich nutzen können und der Analysedienst lediglich innerhalb unserer
+App deaktiviert wird. Nähere Informationen finden Sie hierzu unter
+http://www.google.com/intl/de/policies/privacy/.
+
+b. Visual Website Optimizer (VWO)
+
+Diese Website benutzt Visual Website Optimizer, für Zwecke der Werbung, der
+Marktforschung oder bedarfsgerechten Gestaltung bzw. Optimierung unseres
+Internetauftritts.
+
+Sie können die Erfassung der durch das Cookie erzeugten und auf Ihren Besuch
+der Website bezogenen Daten an VWO sowie die Verarbeitung dieser Daten durch
+VWO verhindern, indem unter dem folgenden Link Ihren Widerspruch (Opt-out)
+erklären: https://vwo.com/opt-out/.
+
+Weitere Informationen zum Datenschutz bei Visual Website Optimizer sowie die
+Datenschutzerklärung können Sie unter folgendem Link abrufen:
+https://vwo.com/privacy-policy/.
+
+c. The ADEX
+
+Diese Website macht Gebrauch der Technologie von der The ADEX GmbH mit Sitz in
+Deutschland, Berlin. Mittels der The ADEX Technologie werden Nutzungsdaten
+erhoben, gespeichert, analysiert und für Targeting Zwecke nutzbar gemacht.
+Dazu werden Cookies, Web Beacons o.ä. Technologien verwendet. Die erhobenen
+Nutzungsdaten werden unter einem Pseudonym gespeichert. Erfasst werden durch
+The ADEX Informationen über Aktivitäten der Nutzer (geklickte Werbebanner,
+besuchte Unterseiten, gestellte Suchanfragen etc.). Die Daten werden
+ausschließlich anonym oder unter Verwendung eines Pseudonyms gespeichert.
+
+Wenn Sie keine auf von The ADEX gesammelten Daten basierende Aussteuerung von
+nutzungsbasierten Werbeeinblendungen mehr erhalten möchten, dann nutzen Sie
+dafür den folgenden Opt Out Link: http://de.theadex.com/company/consumer-opt-
+out/.
+
+Weitere Informationen zum Datenschutz bei The ADEX sowie die
+Datenschutzerklärung können Sie unter folgendem Link abrufen:
+http://de.theadex.com/company/privacy/.
+
+d. Facebook Cookies
+
+Auf einigen unserer Seiten werden Kommunikationstools von Facebook (Facebook
+Inc., 1601 Willow Road, Menlo Park, CA 94025, USA) eingesetzt, vor allem
+Website Custom Audiences. Wenn Sie einen Facebook User Account haben und dies
+für das Tool aufgrund der von Facebook auf Ihrem Rechner gesetzten Cookies
+erkennbar ist, generiert das Tool eine Prüfsumme, durch die nicht ohne
+Weiteres auf Ihre Person geschlossen werden kann, die zu Analyse- und
+Marketingzwecken an Facebook geendet wird. Wenn Sie dem widersprechen möchten,
+klicken Sie bitte den folgenden Link an:
+https://www.facebook.com/ads/website_custom_audiences/.
+
+Weitere Informationen hierzu und zu der Nutzung der Daten durch Facebook
+entnehmen Sie bitte den Datenschutzhinweisen von Facebook, welche unter
+folgenden Links abrufen können:
+https://www.facebook.com/ads/website_custom_audiences/ und
+https://www.facebook.com/privacy/explanation zu finden sind.
+
+Ferner ist auf einigen Seiten der Website der "Conversion Pixel" von Facebook
+integriert. Facebook kann hierdurch das Verhalten von Nutzern nachvollziehen,
+die auf eine Werbeanzeige im geschlossenen Mitgliederbereich von Facebook
+geklickt haben und auf unsere Webseite weitergeleitet wurden. Durch den
+Einsatz eines Cookies kann Facebook diesen Nutzer im Anschluss im
+geschlossenen Mitgliederbereich von Facebook wiedererkennen und hierauf
+basierend die Effizienz von Werbeanzeigen ermitteln und optimieren. Dies
+betrifft jedoch nur Nutzer, die einen Account bei Facebook haben und im
+geschlossenen Mitgliederbereich von Facebook eingeloggt sind. Nutzer, die
+keine Mitglieder bei Facebook sind, sind hiervon nicht betroffen.
+
+### 8\. Social Media Plugins
+
+Unsere Website verwendet sogenannte Social Plugins („Plugins") sozialer
+Netzwerke. Die Plugins sind zunächst deaktiviert, so dass sie diese erst
+aktivieren müssen, um das jeweilige Plugin betätigen zu können. Wenn die
+Plugins deaktiviert sind, wird keine Verbindung mit dem jeweiligen sozialen
+Netzwerk erstellt. Wenn Sie den Plugin aktivieren, wird eine direkte
+Verbindung mit dem sozialen Netzwerk hergestellt.
+
+Der Inhalt des Plugins wird dann vom jeweiligen sozialen Netzwerk direkt an
+Ihren Browser übermittelt und von diesem in die Website eingebunden. Das
+jeweilige soziale Netzwerk erhält die Information, dass Ihr Browser die
+entsprechende Seite unserer Website aufgerufen hat. Diese Information
+(einschließlich Ihrer IP-Adresse) wird von Ihrem Browser direkt an einen
+Server des jeweiligen sozialen Netzwerks übermittelt und dort gespeichert.
+
+Sind Sie während des Besuchs unserer Website bei einem der sozialen Netzwerke
+eingeloggt, kann dieses den Besuch unserer Website bei gleichzeitig
+aktiviertem Plugin Ihrem Netzwerk-Konto direkt zuordnen. Wenn Sie das Plugins
+betätigen, zum Beispiel den „Gefällt mir"- oder „+1“-Button anklicken oder
+einen Kommentar abgeben, wird die entsprechende Information ebenfalls direkt
+an einen Server des sozialen Netzwerks übermittelt und dort gespeichert. Die
+Informationen werden zudem ggf. im sozialen Netzwerk veröffentlicht und
+Kontakten im jeweiligen sozialen Netzwerk angezeigt. Diese Informationen
+können zum Zwecke der Werbung, Marktforschung und bedarfsgerechten Gestaltung
+der Dienste des jeweiligen sozialen Netzwerks benutzt werden. Wenn Sie nicht
+möchten, dass ein soziales Netzwerk die über unseren Webauftritt gesammelten
+Daten Ihrem Netzwerk-Konto zuordnet, müssen Sie das jeweilige Plugin im
+voreingestellten inaktiven Modus belassen.
+
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch das jeweilige soziale Netzwerk sowie Ihre diesbezüglichen
+Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen
+Sie bitte den Datenschutzhinweisen des jeweiligen sozialen Netzwerks.
+
+### 9\. Hyperlinks auf andere Websites
+
+Wir haben auf unserer Website verschiedene Links auf andere Websites gesetzt.
+Wir machen uns die Inhalte dieser Websites nicht zu Eigen und sind für diese
+Inhalte nicht verantwortlich. Zum Zeitpunkt der Linksetzung waren keine
+unzulässigen Inhalte auf den verlinkten Seiten erkennbar. Auf Änderungen der
+verlinkten Inhalte haben wir keinen Einfluss.
+
+## III. Telefonieren mit Ihrem Tarif
+
+### 1\. Informationen zu Datenarten
+
+a. Bestandsdaten
+
+Gemäß § 3 Nr. 3 TKG sind „Bestandsdaten” Daten eines Teilnehmers, die für die
+Begründung, inhaltliche Ausgestaltung, Änderung oder Beendigung eines
+Vertragsverhältnisses über Telekommunikationsdienste erhoben werden. Hierzu
+gehören Anrede, Vor- und Nachname, Anschrift, Geburtsdatum, Telefonnummern,
+E-Mail Adressen, Faxnummern, Bankverbindung sowie Informationen zu den von
+Ihnen genutzten Tarifen, Produkten und Diensten.
+
+b. Verkehrsdaten
+
+Gemäß § 3 Nr. 30 TKG sind „Verkehrsdaten” Daten, die bei der Erbringung eines
+Telekommunikationsdienstes erhoben, verarbeitet oder genutzt werden.
+
+Dies sind nach § 96 Abs. 1 TKG
+
+  * die Nummer oder Kennung der beteiligten Anschlüsse oder der Endeinrichtung, personenbezogene Berechtigungskennungen, bei Verwendung von Kundenkarten auch die Kartennummer, bei mobilen Anschlüssen auch die Standortdaten,
+  * der Beginn und das Ende der jeweiligen Verbindung nach Datum und Uhrzeit und die übermittelten Datenmengen,
+  * der vom Nutzer in Anspruch genommenen Telekommunikationsdienst,
+  * die Endpunkte von festgeschalteten Verbindungen, ihren Beginn und ihr Ende nach Datum und Uhrzeit und die übermittelten Datenmengen, 
+  * sonstige zum Aufbau und zur Aufrechterhaltung der Telekommunikation sowie zur Entgeltabrechnung notwendige Verkehrsdaten.
+
+### 2\. Zwecke der Datenerhebung und -verarbeitung
+
+Wenn Sie unsere Produkte kaufen oder Services nutzen, benötigen wir Ihre Daten
+für die Vertragsdurchführung und andere im Gesetz festgelegte Zwecke. Für
+weitere Zwecke nutzen wir Ihre Daten grundsätzlich nur mit Ihrem
+Einverständnis.
+
+Wir erheben und verwenden Ihre Bestandsdaten zum Zweck der Begründung,
+inhaltlichen Ausgestaltung, Änderung oder Beendigung des
+Vertragsverhältnisses. So ist zum Beispiel die Nutzung Ihrer Bankverbindung
+notwendig, wenn Sie uns eine Einzugsermächtigung zum Lastschriftverfahren
+erteilt haben oder die Nutzung Ihrer monatlichen Rechnungshöhe, wenn Sie
+Premium-Kunde sind oder werden. Daneben verwenden wir Ihre Bestandsdaten auch
+für sonstige gesetzlich zugelassene Zwecke wie zum Beispiel für die technische
+Steuerung und Wartung unseres Mobilfunknetzwerks. Die Löschfristen Ihrer
+Bestandsdaten richten sich nach den gesetzlichen Vorschriften. Dies bedeutet,
+dass Ihre Bestandsdaten mit Ablauf des auf die Vertragsbeendigung folgenden
+Kalenderjahres gelöscht bzw. teilweise für einen längeren Zeitraum gesperrt
+aufbewahrt werden, z.B. werden bei einer Kündigung im August 2016 die
+Vertragsdaten zum 31.12.2017 in einigen Systemen gelöscht, ein Teil der Daten,
+welche z.B. nach den allgemeinen handelsrechtlichen oder steuerrechtlichen
+Aufbewahrungsfristen für einen längeren Zeitraum aufbewahrt werden müssen,
+bleiben entsprechend dieser Regelungen während der Frist gesperrt und werden
+nach deren Ablauf gelöscht.
+
+Verkehrsdaten werden zur Erbringung unserer Dienstleistung, insbesondere zur
+Entgeltabrechnung und zur Erkennung und Eingrenzung von Störungen verwendet.
+Im Detail erfassen wir Ihre Telefon- und Kartennummer, die Nummer des
+Teilnehmers, den Sie angerufen haben, sowie Beginn und Ende der jeweiligen
+Verbindung mit Datum und Uhrzeit. Bei entgeltpflichtigen Datenübertragungen,
+wie z. B. GPRS, werden darüber hinaus auch folgende Daten erfasst: die
+übermittelten Datenmengen des von Ihnen genutzten Telekommunikationsdienstes
+und die sonstigen Daten, die zum Aufbau, zur Aufrechterhaltung und
+Entgeltberechnung erforderlich sind. Darüber hinaus nutzen wir diese Daten, um
+Störungen und Fehler in unseren Systemen und Netzwerken zu erkennen und zu
+beseitigen. Unter strengen Bedingungen nutzen wir diese Daten auch für die
+Missbrauchsverfolgung. Für Marktforschung, besondere Diensteangebote oder eine
+angepasste Gestaltung unserer oder von Ihnen in Anspruch genommener Produkte
+oder Services verwenden wir Ihre Verkehrsdaten nur mit Ihrem Einverständnis.
+Wir stellen nach Verbindungsende fest, welche Ihrer Verkehrsdaten für die
+Abrechnung relevant sind. Nicht relevante Daten löschen wir, wenn Sie nicht
+aus gesetzlichen Gründen gespeichert werden müssen. Haben Sie gegen Ihre
+Rechnung Einwendungen erhoben, speichern wir Ihre Daten, bis die Einwendungen
+abschließend geklärt sind.
+
+Wir nutzen Ihre personenbezogenen Daten zu Werbezwecken, Marktforschung oder
+Kundenberatung grundsätzlich nur, wenn Sie uns Ihre entsprechende Einwilligung
+gegeben haben. Eine Verwendung Ihrer Daten ohne Einwilligung erfolgt nur in
+den gesetzlich vorgesehenen Fällen. Wir weisen Sie in diesen Fällen bei der
+Erhebung Ihrer Daten (z.B. im Rahmen des Vertragsschlusses) auf Art und Umfang
+der zulässigen Datenverwendung hin. So können wir - unter Beachtung des
+Datenschutzes – unsere Angebote noch besser auf Ihre Bedürfnisse abstimmen.
+Wir bedanken uns für Ihr diesbezügliches Vertrauen, da wir nur auf diese Weise
+für Sie attraktive Dienste anbieten können. Wenn Sie keine individuelle
+Produktberatung oder Informationen zu unseren Produkten mehr haben möchten,
+wenden Sie sich bitte an unseren Kundenservice.
+
+Statistische Analysen  
+Telefónica Deutschland verwendet anonymisierte und aggregierte Informationen
+für statistische Analysen zum Nutzen von Wirtschaft und Gesellschaft. Es sind
+keine Rückschlüsse auf Ihre persönlichen Informationen möglich.
+Hintergrundinformationen rund um die Verwendung von anonymisierten Daten für
+Analysen sowie konkrete Anwendungsfälle und Zwecke der Verwendung finden Sie
+hier. Als Kunde von Telefónica Deutschland sollen Sie stets die Kontrolle über
+die Nutzung Ihre Daten behalten. Sie können hier den aktuellen Status für die
+Zuführung Ihrer Daten zur Anonymisierung und die Verwendung in statistischen
+Analysen prüfen und diesen bei Bedarf ändern.
+
+### 3\. Datenübermittlung an Dritte
+
+Ohne Ihre ausdrückliche Einwilligung oder eine gesetzliche Verpflichtung
+übermitteln wir Ihre Daten nicht an Dritte.  
+Soweit für die Erbringung des Telekommunikationsdienstes oder die Abrechnung
+erforderlich, werden Ihre Bestands-/ Verkehrsdaten an andere Netzbetreiber
+übermittelt (z.B. wenn Sie einen Teilnehmer in einem anderen Netz anrufen)
+oder an andere Mehrwertdienste-Anbieter, wenn Sie deren Dienste nutzen (z.B.
+Ihre Mobilfunkrufnummer bei bestimmten WAP-Diensten). Sehen Sie sich bitte die
+Beschreibung dieser Dienste vor der Nutzung genau an und informieren Sie sich
+darüber, welche Daten der jeweilige Diensteanbieter von Ihnen erhebt und
+welche Wahl- und Gestaltungsmöglichkeiten er Ihnen bietet. Wir übermitteln
+Ihre Daten ggf. an Dritte, soweit dies zum Zwecke der Abtretung oder des
+Einzugs der Forderungen erforderlich ist.
+
+Datenübermittlung an Auskunfteien
+
+Im Rahmen des Abschlusses sowie der Durchführung und Beendigung von Verträgen
+arbeiten wir mit folgenden Auskunfteien zusammen:
+
+  * SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden (im Folgenden: „SCHUFA“)
+  * InFoScore Consumer Data GmbH, Rheinstraße 99, 76532 Baden-Baden
+
+In welchem Umfang die Zusammenarbeit mit den Auskunfteien erfolgt, entnehmen
+Sie bitte den folgenden Ausführungen.
+
+Scoring-Verfahren
+
+Im Rahmen unserer Prüfung ziehen wir Wahrscheinlichkeitswerte – sogenannte
+Scorewerte – heran. Im Rahmen des Scoring-Verfahrens werden Prognosen über das
+künftige Zahlungsverhalten anhand von personenbezogenen Daten und ggf.
+Erfahrungen aus der Vergangenheit gebildet. Diese Werte bilden die jeweiligen
+Zahlungsausfallwahrscheinlichkeiten zum Zeitpunkt ihrer Berechnung ab. Dieses
+Verfahren dient dazu, so vielen Kunden wie möglich einen Vertrag mit Zahlung
+auf Rechnung anbieten zu können. Die Scorewerte berechnen sich aus
+verschiedenen Datenarten, die im Rahmen eines wissenschaftlich anerkannten,
+mathematisch-statistischen Verfahrens nachweislich für die Berechnung der
+Wahrscheinlichkeit eines zukünftigen Zahlungsausfalls erheblich sind. In die
+Berechnung der Scorewerte fließen z.B. Daten über Ihr Zahlungsverhalten mit
+ein.  
+Zudem werden wir ergänzend aus dem Datenbestand der Auskunfteien (mit Ausnahme
+des TK-Pools) ein errechneter Wahrscheinlichkeitswert („Scorewert“) zur
+Beurteilung des objektiven Kreditrisikos übermittelt, der ebenfalls auf Basis
+mathematisch-statistischer Verfahren gewonnen wird. Für die Berechnung von
+Scorewerten werden auch Anschriftendaten genutzt.
+
+Identitätsprüfung
+
+Um die Identität des Kunden/Antragstellers eindeutig feststellen zu können,
+übermitteln wir im Rahmen des Vertragsschlusses angegebenen personenbezogenen
+Daten (Namen, Anschriften, Geburtsdatum und -ort, E-Mail-Adresse,
+Bankverbindung) an die Auskunfteien und holen zu diesem Zweck Auskünfte bei
+ihnen ein. Diese Prüfung dient dem Schutz vor missbräuchlicher Verwendung
+fremder Daten durch Unbefugte ("Datenklau"), z.B. die Verwendung fremder
+Bankdaten bei Bestellungen per Telefon oder Internet.
+
+Entscheidungen über den Vertragsschluss
+
+Auf Grundlage der Ergebnisse der Bonitäts- und Identitätsprüfung, des Scoring-
+Verfahrens und bei Vorliegen einer Einwilligung auch der Nutzung Informationen
+zu dem von Ihnen verwendeten Gerät entscheiden wir im Rahmen einer
+automatischen Entscheidung, ob und unter welchen Voraussetzungen der Vertrag
+mit dem Interessenten geschlossen wird bzw. dem Kunden das
+Lastschriftverfahren ermöglicht wird. Eine "automatische Entscheidung" liegt
+vor, wenn keine inhaltliche Bewertung und darauf gestützte Entscheidung durch
+eine natürliche Person stattgefunden hat. Liegt ein Grund zur Ablehnung des
+Vertrages vor, z.B. ein Missbrauchsverdacht oder unzureichende Bonität, können
+die Bewertung und die zugrundeliegenden Anhaltspunkte durch einen Mitarbeiter
+überprüft werden. Sollten für Sie konkrete Anhaltspunkte bestehen, dass unsere
+Entscheidung auf Daten zu Ihrer Person beruht, die für Sie nicht
+nachvollziehbar oder nicht korrekt sind, können Sie uns gerne Ihren Standpunkt
+erläutern, den wir bei einer erneuten Prüfung berücksichtigen werden.
+
+Einmeldung von Forderungen
+
+Wir sind dazu berechtigt, den Auskunfteien auch Daten aufgrund nicht
+vertragsgemäßen Verhaltens (z.B. fällige Forderungen, Forderungsbetrag nach
+Kündigung, Konten-/ Kartenmissbrauch) bei Vorliegen der gesetzlichen
+Voraussetzungen zu übermitteln. Über eine geplante Einmeldung werden Sie vorab
+informiert.
+
+Auskunft
+
+Auskunft über die bei uns zu Ihrer Person gespeicherten Daten – auch soweit
+sie sich auf Herkunft oder Empfänger dieser Daten beziehen – und den Zweck der
+Speicherung dieser Daten können Sie über die unten genannten Kontaktwege
+erhalten.
+
+Sie können Auskunft auch bei folgenden Auskunfteien über Ihre
+personenbezogenen Daten sowie das dortige Auskunfts- und Scoringverfahren
+erhalten:
+
+  * SCHUFA Holding AG, Privatkunden Servicecenter, Postfach 103441, 50474 Köln oder unter www.meineSCHUFA.de
+  * infoscore Consumer Data GmbH, Rheinstraße 99, 76532 Baden-Baden
+
+### 4\. Wahl- und Gestaltungsmöglichkeiten
+
+Wenn Sie bei uns einen Vertrag über Telekommunikationsdienste abschließen oder
+auch jederzeit während der Vertragslaufzeit, bieten wir Ihnen Möglichkeiten,
+über die Erhebung und Verwendung Ihrer Daten in bestimmten Bereichen zu
+entscheiden. Sie können sich auf unserem Internet-Auftritt einloggen und dort
+Ihre Wahl- und Gestaltungsmöglichkeiten wahrnehmen. Darüber hinaus können Sie
+auch unseren Kundenservice anrufen.
+
+a. Einzelverbindungsnachweis und Mitbenutzererklärung
+
+Wenn Sie einen Einzelverbindungsnachweis angefordert haben, können Sie anhand
+der detaillierten Aufstellung auf Ihrem Einzelverbindungsnachweis erkennen, zu
+welchem Zeitpunkt Sie welche Rufnummer angerufen haben.
+
+Für den Fall, dass Sie im Ausland über einen unserer Roaming-Partner
+telefonieren, gelten einige Besonderheiten für die Darstellung der
+Verbindungen auf Ihrem Einzelverbindungsnachweis. Bei SMS, die Sie
+verschicken, wird technisch bedingt nur die Rufnummer der
+Kurzmitteilungszentrale und nicht wie sonst die Nummer des Empfängers
+aufgeführt.
+
+Wenn Sie einen Anruf im Ausland entgegennehmen, handelt es sich für Sie um ein
+kostenpflichtiges ankommendes Gespräch. Dieses wird daher auf Ihrem
+Einzelverbindungsnachweis ebenfalls aufgeführt.
+
+Nach Ablauf von 80 Tagen nach Rechnungsversand wird Telefónica die der
+Rechnung zugrundeliegenden Verkehrsdaten löschen. Für die Darstellung auf dem
+Einzelgesprächsnachweis können Sie zwischen verkürzter oder vollständiger
+Darstellung wählen.
+
+b. Statistische Analysen
+
+Sie können hier den aktuellen Status für die Zuführung Ihrer Daten zur
+Anonymisierung und die Verwendung in statistischen Analysen prüfen und diesen
+bei Bedarf ändern.
+
+### 5\. Datenschutz bei Rufnummernwechsel
+
+Falls Sie Ihre Rufnummer wechseln oder den Mobilfunkvertrag kündigen, wird
+Ihre aktuelle Rufnummer nach Ablauf einer gewissen Wartezeit wieder an neue
+Teilnehmer vergeben. Wenn Sie zuvor Ihre Rufnummer bei Drittanbietern wie z.B.
+Ihrer Bank, WhatsApp, Facebook, mobileTAN oder anderen Anbietern oder Diensten
+registriert haben, sollten Sie dafür Sorge tragen, dass Ihre Rufnummer dort
+ausgetragen oder geändert wird. Sie können hierdurch verhindern, dass Dritte
+auf Ihre Daten zugreifen können und abhängig von der Art des Dienstes auch,
+dass der neue Inhaber Ihrer Rufnummer Nachrichten dieser Drittanbieter-Dienste
+erhält, die eigentlich an Sie adressiert sind.
+
+Zurück zum Seitenanfang
+
+1Inlandsverbindungen und -SMS in alle deutschen Netze 9 Cent je Min.
+(minutengenaue Abrechnung) bzw. je SMS. Inlandsverbindungen in das Festnetz
+bzw. in Mobilfunknetze von Europa, Kanada und den USA 9 Cent je Min. bzw. 29
+Cent je Min. (minutengenaue Abrechnung). Frei-Minuten gültig für
+Inlandsverbindungen in alle deutschen Netze und in das Festnetz von Europa,
+Kanada und den USA, Ausschöpfung ist taktungsabhängig (Minutentakt).
+Ausgenommen sind Mehrwertdienste und Sonderrufnummern. Maximale und beworbene
+Geschwindigkeit: Bis zu 7,2 Mbit/s im Download und bis zu 6 Mbit/s im Upload.
+Kostenschutz tritt in Kraft, wenn innerhalb eines Kalendermonats 40 € für
+Inlandsverbindungen und -SMS verbraucht wurden. Danach werden diese Dienste in
+diesem Kalendermonat nicht mehr berechnet.
+
+2Inlandsverbindungen und -SMS in alle deutschen Netze 9 Cent je Min.
+(minutengenaue Abrechnung) bzw. je SMS. Inlandsverbindungen in das Festnetz
+bzw. in Mobilfunknetze von Europa, Kanada und den USA 9 Cent je Min. bzw. 29
+Cent je Min. (minutengenaue Abrechnung). Frei-Minuten gültig für Standard-
+Inlandsverbindungen in alle deutschen Netze und in das Festnetz von Europa,
+Kanada und den USA, Ausschöpfung ist taktungsabhängig (Minutentakt).
+Ausgenommen sind Mehrwertdienste und Sonderrufnummern. Kostenschutz tritt in
+Kraft, wenn innerhalb eines Kalendermonats 40 € für Standard-
+Inlandsverbindungen und -SMS verbraucht wurden. Danach werden diese Dienste in
+diesem Kalendermonat nicht mehr berechnet. Die Internet-Flatrate für 9,95 €
+pro Monat gilt für inländische Datennutzung. Ab einer Datennutzung über 500 MB
+pro Abrechnungsmonat wird die Geschwindigkeit auf 32 Kbit/s im Up- und
+Download beschränkt. Maximale und beworbene Geschwindigkeit: Bis zu 21,6
+Mbit/s im Download und bis zu 8,6 Mbit/s im Upload. Keine Mindestlaufzeit,
+Kündigung jederzeit zum Ende eines Abrechnungsmonats möglich. Automatische
+Verlängerung um einen Monat nur bei ausreichendem Guthaben.
+
+3Preis 9,95 € pro Abrechnungsmonat mit 400 Frei-Einheiten und Handy Internet
+Flatrate. Eine Frei-Einheit entspricht eine Inlandsgesprächsminute bzw. -SMS
+in alle deutschen Netze, nach Ausschöpfung der Frei-Einheiten 9 Cent je Min.
+(minutengenau) bzw. je SMS. Die Internet-Flatrate gilt für inländische
+Datennutzung. Ab einer Datennutzung über 1 GB pro Abrechnungsmonat wird die
+Geschwindigkeit auf 32 Kbit/s im Up- und Download beschränkt. Maximale und
+beworbene Geschwindigkeit: Bis zu 21,6 Mbit/s im Download und bis zu 8,6
+Mbit/s im Upload. Keine Mindestlaufzeit, Kündigung jederzeit zum Ende eines
+Abrechnungsmonats möglich. SIM-Karte in Endgeräten ohne SIM-/Net-Lock nutzbar.
+
+4Preis 16,95 € pro Abrechnungsmonat mit 500 Frei-Einheiten und Internet
+Flatrate. Eine Frei-Einheit entspricht eine Inlandsgesprächsminute bzw. -SMS
+in alle deutschen Netze, nach Ausschöpfung der Frei-Einheiten 9 Cent je Min.
+(minutengenau) bzw. je SMS. Die Internet-Flatrate gilt für inländische
+Datennutzung. Ab einer Datennutzung über 1,5 GB pro Abrechnungsmonat wird die
+Geschwindigkeit auf 32 Kbit/s im Up- und Download beschränkt. Maximale und
+beworbene Geschwindigkeit: Bis zu 21,6 Mbit/s im Download und bis zu 8,6
+Mbit/s im Upload. Keine Mindestlaufzeit, Kündigung jederzeit zum Ende eines
+Abrechnungsmonats möglich.
+
+5Preis 19,95 € pro Abrechnungsmonat: Inlandsgespräche und SMS in alle
+deutschen Fest- und Mobilfunknetze (ohne Sonderrufnummern und Rufumleitungen)
+und Internet-Flatrate enthalten. Die Internet-Flatrate gilt für inländische
+Datennutzung. Maximale und beworbene Geschwindigkeit: Bis zu 21,6 Mbit/s im
+Download und bis zu 8,6 Mbit/s im Upload. Reduzierung der Geschwindigkeit nach
+Verbrauch des im Tarif enthaltenen Datenvolumens (2 GB) auf bis zu 32 kbit/s
+im Up- und Download. Keine Mindestlaufzeit, Kündigung jederzeit zum Ende eines
+Abrechnungsmonats möglich.
+
+7Bei der FONIC Internet-Tagesflatrate gilt ausgewiesener Preis pro Kalendertag
+(0:00 bis 24:00 Uhr) und nur für inländische Datennutzung. Pro Kalendermonat
+werden maximal 20 € für Tagesflatrates berechnet, danach werden weitere
+Tagesflatrates in diesem Kalendermonat nicht mehr berechnet. Maximale und
+beworbene Geschwindigkeit: Bis zu 21,6 Mbit/s im Download und bis zu 8,6
+Mbit/s im Upload. Ab einer Datennutzung über 500 MB pro Tag bzw. 5 GB pro
+Abrechnungsmonat wird die Bandbreite auf 32 kbit/s im Up- und Download
+beschränkt.
+
+8Gespräche aus Deutschland in das Festnetz von Europa, USA und Kanada für 9
+Cent je Min., in die Mobilfunknetze von Europa, USA und Kanada für 29 Cent je
+Minute und in das Festnetz und in die Mobilfunknetze anderer Länder für je 99
+Cent je Min. Die Preise gelten nur für Länder, die durch das internationale
+Gateway von O₂ erreicht werden können. Unter Europa sind folgende Länder
+definiert: Albanien, Andorra, Belgien, Bosnien-Herzegowina, Bulgarien,
+Dänemark, Estland, Färöer, Finnland, Frankreich, Gibraltar, Griechenland,
+Großbritannien, Irland, Island, Italien, Kosovo, Kroatien, Lettland,
+Liechtenstein, Litauen, Luxemburg, Malta, Mazedonien, Republik Moldau, Monaco,
+Montenegro, Niederlande, Norwegen, Österreich, Polen, Portugal, Rumänien,
+Russland, San Marino, Schweden, Schweiz, Serbien, Slowakei, Slowenien,
+Spanien, Tschechien, Türkei, Ukraine, Ungarn, Vatikanstadt, Weißrussland und
+Zypern.
+
+9Bei erfolgreicher Rufnummern-Mitnahme bis zum 31.12.2017 erhalten Sie ein
+einmaliges Extra-Guthaben von 25 €. Rufnummern-Mitnahme möglich bis zu 90 Tage
+nach Ende des Vertrages, soweit Registrierung und Antrag auf Rufnummern-
+Mitnahme bei FONIC erfolgt ist. Dafür können Kosten beim bisherigen
+Mobilfunkanbieter entstehen. Eine Auszahlung von Extra-Guthaben oder von
+Startbonus ist nicht möglich. Nutzungsvoraussetzungen: Mindestalter 16 Jahre,
+Handy ohne SIM-/Net-Lock, dt. Postadresse, Registrierung vor erstmaliger
+Nutzung notwendig. Alle Preise verstehen sich inkl. MwSt. und ggf.
+Versandkosten.
+
+10Mtl. Packpreis: 9,95 €. Enthalten sind Inlandsgespräche in alle deutschen
+Fest- und Mobilfunknetze (ohne Sonderrufnummern und Rufumleitungen). Laufzeit:
+1 Monat. Kündigung jederzeit möglich zum Ende des laufenden Buchungsmonats.
+Verlängerung um jeweils 1 Monat nur bei ausreichendem Guthaben. Wenn innerhalb
+von 48 Stunden nach Ablauf des vorherigen Buchungsmonats ausreichend Guthaben
+vorhanden ist, erfolgt eine Reaktivierung der Telefonie-All-Net Flat bis dahin
+gelten die Konditionen des FONIC CLASSIC-Tarifs (Details s. Preisliste).
+
+11Smartphone Day Pack EU in der Länderzone 1: Sie surfen ab an jedem
+Kalendertag für 1,95 €/Kalendertag. Die Datennutzung gilt für paketvermittelte
+Datennutzung. Datenvolumen darf ausschließlich mit einem Handy, nicht jedoch
+mit einem ans Handy oder sonst angeschlossenen oder drahtlos verbundenen
+Computer genutzt werden. Ab einer Datennutzung von 50 MB/Kalendertag wird der
+Service bis zum Beginn des nächsten Kalendertages eingestellt. Der Tarif hat
+keine Mindestlaufzeit und kann immer zum nächsten Tag gekündigt werden.
+
+14Preis 4,95 €/Buchung mit 100 Inklusivminuten für eingehende und ausgehende
+Gespräche aus dem EU-Ausland in die EU-/EWR-Staaten (ausgenommen
+Sonderrufnummern, Rufumleitungen und SMS-Mehrwertdienste mit Premium-Billing).
+Ankommende Gespräche im EU-Ausland werden vom Inklusivvolumen abgezogen.
+Laufzeit 7 Tage oder bis zum Verbrauch der Inklusivminuten. Keine automat.
+Verlängerung. Ausschöpfung der Inklusivminuten taktungsabhängig (Minutentakt).
+Nicht verbrauchte Inklusivminuten verfallen am Laufzeitende. FONIC EU-Paket
+100Min erst nach Laufzeitende oder verbrauchten Inklusivminuten erneut
+buchbar.
+
+15Preis 4,95 €/Buchung mit 100 MB. Gültig im EU-Ausland und den EWR-Staaten.
+Laufzeit 7 Tage oder bis zum Verbrauch der Inklusiv-MB, danach wird das FONIC
+EU-Paket 100MB automatisch beendet. Keine automat. Verlängerung. Ausschöpfung
+der Inklusiv-MB taktungsabhängig (100KB Taktung). Nicht verbrauchte Inklusiv-
+MB verfallen am Laufzeitende. FONIC EU-Paket 100MB erst nach Laufzeitende oder
+verbrauchten Inklusiv-MB erneut buchbar.
+
+  * FONIC Tarife
+
+    * Tarifübersicht
+      * FONIC Allnet-Flat
+      * FONIC Smart
+      * FONIC Smart S
+      * FONIC Classic
+      * FONIC Surf-Card
+    * Im Ausland telefonieren
+    * Preisliste als PDF
+    * Roaming-Preisliste als PDF
+  * FONIC Vorteile
+
+    * Vorteile als FONIC Kunde 
+      * Kostenkontrolle
+      * Kostenschutz
+      * Auflademöglichkeiten
+      * Frei-Einheiten
+    * Auszeichnungen
+    * FONIC App
+  * Unternehmen
+
+    * FONIC News
+    * Partner
+    * Presse
+    * Kontakt
+  * Services
+
+    * Bezugsquellen
+    * Handyshop
+    * Netzabdeckung
+
+Themen:Allnet FlatRoamingGünstig telefonierenHandy FlatrateHandy
+kaufenHandytarifeHandyvertragMicro SimMobiles InternetNano
+SimNetzabdeckungPrepaidPrepaid TarifeSimkarteSimlockSmartphone TarifeSms
+FlatSurfstickTestberichte
+
+Impressum RechtlichesDatenschutzerklärungAGBWiderrufsbelehrung
+
+© 2017 Telefónica Germany GmbH &amp; Co. OHG
+
+# Haben Sie Fragen zu unseren Produkten?
+
+## Chat mit einem FONIC Berater
+
+Benutzen Sie unseren Chat, um sich kostenfrei zu allen Themen beraten zu
+lassen.  
+Wir stehen Ihnen Mo.–Fr. 8–20 Uhr und Sa. 10–18 Uhr zur Verfügung.
+
+Chat starten
+
+## FONIC Kundenbetreuung
+
+Unsere Kundenbetreuung ist Mo.-Fr. 08-20 Uhr und Sa. 10-18 Uhr für Sie da.
+
+0176 8888 0000
+
+## Wir helfen gerne weiter  
+Geben Sie einfach einen Suchbegriff ein, oder stellen Sie eine Frage
+
+Besuchen Sie den Bereich FAQ, um thematisch sortierte Antworten auf häufig
+gestellte Fragen zu findenoder nutzen Sie unsere intelligente Suchfunktion. In
+unserem kostenfreien Chat stehen Ihnen unsereServicemitarbeiter für Fragen zur
+Verfügung.
+
+Zur Suche
+

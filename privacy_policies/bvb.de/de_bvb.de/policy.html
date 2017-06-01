@@ -1,0 +1,3559 @@
+<!DOCTYPE html>
+<!--[if lt IE 9 ]><html class="unsupported-ie ie" lang="de-DE"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="de-DE"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" dir="ltr" lang="de-DE"><!--<![endif]-->
+<head>
+        
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Borussia Dortmund</title>
+        <meta name="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <meta name="Content-language" content="de-DE" />
+            <meta name="author" content="Borussia Dortmund GmbH &amp; Co KGaA" />
+                <meta name="copyright" content="Borussia Dortmund GmbH &amp; Co KGaA" />
+                <meta name="description" content="Borussia Dortmund GmbH &amp; Co KGaA" />
+                <meta name="keywords" content="Borussia, Dortmund, BVB, Fußball, Bundesliga, 1909, 09" />
+                    <link rel="canonical" href="http://www.bvb.de/Datenschutz" >
+            
+<link rel="Home" href="/" />
+<link rel="Index" href="/" />
+<link rel="Shortcut icon" href="/extension/bvbdesign/design/bvbdesign/images/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/extension/bvbdesign/design/bvbdesign/images/apple-touch-icon-precomposed.png"/>
+
+
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/bvbonline.rss" />
+
+<meta name="google-site-verification" content="yaNc30W5NL5gLJRfbQeya8MX3jve-QlLrAUS-pi7pnU" />
+<meta content="app-id=454971210" name="apple-itunes-app">
+<meta name="google-play-app" content="app-id=de.bvb.android">
+<meta property="fb:pages" content="134904013188254" />    
+<style type="text/css">
+.limitdisplay-user { display: none; }.limitdisplay-user-10 { display: inline; }.limitdisplay-user-block-10 { display: block; }</style>        <script type="text/javascript">
+function confirmJsActive()
+{
+	var htmlElem = document.getElementsByTagName("html")[0];
+	if (document.getElementById && document.getElementsByTagName)
+	{
+		htmlElem.className = htmlElem.className.replace(/\bno-js\b/, "js");
+	}
+	if(!!('ontouchstart' in window))
+	{
+		htmlElem.className += " touch";
+	}
+	
+	// localStorage.removeItem('image-handling-user');
+}
+confirmJsActive();
+</script>
+
+<link rel="stylesheet" type="text/css" href="/var/ezdemo_site/cache/public/stylesheets/5006b65e38603b2472faf6245f77137a_1489161526_all.css" />
+
+<!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" href="/extension/bvbdesign/design/bvbdesign/stylesheets/ie9.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 8]>
+        <link href="/extension/bvbdesign/design/bvbdesign/stylesheets/ie8.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="/extension/bvbdesign/design/bvbdesign/stylesheets/ie8.widgets.opta.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 7]>
+        <link href="/extension/bvbdesign/design/bvbdesign/stylesheets/ie7.css" rel="stylesheet">
+        <link href="/extension/bvbdesign/design/bvbdesign/stylesheets/font-awesome-ie7.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="/extension/bvbdesign/design/bvbdesign/stylesheets/ie7.widgets.opta.css" media="screen" />
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Serif">
+<link rel="stylesheet" type="text/css" href="/extension/bvbdesign/design/bvbdesign/stylesheets/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/extension/bvbdesign/design/bvbdesign/stylesheets/widgets.opta.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/extension/bvbdesign/design/bvbdesign/stylesheets/widget.css" media="screen" />
+    
+<script type="text/javascript" src="/var/ezdemo_site/cache/public/javascript/1279dc5182d9a1fff88000994663ba2d_1455565507.js" charset="utf-8"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
+
+<!--[if lt IE 9]>
+    <script src="/extension/bvbdesign/design/bvbdesign/javascript/html5shiv.js"></script>
+    <script>bvb.oldIE = true;</script>
+<![endif]-->
+
+<!--[if (gte IE 9)|!(IE)]><!-->
+    <script src="/extension/bvbdesign/design/bvbdesign/javascript/swipe.custom.min.js" type="text/javascript"></script>
+    <script src="/extension/bvbdesign/design/bvbdesign/javascript/jquery.dlmenu.min.js" type="text/javascript"></script>
+<!--<![endif]-->
+
+<script type="text/javascript" src="/var/ezdemo_site/cache/public/javascript/99106b5cbe3a4341c4b41bf254380350_1415701850.js" charset="utf-8"></script>
+
+
+<script type="text/javascript" src="/var/ezdemo_site/cache/public/javascript/1dd87cf1c98b2dee7fe743b80ef9ae23_1487255832.js" charset="utf-8"></script>
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-43124036-1']);
+  _gaq.push(['_setDomainName', 'bvb.de']);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+<body class="id-57226 landing_page " itemscope itemtype="http://schema.org/WebPage">
+        <!-- No-JS -->
+        <noscript>
+            <div class="no-js-notice box-grey grey-shade-2">
+                <div class="size-wrap">
+                    <h2>Hinweis</h2>
+                    <p class="abstract">
+                        Ohne JavaScript steht Ihnen nicht die volle Funktionalität dieser Website zur Verfügung.<br />Bitte aktivieren Sie Javascript in Ihrem Browser.
+                    </p>
+                </div>
+            </div>
+        </noscript>
+        <script src="/extension/bvbdesign/design/bvbdesign/javascript/jquery.smartbanner.js"></script>
+        
+            <script type="text/javascript">
+                $(function () { $.smartbanner({ daysHidden: 15, daysReminder: 90, title:'Offizielle BVB-App' }) })
+            </script>
+        
+    <div id="fb-root"></div>
+    <!-- Complete page area: START -->
+    
+    <!-- Header area: START -->
+    
+<!-- Navigationsleiste -->
+<div class="meta-bar">
+	<div class="size-wrap">
+		<nav>
+			<h2 class="for-accessibility">Bereichsnavigation</h2>
+			<ul class="menu" id="menu-areas">
+                                
+
+                    <li><a class="bvbicon-play-circled2" href="http://www.bvbtotal.de/" target="_blank">BVB TOTAL!</a></li>
+                    
+                                
+
+                    <li><a class="bvbicon-t-shirt" href="https://shop.bvb.de/?utm_source=bvbde&utm_campaign=shop&utm_medium=graueleiste" target="_blank">SHOP</a></li>
+                    
+                                
+
+                    <li><a class="bvbicon-chart" href="http://www.bvb.de/aktie" target="_blank">BVBAKTIE</a></li>
+                    
+                                
+
+                    <li><a class="bvbicon-award" href="http://www.borusseum.de/" target="_blank">BORUSSEUM</a></li>
+                    
+                                
+
+                    <li><a class="bvbicon-child" href="https://kidsclub.bvb.de" target="_blank">KIDSCLUB</a></li>
+                    
+                                
+
+                    <li><a class="bvbicon-plane" href="http://www.best-travel.de" target="_blank">REISEN</a></li>
+                    
+                                
+
+                    <li><a class="bvbicon-info" href="http://www.bvb.de/Der-BVB/Mitgliedschaft" target="_blank">MITGLIEDSCHAFT</a></li>
+                    
+                                
+
+                    <li><a class="bvbicon-food" href="http://event.bvb.de" target="_blank">EVENTS</a></li>
+                    
+                                
+
+                    <li><a class="bvbicon-heart-empty" href="http://www.bvb.de/stiftung" target="_blank">STIFTUNG</a></li>
+                    
+                			</ul>
+		</nav>
+
+        <div>
+        	<ul id="menu-sponsor" class="menu">
+                <!-- Logos für verschiedene Backgrounds-->
+                                    <li class="evonik yellow"><a href="http://corporate.evonik.de/de/unternehmen/sponsoring/pages/default.aspx" target="_blank"><img src="/extension/bvbdesign/design/bvbdesign/images/evonik.png" alt="Homepage EVONIK Industries"><span>Evonik</span></a></li>
+                    <li class="evonik bright"><a href="http://corporate.evonik.de/de/unternehmen/sponsoring/pages/default.aspx" target="_blank"><img src="/extension/bvbdesign/design/bvbdesign/images/evonik-magenta.png" alt="Homepage EVONIK Industries"><span>Evonik</span></a></li>
+                			</ul>
+			<h2 class="for-accessibility">Suche</h2>
+			<ul class="quick-search">
+				<li>
+					<form autocomplete="off" method="get" action="/bvbsearch/search">
+						<input required="" type="text" placeholder="Suche" value="" name="q">
+						<span><input type="submit" value="Suchen"></span>
+					</form>
+				</li>
+			</ul>
+            <h2 class="for-accessibility">Social-Media-Navigation</h2>
+            <ul class="menu" id="menu-social">
+                <li class="facebook"><a target="_blank" href="http://www.facebook.com/BVBorussiaDortmund09"><i class="bvbicon-facebook"></i><span>Facebook</span></a></li>
+                <li class="twitter"><a target="_blank" href="https://twitter.com/BVB"><i class="bvbicon-twitter"></i><span>Twitter</span></a></li>
+                
+                <li class="instagram"><a target="_blank" href="http://instagram.com/bvb09"><i class="bvbicon-instagram"></i><span>Instagram</span></a></li>
+            </ul>
+
+            <h2 class="for-accessibility">Bereichsnavigation</h2>
+
+                                        
+                                        <ul class="menu" id="menu-langauges">
+                    <li><a href="#"><i class="bvbicon-globe"></i><span>Language</span></a></li>
+                                        	                                                    <li class="current"><a href="#"><img src="/extension/bvbdesign/design/bvbdesign/images/flags/ger.png" data-src="/extension/bvbdesign/design/bvbdesign/images/flags/ger.png" alt="switch to ger"></a></li>
+                                                                	                                                    <li><a href="/switchlanguage/to/eng/57226"><img src="/extension/bvbdesign/design/bvbdesign/images/flags/eng.png" data-src="/extension/bvbdesign/design/bvbdesign/images/flags/eng.png" alt="switch to eng"></a></li>
+                                                                	                                                    <li><a href="/switchlanguage/to/es/57226"><img src="/extension/bvbdesign/design/bvbdesign/images/flags/es.png" data-src="/extension/bvbdesign/design/bvbdesign/images/flags/es.png" alt="switch to es"></a></li>
+                                                                	                                                    <li><a href="/switchlanguage/to/fr/57226"><img src="/extension/bvbdesign/design/bvbdesign/images/flags/fr.png" data-src="/extension/bvbdesign/design/bvbdesign/images/flags/fr.png" alt="switch to fr"></a></li>
+                                                                <li><a href="http://www.bvb.jp" target="_blank"><img src="/extension/bvbdesign/design/bvbdesign/images/flags/jpn.png" data-src="/extension/bvbdesign/design/bvbdesign/images/flags/jpn.png" alt="switch to jpn"></a></li>
+                </ul>
+                        
+            <h2 class="for-accessibility">Account-Navigation</h2>
+            <!--ul class="menu" id="menu-account">
+                <li><a href="#">Hauptmenü-Link1</a></li>
+            </ul-->
+            <ul class="menu" id="menu-account-registration">
+                                    <li><a href="/login">Login</a></li>
+                            </ul>
+        </div>
+    </div>
+</div>    <!-- Header area: END -->
+    
+
+    <!-- Top menu area: START -->
+            
+                    <!-- Top menu content: START -->
+<a class="for-accessibility" href="#begin-content">Zum Inhaltsbereich</a>
+<header>
+    <div class="rotate rotate-fullsize">
+        <!-- Hauptmenue + Logo -->
+        <div class="main size-wrap">
+            <a href="/" id="logo" title="Zur Startseite"><img class="invert-rotate" alt="LogoBVB" src="/extension/bvbdesign/design/bvbdesign/images/logo.png"/></a>
+            <h2 class="for-accessibility">Hauptnavigation</h2>
+            <nav id="dl-menu" class="dl-menuwrapper">
+                <button class="invert-rotate">Open Menu</button>
+                <ul class="dl-menu related-handler menu" id="menu-main">
+                                            <li>
+                            <a href="/News">News</a>
+                            <ul class="dl-submenu menu">
+                                <li class="dl-back">
+                                    <a href="#">Zurück</a>
+                                </li>
+                                                                                                    <li>
+                                        <a href="/News/Zum-Livestream">Zum Livestream</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/Uebersicht">Übersicht</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/Interviews">Interviews</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/Hintergrund">Hintergrund</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/Storys">Storys</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/U23">U23</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/Nachwuchs">Nachwuchs</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/Stiftung">Stiftung</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/Termine">Termine</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/News/Newsletter">Newsletter</a>
+                                    </li>
+                                                                                            </ul>
+                        </li>
+                                            <li>
+                            <a href="/Spiele">Spiele</a>
+                            <ul class="dl-submenu menu">
+                                <li class="dl-back">
+                                    <a href="#">Zurück</a>
+                                </li>
+                                                                                                    <li>
+                                        <a href="/Spiele/Live">Live</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Spiele/Spielberichte">Spielberichte</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Spiele/Spieltermine">Spieltermine</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Spiele/BVB-Netradio">BVB-Netradio</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Spiele/Videos">Videos</a>
+                                    </li>
+                                                                                            </ul>
+                        </li>
+                                            <li>
+                            <a href="/Statistik">Statistik</a>
+                            <ul class="dl-submenu menu">
+                                <li class="dl-back">
+                                    <a href="#">Zurück</a>
+                                </li>
+                                                                                                    <li>
+                                        <a href="/Statistik/Spieltage">Spieltage</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Statistik/Alle-Spiele">Alle Spiele</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Statistik/Tore">Tore</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Statistik/Karten">Karten</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Statistik/UEFA-CL">UEFA CL</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Statistik/DFB-Pokal">DFB Pokal</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Statistik/Speedguard">Speedguard</a>
+                                    </li>
+                                                                                            </ul>
+                        </li>
+                                            <li>
+                            <a href="/Mannschaften">Mannschaften</a>
+                            <ul class="dl-submenu menu">
+                                <li class="dl-back">
+                                    <a href="#">Zurück</a>
+                                </li>
+                                                                                                    <li>
+                                        <a href="/Mannschaften/Profis">Profis</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Mannschaften/U23">U23</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Mannschaften/Tradition">Tradition</a>
+                                    </li>
+                                                                                            </ul>
+                        </li>
+                                            <li>
+                            <a href="/Fans">Fans</a>
+                            <ul class="dl-submenu menu">
+                                <li class="dl-back">
+                                    <a href="#">Zurück</a>
+                                </li>
+                                                                                                    <li>
+                                        <a href="/Fans/BVB-Erleben">BVB Erleben</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/News">News</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/Fanbeauftragte2">Fanbeauftragte</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/Fantage">Fantage</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/Fanabteilung">Fanabteilung</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/Fan-Projekt">Fan-Projekt</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/BVB-Family-Cup2">BVB Family Cup</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/Stadiondeckel">Stadiondeckel</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/Digitale-Welt">Digitale Welt</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/BVB-FanWelt">BVB-FanWelt</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Fans/Kontakt">Kontakt</a>
+                                    </li>
+                                                                                            </ul>
+                        </li>
+                                            <li>
+                            <a href="/Tickets">Tickets</a>
+                            <ul class="dl-submenu menu">
+                                <li class="dl-back">
+                                    <a href="#">Zurück</a>
+                                </li>
+                                                                                                    <li>
+                                        <a href="/Tickets/Ticket-News">Ticket News</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Ticketshop">Ticketshop</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Zweitmarkt">Zweitmarkt</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Infos-AGBs">Infos & AGBs</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Termine">Termine</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Sitzplan">Sitzplan</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Auswaertstickets">Auswärtstickets</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Familie">Familie</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/VIP-Tickets">VIP-Tickets</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Ticket-Reise">Ticket & Reise</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Stadiontouren">Stadiontouren</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Tickets/Kontakt">Kontakt</a>
+                                    </li>
+                                                                                            </ul>
+                        </li>
+                                            <li>
+                            <a href="/Der-BVB">Der BVB</a>
+                            <ul class="dl-submenu menu">
+                                <li class="dl-back">
+                                    <a href="#">Zurück</a>
+                                </li>
+                                                                                                    <li>
+                                        <a href="/Der-BVB/Ueber-uns">Über uns</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Signal-Iduna-Park">Signal Iduna Park</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Volunteers">Volunteers</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Borusseum">Borusseum</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Chronik">Chronik</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Mitgliedschaft">Mitgliedschaft</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Nachwuchs">Nachwuchs</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Weitere-Teams">Weitere Teams</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Fussballschule">Fußballschule</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Stiftung">Stiftung </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Kontakt">Kontakt</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Der-BVB/Jobs">Jobs</a>
+                                    </li>
+                                                                                            </ul>
+                        </li>
+                                            <li>
+                            <a href="/Partner">Partner</a>
+                            <ul class="dl-submenu menu">
+                                <li class="dl-back">
+                                    <a href="#">Zurück</a>
+                                </li>
+                                                                                                    <li>
+                                        <a href="/Partner/Hospitality">Hospitality</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Partner/Die-Sponsoren">Die Sponsoren</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="/Partner/News">News</a>
+                                    </li>
+                                                                                            </ul>
+                        </li>
+                                        <li class="force-default">
+                                                    <a href="https://shop.bvb.de/?utm_source=bvbde&utm_campaign=shop&utm_medium=menue" target="_blank">SHOP</a>
+                                            </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+<div class="submenu-wrap">
+    <div class="rotate rotate-fullsize">
+        <div class="sub">
+            <div class="size-wrap">
+                <div class="details">
+                                            <h2 class="for-accessibility">Subnavigation News</h2>
+                        <section class="structure related-content">
+                                                                                                                            
+<nav class="nav-main box-w-2">
+    <h3>News Submenü</h3>
+    <ul class="menu">
+                    <li id="node_id_137387"><a href="/News/Zum-Livestream">Zum Livestream</a></li>
+                    <li id="node_id_53529"><a href="/News/Uebersicht">Übersicht</a></li>
+                    <li id="node_id_181"><a href="/News/Interviews">Interviews</a></li>
+                    <li id="node_id_182"><a href="/News/Hintergrund">Hintergrund</a></li>
+                    <li id="node_id_183"><a href="/News/Storys">Storys</a></li>
+                    <li id="node_id_184"><a href="/News/U23">U23</a></li>
+                    <li id="node_id_128142"><a href="/News/Nachwuchs">Nachwuchs</a></li>
+                    <li id="node_id_272"><a href="/News/Stiftung">Stiftung</a></li>
+                    <li id="node_id_4775"><a href="/News/Termine">Termine</a></li>
+                    <li id="node_id_57474"><a href="/News/Newsletter">Newsletter</a></li>
+            </ul>
+</nav>                                                                    <nav class=box-w-3>
+    <h3><a href="/News/Uebersicht">News</a></h3>
+    
+            <ul class="link-list">
+                    <li>
+                <a href="/News/Uebersicht/Offener-Brief-von-Hans-Joachim-Watzke-an-alle-BVB-Fans">
+                                        <div class="date">
+                        <time datetime=2017-05-30T14:59:00+02:00 itemprop="published">30.05.</time>
+                    </div>
+                    <span>Offener Brief von Hans-Joachim Watzke an alle BVB-Fans</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/News/Uebersicht/Borussia-Dortmund-und-Thomas-Tuchel-gehen-getrennte-Wege">
+                                        <div class="date">
+                        <time datetime=2017-05-30T13:11:00+02:00 itemprop="published">30.05.</time>
+                    </div>
+                    <span>Borussia Dortmund und Thomas Tuchel gehen getrennte Wege</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/News/Uebersicht/Aktionen-Attraktionen-und-Abwechslung">
+                                        <div class="date">
+                        <time datetime=2017-05-30T11:19:00+02:00 itemprop="published">30.05.</time>
+                    </div>
+                    <span>Aktionen, Attraktionen und Abwechslung</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/News/Uebersicht/Reus-erleidet-Kreuzband-Teilriss">
+                                        <div class="date">
+                        <time datetime=2017-05-29T11:52:00+02:00 itemprop="published">29.05.</time>
+                    </div>
+                    <span>Reus erleidet Kreuzband-Teilriss</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/News/Uebersicht/300.000-Fans-empfangen-ihre-Pokalsieger">
+                                        <div class="date">
+                        <time datetime=2017-05-28T20:46:00+02:00 itemprop="published">28.05.</time>
+                    </div>
+                    <span>300.000 Fans empfangen ihre Pokalsieger</span>
+                </a>
+            </li>
+            </ul>
+            
+    <a href="/News/Uebersicht" class="btn btn-center btn-yellow">Alle News anzeigen</a>
+</nav>                                                                    
+
+
+
+
+
+
+
+
+                                                
+<nav class="box-w-3">
+    <h3 class="no-border">Aktuell</h3>
+    <div class="matches-small next-match bordertop">
+                <a href="/">
+                        <b>Nächstes Spiel</b>
+                                            </a>
+            </div>
+    <div class="matches-small last-match">
+                <a href="/Spiele/Spielberichte/2016/DFB-Pokal/06-Eintracht-Frankfurt-Borussia-Dortmund">
+                        <b>Letztes Spiel</b>
+                                                                                                                                    
+                                                                                                                                                        <div>
+                    
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="home-team" width="48" height="48" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/daten/vereine/eintracht-frankfurt/652538-2-ger-DE/Eintracht-Frankfurt_logo48_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/daten/vereine/eintracht-frankfurt/652538-2-ger-DE/Eintracht-Frankfurt_logo48_regular.png" alt="Bild" />
+        </noscript>
+                                <span>1</span>
+                    <span>:</span>
+                    <span>2</span>
+                    
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="away-team" width="48" height="48" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/daten/vereine/borussia-dortmund/652532-2-ger-DE/Borussia-Dortmund_logo48_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/daten/vereine/borussia-dortmund/652532-2-ger-DE/Borussia-Dortmund_logo48_regular.png" alt="Bild" />
+        </noscript>
+                                                </div>
+                <p><span>Eintracht Frankfurt</span> - <span>Borussia Dortmund</span></p>
+
+                <p>
+                                                                                                            <span class="tournament dfb">DFB Pokal</span>
+                                    </p>
+                                </a>
+            </div>
+    <a class="btn btn-center btn-yellow" href="/Spiele/Spieltermine#navcomingup">Alle Spiele anzeigen</a>
+</nav>
+
+                                                                                                
+<nav class="box-w-3">
+    <a href="https://shop.bvb.de/artikel/BVB-total-Gutschein-Jahresabo-13999300?campaign=bvbtotal/BVB.de/Videos" target="_blank">        <h3>BVB total!</h3></a>
+    <a href="https://shop.bvb.de/artikel/BVB-total-Gutschein-Jahresabo-13999300?campaign=bvbtotal/BVB.de/Videos" target="_blank">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-total-gutscheine-teaser-270x144/1491684-1-ger-DE/BVB-total-Gutscheine-Teaser-270x144_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-total-gutscheine-teaser-270x144/1491684-1-ger-DE/BVB-total-Gutscheine-Teaser-270x144_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-total-gutscheine-teaser-270x144/1491684-1-ger-DE/BVB-total-Gutscheine-Teaser-270x144_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-total-gutscheine-teaser-270x144/1491684-1-ger-DE/BVB-total-Gutscheine-Teaser-270x144_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-total-gutscheine-teaser-270x144/1491684-1-ger-DE/BVB-total-Gutscheine-Teaser-270x144_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Jetzt neu: BVB total!-Gutscheine</h5>
+                
+<p>Der BVB total!-Gutschein ist ab sofort als Jahres- oder Monatskarte im Onlineshop&nbsp;erhältlich. Sichert Euch&nbsp;exklusive Einblicke hinter die Kulissen von Borussia Dortmund.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Die Gutscheine im Onlineshop</span>
+            </a></nav>
+                                                                                                                </section>
+                                            <h2 class="for-accessibility">Subnavigation Spiele</h2>
+                        <section class="structure related-content">
+                                                                                                                            
+<nav class="nav-main box-w-2">
+    <h3>Submenu</h3>
+    <ul class="menu">
+                    <li id="node_id_7126"><a href="/Spiele/Live">Live</a></li>
+                    <li id="node_id_31118"><a href="/Spiele/Spielberichte">Spielberichte</a></li>
+                    <li id="node_id_48969"><a href="/Spiele/Spieltermine">Spieltermine</a></li>
+                    <li id="node_id_52643"><a href="/Spiele/BVB-Netradio">BVB-Netradio</a></li>
+                    <li id="node_id_66449"><a href="/Spiele/Videos">Videos</a></li>
+            </ul>
+</nav>                                                                    
+
+<nav class="box-w-3">
+    <h3>Termine</h3>
+    <ul class="link-list">
+                                
+                                                    
+                                                    
+            <li>
+                <a href="/Mannschaften/Profis/Mario-Goetze">
+	            	<div class="date">
+	            		<time datetime=2017-06-03T00:00:00+02:00 itemprop="published">03.06.</time>
+	            	</div>
+	            	<span>Mario Götze (25)</span>
+	            </a>
+            </li>
+                                
+                                                    
+                                                    
+            <li>
+                <a href="/Mannschaften/Profis/Lukasz-Piszczek">
+	            	<div class="date">
+	            		<time datetime=2017-06-03T00:00:00+02:00 itemprop="published">03.06.</time>
+	            	</div>
+	            	<span>Lukasz Piszczek (32)</span>
+	            </a>
+            </li>
+                                
+                                                    
+                                                    
+            <li>
+                <a href="/Mannschaften/Profis/Sokratis">
+	            	<div class="date">
+	            		<time datetime=2017-06-09T00:00:00+02:00 itemprop="published">09.06.</time>
+	            	</div>
+	            	<span>Sokratis  Papastathopoulos (29)</span>
+	            </a>
+            </li>
+                                
+                                                    
+                                                    
+            <li>
+                <a href="/Mannschaften/Profis/Thorben-Voeste">
+	            	<div class="date">
+	            		<time datetime=2017-06-10T00:00:00+02:00 itemprop="published">10.06.</time>
+	            	</div>
+	            	<span>Thorben Voeste (36)</span>
+	            </a>
+            </li>
+                                
+                                                    
+                                                    
+            <li>
+                <a href="/Mannschaften/Profis/Gonzalo-Castro">
+	            	<div class="date">
+	            		<time datetime=2017-06-11T00:00:00+02:00 itemprop="published">11.06.</time>
+	            	</div>
+	            	<span>Gonzalo Castro (30)</span>
+	            </a>
+            </li>
+            </ul>
+    
+    <a href="/News/Termine" class="btn btn-center btn-yellow">Weitere Termine anzeigen</a>
+</nav>
+                                                                    
+
+
+
+
+
+
+
+
+                                                
+<nav class="box-w-3">
+    <h3 class="no-border">Aktuell</h3>
+    <div class="matches-small next-match bordertop">
+                <a href="/">
+                        <b>Nächstes Spiel</b>
+                                            </a>
+            </div>
+    <div class="matches-small last-match">
+                <a href="/Spiele/Spielberichte/2016/DFB-Pokal/06-Eintracht-Frankfurt-Borussia-Dortmund">
+                        <b>Letztes Spiel</b>
+                                                                                                                                    
+                                                                                                                                                        <div>
+                    
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="home-team" width="48" height="48" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/daten/vereine/eintracht-frankfurt/652538-2-ger-DE/Eintracht-Frankfurt_logo48_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/daten/vereine/eintracht-frankfurt/652538-2-ger-DE/Eintracht-Frankfurt_logo48_regular.png" alt="Bild" />
+        </noscript>
+                                <span>1</span>
+                    <span>:</span>
+                    <span>2</span>
+                    
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="away-team" width="48" height="48" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/daten/vereine/borussia-dortmund/652532-2-ger-DE/Borussia-Dortmund_logo48_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/daten/vereine/borussia-dortmund/652532-2-ger-DE/Borussia-Dortmund_logo48_regular.png" alt="Bild" />
+        </noscript>
+                                                </div>
+                <p><span>Eintracht Frankfurt</span> - <span>Borussia Dortmund</span></p>
+
+                <p>
+                                                                                                            <span class="tournament dfb">DFB Pokal</span>
+                                    </p>
+                                </a>
+            </div>
+    <a class="btn btn-center btn-yellow" href="/Spiele/Spieltermine#navcomingup">Alle Spiele anzeigen</a>
+</nav>
+
+                                                                                                
+<nav class="box-w-3">
+    <a href="http://www.bvb.de/tippspiel" target="_blank">        <h3>Alle gegen Nobby</h3></a>
+    <a href="http://www.bvb.de/tippspiel" target="_blank">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/alle-gegen-nobby/1404765-1-ger-DE/Alle-gegen-Nobby_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/alle-gegen-nobby/1404765-1-ger-DE/Alle-gegen-Nobby_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/alle-gegen-nobby/1404765-1-ger-DE/Alle-gegen-Nobby_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/alle-gegen-nobby/1404765-1-ger-DE/Alle-gegen-Nobby_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/alle-gegen-nobby/1404765-1-ger-DE/Alle-gegen-Nobby_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Alle gegen Nobby - die schwarzgelbe Tipprunde</h5>
+                
+<p>Bei unserer schwarzgelben Tipprunde fordert Nobby alle Borussen zum Tippen heraus! Die Teilnahme ist natürlich kostenlos, die besten Tipper gewinnen an jedem Spieltag und am Saisonende exklusive BVB-Preise. Zudem könnt Ihr Eure Facebook-Freunde einladen und Euch mit Ihnen messen.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Bald wieder da!</span>
+            </a></nav>
+                                                                                                                </section>
+                                            <h2 class="for-accessibility">Subnavigation Statistik</h2>
+                        <section class="structure related-content">
+                                                                                                                            
+<nav class="nav-main box-w-2">
+    <h3>Submenu</h3>
+    <ul class="menu">
+                    <li id="node_id_5799"><a href="/Statistik/Spieltage">Spieltage</a></li>
+                    <li id="node_id_7196"><a href="/Statistik/Alle-Spiele">Alle Spiele</a></li>
+                    <li id="node_id_7200"><a href="/Statistik/Tore">Tore</a></li>
+                    <li id="node_id_7122"><a href="/Statistik/Karten">Karten</a></li>
+                    <li id="node_id_53485"><a href="/Statistik/UEFA-CL">UEFA CL</a></li>
+                    <li id="node_id_53486"><a href="/Statistik/DFB-Pokal">DFB Pokal</a></li>
+                    <li id="node_id_7079"><a href="/Statistik/Speedguard">Speedguard</a></li>
+            </ul>
+</nav>                                                                    <nav class=box-w-3>
+    <h3><a href="/">News</a></h3>
+    
+            <ul class="link-list">
+                    <li>
+                <a href="/News/Uebersicht/Offener-Brief-von-Hans-Joachim-Watzke-an-alle-BVB-Fans">
+                                        <div class="date">
+                        <time datetime=2017-05-30T14:59:00+02:00 itemprop="published">30.05.</time>
+                    </div>
+                    <span>Offener Brief von Hans-Joachim Watzke an alle BVB-Fans</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/News/Uebersicht/Borussia-Dortmund-und-Thomas-Tuchel-gehen-getrennte-Wege">
+                                        <div class="date">
+                        <time datetime=2017-05-30T13:11:00+02:00 itemprop="published">30.05.</time>
+                    </div>
+                    <span>Borussia Dortmund und Thomas Tuchel gehen getrennte Wege</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/News/Uebersicht/Aktionen-Attraktionen-und-Abwechslung">
+                                        <div class="date">
+                        <time datetime=2017-05-30T11:19:00+02:00 itemprop="published">30.05.</time>
+                    </div>
+                    <span>Aktionen, Attraktionen und Abwechslung</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/News/Uebersicht/Reus-erleidet-Kreuzband-Teilriss">
+                                        <div class="date">
+                        <time datetime=2017-05-29T11:52:00+02:00 itemprop="published">29.05.</time>
+                    </div>
+                    <span>Reus erleidet Kreuzband-Teilriss</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/News/Uebersicht/300.000-Fans-empfangen-ihre-Pokalsieger">
+                                        <div class="date">
+                        <time datetime=2017-05-28T20:46:00+02:00 itemprop="published">28.05.</time>
+                    </div>
+                    <span>300.000 Fans empfangen ihre Pokalsieger</span>
+                </a>
+            </li>
+            </ul>
+            
+    <a href="/" class="btn btn-center btn-yellow">Alle News anzeigen</a>
+</nav>                                                                    
+
+<nav class="box-w-3">
+    <h3>Ergebnisse</h3>
+    <ul class="link-list">
+                                                                                                                                                    <li class="highlight">
+                <a href="/Statistik/Alle-Spiele">
+                    Eintracht Frankfurt - Borussia Dortmund
+                                            <span class="result">1 : 2</span>
+                                    </a>
+            </li>
+                                                                                                                                                    <li class="highlight">
+                <a href="/Statistik/Alle-Spiele">
+                    Borussia Dortmund - SV Werder Bremen
+                                            <span class="result">4 : 3</span>
+                                    </a>
+            </li>
+                                                                                                                                                    <li class="highlight">
+                <a href="/Statistik/Alle-Spiele">
+                    FC Augsburg - Borussia Dortmund
+                                            <span class="result">1 : 1</span>
+                                    </a>
+            </li>
+                                                                                                                                                    <li class="highlight">
+                <a href="/Statistik/Alle-Spiele">
+                    Borussia Dortmund - TSG 1899 Hoffenheim
+                                            <span class="result">2 : 1</span>
+                                    </a>
+            </li>
+                                                                                                                                                    <li class="highlight">
+                <a href="/Statistik/Alle-Spiele">
+                    Borussia Dortmund - 1. FC Köln
+                                            <span class="result">0 : 0</span>
+                                    </a>
+            </li>
+                                                                                                                                                    <li class="highlight">
+                <a href="/Statistik/Alle-Spiele">
+                    Bayern München - Borussia Dortmund
+                                            <span class="result">2 : 3</span>
+                                    </a>
+            </li>
+            </ul>
+    <a href="/Statistik/Alle-Spiele" class="btn btn-center btn-yellow">Alle Spiele</a>
+</nav>                                                                                
+<nav class="box-w-3">
+    <a href="/Statistik/Speedguard" target="_self">        <h3>Speedguard</h3></a>
+    <a href="/Statistik/Speedguard" target="_self">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/t-auba-speedguard/1796282-1-ger-DE/T-Auba-Speedguard_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/t-auba-speedguard/1796282-1-ger-DE/T-Auba-Speedguard_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/t-auba-speedguard/1796282-1-ger-DE/T-Auba-Speedguard_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/t-auba-speedguard/1796282-1-ger-DE/T-Auba-Speedguard_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/t-auba-speedguard/1796282-1-ger-DE/T-Auba-Speedguard_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Wer hat den schnellsten Schuss?</h5>
+                
+<p>Der Speedguard misst bei jedem Heimspiel die Geschwindigkeit der BVB-Torschüsse. Wir haben die aktuelle Bestenliste für Sie!</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Alle Schüsse anzeigen</span>
+            </a></nav>
+                                                                                                                </section>
+                                            <h2 class="for-accessibility">Subnavigation Mannschaften</h2>
+                        <section class="structure related-content">
+                                                                                                                            
+<nav class="nav-main box-w-2">
+    <h3>Mannschaften</h3>
+    <ul class="menu">
+                    <li id="node_id_47193"><a href="/Mannschaften/Profis">Profis</a></li>
+                    <li id="node_id_47225"><a href="/Mannschaften/U23">U23</a></li>
+                    <li id="node_id_95642"><a href="/Mannschaften/Tradition">Tradition</a></li>
+            </ul>
+</nav>                                                                    <nav class="box-w-2">            <h3>Tor</h3>
+<ul class="menu submenumannschaften">
+        <li>
+        <a href="/Mannschaften/Profis/Roman-Weidenfeller">
+            <span>
+1</span> 
+Roman 
+Weidenfeller        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Roman-Buerki">
+            <span>
+38</span> 
+Roman 
+Bürki        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Hendrik-Bonmann">
+            <span>
+39</span> 
+Hendrik 
+Bonmann        </a>
+    </li>
+    </ul></nav>
+<nav class="box-w-2"><h3>Abwehr</h3>
+<ul class="menu submenumannschaften">
+        <li>
+        <a href="/Mannschaften/Profis/Joo-Ho-Park">
+            <span>
+3</span> 
+Joo  
+Ho Park        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Marc-Bartra">
+            <span>
+5</span> 
+Marc 
+Bartra        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Raphael-Guerreiro">
+            <span>
+13</span> 
+Raphael  
+Guerreiro        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Sokratis">
+            <span>
+25</span> 
+Sokratis  
+Papastathopoulos        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Lukasz-Piszczek">
+            <span>
+26</span> 
+Lukasz 
+Piszczek        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Matthias-Ginter">
+            <span>
+28</span> 
+Matthias 
+Ginter        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Marcel-Schmelzer">
+            <span>
+29</span> 
+Marcel 
+Schmelzer        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Erik-Durm">
+            <span>
+37</span> 
+Erik 
+Durm        </a>
+    </li>
+    </ul></nav>
+<nav class="box-w-2"><h3>Mittelfeld</h3>
+<ul class="menu submenumannschaften">
+        <li>
+        <a href="/Mannschaften/Profis/Sven-Bender">
+            <span>
+6</span> 
+Sven 
+Bender        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Ousmane-Dembele">
+            <span>
+7</span> 
+Ousmane 
+Dembélé        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Nuri-Sahin">
+            <span>
+8</span> 
+Nuri 
+Sahin        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Emre-Mor">
+            <span>
+9</span> 
+Emre 
+Mor        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Mario-Goetze">
+            <span>
+10</span> 
+Mario 
+Götze        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Sebastian-Rode">
+            <span>
+18</span> 
+Sebastian  
+Rode        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Andre-Schuerrle">
+            <span>
+21</span> 
+André 
+Schürrle        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Christian-Pulisic">
+            <span>
+22</span> 
+Christian  
+ Pulisic        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Shinji-Kagawa">
+            <span>
+23</span> 
+Shinji 
+Kagawa        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Mikel-Merino">
+            <span>
+24</span> 
+Mikel 
+Merino        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Gonzalo-Castro">
+            <span>
+27</span> 
+Gonzalo 
+Castro        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Felix-Passlack">
+            <span>
+30</span> 
+Felix  
+Passlack        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Julian-Weigl">
+            <span>
+33</span> 
+Julian 
+Weigl        </a>
+    </li>
+    </ul></nav>
+<nav class="box-w-2"><h3>Sturm</h3>
+<ul class="menu submenumannschaften">
+        <li>
+        <a href="/Mannschaften/Profis/Marco-Reus">
+            <span>
+11</span> 
+Marco 
+Reus        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Alexander-Isak">
+            <span>
+14</span> 
+Alexander 
+Isak        </a>
+    </li>
+        <li>
+        <a href="/Mannschaften/Profis/Pierre-Emerick-Aubameyang">
+            <span>
+17</span> 
+Pierre-Emerick  
+Aubameyang        </a>
+    </li>
+    </ul></nav>
+             
+                                                                                                                </section>
+                                            <h2 class="for-accessibility">Subnavigation Fans</h2>
+                        <section class="structure related-content">
+                                                                                                                            
+<nav class="nav-main box-w-2">
+    <h3>Fans Submenü</h3>
+    <ul class="menu">
+                    <li id="node_id_106158"><a href="/Fans/BVB-Erleben">BVB Erleben</a></li>
+                    <li id="node_id_194"><a href="/Fans/News">News</a></li>
+                    <li id="node_id_134699"><a href="/Fans/Fanbeauftragte2">Fanbeauftragte</a></li>
+                    <li id="node_id_105240"><a href="/Fans/Fantage">Fantage</a></li>
+                    <li id="node_id_98124"><a href="/Fans/Fanabteilung">Fanabteilung</a></li>
+                    <li id="node_id_4004"><a href="/Fans/Fan-Projekt">Fan-Projekt</a></li>
+                    <li id="node_id_134087"><a href="/Fans/BVB-Family-Cup2">BVB Family Cup</a></li>
+                    <li id="node_id_103973"><a href="/Fans/Stadiondeckel">Stadiondeckel</a></li>
+                    <li id="node_id_100087"><a href="/Fans/Digitale-Welt">Digitale Welt</a></li>
+                    <li id="node_id_95919"><a href="/Fans/BVB-FanWelt">BVB-FanWelt</a></li>
+                    <li id="node_id_7074"><a href="/Fans/Kontakt">Kontakt</a></li>
+            </ul>
+</nav>                                                                    <nav class=box-w-3>
+    <h3><a href="/Fans/News">News</a></h3>
+    
+            <ul class="link-list">
+                    <li>
+                <a href="/Fans/Fantage/Aktuelles/Auf-der-Suche-nach-neuen-Herausforderungen">
+                                        <div class="date">
+                        <time datetime=2017-05-31T15:51:00+02:00 itemprop="published">31.05.</time>
+                    </div>
+                    <span>Auf der Suche nach neuen Herausforderungen</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/Fans/News/Faninfos-Pokalfinale-2017">
+                                        <div class="date">
+                        <time datetime=2017-05-24T15:34:00+02:00 itemprop="published">24.05.</time>
+                    </div>
+                    <span>Faninfos Pokalfinale 2017</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/Fans/News/Fanvorabinfos-Pokalfinale-Berlin">
+                                        <div class="date">
+                        <time datetime=2017-05-19T18:24:00+02:00 itemprop="published">19.05.</time>
+                    </div>
+                    <span>Fanvorabinfos Pokalfinale Berlin</span>
+                </a>
+            </li>
+                    <li>
+                <a href="/Fans/News/Faninfos-zum-U19-Finale">
+                                        <div class="date">
+                        <time datetime=2017-05-18T15:36:00+02:00 itemprop="published">18.05.</time>
+                    </div>
+                    <span>Faninfos zum U19-Finale </span>
+                </a>
+            </li>
+                    <li>
+                <a href="/Fans/BVB-FanWelt/News-Termine/Late-Night-Shopping-am-17.05.-Die-Spaeten-werden-die-Ersten-sein">
+                                        <div class="date">
+                        <time datetime=2017-05-12T15:14:00+02:00 itemprop="published">12.05.</time>
+                    </div>
+                    <span>Late Night Shopping am 17.05.: Die Späten werden die Ersten sein.</span>
+                </a>
+            </li>
+            </ul>
+            
+    <a href="/Fans/News" class="btn btn-center btn-yellow">Alle News anzeigen</a>
+</nav>                                                                                                
+<nav class="box-w-3">
+    <a href="/Fans/BVB-Erleben?utm_source=bvb.de&utm_medium=menuteaser&utm_campaign=opel" target="_blank">        <h3>BVB Erleben</h3></a>
+    <a href="/Fans/BVB-Erleben?utm_source=bvb.de&utm_medium=menuteaser&utm_campaign=opel" target="_blank">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/1760x940_jubelbild_unterseite_fans/1508697-1-ger-DE/1760x940_Jubelbild_Unterseite_Fans_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/1760x940_jubelbild_unterseite_fans/1508697-1-ger-DE/1760x940_Jubelbild_Unterseite_Fans_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/1760x940_jubelbild_unterseite_fans/1508697-1-ger-DE/1760x940_Jubelbild_Unterseite_Fans_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/1760x940_jubelbild_unterseite_fans/1508697-1-ger-DE/1760x940_Jubelbild_Unterseite_Fans_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/1760x940_jubelbild_unterseite_fans/1508697-1-ger-DE/1760x940_Jubelbild_Unterseite_Fans_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Erlebe Woche für Woche besondere schwarzgelbe Momente</h5>
+                
+<p>Ganz nah am Team, mit Vollgas und schwarzgelbem Adrenalin, kannst Du Dich hier für besondere Fanerlebnisse mit Opel bewerben.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+BVB Erleben</span>
+            </a></nav>
+                                                                    <nav class=box-w-3>
+	<h3>Kontakt</h3>
+	<div class="text">
+		
+<p>
+Borussia Dortmund GmbH &amp; Co. KGaA<br />
+Fanbetreuung<br />
+Rheinlanddamm 207-209<br />44137 Dortmund</p>
+<p><a href="mailto:die-fanbeauftragten@bvb.de" target="_self">die-fanbeauftragten@bvb.de</a></p>
+<p><a href="http://www.bvb.de/Fans/Fanbeauftragte2/Fanbeauftragte" target="_blank">Mehr zu unserem Team</a></p>
+												
+	</div>
+</nav>                                                                                                                </section>
+                                            <h2 class="for-accessibility">Subnavigation Tickets</h2>
+                        <section class="structure related-content">
+                                                                                                                            
+<nav class="nav-main box-w-2">
+    <h3>Submenu Tickets</h3>
+    <ul class="menu">
+                    <li id="node_id_205"><a href="/Tickets/Ticket-News">Ticket News</a></li>
+                    <li id="node_id_53491"><a href="/Tickets/Ticketshop">Ticketshop</a></li>
+                    <li id="node_id_133683"><a href="/Tickets/Zweitmarkt">Zweitmarkt</a></li>
+                    <li id="node_id_97594"><a href="/Tickets/Infos-AGBs">Infos &amp; AGBs</a></li>
+                    <li id="node_id_53489"><a href="/Tickets/Termine">Termine</a></li>
+                    <li id="node_id_206"><a href="/Tickets/Sitzplan">Sitzplan</a></li>
+                    <li id="node_id_53490"><a href="/Tickets/Auswaertstickets">Auswärtstickets</a></li>
+                    <li id="node_id_7130"><a href="/Tickets/Familie">Familie</a></li>
+                    <li id="node_id_122037"><a href="/Tickets/VIP-Tickets">VIP-Tickets</a></li>
+                    <li id="node_id_57361"><a href="/Tickets/Ticket-Reise">Ticket &amp; Reise</a></li>
+                    <li id="node_id_131865"><a href="/Tickets/Stadiontouren">Stadiontouren</a></li>
+                    <li id="node_id_131007"><a href="/Tickets/Kontakt">Kontakt</a></li>
+            </ul>
+</nav>                                                                    
+<nav class="box-w-2">
+    <a href="/Tickets/Ticket-News/U19-Finale-Ost-Unterrang-oeffnet">
+        <h3>Ticket News</h3>
+        <figure>
+                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/50t_karten_sitze/1493435-1-ger-DE/50T_Karten_Sitze_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/50t_karten_sitze/1493435-1-ger-DE/50T_Karten_Sitze_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/50t_karten_sitze/1493435-1-ger-DE/50T_Karten_Sitze_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/50t_karten_sitze/1493435-1-ger-DE/50T_Karten_Sitze_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/50t_karten_sitze/1493435-1-ger-DE/50T_Karten_Sitze_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                </figure>
+                    <div class="text">
+                <h5>
+U19-Finale: Ost-Unterrang öffnet</h5>
+                
+<p>Aufgrund der überdurchschnittlichen hohen Nachfrage nach Sitzplatztickets für das A-Jugend-Finale am Montag (19.30 Uhr) zwischen Borussia Dortmund und Bayern München sind ab sofort auch Plätze für den Unterrang der Osttribüne erhältlich.</p>
+            </div>
+                
+        <span class="btn btn-center btn-yellow">Mehr erfahren</span>
+    </a>
+</nav>
+                                                                                                
+<nav class="box-w-2">
+    <a href="https://www.eventimsports.de/ols/bvb" target="_blank">        <h3>Ticketshop</h3></a>
+    <a href="https://www.eventimsports.de/ols/bvb" target="_blank">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/infoseiten/bvb-ticketshop/987194-1-ger-DE/BVB-Ticketshop_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/infoseiten/bvb-ticketshop/987194-1-ger-DE/BVB-Ticketshop_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/infoseiten/bvb-ticketshop/987194-1-ger-DE/BVB-Ticketshop_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/infoseiten/bvb-ticketshop/987194-1-ger-DE/BVB-Ticketshop_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/infoseiten/bvb-ticketshop/987194-1-ger-DE/BVB-Ticketshop_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Das intensive Fußballerlebnis</h5>
+                
+<p>Besuchen Sie unseren Online-Ticketshop, um bei den Heimspielen von Borussia Dortmund im SIGNAL IDUNA PARK live dabei zu sein.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Zum Online-Ticketshop</span>
+            </a></nav>
+                                                                                
+<nav class="box-w-2">
+    <a href="/Tickets/Ticket-Reise" target="_self">        <h3>Reise</h3></a>
+    <a href="/Tickets/Ticket-Reise" target="_self">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/adrenalin-trips2/1871297-1-ger-DE/Adrenalin-Trips_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/adrenalin-trips2/1871297-1-ger-DE/Adrenalin-Trips_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/adrenalin-trips2/1871297-1-ger-DE/Adrenalin-Trips_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/adrenalin-trips2/1871297-1-ger-DE/Adrenalin-Trips_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/adrenalin-trips2/1871297-1-ger-DE/Adrenalin-Trips_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Eine Stadt. Zwei Nächte. Die pure Fussball-Lust.</h5>
+                
+<p>Erleben Sie ein abwechslungsreiches und spannendes Fußball-Wochenende in Dortmund inklusive Besuch eines Bundesliga-Heimspiels des BVB im Signal Iduna Park.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Mehr erfahren</span>
+            </a></nav>
+                                                                                                
+<nav class="box-w-2">
+    <a href="http://www.bvb.de/abstauben" target="_blank">        <h3>„Abstauben …“? </h3></a>
+    <a href="http://www.bvb.de/abstauben" target="_blank">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-ticket-abstauben-teaser/1886562-1-ger-DE/bvb-ticket-abstauben-teaser_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-ticket-abstauben-teaser/1886562-1-ger-DE/bvb-ticket-abstauben-teaser_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-ticket-abstauben-teaser/1886562-1-ger-DE/bvb-ticket-abstauben-teaser_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-ticket-abstauben-teaser/1886562-1-ger-DE/bvb-ticket-abstauben-teaser_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-ticket-abstauben-teaser/1886562-1-ger-DE/bvb-ticket-abstauben-teaser_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+„Abstauben …“? </h5>
+                
+<p>Mit dem BVB und OPEL könnt Ihr jeden Heimspieltag VIP-Tickets abstauben. Einfach das Formular ausfüllen und schon habt Ihr die Chance live im schönsten Stadion der Welt dabei zu sein.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+…mit dem BVB und OPEL</span>
+            </a></nav>
+                                                                                                                </section>
+                                            <h2 class="for-accessibility">Subnavigation Der BVB</h2>
+                        <section class="structure related-content">
+                                                                                                                            
+<nav class="nav-main box-w-2">
+    <h3>Der BVB</h3>
+    <ul class="menu">
+                    <li id="node_id_57417"><a href="/Der-BVB/Ueber-uns">Über uns</a></li>
+                    <li id="node_id_77515"><a href="/Der-BVB/Signal-Iduna-Park">Signal Iduna Park</a></li>
+                    <li id="node_id_93842"><a href="/Der-BVB/Volunteers">Volunteers</a></li>
+                    <li id="node_id_103832"><a href="/Der-BVB/Borusseum">Borusseum</a></li>
+                    <li id="node_id_50957"><a href="/Der-BVB/Chronik">Chronik</a></li>
+                    <li id="node_id_76523"><a href="/Der-BVB/Mitgliedschaft">Mitgliedschaft</a></li>
+                    <li id="node_id_53492"><a href="/Der-BVB/Nachwuchs">Nachwuchs</a></li>
+                    <li id="node_id_98308"><a href="/Der-BVB/Weitere-Teams">Weitere Teams</a></li>
+                    <li id="node_id_53493"><a href="/Der-BVB/Fussballschule">Fußballschule</a></li>
+                    <li id="node_id_72847"><a href="/Der-BVB/Stiftung">Stiftung </a></li>
+                    <li id="node_id_7209"><a href="/Der-BVB/Kontakt">Kontakt</a></li>
+                    <li id="node_id_57330"><a href="/Der-BVB/Jobs">Jobs</a></li>
+            </ul>
+</nav>                                                                                
+<nav class="box-w-2">
+    <a href="/Der-Verein" target="_self">        <h3>Der Verein</h3></a>
+    <a href="/Der-Verein" target="_self">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/chronik/796516-1-ger-DE/Chronik_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/chronik/796516-1-ger-DE/Chronik_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/chronik/796516-1-ger-DE/Chronik_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/chronik/796516-1-ger-DE/Chronik_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/chronik/796516-1-ger-DE/Chronik_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Am Borsigplatz geboren</h5>
+                
+<p>Die übergreifenden Gremien des&nbsp;BV. Borussia 09 e.V. Dortmund und seine Mitglieder.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Gremien des Vereins</span>
+            </a></nav>
+                                                                                
+<nav class="box-w-2">
+    <a href="/Die-KGaA" target="_self">        <h3>Die KGaA</h3></a>
+    <a href="/Die-KGaA" target="_self">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/bvb-geschaeftsstelle/983648-1-ger-DE/BVB-Geschaeftsstelle_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/bvb-geschaeftsstelle/983648-1-ger-DE/BVB-Geschaeftsstelle_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/bvb-geschaeftsstelle/983648-1-ger-DE/BVB-Geschaeftsstelle_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/bvb-geschaeftsstelle/983648-1-ger-DE/BVB-Geschaeftsstelle_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/bvb-geschaeftsstelle/983648-1-ger-DE/BVB-Geschaeftsstelle_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Die KGaA</h5>
+                
+<p>Ein Überblick zur Borussia Dortmund GmbH &amp; Co. KGaA, ihren Gremien und deren Mitgliedern.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Die KGaA</span>
+            </a></nav>
+                                                                                
+<nav class="box-w-2">
+    <a href="/Der-BVB/Mitgliedschaft" target="_self">        <h3>Mitgliedschaft</h3></a>
+    <a href="/Der-BVB/Mitgliedschaft" target="_self">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/mitgliedschaft2/796595-1-ger-DE/Mitgliedschaft_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/mitgliedschaft2/796595-1-ger-DE/Mitgliedschaft_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/mitgliedschaft2/796595-1-ger-DE/Mitgliedschaft_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/mitgliedschaft2/796595-1-ger-DE/Mitgliedschaft_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/mitgliedschaft2/796595-1-ger-DE/Mitgliedschaft_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Wir sind Borussia!</h5>
+                
+<p>Du gehörst zu den Millionen Fans des BVB, deren Herz für unsere Borussia schlägt. Zeige Deine Verbundenheit zu Deinem Verein und werde jetzt Mitglied beim BVB.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Jetzt Mitglied werden</span>
+            </a></nav>
+                                                                                
+<nav class="box-w-2">
+    <a href="/Der-BVB/Stiftung" target="_self">        <h3>Stiftung</h3></a>
+    <a href="/Der-BVB/Stiftung" target="_self">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross/1372875-1-ger-DE/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross/1372875-1-ger-DE/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross/1372875-1-ger-DE/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross/1372875-1-ger-DE/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross/1372875-1-ger-DE/leuchte-auf-die-bvb-stiftung-logo-schwarz-gross_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+leuchte auf - Die BVB-Stiftung</h5>
+                
+<p>Am 12. Spieltag der 50. Bundesliga-Saison feierte Borussia Dortmund die Geburt eines Sterns, die Gründung der gemeinnützigen Stiftung &quot;leuchte auf&quot;.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Mehr erfahren</span>
+            </a></nav>
+                                                                                                                </section>
+                                            <h2 class="for-accessibility">Subnavigation Partner</h2>
+                        <section class="structure related-content">
+                                                                                                                            
+<nav class="nav-main box-w-2">
+    <h3>Partner Submenu</h3>
+    <ul class="menu">
+                    <li id="node_id_95408"><a href="/Partner/Hospitality">Hospitality</a></li>
+                    <li id="node_id_76039"><a href="/Partner/Die-Sponsoren">Die Sponsoren</a></li>
+                    <li id="node_id_72277"><a href="/Partner/News">News</a></li>
+            </ul>
+</nav>                                                                                                
+<nav class="box-w-3">
+    <a href="http://www.strom09.de" target="_blank">        <h3>Strom09</h3></a>
+    <a href="http://www.strom09.de" target="_blank">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-licht-blick-teaser/1396469-1-ger-DE/BVB-Licht-Blick-Teaser_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-licht-blick-teaser/1396469-1-ger-DE/BVB-Licht-Blick-Teaser_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-licht-blick-teaser/1396469-1-ger-DE/BVB-Licht-Blick-Teaser_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-licht-blick-teaser/1396469-1-ger-DE/BVB-Licht-Blick-Teaser_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/teaserbilder/bvb-licht-blick-teaser/1396469-1-ger-DE/BVB-Licht-Blick-Teaser_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+Strom09</h5>
+                
+<p>Strom09 ist der umweltfreundliche Strom- und Gastarif von LichtBlick und dem BVB: Strom09 macht Schluss mit Atom und Kohle und eröffnet die Saison für reine Energie.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Strom09</span>
+            </a></nav>
+                                                                                
+<nav class="box-w-3">
+    <a href="/Tickets/VIP-Tickets" target="_self">        <h3>VIP-Dauerkarten</h3></a>
+    <a href="/Tickets/VIP-Tickets" target="_self">        <figure>
+                                                                                            
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="880" height="470" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/stammtisch/796719-1-ger-DE/Stammtisch_bvbnachrichtenbild_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/stammtisch/796719-1-ger-DE/Stammtisch_bvbnachrichtenbild_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/stammtisch/796719-1-ger-DE/Stammtisch_bvbnachrichtenbild_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/stammtisch/796719-1-ger-DE/Stammtisch_bvbnachrichtenbild_tiny.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/media/bilder/galeriebilder/stammtisch/796719-1-ger-DE/Stammtisch_bvbnachrichtenbild_regular.jpg" alt="Bild" />
+        </noscript>
+                                                                        </figure>
+                    <div class="text">
+                <h5>
+VIP-Dauerkarten</h5>
+                
+<p>Unabhängig von einer Saisonbuchung bietet Borussia Dortmund interessierten Unternehmen die Möglichkeit, auch an einzelnen Bundesliga-Spieltagen VIP-Tickets zu buchen.</p>
+            </div>
+                            <span class="btn btn-center btn-yellow bordertop">
+Mehr erfahren</span>
+            </a></nav>
+                                                                                                                </section>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div><!-- Top menu content: END -->                <!-- Top menu area: END -->
+    <!-- Columns area: START -->
+    <!-- Main area: START -->
+            
+<div id="begin-content" class="content size-wrap" x-ms-format-detection="none">
+    <div class="structure structure-9-3">
+        <section class="zone-left">
+                                <h2 class="underline">Datenschutz</h2><div class="box-black">    
+<article class="box-article box-black">
+    <header>
+        <p class="preline">
+</p>
+        <h2>
+Datenschutz</h2>
+    </header>
+
+    
+<div class="content-oversize">
+    <ul class="slider">
+            </ul>
+    </div>
+
+    <div class="main-content">
+        <section class="structure-padding">
+            <div class="text">
+                
+<p>Die Borussia Dortmund GmbH &amp; Co. KGaA, Rheinlanddamm 207-209, 44137 Dortmund (fortan: „BVB“, nähere Angaben siehe&nbsp;<a href="/Impressum" target="_blank">Impressum</a>), betreibt das Internetportal „BVB.de“ sowie hierzu etwaig angebotene mobile Services unter folgenden abrufbaren Webseiten und deren Unterseiten:&nbsp;<a href="/bvb.de" target="_blank">www.bvb.de;</a>&nbsp;<a href="/bvb.de" target="_blank">bvb.de</a>&nbsp;(fortan gemeinsam „BVB.de“). Bei „BVB.de“ handelt es sich um Informationsdienste (fortan: „BVB.de“-Dienste), die von BVB zur Verfügung gestellt werden und bei deren Nutzung der Schutz Ihrer privaten Daten dem BVB ein wichtiges Anliegen ist. Der BVB beachtet die anwendbaren datenschutzrechtlichen Bestimmungen. Anhand der nachfolgenden Datenschutzbestimmungen möchten wir Ihnen diesbezüglich relevante Informationen, welche Daten in welcher Form verarbeitet, genutzt und ggf. weitergegeben werden, wenn Sie „BVB.de“ besuchen und/oder „BVB.de“-Dienste in Anspruch nehmen, transparent zur Verfügung stellen. Diese Datenschutzbestimmungen ergänzen die „<a href="http://www.bvb.de/ger/Nutzungsbedingungen" target="_blank">Nutzungsbedingungen „BVB.de</a>&nbsp;“.</p>
+<p>&nbsp;</p>
+<p><b>1. Anonyme Nutzung</b></p>
+<p>Grundsätzlich können die „BVB.de“-Internetseiten ohne Offenlegung Ihrer Identität anonym genutzt werden. Beim Besuch von „BVB.de“ werden durch den bzw. die Webserver indes standardmäßig Datum und Uhrzeit des Zugriffs, URL der verweisenden Webseite, abgerufene Datei, Menge der gesendeten Daten, Browsertyp und -version, Betriebssystem sowie IP-Adresse in pseudonymisierter Form temporär gespeichert. Eine Auswertung dieser anonymen Daten findet statt, um gegebenenfalls auftretende technische Fehler und/oder einen Missbrauch der „BVB.de“-Dienste zu erkennen und zu beseitigen und dient im Übrigen zur Verbesserung unserer Angebote und Services, zur Messung des Traffic und der generellen Benutzungsmuster sowie zur unserer Information über die Nutzungsgewohnheiten und Eigenschaften aller „BVB.de“-Nutzer und zur Marktforschung. Personenbezogene Nutzungsprofile werden hierbei nicht erstellt.</p>
+<p>&nbsp;</p>
+<p><b>2. Erhebung und Speicherung personenbezogener Daten</b></p>
+<p>„Personenbezogene Daten“ sind Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Hierunter fallen Informationen zu Ihrer Identität wie beispielsweise Ihr Name, Ihre Anschrift oder E-Mail-Adresse. Nur sofern Sie von sich aus personenbezogene Daten BVB zur Verfügung stellen, erhebt und speichert BVB personenbezogene Daten. Dies ist insbesondere der Fall bei Bitte um Zusendung von weitergehenden Informationen und Kontaktaufnahme Ihrerseits.</p>
+<p>&nbsp;</p>
+<p><b>3. Nutzung und Weitergabe personenbezogener Daten</b></p>
+<p>BVB ist mit Ihrer Zustimmung berechtigt, personenbezogene Daten für die folgenden Zwecke zu erheben, zu verarbeiten und zu nutzen: Erbringung und bedarfsgerechte Gestaltung der „BVB.de“-Dienste und Marktforschung. Die für die Erbringung der „BVB.de“-Dienste notwendigen Daten werden gespeichert und im erforderlichen Umfang ggf. an vom Anbieter mit der technischen Umsetzung beauftragte Dienstleister, die ihrerseits zur Wahrung des Datenschutzes verpflichtet sind, weiter gegeben. Ihre personenbezogenen Daten werden weder anderweitig ausgewertet noch findet eine darüber hinausgehende Veröffentlichung statt. Eine Übermittlung an Dritte erfolgt nur, soweit eine gesetzliche Verpflichtung besteht oder dies zur Erbringung der „BVB.de“-Dienste erforderlich ist und Sie ausdrücklich vorher zugestimmt haben oder eine Weitergabe wegen Missbrauchs der Angebote der „BVB.de“-Dienste zur Rechts- oder Strafverfolgung erforderlich ist.</p>
+<p>&nbsp;</p>
+<p><b>4. Cookies</b></p>
+<p>Um das Angebot der „BVB.de“-Dienste zu optimieren, verwenden wir sog. „Cookies“. Cookies sind kleine Dateien, die temporär auf Ihrer Festplatte abgelegt werden, um die Nutzung des Angebotes zu analysieren und eine Wiedererkennung des Nutzers zu ermöglichen. Dies erleichtert die Navigation und ermöglicht ein hohes Maß an Benutzerfreundlichkeit von „BVB.de“. Darüber hinaus helfen uns Cookies bei der Identifizierung besonders populärer Bereiche der Webseite. Hierdurch können wir die Inhalte von „BVB.de“ an Ihre Interessen anpassen und damit unser Angebot für Sie verbessern. Die dabei ausgewerteten Daten erlauben BVB jedoch keinen Rückschluss auf Sie, weil die Verarbeitung entweder anonymisiert oder pseudonymisiert stattfindet. Schließlich können externe Webseiten, die über Frames bei „BVB.de“ eingebunden werden können, unter Umständen auch Cookies setzen. Cookies – gleich ob von BVB oder Dritten – müssen nicht zugelassen werden und können von dem Nutzer abgelehnt werden. Die meisten Browser sind standardmäßig so eingestellt, dass sie Cookies akzeptieren, aber Sie können Ihren Browser so umkonfigurieren, dass er Cookies ablehnt oder vorher eine Bestätigung von Ihnen erfragt. Wenn Sie Cookies ablehnen, kann dies allerdings zur Folge haben, dass ein Teil der „BVB.de“-Dienste nicht verfügbar ist.</p>
+<p>&nbsp;</p>
+<p><b>5. Webanalysedienste</b></p>
+<p>Um das Angebot der „BVB.de“-Dienste zu optimieren, verwenden wir ferner sog. „Tracking-Tools“ zur Analyse des Datenverkehrs. Dadurch erhalten wir jedoch keine personenbezogenen Daten unserer Nutzer, sondern vielmehr nur statistische Daten über die Nutzung von „BVB.de“. Bei den zu Webanalyse verwendeten Tools handelt es sich derzeit um folgende Dienste:</p>
+<p><b>Weitere Datenanalyse durch Drittanbieter</b></p>
+<p>BVB bedient sich im Rahmen des Betriebs seines Online-Shops auf BVB.de zu Analysezwecken des Drittanbieters zlyde GmbH, Richard-Byrd-Straße 31, 50829 Köln (fortan:„zlyde). zlyde ist ausschließlich mit der Erfassung der folgenden Daten betraut:</p>
+
+<ul>
+
+<li>&nbsp;Wann wird auf den „SHOP“ geklickt?</li>
+
+<li>&nbsp;Wohin geht der Link (welches Land, welche Sprache)?</li>
+
+<li>&nbsp;Welches Operating System wird verwendet?</li>
+
+</ul>
+<p>Die vorstehenden Daten werden bei Anklicken von „SHOP“ auf BVB.de in anonymisierter Form (auch ohne Speicherung von IP-Adressen) erhoben und lassen keinen Bezug zu persönlichen oder sachlichen Verhältnissen einer bestimmten oder bestimmbaren natürlichen Person zu. Eine weitergehende Datenverarbeitung durch zlyde erfolgt nicht.</p>
+
+<ul>
+
+<li><b>Google Analytics</b></li>
+
+</ul>
+<p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (<a href="http://tools.google.com/dlpage/gaoptout?hl=de" target="_self">http://tools.google.com/dlpage/gaoptout?hl=de</a>) verfügbare Browser-Plugin herunterladen und installieren.</p>
+<p>Nähere Informationen hierzu finden Sie unter <a href="http://tools.google.com/dlpage/gaoptout?hl=de" target="_self">http://tools.google.com/dlpage/gaoptout?hl=de</a> bzw. unter</p>
+<p><a href="http://www.google.com/intl/de/analytics/privacyoverview.html" target="_self">http://www.google.com/intl/de/analytics/privacyoverview.html</a> (allgemeine Informationen zu Google Analytics und Datenschutz). Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um den Code „gat._anonymizeIp();“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.“</p>
+<p>&nbsp;</p>
+<p><b>6. „Social Plugins“</b></p>
+<p>Auf den Internetseiten von „BVB.de“ sind sog. „Social Plugins“ nachstehender sozialer Netzwerke integriert: „Facebook“, „Twitter“ und „Google+“. Social Plugins erkennen Sie an dem entsprechenden Netzwerk - Logo und/oder den Zusätzen „Gefällt mir&quot;, „Empfehlen&quot;, „Tweet&quot;, „+1&quot;. Bitte beachten Sie, dass die Aktivierung von Social Plugins zur Folge hat, dass bestimmte Daten an den jeweiligen Anbieter des jeweiligen sozialen Netzwerks übertragen werden können, z.B.: Adresse der Webseite, auf der sich das aktivierte Social Plugin befindet; Datum und Uhrzeit des Aufrufs der Webseite bzw. der Aktivierung des Social Plugins; Informationen über den verwendeten Browser und das verwendete Betriebssystem; Ihre aktuelle IP-Adresse. Wenn Sie im Zeitpunkt der Aktivierung des Social Plugins bereits bei dem jeweiligen sozialen Netzwerk eingeloggt sind, ist der Anbieter auch in der Lage, aus den o.g. Daten Ihren Benutzernamen und ggf. sogar Ihren echten Namen zu ermitteln. Diese Daten können durch den Anbieter des jeweiligen sozialen Netzwerks auch in Ländern außerhalb der Europäischen Union verarbeitet werden. Wir haben keinen Einfluss auf den Umfang, die Art und den Zweck der Datenverarbeitung durch den Anbieter des jeweiligen jeweiligen sozialen Netzwerks. Bitte beachten Sie, dass der Anbieter mit o.g. Daten durchaus in der Lage ist, pseudo- nymisierte und sogar individualisierte Nutzungsprofile zu erstellen. Sie können die aktivierten Social Plugins jederzeit wieder deaktivieren. Dies hat jedoch keinen Einfluss auf die Daten, die bereits an den Anbieter des des jeweiligen sozialen Netzwerks übertragen wurden.</p>
+<p>Zum Schutz Ihrer Daten haben wir die so genannte „2-Click-Lösung“ übernommen. Dabei sind die Plugin-Buttons standardmäßig ausgeschaltet, so dass beim Laden der Seite keine Daten übertragen werden. Wenn Sie eines der Netzwerke nutzen wollen, müssen Sie daher zunächst den gewünschten Button aktivieren. Erst wenn Sie einen Button aktiviert haben, wird die Verbindung mit dem sozialen Netzwerk hergestellt. Mit einem zweiten Klick können Sie dann die jeweiligen Dienste des ausgewählten sozialen Netzwerkes nutzen. Mit der Aktivierung eines Buttons erteilen Sie zugleich Ihre Zustimmung gegenüber dem jeweiligen Netzwerkbetreiber, dass Daten über die Nutzung der konkret besuchten Seite an den jeweiligen Netzwerkbetreiber übermittelt werden.</p>
+<p>Einzelheiten zu Zweck und Umfang der Datenerhebung sowie die weitere Verarbeitung und Nutzung der Daten durch die Netzwerke, aber auch zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen des Betreibers des entsprechenden Netzwerks:</p>
+<p>• Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA - <a href="http://www.facebook.com/about/privacy/" target="_blank">http://www.facebook.com/about/privacy/</a></p>
+<p>• Twitter, Inc., 795 Folsom St., Suite 600 San Francisco, CA 94107, USA - <a href="https://twitter.com/privacy" target="_blank">https://twitter.com/privacy</a></p>
+<p>• Google Inc., 1600 Amphitheatre ParkwayMountain View, California, 94043, USA - <a href="http://www.google.com/intl/de/privacy/privacy-policy.html" target="_blank">http://www.google.com/intl/de/privacy/privacy-policy.html</a></p>
+<p>&nbsp;</p>
+<p><b>7. Datensicherheit</b></p>
+<p>BVB ist die Sicherheit Ihrer Daten ein zentrales Anliegen. Wir setzen daher technische und organisatorische Sicherheitsmaßnahmen ein, um die durch uns verwalteten Daten gegen zufällige oder vorsätzliche Manipulationen, Verlust, Zerstörung oder gegen den Zugriff unberechtigter Personen zu schützen. Unsere Sicherheitsmaßnahmen werden entsprechend der technologischen Entwicklung fortlaufend verbessert. Dennoch ist keine elektronische Kommunikation vollkommen sicher. BVB kann daher für die Offenlegung von Informationen aufgrund von Fehlern bei der Datenübertragung und/oder unautorisiertem Zugriff durch Dritte keine Verantwortung oder Haftung übernehmen. Bitte denken Sie daran, dass immer, wenn Sie freiwillig persönliche Informationen online zugänglich machen (z. B. in E-Mails), diese Informationen von anderen gesammelt und verwendet werden können. Sie könnten also von anderen unerwünschte Nachrichten erhalten, wenn Sie in Bereichen mit öffentlichem Zugriff persönliche Informationen online zugänglich machen. Handeln Sie stets vorsichtig und verantwortungsvoll und achten Sie auf die Geheimhaltung Ihrer persönlichen Informationen.</p>
+<p>&nbsp;</p>
+<p><b>8. Verweise und Links</b></p>
+<p>„BVB.de“ verwendet Verweise und Links zu Internetseiten Dritter. Sofern dieses nicht bereits eindeutig aus dem Text hervorgeht, werden wir den Link auf eine fremde Internetseite mit einem entsprechenden Hinweis versehen. Auf den Inhalt und die Gestaltung dieser externen Internetseiten Dritter, insbesondere auf die nachträgliche Änderung von deren Inhalt, haben wir keinen Einfluss. Ebenso weisen wir ausdrücklich darauf hin, dass unsere Datenschutzbestimmungen für diese Seiten keine Anwendung finden. Eine Haftung für Verweise und Links und ihre weiterführenden Inhalte besteht daher nicht, ergänzend gelten insoweit die&nbsp;<a href="http://www.bvb.de/Nutzungsbedingungen" target="_blank">Nutzungsbedingungen</a>&nbsp;„BVB.de“.</p>
+<p>&nbsp;</p>
+<p><b>9. Auskunfts-, Berichtigungs-, Löschungs- und Widerrufsrecht</b></p>
+<p>Sie haben das Recht, jederzeit Auskunft über die bei uns über Sie gespeicherten personenbezogenen Daten zu verlangen. Sie können jederzeit unrichtige Daten berichtigen oder löschen lassen. Ebenso steht es Ihnen jederzeit frei, der Speicherung und Nutzung Ihrer Daten durch uns zu widersprechen. Ihre Daten werden dann bei uns im Einklang mit den gesetzlichen Bestimmungen gelöscht.</p>
+<p>Hierzu schreiben Sie bitte an:</p>
+<p>Borussia Dortmund GmbH &amp; Co. KGaA</p>
+<p>
+– Datenschutz / Service –<br />
+Rheinlanddamm 207-209<br />D-44137 Dortmund</p>
+<p>oder senden Sie eine E-Mail an:&nbsp;<a href="mailto:datenschutz@bvb.de" target="_self">datenschutz@bvb.de</a></p>
+<p>Bitte haben Sie Verständnis dafür, dass wir ggf. im Falle Ihres Widerrufs bestimmte „BVB.de“-Dienste nicht mehr erbringen können.</p>
+<p>&nbsp;</p>
+<p><b>10. Kontakt</b></p>
+<p>Im Falle weiterer Fragen, Anregungen oder Beschwerden zum Umgang mit personenbezogenen Daten steht Ihnen der zuständige Datenschutzbeauftragte von BVB, Herr Thomas Göllner, gerne zur Verfügung.</p>
+<p>Hierzu schreiben Sie bitte an:</p>
+<p>Borussia Dortmund GmbH &amp; Co. KGaA</p>
+<p>
+– Datenschutz / Service –<br />
+Rheinlanddamm 207-209<br />D-44137 Dortmund</p>
+<p>oder senden Sie eine E-Mail an:&nbsp;<a href="mailto:datenschutz@bvb.de" target="_self">datenschutz@bvb.de</a></p>
+<p>&nbsp;</p>
+<p><b>11. Änderung der Datenschutzbestimmungen</b></p>
+<p>BVB behält sich das Recht vor, diese Datenschutzbestimmungen jederzeit unter Beachtung der geltenden gesetzlichen Vorschriften zu ändern.</p>
+<p>&nbsp;</p>
+<p><b>Borussia Dortmund GmbH &amp; Co. KGaA</b></p>
+<p><b>Stand: November 2013</b></p>
+            </div>
+                    </section>
+    </div>
+</article>
+
+</div>                        </section>
+        <aside class="zone-rightlast toggle-visibility">
+        <h2 class="underline">&nbsp;</h2>
+                                                                        
+	                                <aside class="skyscraper box box-black">
+                <h6 class="head">Anzeige</h6>
+                <div>
+                    <!--JavaScript Agency RandomInSequence Tag // Tag for network 1273: almoe Medienagentur // Website: BVB // Page: AlleSeiten // Placement: RiM Skyscraper (3663778) // created at: Feb 24, 2012 9:26:01 AM-->
+                    
+                        <script type="text/javascript">
+                            sas_pageid='53955/432436';  // Seite : BVB_Website/main
+                            sas_formatid='25263';     // Format : Banner 260 260x645
+                            sas_target='';          // Targeting
+                            SmartAdServer(sas_pageid,sas_formatid,sas_target);
+                        </script>
+                    
+                    <noscript>
+                        <a href="https://www3.smartadserver.com/call/pubjumpi/53955/432436/25263/M/1496329573/?" target="_blank">
+                            <img class="smartadserver" src="https://www3.smartadserver.com/call2/pubmi/53955/432436/25263/M/1496329573/?" alt="" />
+                        </a>
+                    </noscript>
+                    <!-- End of JavaScript Agency Tag -->
+                </div>
+            </aside>
+            
+<aside class="teaser box box-black">
+    <div style="padding:5px">
+        <a href="http://de-beta.napster.com/specials/borussiadortmund" target="_blank">
+            
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img width="260" height="173" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/banner/napster/1905000-1-ger-DE/Napster_bvbbanner_regular.jpg" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/banner/napster/1905000-1-ger-DE/Napster_bvbbanner_regular.jpg" alt="Bild" />
+        </noscript>
+                    </a>
+    </div>
+</aside><aside class="teaser box box-black">
+    <div style="padding:5px">
+        <a href="http://m.exactag.com/cl.aspx?tc=a57deda07d0f156ce2fb44191b2bded5&amp;url=http://www.sky.de/bestellung/fanreceiver-bei-sky/bvb-fanreceiver-26017?wkz=WESO20" target="_blank">
+            
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img width="260" height="173" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/banner/sky-angebot-2016-17/1793937-16-ger-DE/Sky-Angebot-2016-17_bvbbanner_regular.jpg" alt="SKY Angebot Alle Tore" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/banner/sky-angebot-2016-17/1793937-16-ger-DE/Sky-Angebot-2016-17_bvbbanner_regular.jpg" alt="SKY Angebot Alle Tore" />
+        </noscript>
+                    </a>
+    </div>
+</aside><aside class="teaser box box-black">
+    <div style="padding:5px">
+        <a href="https://www.schwarzgelbekarte.de/?et=Wmg&amp;et_cid=51&amp;et_lid_289=" target="_blank">
+            
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img width="750" height="511" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/banner/schwarzgelbe-karte/994837-32-ger-DE/Schwarzgelbe-Karte_bvbbanner_regular.jpg" alt="Die Schwarzgelbe Karte der Sparda-Bank" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/banner/schwarzgelbe-karte/994837-32-ger-DE/Schwarzgelbe-Karte_bvbbanner_regular.jpg" alt="Die Schwarzgelbe Karte der Sparda-Bank" />
+        </noscript>
+                    </a>
+    </div>
+</aside>
+            </aside>
+    </div>
+</div>
+
+
+    <!-- Main area: END -->
+    <!-- Columns area: END -->
+    <!-- Footer area: START -->
+    <footer>
+        <div>
+            
+                <!-- Social Media -->
+                                                    <div class="size-wrap">
+                        
+<section class="structure structure-6">
+    <div class="social-media-feed twitter feed-big">
+        <a href="https://twitter.com/BVB" target="_blank">
+            <small>
+                <span class="author">@BVB</span>
+                Offizielle Twitterseite von Borussia Dortmund
+            </small>
+        </a>
+        <blockquote>
+            RT @kicker_BVB: Zorc: "Die Trennung war das Resultat eines längeren Prozesses" #BVB https://t.co/ZTjWS3Ecbo
+        </blockquote>
+    </div>
+
+    <div class="social-media-feed facebook feed-big">
+        <a href="https://www.facebook.com/BVBorussiaDortmund09" target="_blank">
+            <small>
+                <span class="author">Borussia Dortmund</span>
+                Offizielle Facebookseite von Borussia Dortmund
+            </small>
+        </a>
+        <blockquote>
+            
+        </blockquote>
+        
+    </div>
+</section>
+
+                    </div>
+                
+                <!-- BVBTotal! -->
+                <div class="bvbtotal rotate rotate-fullsize">
+                    <div class="size-wrap invert-rotate">
+                        <img class="bvbtotal-logo" src="/extension/bvbdesign/design/bvbdesign/images/bvb_total_logo.png" alt="BVB Total" />
+                        <div class="structure structure-4">
+                                <article class="teaser">
+        <a href=http://www.bvbtotal.de/player/list/latest/10235411/1 target="_blank">
+            <figure>
+                <span class="play"></span>
+                
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="370" height="226" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/50-jahre-bvb-in-der-bundesliga-saison-2008-09/1214522-509-ger-DE/50-Jahre-BVB-in-der-Bundesliga-Saison-2008-09_bvbtotal_teaser_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/50-jahre-bvb-in-der-bundesliga-saison-2008-09/1214522-509-ger-DE/50-Jahre-BVB-in-der-Bundesliga-Saison-2008-09_bvbtotal_teaser_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/50-jahre-bvb-in-der-bundesliga-saison-2008-09/1214522-509-ger-DE/50-Jahre-BVB-in-der-Bundesliga-Saison-2008-09_bvbtotal_teaser_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/50-jahre-bvb-in-der-bundesliga-saison-2008-09/1214522-509-ger-DE/50-Jahre-BVB-in-der-Bundesliga-Saison-2008-09_bvbtotal_teaser_tiny.jpg" alt="50 Jahre BVB in der Bundesliga: Saison 2008/09" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/50-jahre-bvb-in-der-bundesliga-saison-2008-09/1214522-509-ger-DE/50-Jahre-BVB-in-der-Bundesliga-Saison-2008-09_bvbtotal_teaser_regular.jpg" alt="50 Jahre BVB in der Bundesliga: Saison 2008/09" />
+        </noscript>
+                            
+<div class="news-date">
+    <time itemprop="published" datetime="2017-06-01T14:30:00+02:00">
+        01.06.2017
+    </time>
+</div>            </figure>
+            <div>
+                <h1>50 Jahre BVB in der Bundesliga: Saison 2008/09</h1>
+            </div>
+        </a>
+    </article>    <article class="teaser">
+        <a href=http://www.bvbtotal.de/player/list/latest/10229811/1 target="_blank">
+            <figure>
+                <span class="play"></span>
+                
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="370" height="226" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/wahl-zum-tor-des-monats-mai-2017/995758-313-ger-DE/Wahl-zum-Tor-des-Monats-Mai-2017_bvbtotal_teaser_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/wahl-zum-tor-des-monats-mai-2017/995758-313-ger-DE/Wahl-zum-Tor-des-Monats-Mai-2017_bvbtotal_teaser_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/wahl-zum-tor-des-monats-mai-2017/995758-313-ger-DE/Wahl-zum-Tor-des-Monats-Mai-2017_bvbtotal_teaser_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/wahl-zum-tor-des-monats-mai-2017/995758-313-ger-DE/Wahl-zum-Tor-des-Monats-Mai-2017_bvbtotal_teaser_tiny.jpg" alt="Wahl zum Tor des Monats Mai 2017" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/wahl-zum-tor-des-monats-mai-2017/995758-313-ger-DE/Wahl-zum-Tor-des-Monats-Mai-2017_bvbtotal_teaser_regular.jpg" alt="Wahl zum Tor des Monats Mai 2017" />
+        </noscript>
+                            
+<div class="news-date">
+    <time itemprop="published" datetime="2017-05-30T14:30:00+02:00">
+        30.05.2017
+    </time>
+</div>            </figure>
+            <div>
+                <h1>Wahl zum Tor des Monats Mai 2017</h1>
+            </div>
+        </a>
+    </article>    <article class="teaser">
+        <a href=http://www.bvbtotal.de/player/list/10226492/0/1 target="_blank">
+            <figure>
+                <span class="play"></span>
+                
+
+
+        
+            
+
+
+    
+                                                        
+    
+    
+
+                                        
+                <img width="370" height="226" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/alle-videos-zum-pokalfinale/629967-393-ger-DE/Alle-Videos-zum-Pokalfinale_bvbtotal_teaser_regular.jpg" data-src-medium="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/alle-videos-zum-pokalfinale/629967-393-ger-DE/Alle-Videos-zum-Pokalfinale_bvbtotal_teaser_medium.jpg" data-src-small="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/alle-videos-zum-pokalfinale/629967-393-ger-DE/Alle-Videos-zum-Pokalfinale_bvbtotal_teaser_small.jpg" data-src-tiny="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/alle-videos-zum-pokalfinale/629967-393-ger-DE/Alle-Videos-zum-Pokalfinale_bvbtotal_teaser_tiny.jpg" alt="Alle Videos zum Pokalfinale" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/bvbtotal/alle-videos-zum-pokalfinale/629967-393-ger-DE/Alle-Videos-zum-Pokalfinale_bvbtotal_teaser_regular.jpg" alt="Alle Videos zum Pokalfinale" />
+        </noscript>
+                            
+<div class="news-date">
+    <time itemprop="published" datetime="2017-05-27T23:59:00+02:00">
+        27.05.2017
+    </time>
+</div>            </figure>
+            <div>
+                <h1>Alle Videos zum Pokalfinale</h1>
+            </div>
+        </a>
+    </article>
+                        </div>
+                    </div>
+                </div>
+                        <!-- Newsletter -->
+            <div class="newsletter rotate rotate-fullsize">
+                
+<div class="size-wrap invert-rotate">
+    <div class="structure structure-4">
+        <div>
+            <h3>BVBNewsletter</h3>
+            <p>
+<p>Immer auf dem Laufenden sein – mit dem BVB-Newsletter! Sie wollen dabei sein? Nichts einfacher als das – einfach die Mail-Adresse eintragen und auf das Mail-Symbol klicken! Viel Spaß!</p>
+</p>
+        </div>
+        <div>
+            
+
+
+<form class="nl-form" target="_blank" action="https://p5trc.emv2.com/D2UTF8" method="post">
+    <div>
+        <input type="hidden" name="emv_tag" value="40400005A1673194" />
+        <input type="hidden" name="emv_ref" value="EdX7CqkmjX-H8SA9MOPvhMnTKEh6HK3D_0ncfa41WcndKzY" />
+        <input type="hidden" name="SOURCE_FIELD" value="bvb.de" />
+        <input type="email" name="EMAIL_FIELD" placeholder="ich@beispiel.de" value="" />
+        <input type="submit" name="submit" value="Bestellen">
+    </div>
+</form>        </div>
+    </div>
+</div>            </div>
+
+            
+                        <!-- Sponsoren -->
+            <div class="related-toggle sponsors main-partner">
+                
+<div class="size-wrap">
+    <ul class="related-handler">
+        <li class="signal-iduna-park-ger-DE">SIGNAL IDUNA PARK</li>
+        <li class="puma-ger-DE">PUMA</li>
+        <li class="evonik-ger-DE">EVONIK</li>
+    </ul>
+</div>
+
+<div class="details rotate rotate-fullsize">
+        <div>
+        <div class="size-wrap">
+            <div class="structure structure-6">
+                <div>
+                    <h3>SIGNAL IDUNA PARK</h3>
+                    
+<p>Für die einen ist es &quot;das schönste Stadion der Welt&quot;, für die anderen schlicht &quot;der Tempel&quot; oder auch so etwas wie das zweite Wohnzimmer - der SIGNAL IDUNA PARK. Voller Stolz sind wir Namensgeber der Heimspieltätte des BVB und Partner von Borussia Dortmund. In dieser Eigenschaft haben wir für das Stadion eine Website geschaffen, die mit Infomationen, Aktionen und einzigartigen Bildern das Herz eines jeden Borussen höherschlagen lässt: <a href="http://www.signal-iduna-park.de" target="_blank">www.signal-iduna-park.de</a></p>
+                	<a href=http://www.signal-iduna-park.de/ target="_blank">Signal Iduna Park im Netz</a>
+                </div>
+                <div>
+                    
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img width="588" height="830" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/haupt/signal-iduna-park/642862-10-ger-DE/Signal-Iduna-Park_bvbchampionpartnerfeature_regular.jpg" alt="SIGNAL IDUNA PARK" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/haupt/signal-iduna-park/642862-10-ger-DE/Signal-Iduna-Park_bvbchampionpartnerfeature_regular.jpg" alt="SIGNAL IDUNA PARK" />
+        </noscript>
+                            </div>
+
+            </div>
+        </div>
+    </div>
+        <div>
+        <div class="size-wrap">
+            <div class="structure structure-6">
+                <div>
+                    <h3>PUMA</h3>
+                    
+<p><i>„Moderner Fußball mit schnellen Spielzügen, ein leidenschaftliches Trainerteam, eine faszinierende Mannschaft und nicht zuletzt die Fans im Signal Iduna Park – das alles macht den BVB zu einem Club, der Fußballer, Fußballfreunde und sogar Nicht-Fußballer weltweit begeistert. Diese Euphorie wird durch die Partnerschaft getragen und bietet uns die perfekte Möglichkeit, PUMAs Glaubwürdigkeit als Sportmarke zu unterstreichen. Wir wünschen dem BVB eine erfolgreiche Saison und freuen uns auf bewegenden und mitreißenden Fußball.“</i></p>
+<p class=" text-right">Matthias Bäumer, Area General Manager PUMA DACH</p>
+                	<a href=http://de.puma.com/ target="_blank">PUMA im Netz</a>
+                </div>
+                <div>
+                    
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img width="588" height="588" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/haupt/puma/642848-18-ger-DE/Puma_bvbchampionpartnerfeature_regular.png" alt="PUMA" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/haupt/puma/642848-18-ger-DE/Puma_bvbchampionpartnerfeature_regular.png" alt="PUMA" />
+        </noscript>
+                            </div>
+
+            </div>
+        </div>
+    </div>
+        <div>
+        <div class="size-wrap">
+            <div class="structure structure-6">
+                <div>
+                    <h3>EVONIK</h3>
+                    
+<p><i>„Was wir mit dem BVB in den vergangenen Jahren erlebt haben, ist eine echte Erfolgspartnerschaft. Als wir eingestiegen sind, war der Verein noch dabei, den größten Tiefpunkt seiner Geschichte zu bewältigen. Und dann holt der BVB innerhalb von sechs, sieben Jahren zwei Meistertitel, den Pokal und zieht ins Champions League Finale ein. Besser geht es nicht.“</i></p>
+<p class=" text-right">Dr. Klaus Engel</p>
+<p>&nbsp;</p>
+                	<a href=http://www.evonik.de/ target="_blank">EVONIK im Netz</a>
+                </div>
+                <div>
+                    
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img width="588" height="732" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/haupt/evonik/642855-15-ger-DE/EVONIK_bvbchampionpartnerfeature_regular.png" alt="EVONIK" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/haupt/evonik/642855-15-ger-DE/EVONIK_bvbchampionpartnerfeature_regular.png" alt="EVONIK" />
+        </noscript>
+                            </div>
+
+            </div>
+        </div>
+    </div>
+    </div>
+            </div>
+
+            <!-- Champion-Partner -->
+            <div class="related-toggle sponsors champion-partner">
+                
+<div class="size-wrap">
+	<div class="related-handler">
+			<h6><span>BVBChampionPartner</span></h6>
+			<ul>
+									<li><a href=http://www.opel.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/opel/537461-9-ger-DE/Opel_bvbchampionpartner_regular.png" alt="Opel" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/opel/537461-9-ger-DE/Opel_bvbchampionpartner_regular.png" alt="Opel" />
+        </noscript>
+            </a></li>
+									<li><a href=https://www.eurowings.com/de.html target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/eurowings/1796656-3-ger-DE/Eurowings_bvbchampionpartner_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/eurowings/1796656-3-ger-DE/Eurowings_bvbchampionpartner_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+									<li><a href=http://www.brinkhoffs.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/brinkhoffs/537468-14-ger-DE/Brinkhoffs_bvbchampionpartner_regular.png" alt="Brinkhoff's" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/brinkhoffs/537468-14-ger-DE/Brinkhoffs_bvbchampionpartner_regular.png" alt="Brinkhoff's" />
+        </noscript>
+            </a></li>
+									<li><a href=https://www.sparda-west.de/index.php target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/sparda-bank/537475-4-ger-DE/Sparda-Bank_bvbchampionpartner_regular.png" alt="Sparda-Bank" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/sparda-bank/537475-4-ger-DE/Sparda-Bank_bvbchampionpartner_regular.png" alt="Sparda-Bank" />
+        </noscript>
+            </a></li>
+									<li><a href=https://www.facebook.com/HuaweiMobileDE target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/huawei/642898-1-ger-DE/Huawei_bvbchampionpartner_regular.png" alt="HUAWAEI" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/huawei/642898-1-ger-DE/Huawei_bvbchampionpartner_regular.png" alt="HUAWAEI" />
+        </noscript>
+            </a></li>
+									<li><a href=http://www.signal-iduna.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/signal-iduna/537482-4-ger-DE/SIGNAL-IDUNA_bvbchampionpartner_regular.png" alt="SIGNAL IDUNA" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/signal-iduna/537482-4-ger-DE/SIGNAL-IDUNA_bvbchampionpartner_regular.png" alt="SIGNAL IDUNA" />
+        </noscript>
+            </a></li>
+									<li><a href=http://www.sprehe.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/sprehe-feinkost/537489-3-ger-DE/Sprehe-Feinkost_bvbchampionpartner_regular.png" alt="Sprehe feinkost" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/sprehe-feinkost/537489-3-ger-DE/Sprehe-Feinkost_bvbchampionpartner_regular.png" alt="Sprehe feinkost" />
+        </noscript>
+            </a></li>
+									<li><a href=http://www.hankooktire.com/de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/hankook/537496-5-ger-DE/Hankook_bvbchampionpartner_regular.png" alt="HANKOKK" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/hankook/537496-5-ger-DE/Hankook_bvbchampionpartner_regular.png" alt="HANKOKK" />
+        </noscript>
+            </a></li>
+									<li><a href=http://www.wilo.de/bvb target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/wilo/537510-8-ger-DE/Wilo_bvbchampionpartner_regular.png" alt="wilo" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/wilo/537510-8-ger-DE/Wilo_bvbchampionpartner_regular.png" alt="wilo" />
+        </noscript>
+            </a></li>
+									<li><a href=http://www.unitymedia.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/unitymedia/1010998-8-ger-DE/unitymedia_bvbchampionpartner_regular.png" alt="unitymedia" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/unitymedia/1010998-8-ger-DE/unitymedia_bvbchampionpartner_regular.png" alt="unitymedia" />
+        </noscript>
+            </a></li>
+									<li><a href=http://www.zumtobelgroup.com/de/marken_thorn.htm target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/thorn/1796875-1-ger-DE/Thorn_bvbchampionpartner_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/thorn/1796875-1-ger-DE/Thorn_bvbchampionpartner_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+									<li><a href=https://www.bwin.com/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="100" height="33" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/bwin/1974119-1-ger-DE/Bwin_bvbchampionpartner_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/footer/sponsoren/bvbchampionpartner/bwin/1974119-1-ger-DE/Bwin_bvbchampionpartner_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+							</ul>
+	</div>
+</div>
+<div class="details rotate rotate-fullsize">
+	<div>
+		<div class="size-wrap">		
+			<h6><span>BVBChampionPartner</span></h6>
+			<ul>
+                                    <li class="box-w-3"><a href=http://www.opel.de target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/opel-logo/1832147-1-ger-DE/Opel-Logo_sd_bvb_cp_regular.png" alt="Opel Logo" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/opel-logo/1832147-1-ger-DE/Opel-Logo_sd_bvb_cp_regular.png" alt="Opel Logo" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=https://www.eurowings.com/de.html target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/eurowings/1796619-4-ger-DE/Eurowings_sd_bvb_cp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/eurowings/1796619-4-ger-DE/Eurowings_sd_bvb_cp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=http://www.brinkhoffs.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/brinkhoffs/1311166-8-ger-DE/Brinkhoffs_sd_bvb_cp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/brinkhoffs/1311166-8-ger-DE/Brinkhoffs_sd_bvb_cp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=https://www.facebook.com/HuaweiMobileDE target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/huawai/1311172-5-ger-DE/Huawai_sd_bvb_cp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/huawai/1311172-5-ger-DE/Huawai_sd_bvb_cp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=http://www.signal-iduna.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/signal-iduna/1311178-3-ger-DE/Signal-Iduna_sd_bvb_cp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/signal-iduna/1311178-3-ger-DE/Signal-Iduna_sd_bvb_cp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=http://www.sprehe.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/sprehe/1311184-5-ger-DE/Sprehe_sd_bvb_cp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/sprehe/1311184-5-ger-DE/Sprehe_sd_bvb_cp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=https://www.sparda-west.de/index.php target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/sparda-bank/1311190-4-ger-DE/Sparda-Bank_sd_bvb_cp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/sparda-bank/1311190-4-ger-DE/Sparda-Bank_sd_bvb_cp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=http://www.unitymedia.de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/unity-media/1311196-7-ger-DE/Unity-Media_sd_bvb_cp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/unity-media/1311196-7-ger-DE/Unity-Media_sd_bvb_cp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=http://www.wilo.de/bvb target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/wilo/1311202-4-ger-DE/Wilo_sd_bvb_cp_regular.png" alt="Logo Wilo" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/wilo/1311202-4-ger-DE/Wilo_sd_bvb_cp_regular.png" alt="Logo Wilo" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=http://www.hankooktire.com/de/ target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/hankook/1311214-10-ger-DE/Hankook_sd_bvb_cp_regular.png" alt="Logo Hankook" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/hankook/1311214-10-ger-DE/Hankook_sd_bvb_cp_regular.png" alt="Logo Hankook" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=http://www.zumtobelgroup.com target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="58" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/zumtobel/1796613-5-ger-DE/Zumtobel_sd_bvb_cp_regular.png" alt="Logo Thorn (Zumtobel)" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/zumtobel/1796613-5-ger-DE/Zumtobel_sd_bvb_cp_regular.png" alt="Logo Thorn (Zumtobel)" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-3"><a href=https://www.bwin.com/de target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="183" height="59" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/bwin/1967869-1-ger-DE/bwin_sd_bvb_cp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-championpartner/bwin/1967869-1-ger-DE/bwin_sd_bvb_cp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                
+			</ul>
+			<h6><span>BVBPartner</span></h6>
+			<ul>
+                                    <li class="box-w-25"><a href="https://www.atlasschuhe.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/atlas/1861637-1-ger-DE/Atlas_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/atlas/1861637-1-ger-DE/Atlas_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.man.eu/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/man/1311232-4-ger-DE/MAN_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/man/1311232-4-ger-DE/MAN_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.cokezero.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/coca-cola/1311244-9-ger-DE/Coca-Cola_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/coca-cola/1311244-9-ger-DE/Coca-Cola_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://obo.de/de-de" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/obo/1311250-5-ger-DE/OBO_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/obo/1311250-5-ger-DE/OBO_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.bohle-gruppe.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/bohle/1311256-4-ger-DE/Bohle_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/bohle/1311256-4-ger-DE/Bohle_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.burg.biz" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/burg-waechter/1311268-4-ger-DE/Burg-Waechter_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/burg-waechter/1311268-4-ger-DE/Burg-Waechter_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.ruhrnachrichten.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/ruhr-nachrichten/1311274-3-ger-DE/Ruhr-Nachrichten_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/ruhr-nachrichten/1311274-3-ger-DE/Ruhr-Nachrichten_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.strom09.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/strom09/1311280-3-ger-DE/Strom09_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/strom09/1311280-3-ger-DE/Strom09_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.rewe-dortmund.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/rewe/1311304-3-ger-DE/Rewe_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/rewe/1311304-3-ger-DE/Rewe_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.kitzbuehel-alpen.com/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/kitzbueheler-alpen/1311310-4-ger-DE/Kitzbueheler-Alpen_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/kitzbueheler-alpen/1311310-4-ger-DE/Kitzbueheler-Alpen_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.brillux.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/brillux/1311334-4-ger-DE/Brillux_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/brillux/1311334-4-ger-DE/Brillux_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.poco.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/poco/1311340-3-ger-DE/Poco_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/poco/1311340-3-ger-DE/Poco_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.mbe.de" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/mbe/1478542-7-ger-DE/MBE_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/mbe/1478542-7-ger-DE/MBE_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.aral.de" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/aral/1484508-4-ger-DE/Aral_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/aral/1484508-4-ger-DE/Aral_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.apotal.de" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/apotal/1484514-3-ger-DE/Apotal_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/apotal/1484514-3-ger-DE/Apotal_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="http://www.mediamarkt.de" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/media-markt/1500028-4-ger-DE/Media-Markt_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/media-markt/1500028-4-ger-DE/Media-Markt_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-25"><a href="https://www.konami.com/games/eu/de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="140" height="44" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/konami/1828258-1-ger-DE/Konami_sd_bvb_p_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-partner/konami/1828258-1-ger-DE/Konami_sd_bvb_p_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                
+			</ul>
+			<h6><span>BVBProduktPartner</span></h6>
+			<ul>
+                                    <li class="box-w-2"><a href="http://www.2pack.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/2pack/1474162-5-ger-DE/2pack_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/2pack/1474162-5-ger-DE/2pack_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://de.napster.com/?pcode=bvb&ocode=bvb&cpath=partner" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/napster/1484527-5-ger-DE/Napster_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/napster/1484527-5-ger-DE/Napster_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.olymp.com" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/olmyp/1484533-5-ger-DE/Olmyp_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/olmyp/1484533-5-ger-DE/Olmyp_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.sybac-solar.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/sybac/1484601-4-ger-DE/Sybac_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/sybac/1484601-4-ger-DE/Sybac_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.oki.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/oki/1493847-4-ger-DE/OKI_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/oki/1493847-4-ger-DE/OKI_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="https://www.collonil.com/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/collonil/1497153-4-ger-DE/Collonil_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/collonil/1497153-4-ger-DE/Collonil_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.iteracon.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/iteracon/1749523-3-ger-DE/iteracon_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/iteracon/1749523-3-ger-DE/iteracon_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.westfalenbaeckerei.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/niehaves/1796597-3-ger-DE/Niehaves_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/niehaves/1796597-3-ger-DE/Niehaves_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.schauinsland-reisen.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/schauinsland/1796603-4-ger-DE/Schauinsland_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/schauinsland/1796603-4-ger-DE/Schauinsland_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.jaeger-ausbau.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/jaeger-ausbau/1796609-6-ger-DE/Jaeger-Ausbau_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/jaeger-ausbau/1796609-6-ger-DE/Jaeger-Ausbau_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.andrzejkrupinski.de" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/krupinski/1819612-9-ger-DE/Krupinski_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/krupinski/1819612-9-ger-DE/Krupinski_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.conway-bikes.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/conway/1828265-1-ger-DE/Conway_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/conway/1828265-1-ger-DE/Conway_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.web.egv-group.eu/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/egv/1834171-1-ger-DE/EGV_sd_bvb_pp_regular.png" alt="Logo EGV" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/egv/1834171-1-ger-DE/EGV_sd_bvb_pp_regular.png" alt="Logo EGV" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="https://www.handyflash.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/handyflash/1835782-2-ger-DE/Handyflash_sd_bvb_pp_regular.png" alt="Logo Handyflash" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/handyflash/1835782-2-ger-DE/Handyflash_sd_bvb_pp_regular.png" alt="Logo Handyflash" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.hema-zaunsysteme.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/hema-ranko/1843943-1-ger-DE/HeMa-Ranko_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/hema-ranko/1843943-1-ger-DE/HeMa-Ranko_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.frostkrone.de" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/frostkrone/1895751-2-ger-DE/Frostkrone_sd_bvb_pp_regular.png" alt="Logo Frostkrone" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/frostkrone/1895751-2-ger-DE/Frostkrone_sd_bvb_pp_regular.png" alt="Logo Frostkrone" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.vilsa.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/vilsa/1311370-5-ger-DE/Vilsa_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/vilsa/1311370-5-ger-DE/Vilsa_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.hardeck.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/moebel-hardeck/1311376-4-ger-DE/Moebel-Hardeck_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/moebel-hardeck/1311376-4-ger-DE/Moebel-Hardeck_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.westfalenhallen.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/westfalenhalle/1311382-3-ger-DE/Westfalenhalle_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/westfalenhalle/1311382-3-ger-DE/Westfalenhalle_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.karabalta.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/karabalta/1311394-3-ger-DE/Karabalta_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/karabalta/1311394-3-ger-DE/Karabalta_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.hauert-guenther.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/hauert/1311400-3-ger-DE/Hauert_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/hauert/1311400-3-ger-DE/Hauert_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.ansons.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/ansons/1311406-3-ger-DE/Ansons_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/ansons/1311406-3-ger-DE/Ansons_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.tedi-discount.com/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/tedi/1311418-5-ger-DE/Tedi_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/tedi/1311418-5-ger-DE/Tedi_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.ueltje.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/ueltje/1311430-4-ger-DE/Ueltje_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/ueltje/1311430-4-ger-DE/Ueltje_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.best-travel.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/best-travel/1311436-4-ger-DE/Best-Travel_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/best-travel/1311436-4-ger-DE/Best-Travel_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.gethappy.de" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/get-happy/1311442-7-ger-DE/Get-Happy_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/get-happy/1311442-7-ger-DE/Get-Happy_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.getraenke-weidlich.com/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/getraenke-weidlich/1311454-4-ger-DE/Getraenke-Weidlich_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/getraenke-weidlich/1311454-4-ger-DE/Getraenke-Weidlich_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.h-hotels.com/startseite.html" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/ramada/1311460-5-ger-DE/Ramada_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/ramada/1311460-5-ger-DE/Ramada_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.duezguen-food.com/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/duezguen/1311466-4-ger-DE/Duezguen_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/duezguen/1311466-4-ger-DE/Duezguen_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                    <li class="box-w-2"><a href="http://www.severin.de/" target="_blank">
+
+
+        
+   
+
+
+    
+                    
+    
+    
+
+                                        
+                <img class="opt" width="112" height="35" src="/extension/bvbdesign/design/bvbdesign/images/1x1_b.gif" data-src-regular="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/severin/1312275-5-ger-DE/Severin_sd_bvb_pp_regular.png" alt="Bild" />
+        <noscript>
+            <img src="/var/ezdemo_site/storage/images/bvb.de/menu/partner/die-sponsoren/bvb-produktpartner/severin/1312275-5-ger-DE/Severin_sd_bvb_pp_regular.png" alt="Bild" />
+        </noscript>
+            </a></li>
+                                
+			</ul>
+		</div>
+	</div>
+</div>            </div>
+            <!-- Association Logos -->
+            <div class="association size-wrap">
+                <ul>
+	<li>
+		<a href="http://www.bundesliga.de/">
+			<img width="65" height="80" alt="" data-src-regular="/extension/bvbdesign/design/bvbdesign/images/65_logo_weiss.png" src="/extension/bvbdesign/design/bvbdesign/images/65_logo_weiss.png" class="noresize opt" data-src="/extension/bvbdesign/design/bvbdesign/images/65_logo_weiss.png">
+			<noscript>
+				&lt;img src="/extension/bvbdesign/design/bvbdesign/images/65_logo_weiss.png" /&gt;
+			</noscript>
+		</a>
+	</li>
+	<li>
+		<a href="http://www.ecaeurope.com/">
+			<img width="57" height="80" alt="" data-src-regular="/extension/bvbdesign/design/bvbdesign/images/ass_logo_eca.png" src="/extension/bvbdesign/design/bvbdesign/images/ass_logo_eca.png" class="noresize opt" data-src="/extension/bvbdesign/design/bvbdesign/images/ass_logo_eca.png">
+			<noscript>
+				&lt;img src="/extension/bvbdesign/design/bvbdesign/images/ass_logo_eca.png" /&gt;
+			</noscript>
+		</a>
+	</li>
+	<li>
+        <a href="http://www.orthomed-rehazentrum.de">
+            <img width="133" height="80" alt="" data-src-regular="/extension/bvbdesign/design/bvbdesign/images/orthomed.png" src="/extension/bvbdesign/design/bvbdesign/images/orthomed.png" class="noresize opt orthomed" data-src="/extension/bvbdesign/design/bvbdesign/images/orthomed.png">
+            <noscript>
+                &lt;img src="/extension/bvbdesign/design/bvbdesign/images/orthomed.png" /&gt;
+            </noscript>
+        </a>
+    </li>
+</ul>            </div>
+            <!-- Copyright + Weiteres -->
+            <div class="legal size-wrap">
+                <div>
+    <p>&copy; 1996 - 2017 Borussia Dortmund GmbH &amp; Co. KGaA</p>
+    <nav>
+        <ul class="menu" id="menu-footer">
+                    <li><a href="/Impressum">Impressum</a></li>
+                    <li><a href="/Datenschutz">Datenschutz</a></li>
+                    <li><a href="/Nutzungsbedingungen">Nutzungsbedingungen</a></li>
+                    <li><a href="/FAQ">FAQ</a></li>
+                    <li><a href="/Hilfe">Hilfe</a></li>
+                    <li><a href="/Kontakt">Kontakt</a></li>
+                    <li><a href="/Infos">Infos</a></li>
+                    <li><a href="/Die-KGaA">Die KGaA</a></li>
+                    <li><a href="/Der-Verein">Der Verein</a></li>
+                    <li><a href="http://www.handball.bvb.de" target="_blank">Handball</a></li>
+            <li><a href="http://tischtennis.bvb.de" target="_blank">Tischtennis</a></li>
+        </ul>
+    </nav>
+</div>            </div>
+        </div>
+        	<div class="sticky-banner">
+		
+			<script type="text/javascript">
+				sas_pageid='53955/432436';	// Seite : BVB_Mobile_Website/main
+				sas_formatid='23370';		// Format : mobile_banner 320x54
+				sas_target='';			// Targeting
+				sasmobile(sas_pageid,sas_formatid,sas_target);
+			</script>
+		
+		<noscript>
+			<a href="https://www3.smartadserver.com/call/pubjumpi/53955/432436/23370/M/1496328229/?" target="_blank">
+				<img class="smartadserver" src="https://www3.smartadserver.com/call2/pubmi/53955/432436/23370/M/1496328229/?" alt="" />
+			</a>
+		</noscript>
+	</div>    </footer>
+
+    <!-- Footer area: END -->
+    <!-- Complete page area: END -->
+    <!-- Footer script area: START -->
+            <!-- Footer script area: END -->
+
+    <!-- JS: START -->
+     <script type="text/javascript" src="/var/ezdemo_site/cache/public/javascript/c88fb3af12683ea53297d54756fd6955_1465803747.js" charset="utf-8"></script>
+
+    <!-- JS: END -->
+        
+    
+    
+
+    <div style="display:none;">
+    <!-- Google Code for www.bvb.de -->
+    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1069404433;
+    var google_conversion_label = "_G24CNus9wQQkaL3_QM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1069404433/?value=0&amp;label=_G24CNus9wQQkaL3_QM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+    </div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"bcc7a00fdf","applicationID":"10384293","transactionName":"bgQGYRYHXRECVEBcXVdOJ0AXElwPTFRbW0ZcDxAaEg9WFQ==","queueTime":0,"applicationTime":380,"atts":"QkMFF14dTh8=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

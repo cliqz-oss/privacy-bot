@@ -1,0 +1,391 @@
+
+
+Atomuhr
+
+  \-  
+
+Kostenlose Uhr für Ihre Homepage  
+  
+Impressum/Datenschutz    Druckansicht  
+  
+Benutzerdefinierte Suche  
+  
+  * Home
+  * Kalender
+  * Feiertage
+  * Arbeitstage
+  * Schulferien
+  * Umrechnung
+  * Excel
+  * Homepage-Tools
+  * Preisvergleich
+  * LKW
+
+  
+  
+# Impressum
+
+Post  
+(Anschrift) Holger Schulz Online e.K.  
+Unterscheideweg 14  
+42499 Hückeswagen  
+Deutschland  
+Fon +49 (2192) 9189894  Fax  +49 (2192) 9189698  
+Mail Net   www.schnelle-online.info  
+Registriert Amtsgericht Köln: Registernummer HRA 30197  
+Umsatzsteuer-  
+Ident-Nummer DE 272 435 859  
+Inhaber Holger Schulz  
+Inhaltlich Verantwortlicher Inhaltlich Verantwortlicher (gemäß § 10 Absatz 3
+MDStV und § 6 TDG): Holger Schulz  
+Adresse wie oben  
+  
+#### Nutzung unserer Adressdaten
+
+Gemäß § 28 BDSG widersprechen wir jeder kommerziellen Verwendung und
+Weitergabe der Daten.  
+Insbesondere dürfen die auf den Webseiten gemachten Angaben nicht für die
+Zusendung von Werbe-eMails und -Faxe verwendet werden.
+
+# Datenschutzerklärung
+
+#### Einsatz von Google Analytics / AdWords Conversion Tracking / Online-
+Werbung
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+("Google"). Google Analytics verwendet sog. "Cookies", Textdateien, die auf
+Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
+über Ihre Benutzung dieser Website werden in der Regel an einen Server von
+Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung
+der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google
+jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor
+gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von
+Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers
+dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der
+Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen
+und um weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen
+von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengeführt. Sie können die Speicherung der
+Cookies durch eine entsprechende Einstellung Ihrer Browser-Software
+verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
+gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden
+nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie
+erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-
+Adresse) an Google sowie die Verarbeitung dieser Daten durch Google
+verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin
+herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de  
+Die oben erwähnte IP-Anonymisierung wird verwendet.  
+AdWords und Analytics wurden verknüpft, so dass Information aus AdWords (und
+Partnernetzwerken insb. DoubleClick) an Analytics und umgekehrt übertragen und
+ggf. genutzt werden.  
+Weitere Datenschutz-Informationen von Google finden Sie unter
+http://www.google.com/analytics/terms/de.html und
+http://www.google.com/intl/de/analytics/privacyoverview.html.  
+Ferner wird AdWords Conversion-Tracking verwendet, bei dem ebenfalls Daten an
+Google übermittelt werden. Zeitweise werden ggf. interesenbezogene Anzeigen
+auf dieser Website geschaltet; d.h. Google und Google Partner-Websites
+versuchen über von Ihnen besuchte Webseiten im Internet zu ermitteln, welche
+Themen Sie interessieren könnten (Details), um für Sie möglichst relevante
+Anzeigen einzublenden. Hierzu werden DoubleClick-Cookies verwendet. Ferner
+können über die Online-Werbung (zielgruppenspezifische) Cookies von
+Drittanbietern oder Werbenetzwerken verwendet werden. Interesenbezogene
+Anzeigen können Sie hier für Google oder alternativ hier für mehrere Online-
+Werbevermarkter und Werbenetzwerke gleichzeitig deaktivieren. Auf einigen
+Webseiten wird auch interessenbezogene Werbung (sowie Werbung von
+Drittanbietern) von Criteo angezeigt. Dies können Sie hier ausschalten.
+
+#### Facebook Social Plugins
+
+Unsere Website verwendet ein Plugin von www.facebook.com. D.h. wenn Sie eine
+Seite laden, wird automatisch auch eine Verbindung zu einem Server von
+Facebook hergestellt und der Inhalt des Plugins von dort geladen. Wenn Sie bei
+Facebook angemeldet sind, kann facebook u.a. so ermitteln, welche Seiten Sie
+bei uns aufgerufen haben. Welche Daten Facebook zu welchem Zweck erhebt und
+wie verwendet sowie welche Einstellungsmöglichkeiten Sie zum Schutz Ihrer
+Privatsphäre haben, finden Sie auf https://www.facebook.com/policy.php.
+
+#### Einsatz eigener Cookies
+
+Sofern vom Browser erlaubt werden auch für den Betrieb der Website Session-
+Cookies verwendet, so dass bestimmte Funktionen ohne Cookies nicht zur
+Verfügung stehen bzw. nicht korrekt funktionieren.
+
+#### Erhebung und Verarbeitung von personenbezogenen Daten
+
+Wenn Sie unsere Webseiten besuchen, speichern unsere Webserver standardmässig
+die IP-Adresse, die Ihnen von Ihrem Internet Service Provider zugewiesen
+wurde, die Webseite, von der aus Sie uns besuchen, die Webseiten, die Sie bei
+uns besuchen, Informationen zum verwendeten Browser sowie das Datum und die
+Dauer des Besuches. Personenbezogene Daten werden nur dann gespeichert, wenn
+Sie uns diese von sich aus, z.B. im Rahmen einer Registrierung, einer Umfrage,
+eines Preisausschreibens oder zur Durchführung eines Vertrages angeben.
+
+#### Auskunft
+
+Wenn Sie Fragen hinsichtlich der Verarbeitung Ihrer persönlichen Daten haben,
+beantworten wir diese gerne unter den im Impressum angegeben Kontaktdaten.
+
+#### Nutzung und Weitergabe der personenbezogenen Daten
+
+Die von Ihnen zur Verfügung gestellten personenbezogenen Daten verwenden wir
+ausschließlich zum Zweck der technischen Administration der Webseiten und zur
+Erfüllung Ihrer Wünsche und Anforderungen, also in der Regel zur Abwicklung
+des mit Ihnen geschlossenen Vertrages oder zur Beantwortung Ihrer Anfrage.
+Wenn Sie uns zuvor Ihre Einwilligung erteilt haben bzw. wenn Sie - soweit
+gesetzliche Regelungen dies vorsehen - keinen Widerspruch eingelegt haben bzw.
+in einer geschäftlichen Beziehung zu Holger Schulz Online e.K. stehen, nutzen
+wir diese Daten auch für produktbezogene Umfragen, Einladungen zu
+Veranstaltungen, newsletter und eigene Marketingzwecke. Insb. Newsletter
+können auch Werbung enthalten.  
+Eine Weitergabe, Verkauf oder sonstige Übermittlung Ihrer personenbezogenen
+Daten an Dritte erfolgt nicht, es sei denn, dass dies zum Zwecke der
+Vertragsabwicklung erforderlich ist oder dass Sie ausdrücklich eingewilligt
+haben oder dies gerichtlich angeordnet wird. Bei einem Verkauf der Firma oder
+der Website gehen die Daten an den neuen Eigentümer über.  
+Wir behalten uns vor Feedback ggf. gekürzt oder sinngemäß zusammengefasst zu
+veröffentlichen. Wenn ein Name oder Pseudonym angegeben wurde, behalten wir
+uns vor diesen zusammen mit dem Feedback zu veröffentlichen. Dem kann
+jederzeit widersprochen werden.
+
+#### Google AdSense Werbung
+
+Wir greifen auf Drittanbieter zurück, um Anzeigen zu schalten, wenn Sie unsere
+Website besuchen. Diese Unternehmen nutzen möglicherweise Informationen (dies
+schließt nicht Ihren Namen, Ihre Adresse, E-Mail-Adresse oder Telefonnummer
+ein) zu Ihren Besuchen dieser und anderer Websites, damit Anzeigen zu
+Produkten und Diensten geschaltet werden können, die Sie interessieren. Falls
+Sie mehr über diese Methoden erfahren möchten oder wissen möchten, welche
+Möglichkeiten Sie haben, damit diese Informationen nicht von den Unternehmen
+verwendet werden können, klicken Sie hier. Weitere Informationen finden Sie
+hier und hier.  
+
+#### Affiliate Werbung
+
+Auch die über Affiliate-Programme eingeblendete Werbung nutzt Cookies, damit
+getätigte Aktionen zu einer Gutschrift beim Publisher führen und die Werbung
+optimiert werden kann.  
+Holger Schulz Online e.K. ist Teilnehmer des Partnerprogramms von Amazon
+Europe S.à r.l. und Partner des Werbeprogramms, das zur Bereitstellung eines
+Mediums für Websites konzipiert wurde, mittels dessen durch die Platzierung
+von Werbeanzeigen und Links zu [bitte fügen Sie hier den zutreffenden Namen
+der Website ein (Amazon.co.uk / Javari.co.uk / Amazon.de / Javari.de /
+Amazon.fr / Javari.fr / Amazon.it)] Werbekostenerstattung verdient werden
+kann.
+
+#### Gewähr
+
+Sämtliche Informationen auf dieser Website sind ohne Gewähr.
+
+#### Web-Hosting
+
+Besten Dank an unseren Web-Hoster für Java und Tomcat Hosting iNETsolutions.de
+für den hervorragenden Service sowie für den schnellen, freundlichen und
+kompetenten Support.
+
+#### Bildquellen
+
+Maledivenstrand01: aboutpixel.de © Kristina Kittlaus  
+Mauritius2: aboutpixel.de / Mauritsius2 © Michael Dür
+
+Vielen Dank
+
+Bitte schreiben Sie mir (Holger Schulz ) was wir verbessern können.
+
+Ihr Name oder Pseudonym:  
+Dürfen wir Ihnen antworten?  
+Ihre eMail-Adresse (optional):  
+  
+schließen ohne Mitteilung zu senden
+
+bitte bewerten
+
+         
+
+Feedback, Vorschläge ...  Kontaktformular
+
+Ihr Feedback zu  
+Deutsche Feiertage - Übersicht für Urlaub und Beruf
+
+Nutzen Sie Google+? Dann können Sie Ihr Feedback auch gerne auf unserer
+Google+ Seite schreiben.
+
+Ihre Mitteilung an Holger Schulz
+
+Ihr Name oder Pseudonym:  
+Dürfen wir Ihnen antworten? Bitte!!!!:-)  
+Ihre eMail-Adresse (optional):  
+  
+Bisher wurden  60 Bewertungen für diese Seite "Deutsche Feiertage - Übersicht
+für Urlaub und Beruf" abgegeben. Der Durchschnitt liegt bei  4.5 von 5
+Sternen.  
+  
+  * Übersicht
+  * Informationen für Deutschland
+
+  * Kalender
+  * Kalender (immer aktuell)
+  * Kalender 2017
+  * Kalender 2018
+  * Kalender   
+
+  * Feiertage
+  * Feiertage in Deutschland
+  * Feiertage 2017
+  * Feiertage 2018
+  * alle Feiertage    
+  * Pfingsten 2017
+  * Pfingstsonntag 2017
+  * Pfingstmontag 2017
+  * Fronleichnam 2017
+
+  * Arbeitstage &amp; Werktage
+  * Arbeitstage berechnen
+  * Arbeitstage pro Jahr
+  * Arbeitstage 2016
+  * Arbeitstage 2017
+  * Arbeitstage Werktage 2007200820092010201120122013201420152016201720182019
+
+  * Ferientermine Deutschland
+  * Schulferien Deutschland
+  * Ferien 2017
+  * Ferien 2018
+  * Ferien  20082009201020112012201320142015201620172018201920202021202220232024
+
+  * WinterferienOsterferienPfingstferienSommerferienHerbstferienWeihnachtsferien 20082009201020112012201320142015201620172018201920202021202220232024
+
+  * Kalender Ferien Feiertage
+  * Baden-Württemberg
+
+&gt;
+
+    * Kalender Baden-Württemberg
+    * Feiertage Baden-Württemberg
+    * Ferien Baden-Württemberg
+  * Bayern
+
+&gt;
+
+    * Kalender Bayern
+    * Feiertage Bayern
+    * Ferien Bayern
+  * Berlin
+
+&gt;
+
+    * Kalender Berlin
+    * Feiertage Berlin
+    * Ferien Berlin
+  * Brandenburg
+
+&gt;
+
+    * Kalender Brandenburg
+    * Feiertage Brandenburg
+    * Ferien Brandenburg
+  * Bremen
+
+&gt;
+
+    * Kalender Bremen
+    * Feiertage Bremen
+    * Ferien Bremen
+  * Hamburg
+
+&gt;
+
+    * Kalender Hamburg
+    * Feiertage Hamburg
+    * Ferien Hamburg
+  * Hessen
+
+&gt;
+
+    * Kalender Hessen
+    * Feiertage Hessen
+    * Ferien Hessen
+  * Mecklenburg-Vorpommern
+
+&gt;
+
+    * Kalender Mecklenburg-Vorpommern
+    * Feiertage Mecklenburg-Vorpommern
+    * Ferien Mecklenburg-Vorpommern
+  * Niedersachsen
+
+&gt;
+
+    * Kalender Niedersachsen
+    * Feiertage Niedersachsen
+    * Ferien Niedersachsen
+  * Nordrhein-Westfalen
+
+&gt;
+
+    * Kalender NRW
+    * Feiertage NRW
+    * Ferien NRW
+  * Rheinland-Pfalz
+
+&gt;
+
+    * Kalender Rheinland-Pfalz
+    * Feiertage Rheinland-Pfalz
+    * Ferien Rheinland-Pfalz
+  * Saarland
+
+&gt;
+
+    * Kalender Saarland
+    * Feiertage Saarland
+    * Ferien Saarland
+  * Sachsen
+
+&gt;
+
+    * Kalender Sachsen
+    * Feiertage Sachsen
+    * Ferien Sachsen
+  * Sachsen-Anhalt
+
+&gt;
+
+    * Kalender Sachsen-Anhalt
+    * Feiertage Sachsen-Anhalt
+    * Ferien Sachsen-Anhalt
+  * Schleswig-Holstein
+
+&gt;
+
+    * Kalender Schleswig-Holstein
+    * Feiertage Schleswig-Holstein
+    * Ferien Schleswig-Holstein
+  * Thüringen
+
+&gt;
+
+    * Kalender Thüringen
+    * Feiertage Thüringen
+    * Ferien Thüringen
+
+  * Informationen &amp; Service
+  * Atomuhr
+
+Newsletter
+
+Infos zum Newsletter
+
+  
+  
+
+News auf Google+
+
+Ankündigungen und wichtige News auf unserer Google+ Seite
+
+Alle Angaben ohne Gewähr  
+  
+Anmerkungen, Vorschläge?  
+  
+

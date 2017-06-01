@@ -1,0 +1,327 @@
+  * 0Shopping Cart
+
+  * Alle Vorlagen
+  * Wissenschaftlicher Hintergrund
+  * Warenkorb
+  * Zurück zum Portal
+
+Geltungsbereich
+
+Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und Zwecke
+der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen
+Anbieter webschmiede GmbH, Geschäftsführende Gesellschafter: Stefan Gerth,
+Holger Manzke, Pieperstr. 37 44789 Bochum, Tel.: 0234/52007280, auf dieser
+Website (im folgenden “Angebot”) auf.
+
+Die rechtlichen Grundlagen des Datenschutzes finden sich im
+Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).
+
+1\. Die Speicherung und Verarbeitung von Kundendaten durch die webschmiede
+GmbH erfolgt unter strikter Beachtung datenschutzrechtlicher Bestimmungen.
+
+2.1 Der Online-Shop shop.bewerbung.net kann nur nach einer Registrierung
+vollständig genutzt werden. Die hierfür abgefragten Daten werden in digitaler
+Form gespeichert und nur zur Vertragsbegründung und Vertragsabwicklung nach
+den Bestimmungen der Allgemeinen Geschäftsbedingungen genutzt.  
+Der Kunde kann jederzeit eine einmal gegenüber der webschmiede GmbH erteilte
+Einwilligung in eine weitergehende Nutzung der Daten widerrufen bzw. der
+Nutzung, Verarbeitung bzw. Übermittlung seiner Daten zu Marketingzwecken
+widersprechen. Auskunfts-, Berichtigungs- und Löschungsbegehren sowie der
+Widerruf bzw. der Widerspruch bezüglich der weitergehenden Nutzung der Daten
+können wie folgt formlos erklärt werden:  
+E-Mail: info@bewerbung.net  
+Fax: +49- 234 - 52007189  
+Post: webschmiede GmbH, Holger Manzke (Datenschutzbeauftragter), Pieperstr.
+37, 44789 Bochum
+
+2.2 Im Einzelnen werden Daten wie folgt erhoben und verarbeitet:
+
+2.2 a) Bei der Registrierung:
+
+E-Mail-Adresse – Die E-Mail-Adresse dient als Benutzername für das Login auf
+shop.bewerbung.net. An die E-Mail-Adresse wird bei der Registrierung eine
+Aktivierungs-E-Mail versandt, mit der der Kunde seinen Account freischalten
+kann. Über die Funktion "Passwort vergessen" kann sich der Kunde seine
+Zugangsdaten an seine E-Mail-Adresse übermitteln lassen. Im Falle des Verzuges
+des Kunden wird die E-Mail-Adresse zur Versendung der Mahnung verwendet.
+
+Name und Anschrift sowie ggf. die Lieferanschrift – Name und Anschrift werden
+für die Erstellung der Rechnung im Falle einer kostenpflichtigen Bestellung
+verwendet. Im Falle des Versandes eines Produktes wird die Lieferanschrift
+verwendet. Im Falle des Verzuges des Kunden und nach erfolgloser Mahnung
+werden Name und Anschrift für das Inkasso verwendet.
+
+2.2 b) Beim Kauf:
+
+Zahlungsdaten – Konto- oder Kreditkartendaten werden für die Abwicklung
+kostenpflichtiger Bestellungen verwendet.
+
+IP-Adresse – Die IP-Adresse wird nur im Falle der Verfolgung einer zu Lasten
+der webschmiede GmbH begangenen Straftat verwendet und gegebenenfalls an die
+zuständigen Strafverfolgungsbehörden übermittelt.
+
+3\. Eine Weitergabe der Kundendaten an unbefugte Dritte findet nicht statt.
+
+4\. Der Kunde kann jederzeit Auskunft darüber verlangen, welche Daten die
+webschmiede GmbH über ihn gespeichert hat und wie diese Daten verwendet
+werden. Der Kunde kann jederzeit die Berichtigung seiner Daten und, soweit
+nicht die entsprechenden Daten noch zur Abwicklung einer Bestellung gemäß der
+Allgemeinen Geschäftsbedingungen benötigt werden oder aus gesetzlichen Gründen
+vorgehalten werden müssen, die Löschung seiner Daten verlangen.Der Kunde kann
+ferner jederzeit eine einmal gegenüber der webschmiede GmbH erteilte
+Einwilligung in eine weitergehende Nutzung der Daten widerrufen bzw. der
+Nutzung seiner persönlichen Daten zur Information im Sinne des 2.1 dieser
+Datenschutzerklärung widersprechen. Auskunfts-, Berichtigungs- und
+Löschungsbegehren sowie der Widerruf bzw. der Widerspruch bezüglich der
+weitergehenden Nutzung der Daten können wie folgt formlos erklärt werden:
+
+E-Mail: info@bewerbung.net  
+Fax: +49- 234 - 52007189  
+Post: webschmiede GmbH, Holger Manzke (Datenschutzbeauftragter), Pieperstr.
+37, 44789 Bochum
+
+Einbindung von Diensten und Inhalten Dritter
+
+Es kann vorkommen, dass innerhalb dieses Onlineangebotes Inhalte Dritter, wie
+zum Beispiel Videos von YouTube, Kartenmaterial von Google-Maps, RSS-Feeds
+oder Grafiken von anderen Webseiten eingebunden werden. Dies setzt immer
+voraus, dass die Anbieter dieser Inhalte (nachfolgend bezeichnet als „Dritt-
+Anbieter“) die IP-Adresse der Nutzer wahr nehmen. Denn ohne die IP-Adresse,
+könnten sie die Inhalte nicht an den Browser des jeweiligen Nutzers senden.
+Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir
+bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-
+Adresse lediglich zur Auslieferung der Inhalte verwenden. Jedoch haben wir
+keinen Einfluss darauf, falls die Dritt-Anbieter die IP-Adresse z.B. für
+statistische Zwecke speichern. Soweit dies uns bekannt ist, klären wir die
+Nutzer darüber auf.
+
+Cookies
+
+Auf dieser Website werden Cookies eingesetzt. Cookies sind kleine Dateien, die
+es ermöglichen, auf dem Zugriffsgerät der Nutzer (PC, Smartphone o.ä.)
+spezifische, auf das Gerät bezogene Informationen zu speichern. Sie dienen zum
+einem der Benutzerfreundlichkeit von Webseiten und damit den Nutzern (z.B.
+Speicherung von Logindaten). Zum anderen dienen sie, um die statistischen
+Daten der Webseitennutzung zu erfassen und sie zwecks Verbesserung des
+Angebotes analysieren zu können. Die Nutzer können auf den Einsatz der Cookies
+Einfluss nehmen. Die meisten Browser verfügen eine Option mit der das
+Speichern von Cookies eingeschränkt oder komplett verhindert wird. Allerdings
+wird darauf hingewiesen, dass die Nutzung und insbesondere der Nutzungskomfort
+ohne Cookies eingeschränkt werden.
+
+Sie können viele Online-Anzeigen-Cookies von Unternehmen über die US-
+amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite
+http://www.youronlinechoices.com/uk/your-ad-choices/ verwalten.
+
+Google Analytics
+
+Dieses Angebot benutzt Google Analytics, einen Webanalysedienst der Google
+Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die
+auf Computer der Nutzer gespeichert werden und die eine Analyse der Benutzung
+der Website durch sie ermöglichen. Die durch den Cookie erzeugten
+Informationen über Benutzung dieser Website durch die Nutzer werden in der
+Regel an einen Server von Google in den USA übertragen und dort gespeichert.
+
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird die
+IP-Adresse der Nutzer von Google jedoch innerhalb von Mitgliedstaaten der
+Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die
+volle IP-Adresse an einen Server von Google in den USA übertragen und dort
+gekürzt. Die IP-Anonymisierung ist auf dieser Website aktiv. Im Auftrag des
+Betreibers dieser Website wird Google diese Informationen benutzen, um die
+Nutzung der Website durch die Nutzer auszuwerten, um Reports über die
+Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und
+der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber
+zu erbringen.
+
+Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse
+wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die
+Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-
+Software verhindern; Dieses Angebot weist die Nutzer jedoch darauf hin, dass
+Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website
+vollumfänglich werden nutzen können. Die Nutzer können darüber hinaus die
+Erfassung der durch das Cookie erzeugten und auf ihre Nutzung der Website
+bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung
+dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link
+verfügbare Browser-Plugin herunterladen und installieren:
+http://tools.google.com/dlpage/gaoptout?hl=de.
+
+Alternativ zum Browser-Add-On oder innerhalb von Browsern auf mobilen Geräten,
+klicken Sie bitte diesen Link, um die Erfassung durch Google Analytics
+innerhalb dieser Website zukünftig zu verhindern. Dabei wird ein Opt-Out-
+Cookie auf Ihrem Gerät abgelegt. Löschen Sie Ihre Cookies, müssen Sie diesen
+Link erneut klicken.
+
+
+
+Nutzung von Google Adwords Remarketing
+
+Zur Schaltung nutzungsbasierter Online Werbung nutzen wir den Dienst Google
+Remarketing Tags. Diese Dienstleistungen sind von Google Inc. (1600
+Amphitheatre Parkway, Mountain View, CA 94043, USA; im Folgenden nur „Google“
+genannt).
+
+Durch von Google verwendete, auf Ihrem Computer gespeicherte Cookies wird eine
+Analyse der Benutzung der Website durch Sie ermöglicht. Der Cookie generiert
+Informationen über die Art und Weise, auf die Sie das Onlineangebot nutzen,
+wenn Sie dieses aufsuchen. Die Art, wie Sie das Online-Angebot nutzen sowie
+Ihre IP-Adresse werden an den in den USA stehenden Server von Google
+übertragen und dort gespeichert. Nach Erfolgen der Speicherung durch Google
+wird von Google die IP-Adresse um die letzten drei Stellen gekürzt. Dadurch
+ist es nicht mehr möglich, die IP-Adresse einem bestimmten Nutzer zuzuordnen.
+
+Dabei wird von Google zugesichert, dass die Datenschutzvorschriften zum „US-
+Safe-Harbor“-Abkommen eingehalten werden und beim „Safe-Harbor“-Programm
+registriert zu sein.
+
+Die erhaltenen Informationen werden von Google dazu genutzt, auszuwerten, wie
+die Nutzung des Onlineangebots durch Sie erfolgt, Berichte über die
+Aktivitäten der Nutzer in unserem Onlineangebot zusammenzustellen und um ggf.
+zusätzliche Dienstleistungen zu erbringen, die im Zusammenhang mit unserem
+Onlineangebot stehen.
+
+Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen,
+sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im
+Auftrag von Google verarbeiten. Sowohl Google als auch andere Drittanbieter
+haben die Möglichkeit, auf Basis von Cookies und somit auf Basis Ihrer
+vorherigen Besuche der Website in unserem Onlineangebot Werbeanzeigen zu
+schalten. Zwischen Daten von Ihnen, die bereits bei Google gespeichert sind
+und Ihrer E-Mail-Adresse wird Google dabei keine Verbindung vornehmen.
+
+Der Datenerhebung und -speicherung kann jederzeit mit Wirkung für die Zukunft
+widersprochen werden. Sie haben die Möglichkeit zur Deaktivierung von Cookies
+durch Google, indem sie die Seite zur Deaktivierung von Google-Werbung
+aufrufen. Außerdem können Sie die Verwendung von Cookies durch Drittanbieter
+deaktivieren, indem Sie die Deaktivierungsseite der Netzwerkwerbeinitiative
+aufrufen.
+
+Jedoch geben wir den Hinweis, dass für den Fall der Deaktivierung eventuell
+nicht alle Funktionen des Onlineangebots nutzbar sind.
+
+Es kann der Erhebung und der Speicherung von Daten widersprochen werden, die
+durch die vorstehend genannte Nutzung erlangt werden.
+
+Um weitere Hinweisen zu den Vorgaben von Google zu finden können Sie hier
+klicken.
+
+
+
+Google AdSense
+
+Dieses Angebot benutzt Google AdSense, einen Dienst zum Einbinden von
+Werbeanzeigen der Google Inc. („Google“). Google AdSense verwendet sog.
+„Cookies“, Textdateien, die auf dem Computer der Nutzer gespeichert werden und
+die eine Analyse der Benutzung der Website ermöglicht. Google AdSense
+verwendet auch so genannte Web Beacons (unsichtbare Grafiken). Durch diese Web
+Beacons können Informationen wie der Besucherverkehr auf den Seiten dieses
+Angebots ausgewertet werden.
+
+Die durch Cookies und Web Beacons erzeugten Informationen über die Benutzung
+dieser Website (einschließlich der IP-Adresse der Nutzer) und Auslieferung von
+Werbeformaten werden an einen Server von Google in den USA übertragen und dort
+gespeichert. Diese Informationen können von Google an Vertragspartner von
+Google weiter gegeben werden. Google wird Ihre IP-Adresse jedoch nicht mit
+anderen von Ihnen gespeicherten Daten zusammenführen.
+
+Die Nutzer können die Installation der Cookies durch eine entsprechende
+Einstellung Ihrer Browser Software verhindern; der Anbieter weist die Nutzer
+jedoch darauf hin, dass sie in diesem Fall gegebenenfalls nicht sämtliche
+Funktionen dieses Angebotes voll umfänglich nutzen können.
+
+Amazon-Partnerprogramm
+
+Bewerbung.net (webschmiede GmbH) ist Teilnehmer des Partnerprogramms von
+Amazon EU, das zur Bereitstellung eines Mediums für Websites konzipiert wurde,
+mittels dessen durch die Platzierung von Werbeanzeigen und Links zu [bitte
+fügen Sie hier den zutreffenden Namen der Website ein (Amazon.co.uk /
+Local.Amazon.co.uk / Amazon.de / de.BuyVIP.com / Amazon.fr / Amazon.it /
+it.BuyVIP.com / Amazon.es / es.BuyVIP.com )] Werbekostenerstattung verdient
+werden kann. Amazon setzt Cookies ein, um die Herkunft der Bestellungen
+nachvollziehen zu können. Unter anderem kann Amazon erkennen, dass Sie den
+Partnerlink auf dieser Website geklickt haben. Weitere Informationen zur
+Datennutzung durch Amazon erhalten Sie in der Datenschutzerklärung des
+Unternehmens:
+http://www.amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=3312401
+
+Overheat
+
+Diese Website nutzt overheat.de, ein Webanalyse-Tool der Firma »overheat UG
+(haftungsbeschränkt)« mit dem Sitz in Haus Alsbach 2, 51766 Engelskirchen,
+Deutschland. Es werden damit Interaktionen von zufällig ausgewählten,
+einzelnen Besuchern mit der Internetseite anonymisiert aufgezeichnet. So
+entsteht ein Protokoll von z.B. Mausbewegungen und -Klicks mit dem Ziel,
+Verbesserungsmöglichkeiten der jeweiligen Internetseite aufzuzeigen. Außerdem
+werden Informationen zum Betriebssystem, Browser, eingehende und ausgehende
+Verweise (Links), geografische Herkunft, sowie Auflösung und Art des Geräts zu
+statistischen Zwecken ausgewertet. Diese Informationen sind nicht
+personenbezogen und werden von overheat.de nicht an Dritte weitergegeben. Wenn
+Sie eine Aufzeichnung nicht wünschen, können Sie diese auf allen
+Internetseiten, die overheat einsetzen, durch das Setzen des DoNotTrack-
+Headers in Ihrem Browser deaktivieren. Informationen dazu finden Sie auf der
+folgenden Seite: http://overheat.de/opt-out.html
+
+Widerruf, Änderungen, Berichtigungen und Aktualisierungen
+
+Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über
+die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat
+der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung
+seiner personenbezogenen Daten, soweit dem keine gesetzliche
+Aufbewahrungspflicht entgegensteht.
+
+Konversionsmessung mit dem Besucheraktions-Pixel von Facebook
+
+Wir setzen innerhalb unseres Internetauftritts den „Besucheraktions-Pixel“ der
+Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”)
+ein. Mit dessen Hilfe können wir die Aktionen von Nutzern nachverfolgen, nach
+dem diese eine Facebook-Werbeanzeige gesehen oder geklickt haben. So können
+wir die Wirksamkeit der Facebook-Werbeanzeigen für statistische und
+marktforschungszwecke erfassen. Die so erfassten Daten sind für uns anonym,
+das heißt wir sehen nicht die personenbezogenen Daten einzelner Nutzer. Diese
+Daten werden jedoch von Facebook gespeichert und verarbeitet, worüber wir Sie
+entsprechend unserem Kenntnisstand unterrichten. Facebook kann diese Daten mit
+ihrem Facebookkonto verbinden und auch für eigene Werbezwecke, entsprechend
+Facebooks Datensverwendungsrichtlinie verwenden
+http://www.facebook.com/about/privacy. Sie können Facebook sowie dessen
+Partnern das Schalten von Werbeanzeigen auf und außerhalb von Facebook
+ermöglichen. Es kann ferner zu diesen Zwecken ein Cookie auf Ihrem Rechner
+gespeichert werden. Falls Sie keine Datenerfassung via Custom Audience
+wünschen, können Sie Custom Audiences hier deaktivieren.
+
+Visual Website Optimizer
+
+Um die Seite möglichst ansprechend zu gestalten, entwickeln wir unser
+Onlineangebot auf Basis von A/B-Tests, multivariaten Analysen oder anderen
+Tests. Diese werden mit Hilfe des Dienstes von Wingify umgesetzt. Dieser
+Webservice nutzt Cookies, mit Hilfe derer der Browser des Besuchers
+identifiziert wird und die Nutzung der Website analysiert wird, die jedoch
+keine personenbezogenen Daten sammeln. Wenn sie weitere Informationen bzgl.
+der Verarbeitung Ihrer Daten wünschen, so können Sie diese hier finden.  
+Der Speicherung Ihrer anonym erfassten Besucherdaten können Sie jederzeit für
+die Zukunft auf der Website https://vwo.com/opt-out widersprechen, indem Sie
+die Webadresse „shop.bewerbung.net” ins vorgesehene Feld eintragen.
+
+  
+Impressum  
+Datenschutz  
+AGB  
+Widerrufsbelehrung  
+Zahlungsarten  
+Versand
+
+### Wichtige Themen
+
+Bewerbung  
+Bewerbungsschreiben  
+Lebenslauf  
+Lebenslauf Vorlage  
+Bewerbungsmuster  
+Lebenslauf Muster
+
+### webschmiede GmbH © 2017
+
+Made with ♥ in Bochum
+
+Alle Preise inkl. der gesetzlichen MwSt.
+
+Nach oben scrollen
+

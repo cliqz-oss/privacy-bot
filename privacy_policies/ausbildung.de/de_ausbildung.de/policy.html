@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang='de'>
+<head>
+<meta charset='utf-8'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5afc47e56e","applicationID":"2646532","transactionName":"JQ4NQRNeXF4DF00FQAkPF1APVR9RCxZNE1MBBA==","queueTime":0,"applicationTime":35,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg8GUVRQGwEGUFdXBAM="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta content='width=device-width, user-scalable=yes, initial-scale = 0.3' name='viewport'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black' name='apple-mobile-web-app-status-bar-style'>
+<meta content='chrome=1' http_equiv='X-UA-Compatible'>
+<meta content='vQDYi7Mi5zbcvgW6sVa4N4CU7yta3Gr06XPE5J_FHes' name='google-site-verification'>
+<meta content='Ausbildung finden – Tausende freie Lehrstellen auf Ausbildung.de' property='og:title'>
+<meta content='https://www.ausbildung.de/assets/open-graph-ausbildung-d4c4d63358edeb786e124af987984f08.png' property='og:image'>
+<meta content='Ausbildung finden anhand von tausenden freien Ausbildungsplätzen. Mache jetzt den Berufscheck und finde heraus, welcher Beruf zu dir passt.' property='og:description'>
+<link href='/apple-touch-icon-precomposed.png' rel='apple-touch-icon-precomposed'>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,800,700' rel='stylesheet' type='text/css'>
+<link href='//m.ausbildung.de:443/datenschutz/' media='only screen and (max-width: 640px)' rel='alternate'>
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="pC3yVK1VoFGvmYs2V7iFhdIhgf8sxk6ELZMmLl3x2YzwHprdVyGT+Z721ifLJHd1bMVCytF1EhaJ2teZGrRVWA==" />
+<meta content="noindex,follow" name="robots" />
+<title>Datenschutzerklärung</title>
+<link rel="stylesheet" media="all" href="/assets/application-4ad477379b6463d63a76e4629a3f68c0.css" />
+<!--[if IE 7]>
+<link rel="stylesheet" media="all" href="/assets/application_split2-08a92f28a65aa3dcf91b2f776e7ea12e.css" debug="false" />
+<link rel="stylesheet" media="screen" href="/assets/ie/ie7-7fec11ee6e7b903425894cb0a7be2ddb.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" media="all" href="/assets/application_split2-08a92f28a65aa3dcf91b2f776e7ea12e.css" debug="false" />
+<link rel="stylesheet" media="screen" href="/assets/ie/ie8-17933e7288d321eb094499f7313412e2.css" />
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" media="all" href="/assets/application_split2-08a92f28a65aa3dcf91b2f776e7ea12e.css" debug="false" />
+<link rel="stylesheet" media="screen" href="/assets/ie/ie9-925a6257cae81911cd28718893fefc47.css" />
+<![endif]-->
+
+<script src='//cdn.optimizely.com/js/4162441981.js'></script>
+
+</head>
+<body>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KJGR87"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KJGR87');</script>
+<!-- End Google Tag Manager -->
+
+<div class='quick-signon-lightbox-wrapper is-hidden'></div>
+<div id='fb-root'></div>
+<div class='l-colored-background' style='background-color: #08273B;'>
+<div class='l-centered'>
+<div class='main-navigation-container'>
+<div class='main-navigation'>
+<div class='nav-main-nav-logo'></div>
+<div class='nav-main-nav-background'>
+<a class='main-logo' href='/'></a>
+<ul>
+<li>
+<a href="#">Berufe entdecken</a>
+<ul class='overlay'>
+<div class='navi-title'>
+<span><a href="/berufe/">Berufe entdecken</a></span>
+</div>
+<li><a href="/berufe/beliebteste/">Die beliebtesten Berufe</a></li>
+<li><a href="/berufe/bestbezahlte/">Die bestbezahlten Berufe</a></li>
+<li><a href="/berufe/themen/">Berufe nach Themen</a></li>
+<li class='no-border'><a href="/berufe/glossar/">Berufe A bis Z</a></li>
+<li class='navi-quiz-teaser'>
+<a href='/berufscheck/'>
+<img src="/assets/header/professions-quiz-teaser-6b03b1980878a86ff315b7b631cce3cb.png" alt="Professions quiz teaser" />
+</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="#">Ausbildungsplatz finden</a>
+<ul class='overlay'>
+<div class='navi-title'>
+<span><a href="/suche/">Ausbildungsplatz finden</a></span>
+</div>
+<li><a href="/ausbildungsplaetze-2017/">Ausbildungsplätze 2017</a></li>
+<li><a href="/staedte/alle/">Alle Städte</a></li>
+<li><a href="/branchen/">Alle Branchen</a></li>
+<li><a href="/unternehmen/alle/">Alle Unternehmen</a></li>
+<li><a href="/unternehmen/partner/">Alle Partnerunternehmen</a></li>
+</ul>
+</li>
+<li>
+<a href="#">Rund um die Ausbildung</a>
+<ul class='overlay'>
+<div class='navi-title'>
+<span><a href="/ratgeber/">Rund um die Ausbildung</a></span>
+</div>
+<li>
+<a href='/ratgeber/ausbildungsarten/'>Ausbildungsarten</a>
+</li>
+<li>
+<a href='/ratgeber/bewerbung/'>Bewerbung</a>
+</li>
+<li>
+<a href='/ratgeber/gehalt/'>Gehalt</a>
+</li>
+<li>
+<a href='/ratgeber/wohnung/'>Wohnung</a>
+</li>
+<li>
+<a href='/ratgeber/downloads/'>Downloads</a>
+</li>
+<li class='js-navigation-review-link'><a href="#">Ausbildung bewerten</a></li>
+<li><a target="_blank" href="http://blog.ausbildung.de">Unser Blog</a></li>
+<li><a href="/azubi-report/">azubi.report</a></li>
+<li class='resume-generator-teaser'>
+<a>
+<a target="_blank" href="http://lebenslauf.ausbildung.de"><img src="/assets/header/resume-generator-teaser-cbad2b1b03eca191d439f45fcd76f50d.png" alt="Resume generator teaser" />
+</a></a>
+</li>
+</ul>
+</li>
+<li>
+<a href="#">Duales Studium</a>
+<ul class='overlay'>
+<div class='navi-title'>
+<span><a href="/duales-studium/">Duales Studium</a></span>
+</div>
+<li><a href="/duales-studium/studiengaenge/">Alle Studiengänge</a></li>
+<li><a href="/duales-studium/hochschulen/alle/">Alle Hochschulen</a></li>
+<li><a href="/duales-studium/unternehmen/">Alle Unternehmen</a></li>
+</ul>
+</li>
+</ul>
+<div class='spotlight-search'>
+<span>
+<i class='nav-search-icon'></i>
+<form class="main-navigation-search" action="/suche/" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+<div class='input-with-autocomplete-box'>
+<input type="text" name="q" id="q" value="" placeholder="Was? z.B. Bäcker" autocomplete="off" class="search-submit-helper" data-autocomplete="{&quot;url&quot;:&quot;/search_suggestions/&quot;,&quot;data&quot;:{&quot;unique&quot;:0},&quot;query&quot;:&quot;search&quot;,&quot;type&quot;:&quot;html&quot;,&quot;limit&quot;:10}" />
+<div class='autocomplete-container'></div>
+</div>
+<div class='input-with-autocomplete-box'>
+<input type="text" name="ort" id="ort" value="" placeholder="Wo? z.B. Hamburg" class="search-submit-helper" autocomplete="off" data-autocomplete="{&quot;url&quot;:&quot;/city_autocomplete/&quot;,&quot;data&quot;:{&quot;unique&quot;:0},&quot;query&quot;:&quot;search&quot;,&quot;type&quot;:&quot;html&quot;,&quot;limit&quot;:10}" />
+<div class='autocomplete-container'></div>
+</div>
+<div class='nav-search-button' onClick='$(this).closest("form").submit();'>
+<span class='nav-search-icon-white'></span>
+<span class='search-button'>Suchen</span>
+</div>
+<div class='nav-close'>+</div>
+</form>
+
+</span>
+</div>
+</div>
+</div>
+<div class='registration-login-header' data-behavior='login-status-area' data-component='/components/registration_login_header_content/'>
+<span class='for-companies'>
+<a href="/dashboard/unternehmen/sign_up/">Für Unternehmen
+</a></span>
+<span>
+<a href="/lehrer/"><strong>Für Lehrer</strong>
+</a></span>
+<span class='last'>
+<a href="/eltern/"><strong>Für Eltern</strong>
+</a></span>
+<div class='cockpit'>
+<a href="/dashboard/einloggen/"><i class="fa fa-dashboard"></i><strong>Login</strong></a></div>
+
+</div>
+
+</div>
+
+<div class='cms-header-small' style='background-image: url(/assets/cms/small-header-blue-background-58bf139027767c0477066ff87c2d36c4.png);'>
+<h2>Datenschutzerklärung</h2>
+<h1>Ausbildung.de</h1>
+</div>
+</div>
+</div>
+
+<div class='l-centered font-smoothing'>
+<div class='l-content-col'>
+<h2 class='cms-page-content-header sans-serif'>Datenschutzerklärung</h2>
+<div><div class='cms-paragraph-section'>
+<p><strong>Datenschutzhinweis</strong></p>
+<p><strong> </strong></p>
+<p><strong>Stand
+22.01.2016</strong><strong></strong></p>
+<p><strong> </strong></p>
+<p><strong>1.
+Geltungsbereich</strong></p>
+<p>Diese
+Datenschutzerklärung klärt Sie, den Nutzer, über die Art, den Umfang und Zwecke
+der Erhebung und Verwendung personenbezogener Daten durch die verantwortliche Stelle
+
+
+TERRITORY EMBRACE GmbH
+
+, Kortumstr. 16, 44787 Bochum, bei Nutzung dieser Website auf.
+Wir verweisen auf unsere vollständigen Kontaktdaten im Impressum von
+<a href="https://www.ausbildung.de">www.ausbildung.de</a>.</p>
+<p><strong>2.
+Zugriffsdaten/ Server-Logfiles</strong></p><p>TERRITORY EMBRACE
+
+
+erhebt (über ihren Webspace-Provider) automatisch (also nicht über eine Registrierung)
+Daten über jeden Zugriff auf die Website (so genannte Serverlogfiles). Zu den
+Zugriffsdaten gehören:<br>
+Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene
+Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das
+Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse
+und der anfragende Provider. Diese Nutzungsdaten sind notwendig, damit die von
+Ihnen aufgerufene Webseite an Ihren Rechner geschickt und Ihnen angezeigt
+werden kann. Diese Nutzungsdaten werden innerhalb von 7 Tagen nach Aufruf der
+Website gelöscht.<br>
+<br>
+
+
+TERRITORY EMBRACE
+
+ verwendet die Protokolldaten nur in anonymisierter Form für
+statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der
+Optimierung des Angebotes von <a href="https://www.ausbildung.de">www.ausbildung.de</a>. </p>
+
+<p>Wir
+treffen nach dem Stand der Technik Vorkehrungen, um Ihre Daten vor Verlust,
+Zerstörung, Verfälschung, Manipulation und unberechtigtem Zugriff zu schützen.
+Soweit Ihre Daten bei uns erhoben und erfasst werden, erfolgt deren Speicherung
+auf besonders geschützten Servern. Diese sind durch technische und
+organisatorische Maßnahmen gegen Verlust, Zerstörung, Zugriff, Veränderung oder
+Verbreitung Ihrer Daten durch unbefugte Personen geschützt. Der Zugriff auf Ihre
+Daten ist nur wenigen, befugten Personen möglich. Diese sind für die
+technische, kaufmännische oder redaktionelle Betreuung der Server zuständig.
+Alle unsere Mitarbeiter sind zur Vertraulichkeit verpflichtet. Für den
+technischen Betrieb (Hosting) der Website haben wir einen Dienstleister
+beauftragt. Dieser führt die Datenverarbeitung in unserem Auftrag durch. Die
+Erhebung, Verarbeitung und Nutzung Ihrer Daten durch den Dienstleister erfolgt
+ausschließlich im Rahmen unserer Weisungen. Auch für ihn gelten die Aussagen
+dieser Datenschutzerklärung in gleicher Weise. </p>
+
+<p><strong>3.
+Umgang mit personenbezogenen Daten</strong></p>
+<p>Personenbezogene
+Daten sind Informationen, mit deren Hilfe eine Person bestimmbar ist, also
+Angaben, die zurück zu einer Person verfolgt werden können. Dazu gehören der
+Name, die Emailadresse oder die Telefonnummer. Aber auch Daten über Vorlieben,
+Hobbies, Mitgliedschaften oder welche Webseiten von jemandem angesehen wurden
+zählen zu personenbezogenen Daten.<br>
+<br>
+Personenbezogene Daten werden von 
+
+TERRITORY EMBRACE
+
+ nur dann erhoben, genutzt und weiter
+gegeben, wenn dies gesetzlich erlaubt ist oder die Nutzer in die Datenerhebung
+einwilligen.</p>
+<p>Die Daten
+registrierter Nutzer mit eigenem Account werden durch uns und beauftragte
+Dienstleister verwendet, soweit dies für Ihre Inanspruchnahme und Nutzung des
+Angebots „Ausbildung.de“ (nachfolgend: unser Angebot) von 
+
+TERRITORY EMBRACE
+
+ auf <a href="https://www.ausbildung.de">www.ausbildung.de</a> und anderen damit verbundenen Websites,
+bei denen wir laut Impressum Inhaber sind, sowie auf deren Subdomains ), gemäß
+der bei Registrierung oder später gesondert akzeptierten Nutzungsbedingungen erforderlich
+ist.</p>
+<p>Bei der
+Kontaktaufnahme mit 
+
+TERRITORY EMBRACE
+
+ (zum Beispiel per Kontaktformular oder E-Mail) werden
+die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass
+Anschlussfragen entstehen, gespeichert.</p>
+<p>Wenn
+Nutzer Kommentare im Blog oder sonstige Beiträge hinterlassen, werden ihre
+IP-Adressen gespeichert. Das erfolgt zur Sicherheit der 
+
+TERRITORY EMBRACE, falls jemand
+in Kommentaren und Beiträgen widerrechtliche Inhalte schreibt (Beleidigungen,
+verbotene politische Propaganda, etc.). In diesem Fall kann 
+
+TERRITORY EMBRACE
+
+ selbst
+für den Kommentar oder Beitrag belangt werden und ist daher an der Identität
+des Verfassers interessiert. </p>
+
+<p><b>4. Registrierung
+mit Facebook Connect</b></p>
+<p>Der
+Nutzer kann sich bei <a href="https://www.ausbildung.de">www.ausbildung.de</a> auch mit seinem Facebook-Profil
+registrieren und einen Account anlegen. Folgende Daten werden dann von Facebook
+übertragen: Vorname und Nachname, E-Mail-Adresse, Alter (in Jahren), Geschlecht
+und Profilbild. Im Gegenzug wird Facebook mitgeteilt, dass der Nutzer sich als
+Nutzer von <a href="https://www.ausbildung.de">www.ausbildung.de</a> registriert hat. Weitere Daten des Nutzers werden
+nicht durch 
+
+TERRITORY EMBRACE
+
+ an Facebook übermittelt. Natürlich kann der Nutzer die
+Verknüpfung auch wieder rückgängig machen. Dazu muss er 
+
+TERRITORY EMBRACE
+
+ bei seinem
+Anbieter (Facebook) einfach die entsprechenden Zugriffsrechte für das Verfahren
+der „umgehenden Personalisierung“ entziehen. Näheres hierzu und zur Anmeldung
+auf einer anderen Webseite mittels Facebook erfährt man bei Facebook unter: <a href="https://www.facebook.com/full_data_use_policy#loggingin">https://www.facebook.com/full_data_use_policy#loggingin</a> </p>
+
+<p><strong>5.
+Newsletter</strong></p>
+<p>Mit dem
+Newsletter informieren wir Sie über uns und unsere Angebote.<br>
+<br>
+Wenn Sie den Newsletter empfangen möchten, benötigen wir von Ihnen eine valide
+Email-Adresse sowie Informationen, die uns die Überprüfung gestatten, dass Sie
+der Inhaber der angegebenen Email-Adresse sind bzw. deren Inhaber mit dem
+Empfang des Newsletters einverstanden ist. Weitere Daten werden nicht erhoben.
+Diese Daten werden nur für den Versand der Newsletter verwendet und werden
+nicht an Dritte weiter gegeben.<br>
+<br>
+Mit der Anmeldung zum Newsletter speichern wir Ihre IP-Adresse und das Datum
+der Anmeldung. Diese Speicherung dient alleine dem Nachweis im Fall, dass ein
+Dritter eine Emailadresse missbraucht und sich ohne Wissen des Berechtigten für
+den Newsletterempfang anmeldet.<br>
+<br>
+Ihre Einwilligung zur Speicherung der Daten, der Email-Adresse sowie deren
+Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen. Der
+Widerruf kann über einen Link in den Newslettern selbst, in Ihrem Profilbereich
+oder per Mitteilung an die oben stehenden Kontaktmöglichkeiten erfolgen. </p>
+
+<p><strong>6.
+Einbindung von Diensten und Inhalten Dritter</strong></p>
+<p>Es kann
+vorkommen, dass innerhalb dieses Onlineangebotes Inhalte Dritter, wie zum
+Beispiel Videos von YouTube, Kartenmaterial von Google-Maps, RSS-Feeds oder
+Grafiken von anderen Webseiten eingebunden werden. Dies setzt immer voraus,
+dass die Anbieter dieser Inhalte (nachfolgend bezeichnet als
+"Dritt-Anbieter") die IP-Adresse der Nutzer wahr nehmen. Denn ohne
+die IP-Adresse, könnten sie die Inhalte nicht an den Browser des jeweiligen
+Nutzers senden. Die IP-Adresse ist damit für die Darstellung dieser Inhalte
+erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige
+Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden.
+Jedoch haben wir keinen Einfluss darauf, falls die Dritt-Anbieter die
+IP-Adresse z.B. für statistische Zwecke speichern. Soweit dies uns bekannt ist,
+klären wir die Nutzer darüber auf.<br></p>
+<p><strong>7.
+Cookies</strong></p>
+<p>Um
+den Besuch auf unserer Website attraktiv zu gestalten und dem Nutzer die
+Nutzung bestimmter Funktionen zu ermöglichen, verwenden wir auf verschiedenen
+Seiten sogenannte Cookies. Hierbei handelt es sich um kleine Textdateien, die
+auf Ihrem Endgerät abgelegt werden. Einige der von uns verwendeten Cookies
+werden nach dem Ende der Browser-Sitzung, also nach Schließen deines Browsers,
+wieder gelöscht (sog. Sitzungs-Cookies).</p>
+<p>Andere
+Cookies verbleiben auf Ihrem Endgerät und ermöglichen es, Ihren Browser beim
+nächsten Besuch wiederzuerkennen (persistente Cookies). Cookies, die zur
+Erbringung unseres Dienstes nicht technisch erforderlich sind, werden nur mit Ihrem
+Einverständnis gesetzt, welches Sie jederzeit widerrufen können. Sie können uns
+Ihr Einverständnis durch die Einstellung Ihres Browsers mitteilen, indem Sie
+bestimmen, dass Sie über das Setzen von Cookies informiert werden wollen und
+deren Annahme erst erfolgt, wenn Sie dies ausdrücklich bestätigen. Sie können
+so auch festlegen, dass Sie die Annahme von Cookies für bestimmte Fälle oder
+generell ausschließen. Persistente Cookies werden ausschließlich im
+Zusammenhang mit den von 
+
+TERRITORY EMBRACE
+
+ eingesetzten Webanalysediensten verwendet
+und nur solange genutzt, wie es der Zweck erfordert; sie haben eine Lebensdauer
+von maximal zwei Jahren. Sie können die Cookies über die Datenschutzfunktionen
+ihres Browsers jederzeit von der Festplatte ihres Rechners löschen. In diesem
+Fall, könnten die Funktionen und die Benutzerfreundlichkeit des Angebots
+eingeschränkt werden.<br>
+</p>
+<p><strong>8.
+Google Analytics</strong></p>
+<p>Diese Website benutzt Google Analytics,
+einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet
+sog. „Cookies“, Textdateien, die auf Computer der Nutzer gespeichert werden und
+die eine Analyse der Benutzung der Website durch sie ermöglichen. Die durch den
+Cookie erzeugten Informationen über Benutzung dieser Website durch die Nutzer
+werden in der Regel an einen Server von Google in den USA übertragen und dort
+gespeichert.<br>
+<br>
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird die IP-Adresse
+der Nutzer von Google jedoch innerhalb von Mitgliedstaaten der Europäischen
+Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse
+an einen Server von Google in den USA übertragen und dort gekürzt. Die
+IP-Anonymisierung ist auf dieser Website aktiv. Im Auftrag des Betreibers
+dieser Website wird Google diese Informationen benutzen, um die Nutzung der
+Website durch die Nutzer auszuwerten, um Reports über die Websiteaktivitäten
+zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung
+verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen.<br>
+<br>
+Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse
+wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die
+Speicherung der Cookies durch eine entsprechende Einstellung Ihrer
+Browser-Software verhindern; Dieses Angebot weist die Nutzer jedoch darauf hin,
+dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser
+Website vollumfänglich werden nutzen können. Die Nutzer können darüber hinaus
+die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung der Website
+bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung
+dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link
+verfügbare Browser-Plugin herunterladen und installieren:<a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>.<br>
+<br>
+</p>
+<p>Diese Website verwendet Google
+Analytics mit der Erweiterung „_anonymizeIp()“. Dadurch werden IP-Adressen
+gekürzt weiterverarbeitet, eine direkte Personenbeziehbarkeit kann damit
+ausgeschlossen werden.  </p>
+
+<p>Die Nutzung von Google Analytics erfolgt
+in Übereinstimmung mit den Voraussetzungen, auf die sich die deutschen
+Datenschutzbehörden mit Google verständigten. Informationen des Drittanbieters:
+Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4,
+Ireland, Fax: +353 (1) 436 1001. Nutzerbedingungen: <a href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a>, Übersicht zum Datenschutz: <a href="http://www.google.com/intl/de/analytics/learn/privacy.html">http://www.google.com/intl/de/analytics/learn/privacy.html</a>, sowie die Datenschutzerklärung: <a href="http://www.google.de/intl/de/policies/privacy">http://www.google.de/intl/de/policies/privacy</a>. </p>
+
+<p><strong>9.
+Einsatz von Social Media Plugins</strong></p>
+<p>(1) Wir setzen derzeit folgende Social-Media-Plug-ins
+ein: Facebook, Google+, Twitter. Wir setzen dabei die sog. 2-Klick-Lösung ein.
+Das heißt, wenn Sie unsere Seite besuchen, werden zunächst grundsätzlich keine
+personenbezogenen Daten an die Anbieter dieser Plug-ins weitergegeben. Den Anbieter
+des Plug-ins erkennen Sie über die Markierung auf dem ausgegrauten Kasten
+anhand des Anfangsbuchstabens. Nur wenn Sie auf einen der Plug-ins klicken,
+werden personenbeziehbare Daten übermittelt: Durch die Aktivierung des Plug-ins
+werden Daten automatisiert an den jeweiligen Plug-in-Anbieter übermittelt und
+dort (bei US-amerikanischen Anbietern in den USA) gespeichert. Wir haben weder
+Einfluss auf die erhobenen Daten und Datenverarbeitungsvorgänge, noch sind uns
+der volle Umfang der Datenerhebung, die Zwecke sowie die Speicherfristen
+bekannt. Da der Plug-in-Anbieter die Datenerhebung insbesondere über Cookies
+vornimmt, empfehlen wir Ihnen, vor dem Klick auf den ausgegrauten Kasten über
+die Sicherheitseinstellungen Ihres Browsers alle Cookies zu löschen. </p>
+<p>(2) Wenn Sie ein Plug-in aktivieren, erhält der
+Plug-in-Anbieter die Information, dass Sie die entsprechende Unterseite unser Website
+aufgerufen haben. Zudem werden die unter Ziffer 2. dieser Erklärung genannten
+Daten übermittelt, wobei im Fall von Facebook nach Angaben der jeweiligen
+Anbieter in Deutschland nur eine anonymisierte IP erhoben wird. Dies erfolgt
+unabhängig davon, ob Sie ein Konto bei diesem Plug-in-Anbieter besitzen und
+dort eingeloggt sind. Wenn Sie bei dem Plug-in-Anbieter eingeloggt sind, werden
+diese Daten direkt Ihrem Konto zugeordnet. Wenn Sie den aktivierten Button
+betätigen und z. B. die Seite verlinken, speichert der Plug-in-Anbieter auch
+diese Information in Ihrem Nutzerkonto und teilt dies Ihren Kontakten
+öffentlich mit. Wenn Sie die Zuordnung mit Ihrem Profil bei dem
+Plug-in-Anbieter nicht wünschen, müssen Sie sich vor Aktivierung des Buttons
+ausloggen. </p>
+<p>(3) Der Plug-in-Anbieter speichert diese Daten als
+Nutzungsprofile und nutzt diese für Zwecke der Werbung, Marktforschung und/oder
+bedarfsgerechten Gestaltung seiner Website. Eine solche Auswertung erfolgt
+insbesondere (auch für nicht eingeloggte Nutzer) zur Darstellung von
+bedarfsgerechter Werbung und um andere Nutzer des sozialen Netzwerks über Ihre
+Aktivitäten auf unserer Website zu informieren. Ihnen steht ein
+Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile, wobei Sie sich zur
+Ausübung dessen an den jeweiligen Plug-in-Anbieter wenden müssen. </p>
+<p>(4) Weitere Informationen zu Zweck und Umfang der
+Datenerhebung und ihrer Verarbeitung durch den Plug-in-Anbieter erhalten Sie in
+den im Folgenden mitgeteilten Datenschutzerklärungen dieser Anbieter. Dort
+erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und
+Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre. </p>
+<p>(5) Adressen der jeweiligen Anbieter und URL mit
+deren Datenschutzhinweisen:6
+</p>
+<p>·      
+a) Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA;
+<a href="http://www.facebook.com/policy.php">http://www.facebook.com/policy.php</a>; weitere Informationen zur Datenerhebung:
+<a href="http://www.facebook.com/help/186325668085084">http://www.facebook.com/help/186325668085084</a>,
+<a href="http://www.facebook.com/about/privacy/your-info-on-other">http://www.facebook.com/about/privacy/your-info-on-other</a> applications sowie
+<a href="http://www.facebook.com/about/privacy/your-info">http://www.facebook.com/about/privacy/your-info</a> everyoneinfo. </p>
+<p>·      
+b) Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043,
+USA; <a href="https://www.google.com/policies/privacy/partners/?hl=de">https://www.google.com/policies/privacy/partners/?hl=de</a>. </p>
+<p>·      
+c) Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California
+94103, USA; <a href="https://twitter.com/privacy">https://twitter.com/privacy</a>. </p>
+
+<p><b>10. Auswertung
+des Surfverhaltens mit Overheat</b></p>
+<p>Diese
+Website nutzt overheat.de, ein Webanalyse-Tool der Firma »Overheat UG« mit dem
+Sitz in Haus Alsbach 2, 51766 Engelskirchen, Deutschland. Es werden damit
+Interaktionen von zufällig ausgewählten, einzelnen Besuchern mit der
+Internetseite anonymisiert aufgezeichnet. So entsteht ein Protokoll von z.B.
+Mausbewegungen und -Klicks mit dem Ziel, Verbesserungsmöglichkeiten der
+jeweiligen Internetseite aufzuzeigen. Außerdem werden Informationen zum
+Betriebssystem, Browser, eingehende und ausgehende Verweise (Links),
+geografische Herkunft, sowie Auflösung und Art des Geräts zu statistischen
+Zwecken ausgewertet. Diese Informationen sind nicht personenbezogen und werden
+von overheat.de nicht an Dritte weitergegeben. Wenn Sie eine Aufzeichnung nicht
+wünschen, können Sie diese auf allen Internetseiten, die overheat einsetzen,
+durch das Setzen des DoNotTrack-Headers in Ihrem Browser deaktivieren.
+Informationen dazu finden Sie auf der folgenden Seite: <a href="http://overheat.de/opt-out.html">http://overheat.de/opt-out.html</a><br></p><p></p><p><b>11. Einsatz der Videobewerbungstechnologie "JobUFO".</b></p><p>Diese Webseite nutzt die Videobewerbungstechnologie "JobUFO" der JobUFO GmbH ("JobUFO"). JobUFO nutzt für die Analyse dabei IP- und Mac-Adressen der User, die allerdings ausschließlich anonymisiert genutzt werden. Ein Rückschluss auf eine Person ist hierdurch nicht möglich. Die durch den Einsatz erfassten Informationen werden lediglich dazu verwendet, die Funktion der direkten Weiterleitung auf vorher ausgewählte Stellenanzeigen auf Seiten von Drittanbietern in die JobUFO-App anzubieten und die Nutzung der App zu analysieren, indem anonymisierte Auswertungen und Grafiken zur Anzahl der Besuche, Anzahl der pro Nutzer aufgerufenen Seiten usw. erstellt werden. Die Analysen werden ausschließlich zu Zwecken der eigenen Marktforschung sowie der Optimierung des Angebotes von JobUFO in Hinsicht auf Bedienbarkeit und Nutzererfahrung genutzt. Durch die Nutzung der JobUFO-App erklären Sie sich mit der Bearbeitung der hierdurch anonymisiert erhobenen Daten in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden. Weitere Informationen finden Sie unter folgendem Link <a href="http://www.jobufo.com/legal/#privacy-policy-app">www.jobufo.com/legal/#privacy-policy-app</a>. Der Datenerhebung und -speicherung kann jederzeit mit Wirkung für die Zukunft per Mail an <a>info@jobufo.com</a> widersprochen werden.<br></p><p></p>
+<p><strong>12.
+Widerruf, Änderungen, Berichtigungen und Aktualisierungen</strong></p>
+<p>Alle Informationswünsche, Auskunftsanfragen oder
+Widerrufe der Einwilligung zur Datenverarbeitung richten Sie bitte an unsere im <a href="https://www.ausbildung.de/impressum/">Impressum</a>
+genannten Kontaktdaten oder verwenden Sie unser Kontaktformular.</p>
+<p>Der
+Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die
+personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der
+Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung
+seiner personenbezogenen Daten, soweit dem keine gesetzliche
+Aufbewahrungspflicht entgegensteht.</p>
+<p>Die vom Nutzer
+auf unserem Internetauftritt eventuell erteilten Einwilligungen (beispielsweise
+bei Registrierung für <a href="https://www.ausbildung.de">www.ausbildung.de</a>) hat 
+
+TERRITORY EMBRACE
+
+jeweils protokolliert
+und gespeichert. Der Nutzer kann den Inhalt jeder dieser Einwilligungen
+jederzeit bei 
+
+TERRITORY EMBRACE
+
+ abfragen. Erteilte Einwilligungen können jederzeit mit
+Wirkung für die Zukunft widerrufen und die Teilnahme an <a href="https://www.ausbildung.de">www.ausbildung.de</a> nach
+den Nutzungsbedingungen jederzeit beendet werden.</p>
+<p>
+
+TERRITORY EMBRACE
+
+
+wird diese Datenschutzerklärung stets aktuell halten, um sie an die Website
+inhaltlich betreffende sowie allgemein an rechtliche Veränderungen anzupassen. Registrierte
+Nutzer werden über Änderungen rechtzeitig informiert. <br></p><br>
+</div>
+</div>
+</div>
+<div class='l-sidebar-col'>
+<div class='cms-sidebar-navi-box'>
+<div class='cms-sidebar-navi-box-top'></div>
+<div class='cms-sidebar-navi-box-content'>
+<ul><li class="active"><a href="/datenschutz/">Datenschutz</a></li></ul>
+</div>
+<div class='cms-sidebar-navi-box-bottom'></div>
+</div>
+
+</div>
+</div>
+
+
+
+<div class='main-footer nav-footer-background'>
+<div class='l-centered'>
+<div class='page-footer'>
+<div class='row'>
+<div class='footer-col'>
+<ul>
+<li>
+<strong>Ausbildung.de</strong>
+</li>
+<li><a class="is-highlighted" href="/team/">Über uns</a></li>
+<li><a href="/kontakt/">Kontakt</a></li>
+<li><a href="/karriere/">Karriere</a></li>
+<li><a href="//m.ausbildung.de:443/datenschutz/?request_variant=mobile">Mobile Version</a></li>
+</ul>
+</div>
+<div class='footer-col'>
+<ul>
+<li>
+<strong>Für Unternehmen</strong>
+</li>
+<li><a class="is-highlighted" href="/dashboard/unternehmen/sign_up/">Kostenlos inserieren</a></li>
+<li><a href="/dashboard/einloggen/">Login</a></li>
+<li><a href="/unternehmen/partner/">Alle Partnerunternehmen</a></li>
+</ul>
+</div>
+<div class='footer-col'>
+<ul>
+<li>
+<strong>Sonstiges</strong>
+</li>
+<li><a href="/impressum/">Impressum</a></li>
+<li><a href="/agb/">AGB</a></li>
+<li><a href="/datenschutz/">Datenschutz</a></li>
+<li><a href="/nutzungsbedingungen/">Nutzungsbedingungen</a></li>
+</ul>
+</div>
+<div class='footer-col'>
+<ul>
+<li>
+<strong>Du findest uns auch bei</strong>
+</li>
+<li class='twitter'><a target="_blank" href="https://twitter.com/ausbildung_de">Twitter</a></li>
+<li class='facebook'><a target="_blank" href="https://www.facebook.com/Ausbildung">Facebook</a></li>
+<li class='google-plus'><a target="_blank" href="https://plus.google.com/108132702136115634450/posts">Google+</a></li>
+<li class='vimeo'><a target="_blank" href="http://vimeo.com/ausbildung">Vimeo</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='footer-portal'>
+<div class='l-centered'>
+<span class='l-box-50'>
+<span>
+Ein Portal von
+</span>
+<img src="/assets/embrace-0bf22d606bb6ca43101dc972e44e9680.png" alt="Embrace" />
+</span>
+<span class='l-box-50'>
+<ul>
+<li class='footer-logo karista'></li>
+<li class='footer-logo ausbildung'></li>
+<li class='footer-logo meinpraktikum'></li>
+<li class='footer-logo careerloft'></li>
+<li class='footer-logo trainee'></li>
+<li class='footer-logo meineuni'></li>
+<li class='footer-logo blicksta'></li>
+</ul>
+</span>
+</div>
+</div>
+</div>
+
+<script src="/assets/application-3bf99e2ebe03b8c34d5f6826a92c2a40.js"></script>
+
+<div class='is-hidden' id='flashdata'>
+</div>
+
+<script>
+//<![CDATA[
+var _gaq = _gaq || [];
+_gaq.push(["_setAccount","UA-35403534-1"],
+  ["kpi._setAccount","UA-35403534-2"],
+  ["_gat._anonymizeIp"],
+  ["_trackPageview"]);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+
+//]]>
+</script>
+
+<script>
+    window.fbAsyncInit = function() {
+      // init the FB JS SDK
+      FB.init({
+        appId      : 630593453624090,
+        status     : true,
+        cookie     : true
+      });
+    };
+
+    (function(d, debug){
+       var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+       if (d.getElementById(id)) {return;}
+       js = d.createElement('script'); js.id = id; js.async = true;
+       js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+       ref.parentNode.insertBefore(js, ref);
+     }(document, false));
+
+    // facebook analytics
+    (function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+      }
+    })();
+</script>
+
+<img height="1" width="1" style="display:none;border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/956434118/?value=0&amp;guid=ON&amp;script=0"/>
+
+</body>
+</html>

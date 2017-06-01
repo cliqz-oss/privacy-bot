@@ -1,0 +1,585 @@
+  * Startseite 
+
+  * Bereits Mitglied?   Jetzt kostenlos registrieren  Login 
+
+Damit KWICK! einwandfrei funktioniert, muss in Deinem Browser JavaScript
+aktiviert sein.
+
+JavaScript ist ausgeschaltet
+
+  1. ##### Willkommen bei KWICK!
+
+Wir freuen uns, dass Du ein Teil der Community geworden bist. Nimm Dir ein
+paar Minuten Zeit um zu erfahren wie KWICK! funktioniert!
+
+Du möchtest lieber alleine auf Entdeckungsreise gehen? Ok! Über die
+Seitennavigation kannst Du die Tour jederzeit erneut starten, falls Du es Dir
+anders überlegst.
+
+  2. ##### Logo
+
+Ein Klick auf das KWICK!-Logo bringt Dich wieder auf die Startseite. Außerdem
+öffnet sich ein Menü mit vielen nützlichen Links wenn Du mit der Maus darüber
+fährst.
+
+  3. ##### Ereignisse
+
+Sämtliche Neuigkeiten, Freundschaftsanfragen und Messages findest Du oben
+rechts in der Navigation.
+
+  4. ##### Einstellungsmöglichkeiten
+
+Einfach mit der Maus über einen Beitrag fahren und schon erscheint das
+Zahnrad. Dort findest Du alle Einstellungen zu Deinen Neuigkeiten.
+
+  5. ##### Supermodul
+
+Das Supermodul fasst unterschiedliche Inhalte auf kleinstem Raum zusammen.
+Viel Spaß beim Erkunden!
+
+##### Die KWICK! Community DSE \- Stand: 15.11.2011
+
+# Datenschutz-Erklärung
+
+Datenschutz-Erklärung für das Online-Angebot von www.kwick.de (nachfolgend
+KWICK!)
+
+Diese Datenschutz-Erklärung dient der Information darüber, welche Art von
+Daten von KWICK! erhoben, gespeichert und verarbeitet werden und wie KWICK!
+den Schutz und die Sicherheit der personenbezogenen Daten gewährleistet.
+
+KWICK! ist ein soziales Online-Netzwerk („General Interest Network
+Community"), das auf dem Prinzip basiert, dass die Mitglieder (nachfolgend
+auch: Nutzer) anderen Mitgliedern oder auch nicht registrierten Nutzern in
+persönlich frei bestimmtem Umfang Informationen über sich mitteilen, die auch
+zutreffen. Nur so kann ein Netzwerk wie KWICK! sinnvoll funktionieren.
+
+Die bei der Registrierung und Nutzung unserer Dienste erfassten, in dieser
+Erklärung im Einzelnen beschriebenen Daten helfen, den Nutzern die
+verschiedenen Dienste von KWICK! bereitzustellen. Die von den Mitgliedern bei
+KWICK! gemachten Angaben und Informationen sowie upgeloadeten Texte, Bilder
+oder Filme (nachfolgend zusammenfassend: Daten) in Profilen oder Beiträgen (z.
+B. in Foren oder Gästebüchern) können mit Ausnahme bestimmter persönlicher
+Daten - je nach den Einstellung zur Privatsphäre - auf KWICK! frei von Dritten
+eingesehen und auch von Suchmaschinen indiziert werden. Da ein absolut
+vollständiger Schutz von Daten im Internet gegen unbefugte Zugriffe von
+Dritten (Hacker) nach dem derzeitigen Stand der Technik trotz des seitens
+KWICK! durch ständig aktualisierte Firewalls und weitere Schutzvorrichtungen
+gewährleisteten höchstmöglichen Sicherheitsstandards nicht möglich ist, kann
+ein Missbrauch durch Dritte nicht gänzlich ausgeschlossen werden. Dessen
+sollte sich jeder Nutzer immer bewusst sein.
+
+##### Hinweis für Minderjährige
+
+Wenn Du jünger als zwölf (12) Jahre alt bist, darfst Du Dich keinesfalls bei
+KWICK! anmelden. Aber auch wenn Du Dir über die Konsequenzen der
+Veröffentlichung Deiner persönlichen Daten im Internet nicht in vollem Umfang
+im Klaren bist, darfst Du Dich nicht bei KWICK! anmelden. Denn die
+Veröffentlichung Deiner persönlichen Daten im Internet bedarf Deiner
+vorherigen Einwilligung. Um diese Einwilligung selbständig erklären zu können,
+musst Du über eine gewisse Einsichtsfähigkeit und persönliche Reife verfügen.
+Du musst also in der Lage sein, die Bedeutung und Tragweite der Einwilligung
+in die Datenverarbeitung zu beurteilen.
+
+Der Begriff der "Datenverarbeitung" beinhaltet dabei das Erheben, Speichern,
+Verändern, Übermitteln, Sperren, Löschen und Nutzen Deiner persönlichen Daten,
+insbesondere auch die Veröffentlichung Deiner persönlichen Daten im Internet.
+Persönliche Daten sind alle Angaben über deine persönlichen Verhältnisse (z.
+B. Name, Alter, Wohnort, Bilder, etc.).
+
+Die für die Einwilligungserklärung erforderliche Einsichtsfähigkeit hast Du
+nicht, wenn Du noch nicht zwölf (12) Jahre alt bist, oder wenn Du die Folgen
+der Datenverarbeitung nicht in vollem Umfang einschätzen kannst.
+
+Bitte lies Dir daher diese Nutzungsbedingungen und die Datenschutz-Erklärung
+sorgfältig durch. Solltest Du Zweifel haben, ob Du die Nutzungsbedingungen und
+die Bedeutung und Tragweite der Einwilligung in die Datenverarbeitung
+vollständig erfassen kannst, solltest Du Deine Eltern oder
+Erziehungsberechtigten bitten, Dir den Inhalt der Nutzungsbedingungen und der
+Datenschutz-Erklärung im einzelnen zu erklären. Außerdem solltest Du sie
+fragen, ob sie mit Deiner Registrierung bei KWICK! einverstanden sind. Dies
+solltest Du ohnehin immer tun, solange Du minderjährig bist.
+
+  
+
+### 1\. Notwendige Angaben bei der Anmeldung (Pflichtangaben)
+
+1.1 Bei der Registrierung müssen die Nutzer folgende Mindestangaben über sich
+machen:
+
+  * Username
+  * Geschlecht
+  * Geburtsdatum
+  * Wohnort, Postleitzahl, Land
+  * E-Mail-Adresse und E-Mail-Wiederholung
+  * Passwort und Passwort-Wiederholung
+
+1.2 Dritte können von diesen zwingend bei der Registrierung angegebenen Daten
+nur folgende Angaben im "Profil" des Nutzers sehen:
+
+  * Username
+  * Geschlecht
+  * Alter (ergibt sich aus Geburtsdatum)
+  * Wohnort
+
+1.3 Ob Dritte Name, Vorname (Realnamen) und Dein genaues Geburtsdatum sehen
+können, hängt von den Einstellungen zur Privatsphäre (Ziff. 3.) ab. Die
+weiteren Pflichtangaben E-Mail-Adresse und Passwort bleiben selbstverständlich
+vertraulich, werden verschlüsselt abgelegt und dienen vorrangig der Verwaltung
+des Mitglied-Accounts durch KWICK!. Diese Daten sind für Dritte nicht
+einsehbar.
+
+  
+
+### 2\. Freiwillige Angaben
+
+2.1 Neben den Pflichtangaben kann jedes registrierte Mitglied in seinem Profil
+selbständig und nach eigenem freiem Ermessen zahlreiche freiwillige Angaben zu
+seiner Person machen, ein eigenes Profilbild hochladen und vieles mehr. Diese
+freiwilligen Angaben sind zur Nutzung von KWICK! zwar nicht erforderlich,
+erhöhen aber in jedem Falle die Attraktivität des eigenen Profils und damit
+die Chance, mit anderen Nutzern in Kontakt zu kommen. Jeder Nutzer entscheidet
+völlig frei darüber, welche zusätzlichen persönlichen Daten er über sich
+preisgeben und anderen Nutzern zugänglich möchte und welche nicht.
+
+2.2 Zu den freiwilligen Angaben, die das Mitglied ins Profil einstellen kann,
+zählen z. B.:
+
+  * Firma und Logo
+  * Familienstand
+  * Kinder
+  * Nationalität
+  * Raucher
+  * Bildung
+  * Beruf
+  * Lieblingsmusik
+  * Tätigkeit
+  * besuchte Schulen, etc.
+
+2.3 Ferner kann jedes Mitglied ausführliche freie Beschreibungen zu seiner
+Person und Vorlieben oder Abneigungen aller Art kundtun, einzelne Fotos
+hochladen oder auch ganze Fotoalben anlegen, Filme hochladen, einen Blog als
+eigenes Online-Tagebuch anlegen und aktuell halten, usw.
+
+### 3\. Einstellungen zur Privatsphäre (optional)
+
+3.1 Jedes Mitglied kann in den Einstellungen zur Privatsphäre den Zugriff auf
+seine eigenen Daten frei verwalten. Das Mitglied ist z. B. völlig frei in
+seiner Entscheidung darüber,
+
+  * ob Dritte seinen Namen und Vornamen (Realnamen) sehen dürfen,
+  * ob sein Profil, insbesondere sein Realname (Name und Vorname) über Suchmaschinen gefunden werden soll,
+  * wer welche Art von Inhalten des eigenen Profils sehen darf,
+  * wer bzw. welche Personengruppen Messages oder E-Mails schreiben darf,
+  * wer in das eigene Gästebuch schreiben oder Bilder darin verlinken darf,
+  * wer das eigene Gästebuch lesen darf,
+  * wer Freundschaftsanträge stellen darf,
+  * wer die eigenen Foto- und/oder Bildergalerien sehen darf.
+  * welche Altersgruppe überhaupt das Profil aufrufen darf.
+
+3.2 Bei der Frage, welche Personen einzelne Daten und Angaben sehen dürfen,
+kann das Mitglied jeweils zwischen vier (4) Optionen wählen:
+
+  * Jeder (auch nicht registrierte Nutzer von KWICK! - diese Option beinhaltet nicht die Freigabe des Profils für Suchmaschinen, die nur auf eigenen Wunsch des Mitglieds gesondert erfolgt.
+  * Mitglieder (alle, die bei KWICK! als Mitglied registriert sind)
+  * Freunde (die das Mitglied zuvor auf KWICK! bestätigt hat)
+  * Niemand (wirklich niemand - das ist natürlich langweilig)
+
+3.3 Auch kann das Mitglied die Möglichkeiten der Kontaktaufnahme
+(Gästebucheinträge, Messages, E-Mails und Freundschaftsanträge) und des
+Zugriffs auf Blog und Fotoalben weiter einschränken, indem ein Höchst-
+und/oder Mindestalter der Berechtigten gewählt wird.  
+  
+3.4 Ferner kann das Mitglied die KWICK!-internen Suchmöglichkeiten (in der
+KWICK! Suchfunktion) so modifizieren, dass es nur nach Usernamen oder auch
+nach Namen, Nachnamen und/oder E-Mail-Adresse gefunden wird. Namen, Nachnamen
+und E-Mail-Adresse sind auch im Falle der Freigabe der Suche nach diesen
+Parametern grundsätzlich nicht für Dritte sichtbar; auch Namen und Nachnamen
+nur, wenn das Mitglied seine Realnamen als freiwillige Angabe auf KWICK!
+veröffentlicht hat.  
+  
+3.5 Nicht zuletzt kann jedes Mitglied frei darüber bestimmen, ob Freunde über
+bestimmte nicht allgemein zugängliche Umstände automatisch informiert werden
+sollen, z. B. über Profilbesuche, neue Freunde, etc..
+
+### 4\. Zweckbestimmung
+
+Zweck der Erhebung, Speicherung, Verarbeitung und Nutzung der in den
+vorstehenden Ziffern 1. bis 3. genannten personenbezogenen Daten ist die
+Ermöglichung des Betriebes und der Aufrechterhaltung des Online-Angebots von
+KWICK!.
+
+### 5\. Notwendige Angaben für die Bestellung von Waren
+
+Zur Bestellung von Waren über KWICK! (z. B. T-Shirts oder Handys) muss der
+betreffende Nutzer bestimmte persönliche Daten angeben, die der jeweilige
+Anbieter zur ordnungsgemäßen Abwicklung der Bestellung, Zahlung und Lieferung
+jeweils benötigt (insbesondere Name, Vorname, E-Mail-Adresse, Postanschrift,
+ggf. Angaben zur Zahlungsweise, z. B. Kreditkarte, Kartennummer,
+Kontoverbindung etc.). Diese personenbezogenen Daten werden von dem
+betreffenden Anbieter ausschließlich zum Zwecke der ordnungsgemäßen Abwicklung
+der Bestellung, Zahlung und Lieferung erhoben, gespeichert und verarbeitet;
+sie werden von dem betreffenden Anbieter absolut vertraulich behandelt. Andere
+Nutzer können diese Daten nicht frei einsehen. Für die Erhebung, Speicherung,
+Verarbeitung und Nutzung der im Rahmen von solchen Bestellungen von anderen
+Anbietern erhobenen personenbezogenen Daten sind ausschließlich die
+betreffenden Anbieter zuständig und verantwortlich.
+
+### 6\. Weitergabe von Daten an Dritte
+
+6.1 KWICK! gibt die personenbezogenen Daten der Nutzer grundsätzlich nicht an
+Dritte weiter, es sei denn, der Nutzer hat vorher seine ausdrückliche
+Einwilligung erklärt oder es besteht eine gesetzliche Verpflichtung zur
+Datenweitergabe. Soweit der Nutzer eine Einwilligung erteilt, kann er sie
+jederzeit mit Wirkung für die Zukunft durch einfache Mitteilung in Textform
+(E-Mail, Fax, Brief) widerrufen. Auf das Widerrufsrecht und auf die Adresse,
+an die ein solcher Widerruf zu richten ist, wird der Nutzer bei Erklärung
+einer Einwilligung ausdrücklich hingewiesen.  
+  
+6.2 Soweit KWICK! anlässlich einer Bestellung von Waren über KWICK! gemäß
+obiger Ziffer 5. selbst personenbezogene Daten von Nutzern erhebt, kann KWICK!
+diese Daten zur ordnungsgemäßen Abwicklung der Bestellung, Zahlung und
+Lieferung auch an die am Bestell-, Auslieferungs- und/oder Zahlungsvorgang
+beteiligten Unternehmen (Shop-Betreiber, Lieferanten, Banken) weitergeben.  
+  
+6.3 Aufgrund gesetzlicher Bestimmungen darf und muss KWICK! auf schriftliche
+Anordnung der zuständigen Stellen (insbesondere Strafverfolgungsbehörden) im
+Einzelfall Auskunft über Bestands- und/oder Nutzungsdaten (letzteres
+grundsätzlich nur auf richterliche Anordnung) erteilen, soweit dies für Zwecke
+der Strafverfolgung, zur Gefahrenabwehr durch die Polizeibehörden der Länder,
+zur Erfüllung der gesetzlichen Aufgaben der Verfassungsschutzbehörden des
+Bundes und der Länder, des Bundesnachrichtendienstes oder des Militärischen
+Abschirmdienstes oder zur Durchsetzung der Rechte am geistigen Eigentum
+erforderlich ist.
+
+### 7\. Erstellung von Nutzungsprofilen
+
+7.1 Um das Angebot von KWICK! laufend zu verbessern, z. B. neue Rubriken oder
+Angebote einzurichten, kann KWICK! das Verhalten seiner Nutzer im Netzwerk
+analysieren und zu diesem Zweck anonymisierte Nutzerprofile anlegen. Die
+Auswertung dieser Nutzerprofile erfolgt nicht personenbezogen, d. h. die
+Identität des Nutzers bleibt unbekannt. KWICK! gewährleistet sowohl unter
+technischen als auch unter personellen und organisatorischen Gesichtspunkten,
+dass die anonymisierten Nutzungsprofile mit den persönlichen Daten der Nutzer
+nicht zusammengeführt werden können.  
+  
+7.2 KWICK! kann ferner für Zwecke der Werbung, der Marktforschung oder zur
+bedarfsgerechten Gestaltung der Telemedien pseudonymisierte Nutzungsprofile
+(Username) erstellen. Diese pseudonymisierten Nutzungsprofile können nicht mit
+Daten über den Träger des Pseudonyms zusammengeführt werden. Auch dies
+gewährleistet KWICK! sowohl unter technischen als auch unter personellen und
+organisatorischen Gesichtspunkten. Der Erstellung von pseudonymisierten
+Nutzungsprofilen kann der Nutzer jederzeit mit Wirkung für die Zukunft durch
+Mitteilung in Textform (Brief, Fax, E-Mail) widersprechen.  
+  
+Der Widerspruch ist zu richten an:  
+
+BRIEF: KWICK! Community GmbH &amp; Co. KG, Großheppacherstrasse 62, 71384
+Weinstadt  
+FAX: 07151 - 16 55-100  
+E-MAIL:
+
+### 8\. Werbung
+
+KWICK! schaltet auf seinen Internetseiten Werbung von Dritten, die auch auf
+die mutmaßlichen speziellen Interessen der Nutzer abgestimmt sein kann. Bei
+der Schaltung von derartig „personalisierter" Werbung werden ausschließlich
+irreversibel anonymisierte Daten genutzt. Die zu diesem Zweck verarbeiteten
+anonymisierten Daten sind nicht (mehr) personenbezogen und erlauben daher
+keinerlei Rückschlüsse auf die Identität der betreffenden Person. KWICK! kann
+derartig anonymisierte Daten an die eigenen Media-Partner übermitteln. Auch in
+diesen Fällen übermittelt KWICK! seinen Partnern keine Informationen, die eine
+Identifikation ermöglichen könnten.
+
+### 9\. Cookies
+
+9.1 Cookies sind kleine Textdateien, die entweder temporär im Arbeitsspeicher
+abgelegt (session cookies) oder permanent auf der Festplatte gespeichert
+werden (permanent cookies). Die lediglich im Arbeitsspeicher abgelegten
+session cookies verfallen beim Schließen des Internet-Browser-Programms
+automatisch. Durch das Setzen von Cookies werden den Nutzern anonymisierte
+User-IDs zugeteilt, aber keinesfalls Programme auf dem Computer des Nutzers
+ausgeführt oder gar Computer-Viren übertragen.
+
+9.2 Jeder Nutzer hat durch die Einstellung seines Internet-Browser-Programms
+die freie Wahl, ob er sich entscheidet, Cookies zu akzeptieren, beim Setzen
+eines Cookies jeweils informiert zu werden oder alle Cookies abzulehnen.
+KWICK! weist jedoch darauf hin, dass die Nutzung des Angebots von KWICK! bei
+einer Ablehnung von Cookies nicht oder nur eingeschränkt möglich ist.
+
+9.3 KWICK! verwendet session cookies zur Authentifizierung des Nutzers während
+einer Sitzung und zum Ausgleich der Belastung der Serverkapazitäten von
+KWICK!. Der Einsatz dieser Cookies dient also der Gewährleistung des
+reibungslosen Betriebs und der Verbesserung der Angebote von KWICK!.
+
+9.4 KWICK! setzt ferner permanent cookies ein, die die letzte auf KWICK!
+besuchte Seite und die jeweilige Region des jeweils genutzten Rechners eines
+Nutzers betreffen. Darüber hinaus setzt KWICK sog. intelligente Cookies (z.B.
+popupcheck) ein, die verhindern, dass sich bestimmte Popups mehrfach innerhalb
+einer Sitzung öffnen. Das erhöht den Komfort beim Surfen auf KWICK!.
+
+9.5 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google
+Inc. („Google“). Google Analytics verwendet sog. "Cookies", Textdateien, die
+auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
+über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an
+einen Server von Google in den USA übertragen und dort gespeichert. Google
+wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um
+Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen
+und um weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen zu erbringen. Auch wird Google diese Informationen
+gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben
+oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird
+in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung
+bringen. Sie können die Installation der Cookies durch eine entsprechende
+Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf
+hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser
+Website vollumfänglich nutzen können. Durch die Nutzung dieser Website
+erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch
+Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten
+Zweck einverstanden.
+
+9.6 Diese Website benutzt Google AdSense, einen Dienst zum Einbinden von
+Werbeanzeigen der Google Inc. ("Google"). Google AdSense verwendet sog.
+"Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine
+Analyse der Benutzung der Website ermöglicht. Google AdSense verwendet auch so
+genannte Web Beacons (unsichtbare Grafiken). Durch diese Web Beacons können
+Informationen wie der Besucherverkehr auf diesen Seiten ausgewertet werden.
+Die durch Cookies und Web Beacons erzeugten Informationen über die Benutzung
+dieser Website (einschließlich Ihrer IP-Adresse) und Auslieferung von
+Werbeformaten werden an einen Server von Google in den USA übertragen und dort
+gespeichert. Diese Informationen können von Google an Vertragspartner von
+Google weiter gegeben werden. Google wird Ihre IP-Adresse jedoch nicht mit
+anderen von Ihnen gespeicherten Daten zusammenführen. Sie können die
+Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser
+Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
+gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich
+nutzen können. Durch die Nutzung dieser Website erklären Sie sich mit der
+Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor
+beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+
+### 10\. Automatisches Login
+
+Soweit ein Mitglied beim Login auf KWICK! aktiv durch Ankreuzen eines
+entsprechenden Feldes die Option „LOGIN SPEICHERN" wählt, speichert der
+Computer des betreffenden Mitglieds dessen Zugangsdaten auf diesem Computer.
+Das Mitglied ist dann automatisch auf KWICK! angemeldet, sobald es KWICK! in
+seinem Browser öffnet. Aus Sicherheitsgründen und um zu vermeiden, dass
+unbefugte Personen Zugriff auf das eigene Profil erhalten, sollte diese Option
+nur gewählt werden, wenn sichergestellt ist, dass niemand anderes Zugang zu
+diesem Computer hat. Diese Funktion sollte daher niemals in Internetcafes oder
+anderen öffentlich zugänglichen Computern wie zum Beispiel in Schulen gewählt
+werden. Auf diese Sicherheitsfragen wird das Mitglied bei Anklicken dieser
+Option nochmals gesondert hingewiesen.
+
+### 11\. Server Log Files („logs")
+
+11.1 Bei jedem Seitenaufruf durch den Nutzer übermittelt dessen Internet-
+Browser Zugriffsdaten, die automatisch in Protokolldateien, den sog. Server
+Log Files, von KWICK! gespeichert werden. Die Protokolldateien enthalten die
+folgenden Informationen: IP-Adresse, durch die der Computer (nicht aber der
+Nutzer) identifiziert werden kann, Remote Host (Name und IP-Adresse des
+Rechners, der die Seite anfordert), Username, Datum, Uhrzeit, aufgerufene
+Internetseite (URL), übertragene Datenmenge und ggf. die URL, von der der
+Nutzer auf die Seite von KWICK! gekommen ist (Referrer) sowie Produkt- und
+Versionsinformationen des verwendeten Browsers (User-Agent). Eine
+Zusammenführung dieser Daten mit anderen Datenquellen, insbesondere mit den
+personenbezogenen Nutzerdaten, nimmt KWICK! grundsätzlich nicht vor.  
+  
+11.2 Bestimmte beim Login anfallende Daten (IP-Adresse, Username, Datum, Login
+erfolgreich oder nicht, Art des Browsers) werden von KWICK! höchstens sieben
+(7) Tage lang gespeichert. Hiermit erklärt sich der Nutzer ausdrücklich
+einverstanden durch akzeptieren dieser Datenschutzerklärung.  
+  
+11.3 Alle weiteren im Laufe einer Sitzung auf KWICK! anfallenden logs
+(insbesondere IP-Adresse, Username, Datum, aufgerufene URL) werden zur
+Gewährleistung der Sicherheit des Netzwerks von KWICK! nur wenige Tage,
+maximal eine Woche lang von KWICK! gespeichert.  
+  
+11.4 KWICK! erstellt zur Sicherung der Datenbestände sog. backups
+(Datensicherung), die jeweils nach ca. vier Wochen überschrieben und damit
+endgültig gelöscht werden. Soweit diese Datensicherungen Protokolldateien
+enthalten, werden auch diese gelöscht. Im Falle der vollständigen Löschung
+eines Nutzerprofils werden die Protokolldateien ebenfalls gelöscht. KWICK!
+benutzt hierfür das standardisierte "combined" Logfile-Format des Apache
+Webservers. KWICK! verwendet die Protokolldaten (Logs) anonymisiert, also ohne
+Zuordnung oder Hinweise auf die Person des Nutzers, für statistische
+Auswertungen. KWICK! kann so z. B. erfahren, an welchen Tagen und zu welchen
+Uhrzeiten die Angebote von KWICK! besonders beliebt sind und wie viel
+Datenvolumen erzeugt wird. Zudem kann KWICK! durch die Log-Dateien mögliche
+Fehler erkennen, z. B. fehlerhafte Links oder Programmfehler, und die Log-
+Dateien damit für die Weiterentwicklung der Websites verwenden. KWICK!
+verknüpft die im Server-Log gespeicherten Seitenabrufe und Nutzungen nicht mit
+einzelnen Personen. KWICK! behält sich jedoch vor, die Log-Dateien
+nachträglich über die letzte bekannte IP-Adresse von solchen Nutzern zu
+überprüfen, bei denen aufgrund bestimmter Tatsachen der Verdacht besteht, dass
+diese die Websites von KWICK! und/oder die Dienste von KWICK! gesetzes- oder
+vertragswidrig nutzen. Dies dient vorrangig dem Schutz der Mitglieder von
+KWICK! und der Sicherheit ihrer personenbezogenen Daten.
+
+### 12\. Datensicherheit
+
+12.1 Die von KWICK! eingesetzten, ständig aktualisierten Firewalls und andere
+Sicherheitssysteme sollen die Nutzer soweit wie möglich vor Viren, Würmen,
+Trojanern, etc. und auch vor illegalen Zugriffen von außen (Hacker) schützen.
+KWICK! wird ein angemessenes Schutzniveau aufrechterhalten und die angewandten
+Sicherheitstechnologien ständig dem aktuellen Stand der technischen
+Entwicklung anpassen. Gleichwohl sollte sich der Nutzer der Tatsache bewusst
+sein, dass aufgrund ständig neu auftauchender Viren, Würmer, Trojaner und
+anderer Mittel zum Angriff auf gesicherte Datensysteme von Internet-Diensten
+ein hundertprozentiger Schutz vor solchen Angriffen nicht gewährleistet werden
+kann.
+
+12.2 Für Virenschutz außerhalb des Netzwerks von KWICK! ist KWICK! nicht
+verantwortlich. Für Beschädigung und Zerstörung von Daten von Nutzern ist
+KWICK! ebenfalls nicht verantwortlich. KWICK! wird jeden entdeckten Angriff
+durch Hacker u. ä. zivilrechtlich und ggf. strafrechtlich verfolgen.
+
+### 13\. Auskunft
+
+Jeder Nutzer hat das Recht, kostenlos Auskunft von KWICK! über die zu seiner
+Person gespeicherten personenbezogenen Daten zu erhalten. Das
+Auskunftsersuchen ist schriftlich zu richten an: KWICK! Community GmbH &amp;
+Co. KG, Großheppacherstrasse 62, 71384 Weinstadt. Zur Vermeidung
+unberechtigter Anfragen ist dem Auskunftsersuchen eine beglaubigte Kopie eines
+amtlichen und gültigen Personalausweises beizufügen. Die Auskunft wird per
+Post an die im Personalausweis des Nutzers angegebene Anschrift gesendet. Bei
+Fragen, Problemen und Anregungen hierzu sind diese Anfragen bitte an  zu
+richten.
+
+### 14\. Berichtigung, Sperrung und Löschung von Daten und Profilen
+
+14.1 Soweit der Nutzer die von ihm gemachten Angaben ändert oder berichtigt
+und dabei alte Einträge löscht, werden diese von ihm vormals eingegebenen
+Daten irreversibel und vollständig gelöscht. Ein Antrag auf Berichtigung oder
+Löschung ist nicht erforderlich. Ungeachtet dessen hat der Nutzer jederzeit
+das Recht, die Berichtigung von unzutreffenden Daten zu verlangen, die über
+ihn bei KWICK! gespeichert sind. Die einfachste Möglichkeit besteht für den
+Nutzer darin, seine Einträge selbst zu ändern.  
+  
+14.2 Soweit der Nutzer sein gesamtes Profil endgültig löscht und damit seine
+Mitgliedschaft bei KWICK! beendet, werden alle von ihm vormals in sein Profil
+eingegebenen Daten automatisch vollständig gelöscht. Ausgenommen von der
+Löschung sind die Dauer der Mitgliedschaft, ggf. der Grund der Beendigung der
+Mitgliedschaft sowie anonymisierte statistische Daten über das bisherige
+Nutzerverhalten. Auch Forumsbeiträge bleiben unter der Bezeichnung "Unbekannt"
+erhalten, da sie Grundlage für eine Diskussion sein könnten. Ungeachtet dessen
+hat der Nutzer jederzeit das Recht, die Löschung von sämtlichen von ihm
+erhobenen personenbezogenen Daten zu verlangen, die über ihn bei KWICK!
+gespeichert sind. Die einfachste Möglichkeit besteht für den Nutzer auch in
+diesem Falle darin, seine Einträge selbst zu löschen.  
+  
+14.3 Der vormalige Username und die dazugehörende E-Mail-Adresse bleiben in
+jedem Falle der Löschung des Profils gespeichert und für eine weitere Nutzung
+bei KWICK! gesperrt, um Missbrauch zu vermeiden. Der Username kann erst nach
+Ablauf von vier (4) Wochen wieder zur Anmeldung bei KWICK! verwendet werden.  
+  
+14.4 Soweit der Nutzer die Änderung, Berichtigung oder Löschung seiner
+personenbezogenen Daten verlangt, kann dies durch Brief, Telefax oder E-Mail
+erfolgen. Das Verlangen ist zu richten an: BRIEF: KWICK! Community GmbH &amp;
+Co. KG, Großheppacherstrasse 62, 71384 Weinstadt; FAX: 07151 - 16 55-100 ;
+E-MAIL: info@kwick.de. Zur Vermeidung unberechtigter Verlangen muss das
+Verlangen mindestens folgende Angaben / Dokumente enthalten:
+
+  * Username
+  * Name
+  * Vorname
+  * E-Mail
+  * Anschrift
+  * Ausweiskopie (gültiger Reispass oder Personalausweis)
+  * bei Minderjährigen ohne gültigen eigenen Ausweis: Kopie von Ausweis und Auszug aus dem Familienbuch der Eltern bzw. Erziehungsberechtigten
+
+14.5 KWICK! weist darauf hin, dass auch gelöschte Daten aufgrund von Caching-
+Systemen und der Zwischenschaltung von Proxy-Servern unter Umständen noch bis
+zu 72 Stunden abrufbar sein können.  
+  
+14.6 Im Falle missbräuchlicher Verwendung der Dienste von KWICK! durch Nutzer
+ist KWICK! berechtigt, einzelne von Nutzern eingestellte Daten und Inhalte
+oder auch das gesamte Profil des verantwortlichen Nutzers zeitweilig zu
+sperren oder vollständig zu löschen. Im Falle einer Sperrung eines Profils ist
+dem betreffenden Nutzer der Zugriff auf sein Profil und alle darunter
+hinterlegten Daten mit Ausnahme der Daten Alter, Geschlecht, Stadt und
+Profilbild verwehrt.
+
+### 15\. Jugendschutz
+
+15.1 KWICK! nimmt den Jugendschutz sehr ernst. Allerdings kann KWICK! das
+tatsächliche Alter eines Mitgliedes nicht überprüfen, so dass sich ein
+Erwachsener als Jugendlicher und ein Jugendlicher als Erwachsener ausgeben
+kann. Neben der aktiven Betreuung der Seite durch ein Team aus einigen hundert
+freiwilligen Team-Mitgliedern gelten daher folgende Regeln und Maßnahmen in
+Bezug auf den Jugendschutz:
+
+  * Die direkte Kontaktaufnahme von als Erwachsenen registrierten Mitgliedern zu Jugendlichen unter 16 Jahren ist nicht möglich. Auch werden Mitglieder unter 16 Jahren in der Mitgliedersuche, dem Online-Verzeichnis und an vielen anderen Stellen für Erwachsene nicht angezeigt bzw. gefunden.
+  * KWICK! arbeitet kooperativ und eng mit Strafverfolgungsbehörden zusammen.
+  * Für Kinder und Jugendliche ungeeignete Werbung und Inhalte im Forum (18+) werden ausgeblendet.
+  * KWICK! kooperiert zur ständigen Verbesserung des Jugendschutzes mit jugendschutz.net.
+
+15.2 Auf der folgenden Seite sind weiterführende Informationen für Eltern,
+Kinder und Jugendliche darüber zu finden, welche Maßnahmen KWICK! getroffen
+hat, um Kinder und Jugendliche im Netzwerk von KWICK! zu schützen.
+
+  * Informationen zum Jugendschutz
+
+15.3 Jugendschutzbeauftragte: Fenni Boermann - E-Mail:
+
+  
+Information zu "Facebook Connect“  
+  
+Facebook Connect (nachfolgend FC) ist ein Angebot der Facebook Ireland
+Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland. Bei der Nutzung
+von FC werden Daten aus dem Facebook-Profil an KWICK! übertragen, um die
+Registrierung / den Login auf KWICK! zu vereinfachen. Es werden jedoch keine
+personenbezogenen Daten von KWICK! an Facebook übertragen. Dies geschieht zu
+keinem Zeitpunkt. Die übertragenen Daten können von KWICK! gespeichert und
+verarbeitet werden. Sie unterliegen dann den strengen Anforderungen des
+deutschen Bundesdatenschutzgesetzes. Die Nutzung von FC unterliegt den
+Datenschutzbedingungen und Nutzungsbedingungen von Facebook. Die Nutzung ist
+freiwillig. Jedes neue Mitglied kann sich direkt über KWICK! registrieren ohne
+davon Gebrauch zu machen. Nach der Registrierung gelten die
+Datenschutzbestimmungen von KWICK!, die jedes Mitglied bei der Anmeldung
+akzeptiert.
+
+### Weitere Links
+
+  * Impressum
+  * Jugendschutz
+  * Wir über uns - die Macher von KWICK!
+
+  *   
+Lade Dir die  
+KWICK! App  
+herunter.
+
+  * Datensicherheit
+
+Deine Daten liegen  
+sicher in unserem  
+eigenen Rechenzentrum.
+
+  * 100% kostenlos
+
+KWICK! kostet nichts.  
+Und das wird auch so  
+bleiben.
+
+  * Info
+
+Hilfe  
+Über uns  
+Karriere
+
+  * Kontakt
+
+AGB  
+Datenschutz  
+Impressum
+
+  * Sonstiges
+
+Deutsch  
+Blog  
+Fußnoten
+
+© KWICK! - Community
+

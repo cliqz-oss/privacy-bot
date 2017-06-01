@@ -1,0 +1,283 @@
+Scout24
+
+Unternehmen
+
+Unternehmensportrait Management Werte Fakten Widerrufsbelehrung (Express-
+Verkauf) Datenschutz AGB
+
+Presse
+
+Pressemitteilungen Studien &amp; AGPI Bildmaterial
+
+Karriere
+
+Offene Stellen Bewerbung Personalentwicklung Ihr Einstieg Fachbereiche
+
+Impressum
+
+Kontakt
+
+Unternehmen › Datenschutz
+
+### Datenschutz
+
+  * Nutzung der Dienste
+  * Personendaten
+  * Cookie
+  * Targeting
+  * Sicherheit
+  * Outsourcing
+  * Widerspruch
+  * Google Analytics
+
+
+
+# Nutzung der Dienste
+
+Die Nutzung der Dienste von AutoScout24 ist auch ohne eine Einwilligung in die
+Nutzung oder Ãbermittlung von personenbezogenen Daten jederzeit mÃ¶glich.
+
+Es wird bei jedem Zugriff eines Nutzers auf eine Webseite aus unserem Angebot
+und bei jedem Abruf einer Datei Zugriffsdaten Ã¼ber diesen Vorgang in einer
+Protokolldatei auf einem Server gespeichert.
+
+Dabei handelt es sich insbesondere um folgende Informationen:
+
+  * Dateiname der Seite oder Datei bzw. von Ihnen im Rahmen von Eingaben Ã¼bergeben Informationen (z.B. Queryparameter in der URL);
+  * Dateiname der Seite, von der aus die aktuelle Seite oder Datei angefordert wurde;
+  * Datum und Uhrzeit der Anforderung;
+  * Ãbertragene Datenmenge;
+  * Zugriffsstatus (Seite Ã¼bertragen, Seite nicht gefunden etc.);
+  * Typ und Betriebssystem des verwendeten Webbrowsers;
+  * IP-Adresse des Clients und ggf. dessen Domainnamen bzw. der Name des Internet-Service-Providers;
+  * Anmeldedaten, Statistiken zu Seitenaufrufen, Verkehrsdaten sowie Werbedaten (jeweils Ã¼ber Cookies â siehe unten unter Cookies).
+
+Diese Daten speichern wir zur Sicherstellung der Systemsicherheit und zur
+Verbesserung unserer Services.
+
+# Personenbezogene Daten
+
+AutoScout24 verarbeitet und nutzt die von ihren Kunden erhobenen
+personenbezogenen Daten ihrer Kunden, soweit dies zur Erbringung der
+Dienstleistung der AutoScout24 gegenÃ¼ber ihren Kunden erforderlich ist.
+AutoScout24 verarbeitet und nutzt personenbezogene Daten ihrer Kunden ferner
+zur Werbung und Marktforschung durch AutoScout24 im Rahmen der gesetzlichen
+Vorschriften.
+
+Personenbezogene Daten sind beispielsweise: Name, Anschrift, E-Mail Adresse
+und alle weiteren Angaben, die der Kunde zu seiner Person macht. Verarbeitung
+ist das Speichern, Ãbermitteln, Sperren und LÃ¶schen von personenbezogenen
+Daten (vgl. Â§ 3 Abs. 4 BDSG).
+
+Es werden im Rahmen der ZurverfÃ¼gungstellung unserer Dienste die folgenden
+personenbezogenen Daten erhoben und gespeichert: Adressdaten (Name und
+Anschrift), E-Mail Adresse sowie Telefonnummer und (je nach verwendetem
+Dienst) auch Kontoinformationen.
+
+Personenbezogene Daten werden auÃerdem verwendet um:
+
+  * die verschiedenen Dienste und NutzungsmÃ¶glichkeiten unserer Services zur VerfÃ¼gung zu stellen;
+  * Marktforschung zu betreiben und Informationen zu Neuigkeiten, Angeboten und Aktionen zu Ã¼bermitteln, sofern dazu eine Einwilligung erteilt wurde;
+  * die Services auf der Website fÃ¼r die Nutzer zu verbessern, das Interesse an den verschiedenen Diensten zu messen,
+  * weitere, jeweils bei der Erhebung der Daten beschriebene Leistungen anzubieten.
+
+Die Ãbermittlung von personenbezogenen Daten an Dritte (Automobilhandel,
+Autohersteller, Banken, Versicherungen, E-Commerce-Anbieter) zur werblichen
+Nutzung erfolgt nach den gesetzlichen Vorschriften oder mit der
+ausdrÃ¼cklichen Einwilligung des Kunden. Die Dauer der Nutzung, Verarbeitung
+und Speicherung der Daten richtet sich nach den gesetzlichen Vorschriften.
+
+# Cookies
+
+Zur Bedienung des Such- und Verkaufsangebots speichert und nutzt AutoScout24
+personenbezogene Daten des Kunden und erstellt bei Zugriffen des Kunden
+Protokolldateien (sog. Cookies). Die meisten verwendeten Cookies werden nach
+Ende des Besuchs der Website automatisch von der Festplatte des Kunden
+gelÃ¶scht (âSession Cookies"). FÃ¼r einige Funktionen (z.B. Merkzettel) wird
+ein permanenter Cookie verwendet. Ein solcher Cookie speichert Informationen
+Ã¼ber das Verhalten eines Kunden auf der Website, um diesen â Ã¼ber den
+Cookie - spÃ¤ter wieder zu erkennen und ihm bereits angesehene Inhalte erneut
+anzeigen zu kÃ¶nnen. Meldet sich ein Kunde bei AutoScout24 an (âLoginâ)
+kÃ¶nnen, die im Cookie enthaltenen Informationen im persÃ¶nlichen Bereich des
+Kunden gespeichert werden.
+
+Es werden auch Cookies dazu verwendet anonymisierte Benutzungsprofile zum
+Surfverhalten der Kunden auf der Website (z.B. welche Automarke wurde gesucht)
+zu erstellen. Zur Optimierung der Website werden dabei stichprobenartig
+einzelne Schritte des Kunden auf der Website aufgezeichnet. Zudem werden
+Cookies zur Auslieferung von Werbung auf den AutoScout24 Webseiten genutzt.
+Mehr zu Nutzungsbasierter Online-Werbung finden hier.
+
+Personenbezogene Daten werden in den Cookies nicht gespeichert. Die meisten
+Webbrowser ermÃ¶glichen es den Kunden von AutoScout24, das Ãbermitteln und
+Speichern von Cookies zu verhindern und zu lÃ¶schen oder die Kunden vor der
+Speicherung der Cookies auf der Festplatte zu warnen. Ist die Annahme der
+Cookies deaktiviert, stehen dem Kunden unter UmstÃ¤nden bestimmte
+FunktionalitÃ¤ten der Website nicht zur VerfÃ¼gung, und einige Webseiten
+werden mÃ¶glicherweise nicht richtig angezeigt.
+
+# Targeting und Reichweitenmessung
+
+AutoScout24 betreibt auf ihrer eigenen Website und auf Webseiten dritter
+Unternehmen Werbung in unterschiedlichen Formen (Banner, Pop Up usw.), um die
+Auswahl der angezeigten Werbung ansprechend und mÃ¶glichst interessengerecht
+zu gestalten, wird fÃ¼r die Werbeschaltungen ein nutzungsbezogenes
+Auswahlverfahren verwendet. Dabei werden Daten mit Nutzungsinformationen
+mittels eines Cookies (âThird Party Cookieâ) auf der Festplatte des Kunden
+gespeichert. Diese Nutzungsprofile werden anonymisiert und in einem
+technischen, statistischen Bewertungsverfahren ausgewertet, um spÃ¤ter bei der
+Einspielung von Werbung eine auf die Interessen des jeweiligen Kunden bezogene
+Auswahl zu ermÃ¶glichen. Dieses Verfahren wird auch Targeting genannt. Das
+Targeting auf unseren Webseiten wird von uns und zum Teil von Drittunternehmen
+betrieben, die auch Werbung fÃ¼r Webseiten anderer Anbieter betreiben. Diese
+Drittunternehmen erstellen dann selbst die genannten Nutzungsprofile mittels
+Cookies und wenden ihre jeweiligen Targeting Systeme an, um die gesammelten
+Daten zum Zweck der nutzergerechten Werbung auszuwÃ¤hlen.
+
+Mehr Informationen zu diesem Thema hier unter Nutzungsbasierte Online-Werbung
+sowie die MÃ¶glichkeit der Nutzung der Daten zu widersprechen:
+http://www.meine-cookies.org/cookies_verwalten/praeferenzmanager-beta.html.
+
+Wir nutzen zur Reichweitenmessung das Verfahren "SZMng" der INFOnline GmbH zur
+Ermittlung statistischer Kennwerte Ã¼ber die Nutzung unserer Angebote. Weitere
+Informationen zum Datenschutz enthÃ¤lt die DatenschutzerklÃ¤rung zum
+Messverfahren der INFOnline GmbH.
+
+Ein opt-out von der Teilnahme an der Messung ist unter folgendem Link
+mÃ¶glich: http://optout.ioam.de.
+
+Wir verwenden auÃerdem ScorecardResearch (ComScore) zur Reichweitenmessung.
+Weitere Informationen darÃ¼ber, wie und welche anonymen Daten
+ScorecardResearch erfasst, finden Sie unter
+http://www.scorecardresearch.com/privacy.aspx. Das opt-out kann hier unter
+http://scorecardresearch.com/preferences.aspx vorgenommen werden.
+
+# Google Analytics
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+(âGoogleâ). Google Analytics verwendet sog. âCookiesâ, Textdateien,
+die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung
+der Website durch Sie ermÃ¶glichen. Die durch das Cookie erzeugten
+Informationen Ã¼ber Ihre Benutzung dieser Website werden in der Regel an einen
+Server von Google in den USA Ã¼bertragen und dort gespeichert. Im Falle der
+Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von
+Google jedoch innerhalb von Mitgliedstaaten der EuropÃ¤ischen Union oder in
+anderen Vertragsstaaten des Abkommens Ã¼ber den EuropÃ¤ischen Wirtschaftsraum
+zuvor gekÃ¼rzt. Nur in AusnahmefÃ¤llen wird die volle IP-Adresse an einen
+Server von Google in den USA Ã¼bertragen und dort gekÃ¼rzt. Im Auftrag des
+Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre
+Nutzung der Website auszuwerten, um Reports Ã¼ber die WebsiteaktivitÃ¤ten
+zusammenzustellen und um weitere mit der Websitenutzung und der
+Internetnutzung verbundene Dienstleistungen gegenÃ¼ber dem Websitebetreiber zu
+erbringen. Die im Rahmen von Google Analytics von Ihrem Browser Ã¼bermittelte
+IP-Adresse wird nicht mit anderen Daten von Google zusammengefÃ¼hrt. Sie
+kÃ¶nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer
+Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in
+diesem Fall gegebenenfalls nicht sÃ¤mtliche Funktionen dieser Website
+vollumfÃ¤nglich werden nutzen kÃ¶nnen. Sie kÃ¶nnen darÃ¼ber hinaus die
+Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website
+bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung
+dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link
+(http://tools.google.com/dlpage/gaoptout?hl=de.) verfÃ¼gbare Browser-Plugin
+herunterladen und installieren.
+
+NÃ¤here Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter
+http://www.google.com/analytics/terms/de.html bzw. unter
+https://www.google.de/intl/de/policies/. Wir weisen Sie darauf hin, dass auf
+dieser Website Google Analytics um den Code âgat._anonymizeIp();â
+erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-
+Masking) zu gewÃ¤hrleisten.
+
+# Mouseflow
+
+Diese Website verwendet Mouseflow, ein Webanalyse-Tool der Mouseflow ApS,
+Flaesketorvet 68, 1711 Kopenhagen, DÃ¤nemark, um zufÃ¤llig ausgewÃ¤hlte
+einzelne Besuche (nur mit anonymisierter IP-Adresse) aufzuzeichnen. So ensteht
+ein Protokoll der Mausbewegungen und Klicks mit der Absicht einzelne Website-
+Besuche stichprobenartig abzuspielen und potentielle Verbesserungen fÃ¼r die
+Website daraus abzuleiten. Die Informationen sind nicht personenbezogen und
+werden nicht weitergegeben. Wenn Sie eine Aufzeichnung nicht wÃ¼nschen,
+kÃ¶nnen Sie diese auf allen Websites die Mouseflow einsetzen, unter dem
+folgenden Link deaktivieren: www.mouseflow.de/opt-out/
+
+# Sicherheit
+
+AutoScout24 versendet Mitteilungen, insbesondere die BestÃ¤tigung Ã¼ber die
+Aufnahme der Daten in die AutoScout24-Datenbank und PasswÃ¶rter,
+ausschlieÃlich per unverschlÃ¼sselter E-Mail an den Kunden.
+
+AutoScout24 Ã¼berprÃ¼ft im Rahmen der Nutzung des Kontaktformulars die
+Eingaben des Kunden aus SicherheitsgrÃ¼nden zur Vermeidung von unerwÃ¼nschten
+Massenemails. Die Daten werden nicht an Dritte weitergegeben, AutoScout24
+Ã¼bermittelt die von dem Kunden angegeben Daten (z. B. Name, E-Mail-Adresse
+und/oder Telefonnummer) nur an den Anbieter des Fahrzeugs.
+
+# Outsourcing
+
+Sofern AutoScout24 fÃ¼r bestimmte Aufgaben dritte Unternehmen im Rahmen des
+Outsourcings einsetzt, fungieren diese als Auftragsdatenverarbeiter i.S.d. Â§Â
+11 BDSG. Diese wurden als solche vertraglich von der AutoScout24 dazu
+verpflichtet, die an sie zum Zwecke des Outsourcings Ã¼bermittelten
+personenbezogenen Daten ausschlieÃlich im Rahmen der spezifischen Aufgabe und
+der entsprechenden Weisungen der AutoScout24 zu verarbeiten. Die Speicherung
+findet auf Servern in der Bundesrepublik Deutschland und in Rechenzentren in
+den Vereinigten Staaten statt.
+
+# Widerspruch und Auskunft
+
+Der Kunde kann unbeschadet weitergehender gesetzlicher Rechte automatisiert
+nach Eingabe seines Passworts auf der dafÃ¼r vorgesehenen Webseite oder nach
+schriftlicher oder elektronischer Mitteilung an AutoScout24 (AutoScout24 GmbH,
+Dingolfinger Str. 1-15, 81673 MÃ¼nchen, oder per E-Mail an
+"widerspruch@autoscout24.de") den Bestand und Umfang seiner gespeicherten
+Daten einsehen, verÃ¤ndern sowie die gespeicherten Daten endgÃ¼ltig lÃ¶schen.
+
+Der Kunde kann der Nutzung und Ãbermittlung der Daten zu Werbezwecken und
+Marktforschungszwecken jederzeit mit Wirkung fÃ¼r die Zukunft widersprechen.
+Dazu genÃ¼gt die schriftliche ErklÃ¤rung des Widerrufs des Kunden an die
+AutoScout24 GmbH, Dingolfinger Str. 1-15, 81673 MÃ¼nchen, oder per E-Mail an
+"widerspruch@autoscout24.de" (bitte den Namen, die E-Mail-Adresse und die
+Postadresse mitteilen)."
+
+Stand 19.01.2015
+
+### Kontakt
+
+  * HÃ¤ufige Fragen
+  * Kontaktformular
+
+Sie erreichen uns Montag bis Freitag von  
+8 bis 18 Uhr unter: 089 444 56 1666  
+
+### Weitere Links
+
+  * Verbraucher - AGB
+  * HÃ¤ndler - AGB
+  * Gestaltungsrichtlinien
+
+ajaxlink
+
+
+
+Ãber AutoScout24 | Presse | Impressum | Hilfe | Kontakt | AGB | Datenschutz  
+Nutzungsbasierte Online-Werbung | Kodex | Karriere | Werbung | Autokatalog |
+RegionalÃ¼bersicht | Werkstattportal
+
+AutoScout24.be FR | AutoScout24.be NL | AutoScout24.es | AutoScout24.fr  
+AutoScout24.it | AutoScout24.lu | AutoScout24.nl | AutoScout24.at  
+
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸ | Äesky | English | Hrvatski | Polski | RomÃ¢nÄ | Ð
+ÑÑÑÐºÐ¸Ð¹ | Svenska | TÃ¼rkÃ§e | Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+
+Â© Copyright 2017 by AutoScout24 GmbH. Alle Rechte vorbehalten.
+
+AutoScout24: Europaweit der grÃ¶Ãte Online-Automarkt.
+
+Scout24 ermÃ¶glicht Menschen, ihre TrÃ¤ume von Immobilien & Autos zu
+verwirklichen.
+
+Transparenz und Sicherheit bei Finanzentscheidungen.
+
+Der MarktfÃ¼hrer:  
+Die Nr. 1 rund um Immobilien
+

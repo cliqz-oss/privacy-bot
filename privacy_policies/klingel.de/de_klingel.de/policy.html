@@ -1,0 +1,6228 @@
+<!doctype html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if lt IE 8]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<html class="no-js gt-ie8" lang="de" >
+<!--<![endif]-->
+
+<head>
+	
+
+	<meta charset="utf-8">
+	
+	
+			<meta name="viewport" content="width=device-width" >
+		
+
+	<title>Datenschutz & Datensicherheit | KLiNGEL.de</title>
+	
+
+	<meta name="description" content=" Finden Sie Informationen zum Datenschutz &amp; zur Datensicherheit bei KLiNGEL. Datenerfassung ✔ Rechte des Kunden ✔ Datenübertragung mit SSL ✔ online."/>
+
+
+<meta name="robots" content="index,follow"/>
+
+
+	<meta name="p:domain_verify" content="6677909a1ef410717f8adb3e3511c9c2"/>
+
+
+<link rel="stylesheet" href="/wcsstore/KMOStorefrontAssetStore/css/KlingelRebrush/style.css?201705261134">
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/wcsstore/KMOStorefrontAssetStore/javascript/vendor/custom.modernizr.js?201705261134" ></script>
+<![endif]-->
+
+
+<script type="text/javascript">
+var docCookies = {
+	getItem: function (sKey) {
+		return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+	},
+	setItem: function (sKey, sValue, vEnd, sPath, sDomain, bSecure) {
+		if (!sKey || /^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)) { return false; }
+		var sExpires = "";
+		if (vEnd) {
+			switch (vEnd.constructor) {
+			case Number:
+				sExpires = vEnd === Infinity ? "; expires=Fri, 31 Dec 9999 23:59:59 GMT" : "; max-age=" + vEnd;
+				break;
+			case String:
+				sExpires = "; expires=" + vEnd;
+				break;
+			case Date:
+				sExpires = "; expires=" + vEnd.toUTCString();
+				break;
+			}
+		}
+		document.cookie = encodeURIComponent(sKey) + "=" + encodeURIComponent(sValue) + sExpires + (sDomain ? "; domain=" + sDomain : "") + "; path=/" + (bSecure ? "; secure" : "");
+		return true;
+	},
+	removeItem: function (sKey, sPath, sDomain) {
+		if (!sKey || !this.hasItem(sKey)) { return false; }
+		document.cookie = encodeURIComponent(sKey) + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" + ( sDomain ? "; domain=" + sDomain : "") + "; path=/";
+		return true;
+	},
+	hasItem: function (sKey) {
+		return (new RegExp("(?:^|;\\s*)" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\$&") + "\\s*\\=")).test(document.cookie);
+	},
+	deparam: function (query) {
+		var pairs, i, keyValuePair, key, value, map = {};
+		if (query !== '' && query !== null) {
+			pairs = query.split('&');
+			for (i = 0; i < pairs.length; i += 1) {
+				keyValuePair = pairs[i].split('=');
+				key = keyValuePair[0];
+				value = (keyValuePair.length > 1) ? keyValuePair[1] : undefined;
+				map[key] = value;
+			}
+		}
+		return map;
+	}
+};
+</script><script type="text/javascript">
+var sq = (function(){
+	var scriptQueue = function(){
+		var _queue = [];
+		var _queueb4Ready = [];
+		var _queueAfterLoad = [];
+		return{
+			
+			processQ:function(){
+				if(typeof _queue != "undefined"){
+					for (var i = 0; i < _queue.length; i++) { 
+						_queue[i]();
+					}
+				}
+			},
+			
+			processQb4Ready:function(){
+				if(typeof _queueb4Ready != "undefined"){
+					for (var i = 0; i < _queueb4Ready.length; i++) { 
+						_queueb4Ready[i]();
+					}
+				}
+			},
+			
+			processQAfterLoad:function(){
+				if(typeof _queueAfterLoad != "undefined"){
+					for (var i = 0; i < _queueAfterLoad.length; i++) { 
+						_queueAfterLoad[i]();
+					}
+				}
+			},
+			
+			addToQ:function(val, b4ready){
+				if(typeof b4ready != "undefined" && b4ready == true){
+					if(typeof _queueb4Ready == "undefined" || _queueb4Ready == null){
+						_queueb4Ready = [];
+					}
+					
+					_queueb4Ready.push(val);
+				}
+				else{
+					if(typeof _queue == "undefined" || _queue == null){
+						_queue = [];
+					}
+					
+					_queue.push(val);
+				}
+			},
+			addToQAfterLoad:function(val){
+				if(typeof _queueAfterLoad == "undefined" || _queueAfterLoad == null){
+					_queueAfterLoad = [];
+				}
+				
+				_queueAfterLoad.push(val);
+			}
+		}
+	}
+	return new scriptQueue();
+})(this);
+  
+</script><script type="text/javascript">
+
+ var kmo_wcs_pb$ = (function(){
+    var returnObject = {};
+    var storeData = function(){
+        var _storeDataVariables = {};
+        var storeDataFunctions = {
+        	
+            setData: function(props){
+            	if(typeof props != "undefined" && typeof props == "object"){
+	                for(var key in props){
+	                    storeDataFunctions.set(key, props[key]);
+	                }
+            	}
+            },
+            
+            set: function(name, value){
+                _storeDataVariables[name] = value;
+                var functionName = "get"+name.charAt(0).toUpperCase() + name.slice(1);
+                
+                returnObject[functionName] = function(){
+                    return _storeDataVariables[name];
+                }
+                
+                storeDataFunctions[functionName] = function(){
+                    return _storeDataVariables[name];
+                }
+            },
+            
+            get:function(name){
+            	return _storeDataVariables[name];
+            },
+            
+            append:function(name, column, value){
+            	if(typeof _storeDataVariables[name] == "undefined"){
+            		_storeDataVariables[name] = {};
+            	}
+            	_storeDataVariables[name][column] = value;
+            }, 
+            
+            debug:function(){
+                var result = {};
+                for(var key in _storeDataVariables){
+                    result[key] = storeDataFunctions.get(key);
+                }
+                return result;
+            }
+        };
+        return storeDataFunctions;
+    }
+    returnObject.storeData = new storeData();
+    returnObject.eventBus = {};
+    
+    return returnObject;
+
+})();
+
+kmo_wcs_pb$.storeData.setData({
+		jsDir:"/wcsstore/KMOStorefrontAssetStore/javascript/",
+		environment:"production"
+});	
+
+</script>
+	<script>
+		Date.prototype.addDays = function(days){
+		    var dat = new Date(this.valueOf());
+		    dat.setDate(dat.getDate() + days);
+		    return dat;
+		}
+		docCookies.setItem("trk","pp=OLS01&an=I001&ch=Shop/Direkt",new Date().addDays(30));
+		try {
+			var cookieVal = "pp=OLS01&an=I001&ch=Shop/Direkt".split("&ch=")[1].split("&")[0];
+			docCookies.setItem("kmostore_lastFeature", cookieVal, new Date(new Date().getTime()+7200000));
+		} catch (e){
+			if(window.console){
+				console.log(e);
+			}
+		}
+	</script>
+
+
+	<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+
+	
+
+<script type="text/javascript">
+	window.emosTrackVersion = 2;
+</script>
+
+
+		<script type="text/javascript" src="/wcsstore/KMOStorefrontAssetStore/javascript/econda/emos2_prod.js?201705261134"></script>
+	
+
+<script type="text/javascript">
+	var econdaPageName = "ServiceDataSecurity";
+	var emosProps = {
+		siteid : "klingel",
+		langid : "de",
+		countryid : "de",
+		content : "ServiceDataSecurity",
+		
+		pageId : '637de3e8ffb374b3b6389b96a344cd23'
+	};
+	
+	
+</script>
+<script type="text/javascript">
+	window.emosPropertiesEvent(emosProps);
+</script>
+
+<script>
+var econdaTracking = {	
+	debug : false,
+	
+	trackMarker : function(marker, content){
+		emosSubmitProps = this.copyProps();
+		emosSubmitProps.marker = marker;
+		if(typeof content != "undefined")
+			emosSubmitProps.content = content;
+		window.emosPropertiesEvent(emosSubmitProps);
+		if(this.debug){			
+			console.log("Econda marker tracking",emosSubmitProps);
+		}
+	},	
+	/**
+	 * Sets the last used feature as a marker and optionally submits it.
+	 */
+	setMarker : function(marker, submitFeatureKlick){
+		docCookies.setItem("kmostore_lastFeature", marker, new Date(new Date().getTime()+7200000)); //2 hours expiration
+		if(submitFeatureKlick){
+			this.trackMarker(marker);
+		}
+	},
+	trackOrderProcess : function(orderProcess){
+		var emosSubmitProps = this.copyProps();
+		emosSubmitProps.orderProcess = orderProcess;
+		window.emosPropertiesEvent(emosSubmitProps);
+		if(this.debug)
+			console.log(emosSubmitProps);
+	},
+	trackFeature : function(event,productId,partnumber,productName,price,category,amount,purchaseNumber){		
+		if(event !== 'view'){
+			feature = docCookies.getItem("kmostore_lastFeature_"+productId);
+		} else {
+			feature = docCookies.getItem("kmostore_lastFeature");
+			docCookies.setItem("kmostore_lastFeature_"+productId,feature);
+		}
+		if(typeof feature == "undefined"){
+			feature = "Null";
+		}
+		var variant;
+		if(event === "c_add"){
+			if(docCookies.hasItem("kmostore_variant_"+productId)){
+				variant = docCookies.getItem("kmostore_variant_"+productId);
+			} else {
+				variant = "";
+			}
+		}
+		var ec_Event = [event,partnumber,productName,price,category,amount,purchaseNumber,feature,variant]; 
+		var emosSubmitProps = this.copyProps();
+		
+		emosSubmitProps.ec_Event = ec_Event;
+		window.emosPropertiesEvent(emosSubmitProps);
+		if(this.debug)
+			console.log("Econda feature tracking",emosSubmitProps);	
+	},
+	viewProduct : function(productId,partNumber,productName,price,category,amount,purchaseNumber){
+		this.trackFeature("view",productId,partNumber,productName,price,category,amount,purchaseNumber); 
+	},
+	addToCart : function(productId,partNumber,productName,price,category,amount,purchaseNumber){
+		this.trackFeature("c_add",productId,partNumber,productName,price,category,amount,purchaseNumber); 
+	},
+	quickOrder : function(productId,partNumber,productName,price,category,amount,purchaseNumber){
+		docCookies.setItem("kmostore_lastFeature_"+productId,'Bestellschein');
+		this.trackFeature("c_add",productId,partNumber,productName,price,category,amount,purchaseNumber); 
+	},
+	viewOutfit : function(outfitTitle, productId,partNumber,productName,price,category,amount,purchaseNumber){
+		docCookies.setItem("kmostore_lastFeature",'Outfit/'+outfitTitle);
+		this.trackFeature("view",productId,partNumber,productName,price,category,amount,purchaseNumber); 
+	}, 
+	outfitOrder : function(outfitTitle, productId,partNumber,productName,price,category,amount,purchaseNumber){
+		docCookies.setItem("kmostore_lastFeature_"+productId,'Outfit/'+outfitTitle);
+		this.trackFeature("c_add",productId,partNumber,productName,price,category,amount,purchaseNumber); 
+	},
+	order : function(products, billing){
+		var ec_Event = [];
+		for(var i = 0; i < products.length; i++){
+			var product = products[i];
+			if(typeof product != "undefined"){
+				var feature = docCookies.getItem("kmostore_lastFeature_"+product[0]);
+				if(typeof feature == "undefined")  
+					feature = "Null";
+				ec_Event.push(["buy",product[1],product[2],product[3],product[4],product[5],product[6],feature,product[7]]);
+			}
+		}
+		emosSubmitProps = {
+			siteid : emosProps.siteid,
+			langid : emosProps.langid,
+			countryid : emosProps.countryid,
+			content : emosProps.content,
+			pageId : emosProps.pageId,
+			ec_Event : ec_Event,
+			billing : billing
+		};
+		window.emosPropertiesEvent(emosSubmitProps);
+		if(this.debug)
+			console.log(emosSubmitProps);
+	},
+	copyProps : function(){
+		if(typeof(emosProps.orderProcess) != 'undefined'){
+			return {//copy the hard way for browser compatibility
+				siteid : emosProps.siteid,
+				langid : emosProps.langid,
+				countryid : emosProps.countryid,
+				content : emosProps.content,
+				pageId : emosProps.pageId,
+				orderProcess : emosProps.orderProcess
+			};
+		} else {
+			return {
+				siteid : emosProps.siteid,
+				langid : emosProps.langid,
+				countryid : emosProps.countryid,
+				content : emosProps.content,
+				pageId : emosProps.pageId
+			};			
+		}
+	}
+};
+</script>
+
+<script>
+var prudsysProps = {
+	sessionId:'E8PXOc0sXkNw7lQkkvKuXex',
+	brand : 'klingel',
+	storeId : '100004_-3'
+}
+</script>
+
+<script type="text/javascript" src="/wcsstore/KMOStorefrontAssetStore/javascript/prudsys/prudsysTracking.js?201705261134"></script>
+
+<script>
+//fire location to session if cookie is not set for location<->session combination
+if(!docCookies.hasItem('locationToSession') ||
+		docCookies.getItem('locationToSession') != prudsysProps.storeId+'_'+prudsysProps.sessionId){
+	prudsysTracking.locationToSessionEvent(function(request){
+		if(request.status == 200){
+			docCookies.setItem('locationToSession',prudsysProps.storeId+'_'+prudsysProps.sessionId);
+			docCookies.setItem('pssid',prudsysProps.sessionId,new Date(new Date().getTime()+31536000000));
+		}
+	});
+}
+</script>
+
+
+
+
+<script type="text/javascript">
+	var crossedOutPrice = true;
+</script>
+
+<script type="text/javascript">
+  (function () {
+    var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true;
+    m.src = '//cdn.m-pathy.com/js/a3003.js'; m.crossOrigin = 'anonymous';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+  })();
+</script>
+
+			<script type="text/javascript" src="//service.maxymiser.net/cdn/klingel/js/mmcore.js"></script>
+		
+	<script>
+		var tryggEHandelId = 289;
+	</script>
+
+</head>
+
+
+
+<body class=" antialiased bodyServicePage country_DE ">
+	
+	
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P2PP" height="0" width="0" 
+	style="display:none;visibility:hidden"></iframe></noscript> 
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
+	})(window,document,'script','dataLayer','GTM-P2PP');</script> 
+
+
+	<div id="bodyContentContainer"> 
+
+<div id="topMenuBar" class="contain-to-grid sticky mobile singleRow">
+	<nav>
+		<ul class="title-area">
+			<li class="name">
+			<div class="topBarContent">
+				<a id="topBarMenuButton" class="mobileMenu">
+					<span class="mobileMenuIcon"> </span>
+					<span class="mobileMenuText">Menü</span>
+				</a>
+				<span class="mobileLogo">
+					
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/MobileStoreLogo_Content/MobileStoreLogo_Content">
+		
+							<a  data-reveal-href="ClickInfo?evtype=CpgnClick&amp;mpe_id=270293&amp;intv_id=1000031&amp;storeId=100004&amp;catalogId=1000100000&amp;langId=-3&amp;URL=https%3a%2f%2fwww.klingel.de%2f"
+								class="generatedLink" id="WC_ContentAreaESpot_links_7_1" href="https://www.klingel.de/"  
+								onclick="econdaTracking.setMarker('ESpot/'+econdaPageName+'/Content/MobileStoreLogo_Content/MobileStoreLogo_Content',true);">
+						<div style="width: 130px;height: 40px;top:15;position:absolute;left: 65px;"></div>
+
+							</a>
+						
+	</div>
+
+				</span>
+				<div class="headerIconsContainer">
+					<a id="topBarCartButton" class="mobileCart" href="https://www.klingel.de/OrderCalculate?updatePrices=1&amp;calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=2&amp;calculationUsageId=-6&amp;calculationUsageId=-7&amp;calculationUsageId=6&amp;catalogId=1000100000&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-3&amp;storeId=100004&amp;URL=AjaxOrderItemDisplayView">
+						<span class="cartIcon"> </span>
+						<div id="mobile_lightCartCountContainer" class="doubleAmount"><span id="topBarCartCount" class="cartCount"> </span></div>
+					</a>
+					<a id="topBarAccountButton" class="mobileAccount" href="https://www.klingel.de/LogonForm?catalogId=1000100000&amp;langId=-3&amp;storeId=100004">
+						
+				<span class="accountIcon"></span>
+			
+					</a>
+					<a id="topBarSearchButton" class="mobileSearch" >
+						<span class="searchIcon"> </span>
+					</a>
+				</div>
+			</div>
+			</li>
+		</ul>
+		<section id="topBarSection" class="top-bar-section">
+			<ul class="left"></ul>
+		</section>
+	</nav>
+	<div id="topMenuSearchField">
+		
+	</div>
+	
+		<div id="addToBasketLayer">
+			<span id="addToBasketLayerText"></span>
+		</div>
+	
+	<div id="inspirationTeaserWidth" style="display:none;">
+		1280
+	</div>
+</div> 
+				
+			<div class="cookieOptIn" id="cookieOptIn">
+				<div class="infoText">
+					Diese Website verwendet Cookies, um Ihnen den bestmöglichen Service zu gewährleisten. Wenn Sie auf der Seite weitersurfen, stimmen Sie der Cookie-Nutzung zu. Weitere Infos dazu finden Sie <a onclick="openModal('https://www.klingel.de/ContentDisplayModalView?eSpotName=InfoLink_CookieOptIn&amp;catalogId=1000100000&amp;popupType=cookiePopup&amp;langId=-3&amp;storeId=100004');" class="reveal" data-reveal-id="popupContainer" data-reveal-ajax="true"> <u>hier &gt; </u>.</a>
+
+				</div>
+				<div class="cookieCloseButton" onclick="docCookies.setItem('optin', 'true', Infinity);$('#cookieOptIn').hide();">
+				</div>
+			</div>
+		
+		
+		<header>
+			
+
+<div class="brandValueBar top">
+	
+</div>
+
+<div class="storeHeaderBar">
+	
+</div>
+
+<div class="Header_Espot_Left">
+	
+</div>
+
+<div class="headerContentContainer">
+	<div class="headerContent">
+		<div class="desktopNavContainer">
+			<div class="desktopNav">
+				
+
+				<ul class="headerTopNavigation">
+					
+									<li class="">
+									
+									
+									<a class="treelink "  href="https://www.klingel.de/bestellschein">Bestellschein</a></li>
+								
+									<li class="">
+									
+									
+									<a class="treelink "  href="https://www.klingel.de/hilfe-kontakt">Hilfe & Kontakt</a></li>
+								
+									<li class="">
+									
+									
+									<a class="treelink newsLetterEcondaTracking" data-trackingTarget='Service/Newsletter/Anmelde-Quellen/Shop_Header_Link' href="https://www.klingel.de/NewsletterSubscriptionView?catalogId=1000100000&amp;langId=-3&amp;storeId=100004&amp;nlsrc=Shop_Header_Link">Newsletter</a></li>
+								
+				</ul>
+
+			</div>
+		</div>
+		
+		
+			<div class="desktopHeaderContainer">
+				<div class="storelogo" itemscope itemtype="http://schema.org/Organization">
+					
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/HeaderStoreLogo_Content/HeaderStoreLogo_Content">
+		
+							<a  data-reveal-href="ClickInfo?evtype=CpgnClick&amp;mpe_id=138744&amp;intv_id=266509&amp;storeId=100004&amp;catalogId=1000100000&amp;langId=-3&amp;URL=https%3a%2f%2fwww.klingel.de%2f"
+								class="generatedLink" id="WC_ContentAreaESpot_links_7_1" href="https://www.klingel.de/"  
+								onclick="econdaTracking.setMarker('ESpot/'+econdaPageName+'/Content/HeaderStoreLogo_Content/HeaderStoreLogo_Content',true);">
+						<div style="width:300px;height:50px;top:3px;position:absolute"></div>
+
+							</a>
+						
+	</div>
+
+				</div>
+				<div class="desktopHeaderSearchContainer">
+					
+		<meta name="CommerceSearch" content="storeId_100004" />
+		
+<div class="desktopHeaderSearch">
+	<form name="headerSearchForm" action="/SearchDisplay"
+		onsubmit="$.trim($('#desktopSearchTerm').val());return true;"
+		method="get" id="headerSearchForm">
+		<div class="desktopSearchLabel">Suche</div>
+		<div class="desktopSearchWrapper">
+			<div class="desktopSearchLeft">
+				<div class="desktopSearchRight">
+					<div class="desktopSearchField">
+						<div class="desktopSearchIcon"></div>
+						<input type="text" class="search_input" name="searchTerm" id="desktopSearchTerm" autocomplete="off" maxlength="65" tabindex="0"
+							data-url="AutoSuggestView?coreName=MC_10000_CatalogEntry_de_DE&amp;serverURL=http://localhost:1024/solr/MC_10000_CatalogEntry_de_DE&amp;catalogId=1000100000&amp;storeId=100004&amp;langId=-3"
+							value='Suchbegriff'>
+						<div class="searchFieldClearIcon"></div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="desktopSearchButtonContainer">
+				<div class="desktopSearchButton primaryButton" onclick="if(event.preventDefault != undefined)event.preventDefault(); searchButtonClicked('Suchbegriff');" >
+					<div class="buttonIcon"></div>
+					<span class="buttonText">Suchbegriff</span>
+				</div>
+			</div>
+			<div id="desktopSearchPopup" class="search_popup" onmouseover="autoSuggestHover = true;"  onmouseout="autoSuggestHover = false; document.getElementById('desktopSearchTerm').focus();">
+				
+				<div class="row"></div>
+			</div>
+		</div>
+		<input type="hidden" name="storeId" value='100004' />
+		<input type="hidden" name="catalogId" value='1000100000' />
+		<input type="hidden" name="langId" value='-3' />
+		<input type="hidden" name="beginIndex" value="0" />
+		<input type="hidden" name="sType" value="SimpleSearch" />
+		<input type="hidden" name="resultCatEntryType" value="2" />
+		<input type="hidden" name="showResultsPage" value="true" />
+		<input type="hidden" name="searchSource" value="Q" />
+		<input type="hidden" name="pageView" value="" />
+		<input type="hidden" id="categoryId-d" name="categoryId" value="" />
+	</form>
+</div>
+
+<script type="text/javascript"> 
+// The primary Array to hold all static search suggestions
+var staticContent = new Array();
+// The titles of each search grouping
+var staticContentHeaders = new Array();
+var staticContentHeaderHistory = "Search history"
+// The auto suggest container ID's
+var staticContentSectionDiv = ["autoSuggestStatic_1", "autoSuggestStatic_2", "autoSuggestStatic_3"];
+</script>
+
+				</div>
+				<div class="headerIconsContainer">
+					<div class="headerIcon newsletterHeaderIcon newsLetterEcondaTracking" data-trackingTarget="Service/Newsletter/Anmelde-Quellen/Shop_Header_Link">
+						<a href="https://www.klingel.de/NewsletterSubscriptionView?catalogId=1000100000&amp;langId=-3&amp;storeId=100004&amp;nlsrc=Shop_Header_Link">
+							<span class="newsletterIcon"></span> 
+							<span class="headerIconText newsletterText">Newsletter</span>
+						</a>
+					</div>
+					<div class="headerIcon leafletHeaderIcon">
+						<a href="https://www.klingel.de/InterestItemDisplay?catalogId=1000100000&amp;langId=-3&amp;storeId=100004&amp;URL=LeafletView">
+							<span class="leafletIcon"></span> 
+							<span class="headerIconText leafletText">Wunschliste</span>
+						</a>
+					</div>
+					<div class="headerIcon orderFormHeaderIcon" style="display:none;">
+				        <a href="https://www.klingel.de/QuickOrderView?catalogId=1000100000&amp;langId=-3&amp;storeId=100004">
+				          <span class="orderFormIcon"></span> 
+				          <span class="headerIconText orderFormText">Bestellschein</span>
+				        </a>
+		     		 </div>
+		     		 
+		     		 
+					
+				<div class="headerIcon accountHeaderIcon">
+					<a href="https://www.klingel.de/LogonForm?catalogId=1000100000&amp;langId=-3&amp;storeId=100004"> <span
+						class="accountIcon"></span> <span class="headerIconText">Mein Konto
+					</span> </a>
+				</div>
+			
+		     		 
+				          		
+					<div class="miniCartContainer headerIcon" id="miniShopCart">
+						
+	<a href="https://www.klingel.de/OrderCalculate?updatePrices=1&amp;calculationUsageId=-1&amp;calculationUsageId=2&amp;calculationUsageId=-2&amp;calculationUsageId=-6&amp;calculationUsageId=-7&amp;calculationUsageId=6&amp;catalogId=1000100000&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-3&amp;storeId=100004&amp;URL=AjaxOrderItemDisplayView">
+ 
+<div class="miniCartImage">	
+	
+			<img src="/wcsstore/KMOStorefrontAssetStore/images/KlingelRebrush/shoppingcart.png"  alt="Warenkorb">
+		
+</div>
+<div class="miniCartContentContainer">
+	<div class="miniCartButton">
+		<div id="cartButton" class="primaryButton">
+			<span class="buttonText">Warenkorb</span>		
+		</div>	
+	</div>
+
+	<div class="miniCartContent">
+		<div class="miniCartAmountContainer"><span id="miniCartAmount">0</span>&nbsp;
+			
+						<span class="miniCartAmountLabel">Artikel</span>
+					
+		</div>
+		<div class="miniCartPriceContainer"><span  id="miniCartPrice">0,00 €</span></div>
+	</div> 
+</div>
+
+ 
+	</a>
+
+
+<script>
+	kmo_wcs_pb$.storeData.setData({
+		cartAmount : 0,
+		cartPrice : '0,00 €'
+	});
+</script>
+
+					</div>
+				</div>
+			</div>
+		
+	</div>
+</div>
+
+		</header>
+		
+		
+					<div id="categoryNavigation">
+						
+	<script>
+		kmo_wcs_pb$.storeData.setData({
+			categoryNavLayout:""
+		});	
+	</script>
+
+
+<div class="categoryNavContainer ">
+	<ul class="categoryNavList">	
+		
+				
+				<li class="first hasNavbox" data-categoryid="265235" data-categorydescription="Damen">
+					
+						
+					<a id="TopCategoryLink_265235" class="topCategoryLink1" href="https://www.klingel.de/damenmode/" 
+						onclick="econdaTracking.setMarker('Navigation/Header/',true);">
+	
+						<span class="categoryNavLink" title="Damen">
+	
+						Damen</span>
+					</a>
+					
+					
+				
+					<div class="catNavESpot" id="catNavESpot_265235">
+						
+					</div>
+					
+				</li>
+			
+				
+				<li class=" hasNavbox" data-categoryid="265236" data-categorydescription="Herren">
+					
+						
+					<a id="TopCategoryLink_265236" class="topCategoryLink2" href="https://www.klingel.de/herrenmode/" 
+						onclick="econdaTracking.setMarker('Navigation/Header/',true);">
+	
+						<span class="categoryNavLink" title="Herren">
+	
+						Herren</span>
+					</a>
+					
+					
+				
+					<div class="catNavESpot" id="catNavESpot_265236">
+						
+					</div>
+					
+				</li>
+			
+				
+				<li class=" hasNavbox" data-categoryid="265237" data-categorydescription="Wohnen">
+					
+						
+					<a id="TopCategoryLink_265237" class="topCategoryLink3" href="https://www.klingel.de/wohnen/" 
+						onclick="econdaTracking.setMarker('Navigation/Header/',true);">
+	
+						<span class="categoryNavLink" title="Wohnen">
+	
+						Wohnen</span>
+					</a>
+					
+					
+				
+					<div class="catNavESpot" id="catNavESpot_265237">
+						
+					</div>
+					
+				</li>
+			
+				
+				<li class=" hasNavbox" data-categoryid="265238" data-categorydescription="Technik">
+					
+						
+					<a id="TopCategoryLink_265238" class="topCategoryLink4" href="https://www.klingel.de/technik/" 
+						onclick="econdaTracking.setMarker('Navigation/Header/',true);">
+	
+						<span class="categoryNavLink" title="Technik">
+	
+						Technik</span>
+					</a>
+					
+					
+				
+					<div class="catNavESpot" id="catNavESpot_265238">
+						
+					</div>
+					
+				</li>
+			
+				
+				<li class=" hasNavbox" data-categoryid="265239" data-categorydescription="Lifestyle">
+					
+						
+					<a id="TopCategoryLink_265239" class="topCategoryLink5" href="https://www.klingel.de/lifestyle/" 
+						onclick="econdaTracking.setMarker('Navigation/Header/',true);">
+	
+						<span class="categoryNavLink" title="Lifestyle">
+	
+						Lifestyle</span>
+					</a>
+					
+					
+				
+					<div class="catNavESpot" id="catNavESpot_265239">
+						
+					</div>
+					
+				</li>
+			
+				
+				<li class="last hasNavbox isSaleCategory" data-categoryid="266044" data-categorydescription="Sale">
+					
+						
+					<a id="TopCategoryLink_266044" class="topCategoryLink6" href="https://www.klingel.de/sale/" 
+						onclick="econdaTracking.setMarker('Navigation/Header/',true);">
+	
+						<span class="categoryNavLink" title="Sale">
+	
+						Sale</span>
+					</a>
+					
+					
+				
+					<div class="catNavESpot" id="catNavESpot_266044">
+						
+					</div>
+					
+				</li>
+			
+		<li class="last categoryNavESpot">
+			<div id="topCategoryNavESpot_1">
+				<span class="magazinLabel"> </span>
+				
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/CategoryNavigation_Content/CategoryNavigation_Content_DE">
+		
+							<a  data-reveal-href="ClickInfo?evtype=CpgnClick&amp;mpe_id=73328&amp;intv_id=796001&amp;storeId=100004&amp;catalogId=1000100000&amp;langId=-3&amp;URL=%2fmagazin%2f"
+								class="generatedLink" id="WC_ContentAreaESpot_links_7_1" href="/magazin/"  
+								onclick="econdaTracking.setMarker('ESpot/'+econdaPageName+'/Content/CategoryNavigation_Content/CategoryNavigation_Content_DE',true);">
+						<div style="height: 33px; left: 69px; position: absolute; right: 410px; top: 5px; width: 101px; z-index: 1;"></div>
+							</a>
+						
+	</div>
+
+			</div>
+			<div id="topCategoryNavESpot_2">
+				
+			</div>
+		</li>
+	</ul>
+	<div class="categoryNavBorder">
+	</div>
+</div>
+<div class="brandValueBar categoryNav">
+	
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/BrandValue_ESpot/BrandValue">
+		
+							<div class="teaser full">
+						<div class="brandValueBar categoryNav" style="padding-top:5px;"><div style="padding:5px 0px 5px 0px; width:20%; text-align:center; float:left; background-color: #eeeeee;"><img alt="" src="/filecontent/images/klingel/Global/Service/BrandValue/DE/Neu/01_Brand_value_Leiste_DE.png" style="width: 317px; height: 25px;" /></div>
+<div style="padding:5px 0px 5px 0px; width:20%; text-align:center; float:left; background-color: #f1efec;"><a href="https://www.klingel.de/versandkosten-flatrate-unser-service-fuer-sie-137042?expDataType=MarketingContent&amp;mpe_id=340893&amp;fromPage=ProductSearch&amp;searchTerm=flatrate&amp;catalogId=1000100000&amp;expDataUniqueID=1593702&amp;errorViewName=ProductDisplayErrorView&amp;evtype=CpgnClick&amp;urlLangId=-3&amp;intv_id=1169001&amp;langId=-3&amp;storeId=100004&amp;fromESpot=true/"><img alt="" src="/filecontent/images/klingel/Global/Service/BrandValue/DE/Neu/02_Brand_value_Leiste_DE_VKP.png" style="width: 257px; height: 25px;" /></a></div>
+<div style="padding:5px 0px 5px 0px; width:20%; text-align:center; float:left; background-color: #f1efec;"><img alt="" src="/filecontent/images/klingel/Global/Service/BrandValue/DE/Neu/03_Brand_value_Leiste_DE.png" style="width: 297px; height: 25px;" /></div>
+<div style="padding:5px 0px 5px 0px; width:20%; text-align:center; float:left; background-color: #f1efec;"><img alt="" src="/filecontent/images/klingel/Global/Service/BrandValue/DE/Neu/04_Brand_value_Leiste_DE.png" style="width: 297px; height: 25px;" /></div>
+<div style="padding:5px 0px 5px 0px; width:20%; text-align:center; float:left; background-color: #f1efec;"><img alt="" src="/filecontent/images/klingel/Global/Service/BrandValue/DE/Neu/05_Brand_value_Leiste_DE.png" style="width: 272px; height: 25px;" /></div>
+</div>
+
+							</div>
+						
+	</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+	var topCategoryIds = [
+	
+		265235,
+		265236,
+		265237,
+		265238,
+		265239,
+		266044
+	];
+	
+	
+		var saleCategoryId = '266044'
+	
+	
+	var topPageNodeIds = [
+	
+	];
+	var categoryNavData = {
+	'moreCategoriesLabel' : 'Mehr',
+	
+		'outfitPlacement': {'topcategory':'265235', 'url': 'https://www.klingel.de/OutfitListingDisplay?catalogId=1000100000&langId=-3&storeId=100004', 'title':'Outfits'},
+	
+		'265235' : {
+			title : 'Damen',
+			url : 'https://www.klingel.de/damenmode/',
+			id : '265235',
+			econdaMarker : 'Navigation/Header/',
+			count : 1,
+			
+			
+			categories : [
+			
+				 {
+					id : 265240,
+					
+					title : 'Bekleidung',
+					url : 'https://www.klingel.de/damenbekleidung/',
+					econdaMarker : 'Navigation/Header/Damen/Bekleidung',
+					lineBreak : 0,
+					count : 1,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265274,
+								
+								title : 'Bademode',
+								url : 'https://www.klingel.de/damen-bademode/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Bademode',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265275,
+								
+								title : 'Blazer',
+								url : 'https://www.klingel.de/damen-blazer/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Blazer',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265276,
+								
+								title : 'Blusen',
+								url : 'https://www.klingel.de/blusen/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Blusen',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265277,
+								
+								title : 'Hosen',
+								url : 'https://www.klingel.de/damen-hosen/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Hosen',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265278,
+								
+								title : 'Jacken',
+								url : 'https://www.klingel.de/damen-jacken/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Jacken',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 265280,
+								
+								title : 'Kleider',
+								url : 'https://www.klingel.de/kleider/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Kleider',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265279,
+								
+								title : 'Mäntel',
+								url : 'https://www.klingel.de/damen-maentel/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Mäntel',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265282,
+								
+								title : 'Pullover &amp; Strick',
+								url : 'https://www.klingel.de/damen-pullover-strick/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Pullover &amp; Strick',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							},
+							{
+								id : 265281,
+								
+								title : 'Röcke',
+								url : 'https://www.klingel.de/roecke/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Röcke',
+								lineBreak : 0,
+								count : 9,
+								visible : 1,
+								
+							},
+							{
+								id : 265283,
+								
+								title : 'Shirts',
+								url : 'https://www.klingel.de/damen-shirts/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Shirts',
+								lineBreak : 0,
+								count : 10,
+								visible : 1,
+								
+							},
+							{
+								id : 265285,
+								
+								title : 'Sport',
+								url : 'https://www.klingel.de/damen-sport/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Sport',
+								lineBreak : 0,
+								count : 11,
+								visible : 0,
+								
+							},
+							{
+								id : 265284,
+								
+								title : 'Tops',
+								url : 'https://www.klingel.de/tops/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Tops',
+								lineBreak : 0,
+								count : 12,
+								visible : 0,
+								
+							},
+							{
+								id : 280684,
+								
+								title : 'Mehrteiler',
+								url : 'https://www.klingel.de/damen-mehrteiler/',
+								econdaMarker : 'Navigation/Header/Damen/Bekleidung/Mehrteiler',
+								lineBreak : 0,
+								count : 13,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265241,
+					
+					title : 'Accessoires',
+					url : 'https://www.klingel.de/damen-accessoires/',
+					econdaMarker : 'Navigation/Header/Damen/Accessoires',
+					lineBreak : 1,
+					count : 2,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265286,
+								
+								title : 'Brillen',
+								url : 'https://www.klingel.de/damen-brillen/',
+								econdaMarker : 'Navigation/Header/Damen/Accessoires/Brillen',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 265287,
+								
+								title : 'Gürtel',
+								url : 'https://www.klingel.de/damen-guertel/',
+								econdaMarker : 'Navigation/Header/Damen/Accessoires/Gürtel',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 265290,
+								
+								title : 'Hüte',
+								url : 'https://www.klingel.de/damen-huete/',
+								econdaMarker : 'Navigation/Header/Damen/Accessoires/Hüte',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265288,
+								
+								title : 'Mützen &amp; Handschuhe',
+								url : 'https://www.klingel.de/damen-muetzen-handschuhe/',
+								econdaMarker : 'Navigation/Header/Damen/Accessoires/Mützen &amp; Handschuhe',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265292,
+								
+								title : 'Portemonnaies &amp; Etuis',
+								url : 'https://www.klingel.de/damen-portemonnaies/',
+								econdaMarker : 'Navigation/Header/Damen/Accessoires/Portemonnaies &amp; Etuis',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 265293,
+								
+								title : 'Regenschirme',
+								url : 'https://www.klingel.de/damen-regenschirme/',
+								econdaMarker : 'Navigation/Header/Damen/Accessoires/Regenschirme',
+								lineBreak : 0,
+								count : 6,
+								visible : 0,
+								
+							},
+							{
+								id : 265289,
+								
+								title : 'Schals',
+								url : 'https://www.klingel.de/damen-schals/',
+								econdaMarker : 'Navigation/Header/Damen/Accessoires/Schals',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265291,
+								
+								title : 'Taschen',
+								url : 'https://www.klingel.de/damen-taschen/',
+								econdaMarker : 'Navigation/Header/Damen/Accessoires/Taschen',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265243,
+					
+					title : 'Schuhe',
+					url : 'https://www.klingel.de/damen-schuhe/',
+					econdaMarker : 'Navigation/Header/Damen/Schuhe',
+					lineBreak : 0,
+					count : 3,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265302,
+								
+								title : 'Ballerinas',
+								url : 'https://www.klingel.de/ballerinas/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Ballerinas',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265318,
+								
+								title : 'Clogs',
+								url : 'https://www.klingel.de/damen-clogs/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Clogs',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 265303,
+								
+								title : 'Halbschuhe',
+								url : 'https://www.klingel.de/damen-halbschuhe/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Halbschuhe',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265304,
+								
+								title : 'Hausschuhe',
+								url : 'https://www.klingel.de/damen-hausschuhe/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Hausschuhe',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265317,
+								
+								title : 'Pantoletten',
+								url : 'https://www.klingel.de/damen-pantoletten/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Pantoletten',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 265315,
+								
+								title : 'Pumps',
+								url : 'https://www.klingel.de/pumps/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Pumps',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265316,
+								
+								title : 'Sandalen',
+								url : 'https://www.klingel.de/damen-sandalen/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Sandalen',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265323,
+								
+								title : 'Schuhzubehör',
+								url : 'https://www.klingel.de/damen-schuh-zubehoer/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Schuhzubehör',
+								lineBreak : 0,
+								count : 8,
+								visible : 0,
+								
+							},
+							{
+								id : 265321,
+								
+								title : 'Sneakers',
+								url : 'https://www.klingel.de/damen-sneakers/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Sneakers',
+								lineBreak : 0,
+								count : 9,
+								visible : 1,
+								
+							},
+							{
+								id : 265322,
+								
+								title : 'Sportschuhe',
+								url : 'https://www.klingel.de/damen-sportschuhe/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Sportschuhe',
+								lineBreak : 0,
+								count : 10,
+								visible : 0,
+								
+							},
+							{
+								id : 265319,
+								
+								title : 'Stiefel',
+								url : 'https://www.klingel.de/damen-stiefel/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Stiefel',
+								lineBreak : 0,
+								count : 11,
+								visible : 0,
+								
+							},
+							{
+								id : 265320,
+								
+								title : 'Stiefeletten',
+								url : 'https://www.klingel.de/damen-stiefeletten/',
+								econdaMarker : 'Navigation/Header/Damen/Schuhe/Stiefeletten',
+								lineBreak : 0,
+								count : 12,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265242,
+					
+					title : 'Wäsche',
+					url : 'https://www.klingel.de/damen-waesche/',
+					econdaMarker : 'Navigation/Header/Damen/Wäsche',
+					lineBreak : 1,
+					count : 4,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265297,
+								
+								title : 'Bademäntel',
+								url : 'https://www.klingel.de/damen-bademaentel/',
+								econdaMarker : 'Navigation/Header/Damen/Wäsche/Bademäntel',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 265299,
+								
+								title : 'BHs',
+								url : 'https://www.klingel.de/bhs/',
+								econdaMarker : 'Navigation/Header/Damen/Wäsche/BHs',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265296,
+								
+								title : 'Dessous',
+								url : 'https://www.klingel.de/damen-dessous/',
+								econdaMarker : 'Navigation/Header/Damen/Wäsche/Dessous',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265300,
+								
+								title : 'Homewear',
+								url : 'https://www.klingel.de/damen-homewear/',
+								econdaMarker : 'Navigation/Header/Damen/Wäsche/Homewear',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265294,
+								
+								title : 'Nachtwäsche',
+								url : 'https://www.klingel.de/damen-nachtwaesche/',
+								econdaMarker : 'Navigation/Header/Damen/Wäsche/Nachtwäsche',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 265295,
+								
+								title : 'Shapewear',
+								url : 'https://www.klingel.de/damen-shapewear/',
+								econdaMarker : 'Navigation/Header/Damen/Wäsche/Shapewear',
+								lineBreak : 0,
+								count : 6,
+								visible : 0,
+								
+							},
+							{
+								id : 265301,
+								
+								title : 'Strümpfe',
+								url : 'https://www.klingel.de/damen-struempfe/',
+								econdaMarker : 'Navigation/Header/Damen/Wäsche/Strümpfe',
+								lineBreak : 0,
+								count : 7,
+								visible : 0,
+								
+							},
+							{
+								id : 265298,
+								
+								title : 'Unterwäsche',
+								url : 'https://www.klingel.de/damen-unterwaesche/',
+								econdaMarker : 'Navigation/Header/Damen/Wäsche/Unterwäsche',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265244,
+					
+					title : 'Schmuck',
+					url : 'https://www.klingel.de/damen-schmuck/',
+					econdaMarker : 'Navigation/Header/Damen/Schmuck',
+					lineBreak : 0,
+					count : 5,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265326,
+								
+								title : 'Anhänger',
+								url : 'https://www.klingel.de/damen-anhaenger/',
+								econdaMarker : 'Navigation/Header/Damen/Schmuck/Anhänger',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 265327,
+								
+								title : 'Armbänder',
+								url : 'https://www.klingel.de/damen-armbaender/',
+								econdaMarker : 'Navigation/Header/Damen/Schmuck/Armbänder',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 265325,
+								
+								title : 'Broschen',
+								url : 'https://www.klingel.de/damen-broschen/',
+								econdaMarker : 'Navigation/Header/Damen/Schmuck/Broschen',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265328,
+								
+								title : 'Halsketten &amp; Colliers',
+								url : 'https://www.klingel.de/damen-halsketten-colliers/',
+								econdaMarker : 'Navigation/Header/Damen/Schmuck/Halsketten &amp; Colliers',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265329,
+								
+								title : 'Ohrringe',
+								url : 'https://www.klingel.de/damen-ohrringe/',
+								econdaMarker : 'Navigation/Header/Damen/Schmuck/Ohrringe',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 265330,
+								
+								title : 'Ringe',
+								url : 'https://www.klingel.de/damen-ringe/',
+								econdaMarker : 'Navigation/Header/Damen/Schmuck/Ringe',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265332,
+								
+								title : 'Schmucksets',
+								url : 'https://www.klingel.de/damen-schmuck-sets/',
+								econdaMarker : 'Navigation/Header/Damen/Schmuck/Schmucksets',
+								lineBreak : 0,
+								count : 7,
+								visible : 0,
+								
+							},
+							{
+								id : 265324,
+								
+								title : 'Uhren',
+								url : 'https://www.klingel.de/damen-uhren/',
+								econdaMarker : 'Navigation/Header/Damen/Schmuck/Uhren',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265245,
+					
+					title : 'Themen',
+					url : 'https://www.klingel.de/damen-themen/',
+					econdaMarker : 'Navigation/Header/Damen/Themen',
+					lineBreak : 1,
+					count : 6,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265333,
+								
+								title : 'Anlässe',
+								url : 'https://www.klingel.de/anlaesse/',
+								econdaMarker : 'Navigation/Header/Damen/Themen/Anlässe',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265336,
+								
+								title : 'Beratung',
+								url : 'http://www.klingel.de/beratung-und-pflege/',
+								econdaMarker : 'Navigation/Header/Damen/Themen/Beratung',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265335,
+								
+								title : 'Inspiration',
+								url : 'https://www.klingel.de/damen-inspiration/',
+								econdaMarker : 'Navigation/Header/Damen/Themen/Inspiration',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 311185,
+								
+								title : 'Große Größen',
+								url : 'https://www.klingel.de/damen-grosse-groessen/',
+								econdaMarker : 'Navigation/Header/Damen/Themen/Große Größen',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265334,
+								
+								title : 'Trends',
+								url : 'https://www.klingel.de/damen-trends/',
+								econdaMarker : 'Navigation/Header/Damen/Themen/Trends',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265728,
+					
+					title : 'Neu',
+					url : 'https://www.klingel.de/damen-neuheiten/',
+					econdaMarker : 'Navigation/Header/Damen/Neu',
+					lineBreak : 0,
+					count : 7,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265729,
+								
+								title : 'Bekleidung',
+								url : 'https://www.klingel.de/neu-damenbekleidung/',
+								econdaMarker : 'Navigation/Header/Damen/Neu/Bekleidung',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265742,
+								
+								title : 'Accessoires',
+								url : 'https://www.klingel.de/neu-damen-accessoires/',
+								econdaMarker : 'Navigation/Header/Damen/Neu/Accessoires',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 265751,
+								
+								title : 'Wäsche',
+								url : 'https://www.klingel.de/neu-damen-waesche/',
+								econdaMarker : 'Navigation/Header/Damen/Neu/Wäsche',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265763,
+								
+								title : 'Schuhe',
+								url : 'https://www.klingel.de/neu-damen-schuhe/',
+								econdaMarker : 'Navigation/Header/Damen/Neu/Schuhe',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265773,
+								
+								title : 'Schmuck',
+								url : 'https://www.klingel.de/neu-damen-schmuck/',
+								econdaMarker : 'Navigation/Header/Damen/Neu/Schmuck',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265246,
+					
+					title : 'Marken',
+					url : 'https://www.klingel.de/damenmode-marken/',
+					econdaMarker : 'Navigation/Header/Damen/Marken',
+					lineBreak : 1,
+					count : 8,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 387684,
+								
+								title : 'KIM KARA',
+								url : 'http://www.klingel.de/damenmode/kim-kara/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/KIM KARA',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265194,
+								
+								title : 'Laura Kent',
+								url : 'http://www.klingel.de/damenmode/laura-kent/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/Laura Kent',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265193,
+								
+								title : 'Paola!',
+								url : 'http://www.klingel.de/damenmode/paola/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/Paola!',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 349184,
+								
+								title : 'Betty Barclay',
+								url : 'http://www.klingel.de/damenmode/betty-barclay/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/Betty Barclay',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265197,
+								
+								title : 'Jenny by Ara',
+								url : 'http://www.klingel.de/damenmode/jenny/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/Jenny by Ara',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 388684,
+								
+								title : 'Fossil',
+								url : 'http://www.klingel.de/damenmode/fossil/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/Fossil',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 389685,
+								
+								title : 'Maritim',
+								url : 'http://www.klingel.de/damenmode/maritim/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/Maritim',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 385684,
+								
+								title : 'Sunflair',
+								url : 'http://www.klingel.de/damenmode/sunflair/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/Sunflair',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							},
+							{
+								id : 365684,
+								
+								title : 'Alba Moda',
+								url : 'http://www.klingel.de/damenmode/alba-moda/',
+								econdaMarker : 'Navigation/Header/Damen/Marken/Alba Moda',
+								lineBreak : 0,
+								count : 9,
+								visible : 0,
+								
+							}
+					]
+				}
+			]
+		},
+		'265236' : {
+			title : 'Herren',
+			url : 'https://www.klingel.de/herrenmode/',
+			id : '265236',
+			econdaMarker : 'Navigation/Header/',
+			count : 2,
+			
+			
+			categories : [
+			
+				 {
+					id : 265251,
+					
+					title : 'Bekleidung',
+					url : 'https://www.klingel.de/herrenbekleidung/',
+					econdaMarker : 'Navigation/Header/Herren/Bekleidung',
+					lineBreak : 0,
+					count : 1,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265337,
+								
+								title : 'Bademode',
+								url : 'https://www.klingel.de/herren-bademode/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Bademode',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265338,
+								
+								title : 'Hemden',
+								url : 'https://www.klingel.de/herren-hemden/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Hemden',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265339,
+								
+								title : 'Hosen',
+								url : 'https://www.klingel.de/herren-hosen/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Hosen',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265340,
+								
+								title : 'Jacken',
+								url : 'https://www.klingel.de/herren-jacken/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Jacken',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265341,
+								
+								title : 'Pullover &amp; Strick',
+								url : 'https://www.klingel.de/herren-pullover-strick/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Pullover &amp; Strick',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 265723,
+								
+								title : 'Sweat',
+								url : 'https://www.klingel.de/sweat/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Sweat',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265342,
+								
+								title : 'Sakkos &amp; Anzüge',
+								url : 'https://www.klingel.de/herren-sakkos-anzuege/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Sakkos &amp; Anzüge',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265343,
+								
+								title : 'Shirts',
+								url : 'https://www.klingel.de/herren-shirts/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Shirts',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							},
+							{
+								id : 265344,
+								
+								title : 'Sport',
+								url : 'https://www.klingel.de/herren-sport/',
+								econdaMarker : 'Navigation/Header/Herren/Bekleidung/Sport',
+								lineBreak : 0,
+								count : 9,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265252,
+					
+					title : 'Accessoires',
+					url : 'https://www.klingel.de/herren-accessoires/',
+					econdaMarker : 'Navigation/Header/Herren/Accessoires',
+					lineBreak : 1,
+					count : 2,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265305,
+								
+								title : 'Gürtel',
+								url : 'https://www.klingel.de/herren-guertel/',
+								econdaMarker : 'Navigation/Header/Herren/Accessoires/Gürtel',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265306,
+								
+								title : 'Schals',
+								url : 'https://www.klingel.de/herren-schals/',
+								econdaMarker : 'Navigation/Header/Herren/Accessoires/Schals',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265307,
+								
+								title : 'Taschen',
+								url : 'https://www.klingel.de/herren-taschen/',
+								econdaMarker : 'Navigation/Header/Herren/Accessoires/Taschen',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265308,
+								
+								title : 'Geldbörsen &amp; Etuis',
+								url : 'https://www.klingel.de/herren-geldboersen-etuis/',
+								econdaMarker : 'Navigation/Header/Herren/Accessoires/Geldbörsen &amp; Etuis',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265309,
+								
+								title : 'Regenschirme',
+								url : 'https://www.klingel.de/herren-regenschirme/',
+								econdaMarker : 'Navigation/Header/Herren/Accessoires/Regenschirme',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265248,
+					
+					title : 'Schuhe',
+					url : 'https://www.klingel.de/herren-schuhe/',
+					econdaMarker : 'Navigation/Header/Herren/Schuhe',
+					lineBreak : 0,
+					count : 3,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265345,
+								
+								title : 'Halbschuhe',
+								url : 'https://www.klingel.de/herren-halbschuhe/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Halbschuhe',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265346,
+								
+								title : 'Sandalen',
+								url : 'https://www.klingel.de/herren-sandalen/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Sandalen',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 265347,
+								
+								title : 'Pantoletten',
+								url : 'https://www.klingel.de/herren-pantoletten/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Pantoletten',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265348,
+								
+								title : 'Clogs',
+								url : 'https://www.klingel.de/herren-clogs/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Clogs',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265349,
+								
+								title : 'Hausschuhe',
+								url : 'https://www.klingel.de/herren-hausschuhe/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Hausschuhe',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 265350,
+								
+								title : 'Stiefeletten',
+								url : 'https://www.klingel.de/herren-stiefeletten/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Stiefeletten',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265351,
+								
+								title : 'Sneakers',
+								url : 'https://www.klingel.de/herren-sneakers/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Sneakers',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265352,
+								
+								title : 'Sportschuhe',
+								url : 'https://www.klingel.de/herren-sportschuhe/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Sportschuhe',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							},
+							{
+								id : 265353,
+								
+								title : 'Schuhzubehör',
+								url : 'https://www.klingel.de/herren-schuh-zubehoer/',
+								econdaMarker : 'Navigation/Header/Herren/Schuhe/Schuhzubehör',
+								lineBreak : 0,
+								count : 9,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265247,
+					
+					title : 'Wäsche',
+					url : 'https://www.klingel.de/herren-waesche/',
+					econdaMarker : 'Navigation/Header/Herren/Wäsche',
+					lineBreak : 1,
+					count : 4,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265310,
+								
+								title : 'Bademäntel',
+								url : 'https://www.klingel.de/herren-bademaentel/',
+								econdaMarker : 'Navigation/Header/Herren/Wäsche/Bademäntel',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 265311,
+								
+								title : 'Nachtwäsche',
+								url : 'https://www.klingel.de/herren-nachtwaesche/',
+								econdaMarker : 'Navigation/Header/Herren/Wäsche/Nachtwäsche',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265312,
+								
+								title : 'Socken',
+								url : 'https://www.klingel.de/herren-socken/',
+								econdaMarker : 'Navigation/Header/Herren/Wäsche/Socken',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265313,
+								
+								title : 'Unterwäsche',
+								url : 'https://www.klingel.de/herren-unterwaesche/',
+								econdaMarker : 'Navigation/Header/Herren/Wäsche/Unterwäsche',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265314,
+								
+								title : 'Homewear',
+								url : 'https://www.klingel.de/herren-homewear/',
+								econdaMarker : 'Navigation/Header/Herren/Wäsche/Homewear',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265249,
+					
+					title : 'Schmuck',
+					url : 'https://www.klingel.de/herren-schmuck/',
+					econdaMarker : 'Navigation/Header/Herren/Schmuck',
+					lineBreak : 0,
+					count : 5,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265357,
+								
+								title : 'Anhänger',
+								url : 'https://www.klingel.de/herren-anhaenger/',
+								econdaMarker : 'Navigation/Header/Herren/Schmuck/Anhänger',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265355,
+								
+								title : 'Armbänder',
+								url : 'https://www.klingel.de/herren-armbaender/',
+								econdaMarker : 'Navigation/Header/Herren/Schmuck/Armbänder',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265356,
+								
+								title : 'Halsketten',
+								url : 'https://www.klingel.de/herren-halsketten/',
+								econdaMarker : 'Navigation/Header/Herren/Schmuck/Halsketten',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265358,
+								
+								title : 'Ringe',
+								url : 'https://www.klingel.de/herren-ringe/',
+								econdaMarker : 'Navigation/Header/Herren/Schmuck/Ringe',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265354,
+								
+								title : 'Uhren',
+								url : 'https://www.klingel.de/herren-uhren/',
+								econdaMarker : 'Navigation/Header/Herren/Schmuck/Uhren',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265250,
+					
+					title : 'Themen',
+					url : 'https://www.klingel.de/herren-themen/',
+					econdaMarker : 'Navigation/Header/Herren/Themen',
+					lineBreak : 1,
+					count : 6,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265360,
+								
+								title : 'Abendmode',
+								url : 'https://www.klingel.de/herren-abendmode/',
+								econdaMarker : 'Navigation/Header/Herren/Themen/Abendmode',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265365,
+								
+								title : 'Outdoor',
+								url : 'https://www.klingel.de/herren-outdoor/',
+								econdaMarker : 'Navigation/Header/Herren/Themen/Outdoor',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265361,
+								
+								title : 'Landhausmode',
+								url : 'https://www.klingel.de/landhausmode/',
+								econdaMarker : 'Navigation/Header/Herren/Themen/Landhausmode',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265359,
+								
+								title : 'Trends',
+								url : 'https://www.klingel.de/herren-trends/',
+								econdaMarker : 'Navigation/Header/Herren/Themen/Trends',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 266056,
+								
+								title : 'Maritime Mode',
+								url : 'https://www.klingel.de/maritime-mode/',
+								econdaMarker : 'Navigation/Header/Herren/Themen/Maritime Mode',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 265364,
+								
+								title : 'Jeans-Mode',
+								url : 'https://www.klingel.de/herren-jeansmode/',
+								econdaMarker : 'Navigation/Header/Herren/Themen/Jeans-Mode',
+								lineBreak : 0,
+								count : 6,
+								visible : 0,
+								
+							},
+							{
+								id : 311184,
+								
+								title : 'Große Größen',
+								url : 'https://www.klingel.de/herren-grosse-groessen/',
+								econdaMarker : 'Navigation/Header/Herren/Themen/Große Größen',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265783,
+					
+					title : 'Neu',
+					url : 'https://www.klingel.de/herren-neuheiten/',
+					econdaMarker : 'Navigation/Header/Herren/Neu',
+					lineBreak : 0,
+					count : 7,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265784,
+								
+								title : 'Bekleidung',
+								url : 'https://www.klingel.de/neu-herrenbekleidung/',
+								econdaMarker : 'Navigation/Header/Herren/Neu/Bekleidung',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265794,
+								
+								title : 'Accessoires',
+								url : 'https://www.klingel.de/neu-herren-accessoires/',
+								econdaMarker : 'Navigation/Header/Herren/Neu/Accessoires',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 265800,
+								
+								title : 'Wäsche',
+								url : 'https://www.klingel.de/neu-herren-waesche/',
+								econdaMarker : 'Navigation/Header/Herren/Neu/Wäsche',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265804,
+								
+								title : 'Schuhe',
+								url : 'https://www.klingel.de/neu-herren-schuhe/',
+								econdaMarker : 'Navigation/Header/Herren/Neu/Schuhe',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265816,
+								
+								title : 'Schmuck',
+								url : 'https://www.klingel.de/neu-herren-schmuck/',
+								econdaMarker : 'Navigation/Header/Herren/Neu/Schmuck',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 266050,
+					
+					title : 'Marken',
+					url : 'https://www.klingel.de/herrenmode-marken/',
+					econdaMarker : 'Navigation/Header/Herren/Marken',
+					lineBreak : 1,
+					count : 8,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 414684,
+								
+								title : 'Boston Park',
+								url : 'http://www.klingel.de/herrenmode/boston-park/',
+								econdaMarker : 'Navigation/Header/Herren/Marken/Boston Park',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 270684,
+								
+								title : 'Babista',
+								url : 'http://www.klingel.de/herrenmode/babista/',
+								econdaMarker : 'Navigation/Header/Herren/Marken/Babista',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265195,
+								
+								title : 'Roger Kent',
+								url : 'http://www.klingel.de/herrenmode/roger-kent/',
+								econdaMarker : 'Navigation/Header/Herren/Marken/Roger Kent',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 287185,
+								
+								title : 'Gregory',
+								url : 'http://www.klingel.de/herrenmode/gregory/',
+								econdaMarker : 'Navigation/Header/Herren/Marken/Gregory',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 287188,
+								
+								title : 'Meister Anker',
+								url : 'http://www.klingel.de/herrenmode/meister-anker/',
+								econdaMarker : 'Navigation/Header/Herren/Marken/Meister Anker',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 287184,
+								
+								title : 'Rieker',
+								url : 'http://www.klingel.de/herrenmode/rieker/',
+								econdaMarker : 'Navigation/Header/Herren/Marken/Rieker',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 392185,
+								
+								title : 'Pfeilring',
+								url : 'http://www.klingel.de/herrenmode/pfeilring/',
+								econdaMarker : 'Navigation/Header/Herren/Marken/Pfeilring',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 365686,
+								
+								title : 'Ara',
+								url : 'http://www.klingel.de/herrenmode/ara/',
+								econdaMarker : 'Navigation/Header/Herren/Marken/Ara',
+								lineBreak : 0,
+								count : 8,
+								visible : 0,
+								
+							}
+					]
+				}
+			]
+		},
+		'265237' : {
+			title : 'Wohnen',
+			url : 'https://www.klingel.de/wohnen/',
+			id : '265237',
+			econdaMarker : 'Navigation/Header/',
+			count : 3,
+			
+			
+			categories : [
+			
+				 {
+					id : 265253,
+					
+					title : 'Möbel',
+					url : 'https://www.klingel.de/moebel/',
+					econdaMarker : 'Navigation/Header/Wohnen/Möbel',
+					lineBreak : 0,
+					count : 1,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266077,
+								
+								title : 'Regale',
+								url : 'https://www.klingel.de/regale/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Regale',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 266078,
+								
+								title : 'Kommoden',
+								url : 'https://www.klingel.de/kommoden/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Kommoden',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 266079,
+								
+								title : 'Schränke',
+								url : 'https://www.klingel.de/schraenke/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Schränke',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 266080,
+								
+								title : 'Sideboards',
+								url : 'https://www.klingel.de/sideboards/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Sideboards',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265366,
+								
+								title : 'Garderoben',
+								url : 'https://www.klingel.de/garderoben/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Garderoben',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 266081,
+								
+								title : 'Betten',
+								url : 'https://www.klingel.de/betten/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Betten',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265367,
+								
+								title : 'Stühle',
+								url : 'https://www.klingel.de/stuehle/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Stühle',
+								lineBreak : 0,
+								count : 7,
+								visible : 0,
+								
+							},
+							{
+								id : 265368,
+								
+								title : 'Sessel',
+								url : 'https://www.klingel.de/sessel/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Sessel',
+								lineBreak : 0,
+								count : 8,
+								visible : 0,
+								
+							},
+							{
+								id : 266082,
+								
+								title : 'Sofas',
+								url : 'https://www.klingel.de/sofas/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Sofas',
+								lineBreak : 0,
+								count : 9,
+								visible : 1,
+								
+							},
+							{
+								id : 266083,
+								
+								title : 'Tische',
+								url : 'https://www.klingel.de/tische/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Tische',
+								lineBreak : 0,
+								count : 10,
+								visible : 1,
+								
+							},
+							{
+								id : 266084,
+								
+								title : 'Wohnwände',
+								url : 'https://www.klingel.de/wohnwaende/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Wohnwände',
+								lineBreak : 0,
+								count : 11,
+								visible : 0,
+								
+							},
+							{
+								id : 265369,
+								
+								title : 'Lampen',
+								url : 'https://www.klingel.de/lampen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Möbel/Lampen',
+								lineBreak : 0,
+								count : 12,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265256,
+					
+					title : 'Haushalt',
+					url : 'https://www.klingel.de/haushalt/',
+					econdaMarker : 'Navigation/Header/Wohnen/Haushalt',
+					lineBreak : 1,
+					count : 2,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265388,
+								
+								title : 'Reinigungsartikel',
+								url : 'https://www.klingel.de/reinigungsartikel/',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Reinigungsartikel',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 265389,
+								
+								title : 'Bestecke',
+								url : 'https://www.klingel.de/bestecke/',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Bestecke',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265390,
+								
+								title : 'Geschirr',
+								url : 'https://www.klingel.de/geschirr/',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Geschirr',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265391,
+								
+								title : 'Messer',
+								url : 'https://www.klingel.de/messer/',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Messer',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265392,
+								
+								title : 'Pfannen',
+								url : 'https://www.klingel.de/pfannen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Pfannen',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 265393,
+								
+								title : 'Töpfe',
+								url : 'https://www.klingel.de/toepfe/',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Töpfe',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265394,
+								
+								title : 'Küchenzubehör',
+								url : 'https://www.klingel.de/kuechenzubehoer/',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Küchenzubehör',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265395,
+								
+								title : 'Badaccessoires',
+								url : 'https://www.klingel.de/badaccessoires/',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Badaccessoires',
+								lineBreak : 0,
+								count : 8,
+								visible : 0,
+								
+							},
+							{
+								id : 266053,
+								
+								title : 'Haushaltshelfer',
+								url : 'https://www.klingel.de/CategoryDisplay?storeId=100004&amp;urlLangId=-3&amp;beginIndex=0&amp;urlRequestType=Base&amp;categoryId=266053&amp;pageView=&amp;langId=-3&amp;catalogId=1000100000',
+								econdaMarker : 'Navigation/Header/Wohnen/Haushalt/Haushaltshelfer',
+								lineBreak : 0,
+								count : 9,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265255,
+					
+					title : 'Wohnaccessoires',
+					url : 'https://www.klingel.de/wohnaccessoires/',
+					econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires',
+					lineBreak : 0,
+					count : 3,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265380,
+								
+								title : 'Dekofiguren',
+								url : 'https://www.klingel.de/dekofiguren/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Dekofiguren',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 265381,
+								
+								title : 'Beleuchtung',
+								url : 'https://www.klingel.de/beleuchtung/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Beleuchtung',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265382,
+								
+								title : 'Wanddekoration',
+								url : 'https://www.klingel.de/wanddekoration/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Wanddekoration',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265616,
+								
+								title : 'Bilder',
+								url : 'https://www.klingel.de/bilder/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Bilder',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265617,
+								
+								title : 'Bilderrahmen',
+								url : 'https://www.klingel.de/bilderrahmen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Bilderrahmen',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 265618,
+								
+								title : 'Großuhren',
+								url : 'https://www.klingel.de/grossuhren/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Großuhren',
+								lineBreak : 0,
+								count : 6,
+								visible : 0,
+								
+							},
+							{
+								id : 265383,
+								
+								title : 'Aufbewahrungsboxen',
+								url : 'https://www.klingel.de/aufbewahrungsboxen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Aufbewahrungsboxen',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265384,
+								
+								title : 'Spiegel',
+								url : 'https://www.klingel.de/spiegel/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Spiegel',
+								lineBreak : 0,
+								count : 8,
+								visible : 0,
+								
+							},
+							{
+								id : 265385,
+								
+								title : 'Vasen &amp; Schalen',
+								url : 'https://www.klingel.de/vasen-schalen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Vasen &amp; Schalen',
+								lineBreak : 0,
+								count : 9,
+								visible : 0,
+								
+							},
+							{
+								id : 265386,
+								
+								title : 'Dekopflanzen',
+								url : 'https://www.klingel.de/dekopflanzen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Dekopflanzen',
+								lineBreak : 0,
+								count : 10,
+								visible : 1,
+								
+							},
+							{
+								id : 265387,
+								
+								title : 'Dekokissen',
+								url : 'https://www.klingel.de/dekokissen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Dekokissen',
+								lineBreak : 0,
+								count : 11,
+								visible : 1,
+								
+							},
+							{
+								id : 265727,
+								
+								title : 'Deko-Accessoires',
+								url : 'https://www.klingel.de/deko-accessoires/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohnaccessoires/Deko-Accessoires',
+								lineBreak : 0,
+								count : 12,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265254,
+					
+					title : 'Wohntextilien',
+					url : 'https://www.klingel.de/wohntextilien/',
+					econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien',
+					lineBreak : 1,
+					count : 4,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266085,
+								
+								title : 'Matratzen',
+								url : 'https://www.klingel.de/matratzen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Matratzen',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265370,
+								
+								title : 'Gardinen',
+								url : 'https://www.klingel.de/gardinen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Gardinen',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265371,
+								
+								title : 'Badematten',
+								url : 'https://www.klingel.de/badematten/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Badematten',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265372,
+								
+								title : 'Fussmatten',
+								url : 'https://www.klingel.de/fussmatten/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Fussmatten',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265373,
+								
+								title : 'Handtücher ',
+								url : 'https://www.klingel.de/handtuecher/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Handtücher ',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 265374,
+								
+								title : 'Teppiche',
+								url : 'https://www.klingel.de/teppiche/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Teppiche',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265375,
+								
+								title : 'Bettwaren',
+								url : 'https://www.klingel.de/bettwaren/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Bettwaren',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265376,
+								
+								title : 'Tischwäsche',
+								url : 'https://www.klingel.de/tischwaesche/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Tischwäsche',
+								lineBreak : 0,
+								count : 8,
+								visible : 0,
+								
+							},
+							{
+								id : 265377,
+								
+								title : 'Hussen &amp; Überwürfe',
+								url : 'https://www.klingel.de/hussen-ueberwuerfe/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Hussen &amp; Überwürfe',
+								lineBreak : 0,
+								count : 9,
+								visible : 0,
+								
+							},
+							{
+								id : 265378,
+								
+								title : 'Kissenhüllen',
+								url : 'https://www.klingel.de/kissenhuellen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Kissenhüllen',
+								lineBreak : 0,
+								count : 10,
+								visible : 0,
+								
+							},
+							{
+								id : 265379,
+								
+								title : 'Duschvorhang',
+								url : 'https://www.klingel.de/duschvorhang/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Duschvorhang',
+								lineBreak : 0,
+								count : 11,
+								visible : 0,
+								
+							},
+							{
+								id : 419684,
+								
+								title : 'Bettwäsche',
+								url : 'http://www.klingel.de/bettwaesche/',
+								econdaMarker : 'Navigation/Header/Wohnen/Wohntextilien/Bettwäsche',
+								lineBreak : 0,
+								count : 12,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265257,
+					
+					title : 'Garten',
+					url : 'https://www.klingel.de/garten/',
+					econdaMarker : 'Navigation/Header/Wohnen/Garten',
+					lineBreak : 0,
+					count : 5,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265396,
+								
+								title : 'Gartendeko',
+								url : 'https://www.klingel.de/gartendeko/',
+								econdaMarker : 'Navigation/Header/Wohnen/Garten/Gartendeko',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 266086,
+								
+								title : 'Gartenmöbel',
+								url : 'https://www.klingel.de/gartenmoebel/',
+								econdaMarker : 'Navigation/Header/Wohnen/Garten/Gartenmöbel',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 266087,
+								
+								title : 'Gartengeräte',
+								url : 'https://www.klingel.de/gartengeraete/',
+								econdaMarker : 'Navigation/Header/Wohnen/Garten/Gartengeräte',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 266088,
+								
+								title : 'Gartenhelfer',
+								url : 'https://www.klingel.de/gartenhelfer/',
+								econdaMarker : 'Navigation/Header/Wohnen/Garten/Gartenhelfer',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 266089,
+								
+								title : 'Terrassenheizung',
+								url : 'https://www.klingel.de/terrassenheizung/',
+								econdaMarker : 'Navigation/Header/Wohnen/Garten/Terrassenheizung',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 266090,
+								
+								title : 'Grills',
+								url : 'https://www.klingel.de/grills/',
+								econdaMarker : 'Navigation/Header/Wohnen/Garten/Grills',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265258,
+					
+					title : 'Themen',
+					url : 'https://www.klingel.de/wohnen-themen/',
+					econdaMarker : 'Navigation/Header/Wohnen/Themen',
+					lineBreak : 1,
+					count : 6,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 340684,
+								
+								title : 'Die Höhle der Löwen',
+								url : 'https://www.klingel.de/die-hoehle-der-loewen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Themen/Die Höhle der Löwen',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265399,
+								
+								title : 'TV Werbung',
+								url : 'https://www.klingel.de/tv-werbung/',
+								econdaMarker : 'Navigation/Header/Wohnen/Themen/TV Werbung',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265686,
+								
+								title : 'Wohnbereiche',
+								url : 'https://www.klingel.de/wohnbereiche/',
+								econdaMarker : 'Navigation/Header/Wohnen/Themen/Wohnbereiche',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 415684,
+								
+								title : 'Unsere Empfehlungen',
+								url : 'https://www.klingel.de/wohnen-unsere-empfehlungen/',
+								econdaMarker : 'Navigation/Header/Wohnen/Themen/Unsere Empfehlungen',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265822,
+					
+					title : 'Neu',
+					url : 'https://www.klingel.de/wohn-neuheiten/',
+					econdaMarker : 'Navigation/Header/Wohnen/Neu',
+					lineBreak : 0,
+					count : 7,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265823,
+								
+								title : 'Möbel',
+								url : 'https://www.klingel.de/neu-moebel/',
+								econdaMarker : 'Navigation/Header/Wohnen/Neu/Möbel',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265873,
+								
+								title : 'Haushalt',
+								url : 'https://www.klingel.de/neu-haushalt/',
+								econdaMarker : 'Navigation/Header/Wohnen/Neu/Haushalt',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265839,
+								
+								title : 'Wohnaccessoires',
+								url : 'https://www.klingel.de/neu-wohnaccessoires/',
+								econdaMarker : 'Navigation/Header/Wohnen/Neu/Wohnaccessoires',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265828,
+								
+								title : 'Wohntextilien',
+								url : 'https://www.klingel.de/neu-wohntextilien/',
+								econdaMarker : 'Navigation/Header/Wohnen/Neu/Wohntextilien',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265882,
+								
+								title : 'Garten',
+								url : 'https://www.klingel.de/neu-garten/',
+								econdaMarker : 'Navigation/Header/Wohnen/Neu/Garten',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265259,
+					
+					title : 'Marken',
+					url : 'https://www.klingel.de/wohnen-marken/',
+					econdaMarker : 'Navigation/Header/Wohnen/Marken',
+					lineBreak : 1,
+					count : 8,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 287192,
+								
+								title : 'Biberna',
+								url : 'http://www.klingel.de/wohnen/biberna/',
+								econdaMarker : 'Navigation/Header/Wohnen/Marken/Biberna',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 287193,
+								
+								title : 'SchmidtGard',
+								url : 'http://www.klingel.de/wohnen/schmidtgard/',
+								econdaMarker : 'Navigation/Header/Wohnen/Marken/SchmidtGard',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 287190,
+								
+								title : 'Villeroy &amp; Boch',
+								url : 'http://www.klingel.de/wohnen/villeroy--boch/',
+								econdaMarker : 'Navigation/Header/Wohnen/Marken/Villeroy &amp; Boch',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265205,
+								
+								title : 'WMF',
+								url : 'http://www.klingel.de/wohnen/wmf/',
+								econdaMarker : 'Navigation/Header/Wohnen/Marken/WMF',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265203,
+								
+								title : 'Webschatz',
+								url : 'http://www.klingel.de/wohnen/webschatz/',
+								econdaMarker : 'Navigation/Header/Wohnen/Marken/Webschatz',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 392187,
+								
+								title : 'Grund',
+								url : 'http://www.klingel.de/wohnen/grund/',
+								econdaMarker : 'Navigation/Header/Wohnen/Marken/Grund',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 392186,
+								
+								title : 'Irisette',
+								url : 'http://www.klingel.de/wohnen/irisette/',
+								econdaMarker : 'Navigation/Header/Wohnen/Marken/Irisette',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 365687,
+								
+								title : 'Irisette',
+								url : 'http://www.klingel.de/wohnen/irisette/',
+								econdaMarker : 'Navigation/Header/Wohnen/Marken/Irisette',
+								lineBreak : 0,
+								count : 8,
+								visible : 0,
+								
+							}
+					]
+				}
+			]
+		},
+		'265238' : {
+			title : 'Technik',
+			url : 'https://www.klingel.de/technik/',
+			id : '265238',
+			econdaMarker : 'Navigation/Header/',
+			count : 4,
+			
+			
+			categories : [
+			
+				 {
+					id : 265260,
+					
+					title : 'Computer',
+					url : 'https://www.klingel.de/computer/',
+					econdaMarker : 'Navigation/Header/Technik/Computer',
+					lineBreak : 0,
+					count : 1,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266091,
+								
+								title : 'Tablets',
+								url : 'https://www.klingel.de/tablets/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/Tablets',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 266092,
+								
+								title : 'Laptops',
+								url : 'https://www.klingel.de/laptops/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/Laptops',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 266093,
+								
+								title : 'PC',
+								url : 'https://www.klingel.de/pc/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/PC',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265261,
+								
+								title : 'Foto &amp; Video',
+								url : 'https://www.klingel.de/foto-video/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/Foto &amp; Video',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 266094,
+								
+								title : 'Peripheriegeräte',
+								url : 'https://www.klingel.de/peripheriegeraete/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/Peripheriegeräte',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 266095,
+								
+								title : 'Software',
+								url : 'https://www.klingel.de/software/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/Software',
+								lineBreak : 0,
+								count : 6,
+								visible : 0,
+								
+							},
+							{
+								id : 266096,
+								
+								title : 'Computer-Zubehör',
+								url : 'https://www.klingel.de/computer-zubehoer/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/Computer-Zubehör',
+								lineBreak : 0,
+								count : 7,
+								visible : 0,
+								
+							},
+							{
+								id : 266097,
+								
+								title : 'Bürobedarf',
+								url : 'https://www.klingel.de/buerobedarf/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/Bürobedarf',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							},
+							{
+								id : 266098,
+								
+								title : 'Navigation',
+								url : 'https://www.klingel.de/navigation/',
+								econdaMarker : 'Navigation/Header/Technik/Computer/Navigation',
+								lineBreak : 0,
+								count : 9,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265262,
+					
+					title : 'Telefon',
+					url : 'https://www.klingel.de/telefon/',
+					econdaMarker : 'Navigation/Header/Technik/Telefon',
+					lineBreak : 1,
+					count : 2,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266103,
+								
+								title : 'Mobil',
+								url : 'https://www.klingel.de/mobil/',
+								econdaMarker : 'Navigation/Header/Technik/Telefon/Mobil',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 266104,
+								
+								title : 'Festnetz',
+								url : 'https://www.klingel.de/festnetz/',
+								econdaMarker : 'Navigation/Header/Technik/Telefon/Festnetz',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 266105,
+								
+								title : 'Telefonzubehör',
+								url : 'https://www.klingel.de/telefon-zubehoer/',
+								econdaMarker : 'Navigation/Header/Technik/Telefon/Telefonzubehör',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265263,
+					
+					title : 'TV &amp; Audio',
+					url : 'https://www.klingel.de/tv-audio/',
+					econdaMarker : 'Navigation/Header/Technik/TV &amp; Audio',
+					lineBreak : 0,
+					count : 3,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266106,
+								
+								title : 'Fernseher',
+								url : 'https://www.klingel.de/fernseher/',
+								econdaMarker : 'Navigation/Header/Technik/TV &amp; Audio/Fernseher',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 266067,
+								
+								title : 'DVD &amp; Blu-ray',
+								url : 'https://www.klingel.de/dvd-blu-ray/',
+								econdaMarker : 'Navigation/Header/Technik/TV &amp; Audio/DVD &amp; Blu-ray',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 266068,
+								
+								title : 'Receiver',
+								url : 'https://www.klingel.de/receiver/',
+								econdaMarker : 'Navigation/Header/Technik/TV &amp; Audio/Receiver',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265400,
+								
+								title : 'HiFi-Komponenten',
+								url : 'https://www.klingel.de/hifi-komponenten/',
+								econdaMarker : 'Navigation/Header/Technik/TV &amp; Audio/HiFi-Komponenten',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265401,
+								
+								title : 'Kopfhörer',
+								url : 'https://www.klingel.de/kopfhoerer/',
+								econdaMarker : 'Navigation/Header/Technik/TV &amp; Audio/Kopfhörer',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 266069,
+								
+								title : 'Lautsprecher',
+								url : 'https://www.klingel.de/lautsprecher/',
+								econdaMarker : 'Navigation/Header/Technik/TV &amp; Audio/Lautsprecher',
+								lineBreak : 0,
+								count : 6,
+								visible : 0,
+								
+							},
+							{
+								id : 266070,
+								
+								title : 'TV- &amp; Audio-Zubehör',
+								url : 'https://www.klingel.de/tv-audio-zubehoer/',
+								econdaMarker : 'Navigation/Header/Technik/TV &amp; Audio/TV- &amp; Audio-Zubehör',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265264,
+					
+					title : 'Haushaltsgeräte',
+					url : 'https://www.klingel.de/haushaltsgeraete/',
+					econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte',
+					lineBreak : 1,
+					count : 4,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266071,
+								
+								title : 'Gefrier- &amp; Kühlgeräte',
+								url : 'https://www.klingel.de/gefrier-kuehlgeraete/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Gefrier- &amp; Kühlgeräte',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 266072,
+								
+								title : 'Geschirrspüler',
+								url : 'https://www.klingel.de/geschirrspueler/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Geschirrspüler',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 266073,
+								
+								title : 'Herde &amp; Kochfelder',
+								url : 'https://www.klingel.de/herde-kochfelder/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Herde &amp; Kochfelder',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265402,
+								
+								title : 'Küchenkleingeräte',
+								url : 'https://www.klingel.de/kuechenkleingeraete/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Küchenkleingeräte',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265403,
+								
+								title : 'Kaffee &amp; Espressomaschinen',
+								url : 'https://www.klingel.de/kaffee-espressomaschinen/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Kaffee &amp; Espressomaschinen',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 266074,
+								
+								title : 'Trockner',
+								url : 'https://www.klingel.de/trockner/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Trockner',
+								lineBreak : 0,
+								count : 6,
+								visible : 0,
+								
+							},
+							{
+								id : 266075,
+								
+								title : 'Waschmaschinen',
+								url : 'https://www.klingel.de/waschmaschinen/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Waschmaschinen',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							},
+							{
+								id : 265404,
+								
+								title : 'Bügeln &amp; Nähen',
+								url : 'https://www.klingel.de/buegeln-naehen/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Bügeln &amp; Nähen',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							},
+							{
+								id : 266076,
+								
+								title : 'Raumklimageräte',
+								url : 'https://www.klingel.de/raumklimageraete/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Raumklimageräte',
+								lineBreak : 0,
+								count : 9,
+								visible : 0,
+								
+							},
+							{
+								id : 265405,
+								
+								title : 'Reinigungsgeräte',
+								url : 'https://www.klingel.de/reinigungsgeraete/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Reinigungsgeräte',
+								lineBreak : 0,
+								count : 10,
+								visible : 1,
+								
+							},
+							{
+								id : 265406,
+								
+								title : 'Sicherheitstechnik',
+								url : 'https://www.klingel.de/sicherheitstechnik/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Sicherheitstechnik',
+								lineBreak : 0,
+								count : 11,
+								visible : 0,
+								
+							},
+							{
+								id : 265407,
+								
+								title : 'Haushaltsgeräte-Zubehör',
+								url : 'https://www.klingel.de/haushaltsgeraete-zubehoer/',
+								econdaMarker : 'Navigation/Header/Technik/Haushaltsgeräte/Haushaltsgeräte-Zubehör',
+								lineBreak : 0,
+								count : 12,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265265,
+					
+					title : 'Themen',
+					url : 'https://www.klingel.de/technik-themen/',
+					econdaMarker : 'Navigation/Header/Technik/Themen',
+					lineBreak : 1,
+					count : 5,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266060,
+								
+								title : 'Technik für Senioren',
+								url : 'https://www.klingel.de/technik-fuer-senioren/',
+								econdaMarker : 'Navigation/Header/Technik/Themen/Technik für Senioren',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265849,
+					
+					title : 'Neu',
+					url : 'https://www.klingel.de/technik-neuheiten/',
+					econdaMarker : 'Navigation/Header/Technik/Neu',
+					lineBreak : 0,
+					count : 6,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265850,
+								
+								title : 'Computer',
+								url : 'https://www.klingel.de/neu-computer/',
+								econdaMarker : 'Navigation/Header/Technik/Neu/Computer',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265851,
+								
+								title : 'Foto &amp; Video',
+								url : 'https://www.klingel.de/neu-foto-video/',
+								econdaMarker : 'Navigation/Header/Technik/Neu/Foto &amp; Video',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265852,
+								
+								title : 'Telefon',
+								url : 'https://www.klingel.de/neu-telefon/',
+								econdaMarker : 'Navigation/Header/Technik/Neu/Telefon',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265853,
+								
+								title : 'TV &amp; Audio',
+								url : 'https://www.klingel.de/neu-tv-audio/',
+								econdaMarker : 'Navigation/Header/Technik/Neu/TV &amp; Audio',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265856,
+								
+								title : 'Haushaltsgeräte',
+								url : 'https://www.klingel.de/neu-haushaltsgeraete/',
+								econdaMarker : 'Navigation/Header/Technik/Neu/Haushaltsgeräte',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265266,
+					
+					title : 'Marken',
+					url : 'https://www.klingel.de/technik-marken/',
+					econdaMarker : 'Navigation/Header/Technik/Marken',
+					lineBreak : 1,
+					count : 7,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265202,
+								
+								title : 'AEG',
+								url : 'http://www.klingel.de/technik/aeg/',
+								econdaMarker : 'Navigation/Header/Technik/Marken/AEG',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 403685,
+								
+								title : 'Amica',
+								url : 'http://www.klingel.de/technik/amica/',
+								econdaMarker : 'Navigation/Header/Technik/Marken/Amica',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265201,
+								
+								title : 'Bosch',
+								url : 'http://www.klingel.de/technik/bosch/',
+								econdaMarker : 'Navigation/Header/Technik/Marken/Bosch',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 287200,
+								
+								title : 'Severin',
+								url : 'http://www.klingel.de/technik/severin/',
+								econdaMarker : 'Navigation/Header/Technik/Marken/Severin',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 287199,
+								
+								title : 'Siemens',
+								url : 'http://www.klingel.de/technik/siemens/',
+								econdaMarker : 'Navigation/Header/Technik/Marken/Siemens',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 287197,
+								
+								title : 'WMF',
+								url : 'http://www.klingel.de/technik/wmf/',
+								econdaMarker : 'Navigation/Header/Technik/Marken/WMF',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 365688,
+								
+								title : 'Russell Hobbs',
+								url : 'http://www.klingel.de/technik/russell-hobbs/',
+								econdaMarker : 'Navigation/Header/Technik/Marken/Russell Hobbs',
+								lineBreak : 0,
+								count : 7,
+								visible : 0,
+								
+							}
+					]
+				}
+			]
+		},
+		'265239' : {
+			title : 'Lifestyle',
+			url : 'https://www.klingel.de/lifestyle/',
+			id : '265239',
+			econdaMarker : 'Navigation/Header/',
+			count : 5,
+			
+			
+			categories : [
+			
+				 {
+					id : 265267,
+					
+					title : 'Kosmetik',
+					url : 'https://www.klingel.de/kosmetik/',
+					econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik',
+					lineBreak : 0,
+					count : 1,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265408,
+								
+								title : 'Parfums',
+								url : 'https://www.klingel.de/parfums/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Parfums',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265410,
+								
+								title : 'Make-up',
+								url : 'https://www.klingel.de/make-up/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Make-up',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265411,
+								
+								title : 'Fußpflege',
+								url : 'https://www.klingel.de/fusspflege/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Fußpflege',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265412,
+								
+								title : 'Handpflege',
+								url : 'https://www.klingel.de/handpflege/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Handpflege',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265413,
+								
+								title : 'Gesichtspflege',
+								url : 'https://www.klingel.de/gesichtspflege/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Gesichtspflege',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 265414,
+								
+								title : 'Körperpflege',
+								url : 'https://www.klingel.de/koerperpflege/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Körperpflege',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265415,
+								
+								title : 'Haarpflege',
+								url : 'https://www.klingel.de/haarpflege/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Haarpflege',
+								lineBreak : 0,
+								count : 7,
+								visible : 0,
+								
+							},
+							{
+								id : 265416,
+								
+								title : 'Haarstyling',
+								url : 'https://www.klingel.de/haarstyling/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Haarstyling',
+								lineBreak : 0,
+								count : 8,
+								visible : 1,
+								
+							},
+							{
+								id : 265417,
+								
+								title : 'Haarentfernung',
+								url : 'https://www.klingel.de/haarentfernung/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Kosmetik/Haarentfernung',
+								lineBreak : 0,
+								count : 9,
+								visible : 0,
+								
+							}
+					]
+				},
+				 {
+					id : 265268,
+					
+					title : 'Gesundheit',
+					url : 'https://www.klingel.de/gesundheit/',
+					econdaMarker : 'Navigation/Header/Lifestyle/Gesundheit',
+					lineBreak : 1,
+					count : 2,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265418,
+								
+								title : 'Medizinische Geräte',
+								url : 'https://www.klingel.de/medizinische-geraete/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Gesundheit/Medizinische Geräte',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265419,
+								
+								title : 'Alltagshilfen',
+								url : 'https://www.klingel.de/alltagshilfen/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Gesundheit/Alltagshilfen',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265420,
+								
+								title : 'Bandagen',
+								url : 'https://www.klingel.de/bandagen/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Gesundheit/Bandagen',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265422,
+								
+								title : 'Gelenke &amp; Rheuma',
+								url : 'https://www.klingel.de/gelenke-rheuma/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Gesundheit/Gelenke &amp; Rheuma',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265423,
+								
+								title : 'Wärme- &amp; Kältetherapie',
+								url : 'https://www.klingel.de/waerme-kaeltetherapie/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Gesundheit/Wärme- &amp; Kältetherapie',
+								lineBreak : 0,
+								count : 5,
+								visible : 0,
+								
+							},
+							{
+								id : 265424,
+								
+								title : 'Ernährung',
+								url : 'https://www.klingel.de/ernaehrung/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Gesundheit/Ernährung',
+								lineBreak : 0,
+								count : 6,
+								visible : 1,
+								
+							},
+							{
+								id : 265425,
+								
+								title : 'Massage',
+								url : 'https://www.klingel.de/massage/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Gesundheit/Massage',
+								lineBreak : 0,
+								count : 7,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265269,
+					
+					title : 'Sport &amp; Freizeit',
+					url : 'https://www.klingel.de/fitness/',
+					econdaMarker : 'Navigation/Header/Lifestyle/Sport &amp; Freizeit',
+					lineBreak : 1,
+					count : 3,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265426,
+								
+								title : 'Sportgeräte',
+								url : 'https://www.klingel.de/sportgeraete/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Sport &amp; Freizeit/Sportgeräte',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 266107,
+								
+								title : 'Fahrräder',
+								url : 'https://www.klingel.de/fahrraeder/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Sport &amp; Freizeit/Fahrräder',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265427,
+								
+								title : 'Sportausrüstung',
+								url : 'https://www.klingel.de/sportausruestung/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Sport &amp; Freizeit/Sportausrüstung',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265428,
+								
+								title : 'Pulsuhren',
+								url : 'https://www.klingel.de/pulsuhren/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Sport &amp; Freizeit/Pulsuhren',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 400185,
+								
+								title : 'Roller',
+								url : 'https://www.klingel.de/roller/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Sport &amp; Freizeit/Roller',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265270,
+					
+					title : 'Erotik',
+					url : 'https://www.klingel.de/erotik/',
+					econdaMarker : 'Navigation/Header/Lifestyle/Erotik',
+					lineBreak : 0,
+					count : 4,
+					visible : 0,
+					
+					
+					categories : [
+					
+							{
+								id : 265429,
+								
+								title : 'Sexspielzeug',
+								url : 'https://www.klingel.de/sexspielzeug/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Erotik/Sexspielzeug',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 266108,
+								
+								title : 'Unterhaltung',
+								url : 'https://www.klingel.de/erotik-unterhaltung/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Erotik/Unterhaltung',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 266109,
+								
+								title : 'Drogerie',
+								url : 'https://www.klingel.de/erotik-drogerie/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Erotik/Drogerie',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265721,
+								
+								title : 'Reizwäsche',
+								url : 'https://www.klingel.de/reizwaesche/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Erotik/Reizwäsche',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265271,
+					
+					title : 'Reisen',
+					url : 'https://www.klingel.de/reisen/',
+					econdaMarker : 'Navigation/Header/Lifestyle/Reisen',
+					lineBreak : 0,
+					count : 5,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265430,
+								
+								title : 'Koffer',
+								url : 'https://www.klingel.de/koffer/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Reisen/Koffer',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265431,
+								
+								title : 'Trolleys',
+								url : 'https://www.klingel.de/trolleys/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Reisen/Trolleys',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 265432,
+								
+								title : 'Koffersets',
+								url : 'https://www.klingel.de/koffersets/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Reisen/Koffersets',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265433,
+								
+								title : 'Reisetaschen',
+								url : 'https://www.klingel.de/reisetaschen/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Reisen/Reisetaschen',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265434,
+								
+								title : 'Reisezubehör',
+								url : 'https://www.klingel.de/reise-zubehoer/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Reisen/Reisezubehör',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265272,
+					
+					title : 'Themen',
+					url : 'https://www.klingel.de/lifestyle-themen/',
+					econdaMarker : 'Navigation/Header/Lifestyle/Themen',
+					lineBreak : 1,
+					count : 6,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266061,
+								
+								title : 'Romantische Geschenkideen',
+								url : 'https://www.klingel.de/romantische-geschenkideen/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Themen/Romantische Geschenkideen',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 266063,
+								
+								title : 'Unterhaltungsmedien',
+								url : 'https://www.klingel.de/unterhaltungsmedien/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Themen/Unterhaltungsmedien',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 266062,
+								
+								title : 'Wellness',
+								url : 'https://www.klingel.de/wellness/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Themen/Wellness',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 266043,
+								
+								title : 'Persönliche Geschenke',
+								url : 'https://www.klingel.de/persoenliche-geschenke/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Themen/Persönliche Geschenke',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265863,
+					
+					title : 'Neu',
+					url : 'https://www.klingel.de/lifestyle-neuheiten/',
+					econdaMarker : 'Navigation/Header/Lifestyle/Neu',
+					lineBreak : 0,
+					count : 7,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265864,
+								
+								title : 'Kosmetik',
+								url : 'https://www.klingel.de/neu-kosmetik/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Neu/Kosmetik',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265889,
+								
+								title : 'Gesundheit',
+								url : 'https://www.klingel.de/neu-gesundheit/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Neu/Gesundheit',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265898,
+								
+								title : 'Fitness',
+								url : 'https://www.klingel.de/neu-fitness/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Neu/Fitness',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265899,
+								
+								title : 'Erotik',
+								url : 'https://www.klingel.de/neu-erotik/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Neu/Erotik',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265900,
+								
+								title : 'Reisen',
+								url : 'https://www.klingel.de/neu-reisen/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Neu/Reisen',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 265273,
+					
+					title : 'Marken',
+					url : 'https://www.klingel.de/lifestyle-marken/',
+					econdaMarker : 'Navigation/Header/Lifestyle/Marken',
+					lineBreak : 1,
+					count : 8,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 287187,
+								
+								title : 'Beurer',
+								url : 'http://www.klingel.de/lifestyle/beurer/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Marken/Beurer',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 287202,
+								
+								title : 'Calvin Klein',
+								url : 'http://www.klingel.de/lifestyle/calvin-klein/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Marken/Calvin Klein',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 286186,
+								
+								title : 'Chiara B. Ambra',
+								url : 'http://www.klingel.de/lifestyle/chiara-b-ambra/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Marken/Chiara B. Ambra',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 286185,
+								
+								title : 'Ricarda M.',
+								url : 'http://www.klingel.de/lifestyle/ricarda-m/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Marken/Ricarda M.',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 407684,
+								
+								title : 'Prophete',
+								url : 'http://www.klingel.de/lifestyle/prophete/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Marken/Prophete',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							},
+							{
+								id : 365685,
+								
+								title : 'The North Face',
+								url : 'http://www.klingel.de/lifestyle/the-north-face/',
+								econdaMarker : 'Navigation/Header/Lifestyle/Marken/The North Face',
+								lineBreak : 0,
+								count : 6,
+								visible : 0,
+								
+							}
+					]
+				}
+			]
+		},
+		'266044' : {
+			title : 'Sale',
+			url : 'https://www.klingel.de/sale/',
+			id : '266044',
+			econdaMarker : 'Navigation/Header/',
+			count : 6,
+			
+			
+			categories : [
+			
+				 {
+					id : 266045,
+					
+					title : 'Damen',
+					url : 'https://www.klingel.de/damen-sale/',
+					econdaMarker : 'Navigation/Header/Sale/Damen',
+					lineBreak : 0,
+					count : 1,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265911,
+								
+								title : 'Bekleidung',
+								url : 'https://www.klingel.de/sale-damenbekleidung/',
+								econdaMarker : 'Navigation/Header/Sale/Damen/Bekleidung',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265924,
+								
+								title : 'Accessoires',
+								url : 'https://www.klingel.de/sale-damen-accessoires/',
+								econdaMarker : 'Navigation/Header/Sale/Damen/Accessoires',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265933,
+								
+								title : 'Wäsche',
+								url : 'https://www.klingel.de/sale-damen-waesche/',
+								econdaMarker : 'Navigation/Header/Sale/Damen/Wäsche',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265942,
+								
+								title : 'Schuhe',
+								url : 'https://www.klingel.de/sale-damen-schuhe/',
+								econdaMarker : 'Navigation/Header/Sale/Damen/Schuhe',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265955,
+								
+								title : 'Schmuck',
+								url : 'https://www.klingel.de/sale-damen-schmuck/',
+								econdaMarker : 'Navigation/Header/Sale/Damen/Schmuck',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 266046,
+					
+					title : 'Herren',
+					url : 'https://www.klingel.de/herren-sale/',
+					econdaMarker : 'Navigation/Header/Sale/Herren',
+					lineBreak : 1,
+					count : 2,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265965,
+								
+								title : 'Bekleidung',
+								url : 'https://www.klingel.de/sale-herrenbekleidung/',
+								econdaMarker : 'Navigation/Header/Sale/Herren/Bekleidung',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265975,
+								
+								title : 'Accessoires',
+								url : 'https://www.klingel.de/sale-herren-accessoires/',
+								econdaMarker : 'Navigation/Header/Sale/Herren/Accessoires',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265981,
+								
+								title : 'Wäsche',
+								url : 'https://www.klingel.de/sale-herren-waesche/',
+								econdaMarker : 'Navigation/Header/Sale/Herren/Wäsche',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265987,
+								
+								title : 'Schuhe',
+								url : 'https://www.klingel.de/sale-herren-schuhe/',
+								econdaMarker : 'Navigation/Header/Sale/Herren/Schuhe',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265209,
+								
+								title : 'Schmuck',
+								url : 'https://www.klingel.de/sale-herren-schmuck/',
+								econdaMarker : 'Navigation/Header/Sale/Herren/Schmuck',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 266047,
+					
+					title : 'Wohnen',
+					url : 'https://www.klingel.de/wohnen-sale/',
+					econdaMarker : 'Navigation/Header/Sale/Wohnen',
+					lineBreak : 1,
+					count : 3,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265215,
+								
+								title : 'Möbel',
+								url : 'https://www.klingel.de/sale-moebel/',
+								econdaMarker : 'Navigation/Header/Sale/Wohnen/Möbel',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 265220,
+								
+								title : 'Wohntextilien',
+								url : 'https://www.klingel.de/sale-wohntextilien/',
+								econdaMarker : 'Navigation/Header/Sale/Wohnen/Wohntextilien',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 265231,
+								
+								title : 'Wohnaccessoires',
+								url : 'https://www.klingel.de/sale-wohnaccessoires/',
+								econdaMarker : 'Navigation/Header/Sale/Wohnen/Wohnaccessoires',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 265701,
+								
+								title : 'Haushalt',
+								url : 'https://www.klingel.de/sale-haushalt/',
+								econdaMarker : 'Navigation/Header/Sale/Wohnen/Haushalt',
+								lineBreak : 0,
+								count : 4,
+								visible : 1,
+								
+							},
+							{
+								id : 265710,
+								
+								title : 'Garten',
+								url : 'https://www.klingel.de/sale-garten/',
+								econdaMarker : 'Navigation/Header/Sale/Wohnen/Garten',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 266048,
+					
+					title : 'Technik',
+					url : 'https://www.klingel.de/technik-sale/',
+					econdaMarker : 'Navigation/Header/Sale/Technik',
+					lineBreak : 1,
+					count : 4,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 265712,
+								
+								title : 'Computer',
+								url : 'https://www.klingel.de/sale-computer/',
+								econdaMarker : 'Navigation/Header/Sale/Technik/Computer',
+								lineBreak : 0,
+								count : 1,
+								visible : 0,
+								
+							},
+							{
+								id : 265994,
+								
+								title : 'Foto &amp; Video',
+								url : 'https://www.klingel.de/sale-foto-video/',
+								econdaMarker : 'Navigation/Header/Sale/Technik/Foto &amp; Video',
+								lineBreak : 0,
+								count : 2,
+								visible : 0,
+								
+							},
+							{
+								id : 265995,
+								
+								title : 'Telefon',
+								url : 'https://www.klingel.de/sale-telefon/',
+								econdaMarker : 'Navigation/Header/Sale/Technik/Telefon',
+								lineBreak : 0,
+								count : 3,
+								visible : 0,
+								
+							},
+							{
+								id : 265996,
+								
+								title : 'TV &amp; Audio',
+								url : 'https://www.klingel.de/sale-tv-audio/',
+								econdaMarker : 'Navigation/Header/Sale/Technik/TV &amp; Audio',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							},
+							{
+								id : 265999,
+								
+								title : 'Haushaltsgeräte',
+								url : 'https://www.klingel.de/sale-haushaltsgeraete/',
+								econdaMarker : 'Navigation/Header/Sale/Technik/Haushaltsgeräte',
+								lineBreak : 0,
+								count : 5,
+								visible : 1,
+								
+							}
+					]
+				},
+				 {
+					id : 266049,
+					
+					title : 'Lifestyle',
+					url : 'https://www.klingel.de/lifestyle-sale/',
+					econdaMarker : 'Navigation/Header/Sale/Lifestyle',
+					lineBreak : 1,
+					count : 5,
+					visible : 1,
+					
+					
+					categories : [
+					
+							{
+								id : 266006,
+								
+								title : 'Kosmetik',
+								url : 'https://www.klingel.de/sale-kosmetik/',
+								econdaMarker : 'Navigation/Header/Sale/Lifestyle/Kosmetik',
+								lineBreak : 0,
+								count : 1,
+								visible : 1,
+								
+							},
+							{
+								id : 266016,
+								
+								title : 'Gesundheit',
+								url : 'https://www.klingel.de/sale-gesundheit/',
+								econdaMarker : 'Navigation/Header/Sale/Lifestyle/Gesundheit',
+								lineBreak : 0,
+								count : 2,
+								visible : 1,
+								
+							},
+							{
+								id : 266025,
+								
+								title : 'Fitness',
+								url : 'https://www.klingel.de/sale-fitness/',
+								econdaMarker : 'Navigation/Header/Sale/Lifestyle/Fitness',
+								lineBreak : 0,
+								count : 3,
+								visible : 1,
+								
+							},
+							{
+								id : 266032,
+								
+								title : 'Reisen',
+								url : 'https://www.klingel.de/sale-reisen/',
+								econdaMarker : 'Navigation/Header/Sale/Lifestyle/Reisen',
+								lineBreak : 0,
+								count : 4,
+								visible : 0,
+								
+							}
+					]
+				}
+			]
+		}
+	};
+	
+</script>
+
+
+
+
+
+					</div>
+				
+
+
+<div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+	<div class="breadcrumbsContent">
+		<span class="breadcrumbsLabel">Sie sind hier:</span>
+	
+		
+			<span class="breadcrumbsEntry"> 
+				<a id="WC_BreadCrumb_Link_1" href="https://www.klingel.de/"
+				onclick="econdaTracking.trackMarker('Breadcrumb_Navigation/Startseite');"
+				itemprop="url"><span itemprop="title">Startseite</span></a>
+			</span>
+			<span class="breadcrumbsDivider"></span>
+		
+			<span class="breadcrumbsEntry"> 
+				<a id="WC_BreadCrumb_Link_2" href="http://www.klingel.de/zahlungsmoeglichkeiten?catalogId=1000100000&amp;langId=-3&amp;pageNodeId=11481&amp;storeId=100004"
+				onclick="econdaTracking.trackMarker('Breadcrumb_Navigation/Startseite/Infos und Services');"
+				itemprop="url"><span itemprop="title">Infos und Services</span></a>
+			</span>
+			<span class="breadcrumbsDivider"></span>
+		
+	
+		<span class="breadcrumbsEntry last" itemprop="title" data-categoryid="" >Datenschutz und Datensicherheit</span>
+	</div>
+</div>
+
+
+				<div id="mobileSearch">
+					
+		<meta name="CommerceSearch" content="storeId_100004" />
+		
+<div class="mobileSearchContainer">
+	<form name="headerSearchForm" action="/SearchDisplay"
+		onsubmit="$('#mobileSearchTerm').val().trim();econdaTracking.setMarker('Onsite_Search/Originaere_Shopsuche/'+$('#desktopSearchTerm').val(),true);return true;"
+		method="get" id="mobileSearchForm">
+	<div class="mobileSearchLabel"></div>
+	<div class="mobileSearchLeft">
+		<div class="mobileSearchRight">
+			<div class="mobileSearchField">
+					<div class="mobileSearchIcon"></div>
+					<input type="text" class="search_input" name="searchTerm" id="mobileSearchTerm" autocomplete="off" maxlength="65" tabindex="0"
+						data-url="AutoSuggestView?coreName=MC_10000_CatalogEntry_de_DE&amp;serverURL=http://localhost:1024/solr/MC_10000_CatalogEntry_de_DE&amp;catalogId=1000100000&amp;storeId=100004&amp;langId=-3"
+						value='Suchbegriff'>
+					<div class="searchFieldClearIcon"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="mobileSearchButtonContainer">
+		<div class="mobileSearchButton primaryButton" onclick="if(event.preventDefault != undefined)event.preventDefault(); mobileSearchButtonClicked('Suchbegriff');">
+			<div class="buttonIcon"></div>
+			<span class="buttonText">Suchbegriff</span>
+		</div>
+	</div>
+	<div id="mobileSearchPopup" class="search_popup" onmouseover="autoSuggestHover = true;"  onmouseout="autoSuggestHover = false; document.getElementById('mobileSearchTerm').focus();">
+		<div class="row"></div>
+		<a href="#" id="closeMobileSearch">Vorschläge</a>		
+	</div>
+	<input type="hidden" name="storeId" value='100004' />
+	<input type="hidden" name="catalogId" value='1000100000' />
+	<input type="hidden" name="langId" value='-3' />
+	<input type="hidden" name="beginIndex" value="0" />
+	<input type="hidden" name="sType" value="SimpleSearch" />
+	<input type="hidden" name="resultCatEntryType" value="2" />
+	<input type="hidden" name="showResultsPage" value="true" />
+	<input type="hidden" name="searchSource" value="Q" />
+	<input type="hidden" name="pageView" value="" />
+	<input type="hidden" id="categoryId-m" name="categoryId" value="" />
+	</form>
+</div>
+				</div>
+			
+				<div id="content" class="off-canvas">
+			
+			
+			
+		
+			<aside id="sidebar" role="complementary">
+				<div class="sidebarContent">
+					
+
+<div class="categories-menu mobile">
+	<div class="categories-title mobile" onclick="$('.toggle-topbar').click();">
+		Kategorien
+	</div>
+	<ul class="sideNavigation">
+		
+		
+		
+	</ul>
+</div>
+<div class="sideNavRule"></div>
+<div class="main-menu mobile">
+	<div class="sideNavUsername">
+	
+		<a href="https://www.klingel.de/LogonForm?catalogId=1000100000&langId=-3&storeId=100004">
+			<span class="headerLogonGuest">
+				Mein KLiNGEL 
+			</span>
+		</a>
+	
+	</div>
+	
+			<div class="sideMenuItem"><a title="Bestellungen &amp; Rücksendungen" href="https://www.klingel.de/AccountUIView?catalogId=1000100000&langId=-3&storeId=100004#/orders"> Bestellungen &amp; Rücksendungen </a></div>
+		
+	<div class="sideMenuItem"><a title="Kontoauszug" href="https://www.klingel.de/BankStatement?catalogId=1000100000&langId=-3&storeId=100004"> Kontoauszug </a></div>
+	<div class="sideMenuItem"><a title="Passwortverwaltung" href="https://www.klingel.de/ChangePasswordView?catalogId=1000100000&langId=-3&storeId=100004"> Passwortverwaltung </a></div>
+	<div class="sideMenuItem"><a title="Persönliche Daten ändern" href="https://www.klingel.de/GetCustomerAddress?catalogId=1000100000&langId=-3&storeId=100004"> Persönliche Daten ändern </a></div>
+	
+			
+	    <div class="sideNavigationContainer"> 	
+			<ul class="sideNavigation">	
+						
+												
+							<li class="sideMenuItem">
+				        	
+				                	<a href="https://www.klingel.de/bestellschein?catalogId=1000100000&amp;langId=-3&amp;name=Header&amp;storeId=100004">Bestellschein</a>
+				                
+					        </li>
+				        		
+												
+							<li class="sideMenuItem">
+				        	
+				                	<a href="https://www.klingel.de/hilfe-kontakt?catalogId=1000100000&amp;langId=-3&amp;name=Header&amp;storeId=100004">Hilfe & Kontakt</a>
+				                
+					        </li>
+				        		
+												
+							<li class="sideMenuItem">
+				        	
+				                	<a href="https://www.klingel.de/NewsletterSubscriptionView?catalogId=1000100000&amp;langId=-3&amp;name=Header&amp;storeId=100004&amp;catalogId=1000100000&amp;langId=-3&amp;storeId=100004&amp;nlsrc=Shop_Header_Link">Newsletter</a>
+				                
+					        </li>
+				        
+			</ul>
+		</div>
+	
+</div>
+
+<div class="sideNavRule"></div>
+<div> </div>
+
+
+	<ul class="sideNavigation firstLevelNav">
+		
+
+					<li class=" first">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/newsletter-abonnieren" data-econda='Service/ServiceNewsletter'
+							>
+							Newsletter</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/bestellschein" data-econda='Service/ServiceOrderForm'
+							>
+							Bestellschein</a>
+						
+						
+					</li>
+					
+
+					<li class=" selected">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/zahlungsmoeglichkeiten" data-econda='Service/ServiceInformation'
+							>
+							Infos und Services</a>
+						
+						
+
+	<ul class="secondLevelNav">
+		
+
+					<li class=" first">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/zahlungsmoeglichkeiten" data-econda='Service/ServiceDeliveryPayment'
+							>
+							Lieferung und Zahlung</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/entsorgung-umweltschutz/" data-econda='Service/ServiceEnvironment'
+							>
+							Entsorgung & Umweltschutz</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/kundenzufriedenheit/" data-econda='Service/ServiceCertificate'
+							>
+							Kundenzufriedenheit</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/sicher-einkaufen/" data-econda='Service/ServiceShopSafe'
+							>
+							Sicher einkaufen</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/gewinnspiele/" data-econda='Service/ServiceLottery'
+							>
+							Gewinnspiele</a>
+						
+						
+					</li>
+					
+
+					<li class=" selected">
+						
+			
+						<a 
+							class="selected" 
+							href="https://www.klingel.de/datenschutz-und-datensicherheit/" data-econda='Service/ServiceDataSecurity'
+							>
+							Datenschutz und Datensicherheit</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/katalog-anfordern" data-econda='Service/ServiceCatalog'
+							>
+							Katalog anfordern</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/sitemap" data-econda='Service/ServiceSitemap'
+							>
+							Sitemap</a>
+						
+						
+					</li>
+					
+	</ul>
+
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/beratung-und-pflege/" data-econda='Service/ServiceAdvice'
+							>
+							Beratung und Pflege</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/hilfe-kontakt" data-econda='Service/ServiceHelpContact'
+							>
+							Hilfe & Kontakt</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/wegbeschreibungen" data-econda='Service/ServiceAboutKlingel'
+							>
+							Rund um KLiNGEL</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/agb/" data-econda='Service/ServiceGeneralConditions'
+							>
+							AGB</a>
+						
+						
+					</li>
+					
+
+					<li class="">
+						
+			
+						<a 
+							class="" 
+							href="https://www.klingel.de/impressum/" data-econda='Service/ServiceImprint'
+							>
+							Impressum</a>
+						
+						
+					</li>
+					
+	</ul>
+
+				</div>
+				
+			</aside>
+			<section id="main" role="main">
+				<div id="mainContent">
+					
+							<div class="content">
+								
+			
+								<h1>Datenschutz und Datensicherheit</h1>
+<p>Dies ist die Datenschutzerkl&auml;rung von KLiNGEL. Sie finden unsere Webseite im Internet unter www.klingel.de. Benutzer k&ouml;nnen sich hier dar&uuml;ber informieren, welche Daten KLiNGEL von Kunden erhebt und f&uuml;r welche Zwecke sie genutzt werden. Bitte kontaktieren Sie uns, wenn Sie Fragen bez&uuml;glich dieser Erkl&auml;rung haben. Sie k&ouml;nnen uns unter folgender Postadresse erreichen:</p><p>Versandhaus KLiNGEL<br />Sachsenstra&szlig;e 23,<br />75177 Pforzheim</p><h2>Datenschutz, Erhebung und Nutzungen von Kundendaten</h2>
+<p>Unsere Datenschutzpraxis steht im Einklang mit dem Bundesdatenschutzgesetz (BDSG) sowie dem Telemediengesetz (TMG). Wir erheben, speichern und nutzen die f&uuml;r die Gesch&auml;ftsabwicklung n&ouml;tigen Daten. Dar&uuml;ber hinaus erheben wir auch das Geburtsdatum (bei Neukunden), die Telefonnummer und ggf. die E-Mail-Adresse, um den Kunden f&uuml;r eventuelle R&uuml;ckfragen ansprechen zu k&ouml;nnen bzw. ihm bei Internet-Bestellungen eine Bestellbest&auml;tigung zuschicken zu k&ouml;nnen. Die Postadresse wird genutzt, um Kataloge und aktuelle Angebote zusenden zu k&ouml;nnen. Wir geben f&uuml;r Bestellannahme, Versand, Verarbeitung und Pflege der Kundendaten personenbezogene Daten an hierf&uuml;r spezialisierte Dienstleister wie Call-Center, Zusteller und EDV-Dienstleister.Sofern Sie eingewilligt haben, nutzen wir eine angegebene Telefonnummer zudem f&uuml;r die werbliche Ansprache, um &uuml;ber interessante Angebote unseres Hauses zu informieren sowie, bei Kundenanruf, f&uuml;r die Unterst&uuml;tzung eines schnellen Zugriffs auf die Kundendaten. Auch die E-Mail-Adresse kann f&uuml;r unsere Werbezwecke genutzt werden, wenn der Kunde zugestimmt hat. Im &Uuml;brigen pflegen wir einen Datenaustausch der Postadresse mit Versandhandelsunternehmen zu Werbezwecken im Rahmen der Regelungen des BDSG f&uuml;r adressierte Werbung. Der Verwendung aller dieser Daten zu Werbezwecken kann der Kunde jederzeit durch Mitteilung an Versandhaus KLiNGEL, Sachsenstra&szlig;e 23, 75177 Pforzheim widersprechen.</p><p>Zur Wahrung unserer berechtigten Interessen &uuml;bermitteln wir die zu einer Bonit&auml;tspr&uuml;fung ben&ouml;tigten personenbezogenen Daten an die Firma CRIF GmbH, Dessauer Str. 9, 80992 M&uuml;nchen und die infoscore Consumer Data GmbH, Rheinstr. 99, 76532 Baden-Baden. Wir pr&uuml;fen Ihre Bonit&auml;t auf Basis wissenschaftlich anerkannter mathematisch-statistischer Verfahren, in deren Berechnung unter anderem Ihre Anschriftendaten einflie&szlig;en. Die erhaltenen Informationen nutzen wir f&uuml;r die weiteren Entscheidungen bzgl. des Vertragsverh&auml;ltnisses. Ihre schutzw&uuml;rdigen Belange werden gem&auml;&szlig; der gesetzlichen Bestimmungen ber&uuml;cksichtigt.</p><h2>Rechte des Kunden</h2>
+<p>Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskunft &uuml;ber Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder L&ouml;schung dieser Daten.<br /><br />Ihre diesbez&uuml;glichen Anliegen werden jederzeit vertraulich behandelt. Sie k&ouml;nnen unseren betrieblichen Datenschutzbeauftragten dazu unter <a href="mailto:datenschutz@klingel.de">datenschutz@klingel.de</a> oder postalisch unter<br /><br />Versandhaus KLINGEL<br />Datenschutzbeauftragter<br />Sachsenstra&szlig;e 23<br />75177 Pforzheim<br />&nbsp;<br />erreichen.<br />&nbsp;</p><h2>Welche Daten erfasst KLiNGEL beim Besuch seiner Internetseite?</h2>
+<p>Wenn Sie unsere Webseiten besuchen, erfassen wir zun&auml;chst lediglich die folgenden technischen Informationen:</p><ul><li>Klicksequenzen</li>
+<li>HTTP Protokoll Elemente</li>
+<li>Suchbegriffe</li>
+</ul>
+<p>Diese Daten werden f&uuml;r folgende Zwecke verwendet:</p><ul><li>Ausf&uuml;hrung und Unterst&uuml;tzung des gerade laufenden Vorgangs</li>
+<li>Verwaltung der Website und des Systems</li>
+<li>Forschung und Entwicklung</li>
+<li>Einmalige Anpassung</li>
+</ul>
+<p>Wir haben Vereinbarungen mit externen Dienstleistern abgeschlossen, nach der diese den Zugriff auf bestimmte Seiten unserer Website im Zusammenhang mit Werbema&szlig;nahmen registrieren, um Berichte &uuml;ber Seitenabrufe, Statistiken, angeklickte Werbung und/oder andere Surf-Verhalten auf unserer Website anfertigen zu k&ouml;nnen. Soweit von uns gestattet, verwenden die Dienstleister hierzu Cookies, &raquo;Web-Beacons&laquo; und/oder andere Technologien zur Registrierung von Seitenzugriffen, um anonymisierte Statistiken hinsichtlich der Besucher unserer Website anzufertigen. Die hierzu gesammelten Daten sind ausschlie&szlig;lich anonymisierte Daten, die lediglich die Anzahl der Aufrufe bestimmter Seiten unserer Website enthalten. In keinem Fall werden pers&ouml;nliche Daten unserer Kunden an diese Dienstleister &uuml;bermittelt.</p><h2>Erstellung pseudonymer Nutzungsprofile zur Webanalyse</h2>
+<p>Auf dieser Website werden durch den econda Shop Monitor, einem Webanalysedienst des Anbieters econda GmbH, Daten erhoben und gespeichert, aus denen unter Verwendung von Pseudonymen Nutzungsprofile erstellt werden. Diese Nutzungsprofile dienen der Analyse des Besucherverhaltens und werden zur Verbesserung und bedarfsgerechten Gestaltung unseres Angebots ausgewertet. Hierzu k&ouml;nnen Cookies eingesetzt werden. Dies sind kleine Textdateien, die lokal auf dem Rechner des Seitenbesuchers gespeichert werden und so eine Wiedererkennung beim erneuten Besuch unserer Website erm&ouml;glichen. Die pseudonymisierten Nutzungsprofile werden ohne eine gesondert zu erteilende, ausdr&uuml;ckliche Einwilligung des Betroffenen nicht mit personenbezogenen Daten &uuml;ber den Tr&auml;ger des Pseudonyms zusammengef&uuml;hrt. Der Datenerhebung und &ndash;Speicherung zum Zwecke der Webanalyse k&ouml;nnen Sie jederzeit mit Wirkung f&uuml;r die Zukunft widersprechen, indem Sie &uuml;ber diesen Link die Speicherung Ihrer Daten widerrufen: <a href="http://www.econda.de/econda/datenschutz/widerruf-datenspeicherung.html" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=735'); return false;">www.econda.de/econda/datenschutz/widerruf-datenspeicherung.html</a></p><p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (&quot;Google&quot;). Google Analytics verwendet sog. &quot;Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm&ouml;glichen. Die durch den Cookie erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in<br />den USA &uuml;bertragen und dort gespeichert. Im Falle der Aktivierung der IP Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europ&auml;ischen Union oder in anderen Vertragsstaaten des Abkommens &uuml;ber den Europ&auml;ischen Wirtschaftsraum zuvor gek&uuml;rzt. Nur in Ausnahmef&auml;llen wird die volle IP-Adresse an einen Server von Google in den USA &uuml;bertragen und dort gek&uuml;rzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports &uuml;ber die Websiteaktivit&auml;ten zusammenzustellen und um<br />weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegen&uuml;ber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser &uuml;bermittelte IPAdresse wird nicht mit anderen Daten von Google zusammengef&uuml;hrt. Sie k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich werden nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link<br />(<a href="http://tools.google.com/dlpage/gaoptout?hl=de" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=735'); return false;">http://tools.google.com/dlpage/gaoptout?hl=de</a>) verf&uuml;gbare Browser-Plugin herunterladen und installieren.</p><p>N&auml;here Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter<br /><a href="http://www.google.com/analytics/terms/de.html" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=735'); return false;">http://www.google.com/analytics/terms/de.html</a> bzw. unter <a href="http://www.google.com/intl/de/analytics/privacyoverview.html" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=735'); return false;">http://www.google.com/intl/de/analytics/privacyoverview.html</a>. Wir weisen Sie darauf<br />hin, dass auf dieser Webseite Google Analytics um den Code &quot;_gaq.push([&#39;_gat._anonymizeIp&#39;]);&quot; erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gew&auml;hrleisten.</p><p>Wir nutzen Google Analytics zudem dazu, Daten aus AdWords und dem Double-Click-Cookie zu statistischen Zwecken auszuwerten. Sollten Sie dies nicht w&uuml;nschen, k&ouml;nnen Sie dies &uuml;ber den Anzeigenvorgaben-Manager (<a href="http://www.google.com/settings/ads/onweb/?hl=de" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=735'); return false;">http://www.google.com/settings/ads/onweb/?hl=de</a>) deaktivieren.<br /><br />Diese Website nutzt die Dienste von Criteo und Tradedoubler. Diese Dienste verwenden Cookies, um die Surfverhaltensdaten pseudonym zu erfassen und Ihnen kontextualisierte Werbung (Banner, E-Mails...) entsprechend Ihrer Interessen zu bieten. Wenn Sie m&ouml;chten, dass die E-Mail-Angebote f&uuml;r Sie nicht mehr kontextualisiert werden, klicken Sie bitte <a href="http://privacy.criteoemail.com/de/privacy-policy.html" onclick="window.open(this.href, '', 'resizable=yes,status=no,location=no,toolbar=no,menubar=no,fullscreen=no,scrollbars=yes,dependent=no,width=735'); return false;">hier</a>.</p><h2>Wann und wof&uuml;r verwendet KLiNGEL &quot;Cookies&quot;?</h2>
+<p>Um Ihre Online-Bestellung so bequem wie m&ouml;glich zu gestalten, m&uuml;ssen wir aus technischen Gr&uuml;nden beim Betreten von www.klingel.de einen Cookie mit einem Nummerncode setzen. Dies erm&ouml;glicht uns, Ihnen w&auml;hrend Ihres Besuchs den gef&uuml;llten Bestellschein eindeutig zuzuordnen. Damit ist z.B. Ihr bef&uuml;llter Warenkorb auch noch vorhanden, wenn Sie zwischendurch zu einer anderen Internetseite wechseln und anschlie&szlig;end wieder zu uns zur&uuml;ckkommen. Wenn Sie den Cookie nicht akzeptieren, ist diese Zuordnung nicht mehr m&ouml;glich, so dass Sie Ihre bereits notierten Artikel immer sofort wieder verlieren. Daher ist eine Bestellung ohne das Akzeptieren dieses Cookies nicht m&ouml;glich. Ansonsten k&ouml;nnen Sie selbstverst&auml;ndlich s&auml;mtliche Funktionen unserer Website uneingeschr&auml;nkt nutzen oder auch ganz bequem telefonisch oder per Fax bestellen (Bestell- / Servicehotline: 0180/53 200; Fax-Hotline: 0180/5 30 56 70,14 Cent/Minute inkl. MwSt. aus dem deutschen Festnetz. Mobilfunkh&ouml;chstpreis: 42 Cent/Minute inkl. MwSt)</p><h2>Was sind eigentlich &quot;Cookies&quot;?</h2>
+<p>Dies sind kleine Textdateien, die lokal auf dem Rechner des Seitenbesuchers gespeichert werden und so eine Wiedererkennung beim erneuten Besuch unserer Website erm&ouml;glichen.</p><h2>Sind mit Cookies Gefahren verbunden?</h2>
+<p>Es ist regelm&auml;&szlig;ig das Ger&uuml;cht zu h&ouml;ren, Cookies seien gef&auml;hrlich f&uuml;r den Computer des Nutzers. Da es sich aber um ganz einfache Textdateien handelt, k&ouml;nnen diese keine Aktivit&auml;ten ausf&uuml;hren, sondern lediglich Informationen speichern. Folgendes sollten Sie zu Cookies wissen:</p><ul><li>Jeder Webserver kann nur die Cookies auslesen, die er auch selbst gesetzt hat.</li>
+<li>Mittels Cookies k&ouml;nnen keine Viren oder W&uuml;rmer &uuml;bertragen werden.</li>
+<li>Cookies k&ouml;nnen keinerlei Daten auf Ihrem Rechner ausspionieren.</li>
+<li>Es k&ouml;nnen ebenfalls keine E-Mails unbemerkt durch Cookies verschickt werden.</li>
+</ul>
+<p>Wenn Sie dennoch Cookies nicht vertrauen, k&ouml;nnen Sie Ihren Browser so einrichten, dass Cookies nicht oder zumindest nicht unbemerkt akzeptiert werden.</p><h2>So richten Sie den Umgang mit &quot;Cookies&quot; bei Ihrem Browser ein!</h2>
+<p><b>Internet Explorer 11:</b></p><p>&Ouml;ffnen Sie den Desktop, und tippen oder klicken Sie auf der Taskleiste auf das Internet Explorer-Symbol.<br />Tippen oder klicken Sie auf die Schaltfl&auml;che Extras und anschlie&szlig;end auf Internetoptionen.<br />Auf der Registerkarte Datenschutz haben Sie folgende M&ouml;glichkeiten:</p><p>Wenn Sie festlegen m&ouml;chten, welche Typen von Cookies blockiert oder zugelassen werden sollen, bewegen Sie den Schieberegler.</p><ul><li>Tippen / klicken Sie auf Sites, um bestimmte Websites zu blockieren oder zuzulassen.</li>
+<li>Tippen / klicken Sie zum Importieren einer Datei mit Datenschutzeinstellungen auf Importieren.</li>
+<li>Tippen / klicken Sie auf Erweitert, um die Datenschutzeinstellungen f&uuml;r bestimmte Arten von Cookies au&szlig;er Kraft zu setzen.</li>
+<li>Tippen / klicken Sie auf Standard, um die Datenschutzeinstellungen auf die urspr&uuml;ngliche Stufe zur&uuml;ckzusetzen.</li>
+<li>Tippen / klicken Sie auf OK, wenn Sie die gew&uuml;nschten &Auml;nderungen vorgenommen haben.</li>
+</ul>
+<p>Zulassen von Cookies</p><p>Das Blockieren von Cookies kann dazu f&uuml;hren, dass bestimmte Seiten nicht korrekt angezeigt werden. Unter Umst&auml;nden wird auch eine Meldung mit dem Hinweis angezeigt, dass Sie Cookies zulassen m&uuml;ssen, um die Website anzeigen zu k&ouml;nnen.<br />So lassen Sie Cookies zu:</p><ul><li>&Ouml;ffnen Sie den Desktop, und tippen oder klicken Sie auf der Taskleiste auf das Internet Explorer-Symbol.</li>
+<li>Tippen / klicken Sie auf die Schaltfl&auml;che &quot;Extras&quot; und anschlie&szlig;end auf Internetoptionen.</li>
+<li>Tippen / klicken Sie auf die Registerkarte Datenschutz, und bewegen Sie den Schieberegler unter Einstellungen nach unten, um Cookies zuzulassen.</li>
+<li>Tippen / klicken Sie anschlie&szlig;end auf OK.</li>
+</ul>
+<p><br /><b>Mozilla Firefox:</b><br />Die vergleichbaren Einstellungsm&ouml;glichkeiten finden Sie in Firefox im Men&uuml; &raquo;Extras&laquo; unter dem Punkt &raquo;Einstellungen&laquo;. Dort finden Sie dann den Auswahlpunkt &raquo;Datenschutz&laquo;, wo Sie im Bereich &raquo;Cookies&laquo; dann Ihre Einstellungen vornehmen k&ouml;nnen. Beachten Sie aber bitte, dass es bei genereller Ablehnung von Cookies zu Nutzungseinschr&auml;nkungen auf vielen Internetseiten kommen kann.</p><p>Verlassen Sie unsere Webseiten, ohne sich registriert oder etwas bestellt zu haben, so werden diese Daten wieder gel&ouml;scht.</p><p>KLiNGEL ist dar&uuml;ber hinaus st&auml;ndig bem&uuml;ht, Ihre Daten so sicher wie m&ouml;glich zu verarbeiten.</p><h2>Datensicherheit</h2>
+<p><b>Daten&uuml;bertragung mit SSL </b></p><p>Wir sind uns bewusst, dass Datensicherheit beim Einkaufen im Internet f&uuml;r Sie ein wichtiges Thema ist. Daher werden Ihre pers&ouml;nlichen Daten (Adresse, Kundennummer, Bestelldaten ...) bei uns aus vielen Formularen heraus mittels der sogenannten SSL-Technik (Secure Socket Layer SSL 3.0, RC4 mit 128 Bit Verschl&uuml;sselung (Hoch), RSA 1024 Bit &ndash; je nach verwendetem Browser) verschl&uuml;sselt &uuml;bertragen. Damit sind die Daten gegen unbefugten Zugriff gesichert. Sie k&ouml;nnen eine gesicherte Verbindung an diesen Merkmalen erkennen:</p><ul><li>Die angezeigte Adresse beginnt mit &quot;https://...&quot; statt mit &quot;http://...&quot;</li>
+<li>In Ihrem Browser erscheint am unteren Fensterrand ein geschlossenes Vorh&auml;ngeschloss.</li>
+</ul>
+<p>N&auml;here Informationen zu unserem SSL-Zertifikat erhalten Sie durch einen Doppelklick auf das angezeigte Vorh&auml;ngeschloss am unteren Fensterrand.</p><h2><b>Datenschutz beim KLiNGEL Newsletter </b></h2>
+<p>Bei Abonnement unseres KLiNGEL Newsletters willigen Sie darin ein, dass wir Ihre angegebenen Daten verwenden, um Ihnen per E-Mail Informationen &uuml;ber Inhalte und Produkte unseres Sortiments zukommen zu lassen. Ihre Einwilligungserkl&auml;rung k&ouml;nnen Sie jederzeit widerrufen. Dies kann schriftlich erfolgen an K - Mail Order GmbH &amp; Co. KG, Sachsenstra&szlig;e 23, 75177 Pforzheim oder per E-Mail an <a href="mailto:service@klingel.de">service@klingel.de</a>.</p><p>Ihre Daten werden an unseren externen Dienstleister ausschlie&szlig;lich zur Verwaltung und zum Hosting der Daten &uuml;bermittelt.</p><p>Mit dem Abonnement unseres Newsletters willigen Sie au&szlig;erdem darin ein, dass wir Ihre Nutzungsdaten zur Erstellung pseudonymisierter Nutzungsprofile f&uuml;r Zwecke der Marktforschung, Werbung oder bedarfsgerechten Gestaltung der Newsletter verwenden d&uuml;rfen. Ferner werden Adress- und Bestelldaten f&uuml;r eigene Marketingzwecke erhoben, verarbeitet und verwendet. Der Verwendung Ihrer Daten k&ouml;nnen Sie jederzeit durch eine formlose Mitteilung an Versandhaus KLiNGEL, Sachsenstra&szlig;e 23, 75177 Pforzheim oder per E-Mail an <a href="mailto:service@klingel.de">service@klingel.de</a> widersprechen.</p><p>Wir erheben und verwenden au&szlig;erdem Ihre Daten, die Sie uns im Rahmen der Nutzung des Kontaktformulars zur Verf&uuml;gung stellen zur Kl&auml;rung Ihrer Anfragen.</p><h2><b>Datenschutz beim Live-Chat</b></h2>
+<p>Diese Website verwendet Userlike, eine Live-Chat Software des Unternehmens Userlike UG (haftungsbeschr&auml;nkt). Userlike verwendet &quot;Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine pers&ouml;nliche Unterhaltung in Form eines Echtzeit-Chats auf der Website mit Ihnen erm&ouml;glichen. Die Angabe von pers&ouml;nlichen Daten ist f&uuml;r die Nutzung nicht erforderlich. Die erhobenen Daten werden nicht dazu genutzt, den Besucher dieser Website pers&ouml;nlich zu identifizieren, und nicht mit personenbezogenen Daten &uuml;ber den Tr&auml;ger des Pseudonyms zusammengef&uuml;hrt.</p><p><b>Ihr KLiNGEL Online-Team</b></p>
+							</div>
+						
+				</div>
+			</section>
+			
+			
+			
+					<div id="mainContent2">
+						
+					</div>
+				
+			
+		</div>
+		
+
+<div id="footer">
+
+	
+		<div class="recommendationContainer  ">
+			
+					<ul class="resp-tabs-list">
+						<li>			
+							Ihre zuletzt gesehenen Artikel
+						</li>
+					</ul> 
+					<div class="resp-tabs-container">  
+						<div data-recotype="historyClick" class="historyClick recommendationBox jcarousel" data-name="Footer_Prudsys_BrowsingHistory" data-visited="false"
+							
+										data-imgwidth="111"
+									
+										data-scrollAmount="6"
+									
+										data-akamaiimg="true"
+									
+										data-fopParam="and"
+									
+										data-clickurl="ClickInfo?evtype=CpgnClick&mpe_id=53530&intv_id=75001&storeId=100004&catalogId=1000100000&langId=-3"
+									
+										data-recoNumber="20"
+									
+										data-isCircular=""
+									
+										data-imgheight="148"
+									
+										data-layout="tabbed"
+									
+										data-displayNumber="6"
+									
+										data-hideNumber="0"
+									
+										data-dfParam=""
+									
+										data-reltype="553"
+									
+										data-backgroundColor=""
+									
+										data-center=""
+									
+										data-hasAutoScroll=""
+									
+										data-urlQuery=""
+									
+										data-recoType="historyClick"
+									
+										data-mouseOver=""
+									
+										data-hasBackgroundColor=""
+									
+										data-dblParam=""
+									>
+						</div>
+					</div>
+				
+		</div>
+	
+
+
+<div class="footerContainer">
+	
+<div class="visBoostTextEspot metaTextEspot">
+	
+</div>
+
+
+
+	
+	<div class="footerRule top"></div>
+	
+	<div class="footerTopRule">
+		<span class="footerTitle">SERVICE BEI KLiNGEL
+		</span>
+	</div>
+	<div class="footerNavContainer">
+		<div class="footerNavigationContainer top">
+			<div class="footerNavigation">
+				
+				<div class="footerNavColumn_Top">
+
+					
+
+						<div class="navTitle ">
+							SERVICE &amp; BERATUNG
+						</div>
+						<div class="footerNavRule"></div>
+
+						
+							<ul class="">
+								
+													<li class="first">
+												
+													<a class="treelink "  href="https://www.klingel.de/beratung-und-pflege" >Beratung & Pflege</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/merkzettel/" >Wunschliste</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/lexikon" >Lexikon</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/zahlungsmoeglichkeiten" >Zahlungsmöglichkeiten</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/lieferbedingungen" >Lieferbedingungen</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/sicher-einkaufen" >Sicher einkaufen</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/gewinnspiele" >Gewinner & Gewinnspiele</a>
+												
+											</li>
+											
+													<li class="last">
+												
+													<a class="treelink "  href="https://www.klingel.de/versandkosten-flatrate-unser-service-fuer-sie-137042/" target ="_blank">Versandkosten-Flatrate</a>
+												
+											</li>
+											
+							</ul>
+						
+				</div>
+			
+				<div class="footerNavColumn_Top">
+
+					
+
+						<div class="navTitle ">
+							ÜBER KLINGEL
+						</div>
+						<div class="footerNavRule"></div>
+
+						
+							<ul class="">
+								
+													<li class="first">
+												
+													<a class="treelink "  href="https://www.klingel.de/impressum" >Impressum</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/sitemap" >Sitemap</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/unser-einzelhandel" >Unser Einzelhandel</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel-gruppe.de/" target ="_blank">Karriere</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/agb" >AGB</a>
+												
+											</li>
+											
+													<li class="last">
+												
+													<a class="treelink "  href="https://www.klingel.de/datenschutz-und-datensicherheit" >Datenschutz & Sicherheit</a>
+												
+											</li>
+											
+							</ul>
+						
+				</div>
+			
+	
+	<div class="footerNewsletterBanner">
+		<form class="newsletterForm newsletterForm_footer" id="footer-NewsletterSubscription" action="NewsletterSubscription" method="post">
+			<input type="hidden" name="storeId" value="100004"> <input type="hidden" name="catalogId" value="1000100000"> <input type="hidden" name="langId" value="-3"> <input type="hidden" id="postalLength"
+				value="" />
+			
+				<input type="hidden" name="nlsrc" value="" />
+			
+			<input type="text" name="name" value="" style="display: none;">
+			<div id="footernewsletterDescription" class="newsletterCustomerSubscribeContainer">		
+				
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/NewsletterSubscriptionBanner_Description_footer/NewsletterSubscriptionBanner_Description_footer">
+		<span style='font-size:130%;'>NEWSLETTER-ANMELDUNG</span>
+	</div>
+<br />Immer auf dem neuesten Stand mit <br />unserem Newsletter. Sichern Sie sich <br />einen <b>5€ Gutschein</b> bei Anmeldung.<br /><span style="font-size: 10px;">Ja, ich möchte über Rabatte, Aktionen und Angebote von KLINGEL (K-Mail Order GmbH &amp; Co. KG, 75177 Pforzheim) per E-Mail informiert werden. Ich kann den Newsletter jederzeit durch email an service@klingel.de oder durch die Abmeldefunktion in dem Newsletter abbestellen. </span>
+			</div>
+			
+			<div class="textFieldContainer">
+				<input type="text" maxlength="300" placeholder="geben Sie Ihre E-Mailadresse an" name="email" id="footeremail">
+			</div>
+			
+			
+			
+			<div class="newsletterContainer" >
+				<button id="footerNewsLetterSub" type="submit" class="primaryButton newsLetterEcondaTracking" data-trackingTarget="Service/Newsletter/Anmelde-Quellen/Shop_footer_NSF">
+					<span class="buttonText long">
+						Jetzt anmelden
+					</span>
+					
+				</button>
+			</div>
+		</form>
+		<div class="newsletterForm_footer footer-newsletterResult" style="display:none">
+			<div id="footer-newsletterSuccess" class="newsletterCustomerSubscribeContainer" style="display:none" >
+				
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/NewsletterSubscriptionBanner_Success_footer/NewsletterSubscriptionBanner_Success_footer">
+		<span style='font-size:130%;'>NEWSLETTER-ANMELDUNG</span>
+	</div>
+
+			</div>
+			<div id="footer-newsletterError" class="newsletterCustomerSubscribeContainer" style="display:none">
+				
+			</div>
+			<div id="footer-newsletterExists" class="newsletterCustomerSubscribeContainer" style="display:none">
+				
+			</div>
+		</div> 
+	</div>
+		
+	<script>
+		window.setTimeout(
+			function(){var input = document.createElement('input');
+				input.setAttribute("type","text");
+				input.setAttribute("style", "display:none;");
+				input.setAttribute("name","captcha");
+				input.setAttribute("value","a7m53aa57m");
+				document.getElementById("footer-NewsletterSubscription").appendChild(input);
+			}
+		,4000);
+		sq.addToQ(function(){
+			$("#footer-NewsletterSubscription").data("validator").settings.submitHandler = function(form, evt){
+				var parameters = $("#footer-NewsletterSubscription").serializeArray();
+				parameters.push({"name":"isAjax", "value":true});
+				$.post("/AjaxNewsletterSubscription", parameters, function(data){
+					var response = JSON.parse(data);
+					$('#footer-NewsletterSubscription').hide();
+					$('.footer-newsletterResult').show();
+
+					if(response.code === "STATUS_SUCCESS"){
+						$('#footer-newsletterSuccess').show();
+					} else if (response.code === "STATUS_EXIST"){
+						$('#footer-newsletterExists').show();
+					} else {
+						$('#footer-newsletterError').show();
+					}
+				});
+				evt.preventDefault();
+				return false;
+			}
+		});
+	</script>
+
+				<div class="footerNavColumn_Bottom">
+
+					
+
+						<div class="navTitle ">
+							IN KONTAKT TRETEN
+						</div>
+						<div class="footerNavRule"></div>
+
+						
+							<ul class="">
+								
+													<li class="first">
+												
+													<a class="treelink "  href="https://www.klingel.de/katalog-anfordern" >Katalog anfordern</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.klingel.de/hilfe-kontakt" >Hilfe & Kontakt</a>
+												
+											</li>
+											
+													<li>
+												
+													<a class="treelink "  href="https://www.facebook.com/klingel.de/" target ="_blank">Facebook</a>
+												
+											</li>
+											
+													<li class="last">
+												
+													<a class="treelink "  href="https://www.klingel.de/bestellschein" >Bestellschein</a>
+												
+											</li>
+											
+							</ul>
+						
+				</div>
+			
+		
+				<div class="footerNavColumn-wide">
+					
+				</div>
+			</div>
+		</div>
+		<div class="footerNavigationContainer">
+			<div class="footerNavEspot">
+				<div class="footerNavEspotColumn">
+					
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/W_Footer_A1/W_Footer_A1_Content">
+		<div class="navTitle "><font size="5">F&Uuml;R SIE GEPR&Uuml;FT</font></div>
+<a href="https://www.trustedshops.de/bewertung/info_X1D337639814D7730977B8D4E87634BA6.html"><img at="" filecontent="" footer="" images="" klingel="" src="/filecontent/images/klingel/DE/Footer/TrustedShops-rgb-Siegel_80Hpx.png" style="width: 41px; height: 40px;" /></a>&nbsp;&nbsp; <a href="https://ehi-siegel.de/verbraucher/shops-mit-siegel/zertifizierte-shops/zertifikat/5281cafc454f12030fa5bedf3b5273a2/"><img at="" filecontent="" footer="" images="" klingel="" src="/filecontent/images/klingel/DE/Footer/EHI-Siegel-bevh-RGB-72dpi-50px-Hoehe-mit-Rand.png" style="width: 87px; height: 39px;" /></a>&nbsp; &nbsp;<a href="https://www.certipedia.com/quality_marks/9105059687?locale=de"><img at="" filecontent="" footer="" images="" klingel="" src="/filecontent/images/klingel/DE/Service/AT_TÜV_Siegel.jpg" style="width: 91px; height: 45px;" /></a>
+	</div>
+
+				</div>
+				<div class="footerNavEspotColumn">
+					
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/W_Footer_A2/W_Footer_A2_Activity">
+		<div class="navTitle "><font size="5">UNSERE PARTNER</font></div>
+&nbsp;<img alt="" filecontent="" footer="" images="" klingel="" src="/filecontent/images/klingel/AT/Footer/AT_MasterCard.jpg" style="width: 54px; height: 34px;" /> <img alt="" src="/filecontent/images/klingel/AT/Footer/AT_VISA.jpg" style="width: 54px; height: 35px; margin-right: 25px; margin-left: 25px;" /> <a href="https://www.telekom.de/start"><img alt="" src="/filecontent/images/klingel/DE/Footer/91876a4305.jpg" style="width: 59px; height: 28px; margin-right: 25px; margin-left: 25px;" /></a><a href="https://www.bevh.org/" target="_blank"><img alt="" src="/filecontent/images/klingel/DE/Footer/bvh-Siegel_blau_dt.png" style="width: 51px; height: 34px; margin-right: 25px; margin-left: 25px;" /></a><br />&nbsp;<div><a href="https://www.paypal.com/de/" target="_blank"><img alt="" src="/filecontent/images/klingel/DE/Footer/de-pp-logo-150px.png" style="width: 99px; height: 29px; margin-right: 25px; margin-left: 25px;" /></a><a href="https://www.deutschepost.de/de.html" target="_blank"><img alt="" src="/filecontent/images/klingel/DE/Footer/Post-Logo_klein_02.jpg" style="width: 116px; height: 29px; margin-right: 25px; margin-left: 25px;" /></a></div>
+&nbsp;
+	</div>
+
+				</div>
+				<div class="footerNavEspotColumn">
+					
+				</div>
+				<div class="footerNavEspotColumn last">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="footerRule"></div>
+	
+	
+	
+			
+	    <div class="footerBottomNav"> 	
+			<ul class="">	
+				
+			</ul>
+		</div>
+	
+	
+	
+	<footer> 
+		<div class="footerLogo">
+			
+	
+	<div class="widget_height" tabindex="0" data-tracky="ESpot/PAGENAME/Content/FooterLogo/FooterLogo_Content">
+		<div class="footerLogoContainer"><img alt="" src="/filecontent/images/klingel/Global/Logos/Rebrush/Klingel_Logo-Footer_desk_DE_neu_gek%C3%BCrzt.png" style="width: 263px; height: 66px;" /><p>F&uuml;r ganz normale Heldinnen.</p></div>
+
+	</div>
+
+		</div>
+		
+		<div class="footerDisclaimer">
+			<p>
+				<center>Alle angegebenen Preise sind inklusive gesetzlicher Mehrwertsteuer und zzgl. 4,95 Euro Versandkosten je Bestellung. <br>*Bestell- / Servicehotline: <b>0180-53 200</b> (14 Cent/Minute inkl. MwSt. aus dem deutschen Festnetz. Mobilfunkhöchstpreis: 42 Cent/Minute inkl. MwSt.) . Der Mindestbestellwert beträgt <b>40,- Euro</b>.</center>
+			</p>
+			<p>
+				<center>Copyright © 2016 K - Mail Order GmbH &amp; Co. KG. Alle Rechte vorbehalten.</center>
+			</p>
+		</div>
+	</footer>
+</div>
+
+
+</div>
+
+<script>
+	kmo_wcs_pb$.storeData.setData({
+		langId:"-3",
+		storeLocale:"de_DE",
+		storeId:"100004",
+		catalogId:"1000100000",
+		pageName:"ServicePage"
+	});
+	
+	kmo_wcs_pb$.storeData.setData({
+		imgDir:"/wcsstore/KMOStorefrontAssetStore/images/KlingelRebrush/",
+		currencyFormat:"1,00 €",
+		currencySymbol:"€",
+		
+		akamaiImageServer:true
+		
+	});	
+	
+	
+
+	kmo_wcs_pb$.storeData.setData({
+		brandIdentifier:"Klingel",brandIdentifier:"Klingel",
+		excludedBrands:"KLiNGEL,WENZ,Meyer,GHZ,Manz,Maximex,Wellsana,Schwartinsky,RK,DS Produkte,Karcher,Opus 4,JML,Agema,Stickerein & Textilien,st Rubber Germany,Sinfive,Mia Prodomus,Tristar,Teleshop,Vamos,Happy Size,Vamos,Softline,IGEA,Prophete,Finori,Heinz Hofmann,Notio Living,Kare Design,Meise Möbel,Sino-Living,DOMO,Steinpol Central Services,Joka,Max Winzer,Boltze,Reality Import",
+		delayBeforOpeningLayernavigation:"",
+		delayBeforClosingLayernavigation:"",
+		maxQuantity:parseInt("15",10),
+		breakpoint:"850",
+		readMoreHeight:"",
+		doorpages:""
+	});
+
+	var labels = {
+		loadingIconAlt : "Laden ...",
+		topBarBack : "Zurück",
+		topBarClose : "Menü",
+		mobileFilterApply : "Übernehmen",
+		mobileFilterClose : "Schließen",
+		mobileSort : "Sortieren nach",
+		placeHolder : "Kein Bild vorhanden",
+		zoomLensHint : "Scrollen zum Vergrößern",
+		hours :  "Std.",
+		minutes :  "Min.",
+		of : "slider.of",
+		noSizeMatch : "Keine Angabe möglich",
+		readMore : "	Mehr lesen",
+		readLess : "	Weniger anzeigen",
+		moreSymbols :  "Alle Pflegesymbole einblenden",
+		lessSymbols :  "Symbole ausblenden",
+		moreColors : "mehr Farben",
+		fromPrice : "ab",
+		topfilterMore : "Weitere Filter",
+		topfilterLess : "Weniger Filter",
+		topfilterCloseButton : "Schließen",
+		addToBasketLayerMsg : "Der Artikel wurde erfolgreich in Ihren Warenkorb gelegt.",
+		friendsUnfollow : "Nicht mehr Folgen",
+		friendsFollow : "Folgen",
+		toProductInspiration: "inspiration.toProduct",
+		hotOrNotHeader : "KLINGEL, WIE ES IHNEN GEFÄLLT",
+		hotOrNotDescription : "Einfach per Mausklick wählen, was Ihnen zusagt und was nicht. So können wir Sie Klick für Klick gezielter inspirieren.",
+		JS24hCountdownstrHour : "&nbsp;Std. und&nbsp;",
+		JS24hCountdownstrMinutes : "&nbsp;Min.",
+		soldOut : "Ausverkauft"
+	}
+	var validateLabels = {
+		enterAccountNr : "Bitte geben Sie Ihre Kundennummer ein.",
+		enterFriendAccountNr : "Geben Sie die Kundennummer Ihrer Freundin an.",
+		accountNrTooShort : "Die Kundennummer ist zu kurz.",
+		accountNrTooLong : "	Die angegebene Kundennummer ist zu lang.",
+		enterPasword : "Geben Sie Ihr Passwort an",
+		alphanumericOnly : "Bitte geben Sie nur Zahlen und Buchstaben ein.",
+		pwdTooShort : "Bitte geben Sie mindestens 5 Zeichen ein.",
+		pwdTooLong : "Bitte geben Sie nicht mehr als 15 Zeichen ein.",
+		pwdAlphanumeric : "Bitte geben Sie nur Zahlen und Buchstaben ein.",
+		pwdNotIdentical : "Die neuen Passwörter sind nicht identisch.",
+		pwdVeryWeak : "Sehr schwaches Passwort",
+		pwdWeak : "Schwach",
+		pwdGood : "Gut",
+		pwdStrong : "Stark",
+		pwdTooSimilar : "Schwach",
+		enterPasword : "Geben Sie Ihr Passwort an",
+		chooseGender : "Bitte wählen Sie eine Anrede aus.",
+		enterFirstName : "Geben Sie Ihren Vornamen an",
+		enterFriendFirstName : "Geben Sie den Vornamen Ihrer Freundin an.",
+		enterLastName : "Geben Sie Ihren Nachnamen an",
+		enterFriendLastName : "Geben Sie den Nachnamen Ihrer Freundin an.",
+		enterEmail : "Geben Sie Ihre Emailadresse an",
+		invalidEmail : "Bitte geben Sie eine gültige Emailadresse ein.",
+		enterStreet : "Geben Sie Ihre Straße an",
+		enterFriendStreet : "Geben Sie die Straße Ihrer Freundin an.",
+		enterTelephone : "Geben Sie Ihre Telefonnummer an",
+		enterHouseNumber : "Geben Sie Ihre Hausnummer an",
+		enterFriendHouseNumber : "Geben Sie die Hausnummer Ihrer Freundin an.",
+		enterPostalCode : "Geben Sie Ihre Postleitzahl an",
+		enterFriendPostalCode : "Geben Sie die Postleitzahl Ihrer Freundin an.",
+		selectGift : "Prämienwunsch",
+		enterState : "validate.enterState",
+		enterRegion : "validate.enterRegion",
+		enterPackstationNumber : "Bitte geben Sie eine Packstation-Nummer ein.",
+		enterPostNumber : "Bitte geben Sie Ihre persönliche Postnummer an",
+		packstationNumberTooLong :  "Bitte geben Sie nicht mehr als 3 Ziffern ein.",
+		postnumberTooShort : "Bitte geben Sie mindestens 6 Ziffern ein.",
+		postnumberTooLong : "Bitte geben Sie nicht mehr als 10 Ziffern ein.",
+		enterPostfilialePostNr : "Bitte geben Sie die Post-Nummer an",
+		postfilialePostNrTooLong : "	Die angegebene Nummer der Postfiliale ist zu lang.",
+		enterPostfilialeNumber : "Bitte geben Sie die Nummer der Postfiliale ein.",
+		postfilialeNumberTooShort :  "Die Filialnummer ist zu kurz",
+		postfilialeNumberTooLong :  "Die angegebene Nummer der Postfiliale ist zu lang.",
+		enterKialaPoint : "KIALA Punkt auswählen",
+		enterKialaPostNumber : "KIALA Punkt auswählen",
+		enterBirthdate : "Geben Sie Ihr Geburtsdatum an",
+		invalidDate : "Bitte geben Sie das Geburtsdatum vollständig ein. (Bitte beachten Sie, dass Sie für eine Bestellung das 18. Lebensjahr vollendet haben müssen.)",
+		invalidBirthday : "Bitte geben Sie das Geburtsdatum vollständig ein.",
+		birthYearTooSmall : "Sie müssen älter als 18 Jahre sein.",
+		birthYearTooBig : "Bitte geben Sie einen Wert zwischen 1917 und 1999 ein.",
+		invalidShippingDate : "Bitte geben Sie ein gültiges Datum vollständig ein.",
+		shippingDateInThePast : "Der Liefertermin darf nicht in der Vergangenheit liegen.",
+		over90DaysInTheFuture : "Der Liefertermin darf maximal 90 Tage in der Zukunft liegen.",
+		invalidPaymentDate : "Bitte geben Sie ein gültiges Datum vollständig ein.",
+		numbersOnly : "Hier sind nur Zahlen gültig",
+		lettersOnly : "Bitte geben Sie nur Buchstaben ein.",
+		zipLettersOnly : "validate.zipLettersOnly",
+		fieldLength : "Bitte geben Sie 7 Ziffern ein.",
+		lastNameTooLong : "Bitte geben Sie maximal 50 Zeichen ein.",
+		firstNameTooLong : "Feldwert ist zu lang",
+		nameTooShort : "Bitte geben Sie mindestens 2 Zeichen ein.",
+		streetTooLong : "Bitte geben Sie maximal 50 Zeichen an.",
+		streetNotPostfiliale : "Bitte geben Sie hier ihre Rechnungsadresse ein. Für einen Versand an eine abweichende Adresse können Sie die Optionen auf der rechten Seite nutzen.",
+		cityTooLong : "Bitte geben Sie maximal 50 Zeichen ein.",
+		housenrTooLong : "Zu viele Zeichen",
+		zipCodeTooShort : "Bitte geben Sie 5 Zeichen ein.",
+		zipCodeTooLong : "Postleitzahl zu lang",
+		kialaStreetMissing: "validate.kialaStreetMissing",
+		kialaNameMissing: "validate.kialaNameMissing",
+		kialaNumberMissing: "validate.kialaNumberMissing",
+		kialaZipCodeMissing: "validate.kialaZipCodeMissing",
+		kialaCityMissing: "validate.kialaCityMissing",
+		enterCity : "Geben Sie Ihre Stadt an",
+		enterFriendCity : "Geben Sie die Stadt Ihrer Freundin an.",
+		enterPhoneNumber : "Geben Sie bitte Ihre Telefonnummer an.",
+		invalidPhoneNumber : "Hier sind nur Zahlen gültig.",
+		optionNotSelected : "Bitte wählen Sie eine Anrede aus.",
+		enterFeedback :	"Bitte geben Sie einen Text ein.",
+		subjectSelection :	"Bitte wählen Sie einen Betreff aus, damit wir Ihre Anfrage schnell bearbeiten können.",
+		characterOnly: "Bitte geben Sie nur Buchstaben ein.",
+		codeNLTooShort: "Bitte geben Sie mindestens 2 Zeichen ein.",
+		captchacode: "Bitte geben Sie den Code aus dem Bild korrekt an.",
+		selectCatalog: "Bitte wählen Sie einen Katalog aus.",
+		enterPersonalNumber : "Bitte geben Sie Ihre Personennummer an.",
+		personalNumber2TooShort : "validateLabels.personalNumber2TooShort",
+		personalNumber2TooLong : "validateLabels.personalNumber2TooLong",
+		enter4Chars : "Bitte geben Sie 4 Zeichen ein.",
+		enter2Chars : "Bitte geben Sie 2 Zeichen ein.",
+		invalidMonth : "Bitte geben Sie ein gültiges Datum vollständig ein.",
+		enterCompleteDate: "Geben Sie ein Datum ein",
+		enter4DigitsAnd2Chars : "validateLabels.enter4DigitsAnd2Chars",
+		postalcodeTooShort : "Postleitzahl zu kurz. Bitte korrekt eingeben.",
+		enterHouseRussian : "validateLabels.enterHouseRussian",
+		enterAccountNumber : "validateLabels.enterAccountNumber",
+		enter7Chars : "Bitte geben Sie 7 Zeichen ein.",
+		chooseNrPers: "validateLabels.chooseNrPers",
+		chooseNrPersUnder18: "validateLabels.chooseNrPersUnder18",
+		chooseNettoSalary: "validateLabels.chooseNettoSalary",
+		chooseRent: "validateLabels.chooseRent",
+		chooseOtherMonthlyCosts: "validateLabels.chooseOtherMonthlyCosts",
+		chooseToConfirmRateOrNot: "validateLabels.chooseToConfirmRateOrNot",
+		tooManyChildren:  "validateLabels.tooManyChildren",
+		enterLotteryAnswer:  "validateLabels.enterLotteryAnswer",
+		enterLotteryAGB:  "Bitte bestätigen Sie AGB",
+		enterFathersName:  "	Bitte geben Sie den Namen Ihres Vaters an.",
+		enterValidAccountNr:  "Bitte geben Sie Ihre Kundennummer vollständig an",
+		paymentInThePast : "Bitte geben Sie ein Datum in der Zukunft an. Es ist eine Zahlpause von maximal 180 Tagen möglich.",
+		paymentOverMaxDaysInTheFuture : "Die Zahlpause darf maximal 180 Tage in der Zukunft liegen.",
+		dateOverMaxDays : "Bitte geben Sie einen gültigen Wert für das Feld \"Tag\" ein.",
+		dateOverMaxMonths : "Bitte geben Sie einen gültigen Wert für das Feld \"Monat\" ein.",
+		pwdOnlyLettersAndDigits : "Das Passwort darf nur Buchstaben und Ziffern enthalten.",
+		firstNameTooShort : "	Bitte geben Sie Ihren Vornamen vollständig ein.",
+		lastNameTooShort : "	Bitte geben Sie Ihren Nachnamen vollständig ein.",
+		middleNameTooShort : "Bitte geben Sie Ihren Namen vollständig ein.",
+		cityTooShort : "	Der angegebene Stadtname ist zu kurz.",
+		invalidStreet : "validateLabels.invalidStreet",
+		streetTooShort : "validateLabels.streetTooShort",
+		regionTooShort : "validateLabels.regionTooShort",
+		makeAChoice : "Bitte treffen Sie eine Auswahl.",
+		enterIBAN : "Bitte geben Sie Ihre IBAN-Nummer ein.",
+		tooShortIBAN : "Ihre IBAN ist zu kurz.",
+		tooLongIBAN : "Ihre IBAN ist zu lang.",
+		ibanLengthCountryValidationWrongCountry  : "Bitte geben Sie zuerst den zweistelligen alphabetischen Ländercode ein.",
+		selectIdeal : "validateLabels.selectIdeal",
+		enterAccountHolder : "Bitte geben Sie den Kontoinhaber an.",
+		tooShortAccountHolder : "Bitte geben Sie den Kontoinhaber an.",
+		commentTooLong : "validateLabels.commentTooLong",
+		enterParcelShopIdentifier : "validateLabels.dhl_parcelShopNrRequired",
+		dhlParcelIdTooShort : "validateLabels.dhlParcelIdTooShort",
+		dhlParcelIdTooLong : "validateLabels.dhlParcelIdTooLong",
+		enterLaPosteCustomerId : "validateLabels.enterLaPosteCustomerId",
+		
+		required : "Dies ist ein Pflichtfeld",
+		remote : "Please fix this field.",
+		email : "Please enter a valid email address.",
+		url : "Please enter a valid URL.",
+		date : "Please enter a valid date.",
+		dateISO : "Please enter a valid date ( ISO ).",
+		number : "Please enter a valid number.",
+		digits : "Please enter only digits.",
+		creditcard : "Please enter a valid credit card number.",
+		equalTo : "Please enter the same value again.",
+		maxlength : "Please enter less characters.",
+		minlength : "",
+		rangelength : "Please enter a value within the acceptable range.",
+		range : "Please enter a value within the acceptable range.",
+		max : "Please enter a lower value.",
+		min : "Please enter a higher value."
+	}
+
+</script>
+		<script src="/wcsstore/KMOStorefrontAssetStore/javascript/kmoquery.min.js?201705261134"></script>
+
+		<!--[if (gte IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+<script type="text/javascript" src="/wcsstore/KMOStorefrontAssetStore/javascript/vendor/custom.modernizr.js?201705261134"></script>
+<!--<![endif]-->
+
+
+<script type="text/javascript" id="readyFunctions">/*
+	var hashvalue = window.location.hash;
+	
+	
+	$(document).foundation();
+	$(document).bind("dragstart", function(event) {
+		if (event.target.tagName.toLowerCase() === "a") {
+			event.preventDefault();
+		}
+	});
+	
+	sq.processQb4Ready();
+	
+	$(document).safeReady(function(){
+		$('img[usemap]').rwdImageMaps();
+	
+		
+		if(typeof econdaTracking !== "undefined") {
+			$(".widget_height, .orbit-container li").each(function(){
+				var $value = $(this);
+				if (typeof $value.data("tracky") !== 'undefined'){
+					var links = $value.find("a").not(".generatedLink");
+					links.on("click",function(){
+						econdaTracking.setMarker($value.data("tracky").replace("PAGENAME",econdaPageName),true);
+					});
+					links.each(function(){
+						var oldHref = $(this).attr("href");
+						if(oldHref && oldHref.indexOf("&") > -1){
+							$(this).attr("href", oldHref + "&fromESpot=true");
+						}
+					});
+				}
+			});
+			$('.econdaTrack').on("click", function(e){
+				var marker = $(".selected[data-econda!=''][data-econda]").attr('data-econda');
+				
+				if(marker!='' && marker!='undefined'){
+					econdaTracking.setMarker(marker, false);
+				}	
+				
+			});
+		}
+		
+		$(".generatedLink").each(function(){
+			var $link = $(this);
+			var addHref = $link.attr('href');
+			
+			if(addHref && addHref.indexOf('OrderItemAdd') != -1){
+				$link.removeAttr('href');
+				$link.removeAttr('data-reveal-href');
+				$link.on('click', function(){
+					$("#popupContainer").foundation('reveal', 'open',  {url : addHref});
+				});
+			}
+		});
+				
+		$(".generatedLink").on("mouseup",function(e){
+			var link = $(e.currentTarget);
+			if(link.data("reveal-href") !== undefined){
+				link.attr("href",link.data("reveal-href"));
+			}
+		});
+
+		$(".checkoutPage, .cartTable").on("click", "a.tooltip", function(event){
+			event.preventDefault();
+		});
+		
+		
+		var restrictCategoryNavBoxWidth = function(){
+			if($(window).width() >= 768){
+				$(".categoryNavBox").each(function(){
+					
+					var offsetRight = $(window).width() - ($(this).offset().left + 400);
+					if(offsetRight < 0){
+						var nWidth =   
+						$(this).addClass("restrictWidth");
+					}		
+					else{
+						$(this).removeClass("restrictWidth");
+					}
+				});
+			}
+			else{
+				$(this).removeClass("restrictWidth");
+			}
+		}
+		
+		$(window).on("resize", restrictCategoryNavBoxWidth);
+		
+		restrictCategoryNavBoxWidth();
+		
+		
+		
+		if(typeof sq != 'undefined') {
+			sq.processQ();
+		}
+		
+		
+		$('a[href*=#]:not([href=#])').click(function() {
+			if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
+				&& location.hostname == this.hostname) {
+
+				var target = $(this.hash);
+				target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+				if (target.length) {
+					$('html,body').animate({scrollTop: target.offset().top - ($('#topMenuBar').is(':visible') ? $('#topMenuBar').height() : 0)}, 500);
+					return false;
+				}
+			}
+		});
+		if($(location.href.split("#")[1])) {
+			var target = $('#'+location.href.split("#")[1]);
+			if (target.length) {
+				$('html,body').animate({scrollTop: target.offset().top - ($('#topMenuBar').is(':visible') ? $('#topMenuBar').height() : 0)}, 500);
+				return false;
+			}
+		}
+		
+		
+			$('iframe').each(function(){
+				var xiframeloadjs = $(this).data('xiframeload');
+				if(typeof xiframeloadjs != 'undefined'){
+					$.get('/wcsstore/KMOStorefrontAssetStore/javascript//external/'+xiframeloadjs+'.js');
+				}
+			});
+		
+	}); 
+	$(".thickbox").attr("data-reveal-ajax", "true").attr("data-reveal-id", "popupContainer").addClass("reveal");
+	$(".blank").attr("target", "_blank");
+*/</script>
+<script type="text/javascript">
+	(function(){
+		
+		var loadingScripts = [];
+		var loadScript = function(script) {
+			loadingScripts.push(script);
+			$.ajax({
+				method : 'GET',
+				url : script,
+				dataType : 'text'
+			}).done( function(data){
+				$.globalEval(data);
+				loadingScripts.pop();
+				if(loadingScripts.length === 0){
+					sq.processQAfterLoad();
+				}
+			});
+		};
+		var init = function(){
+			var readyFunctions = $('#readyFunctions').html();
+			var readyJs;
+			
+			if(checkDevice.isIE8()){
+				readyJs = readyFunctions.slice(4, readyFunctions.length-4);
+			} else {
+				readyJs = readyFunctions.slice(2, readyFunctions.length-2);
+			}
+			
+			$.globalEval(readyJs);
+			
+			
+		}
+		try {
+		
+				$.getScript('/wcsstore/KMOStorefrontAssetStore/javascript/kmo.min.js?201705261134',init);
+			
+		} catch(e) {
+			if(window.console){
+				console.log(e);
+			}
+		}
+	})();
+</script>
+
+
+
+<script>
+	
+	$(document).safeReady(function(){
+		var disableFKiller= 0;
+						
+		if (top.location != location && disableFKiller != 1) {
+			top.location.href = document.location.href;
+		}
+	});
+</script>
+	<script type="text/javascript">
+		var ScarabQueue = ScarabQueue || [];
+		(function(id) {
+			if (document.getElementById(id))
+				return;
+			var js = document.createElement('script');
+			js.id = id;
+			js.src = '//cdn.scarabresearch.com/js/17FC8DE5E6582229/scarab-v2.js';
+			var fs = document.getElementsByTagName('script')[0];
+			fs.parentNode.insertBefore(js, fs);
+		})('scarab-js-api');
+		
+		if( ScarabQueue != null ){
+			WebExtendApiActivState = true;
+		}
+		var MerchantID = '17FC8DE5E6582229';
+		
+		
+		var userMail = '';
+	
+	
+var cartItems = [];
+
+	if( WebExtendApiActivState ){
+		ScarabQueue.push(['cart', cartItems]);
+		if(typeof userMail != 'undefined' && userMail != ''){
+			ScarabQueue.push(['setEmail', userMail]);
+		}
+	
+	ScarabQueue.push(['go']);
+}
+
+	</script>
+
+		<div id="popupContainer" class="reveal-modal modal-ServicePage-Popup" data-reveal></div>
+		
+	</div>
+</body>
+</html>

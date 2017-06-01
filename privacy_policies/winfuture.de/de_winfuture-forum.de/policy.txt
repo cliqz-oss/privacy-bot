@@ -1,0 +1,460 @@
+# WinFuture-Forum.de: Datenschutzeinstellungen Windows 10 Pro / Enterprise vs
+Windows 7 Pro - WinFuture-Forum.de
+
+Zum Inhalt wechseln
+
+Suchen
+
+  * Suchbereich:
+  * in diesem Thema
+  * in diesem Forum
+  * Foren
+  * Mitglieder
+  * Hilfe
+  * Kalender
+  * Erweitert
+
+  
+
+Registrieren
+
+Hilfe
+
+  * WinFuture-Forum.de
+  * » Software
+  * » Sicherheit
+
+  * Neue Inhalte
+  * Mitglieder
+  * Kalender
+  * 
+
+###
+
+Nachrichten zum Thema: Sicherheit
+
+Seite 1 von 1
+
+  * Neues Thema
+  * Antworten
+
+##  Datenschutzeinstellungen Windows 10 Pro / Enterprise vs Windows 7 Pro
+
+###
+
+###  #1   Fat Tony
+
+  *   * Freak
+  *   
+
+  * Gruppe: aktive Mitglieder
+  * Beiträge: 1.292
+  * Beigetreten: 28\. September 08
+  * Reputation: 22
+
+geschrieben 14\. Oktober 2016 - 11:50
+
+Hallo,  
+  
+Interesserhalber habe ich mal ein Anliegen bzgl.der Datenschutzeinstellung bei
+Windows 10 und Windows 7.  
+  
+Stimmt es,das die Datenschutzeinstellungen unter Windows 10 Enterprise besser
+sind als die unter  
+Windows 7 Professional / Enterprise,weil man Windows 10 Enterprise besser
+kontrollieren bzw.die  
+Datenschutzeinstellungen vornehmen kann als bei Windows 7 ?  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+### Anzeige
+
+###  #2   dale
+
+  *   * Freak
+  *   
+
+  * Gruppe: aktive Mitglieder
+  * Beiträge: 1.057
+  * Beigetreten: 15\. Februar 08
+  * Reputation: 53
+
+geschrieben 14\. Oktober 2016 - 12:30
+
+Fakt ist das man viele GPO in einer AD wie z.B. den Store verbieten nicht mit
+der  
+Win10 Professional machen kann genau wie manche Updates nicht installieren.  
+  
+Auch die Regkeys zu setzen hilft nix außer auf Enterprise zu wechseln.  
+  
+Selbst wenn ein kaputtes Update verteilt wird , wirst du es bekommen es sei
+den du stellst du Updates auf verzogert ganz abstellen geht bei meiner Pro zu
+hause z.B. nicht. Im Job installieren wir deshalb jetzt noch Win7 auf neue
+Gerate bzw. noch gibts OEM Downgrades wo Win7 vorinstalliert ist.  
+  
+Das schone ist die Enterprise gibt es nicht als OEM das heißt eine Lizenz
+kostet dich uber legale Wege dann ca 150-200€, schon das MS damit auch schon
+bis Juli gewartet hat das bekannt zu geben.  
+  
+Ah was auch nicht geht mit der Pro ist servergespeicherte Profile weiterhin zu
+nutzen das geht auch anscheinend erst wieder mit der Enterprise das haben wir
+schon getestet. Kann aber auch sein das es einfach ein BUG ist  
+  
+Der Datenschutgeraffel ist nochmal ne andere Sache aber da kann man viel via
+Firewall z.B. den Store blocken leider nicht alles.  
+
+Dieser Beitrag wurde von dale bearbeitet: 14. Oktober 2016 - 12:43
+
+Heute schon Datensicherung gemacht?  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #3   Fat Tony
+
+  *   * Freak
+  *   
+
+  * Gruppe: aktive Mitglieder
+  * Beiträge: 1.292
+  * Beigetreten: 28\. September 08
+  * Reputation: 22
+
+geschrieben 14\. Oktober 2016 - 13:04
+
+Ich habe nämlich die Möglichkeit,auf legale weise an einer Windows 10
+Enterprise Lizenz zu kommen,ob  
+ich letztendlich auch wirklich die Lizenz bekomme steht in den Sternen.  
+  
+Ich habe bereits die Windows 10 Enterprise Evaluierungsversionen auf mein PC
+installiert gehabt,und  
+festgestellt,das ich mehr Einstellmöglichkeiten habe wie Einstellungen des
+Datenschutz bzw.Telemetrie als bei  
+Windows 7 Pro / Enterprise.  
+  
+Und da auch jetzt unter Windows 7 geschnüffelt wird,ist es doch im prinzip
+sowieso egal,ob  
+man sich Windows 10 oder Windows 7 installiert.  
+  
+Interessieren tut mich aber nur die version Windows 10 Enterprise,da ich sehr
+viele Einstellmöglichkeiten bzw.  
+Konfigurationsmöglichkeiten habe als unter Windows 10 Pro oder Windows 7 Pro /
+Enterprise.  
+  
+Bei Windows 7 habe ich z.B.keine Möglichkeit wie bei Windows 10
+Datenschutzeinstellungen vorzunehmen,  
+ausser die Schnüffel-Updates zu deinstallieren,aber auch dort besteht die
+möglichkeit,das die Updates  
+beim nächsten Update wieder erscheinen.  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #4   dale
+
+  *   * Freak
+  *   
+
+  * Gruppe: aktive Mitglieder
+  * Beiträge: 1.057
+  * Beigetreten: 15\. Februar 08
+  * Reputation: 53
+
+geschrieben 14\. Oktober 2016 - 13:48
+
+Zitat
+
+auf legale weise an einer Windows 10 Enterprise Lizenz
+
+  
+  
+Ohne Aggreement? Wie das?  
+
+Heute schon Datensicherung gemacht?  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #5   Fat Tony
+
+  *   * Freak
+  *   
+
+  * Gruppe: aktive Mitglieder
+  * Beiträge: 1.292
+  * Beigetreten: 28\. September 08
+  * Reputation: 22
+
+geschrieben 14\. Oktober 2016 - 14:07
+
+Zitat (dale: 14. Oktober 2016 - 13:48)
+
+Ohne Aggreement? Wie das?  
+
+  
+  
+durch meinen Cousin,der arbeitet in einem Welt Konzern und der kommt an
+Windows 10 Enterprise Lizenzen ran.  
+  
+So wie ich das verstanden habe,kann ich oder muß ich für die aktivierung deren
+Surfer nutzen,wie  
+das geht,ob das überhaupt geht,weiß ich nicht.  
+  
+Ich selber nutze Windows 10 Pro x64.  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #6   dale
+
+  *   * Freak
+  *   
+
+  * Gruppe: aktive Mitglieder
+  * Beiträge: 1.057
+  * Beigetreten: 15\. Februar 08
+  * Reputation: 53
+
+geschrieben 14\. Oktober 2016 - 16:19
+
+Das wird ne Volumen Lizenz mit KMS sein, wenn Du dir die MS Lizenzsachen
+reinpfeifst haste dann zwar ein aktiviertes Win10 aber Legal ist anders, da du
+nicht beim dem Konzern arbeitest.  
+
+Heute schon Datensicherung gemacht?  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #7   My1
+
+  *   * Junior
+  *   
+
+  * Gruppe: Mitglieder
+  * Beiträge: 10
+  * Beigetreten: 23\. Februar 17
+  * Reputation: 1
+
+geschrieben Gestern, 13:41
+
+Zitat (dale: 14. Oktober 2016 - 16:19)
+
+Das wird ne Volumen Lizenz mit KMS sein, wenn Du dir die MS Lizenzsachen
+reinpfeifst haste dann zwar ein aktiviertes Win10 aber Legal ist anders, da du
+nicht beim dem Konzern arbeitest.  
+
+  
+  
+könnte man nicht "nur auf dem papier" angestellt sein?  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #8   Ludacris
+
+  *   * Veteran
+  *   
+
+  * Gruppe: Moderation
+  * Beiträge: 4.496
+  * Beigetreten: 28\. Mai 06
+  * Reputation: 176
+
+geschrieben Gestern, 14:08
+
+Mal abgesehen davon, dass der thread bereits 8 Monate alt ist, nein. Selbst
+wenn man "nur auf dem Papier" angestellt ist fallen Lohnnebenkosten und
+Sozialversicherungsbeiträge an. Das einzige was (legal) geht - sofern der
+Konzern die Privatnutzung der Lizenzen (bei entsprechendem Agreement) erlaubt
+ist, dass der Cousin des TE das Gerät des TE als sein eigenes deklariert und
+dort die Lizenz installiert.  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #9   My1
+
+  *   * Junior
+  *   
+
+  * Gruppe: Mitglieder
+  * Beiträge: 10
+  * Beigetreten: 23\. Februar 17
+  * Reputation: 1
+
+geschrieben Gestern, 14:12
+
+dass der thread so alt ich hab ich nicht bemerkt, ich kann aber auch nix für
+wenn der auf winfuture in der box beiträge aus dem Forum auftaucht und damit
+hier ordentlich drauf aufmerksam gemacht wird.  
+hier wars:  
+http://winfuture.de/news,97908.html  
+  
+und fallen lohnnebenkosten auch an wenn es keinen lohn gibt, bspw praktikant
+oder so?  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #10   RalphS
+
+  *   * Pelztier
+  *   
+
+  * Gruppe: VIP Mitglieder
+  * Beiträge: 7.325
+  * Beigetreten: 20\. Juli 07
+  * Reputation: 806
+
+geschrieben Gestern, 15:21
+
+Den Moment, wo das Unternehmen sagt, wir reichen Dir das weiter, den Moment
+darfst Du das auch nutzen. Üblicherweise, aber nicht immer, läuft das dann
+über MAK (Multi Activation Key).  
+  
+Wie das jetzt mit einer Windows Enterpriselizenz für irgendwas-das-kein-
+Firmenkunde-ist aussieht müßt ich gerade passen, gehe aber davon aus, daß wenn
+genug Absatz da ist, daß das mit dem "Firmenkunde" auch egal ist.  
+  
+Mindestabsatz ist aber nach meiner letzten Information "5 Einheiten". Und:
+Windows Enterprise IST NICHT mit einer Windows Home- oder Pro-Lizenz
+vergleichbar.  
+  
+Win-E ist eine Upgradelizenz, welche eine Pro-Lizenz *voraussetzt*. Es muß ein
+Windows Pro bereits vorhanden und ordnungsgemäß installiert sein, und dann
+kann man Win-E per Anytime Upgrade mit dem Schlüssel freischalten.  
+  
+Hat man keine Pro-Lizenz, kann man Windows Enterprise auch nicht nutzen, egal
+ob in der Firma oder im (zu Diskussionszwecken angenommenen) Privathaushalt.  
+
+"If you give a man a fish he is hungry again in an hour. If you teach him to
+catch a fish you do him a good turn."\-- Anne Isabella Thackeray Ritchie  
+  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+###  #11   My1
+
+  *   * Junior
+  *   
+
+  * Gruppe: Mitglieder
+  * Beiträge: 10
+  * Beigetreten: 23\. Februar 17
+  * Reputation: 1
+
+geschrieben Gestern, 15:49
+
+Jetzt bin ich nal ganz neugierig, wo hastn du das mit der Upgrade Lizenz her?  
+
+0
+
+  * Nach oben
+  * Nach oben of the page up there ^
+
+* * *
+
+  * &lt;- Bitdefender?
+  * Sicherheit
+  * Nächstes Thema -&gt;
+
+### Thema verteilen:
+
+  *   *   * 
+  
+
+Seite 1 von 1
+
+  * Neues Thema
+  * Antworten
+
+* * *
+
+##  1 Besucher lesen dieses Thema  
+Mitglieder: 0, Gäste: 1, unsichtbare Mitglieder: 0
+
+### Beitrag entfernen
+
+Aus Ansicht entfernen
+
+Der Beitrag bleibt für Moderatoren weiter in diesem Thema sichtbar
+
+Grund:
+
+Von Thema gelöscht
+
+Dieser Beitrag wird komplett aus dem Thema gelöscht
+
+  
+
+## Design und Sprache
+
+##  Sprache: Deutsch (DU)
+
+## Ausführungsstatistiken
+
+  * Aktuelle Zeit: 01. Jun 2017 17:31 
+
+  * Nach oben
+  * Impressum
+  * Archiv
+  * Cookies entfernen
+  * Forum als gelesen markieren
+
+Community Forum Software by IP.Board
+
+  *[Gestern, 14:08]: 2017-05-31T15:08:25+02:00
+  *[14\. Oktober 2016 - 11:50]: 2016-10-14T12:50:09+02:00
+  *[14\. Oktober 2016 - 16:19]: 2016-10-14T17:19:19+02:00
+  *[14\. Oktober 2016 - 13:48]: 2016-10-14T14:48:52+02:00
+  *[Gestern, 14:12]: 2017-05-31T15:12:42+02:00
+  *[Gestern, 15:21]: 2017-05-31T16:21:09+02:00
+  *[Gestern, 15:49]: 2017-05-31T16:49:20+02:00
+  *[Gestern, 13:41]: 2017-05-31T14:41:00+02:00
+  *[14\. Oktober 2016 - 14:07]: 2016-10-14T15:07:02+02:00
+  *[14\. Oktober 2016 - 12:30]: 2016-10-14T13:30:31+02:00
+  *[14\. Oktober 2016 - 13:04]: 2016-10-14T14:04:02+02:00
+

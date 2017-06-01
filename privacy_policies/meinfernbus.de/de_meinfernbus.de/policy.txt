@@ -1,0 +1,1819 @@
+  * Switch to English
+
+Hey, we have an English version! Would you like to switch to it?
+
+  * Anmelden
+
+Anmelden
+
+  * Buchung ändern / stornieren
+
+meinfernbus.de
+
+  * Home
+  * Buchung
+  * Streckeninfo
+  * Kundenservice
+  * Über uns
+  * Fanshop
+
+#  Datenschutzerklärung und Einwilligung zur Datennutzung
+
+Datenschutz One-Pager
+
+Das Internetportal der FlixMobility GmbH sowie das darin integrierte Buchungs-
+Portal (nachfolgend gemeinsam „Website“) wird von der FlixMobility GmbH,
+Birketweg 33, 80639 München, betrieben (nachfolgend „FlixMobility“ oder
+„wir“). Wir legen großen Wert auf den Schutz Ihrer personenbezogenen Daten.
+Deshalb nimmt der Datenschutz bei FlixMobility GmbH einen hohen Stellenwert
+ein und wir halten uns bei der Erhebung, Verarbeitung und Nutzung streng an
+die gesetzlichen Bestimmungen des Bundesdatenschutzgesetzes und des
+Telemediengesetzes.
+
+Mit der Zustimmung zu der nachfolgenden Datenschutzerklärung willigen Sie
+gegenüber der FlixMobility GmbH in die Erhebung, Verarbeitung und Nutzung
+unter Beachtung der Datenschutzgesetze und der nachfolgenden Bestimmungen ein.
+Die Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen.
+
+## Erhebung, Verarbeitung und Nutzung von personenbezogenen Daten
+
+Personenbezogene Daten sind alle Angaben, die sich auf eine bestimmte oder
+bestimmbare Person beziehen. Dazu gehören zum Beispiel Ihr Name, Ihre
+Telefonnummer oder Ihre Post- und E-Mail-Adresse.
+
+Die Nutzung unserer Webseite ist in der Regel ohne eine Angabe
+personenbezogener Daten möglich.
+
+Zur Abwicklung der Ticketbestellung und zur Durchführung der Beförderung
+erheben, speichern und verarbeiten wir Ihren Vor-und Zunamen und die
+Handynummer. Für die erforderliche Zahlungsabwicklung werden ggf. zusätzlich
+folgende Daten benötigt: Für die Zahlung einer gebuchten Fahrt mit der
+Kreditkarte benötigt FlixMobility Ihren vollständigen Namen, Ihre
+E-Mailadresse sowie die Daten Ihrer Kreditkarte. Die Kreditkartennummer wird
+nicht gespeichert und direkt an den Zahlungsdienstleister weitergeleitet. Bei
+der Zahlung einer gebuchten Fahrt via Lastschriftverfahren erfasst
+FlixMobility Ihren vollständigen Namen, Ihre Anschrift, Ihr Geburtsdatum, Ihre
+E-Mailadresse und Ihre Girokontodaten. Bei einer Zahlung per Sofort-
+Überweisung und Paypal werden keine Zahlungsdaten gespeichert.
+
+Die für die Vertragsabwicklung und zur Durchführung der Busfahrten Daten
+werden im nur erforderlichen Umfang an die durchführenden Busunternehmen und
+sonstige Dritte (z.B. Dienstleister für IT, Beförderung, Kundenservice und
+Zahlungsabwicklung) im Rahmen der Registrierung und zur Abwicklung des
+Ticketverkaufs weitergegeben. In begründeten Fällen (z.B. Beschädigung der
+Busse) behalten wir uns, vor die Kundendaten an die jeweils befördernden
+Buspartner weiterzugeben. Die weitergegebenen Daten dürfen von unseren
+Dienstleistern ausschließlich zur Erfüllung ihrer Aufgabe und nicht für andere
+Zwecke verwendet werden.
+
+FlixMobility gibt keine personenbezogenen Daten zu Werbezwecken an Dritte
+weiter.
+
+## Zahlungsdienstleister
+
+Auf unserer Webseite haben Sie die Möglichkeit, einen Buchungsvorgang
+auszulösen. Ihre Daten werden dazu ggf. an einen der folgenden, im
+Buchungsvorgang jeweils benannten Zahlungsdienstleister, übergeben. Die
+Zahlung kann nur über die im Shop angegebenen Online-Bezahlverfahren erfolgen.
+
+  * Die Abwicklung der Zahlungen erfolgt durch unseren Partner Adyen BV, Simon Carmiggelstraat 6 – 50, 1011 DJ Amsterdam. Zur Prävention und Aufdeckung von Betrugsfällen übermitteln wir Ihre IP-Adresse an unseren Partner Adyen BV, Simon Carmiggelstraat 6 – 50, 1011 DJ Amsterdam. Ihre IP-Adresse wird dabei von der Adyen BV gespeichert. Sämtliche Daten werden verschlüsselt übertragen. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über die Kontaktdaten im Impressum widerrufen.
+  * Die Bezahlungsmethoden Kreditkarte, Giropay und iDeal werden von der Heidelberger Payment GmbH mit Sitz in Gaisbergstr. 11-13, 69115 Heidelberg abgewickelt. Außerdem kommt die Firma PAY.ON AG mit Sitz in Lucile-Grahn-Str. 37, 81675 München in Kontakt mit den Zahlungsdaten. Die Heidelberger Payment GmbH ist ein Zahlungsinstitut im Sinne des Zahlungsdiensteaufsichtsgesetz (ZAG) und bei der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin), Graurheindorfer Str. 108, 53117 Bonn registriert (Registernummer: 122914).
+  * Die Bezahlungsmethode Paypal wird von der PayPal (Europe) S.à r.l. & Cie, S.C.A., 5. Etage, 22-24 Boulevard Royal, L-2449 Luxembourg abgewickelt. Weitere Informationen zum Datenschutz von Paypal finden Sie in der Datenschutzerklärung von Paypal.
+  * Zur Prävention und Aufdeckung von Betrugsfällen übermitteln wir Ihre IP-Adresse an die Paymill GmbH, St.-Cajetan-Straße 43, 81669 München. Ihre IP-Adresse wird dabei von der PAYMILL GmbH für 72 Stunden gespeichert. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über die Kontaktdaten im Impressum widerrufen.
+
+## Bonitätsprüfung beim Lastschriftverfahren über Billpay
+
+Wenn Sie sich für eine der Zahlungsoptionen unseres Partners Billpay GmbH
+entscheiden, werden Sie im Bestellprozess gebeten, in die Übermittlung der für
+die Abwicklung der Zahlung und eine Identitäts- und Bonitätsprüfung
+erforderlichen Daten an Billpay einzuwilligen. Sofern Sie Ihre Einwilligung
+erteilen, werden Ihre Daten (Vor- und Nachname, Straße, Hausnummer,
+Postleitzahl, Ort, Geburtsdatum, Telefonnummer und beim Kauf per Lastschrift
+die angegebene Kontoverbindung) sowie die Daten im Zusammenhang mit Ihrer
+Bestellung an Billpay übermittelt.
+
+Zum Zwecke der eigenen Identitäts- und Bonitätsprüfung übermittelt Billpay
+oder von Billpay beauftragte Partnerunternehmen Daten an
+Wirtschaftsauskunfteien (Auskunfteien) und erhält von diesen Auskünfte sowie
+ggf. Bonitätsinformationen auf Basis mathematisch-statistischer Verfahren, in
+deren Berechnung unter anderem Anschriftendaten einfließen. Detaillierte
+Informationen hierzu und zu den eingesetzten Auskunfteien sind den
+Datenschutzbestimmungen der Billpay GmbH zu entnehmen.
+
+Des Weiteren setzt Billpay zur Aufdeckung und Prävention von Betrug ggf.
+Hilfsmittel Dritter ein. Mit diesen Hilfsmitteln gewonnene Daten werden ggf.
+bei Dritten verschlüsselt gespeichert, so dass sie lediglich von Billpay
+lesbar sind. Nur wenn Sie eine Zahlart unseres Kooperationspartners Billpay
+auswählen, werden diese Daten verwendet, ansonsten verfallen die Daten
+automatisch nach 30 Minuten.
+
+## Paymill GmbH
+
+Zur Prävention und Aufdeckung von Betrugsfällen übermitteln wir Ihre IP-
+Adresse an die Paymill GmbH, St.-Cajetan-Straße 43, 81669 München. Ihre IP-
+Adresse wird dabei von der PAYMILL GmbH für 72 Stunden gespeichert. Sie können
+Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über die Kontaktdaten
+im Impressum widerrufen.
+
+## User Login / Kundenkonto
+
+Sie haben bei uns die Möglichkeit ein persönliches Kundenkonto anzulegen. Im
+passwortgeschützten Bereich des Kundenkontos können Sie bequem Ihre Buchungen
+verwalten und für zukünftige Fahrten Ihre Daten hinterlegen lassen.
+
+Die als erforderlich markierten Felder (*), die personenbezogene Daten
+beinhalten, werden nur für die Durchführung und Verarbeitung des
+Benutzeraccounts verwendet. Erforderlich ist zunächst nur die E-Mail Adresse.
+Hiermit verifizieren wir Ihre Identität. Im Rahmen der Registrierung können
+Sie freiwillig auch Ihren Namen, Adresse oder ggf. Ihre Kontodaten angeben.
+
+Diese Daten werden sowohl für die Rechnungserstellung als auch für die
+Funktion des automatischen Vorausfüllens bei zukünftigen Buchungen verwendet.
+Zusätzlich können Sie hier auch freiwillig Ihre Handynummer zur
+Kontaktaufnahme im Falle einer Verspätung oder Änderung des Reiseverlaufs
+hinterlegen.
+
+Sofern Sie hierin eingewilligt haben, werden mit der Funktion „Angemeldet
+bleiben“ sog. persistente Cookies auf ihrem Endgerät abgelegt, welche dazu
+dienen, dass Sie sich bei darauffolgenden Besuchen auf unserer Website nicht
+erneut anmelden müssen. Diese Funktion steht Ihnen nicht zur Verfügung, wenn
+Sie in den Einstellungen Ihres Browsers die Speicherung von solchen Cookies
+deaktiviert haben.
+
+Sie können das Kundenkonto – und damit auch Ihre hinterlegten
+personenbezogenen Daten – jederzeit in Ihrem persönlichen Kundenkonto
+aktualisieren oder löschen.
+
+Von einer Löschung unberührt bleiben die aufgrund von gesetzlichen
+Speicherfristen zur Vertragsdurchführung erforderlichen personenbezogenen
+Daten.
+
+## Newsletter
+
+Bei Anmeldung zum Newsletter wird Ihre E-Mail-Adresse für die Kommunikation
+mit Ihnen, um Ihnen z.B. Servicemeldungen, Systemnachrichten, E-Mails zur
+Bestätigung Ihrer Registrierung, zur Übermittlung von
+Nutzerkontoinformationen, Information zu Ihren Tickets und Reiserouten oder
+Ihren Reiseprofilen zuzusenden genutzt, bis Sie sich vom Newsletter abmelden.
+Darüber hinaus nutzen wir Ihre E-Mail-Adresse für eigene Werbezwecke. Die
+Abmeldung ist jederzeit möglich.
+
+Wenn wir Ihre E-Mail-Adresse im Zusammenhang mit der Buchung oder Reise
+erhalten und Sie dem nicht widersprochen haben, behalten wir uns vor, Ihnen
+regelmäßig Angebote zu ähnlichen Produkten, wie den bereits gekauften, aus
+unserem Sortiment per E-Mail zuzusenden. Sie können dieser Verwendung Ihrer
+E-Mail-Adresse jederzeit durch eine Nachricht an unsubscribe@flixbus.com oder
+über den Abmelde-Link in der Werbemail widersprechen, ohne dass hierfür andere
+als die Übermittlungskosten nach den Basistarifen entstehen.
+
+## Datensicherheit
+
+Die Privatsphäre der Nutzer unserer Webseite und der angeschlossenen Systeme
+schützen wir durch technische und organisatorische Maßnahmen. Um die sichere
+Übertragung persönlicher Daten zu gewährleisten, verwenden wir das
+Verschlüsselungsprotokoll SSL 3.0 (als zugrundeliegendes
+Verschlüsselungsverfahren wird RSA-2048 für die Public-Key-Infrastruktur
+eingesetzt). Dieses Verfahren wird im gesamten World Wide Web erfolgreich
+eingesetzt. Alle persönlichen Daten (Name, Anschrift, Zahlungsdaten etc.)
+werden dadurch verschlüsselt und damit sicher im Internet übertragen. Sie
+erkennen an einem Symbol (geschlossenes Vorhängeschloss) in der unteren
+Fensterleiste Ihres Browsers, dass Sie sich in einem gesicherten Bereich
+bewegen.
+
+## Cookies
+
+FlixMobility setzt auf der Webseite sog. Cookies ein. Cookies (Kekse,
+Plätzchen) sind kleine Dateien, die auf Ihrem Datenträger gespeichert werden
+und die bestimmte Einstellungen und Daten zum Austausch mit unserem System
+über Ihren Browser speichern. Einige der von uns verwendeten Cookies werden
+nach dem Ende der Browser-Sitzung, also nach Schließen Ihres Browsers, wieder
+gelöscht (sog. Session-Cookies). Andere Cookies verbleiben auf Ihrem Endgerät
+und ermöglichen uns oder unseren Partnerunternehmen, Ihren Browser beim
+nächsten Besuch wiederzuerkennen (persistente Cookies). Diese Speicherung
+hilft uns, die Webseite für Sie entsprechend zu gestalten und erleichtert
+Ihnen die Nutzung, indem beispielsweise bestimmte Eingaben von Ihnen so
+gespeichert werden, dass Sie sie nicht ständig wiederholen müssen. Ihr Browser
+erlaubt Ihnen einschränkende Einstellungen zur Nutzung und Löschung von
+Cookies. Die Hilfefunktion der meisten Browser erklärt Ihnen, wie Sie diese
+Einstellungen vornehmen können. Wenn Sie Cookies nicht akzeptieren, kann dies
+die Servicefunktion unseres Internetangebots beeinträchtigen.
+
+## Auskunfts- und Widerspruchsrechte
+
+Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche
+Auskunft über Ihrer gespeicherten Daten sowie ggf. eine Recht auf
+Berichtigung, Löschung oder Sperrung von Daten. Bitte wenden Sie sich hierzu
+ebenso für weitere Auskünfte oder für die Geltendmachung von Widerrufsrechten
+an: FlixMobility GmbH, Birketweg 33, 80639 München oder an
+datenschutz@flixbus.de.
+
+## Google Remarketing
+
+Zur Optimierung unseres Webangebotes sowie für Produktempfehlungen nutzen wir
+die Technologie der Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA
+94043, USA; „Google“) zur Erstellung von pseudonymisierten Nutzungsprofilen
+über das Surfverhalten der Webseitenbesucher zu Marktingzwecken. Zu diesem
+Zweck können Cookies eingesetzt werden, die eine Wiedererkennung eines
+Internet-Browsers bei einem erneuten Besuch ermöglichen. Das gespeicherte
+Surfverhalten wird anhand eines Algorithmus analysiert, so dass anschließend
+gezielte interessenbezogene Produktempfehlungen im Form von Werbebanners bzw.
+Werbeanzeigen auf Webseiten Dritter angezeigt werden können. Die
+pseudonymisierten Nutzungsprofile werden ohne eine gesonderte ausdrückliche
+Einwilligung des Betroffenen nicht mit personenbezogenen Daten über den Träger
+des Pseudonyms zusammengeführt. Der Erstellung von pseudonymisierten
+Nutzungsprofilen für interessenbezogene Werbung/Anzeigenvorgaben können Sie
+jederzeit widersprechen, indem Sie die die Seite
+https://www.google.de/settings/ads aufrufen. Weitere Informationen zur
+interessenbezogenen Werbung erhalten Sie unter
+http://www.google.com/policies/technologies/ads/.
+
+## Web Analysen
+
+### 1\. Google Analytics
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+(„Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf
+Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermöglichen. Die Google Trackingcodes dieser Website
+verwenden die Funktion „_anonymizeIp()“. Dadurch wird die IP-Adresse innerhalb
+von Mitgliedsstaaten der Europäischen Union oder in anderen Staaten des
+Abkommens über den Europischen Wirtschaftsraum nur gekürzt weiterverarbeitet,
+um eine direkt Personenbeziehbarkeit auszuschließen. Nur in Ausnahmefällen
+wird die volle IP-Adresse an einen Server von Google in den USA übertragen und
+dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese
+Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports
+über die Websiteaktivitäten zusammenzustellen und um weitere mit der
+Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber
+dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von
+Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google
+zusammengeführt. Sie können die Speicherung der Cookies durch eine
+entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie
+jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche
+Funktionen dieser Website vollumfänglich werden nutzen können. Sie können
+darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre
+Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie
+die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem
+folgenden Link verfügbare Browser-Plugin herunterladen und installieren:
+http://tools.google.com/dlpage/gaoptout?hl=de
+
+### 2\. adjust
+
+Diese Webseite/App benutzt u.a. auch die Analysetechnologie „adjust“ der
+adjust GmbH (“adjust”). adjust nutzt für die Analyse dabei IP- und Mac-
+Adressen der User, die allerdings ausschließlich anonymisiert genutzt werden.
+Ein Rückschluss auf eine natürliche Person ist hierdurch nicht möglich. Durch
+die Nutzung dieser Webseite/App zu Analysezwecken erklären Sie Sich mit der
+Bearbeitung der hierdurch anonymisiert erhobenen Daten in der zuvor
+beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+
+### 3\. Webtrekk
+
+Für die statistische Auswertung der Webseiten bedienen wir uns der
+Technologien der Webtrekk GmbH, Robert-Koch-Platz 4, 10115 Berlin. Mit Hilfe
+der Dienste von Webtrekk erheben wir statistische Daten über die Nutzung
+unseres Webangebots. Die Webtrekk GmbH wurde im Bereich Web Controlling vom
+TÜV zertifiziert. Insbesondere wurde hierbei die Erfassung und Verarbeitung
+von Tracking-Daten auf Datenschutzkonformität und Datensicherheit überprüft
+und zertifiziert. Im Rahmen der Nutzung dieser Webseiten werden Informationen,
+die Ihr Browser übermittelt, erhoben und ausgewertet. Dies erfolgt durch eine
+Cookie-Technologie und sogenannte Pixel, die auf jeder Webseite eingebunden
+sind. Eine direkte Personenbeziehbarkeit ist zu jeder Zeit ausgeschlossen. Die
+so gesammelten Daten dienen dazu, anonyme Nutzungsprofile, die die Grundlage
+für Webstatistiken bilden, zu erstellen. Die mit den Webtrekk-Technologien
+erhobenen Daten werden ohne die gesondert erteilte Zustimmung des Betroffenen
+nicht dazu benutzt, den Besucher dieser Webseiten persönlich zu identifizieren
+und zu keiner Zeit mit personenbezogenen Daten über den Träger des Pseudonyms
+zusammengeführt.  
+Sind Sie bei Facebook eingeloggt, kann Facebook den Besuch unserer Website
+Ihrem Facebook-Profil unmittelbar zuordnen. Wenn Sie mit den Plugins
+interagieren, zum Beispiel den „Gefällt mir“-Button betätigen oder einen
+Kommentar abgeben, wird diese Information ebenfalls direkt an einen Server von
+Facebook übermittelt und dort gespeichert. Die Informationen werden außerdem
+auf Ihrem Facebook-Profil veröffentlicht und Ihren Facebook-Freunden
+angezeigt.  
+Der Datenerhebung und -speicherung durch Webtrekk kann jederzeit mit Wirkung
+für die Zukunft widersprochen werden. Hierzu und für weitere Informationen zum
+Datenschutz bei Webtrekk rufen Sie bitte folgenden Link auf:
+http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html.
+
+### 4\. AdClear Kampagnentracking
+
+Wir verwenden die Dienste der AdClear GmbH, Robert-Koch-Platz 4, 10115 Berlin
+('AdClear'), um statistische Daten für das Kampagnentracking zu erheben und so
+das Angebot für unsere Kunden entsprechend zu optimieren. Hierzu werden auch
+Cookies verwendet. Die Daten werden ausschließlich in pseudonymer Form
+erfasst. Persönliche Daten werden nicht an AdClear gesendet. Die AdClear GmbH
+ist für Datenschutz im Bereich Kampagnentrackingsysteme vom TÜV Saarland
+zertifiziert.
+
+Wenn Sie der Datenerfassung durch das AdClear Kampagnentracking widersprechen,
+wird hierfür ein Cookie mit dem Namen „adclearoptout“ gesetzt.  
+Sie haben der Datenerfassung durch AdClear nicht widersprochen.  
+Der Datenerfassung durch AdClear widersprechen
+
+### 5\. AB Tasty
+
+Daneben setzt diese Webseite den Webanalysedienst AB Tasty von AB TASTY SAS
+ein, der für A/B- und Multivariate-Tests verwendet wird. Dieser Service
+verwendet Cookies um den Browser eines Besuchers zu identifizieren und die
+Nutzung dieser Webseite zu analysieren. Die Cookies sammeln keine
+personenbezogenen Daten. Mehr Informationen darüber, wie AB Tasty Ihre Daten
+verarbeitet, finden Sie unter https://www.abtasty.com/uk/terms-of-use/. Auf
+dieser Seite finden Sie auch eine Anleitung, wie Sie das Tracking jederzeit
+deaktivieren können.
+
+###  
+6\. Crazyegg
+
+Auf unserer Website werden sogenannte Social Plugins („Plugins“) des sozialen
+Netzwerkes Google+ verwendet, das von der Google Inc., 1600 Amphitheatre
+Parkway, Mountain View, CA 94043, USA („Google“) betrieben wird. Die Plugins
+sind z. B. an Buttons mit dem Zeichen „+1“ auf weißem oder farbigem
+Hintergrund erkennDarüber hinaus nutzt diese Webseite Crazy Egg, einen
+Webanalysedienst der Crazy Egg, Inc., der auf Web-Usability spezialisiert ist.
+Dieser Dienst kommt zum Einsatz, um unser Angebot so gut wie möglich auf den
+Bedarf unserer Nutzer zu optimieren. Der Dienst wertet aus, auf welche Art
+User mit der Webseite interagieren. Persönliche Daten werden von diesem Dienst
+in keinem Fall gespeichert. Sie haben die Möglichkeit, die Analyse von Crazy
+Egg zu unterbinden, indem Sie die „Opting Out“-Anleitung auf folgender Seite
+befolgen (http://www.crazyegg.com/opt-out).
+
+### 7\. Hotjar
+
+Für die Verbesserung der Nutzererfahrung auf unseren Internetseiten setzen wir
+die Software von Hotjar http://www.hotjar.com, 3 Lyons Range, 20 Bisazza
+Street, Sliema SLM 1640, Malta, Europe) ein. Mittels der Software können wir
+das Nutzerverhalten (Mausbewegungen, Klicks, Tastatureingaben, Scrollhöhe
+etc.) auf unseren Internetseiten messen und auswerten. Zu diesem Zweck werden
+Cookies auf Endgeräten der Nutzer gesetzt und es können Daten von Nutzern wie
+z. B. Browser Informationen, Betriebssystem, Verweildauer auf der Seite etc.
+gespeichert werden. Mehr über die Datenverarbeitung durch Hotjar finden Sie
+unter http://www.hotjar.com/privacy. Sie können dem Service von Hotjar unter
+https://www.hotjar.com/opt-out
+
+## Social Plugins
+
+### 1\. Facebook
+
+Auf unserer Website werden sogenannte Social Plugins („Plugins“) des sozialen
+Netzwerkes Facebook verwendet, das von der Facebook Inc., 1601 S. California
+Ave, Palo Alto, CA 94304, USA („Facebook“) betrieben wird. Die Plugins sind
+mit einem Facebook-Logo oder dem Zusatz „Soziales Plug-in von Facebook“ bzw.
+„Facebook Social Plugin“ gekennzeichnet. Eine Übersicht über die Facebook
+Plugins und deren Aussehen finden Sie hier:
+https://developers.facebook.com/docs/plugins. Wenn Sie eine Seite unseres
+Webauftritts aufrufen, die ein solches Plugin enthält, stellt Ihr Browser eine
+direkte Verbindung zu den Servern von Facebook her. Der Inhalt des Plugins
+wird von Facebook direkt an Ihren Browser übermittelt und in die Seite
+eingebunden. Durch diese Einbindung erhält Facebook die Information, dass Ihr
+Browser die entsprechende Seite unseres Webauftritts aufgerufen hat, auch wenn
+Sie kein Facebook-Profil besitzen oder gerade nicht bei Facebook eingeloggt
+sind. Diese Information (einschließlich Ihrer IP-Adresse) wird von Ihrem
+Browser direkt an einen Server von Facebook in die USA übermittelt und dort
+gespeichert.  
+Sind Sie bei Facebook eingeloggt, kann Facebook den Besuch unserer Website
+Ihrem Facebook-Profil unmittelbar zuordnen. Wenn Sie mit den Plugins
+interagieren, zum Beispiel den „Gefällt mir“-Button betätigen oder einen
+Kommentar abgeben, wird diese Information ebenfalls direkt an einen Server von
+Facebook übermittelt und dort gespeichert. Die Informationen werden außerdem
+auf Ihrem Facebook-Profil veröffentlicht und Ihren Facebook-Freunden
+angezeigt.  
+Facebook kann diese Informationen zum Zwecke der Werbung, Marktforschung und
+bedarfsgerechten Gestaltung der Facebook-Seiten benutzen. Hierzu werden von
+Facebook Nutzungs-, Interessen- und Beziehungsprofile erstellt, z. B. um Ihre
+Nutzung unserer Website im Hinblick auf die Ihnen bei Facebook eingeblendeten
+Werbeanzeigen auszuwerten, andere Facebook-Nutzer über Ihre Aktivitäten auf
+unserer Website zu informieren und um weitere mit der Nutzung von Facebook
+verbundene Dienstleistungen zu erbringen. Wenn Sie nicht möchten, dass
+Facebook die über unseren Webauftritt gesammelten Daten Ihrem Facebook-Konto
+zuordnet, müssen Sie sich vor Ihrem Besuch unserer Website bei Facebook
+ausloggen.  
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Facebook sowie Ihre diesbezüglichen Rechte und
+Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte
+den Datenschutzhinweisen von Facebook: http://www.facebook.com/policy.php.  
+Wenn Sie nicht möchten, dass Facebook die über unseren Webauftritt gesammelten
+Daten unmittelbar Ihrem Facebook-Profil zuordnet, müssen Sie sich vor Ihrem
+Besuch unserer Website bei Facebook ausloggen. Sie können das Laden der
+Facebook Plugins auch mit Add-Ons für Ihren Browser komplett verhindern, z.B.
+mit dem „Facebook Blocker“ (http://webgraph.com/resources/facebookblocker/).
+
+### 2\. Twitter Plugins (z.B. „Twittern“-Button)
+
+Auf unserer Website werden sogenannte Social Plugins („Plugins“) des
+Mikroblogging-Dienstes Twitter verwendet, der von der Twitter Inc., 1355
+Market St, Suite 900, San Francisco, CA 94103, USA („Twitter“) betrieben wird.
+Die Plugins sind mit einem Twitter-Logo beispielsweise in Form eines blauen
+„Twitter-Vogels“ gekennzeichnet. Eine Übersicht über die Twitter Plugins und
+deren Aussehen finden Sie hier: https://twitter.com/about/resources/buttons.  
+Wenn Sie eine Seite unseres Webauftritts aufrufen, die ein solches Plugin
+enthält, stellt Ihr Browser eine direkte Verbindung zu den Servern von Twitter
+her. Der Inhalt des Plugins wird von Twitter direkt an Ihren Browser
+übermittelt und in die Seite eingebunden. Durch die Einbindung erhält Twitter
+die Information, dass Ihr Browser die entsprechende Seite unseres Webauftritts
+aufgerufen hat, auch wenn Sie kein Profil bei Twitter besitzen oder gerade
+nicht bei Twitter eingeloggt sind. Diese Information (einschließlich Ihrer IP-
+Adresse) wird von Ihrem Browser direkt an einen Server von Twitter in die USA
+übermittelt und dort gespeichert. Sind Sie bei Twitter eingeloggt, kann
+Twitter den Besuch unserer Website Ihrem Twitter-Account unmittelbar zuordnen.
+Wenn Sie mit den Plugins interagieren, zum Beispiel den „Twittern“-Button
+betätigen, wird die entsprechende Information ebenfalls direkt an einen Server
+von Twitter übermittelt und dort gespeichert. Die Informationen werden
+außerdem auf Ihrem Twitter-Account veröffentlicht und dort Ihren Kontakten
+angezeigt. Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und
+Nutzung der Daten durch Twitter sowie Ihre diesbezüglichen Rechte und
+Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte
+den Datenschutzhinweisen von Twitter: https://twitter.com/privacy. Wenn Sie
+nicht möchten, dass Twitter die über unseren Webauftritt gesammelten Daten
+unmittelbar Ihrem Twitter-Account zuordnet, müssen Sie sich vor Ihrem Besuch
+unserer Website bei Twitter ausloggen. Sie können das Laden der Twitter
+Plugins auch mit Add-Ons für Ihren Browser komplett verhindern, z. B. mit dem
+Skript-Blocker „NoScript“ (http://noscript.net/).
+
+### 3\. Google+ Plugins (z.B. „+1“-Button)
+
+Auf unserer Website werden sogenannte Social Plugins („Plugins“) des sozialen
+Netzwerkes Google+ verwendet, das von der Google Inc., 1600 Amphitheatre
+Parkway, Mountain View, CA 94043, USA („Google“) betrieben wird. Die Plugins
+sind z. B. an Buttons mit dem Zeichen „+1“ auf weißem oder farbigem
+Hintergrund erkennbar. Eine Übersicht über die Google Plugins und deren
+Aussehen finden Sie hier: https://developers.google.com/+/plugins. Wenn Sie
+eine Seite unseres Webauftritts aufrufen, die ein solches Plugin enthält,
+stellt Ihr Browser eine direkte Verbindung zu den Servern von Google her. Der
+Inhalt des Plugins wird von Google direkt an Ihren Browser übermittelt und in
+die Seite eingebunden. Durch die Einbindung erhält Google die Information,
+dass Ihr Browser die entsprechende Seite unseres Webauftritts aufgerufen hat,
+auch wenn Sie kein Profil bei Google+ besitzen oder gerade nicht bei Google+
+eingeloggt sind. Diese Information (einschließlich Ihrer IP-Adresse) wird von
+Ihrem Browser direkt an einen Server von Google in die USA übermittelt und
+dort gespeichert. Sind Sie bei Google+ eingeloggt, kann Google den Besuch
+unserer Website Ihrem Google+ Profil unmittelbar zuordnen. Wenn Sie mit den
+Plugins interagieren, zum Beispiel den „+1“-Button betätigen, wird die
+entsprechende Information ebenfalls direkt an einen Server von Google
+übermittelt und dort gespeichert. Die Informationen werden außerdem auf
+Google+ veröffentlicht und dort Ihren Kontakten angezeigt. Zweck und Umfang
+der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch
+Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum
+Schutz Ihrer Privatsphäre entnehmen Sie bitte den Datenschutzhinweisen von
+Google: http://www.google.com/intl/de/+/policy/+1button.html. Wenn Sie nicht
+möchten, dass Google die über unseren Webauftritt gesammelten Daten
+unmittelbar Ihrem Profil auf Google+ zuordnet, müssen Sie sich vor Ihrem
+Besuch unserer Website bei Google+ ausloggen. Sie können das Laden der Google
+Plugins auch mit Add-Ons für Ihren Browser komplett verhindern, z. B. mit dem
+Skript-Blocker „NoScript“ (http://noscript.net/).
+
+#### Haltestellen &amp; Ziele
+
+A
+
+  * Aachen
+  * Aalborg
+  * Aalen
+  * Aarhus
+  * Aars
+  * Achim
+  * Agde
+  * Agen
+  * Agropoli
+  * Ahlbeck
+  * Ahrenshoop
+  * Aichach
+  * Aime
+  * Aiud
+  * Aix-en-Provence
+  * Alba
+  * Alba di Canazei
+  * Alba Iulia
+  * Albenga
+  * Alberobello
+  * Albertville
+  * Albstadt-Ebingen
+  * Alessandria
+  * Alpe d'Huez
+  * Alsfeld
+  * Altamura
+  * Altenbüren
+  * Alzey
+  * Amberg
+  * Amersfoort
+  * Amiens
+  * Amsterdam
+  * Amstetten
+  * Ancona
+  * Andria
+  * Angers
+  * Angouleme
+  * Anklam
+  * Annecy
+  * Ansbach
+  * Antwerpen
+  * Aosta
+  * Apeldoorn
+  * Apricena
+  * Aprilia
+  * Arad
+  * Arcachon
+  * Arezzo
+  * Arles
+  * Arlon
+  * Arnheim (Arnhem)
+  * Arnsberg
+  * Arras
+  * Aschaffenburg
+  * Aschersleben
+  * Ascoli Piceno
+  * Attnang-Puchheim
+  * Aubagne
+  * Augsburg
+  * Auxerre
+  * Avellino
+  * Avetrana
+  * Avezzano
+  * Avignon
+  * Avranches
+
+Å
+
+  * Ås
+
+B
+
+  * Baabe
+  * Bad Arolsen
+  * Bad Bentheim
+  * Bad Doberan
+  * Bad Harzburg
+  * Bad Hersfeld
+  * Bad Oeynhausen
+  * Bad Salzuflen
+  * Bad Segeberg
+  * Bad Urach
+  * Bad Waldsee
+  * Bad Wörishofen
+  * Bad Zwesten
+  * Baden-Baden
+  * Bale
+  * Balingen
+  * Bamberg
+  * Bansin
+  * Banská Bystrica
+  * Bapaume
+  * Barcelona
+  * Bari
+  * Barletta
+  * Barsinghausen
+  * Basel
+  * Basel EuroAirport
+  * Baška
+  * Bastogne
+  * Battipaglia
+  * Bautzen
+  * Bayonne
+  * Bayreuth
+  * Beelen
+  * Belfort
+  * Bellaria Igea Marina
+  * Bellegarde
+  * Bellinzona
+  * Benevento
+  * Benkovac
+  * Bensersiel
+  * Berchtesgaden
+  * Bergamo
+  * Bergen (Celle)
+  * Bergen (Rügen)
+  * Bergen op Zoom
+  * Berlin
+  * Bern
+  * Bernau am Chiemsee
+  * Bernburg (Saale)
+  * Besançon
+  * Bestwig
+  * Béthune
+  * Beverstedt
+  * Béziers
+  * Biarritz
+  * Biberach (Riß)
+  * Bibinje
+  * Bielefeld
+  * Bilbao
+  * Binz
+  * Biograd
+  * Bisceglie
+  * Bischofsgrün
+  * Bitburg
+  * Bitonto
+  * Blanes
+  * Blankenburg (Harz)
+  * Bled
+  * Bludenz
+  * Bocholt
+  * Bochum
+  * Bödefeld
+  * Bohumín
+  * Bolków
+  * Bollène
+  * Bologna
+  * Bonn
+  * Borås
+  * Bordeaux
+  * Borken
+  * Born (Darß)
+  * Bosiljevo
+  * Bottrop
+  * Boulogne
+  * Bourg-de-Péage
+  * Bourg-en-Bresse
+  * Bourg-Saint-Maurice
+  * Bourges
+  * Bozen (Bolzano)
+  * Bra
+  * Brașov
+  * Bratislava
+  * Braunau (Inn)
+  * Braunschweig
+  * Breda
+  * Bregenz
+  * Bremen
+  * Bremerhaven
+  * Bremervörde
+  * Brescia
+  * Breslau (Wrocław)
+  * Bressuire
+  * Brest
+  * Brilon
+  * Brindisi
+  * Brive-la-Gaillarde
+  * Brixen/Vahrn (Bressanone/Varna)
+  * Brod
+  * Bršadin
+  * Brügge
+  * Brünn (Brno)
+  * Brüssel (Bruxelles)
+  * Budapest
+  * Budweis (České Budějovice)
+  * Buje
+  * Bukarest
+  * Bünde
+  * Bystřice
+
+Č
+
+  * Čadca
+  * Čakovec
+  * Český Krumlov
+  * Český Těšín
+
+C
+
+  * Caen
+  * Cahors
+  * Calais
+  * Campitello
+  * Campo Carlo Magno
+  * Canazei
+  * Cannes
+  * Carcassonne
+  * Carisolo
+  * Caserta
+  * Cassino
+  * Castelfranco Veneto
+  * Castello di Fiemme
+  * Cattolica
+  * Cavalese
+  * Ceglie Messapica
+  * Celle
+  * Cervia
+  * Cesena
+  * Cesenatico
+  * Chalon-sur-Saône
+  * Châlons-en-champagne
+  * Chambéry
+  * Chambord
+  * Chanas
+  * Charleville-Mézières
+  * Charmes
+  * Châteauroux
+  * Châtellerault
+  * Chatillon
+  * Chemnitz
+  * Cheverny
+  * Chieti
+  * Chioggia
+  * Chivasso
+  * Cholet
+  * Chur
+  * Città Sant'Angelo
+  * Cittadella
+  * Civitanova Marche
+  * Civitavecchia
+  * Clermont-Ferrand
+  * Cles
+  * Cluj-Napoca
+  * Coburg
+  * Colmar
+  * Como
+  * Conegliano
+  * Corato
+  * Cottbus
+  * Cremona
+  * Crikvenica
+  * Cuneo
+  * Cuxhaven
+  * Częstochowa
+
+D
+
+  * Dahme
+  * Danzig (Gdańsk)
+  * Darmstadt
+  * De Panne
+  * Deauville
+  * Deggendorf
+  * Delft
+  * Delmenhorst
+  * Den Haag
+  * Derventa
+  * Dessau
+  * Deva
+  * Deventer
+  * Dieppe
+  * Dierhagen
+  * Dijon
+  * Dillenburg
+  * Dimaro
+  * Doboj
+  * Dole
+  * Dolný Kubín
+  * Donji Miholjac
+  * Dordrecht
+  * Dornbirn
+  * Dortmund
+  * Dover
+  * Drachten
+  * Dresden
+  * Dubrovnik
+  * Dugopolje
+  * Duisburg
+  * Dülmen
+  * Dunkerque
+  * Düsseldorf
+
+Đ
+
+  * Đurđevac
+
+E
+
+  * Ebeltoft
+  * Eboli
+  * Eger (Cheb)
+  * Ehrwald
+  * Eindhoven
+  * Eisenach
+  * Elmshorn
+  * Emden
+  * Emmerich
+  * Emsdetten
+  * Emstek
+  * Engen
+  * Enschede
+  * Erfurt
+  * Erlangen
+  * Esbjerg
+  * Esens
+  * Essen
+  * Etaples - Le Touquet
+  * Ettal
+  * Europa-Park Rust
+  * Euskirchen
+
+É
+
+  * Épinal
+
+F
+
+  * Făgăraș
+  * Fasano
+  * Feldkirch
+  * Ferrara
+  * Fischen (Allgäu)
+  * Fjerritslev
+  * Flensburg
+  * Florenz (Firenze)
+  * Foggia
+  * Folgarida
+  * Foligno
+  * Folkestone
+  * Forbach
+  * Forchheim
+  * Fossano
+  * Francavilla Fontana
+  * Frankenberg (Eder)
+  * Frankfurt (Main)
+  * Fredericia
+  * Freiburg (i.Br.)
+  * Freilassing
+  * Fribourg (Suisse)
+  * Friedrichshafen
+  * Frosinone
+  * Fucine
+  * Fulda
+  * Funtana
+  * Fürstenberg
+  * Fürth
+  * Füssen
+
+G
+
+  * Gallipoli
+  * Gardaland
+  * Garding
+  * Garmisch-Partenkirchen
+  * Gelnhausen
+  * Gelsenkirchen
+  * Genf (Genève)
+  * Gent
+  * Genua (Genova)
+  * Gera
+  * Gießen
+  * Gioia del Colle
+  * Girona
+  * Giulianova
+  * Gladenbach
+  * Göhren
+  * Göppingen
+  * Görlitz
+  * Gornja Vrba
+  * Goslar
+  * Gospić
+  * Göteborg
+  * Gotha
+  * Göttingen
+  * Graal-Müritz
+  * Gradište
+  * Gransee
+  * Gravina in Puglia
+  * Graz
+  * Greifswald
+  * Grenaa
+  * Grenoble
+  * Greven
+  * Grömitz
+  * Groningen
+  * Groß Särchen
+  * Grosseto
+  * Großraum Köln
+  * Grottaglie
+  * Grottaminarda
+  * Gryfów Śląski
+  * Guingamp
+  * Günzburg
+  * Gütersloh
+  * Györ
+
+H
+
+  * Hadsund
+  * Haffkrug
+  * Hagnau
+  * Halberstadt
+  * Halblech
+  * Halle (Saale)
+  * Halmstad
+  * Hamburg
+  * Hameln
+  * Hamm
+  * Hamminkeln
+  * Hanau
+  * Hannover
+  * Hansa-Park
+  * Hasselt
+  * Heerlen
+  * Heide
+  * Heidelberg
+  * Heidenheim
+  * Heilbronn/Neckarsulm
+  * Heiligenhafen
+  * Helmstedt
+  * Helsingborg
+  * Hengelo
+  * Heringsdorf
+  * Herne
+  * Herning
+  * Herzberg
+  * Herzebrock
+  * Herzhausen (Vöhl)
+  * Hessisch Lichtenau
+  * Hessisch Oldendorf
+  * Hévíz
+  * Hildesheim
+  * Himmelkron
+  * Hof
+  * Hollfeld
+  * Homburg
+  * Honfleur
+  * Horsens
+  * Hoyerswerda
+  * Hranice na Moravě
+  * Huedin
+  * Hüfingen
+  * Hulín
+  * Hyères
+
+I
+
+  * Ilmenau
+  * Immenstaad
+  * Immenstadt
+  * Imperia
+  * Ingolstadt
+  * Innsbruck
+  * Iserlohn
+  * Isselburg
+  * Issoire
+  * Itzehoe
+
+J
+
+  * Jasenice
+  * Jastrebarsko
+  * Jelenia Góra
+  * Jena
+  * Jever
+  * Jihlava
+  * Jönköping
+  * Jungbunzlau
+
+K
+
+  * Kahla
+  * Kaiserslautern
+  * Kakanj
+  * Kaltenkirchen
+  * Kandel
+  * Karlovac
+  * Karlsbad
+  * Karlsruhe
+  * Karviná
+  * Kassel
+  * Kattowitz (Katowice)
+  * Kehl
+  * Kellenhusen
+  * Kempten
+  * Keszthely
+  * Kiel
+  * Klagenfurt
+  * Klausen (Chiusa)
+  * Kleinwelka
+  * Klek
+  * Koblenz
+  * Kolding
+  * Kolín
+  * Köln (per Nahverkehr via Leverkusen)
+  * Königswartha
+  * Konstanz
+  * Kopenhagen (København)
+  * Koper
+  * Koprivnica
+  * Korbach
+  * Korenica
+  * Košice
+  * Köthen
+  * Krakau (Kraków)
+  * Krefeld
+  * Krk
+  * Krusa
+  * Kühlungsborn
+  * Kutina
+  * Kysak
+
+L
+
+  * L'Aquila
+  * La Roche-sur-Yon
+  * La Rochelle
+  * La Spezia
+  * Lana
+  * Landau
+  * Landry
+  * Landshut
+  * Latina
+  * Laupheim
+  * Lausanne
+  * Laval
+  * Lavello
+  * Le Havre
+  * Le Mans
+  * Le Mont Saint-Michel
+  * Lecce
+  * Leer
+  * Leiden
+  * Leipzig
+  * Lemberg (Lwiw)
+  * Lens
+  * Lermoos
+  * Les Sables-d'Olonne
+  * Leutkirch
+  * Liberec
+  * Liezen
+  * Lille
+  * Limburg (Lahn)
+  * Limoges
+  * Lindau
+  * Lingen
+  * Linköping
+  * Linz
+  * Lippstadt
+  * Liptovský Mikuláš
+  * Livorno
+  * Ljubljana
+  * Lloret de Mar
+  * Löbau
+  * Lodi
+  * London
+  * Lons-le-Saunier
+  * Lorient
+  * Lörrach
+  * Lourdes
+  * Löwen (Leuven)
+  * Löwenberg
+  * Løgstør
+  * Lübeck
+  * Lubmin
+  * Lucca
+  * Ludbreg
+  * Lüdenscheid
+  * Ludwigshafen
+  * Lugano
+  * Lugoj
+  * Lund
+  * Lunel
+  * Lussac-Les-Châteaux
+  * Lüttich (Liège)
+  * Luxemburg (Luxembourg)
+  * Luzern
+  * Lyon
+
+Ł
+
+  * Łódź
+
+M
+
+  * Maastricht
+  * Mâcon
+  * Madonna di Campiglio
+  * Magdeburg
+  * Maglaj
+  * Maglie
+  * Mailand (Milano)
+  * Mainz
+  * Malè
+  * Malinska
+  * Malmö
+  * Manduria
+  * Manfredonia
+  * Mannheim
+  * Mantova
+  * Marburg
+  * Maribor
+  * Marienberg
+  * Markdorf
+  * Marktredwitz
+  * Marling (Marlengo)
+  * Marsberg
+  * Marseille
+  * Martina Franca
+  * Mataró
+  * Matera
+  * Mazzin
+  * Medebach
+  * Meersburg
+  * Melfi
+  * Melle
+  * Memmingen
+  * Mendig (Vulkaneifel)
+  * Menton
+  * Meppen
+  * Meran (Merano)
+  * Merklingen
+  * Merseburg
+  * Merzig
+  * Meschede
+  * Mestriago
+  * Metković
+  * Metz
+  * Metzingen
+  * Mezzana
+  * Michalovce
+  * Miercurea Ciuc
+  * Millau
+  * Modena
+  * Modugno
+  * Moena
+  * Moers
+  * Molfetta
+  * Mönchengladbach
+  * Monclassico
+  * Monopoli
+  * Mons
+  * Montabaur
+  * Montargis
+  * Montauban
+  * Montbéliard
+  * Montélimar
+  * Montpellier
+  * Morlaix
+  * Moss
+  * Moulins
+  * Moûtiers
+  * Mühldorf
+  * Mukačevo
+  * Mülhausen (Mulhouse)
+  * Mülheim an der Ruhr
+  * Münchberg
+  * München
+  * München Flughafen
+  * Münster
+  * Murter
+  * Myślenice
+
+N
+
+  * Nagykanizsa
+  * Nancy
+  * Nantes
+  * Narbonne
+  * Nardò
+  * Nassenheide
+  * Neapel (Napoli)
+  * Neheim-Hüsten
+  * Neschwitz
+  * Neu-Ulm
+  * Neubrandenburg
+  * Neuenburg am Rhein
+  * Neumünster
+  * Neunkirchen
+  * Neuss
+  * Neustadt (Holstein)
+  * Neustadt (Weinstraße)
+  * Neustadt-Glewe
+  * Neustrelitz
+  * Nevers
+  * Nienhagen
+  * Nijmegen
+  * Nîmes
+  * Niort
+  * Nizza (Nice)
+  * Noci
+  * Nola
+  * Norddeich
+  * Norden
+  * Nordhausen
+  * Nordhorn
+  * Norrköping
+  * Northeim
+  * Nova Gradiška
+  * Novara
+  * Novska
+  * Noyelles-Godault
+  * Nørager
+  * Nürnberg
+  * Nürtingen
+  * Nus
+  * Nuštar
+  * Nykøbing Mors
+
+O
+
+  * Oberammergau
+  * Oberhausen
+  * Obernai
+  * Oberstdorf
+  * Odense
+  * Odorheiu Secuiesc
+  * Offenburg
+  * Oldenburg
+  * Oldenburg (Holstein)
+  * Olmütz (Olomouc)
+  * Olsberg
+  * Omiš
+  * Opatija
+  * Oppeln (Opole)
+  * Opuzen
+  * Oradea
+  * Orange
+  * Orbetello
+  * Orlamünde
+  * Orléans
+  * Orte
+  * Orvieto
+  * Osijek
+  * Oslo
+  * Osnabrück
+  * Ostende
+  * Osterode
+  * Ostrau (Ostrava)
+  * Ostuni
+  * Otranto
+  * Otrokovice
+  * Ouistreham
+
+P
+
+  * Paderborn
+  * Padua (Padova)
+  * Paestum
+  * Pakoštane
+  * Palermo
+  * Panchià
+  * Pardubice
+  * Paris
+  * Parma
+  * Parthenay
+  * Pasewalk
+  * Passau
+  * Passo del Tonale
+  * Pau
+  * Peine
+  * Pellizzano
+  * Penia di Canazei
+  * Pera di Fassa
+  * Périgueux
+  * Perpignan
+  * Perugia
+  * Pesaro
+  * Pescara
+  * Peschiera del Garda
+  * Pforzheim
+  * Pilsen (Plzeň)
+  * Pinggau
+  * Pinzolo
+  * Pirmasens
+  * Pirovac
+  * Pisa
+  * Pistoia
+  * Pitomača
+  * Plailly (Parc Astérix)
+  * Plauen
+  * Plitvicer Seen (Plitvička Jezera)
+  * Ploiești
+  * Poggibonsi
+  * Poitiers
+  * Polača
+  * Poličnik
+  * Polignano a Mare
+  * Pompei
+  * Pont Saint Martin
+  * Poprad-Tatry
+  * Poreč
+  * Porto d'Ascoli
+  * Porto Garibaldi
+  * Portorož
+  * Posedarje
+  * Posen (Poznań)
+  * Postojna
+  * Potenza
+  * Potsdam
+  * Považská Bystrica
+  * Pozza di Fassa
+  * Prag (Praha)
+  * Prato
+  * Predazzo
+  * Přerov
+  * Prerow
+  * Prešov
+  * Primošten
+  * Ptuj
+  * Pula
+  * Punat
+  * Puttgarden
+
+Q
+
+  * Quedlinburg
+  * Quimper
+
+R
+
+  * Radstadt
+  * Randers
+  * Raubling
+  * Ravenna
+  * Ravensburg
+  * Recklinghausen
+  * Regensburg
+  * Reggio Emilia
+  * Region Stuttgart
+  * Reims
+  * Remscheid
+  * Rendsburg
+  * Rennes
+  * Reutlingen
+  * Rheda-Wiedenbrück
+  * Rheinböllen
+  * Rheine
+  * Riccione
+  * Rijeka
+  * Rimini
+  * Roanne
+  * Roermond
+  * Rogoznica
+  * Rom (Roma)
+  * Rosenheim
+  * Roskilde
+  * Rostock
+  * Rothenburg (Tauber)
+  * Rottenburg am Neckar
+  * Rotterdam
+  * Rouen
+  * Rovanjska
+  * Rovereto
+  * Rovigo
+  * Rovinj
+  * Roye
+  * Rønde
+  * Rudolstadt
+  * Ruvo di Puglia
+  * Ružomberok
+  * Rzeszów
+
+S
+
+  * Saalfeld
+  * Saarbrücken
+  * Saarlouis
+  * saint nazaire
+  * Saint-Aignan
+  * Saint-Brieuc
+  * Saint-Chély d'Apcher Nord
+  * Saint-Dizier
+  * Saint-Étienne
+  * Saint-Julien-en-Genevois
+  * Saint-Lary-Soulan
+  * Saint-Malo
+  * Saint-Quentin
+  * Salerno
+  * Salzburg
+  * Salzgitter
+  * Samobor
+  * San Benedetto del Tronto
+  * San Giovanni
+  * San Sebastiàn
+  * San Severo
+  * Sangerhausen
+  * Sanremo
+  * Sant'Antonio Mavignola
+  * Santhià
+  * Sarajevo
+  * Sarpsborg
+  * Sattledt
+  * Saumur
+  * Savona
+  * Schaffhausen
+  * Scharbeutz
+  * Scharnitz
+  * Schladming
+  * Schleiz (Vogtland)
+  * Schleswig
+  * Schnaittach
+  * Schönau am Königssee
+  * Schortens
+  * Schüttorf
+  * Schwabach
+  * Schwäbisch-Gmünd
+  * Schwandorf
+  * Schwangau Neuschwanstein
+  * Schweinfurt
+  * Schwerin
+  * Schwerte
+  * Sebeș
+  * Sedan
+  * Seefeld (Tirol)
+  * Seesen
+  * Selb
+  * Sellin
+  * Senigallia
+  * Serravalle Scrivia (Outlet)
+  * Sestri Levante
+  * Sibiu
+  * Siedlinghausen
+  * Siegen
+  * Siena
+  * Sierksdorf
+  * Sighișoara
+  * Sigmaringen
+  * Silkeborg
+  * Simbach (Inn)
+  * Singen
+  * Siófok
+  * Sittensen
+  * Skanderborg
+  * Skive
+  * Skradin
+  * Skradinsko Polje
+  * Slagelse
+  * Slatina
+  * Slavonski Brod
+  * Sobrance
+  * Södertälje
+  * Soltau
+  * Sonthofen
+  * Soraga
+  * Sorrent
+  * Spišská Nová Ves
+  * Split
+  * Spoleto
+  * Spremberg
+  * Springe
+  * St. Anton
+  * St. Gallen
+  * St. Jean de Luz
+  * St. Michael
+  * St. Peter Ording
+  * St. Pölten
+  * Stade
+  * Stankovci
+  * Staré Město u Uh. Hr.
+  * Starigrad
+  * Steingaden
+  * Sterzing (Vipiteno)
+  * Stettin (Szczecin)
+  * Stockholm
+  * Stralsund
+  * Straßburg (Strasbourg)
+  * Straubing
+  * Studénka
+  * Suchdol nad Odrou
+  * Suhl/Zella-Mehlis
+  * Sukošan
+  * Super-Besse
+  * Sveta Nedelja
+  * Sveti Filip i Jakov
+  * Szeged
+
+Š
+
+  * Šibenik
+  * Štrba
+
+T
+
+  * Tar
+  * Tarbes
+  * Tarent (Taranto)
+  * Târgu Mureș
+  * Tating
+  * Telese
+  * Teramo
+  * Terlizzi
+  * Termoli
+  * Terni
+  * Teschendorf
+  * Tesero
+  * Thiers
+  * Thisted
+  * Tignes
+  * Timișoara
+  * Timmendorfer Strand
+  * Tirstrup
+  * Tisno
+  * Titisee
+  * Todi
+  * Tönning
+  * Toruń
+  * Toulon
+  * Toulouse
+  * Tourcoing
+  * Tours
+  * Trani
+  * Trenčín
+  * Treviso
+  * Tribunj
+  * Trient
+  * Trier
+  * Triest (Trieste)
+  * Třinec
+  * Trogir
+  * Tübingen
+  * Tulle
+  * Tullnerfeld
+  * Turda
+  * Turin (Torino)
+
+Ü
+
+  * Überlingen
+
+U
+
+  * Udbina
+  * Udine
+  * Uhlstädt
+  * Ulm
+  * Umag
+  * Uplengen
+  * Usedom
+  * Ussel
+  * Utrecht
+  * Užhorod
+
+Ú
+
+  * Ústí nad Labem
+
+V
+
+  * Val d'Isère
+  * Valence (Frankreich)
+  * Valenciennes
+  * Valkenswaard
+  * Valpovo
+  * Vannes
+  * Varaždin
+  * Vasto
+  * Vechta
+  * Veenendaal
+  * Vejen
+  * Vejle
+  * Venedig (Venezia)
+  * Venlo
+  * Verdun
+  * Vermiglio
+  * Verona
+  * Verrès
+  * Verviers
+  * Viareggio
+  * Viborg
+  * Vicenza
+  * Vigo di Fassa
+  * Villach
+  * Villefranche-sur-Saône
+  * Villingen-Schwenningen
+  * Vinkovci
+  * Virovitica
+  * Vitry-le-François
+  * Vittorio Veneto
+  * Vodice
+  * Vodnjan
+  * Völklingen
+  * Vrsar
+  * Vrútky
+  * Vukovar
+
+W
+
+  * Wangen (Allgäu)
+  * Warendorf
+  * Warnemünde
+  * Warschau (Warszawa)
+  * Weeze
+  * Wehretal
+  * Weiden (Oberpfalz)
+  * Weimar
+  * Weißenfels
+  * Wels
+  * Wernigerode
+  * Wertheim
+  * Wesel
+  * Westerstede
+  * Wetter (Hessen)
+  * Wetzlar
+  * Wieck (Darß)
+  * Wien
+  * Wien Flughafen
+  * Wiesbaden
+  * Wilhelmshaven
+  * Willingen (Upland)
+  * Winterberg
+  * Winterthur
+  * Wismar
+  * Wittichenau
+  * Wittlich
+  * Wittmund
+  * Wolfenbüttel
+  * Wolfsburg
+  * Wolpertshausen
+  * Worms
+  * Wuppertal
+  * Würzburg
+  * Wustrow
+
+X
+
+  * Xanten
+
+Z
+
+  * Zábřeh na Moravě
+  * Zadar
+  * Zagreb
+  * Zakopane
+  * Zeitz
+  * Zenica
+  * Zgorzelec
+  * Ziano
+  * Zingst
+  * Zittau
+  * Zlín
+  * Znojmo
+  * Zschopau
+  * Zürich
+  * Zvolen
+  * Zweibrücken
+  * Zwickau
+
+Ž
+
+  * Žepče
+  * Žilina
+  * Županja
+
+Wählen...AachenAalborgAalenAarhusAarsAchimAgdeAgenAgropoliAhlbeckAhrenshoopAichachAimeAiudAix-
+en-ProvenceAlbaAlba di CanazeiAlba IuliaAlbengaAlberobelloAlbertvilleAlbstadt-
+EbingenAlessandriaAlpe
+d'HuezAlsfeldAltamuraAltenbürenAlzeyAmbergAmersfoortAmiensAmsterdamAmstettenAnconaAndriaAngersAngoulemeAnklamAnnecyAnsbachAntwerpenAostaApeldoornApricenaApriliaAradArcachonArezzoArlesArlonArnheim
+(Arnhem)ArnsbergArrasAschaffenburgAscherslebenAscoli PicenoAttnang-
+PuchheimAubagneAugsburgAuxerreAvellinoAvetranaAvezzanoAvignonAvranchesÅsBaabeBad
+ArolsenBad BentheimBad DoberanBad HarzburgBad HersfeldBad OeynhausenBad
+SalzuflenBad SegebergBad UrachBad WaldseeBad WörishofenBad ZwestenBaden-
+BadenBaleBalingenBambergBansinBanská
+BystricaBapaumeBarcelonaBariBarlettaBarsinghausenBaselBasel
+EuroAirportBaškaBastogneBattipagliaBautzenBayonneBayreuthBeelenBelfortBellaria
+Igea
+MarinaBellegardeBellinzonaBeneventoBenkovacBensersielBerchtesgadenBergamoBergen
+(Celle)Bergen (Rügen)Bergen op ZoomBerlinBernBernau am ChiemseeBernburg
+(Saale)BesançonBestwigBéthuneBeverstedtBéziersBiarritzBiberach
+(Riß)BibinjeBielefeldBilbaoBinzBiogradBisceglieBischofsgrünBitburgBitontoBlanesBlankenburg
+(Harz)BledBludenzBocholtBochumBödefeldBohumínBolkówBollèneBolognaBonnBoråsBordeauxBorkenBorn
+(Darß)BosiljevoBottropBoulogneBourg-de-PéageBourg-en-BresseBourg-Saint-
+MauriceBourgesBozen (Bolzano)BraBrașovBratislavaBraunau
+(Inn)BraunschweigBredaBregenzBremenBremerhavenBremervördeBresciaBreslau
+(Wrocław)BressuireBrestBrilonBrindisiBrive-la-GaillardeBrixen/Vahrn
+(Bressanone/Varna)BrodBršadinBrüggeBrünn (Brno)Brüssel
+(Bruxelles)BudapestBudweis (České
+Budějovice)BujeBukarestBündeBystřiceČadcaČakovecČeský KrumlovČeský
+TěšínCaenCahorsCalaisCampitelloCampo Carlo
+MagnoCanazeiCannesCarcassonneCarisoloCasertaCassinoCastelfranco VenetoCastello
+di FiemmeCattolicaCavaleseCeglie MessapicaCelleCerviaCesenaCesenaticoChalon-
+sur-SaôneChâlons-en-champagneChambéryChambordChanasCharleville-
+MézièresCharmesChâteaurouxChâtelleraultChatillonChemnitzChevernyChietiChioggiaChivassoCholetChurCittà
+Sant'AngeloCittadellaCivitanova MarcheCivitavecchiaClermont-FerrandClesCluj-
+NapocaCoburgColmarComoConeglianoCoratoCottbusCremonaCrikvenicaCuneoCuxhavenCzęstochowaDahmeDanzig
+(Gdańsk)DarmstadtDe PanneDeauvilleDeggendorfDelftDelmenhorstDen
+HaagDerventaDessauDevaDeventerDieppeDierhagenDijonDillenburgDimaroDobojDoleDolný
+KubínDonji
+MiholjacDordrechtDornbirnDortmundDoverDrachtenDresdenDubrovnikDugopoljeDuisburgDülmenDunkerqueDüsseldorfĐurđevacEbeltoftEboliEger
+(Cheb)EhrwaldEindhovenEisenachElmshornEmdenEmmerichEmsdettenEmstekEngenEnschedeErfurtErlangenEsbjergEsensEssenEtaples
+- Le TouquetEttalEuropa-Park
+RustEuskirchenÉpinalFăgărașFasanoFeldkirchFerraraFischen
+(Allgäu)FjerritslevFlensburgFlorenz
+(Firenze)FoggiaFolgaridaFolignoFolkestoneForbachForchheimFossanoFrancavilla
+FontanaFrankenberg (Eder)Frankfurt (Main)FredericiaFreiburg
+(i.Br.)FreilassingFribourg
+(Suisse)FriedrichshafenFrosinoneFucineFuldaFuntanaFürstenbergFürthFüssenGallipoliGardalandGardingGarmisch-
+PartenkirchenGelnhausenGelsenkirchenGenf (Genève)GentGenua
+(Genova)GeraGießenGioia del
+ColleGironaGiulianovaGladenbachGöhrenGöppingenGörlitzGornja
+VrbaGoslarGospićGöteborgGothaGöttingenGraal-MüritzGradišteGranseeGravina in
+PugliaGrazGreifswaldGrenaaGrenobleGrevenGrömitzGroningenGroß
+SärchenGrossetoGroßraum KölnGrottaglieGrottaminardaGryfów
+ŚląskiGuingampGünzburgGüterslohGyörHadsundHaffkrugHagnauHalberstadtHalblechHalle
+(Saale)HalmstadHamburgHamelnHammHamminkelnHanauHannoverHansa-
+ParkHasseltHeerlenHeideHeidelbergHeidenheimHeilbronn/NeckarsulmHeiligenhafenHelmstedtHelsingborgHengeloHeringsdorfHerneHerningHerzbergHerzebrockHerzhausen
+(Vöhl)Hessisch LichtenauHessisch
+OldendorfHévízHildesheimHimmelkronHofHollfeldHomburgHonfleurHorsensHoyerswerdaHranice
+na
+MoravěHuedinHüfingenHulínHyèresIlmenauImmenstaadImmenstadtImperiaIngolstadtInnsbruckIserlohnIsselburgIssoireItzehoeJaseniceJastrebarskoJelenia
+GóraJenaJeverJihlavaJönköpingJungbunzlauKahlaKaiserslauternKakanjKaltenkirchenKandelKarlovacKarlsbadKarlsruheKarvináKasselKattowitz
+(Katowice)KehlKellenhusenKemptenKeszthelyKielKlagenfurtKlausen
+(Chiusa)KleinwelkaKlekKoblenzKoldingKolínKöln (per Nahverkehr via
+Leverkusen)KönigswarthaKonstanzKopenhagen
+(København)KoperKoprivnicaKorbachKorenicaKošiceKöthenKrakau
+(Kraków)KrefeldKrkKrusaKühlungsbornKutinaKysakL'AquilaLa Roche-sur-YonLa
+RochelleLa SpeziaLanaLandauLandryLandshutLatinaLaupheimLausanneLavalLavelloLe
+HavreLe MansLe Mont Saint-MichelLecceLeerLeidenLeipzigLemberg
+(Lwiw)LensLermoosLes Sables-d'OlonneLeutkirchLiberecLiezenLilleLimburg
+(Lahn)LimogesLindauLingenLinköpingLinzLippstadtLiptovský
+MikulášLivornoLjubljanaLloret de MarLöbauLodiLondonLons-le-
+SaunierLorientLörrachLourdesLöwen
+(Leuven)LöwenbergLøgstørLübeckLubminLuccaLudbregLüdenscheidLudwigshafenLuganoLugojLundLunelLussac-
+Les-ChâteauxLüttich (Liège)Luxemburg
+(Luxembourg)LuzernLyonŁódźMaastrichtMâconMadonna di
+CampiglioMagdeburgMaglajMaglieMailand
+(Milano)MainzMalèMalinskaMalmöManduriaManfredoniaMannheimMantovaMarburgMariborMarienbergMarkdorfMarktredwitzMarling
+(Marlengo)MarsbergMarseilleMartina
+FrancaMataróMateraMazzinMedebachMeersburgMelfiMelleMemmingenMendig
+(Vulkaneifel)MentonMeppenMeran
+(Merano)MerklingenMerseburgMerzigMeschedeMestriagoMetkovićMetzMetzingenMezzanaMichalovceMiercurea
+CiucMillauModenaModugnoMoenaMoersMolfettaMönchengladbachMonclassicoMonopoliMonsMontabaurMontargisMontaubanMontbéliardMontélimarMontpellierMorlaixMossMoulinsMoûtiersMühldorfMukačevoMülhausen
+(Mulhouse)Mülheim an der RuhrMünchbergMünchenMünchen
+FlughafenMünsterMurterMyśleniceNagykanizsaNancyNantesNarbonneNardòNassenheideNeapel
+(Napoli)Neheim-HüstenNeschwitzNeu-UlmNeubrandenburgNeuenburg am
+RheinNeumünsterNeunkirchenNeussNeustadt (Holstein)Neustadt
+(Weinstraße)Neustadt-GleweNeustrelitzNeversNienhagenNijmegenNîmesNiortNizza
+(Nice)NociNolaNorddeichNordenNordhausenNordhornNorrköpingNortheimNova
+GradiškaNovaraNovskaNoyelles-GodaultNøragerNürnbergNürtingenNusNuštarNykøbing
+MorsOberammergauOberhausenObernaiOberstdorfOdenseOdorheiu
+SecuiescOffenburgOldenburgOldenburg (Holstein)Olmütz
+(Olomouc)OlsbergOmišOpatijaOppeln
+(Opole)OpuzenOradeaOrangeOrbetelloOrlamündeOrléansOrteOrvietoOsijekOsloOsnabrückOstendeOsterodeOstrau
+(Ostrava)OstuniOtrantoOtrokoviceOuistrehamPaderbornPadua
+(Padova)PaestumPakoštanePalermoPanchiàPardubiceParisParmaParthenayPasewalkPassauPasso
+del TonalePauPeinePellizzanoPenia di CanazeiPera di
+FassaPérigueuxPerpignanPerugiaPesaroPescaraPeschiera del GardaPforzheimPilsen
+(Plzeň)PinggauPinzoloPirmasensPirovacPisaPistoiaPitomačaPlailly (Parc
+Astérix)PlauenPlitvicer Seen (Plitvička
+Jezera)PloieștiPoggibonsiPoitiersPolačaPoličnikPolignano a MarePompeiPont
+Saint MartinPoprad-TatryPorečPorto d'AscoliPorto
+GaribaldiPortorožPosedarjePosen (Poznań)PostojnaPotenzaPotsdamPovažská
+BystricaPozza di FassaPrag
+(Praha)PratoPredazzoPřerovPrerowPrešovPrimoštenPtujPulaPunatPuttgardenQuedlinburgQuimperRadstadtRandersRaublingRavennaRavensburgRecklinghausenRegensburgReggio
+EmiliaRegion StuttgartReimsRemscheidRendsburgRennesReutlingenRheda-
+WiedenbrückRheinböllenRheineRiccioneRijekaRiminiRoanneRoermondRogoznicaRom
+(Roma)RosenheimRoskildeRostockRothenburg (Tauber)Rottenburg am
+NeckarRotterdamRouenRovanjskaRoveretoRovigoRovinjRoyeRøndeRudolstadtRuvo di
+PugliaRužomberokRzeszówSaalfeldSaarbrückenSaarlouissaint nazaireSaint-
+AignanSaint-BrieucSaint-Chély d'Apcher NordSaint-DizierSaint-ÉtienneSaint-
+Julien-en-GenevoisSaint-Lary-SoulanSaint-MaloSaint-
+QuentinSalernoSalzburgSalzgitterSamoborSan Benedetto del TrontoSan GiovanniSan
+SebastiànSan SeveroSangerhausenSanremoSant'Antonio
+MavignolaSanthiàSarajevoSarpsborgSattledtSaumurSavonaSchaffhausenScharbeutzScharnitzSchladmingSchleiz
+(Vogtland)SchleswigSchnaittachSchönau am
+KönigsseeSchortensSchüttorfSchwabachSchwäbisch-GmündSchwandorfSchwangau
+NeuschwansteinSchweinfurtSchwerinSchwerteSebeșSedanSeefeld
+(Tirol)SeesenSelbSellinSenigalliaSerravalle Scrivia (Outlet)Sestri
+LevanteSibiuSiedlinghausenSiegenSienaSierksdorfSighișoaraSigmaringenSilkeborgSimbach
+(Inn)SingenSiófokSittensenSkanderborgSkiveSkradinSkradinsko
+PoljeSlagelseSlatinaSlavonski
+BrodSobranceSödertäljeSoltauSonthofenSoragaSorrentSpišská Nová
+VesSplitSpoletoSprembergSpringeSt. AntonSt. GallenSt. Jean de LuzSt.
+MichaelSt. Peter OrdingSt. PöltenStadeStankovciStaré Město u Uh.
+Hr.StarigradSteingadenSterzing (Vipiteno)Stettin
+(Szczecin)StockholmStralsundStraßburg (Strasbourg)StraubingStudénkaSuchdol nad
+OdrouSuhl/Zella-MehlisSukošanSuper-BesseSveta NedeljaSveti Filip i
+JakovSzegedŠibenikŠtrbaTarTarbesTarent (Taranto)Târgu
+MureșTatingTeleseTeramoTerlizziTermoliTerniTeschendorfTeseroThiersThistedTignesTimișoaraTimmendorfer
+StrandTirstrupTisnoTitiseeTodiTönningToruńToulonToulouseTourcoingToursTraniTrenčínTrevisoTribunjTrientTrierTriest
+(Trieste)TřinecTrogirTübingenTulleTullnerfeldTurdaTurin
+(Torino)ÜberlingenUdbinaUdineUhlstädtUlmUmagUplengenUsedomUsselUtrechtUžhorodÚstí
+nad LabemVal d'IsèreValence
+(Frankreich)ValenciennesValkenswaardValpovoVannesVaraždinVastoVechtaVeenendaalVejenVejleVenedig
+(Venezia)VenloVerdunVermiglioVeronaVerrèsVerviersViareggioViborgVicenzaVigo di
+FassaVillachVillefranche-sur-SaôneVillingen-
+SchwenningenVinkovciViroviticaVitry-le-FrançoisVittorio
+VenetoVodiceVodnjanVölklingenVrsarVrútkyVukovarWangen
+(Allgäu)WarendorfWarnemündeWarschau (Warszawa)WeezeWehretalWeiden
+(Oberpfalz)WeimarWeißenfelsWelsWernigerodeWertheimWeselWesterstedeWetter
+(Hessen)WetzlarWieck (Darß)WienWien FlughafenWiesbadenWilhelmshavenWillingen
+(Upland)WinterbergWinterthurWismarWittichenauWittlichWittmundWolfenbüttelWolfsburgWolpertshausenWormsWuppertalWürzburgWustrowXantenZábřeh
+na
+MoravěZadarZagrebZakopaneZeitzZenicaZgorzelecZianoZingstZittauZlínZnojmoZschopauZürichZvolenZweibrückenZwickauŽepčeŽilinaŽupanja
+
+Folgen Sie uns auf:
+
+Newsletter abonnierenImmer die aktuellen Strecken-News &amp; Aktionen
+
+FAQ
+
+AGBB
+
+Kontakt
+
+Impressum
+
+Jobs
+
+Presse
+
+Datenschutz
+
+Nutzungsbedingungen
+
+Beförderungsbedingungen
+
+Seitenübersicht
+
+mehr anzeigen...
+
+Sicher einkaufen 256bit SSL Verschlüsselung
+
+  * Anmelden
+
+Anmelden
+
+  * Home
+  * Buchung
+  * Streckeninfo
+  * Kundenservice
+  * Über uns
+  * Fanshop
+
+  * Switch to English
+
+Hey, we have an English version! Would you like to switch to it?
+
+  * Buchung ändern / stornieren
+

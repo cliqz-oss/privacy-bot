@@ -1,0 +1,125 @@
+Login Registrieren
+
+Neues Forum Hilfe Support Fanshop
+
+Registriere dich kostenlos und erhalte Zugriff auf Favoriten, Mail,
+Lesezeichen, Farbvorlagen, Chat, Download von Geschichten uvm.!
+
+# Datenschutzerklärung
+
+* * *
+
+IdeaFactory nimmt den Schutz der personenbezogenen Daten der Nutzer von
+FanFiktion sehr ernst. IdeaFactory erhebt, speichert und nutzt
+personenbezogene Daten der Nutzer daher nur, soweit dies nach den gesetzlichen
+Bestimmungen zulässig ist oder der Nutzer im Rahmen seiner Zustimmung zu
+dieser Datenschutzerklärung oder in anderer Weise entsprechend den
+gesetzlichen Bestimmungen in eine solche Nutzung eingewilligt hat.
+
+  1. ##### Aufruf der Internetseite
+
+  
+Der Aufruf der Internetseite www.fanfiktion.de („FanFiktion“ oder die
+„Internetseite“) ist grundsätzlich anonym und ohne Anmeldung möglich. Der
+Internet-Browser des Nutzers übermittelt beim Zugriff auf die Internetseite
+automatisch bestimmte Daten an den Webserver von IdeaFactory. Es handelt sich
+dabei unter anderem um Datum und Uhrzeit des Zugriffs, URL der verweisenden
+Webseite, abgerufene Datei, Menge der gesendeten Daten, Browsertyp und
+-version sowie Betriebssystem die „technischen Zugriffsdaten“). Die
+technischen Zugriffsdaten werden grundsätzlich getrennt von Daten gespeichert,
+die der Nutzer auf der Internetseite eingibt. Eine Zuordnung erfolgt nur in
+dem in dieser Datenschutzerklärung beschriebenen Umfang. Die technischen
+Zugriffsdaten werden im Übrigen nur zu statistischen Zwecken ausgewertet und
+nach maximal 24 Stunden gelöscht.
+
+  2. ##### Anmeldedaten
+
+  
+Bestimmte Funktionen von FanFiktion setzen eine Anmeldung voraus. Der Nutzer
+muss bei der Anmeldung eine E-Mail-Adresse angeben und einen Nickname und ein
+Passwort wählen (zusammen die „Bestandsdaten des Nutzers“). Es steht dem
+Nutzer frei, hier Angaben zu machen, die einen Rückschluss auf seine Person
+zulassen oder nicht. Eine Verarbeitung oder Nutzung von Bestandsdaten des
+Nutzers findet nur statt, wenn und soweit dies für die Begründung, inhaltliche
+Ausgestaltung oder Änderung der Vereinbarung über die Nutzung von Fanfiktion
+(die „Nutzungsvereinbarung“) erforderlich ist.
+
+  3. ##### Nutzung der Internetseite
+
+  
+IdeaFactory speichert bei jeder Aktion eines registrierten Nutzers (Login,
+Logout, Einstellen von Inhalten etc.) den Zeitpunkt der Aktion und die User-ID
+des Nutzers. Beim Login wird zusätzlich ein auf Basis der Systemkonfiguration
+des Nutzers erstellter Hash-Wert übermittelt.  
+Eine Verarbeitung oder Nutzung der Inhalte, die der Nutzer in FanFiktion
+einstellt (Postings, Geschichten etc., zusammen „Inhalte des Nutzers“) und der
+hierzu gespeicherten Daten erfolgt gemäß der Nutzungsvereinbarung und in dem
+Umfang, in dem dies zum bestimmungsgemäßen Betrieb von FanFiktion erforderlich
+ist.
+
+  4. ##### Cookies
+
+  
+IdeaFactory setzt für den Betrieb der Internetseite so genannte „Cookies“ ein.
+Mit Hilfe dieser „Cookies“ können bei dem Aufruf unserer Webseite Daten auf
+dem Rechner des Nutzers gespeichert werden welche für bestimmte Funktionen von
+FanFikion erforderlich sind. Zum Einsatz kommen zum einen Session-Cookies, die
+nach dem Logout des Nutzers gelöscht werden. Zum anderen setzt IdeaFactory
+persistente Cookies ein, die für 360 Tage auf dem Rechner des Nutzers
+gespeichert werden. Der Nutzer hat die Möglichkeit, das Speichern von Cookies
+auf seinem Rechner durch entsprechende Einstellungen in seinem Browser zu
+verhindern. Hierdurch kann allerdings der Funktionsumfang von FanFiktion
+eingeschränkt werden.
+
+  5. ##### Datensicherheit
+
+  
+IdeaFactory gewährleistet ein angemessenes Niveau der Datensicherheit und
+beachtet dabei insbesondere die Vorgaben des § 9 Bundesdatenschutzgesetz. Der
+Nutzer ist damit einverstanden, dass sein Nickname zusammen mit den Inhalten,
+die der Nutzer auf FanFiktion einstellt, im Internet für jedermann abrufbar
+ist. Der Nutzer achtet selbst darauf, dass diese Inhalte keine Informationen
+enthalten, die der Nutzer Dritten nicht offenbaren möchte oder darf.
+
+  6. ##### Löschung von Daten
+
+  
+IdeaFactory löscht grundsätzlich alle personenbezogenen Daten des Nutzers, die
+IdeaFactory nach dieser Datenschutzerklärung erhebt, speichert oder nutzt,
+nach Beendigung der Nutzungsvereinbarung. Soweit IdeaFactory aufgrund
+gesetzlicher Aufbewahrungspflichten personenbezogene Daten des Nutzers
+aufbewahren muss, sperrt IdeaFactory diese Daten. IdeaFactory ist jedoch nicht
+verpflichtet, Inhalte des Nutzers oder die hierzu gespeicherten technischen
+Daten (vgl. 3.) nach Ende der Nutzungsvereinbarung zu löschen. Eine Ausnahme
+gilt gem. Abschnitt "RECHTE AN INHALTEN, ÄNDERUNGEN VON INHALTEN" der
+Nutzungsvereinbarung für Geschichten des Nutzers.  
+Dem Nutzer ist bewusst, dass IdeaFactory eine Verarbeitung oder Nutzung
+personenbezogener Daten des Nutzers durch Dritte auch nach Ende der
+Nutzungsvereinbarung nicht verhindern kann.
+
+  7. ##### Auskunftsrecht des Nutzers
+
+  
+Der Nutzer kann jederzeit nach Maßgabe zum § 34 Bundesdatenschutzgesetz
+Auskunft von IeaFactory über die zu seiner Person oder seinem Pseudonym
+gespeicherten personenbezogenen Daten verlangen. Ein Auskunftsersuchen ist zu
+richten an:  
+  
+ideaFactory  
+Geiler, Thiessen &amp; Uhlig GbR  
+Waldmattstr. 9  
+77728 Oppenau  
+  
+
+  8. ##### Einwilligung, Widerspruchsrecht des Nutzers
+
+  
+Mit Zustimmung des Nutzers zu dieser Datenschutzerklärung willigt der Nutzer
+ein, dass IdeaFactory seine personenbezogenen Daten wie in dieser
+Datenschutzerklärung beschrieben erhebt, verarbeitet und nutzt. Der Nutzer ist
+berechtigt, diese Einwilligung jederzeit mit Wirkung für die Zukunft zu
+widerrufen. Die Widerrufserklärung ist an die im Abschnitt "Auskunftsrecht des
+Nutzers" genannten Kontaktdaten zu richten.
+
+Nutzungsbedingungen Datenschutz Impressumbuild e3d9b/m
+

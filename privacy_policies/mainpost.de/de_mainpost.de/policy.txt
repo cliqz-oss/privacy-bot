@@ -1,0 +1,984 @@
+  * Mobil
+  * Shop
+  * Karriere
+  * Wetter
+
+  * Lade LoginBitte aktivieren Sie Javascript.
+
+  * Abo
+  * Newsletter
+  * ePaper
+
+Donnerstag, 01. Juni 2017
+
+  *   * Regional
+    * Würzburg
+      *         1. AAltertheim
+        2. Aub
+        3. BBergtheim
+        4. Bieberehren
+        5. Bütthard
+        6. EEibelstadt
+        7. Eisenheim
+        8. Eisingen
+        9. Erlabrunn
+        10. Estenfeld
+        11. FFrickenhausen
+        1. GGaukönigshofen
+        2. Gelchsheim
+        3. Gerbrunn
+        4. Geroldshausen
+        5. Giebelstadt
+        6. Greußenheim
+        7. Güntersleben
+        8. HHausen
+        9. Helmstadt
+        10. Hettstadt
+        11. Höchberg
+        1. Holzkirchen
+        2. KKirchheim
+        3. Kist
+        4. Kleinrinderfeld
+        5. Kürnach
+        6. LLeinach
+        7. MMargetshöchheim
+        8. NNeubrunn
+        9. OOberpleichfeld
+        10. Ochsenfurt
+        11. PProsselsheim
+        1. RRandersacker
+        2. Reichenberg
+        3. Remlingen
+        4. Riedenheim
+        5. Rimpar
+        6. Röttingen
+        7. Rottendorf
+        8. SSonderhofen
+        9. Sommerhausen
+        10. TTauberrettersheim
+        11. Theilheim
+        1. Thüngersheim
+        2. UUettingen
+        3. Unterpleichfeld
+        4. VVeitshöchheim
+        5. WWaldbrunn
+        6. Waldbüttelbrunn
+        7. Winterhausen
+        8. Würzburg
+        9. ZZell
+    * Schweinfurt
+      *         1. BBergrheinfeld
+        2. DDingolshausen
+        3. Dittelbrunn
+        4. Donnersdorf
+        5. EEbrach
+        6. Euerbach
+        7. FFrankenwinheim
+        8. GGeldersheim
+        9. Gerolzhofen
+        1. Gochsheim
+        2. Grafenrheinfeld
+        3. Grettstadt
+        4. KKolitzheim
+        5. LLülsfeld
+        6. MMichelau
+        7. NNiederwerrn
+        8. OOberschwarzach
+        9. PPoppenhausen
+        1. RRöthlein
+        2. SSchonungen
+        3. Schwanfeld
+        4. Schwebheim
+        5. Schweinfurt
+        6. Sennfeld
+        7. Stadtlauringen
+        8. Sulzheim
+        9. UÜchtelhausen
+        1. WWaigolshausen
+        2. Wasserlosen
+        3. Werneck
+        4. Wipfeld
+    * Bad Kissingen
+      *         1. AAura
+        2. BBad Bocklet
+        3. Bad Brückenau
+        4. Bad Kissingen
+        5. Burkardroth
+        6. EElfershausen
+        7. Euerdorf
+        8. FFuchsstadt
+        9. GGeroda
+        1. HHammelburg
+        2. MMaßbach
+        3. Motten
+        4. Münnerstadt
+        5. NNüdlingen
+        6. OOberleichtersbach
+        7. Oberthulba
+        8. Oerlenbach
+        9. RRamsthal
+        1. Rannungen
+        2. Riedenberg
+        3. SSchondra
+        4. Sulzthal
+        5. TThundorf
+        6. WWartmannsroth
+        7. Wildflecken
+        8. ZZeitlofs
+    * Rhön-Grabfeld
+      *         1. AAubstadt
+        2. BBad Königshofen
+        3. Bad Neustadt
+        4. Bastheim
+        5. Bischofsheim
+        6. Burglauer
+        7. FFladungen
+        8. GGersfeld
+        9. Großbardorf
+        1. Großeibstadt
+        2. HHausen
+        3. Hendungen
+        4. Herbstadt
+        5. Heustreu
+        6. Höchheim
+        7. Hohenroth
+        8. Hollstadt
+        9. MMellrichstadt
+        1. NNiederlauer
+        2. Nordheim
+        3. OOberelsbach
+        4. Oberstreu
+        5. Ostheim
+        6. RRödelmaier
+        7. SSaal
+        8. Salz
+        9. Sandberg
+        1. Schönau
+        2. Sondheim
+        3. Stockheim
+        4. Strahlungen
+        5. Sulzdorf
+        6. Sulzfeld
+        7. TTrappstadt
+        8. UUnsleben
+        9. WWillmars
+        1. Wollbach
+        2. Wülfershausen
+    * Haßberge
+      *         1. AAidhausen
+        2. BBreitbrunn
+        3. Bundorf
+        4. Burgpreppach
+        5. EEbelsbach
+        6. Ebern
+        7. Eltmann
+        8. Ermershausen
+        9. GGädheim
+        1. HHaßfurt
+        2. Hofheim
+        3. KKirchlauter
+        4. Knetzgau
+        5. Königsberg
+        6. MMaroldsweisach
+        7. OOberaurach
+        8. PPfarrweisach
+        9. RRauhenebrach
+        1. Rentweinsdorf
+        2. Riedbach
+        3. SSand am Main
+        4. Stettfeld
+        5. TTheres
+        6. UUntermerzbach
+        7. WWonfurt
+        8. ZZeil
+    * Kitzingen
+      *         1. AAbtswind
+        2. Albertshofen
+        3. BBiebelried
+        4. Buchbrunn
+        5. CCastell
+        6. DDettelbach
+        7. GGeiselwind
+        8. Großlangheim
+        9. IIphofen
+        1. KKitzingen
+        2. Kleinlangheim
+        3. MMainbernheim
+        4. Mainstockheim
+        5. Markt Einersheim
+        6. Marktbreit
+        7. Marktsteft
+        8. Martinsheim
+        9. NNordheim
+        1. OObernbreit
+        2. PPrichsenstadt
+        3. RRödelsee
+        4. Rüdenhausen
+        5. SSchwarzach
+        6. Segnitz
+        7. Seinsheim
+        8. Sommerach
+        9. Sulzfeld
+        1. VVolkach
+        2. WWiesenbronn
+        3. Wiesentheid
+        4. Willanzheim
+    * Main-Spessart
+      *         1. AArnstein
+        2. Aura im Sinngrund
+        3. BBirkenfeld
+        4. Bischbrunn
+        5. Burgsinn
+        6. EErlenbach
+        7. Esselbach
+        8. Eußenheim
+        9. FFellen
+        1. Frammersbach
+        2. GGemünden
+        3. Gössenheim
+        4. Gräfendorf
+        5. HHafenlohr
+        6. Hasloch
+        7. Himmelstadt
+        8. KKarbach
+        9. Karlstadt
+        1. Karsbach
+        2. Kreuzwertheim
+        3. LLohr
+        4. MMarktheidenfeld
+        5. Mittelsinn
+        6. NNeuendorf
+        7. Neuhütten
+        8. Neustadt am Main
+        9. OObersinn
+        1. PPartenstein
+        2. RRechtenbach
+        3. Retzstadt
+        4. Rieneck
+        5. Roden
+        6. Rothenfels
+        7. SSchollbrunn
+        8. Steinfeld
+        9. TThüngen
+        1. Triefenstein
+        2. UUrspringen
+        3. WWiesthal
+        4. ZZellingen
+    * Main-Tauber
+      *         1. AAssamstadt
+        2. BBad Mergentheim
+        3. Berolzheim
+        4. Boxberg
+        5. Buch am Ahorn
+        6. CCreglingen
+        7. EEubigheim
+        8. GGroßrinderfeld
+        9. Grünsfeld
+        1. HHohenstadt
+        2. IIgersheim
+        3. KKönigheim
+        4. Külsheim
+        5. LLauda
+        6. NNiederstetten
+        7. SSchillingstadt
+        8. TTauberbischofsheim
+        9. WWeikersheim
+        1. Werbach
+        2. Wertheim
+        3. Wittighausen
+  * Meine Themen 
+
+Sie haben  ungelesene Artikel
+
+  * Überregional
+    * Topthemen
+      * Brennpunkte
+      * Zeitgeschehen
+      * Hintergründe
+    * Bayern
+    * Meinung
+      * Leitartikel
+      * Leseranwalt
+      * Leserbriefe
+      * Samstagsbrief
+      * Unterm Strich
+    * Wirtschaft
+      * Übersicht
+      * Blog ImPlus: regionale Wirtschaft
+    * Boulevard
+      * Boulevard
+      * Trends
+    * Digital
+      * Computer
+      * Apps & Gadgets
+      * News
+    * Wissenschaft
+    * Reise
+      * Urlaubsberichte
+      * Gesundheit auf Reisen
+      * Reise-Recht
+      * Reisetipp
+    * Kultur
+      * Kinostarts
+      * Highlights
+      * Musik
+    * Tipps
+      * Mode & Lifestyle
+      * Familie & Erziehung
+      * Wellness & Fitness
+      * Garten & Umwelt
+      * Bauen & Wohnen
+      * Essen & Trinken
+      * Beruf & Bildung
+      * Tiere & Co
+      * Gesundheit
+      * Für den Alltag
+      * Mobile Welt
+  * Kickers
+    * News
+    * Kickers TV
+    * Liveticker
+    * Statistik
+    * Fanforum
+    * Fotos
+  * Sport
+    * Liveticker
+      * Fußball
+      * Basketball
+      * Eishockey
+      * Handball
+    * Tabellen
+    * Überregional
+      * Top-Sport
+      * Fußball
+      * Handball
+      * Tennis
+      * Leichtathletik
+      * Wintersport
+      * Motorsport
+      * Sport-Mix
+      * Sportpolitik
+    * Würzburg
+      * Übersicht
+      * Würzburger Kickers
+      * s.Oliver Würzburg
+      * Würzburger FV
+      * DJK Rimpar Wölfe
+      * Residenzlauf 
+      * iWelt-Marathon
+      * WUE2RUN-Firmenlauf
+    * Schweinfurt / Haßberge
+      * Übersicht
+      * FC 05 Schweinfurt
+    * Kitzingen
+      * Übersicht
+      * TSV Abtswind
+      * Bayern Kitzingen
+    * Bad Kissingen
+    * Rhön-Grabfeld
+      * Übersicht
+      * Fußball Bayernliga Nord
+      * HSC Bad Neustadt
+      * TSV Bad Königshofen
+    * Main-Spessart
+  * Freizeit
+    * News
+    * Feiern
+      * Fasching
+      * Kiliani
+      * Hafensommer
+      * Africa-Festival
+      * Main-Topmodel
+      * Mozartfest
+      * Volksfest Schweinfurt
+    * Anschauen
+      * 111 Dinge in Mainfranken
+      * Kirchen & Klöster
+      * Burgen & Schlösser
+    * Flüsse & Seen
+    * Wandern & Radeln
+    * Termine
+      * Veranstaltungen
+      * Kino
+    * Weinfeste
+    * Gewinnen
+    * Stadtkultur Schweinfurt
+  * Mediathek
+    * Fotos
+      * Mainfranken
+      * Partyfotos
+      * Fotoreportagen
+      * FC Würzburger Kickers
+      * s.Oliver Würzburg
+      * DJK Rimpar Wölfe
+      * Mehr Sport
+      * Kultur & Konzerte
+      * Specials
+    * Videos
+      * Region
+      * Blaulicht
+      * Kickers TV
+      * Sport TV
+      * s.Oliver Würzburg
+      * DJK Rimpar Wölfe
+      * Specials
+  * Anzeigen
+    * Marktplatz
+    * Immobilien
+    * Stellen
+    * Auto
+    * Trauer
+    * Reisen
+    * Bekanntschaften
+    * Anzeigenaufgabe
+    * Prospekte
+    * Beilagen
+    * Mediadaten
+  * Service
+    * Abo-Angebote
+    * Leser-Service
+    * Shop
+    * mainfrankencard
+    * MP-Akademie
+    * Leserreisen
+    * Tickets
+    * KLASSE!
+    * Mein Lieblingsladen
+    * Kontakt
+  *   * 
+
+  * Abo-Angebote
+  * Leser-Service
+  * Shop
+  * mainfrankencard
+  * MP-Akademie
+  * Leserreisen
+  * Tickets
+  * KLASSE!
+  * Mein Lieblingsladen
+  * Kontakt
+
+  
+
+von:
+
+bis:
+
+Relevanz Neueste zuerst Älteste zuerst
+
+  
+
+schließen
+
+##
+
+# Datenschutzerklärung
+
+Datenschutzerklärung und Einwilligung in die Datennutzung für Dienste der
+Main-Post GmbH
+
+  
+Die Main-Post GmbH (nachfolgend „wir") betreibt mehrere, über das Internet
+erreichbare Dienste, wie zum Beispiel mainpost.de (www.mainpost.de), Main-Post
+Shop (www.shop.mainpost.de), mainDing.de (www.mainDing.de), wuewowas.de
+(www.wuewowas.de), wuerzburgerleben.de (www.wuerzburgerleben.de),
+MeinLieblingsLaden (www.mein-lieblingsladen.de), mainticket.de
+(www.mainticket.de) und Mainfrankencard (www.mainfrankencard.de) sowie
+Applikationen auf mobilen Endgeräten. Außerdem betreibt die Main-Post
+Präsenzen in verschiedenen Onlinenetzwerken (nachfolgend zusammenfassend
+„Main-Post Dienste").  
+Wir nehmen den Schutz Ihrer Privatsphäre sehr ernst. Wir verarbeiten Ihre
+personenbezogenen Daten nur, sofern das Gesetz die Datenverarbeitung erlaubt,
+oder wenn Sie Ihre Zustimmung zu der Verarbeitung Ihrer Daten gegeben haben.
+Dies gilt insbesondere auch für die Nutzung und Weitergabe personenbezogener
+Daten zu Werbe- oder Vermarktungszwecken.  
+Mit der nachfolgenden Datenschutzerklärung erläutern wir Ihnen, welche
+personenbezogenen Daten zu welchem Zweck und in welcher Form für Main-Post
+Dienste verarbeitet werden. Außerdem werden Sie darüber informiert, auf welche
+Weise Sie einzelne Tools deaktivieren können.
+
+1\. Erhebung und Verarbeitung von Daten  
+
+
+  1. Personenbezogene Daten
+
+Personenbezogene Daten sind solche Angaben über persönliche oder sachliche
+Verhältnisse, die Ihnen ohne Weiteres und eindeutig zugeordnet werden können
+(z.B. Ihr Name, Ihre Anschrift, Ihre Telefonnummer oder Ihre E-Mail-Adresse).  
+Für die Abwicklung einiger unserer Dienstleistungen ist es notwendig, Ihre
+personenbezogenen Daten zu erheben und zu verwenden. Dazu gehören:  
+
+
+  * die Nutzung unseres E-Papers;
+  * das Abonnieren der Printprodukte der "Main-Post";
+  * das Abonnieren von digitalen Angeboten der „Main-Post";
+  * das Abonnieren unseres Newsletters;
+  * das Kommentieren von Artikeln;
+  * die Kontaktaufnahme über das Kontaktformular;
+  * das Aufgeben von Anzeigen;
+  * die Teilnahme an Gewinnspielen;
+  * die Bestellung in unserem Online-Shop;
+  * die Anmeldung zu Veranstaltungen sowie
+  * Serviceleistungen, wie Adressänderungen, Reisenachsendungen und Änderungen der Bankverbindung
+
+  
+Situationsabhängig werden Name, Anschrift, Geschlecht, Geburtsdatum,
+Kundennummer, Telefonnummer, Faxnummer, Bankverbindung, Zahlungsart und
+E-Mail-Adresse erhoben und gespeichert. Diese Daten werden ausschließlich im
+Rahmen Ihrer Einwilligung sowie im Rahmen der Vertragszwecke und in einem
+Umfang verarbeitet und genutzt, der für die Begründung, Ausgestaltung,
+Änderung und Erfüllung des Vertragsverhältnisses erforderlich ist.  
+
+
+  1. Kostenpflichtige Leistungen
+
+Wir erheben und verarbeiten zur Erfüllung und Abwicklung von kostenpflichtigen
+Leistungen folgende personenbezogene Daten:  
+
+
+  * Datum und Uhrzeit der Bestellung / Abruf der Leistung;
+  * Ihren Vornamen und Nachnamen;
+  * Ihre Anschrift;
+  * Ihre E-Mail-Adresse;
+  * falls freiwillig angegeben, Ihre Telefonnummer, Ihr Geburtsdatum;
+  * Zahlungsart und -informationen;
+  * Zustellbesonderheiten.
+
+
+
+  1. Nutzung unseres E-Mail Services
+
+Stellen Sie uns Ihre E-Mail-Adresse zur Verfügung, um per E-Mail
+Informationen, Angebote, Werbung und/oder unseren Newsletter zu erhalten,
+erheben und verarbeiten wir zum Zwecke der Zustellung und zur Erfüllung
+gesetzlicher Anforderungen mit Ihrer Einwilligung folgende Daten:  
+
+
+  * Ihren Vornamen und Nachnamen;
+  * Ihre E-Mail-Adresse;
+  * Datum, Uhrzeit und Ihre IP-Adresse bei Erklärung der Einwilligung;
+  * Datum, Uhrzeit und Ihre IP-Adresse bei Bestätigung der Einwilligung;
+  * Version der jeweiligen Erklärung zum Zeitpunkt der Einwilligung sowie den Inhalt der jeweiligen Erklärungen;
+
+  
+  
+Sie haben die Möglichkeit, sich von dem Bezug unserer E-Mail-Services
+jederzeit abzumelden bzw. Ihre Einwilligung gemäß Ziffer 3 zu widerrufen. In
+diesem Fall werden wir Ihre Daten für den Zweck „E-Mail-Services" unverzüglich
+sperren.  
+  
+b)    Nutzungsdaten  
+Bei einem Zugriff auf einen Main-Post Dienst und dem Abruf einer Datei, werden
+über diesen Vorgang Daten in einer sog. Protokolldatei gespeichert. Folgender
+Datensatz wird bei jedem Abruf gespeichert.  
+
+
+  * Ihren IP-Adresse;
+  * Name der abgerufenen Datei;
+  * Datum und Uhrzeit des Abrufs;
+  * Übertragene Datenmenge;
+  * Meldung, ob der Abruf erfolgreich war;
+  * Beschreibung des Typs des verwendeten Webbrowsers.
+
+  
+Eine personenbezogene Verwertung der Daten findet nicht statt. Wir verwenden
+diese Daten, um Ihnen die Nutzung der Main-Post Dienste zu ermöglichen sowie
+zu statistischen Zwecken, um die Main-Post Dienste kontinuierlich zu
+verbessern. Ausschließlich zum Zwecke des möglichen Nachweises sowie der damit
+verbundenen Dokumentation von etwaigen Missbrauchsfällen und für die Erkennung
+und Beseitigung von Störungen speichern wir Ihre IP-Adresse für sieben Tage in
+vollständiger, danach für 33 Tage in anonymisierter Form. Alle erhobenen Daten
+werden nach vierzig Tagen vollständig gelöscht.  
+  
+Einzelne Leistungen werden erst nach dem Abruf von 5 kostenlosen Inhalten
+kostenpflichtig. Unsere Webseite nutzt zur Identifikation des Nutzers für die
+Metered Paywall das Fingerprinting und Cookies. Weitere Einzelheiten zu dem
+Einsatz von Fingerprinting entnehmen Sie Ziffer 6a und zu den Cookies Ziffer
+6b.  
+  
+c)    Mobile Dienste  
+Zu mobilen Diensten gehören insbesondere auch Applikationen für Mobiltelefone
+und Tablets. Die Datenerhebung und -verarbeitung dient der Systemsicherheit
+und der kontinuierlichen Verbesserung der mobilen Dienste. Die
+Datenverarbeitung ist außerdem notwendig, um kostenpflichtige mobile Dienste
+wie z.B. Abonnements anbieten zu können. Wir erheben und verarbeiten folgende
+Daten:  
+
+
+  * Artikel/Seiten/Inhalte, die Sie lesen (Speicherung nur temporär im Cache des mobilen Endgeräts);
+  * Tracking-/Nutzungs-Daten (siehe Webanalyse, Ziffer 8);
+  * Abonnements für Push-Benachrichtigungen;
+  * E-Mail-Adresse, wenn Sie diese angeben.
+
+  
+  
+2\. Einwilligung  
+Wir verarbeiten Ihre personenbezogenen Daten nur, sofern das Gesetz die
+Datenverarbeitung erlaubt, oder wenn Sie Ihre Zustimmung zu der Verarbeitung
+Ihrer Daten gegeben haben.  
+Die Main-Post wird Ihre Einwilligung protokollieren. Erteilen Sie im
+Einzelfall Ihre Zustimmung nicht oder widerrufen diese später (vgl. Ziffer 3),
+weisen wir darauf hin, dass Sie ggfs. den jeweiligen Main-Post Dienst nicht
+nutzen können.  
+Durch die Nutzung der Main-Post Dienste erklären Sie sich mit der Bearbeitung
+der über Sie erhobenen Daten durch Google gemäß den in Ziffer 8 dargelegten
+Bestimmungen einverstanden.  
+Haben Sie uns hierzu Ihre Einwilligung erteilt, können Ihre personenbezogenen
+Daten zudem z.B. an unsere Kooperationspartner weitergegeben werden. Die
+Weitergabe kann erfolgen zu Werbezwecken, der Marktforschung, der Produkt- und
+Dienstleistungsinformation sowie zum Vertragsangebot bezüglich Waren und
+Dienstleistungen. Sie werden über den Umfang Ihrer zu erteilenden Einwilligung
+sowie über den etwaigen Datenempfänger informiert. Sofern wir zu diesem Zweck
+Ihre Daten an Dritte weitergeben, sind diese aufgefordert, die gesetzlichen
+Datenschutzbestimmungen einzuhalten.  
+Falls Sie uns eine entsprechende Einwilligung erteilt haben, sind wir
+berechtigt, Ihre E-Mail-Adresse, die Sie bei Ihrer Registrierung zu
+registrierungspflichtigen Diensten angegeben haben, zur Direktwerbung für
+eigene, ähnliche Dienstleistungen zu nutzen sowie für Informationen über Ihren
+Account sowie generell zu Main-Post Diensten zu verwenden. Der Verwendung
+Ihrer E-Mail-Adresse zu den genannten Zwecken oder zu einem dieser Zwecke,
+können Sie jederzeit widersprechen. Nutzen Sie hierzu bitte die in Ziffer 3
+genannten Kontaktmöglichkeiten.  
+  
+3\. Widerruf der Einwilligung und Auskunftsgesuch  
+Sie können Ihre Einwilligung zur Erhebung und Speicherung Ihrer
+personenbezogenen Daten durch uns jederzeit widerrufen. Außerdem können Sie
+jederzeit Auskunft über die von uns über Sie gespeicherten Daten bekommen.
+Wenden Sie sich in beiden Fällen bitte an:  
+Main-Post GmbH  
+Berner Straße 2  
+97084 Würzburg  
+oder senden Sie eine E-Mail an service.center@mainpost.de oder nutzen Sie
+unser Kontaktformular. Bei Auskunftsgesuchen stehen wir Ihnen auch telefonisch
+unter der Rufnummer 0931 - 6001 6001 zur Verfügung.  
+Möchten Sie Ihre Einwilligung in die Verwendung des Werbeanalysedienstes
+Google Analytics widerrufen, installieren Sie bitte das unter Ziffer 8.
+genannte Deaktivierungs Add-On.  
+Wir weisen darauf hin, dass Sie im Fall eines Widerrufs bestimmte Main-Post
+Dienste (z.B. Bezug des Newsletters) nicht mehr nutzen können.  
+  
+4\. Bestellungen in und über Main-Post Dienste  
+Wir bieten Ihnen auf unseren Webseiten die Möglichkeit an, kostenpflichtig
+Waren zu bestellen oder andere Leistungen kostenpflichtig zu nutzen.
+Situationsabhängig kann es zur Durchführung des Vertragsverhältnisses
+erforderlich sein, dass Sie uns (weitere) personenbezogen Daten (z.B.
+Lieferadresse, Zahlungsinformationen) mitteilen.  
+Wir verwenden Ihre Daten ausschließlich zur Vertragsabwicklung. Sofern wir zu
+diesem Zweck Ihre Daten an Dritte (z.B. Dienstleister) weitergeben, sind diese
+aufgefordert, die gesetzlichen Datenschutzbestimmungen einzuhalten.  
+Für die verschiedenen Bezahlungsarten arbeiten wir mit externen Unternehmen
+zusammen:  
+
+
+  * für die Zahlungsabwicklung per paypal ist dies die PayPal Deutschland GmbH, Am Marktplatz 1, 14532 Europaparc Dreilinden;
+  * für die Zahlungsabwicklung per Mobilfunkrechnung/Prepaidguthaben (mbe4) ist dies die mobile business engine GmbH, In der Pianofabrik, Chausseestr. 5, 10115 Berlin-Mitte.
+
+  
+  
+5\. Ihre Inhalte in Main-Post Diensten  
+Die Main-Post Dienste bieten Ihnen die Möglichkeit, mit uns und anderen
+Benutzern zu interagieren, indem sie beispielweise Beiträge kommentieren.  
+
+
+  1. Personenbezogene Daten
+
+Kommentieren Sie einen unserer Beiträge oder den eines anderen Nutzers, kann
+Ihr Kommentar personenbezogene Daten enthalten, wenn Sie in Ihrem Kommentar
+entsprechende Angaben machen.  
+
+
+  1. Sichtbarkeit einzelner Profildaten
+
+  
+www.mainpost.de  
+Es ist nicht erlaubt, das persönliche Profil zur Veröffentlichung von
+jugendgefährdenden oder sonstigen illegalen Inhalten zu verwenden.  
+  
+www.main-Ding.de  
+Die Profil-Seite kann für folgende Personengruppen sichtbar gemacht werden:  
+
+
+  * allen (= öffentlich)
+  * nur Mitgliedern (= alle registrierte Benutzer auf main-Ding.de)
+  * Freunden (= registrierte Benutzer von main-Ding.de mit denen der User "befreundet" ist)
+
+  
+Zudem erlauben es die Einstellungen beim main-Ding-Profil folgende Angaben mit
+den Einstellungen "allen zeigen", "nur Freunden zeigen" und "keinem zeigen" zu
+versehen:  
+
+
+  * E-Mail-Adresse, Vorname, Nachname, Straße, Hausnummer, Ort, "Motto", Hobbies, Job, Glückszahl, Lieblingsmusik/Lieblingsmusiker, Lieblingsfilm/Lieblings-TV-Serie/Lieblingsschauspieler(in), "Ich mag", "Ich mag gar nicht", "Du triffst mich hier" und Über mich
+
+  
+Weiter existiert ein "Flirtprofil", welches optional ausgefüllt werden kann.
+Das "Flirtprofil" ist voreingestellt nicht aktiv. Beim Aktivieren des
+"Flirtprofils" können u.a. folgende Angaben öffentlich sichtbar gemacht
+werden:  
+
+
+  * Familienstand, Größe, Gewicht, Haarfarbe, Augenfarbe, Aussehen, Figur, Haarlänge, div. Charaktereigenschaften.
+
+  
+Es ist nicht erlaubt, das persönliche Profil (inkl. Flirtprofil) zur
+Veröffentlichung von jugendgefährdenden oder sonstigen illegalen  Inhalten zu
+verwenden.  
+  
+6\. Browser-Fingerprinting  
+Aus den Eigenschaften des Browsers wird ein Fingerprint berechnet und dieser
+im Cookie „paywall_fingerprint" gespeichert. In diesen Fingerprint fließen der
+User-Agent, die Sprache, die Zeitzone, die Farbtiefe, die installieren
+Browserplugins und weitere Einstellungen des Browsers ein. Die dem Fingerprint
+zugrundeliegenden Daten werden weder auf den Server übertragen noch
+gespeichert.  Somit kann nicht ermittelt werden, welchen Wert die abgefragten
+Browsereigenschaften haben.  
+Die abgerufenen Inhalte werden einzeln als Hash über Fingerprint, Typ des
+Inhalts und ID des Inhalts auf dem Server gespeichert. Somit kann rückwirkend
+nicht mehr ermittelt werden, welche Inhalte über welchen Browser abgerufen
+wurden.  
+Des Weiteren werden nur die abgerufenen Inhalte gespeichert, die der User
+erfolgreich abrufen konnte. Hat der User im aktuellen Monat bereits alle
+Freiinhalte abgerufen, werden keine weiteren Inhalte mit dem Fingerprint
+verknüpft. Mit Beginn des neuen Monats werden die alten Daten auf dem Server
+gelöscht.  
+  
+7\. Cookies  
+Wir verwenden auf unseren Webseiten Cookies. Dabei handelt es sich um kleine
+Dateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet
+gespeichert werden und dazu führen, dass uns bestimmte Informationen
+zufließen. Durch die Cookies erhalten wir Informationen über:  
+
+
+  * Ihre Session
+  * Ihre Benutzerdaten, falls Sie eingeloggt sind
+  * den Hash für das Fingerprinting der Metered Paywall
+  * die Anzahl der abgerufenen kostenpflichten Artikel und Bilderserien der Metered Paywall
+  * die Teilnahme an Umfragen und Bewertungen
+  * die Auflösung Ihres Browsers
+  * zur Verwendung des Mobilportals
+
+  
+8\. Online-Werbung  
+Bei Einblendung von Werbemitteln werden keine persönlichen Nutzerdaten wie
+Name, Adresse, Telefonnummer oder Email-Adresse gesammelt. Main-Post Dienste
+speichern temporär lediglich anonyme Userdaten (wie z.B. Betriebssystem,
+Browserversion etc.) bzw. wie auf das zugespielte Werbemittel reagiert wurde
+(Klicks). Die anonymen Userdaten dienen in aggregierter Form lediglich der
+Bereitstellung zielgruppenorientierter Werbung.  
+Bei Werbeschaltungen durch Dritte, bei denen mainpost.de über die Webseiten
+für einen Kunden personenbezogene Daten sammelt, werden die hierfür geltenden
+Datenschutzbestimmungen, Nutzung und Verwendungszweck nochmals gesondert in
+der jeweiligen Abfrage gekennzeichnet und ausgewiesen. Selbstverständlich
+gelten auch hier die strengen Vorschriften der deutschen
+Datenschutzbestimmungen. Die Main-Post verpflichtet sich, die erhobenen Daten
+nicht zu nutzen und nur für die Übermittlung an den Kunden zu bearbeiten und
+zu speichern. Die Daten werden spätestens 6 Monate nach der Erhebung gelöscht.
+Unsere Webseiten sind durch technische Maßnahmen gegen Beschädigungen,
+Zerstörung oder unberechtigten Zugriff geschützt.  
+Im Übrigen erfolgt die Werbung nutzungsbasiert über unseren Vertragspartner,
+der unter dem Link http://www.oms.eu/nutzungsbasierte-online-werbung
+eingesehen werden kann.  
+Wir haben uns zudem freiwillig der Selbstregulierung des Deutschen
+Datenschutzrats Online-Werbung (DDOW) unterworfen, http://meine-
+cookies.org/DDOW/.  
+  
+9\. Datenschutzhinweis zur Nutzung des Skalierbaren Zentralen Messverfahrens  
+Unsere Website nutzt das „Skalierbare Zentrale Messverfahren" (SZM) der Fa.
+INFOnline (https://www.infonline.de) für die Ermittlung statistischer
+Kennwerte zur Nutzung unserer Angebote. Dabei werden anonyme Messwerte
+erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung von
+Computersystemen alternativ entweder einen Cookie mit der Kennung „ivwbox.de"
+oder eine Signatur, die aus verschiedenen automatisch übertragenen
+Informationen Ihres Computers erstellt wird. IP-Adressen werden in dem
+Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet.  
+Die Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt.
+Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der
+Nutzer einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden
+einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie
+erhalten über das System keine Werbung.  
+Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung
+der Verbreitung von Werbeträgern e.V. (IVW - www.ivw.eu) sind oder an der
+Studie „internet facts" der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF -
+www.agof.de) teilnehmen, werden die Nutzungsstatistiken monatlich von der AGOF
+und der Arbeitsgemeinschaft Media-Analyse e.V. (ag.ma - www.agma-mmc.de),
+sowie der IVW veröffentlicht und können unter http://www.agof.de,
+http://www.agma-mmc.de und http://www.ivw.eu eingesehen werden.  
+Neben der Veröffentlichung von Messdaten überprüft die IVW das SZM-Verfahren
+regelmäßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung.  
+Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der
+INFOnline GmbH (https://www.infonline.de), die das SZM-Verfahren betreibt, der
+Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der
+Datenschutzwebsite der IVW (http://www.ivw.eu).  
+Sie können der Datenverarbeitung durch das SZM unter folgendem Link
+widersprechen: http://optout.ivwbox.de  
+  
+10\. Webanalyse durch Google Analytics  
+Wir setzen den Werbeanalysedienst Google Analytics, einen Dienst der Google
+Inc., ein. Wir erhalten auf diese Weise keine personenbezogenen, sondern
+ausschließlich statistische Daten über die Nutzung des jeweiligen Main-Post
+Dienstes (z.B. besonders beliebte Inhalte der Main-Post Dienste, welche
+Browser und Betriebssysteme unsere Nutzer verwenden, in welchen Regionen die
+Main-Post Dienste genutzt werden).  
+Google Analytics verwendet sog. Cookies (dazu bereits oben unter Ziffer 6),
+die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung
+unserer Main-Post Dienste durch Sie ermöglichen. Die durch den Cookie
+erzeugten Informationen über Ihre Benutzung dieser Website werden an einen
+Server von Google in den USA übertragen und dort gespeichert. Ihre IP-Adresse
+wird innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor von
+Google gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen
+Server von Google in den USA übertragen und dort gekürzt.  
+Google nutzt diese Informationen in unserem Auftrag, um Ihre Nutzung der
+Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen
+und um weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen zu erbringen. Google wird diese Informationen gegebenenfalls
+an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit
+Dritte diese Daten im Auftrag von Google verarbeiten.  
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung
+Ihrer Browser-Software verhindern (siehe dazu bereits oben unter Ziffer 6).
+Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf
+Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google
+sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das
+unter dem folgenden Link verfügbare Browser-Plugin herunterladen und
+installieren: http://tools.google.com/dlpage/gaoptout?hl=de. Dabei handelt es
+sich um ein von Google zur Verfügung gestelltes Deaktivierungs Add-On. Um die
+Webanalyse zu deaktivieren, muss das Add-On aktiviert sein. Löschen Sie das
+Add-On daher bitte nicht, solange Sie keine Webanalyse zulassen wollen. Das
+Add-On ist pro Browser und Rechner gesetzt. Falls Sie Main-Post Dienste also
+mit unterschiedlichen Browsern aufrufen, müssen Sie das Add-On gesondert
+hinzufügen.  
+Weitere Informationen zur Google Inc. und Google Analytics finden Sie unter:
+http://www.google.com. Die Datenschutzerklärung von Google finden Sie unter:
+http://www.google.com/intl/de/privacypolicy.html#information.  
+  
+  
+
+Auf dieser Website werden durch Technologien der seto GmbH mit dem Produkt
+m-pathy (www.m-pathy.com) Sitzungs- und Interaktionsdaten der Website-Besucher
+gesammelt und gespeichert. Diese Informationen werden verwendet, um den Inhalt
+und die Benutzerfreundlichkeit der Seiten zu verbessern. Zu diesem Zweck
+können auch Cookies eingesetzt werden. Der Datenerhebung auf dieser Website
+kann jederzeit mit Wirkung für die Zukunft widersprochen werden. Ihr
+Widerspruch wird als Cookie ohne Personenbezug gespeichert.
+
+  
+  
+11\. Soziale Netze und Social Plug-Ins  
+Sie finden Main-Post Dienste auch in sozialen Online-Netzwerken, die andere
+Unternehmen im Internet anbieten (Facebook, Google, Twitter, Pinterest,
+zusammen „Netzwerk-Anbieter"). Diese Main-Post Dienste können Sie nur nutzen,
+wenn Sie auch bei dem jeweiligen sozialen Netzwerk registriert und angemeldet
+sind. Beachten Sie deshalb, dass für die Nutzung des sozialen Netzwerks die
+Nutzungs- und Datenschutzbedingungen des jeweiligen Netzwerk-Anbieters gelten.  
+Unsere Webseiten verwenden Social Plug-Ins ("Plug-Ins") folgender sozialer
+Netzwerke:  
+
+
+  * Facebook Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland. Erkennbar an dem Facebook-Logo (weißes oder blaues „f" auf einer blauen oder weißen Kachel);
+  * Google+, das von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA betrieben wird. Erkennbar an dem Google+-Logo (ein rotes "g" mit einem nachstehenden "+1");
+  * Twitter, ein Microblogging-Dienst des amerikanischen Unternehmens Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Erkennbar an dem Twitter-Logo (einem blauen Vogel);
+  * Pinterest, das von Pinterest, Inc., 635 High Street, Palo Alto, CA 94301, USA betrieben wird. Erkennbar an dem Pinterest-Logo (roter Kreis mit weißem „P").
+
+Wir haben keinen Einfluss auf den Umfang der Daten, die der Netzwerk-Anbieter
+mit Hilfe des Plug-Ins erhebt und informieren Sie daher entsprechend unserem
+Kenntnisstand: Durch die Einbindung der Plug-Ins erhält der jeweilige
+Netzwerk-Anbieter die Information, dass Sie die entsprechende Seite unseres
+Internetauftritts aufgerufen haben. Sind Sie bei dem jeweiligen Netzwerk-
+Anbieter eingeloggt, kann dieser den Besuch Ihrem Konto zuordnen. Wenn Sie mit
+den Plug-Ins interagieren, zum Beispiel den Empfehlen-Button betätigen, wird
+die entsprechende Information von Ihrem Browser direkt an den jeweiligen
+Netzwerk-Anbieter übermittelt und dort gespeichert. Falls Sie kein Mitglied
+eines Netzwerk-Anbieters sind, ist davon auszugehen, dass der jeweilige
+Netzwerk-Anbieter Ihre IP-Adresse in Erfahrung bringt und speichert.  
+Wenn Sie Mitglied eines Netzwerk-Anbieters sind und nicht möchten, dass dieser
+über unseren Internetauftritt Daten über Sie sammelt und mit Ihren bei dem
+jeweiligen Netzwerk-Anbieter gespeicherten Mitgliedsdaten verknüpft, müssen
+Sie sich vor dem Klick auf die Schaltfläche des sozialen Netzwerks bei dem
+jeweiligen Netzwerk-Anbieter ausloggen.  
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch den jeweiligen Netzwerk-Anbieter sowie Ihre diesbezüglichen
+Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen
+Sie bitte den nachstehenden Datenschutzhinweisen:  
+
+
+  * Facebook: http://www.facebook.com/full_data_use_policy;
+  * Google+: http://www.google.com/intl/de/policies/privacy/;
+  * Twitter: http://twitter.com/privacy sowie
+  * Pinterest: http://about.pinterest.com/en/privacy-policy.
+
+  
+12\. Datensicherheit  
+Wir bemühen uns, unsere Systeme vor Angriffen und Missbrauch zu schützen.
+Außerdem ergreifen wir technische und organisatorische Maßnahmen, um Ihre
+personenbezogenen Daten vor Verlust, unrichtigen Veränderungen oder den
+unberechtigten Zugriffen durch Dritte zu schützen.  
+Die von uns verwendeten Logfiles, in denen wir die unter Punkt 1. b)
+aufgezählten Nutzungsdaten speichern, dienen dazu, etwaige Störungen besser
+analysieren und beheben zu können. Außerdem nutzen wir die Logfiles zu
+statistischen Zwecken, um die Main-Post Dienste kontinuierlich zu verbessern.
+Die Logfiles werden von uns nach 7 Tagen gelöscht.  
+Nur berechtigte Personen haben Zugang zu Ihren personenbezogenen Daten. Der
+Zugriff ist beschränkt auf die in dieser Datenschutzerklärung genannten
+Zwecke.  
+Die Übertragung bestimmter sensibler Daten erfolgt verschlüsselt. Wir
+verwenden hierfür - soweit aufgrund Ihres Browsers möglich - die sogenannte
+"Secure Socket Layer" (SSL)-Übertragung. Dies gilt zum Beispiel für die
+Registrierung und Anmeldung bei Main-Post Diensten sowie im Fall von Einkäufen
+in unserem Online-Shop. Bei dieser Methode werden die übertragenen
+Informationen verschlüsselt, bevor sie an uns übertragen werden. Durch die
+Verschlüsselung können die Daten bei der Übertragung im Internet nicht von
+Unbefugten gelesen werden.  
+  
+13\. Links zu anderen Websites  
+Unsere Webseiten enthalten teilweise Verknüpfungen zu Internetseiten mit uns
+nicht verbundener Dritter (sog. Links). Klicken Sie auf einen solchen Link,
+haben wir keinen Einfluss mehr darauf, welche Daten durch diese Anbieter
+erhoben und verwendet werden. Hierfür übernehmen wir keine Verantwortung.  
+Für Informationen zur Datenerhebung und -verwendung nutzen Sie bitte die
+Datenschutzerklärung des jeweiligen Anbieters.  
+  
+14\. Kontakt bei Fragen zum Datenschutz  
+Bei Fragen zum Thema Datenschutz bei der Main-Post schreiben Sie bitte an
+datenschutz@mainpost.de  
+  
+  
+  
+  
+  
+  
+Stand: Januar 2015.  
+
+
+### Kontakt
+
+  * Telefon
+  * E-Mail
+  * Facebook
+  * Google+
+  * Twitter
+  * Anfahrtsskizze
+
+### Weitere Portale
+
+  * main-ding.de
+  * mediengruppe-mainpost.de
+  * fraenkischer-weinfestkalender.de
+  * shop.mainpost.de
+  * mainfrankencard.de
+  * mein-lieblingsladen.de
+
+### Mediengruppe
+
+  * Impressum | AGB | Datenschutz
+  * FAQ | Leser Service
+  * Widerrufsbelehrung
+  * Mediadaten
+  * Nutzungsbasierte Online-Werbung
+  *   * Karriere
+
+### Mobil
+
+  * Mobile Webseite
+  * News App: Android | iOS
+  * ePaper App: Android | iOS
+

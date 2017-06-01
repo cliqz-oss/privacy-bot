@@ -1,0 +1,332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="shortcut icon" href="images/content/favicon.ico"/>
+<meta http-equiv="Content-Script-Type" content="text/javascript"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="robots" content="noindex, nofollow"/>
+<meta name="keywords" content=""/>
+<meta name="title" content=""/>
+<meta name="description" content=""/>
+<title>GommeHDs Impressum</title>
+<link rel="shortcut icon" href="https://www.gommehd.net/favicon.ico"/>
+ 
+ 
+ 
+<link href="styles/style.css" rel="stylesheet" type="text/css"/>
+<link href="styles/prettyPhoto.css" rel="stylesheet" type="text/css" media="screen" title="prettyPhoto main stylesheet"/>
+ 
+ 
+ 
+<script type="text/javascript" src="js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/Maven_Pro_400.font.js"></script>
+<script type="text/javascript" src="js/Quicksand_Book_400.font.js"></script>
+<script type="text/javascript" src="js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="js/fade.js"></script>
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/contact.js"></script>
+<script type="text/javascript">
+	Cufon.replace('#menu li', {fontFamily: 'Maven Pro', hover:true});
+	Cufon.replace('h1, h2, h3, h4, h5, h6',  {fontFamily: 'Maven Pro', hover:true});
+	Cufon.replace('.pagetitle', {fontFamily: 'Quicksand Book', hover:true});
+	Cufon.replace('.headingsmall, .customquote, .boldtext', {fontFamily: 'Maven Pro'});
+</script>
+<script type="text/javascript">
+var $jts = jQuery.noConflict();
+  $jts(function() {
+
+
+  // background cycle
+    $jts('#bg-wrapper').cycle({
+        fx:     'fade', // You can choose effect do you like, for reference : http://www.malsup.com/jquery/cycle/browser.html
+        timeout: 6000,
+		cleartype: true,  // true if clearType corrections should be applied (for IE)
+        cleartypeNoBg: true,
+		pause:   0,	  // true to enable "pause on hover"
+		pauseOnPagerHover: 0 // true to pause when hovering over pager link
+    });
+
+
+    // maincontent cycle
+	$jts('#maincontent').cycle({
+        fx:     'blindY', // You can choose effect do you like, for reference : http://www.malsup.com/jquery/cycle/browser.html
+        speed:  'slow',
+        timeout: 0,
+		cleartype: true,  // true if clearType corrections should be applied (for IE)
+        cleartypeNoBg: true,
+        pager:  '#menu',
+		startingSlide : 0,
+		after:onAfter,
+		pagerAnchorBuilder: function(idx, slide) {
+            // return sel string for existing anchor
+            return '#menu li:eq(' + (idx) + ') a';
+        }
+    });
+
+	function onAfter(curr, next, opts, fwd){
+	    //get the height of the current slide
+	    var $ht =  $jts(this).height();
+
+		Cufon.refresh();
+
+	    //set the container's height to that of the current slide
+	    $jts(this).parent().animate({height: $ht});
+	}
+
+	Cufon.refresh();
+
+	 //portfolio gallery
+	$jts("a[rel^='prettyPhoto']").prettyPhoto({animationSpeed:'slow',theme:'facebook',slideshow:2000});
+});
+
+
+
+</script>
+<style type="text/css">#bg-wrapper .bg1{background:#fff url(images/bg1.png);}#bg-wrapper .bg2{background:#fff url(images/bg2.png);}#bg-wrapper .bg3{background:#fff url(images/bg3.png);}</style>
+</head>
+<body>
+<div id="bg-wrapper">
+<div class="bg1"></div>
+<div class="bg2"></div>
+<div class="bg3"></div>
+</div>
+<div id="wrapper">
+<div id="container">
+<div id="top">
+<div id="logo"><a href="index.html"><img src="images/logo.png" alt=""/></a></div> 
+</div> 
+<div id="content">
+<div id="side">
+<div id="mainmenu">
+<ul id="menu">
+<li><a href="#">Anbieter</a></li>
+<li><a href="#">Geltungsbereich</a></li>
+<li><a href="#">Haftungsausschluss</a></li>
+<li><a href="#">Datenschutz I</a></li>
+<li><a href="#">Datenschutz II</a></li>
+<li><a href="#">Auskunft &amp; Quellen</a></li>
+</ul>
+</div>
+</div> 
+<div id="main">
+<div id="maincontent">
+ 
+<div class="page" id="page1">
+<span id="xx"></span>
+<h1 class="pagetitle">Anbieter</h1>
+<p>Diese Seite gibt Auskunft Ã¼ber Betreiber und Datenschutz zu den im Bereich &quot;Geltungsbereich&quot; genannten Webangeboten.</p>
+<p><strong>Angaben gemÃ¤Ã Â§ 5 TMG:</strong></p>
+<p> GommeHDnet GmbH <br/>
+Domstr. 10
+<br/>
+20095 Hamburg <br/>Deutschland</p>
+<p>Vertreten durch:
+<br/>
+Christoph Renk </p>
+<p><strong>Registereintrag</strong>: <br/>
+Eintragung im Handelsregister. <br/>
+Registergericht: Hamburg
+<br/>
+Registernummer: HRB 141996 </p>
+<p><strong>Kontakt</strong>: <br/>
+E-Mail (Support & Allgemeines): <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="f39a9d959cb3949c9e9e969b97dd9d9687">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script><br/>
+Telefon: +4938863583598 <br/>
+</p>
+<p><strong>Umsatzsteuer-ID</strong>: <br/>
+Umsatzsteuer-Identifikationsnummer gemÃ¤Ã Â§27 a Umsatzsteuergesetz: DE289549395 </p>
+<p><strong>Verantwortlich fÃ¼r den Inhalt nach Â§ 55 Abs. 2 RStV: <br/></strong>
+Christoph Renk<br/><br/>
+</p>
+<div class="clear"></div> 
+<div class="clear"></div> 
+ 
+<br/>
+</div> 
+ 
+<div id="page2" class="page">
+<h1 class="pagetitle">Geltungsbereich</h1>
+<p class="boldtext">Dieses Impressum und diese DatenschutzerklÃ¤rung gelten fÃ¼r folgende Webangebote und SocialMedia-Profile: </p>
+<ul class="list-row">
+<li>
+<div class="one_third">
+<img src="images/content/pic1.jpg" alt="" class="imgframe"/>
+</div>
+<div class="">
+<strong>GommeHD.de</strong><br/>
+<span class="txt1">Die Gommunity - Gommes offizielle Webseite</span><br/>
+</div>
+<div class="clear"></div>
+</li>
+<li>
+<div class="one_third">
+<img src="images/content/pic2.jpg" alt="" class="imgframe"/>
+</div>
+<div class="">
+<strong>GommeHD.net</strong><br/>
+<span class="txt1">Die Webseite zum beliebten Minecraft-Server</span> und verschiedene Subdomains wie z.B. web.gommehd.net oder buy.gommehd.net<br/><br/>
+</div>
+<div class="clear"></div>
+</li>
+<li>
+<div class="one_third">
+<img src="images/content/pic3.jpg" alt="" class="imgframe"/>
+</div>
+<div class="">
+<strong>GommeHD und GommeHD.net auf Facebook</strong><br/>
+<span class="txt1">Social Media Profile</span><br/><br/>
+<span>https://www.facebook.com/GommeHD.Server<br/>
+https://www.facebook.com/GommeHD. </span>
+</div>
+<div class="clear"></div>
+</li>
+</ul>
+</div> 
+ 
+<div class="page" id="page3">
+<h1 class="pagetitle">Haftungsausschluss</h1>
+<ul class="list-row">
+<li><div class="title-icon"><img src="images/icons/icon0.png" alt="" class="alignleft"/>
+<h4>Haftung fÃ¼r Inhalte</h4></div>
+Die Inhalte unserer Seiten wurden mit grÃ¶Ãter Sorgfalt erstellt. FÃ¼r die Richtigkeit, VollstÃ¤ndigkeit und AktualitÃ¤t der Inhalte kÃ¶nnen wir jedoch keine GewÃ¤hr Ã¼bernehmen. Als Diensteanbieter sind wir gemÃ¤Ã Â§ 7 Abs.1 TMG fÃ¼r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach Â§Â§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, Ã¼bermittelte oder gespeicherte fremde Informationen zu Ã¼berwachen oder nach UmstÃ¤nden zu forschen, die auf eine rechtswidrige TÃ¤tigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberÃ¼hrt. Eine diesbezÃ¼gliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung mÃ¶glich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</li>
+<li><div class="title-icon"><img src="images/icons/icon0.png" alt="" class="alignleft"/>
+<h4>Haftung fÃ¼r Links</h4></div>
+Unser Angebot enthÃ¤lt Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb kÃ¶nnen wir fÃ¼r diese fremden Inhalte auch keine GewÃ¤hr Ã¼bernehmen. FÃ¼r die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mÃ¶gliche RechtsverstÃ¶Ãe Ã¼berprÃ¼ft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.</li>
+<li><div class="title-icon"><img src="images/icons/icon0.png" alt="" class="alignleft"/>
+<h4>Urheberrecht</h4></div>
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die VervielfÃ¤ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung auÃerhalb der Grenzen des Urheberrechtes bedÃ¼rfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur fÃ¼r den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</li>
+</ul>
+<div class="clear"></div> 
+</div> 
+ 
+<div class="page" id="page4">
+<h1 class="pagetitle">DatenschutzerklÃ¤rung</h1> 
+<div class="pagenavi">
+<h1 class="pagetitle"></h1>
+<ul class="list-row">
+<li>Diese DatenschutzerklÃ¤rung klÃ¤rt Nutzer Ã¼ber die Art, den Umfang und Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter [GommeHDnet GmbH, Domstr. 10, 20095 Hamburg, <a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="6f060109002f080002020a070b41010a1b">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script>] auf den im Geltungsbereich definierten Webangeboten auf.<br/>
+<br/>
+Die rechtlichen Grundlagen des Datenschutzes finden sich im Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).<br/>
+</li>
+<li>
+<div class="title-icon"><img src="images/icons/icon4.png" alt="" class="alignleft"/>
+<h4>Zugriffsdaten/ Server-Logfiles</h4>
+</div>
+<p>Der Anbieter erhebt Daten Ã¼ber jeden Zugriff auf das Angebot (so genannte Serverlogfiles). Zu den Zugriffsdaten gehÃ¶ren:<br/>
+<br/>
+Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, Ã¼bertragene Datenmenge, Meldung Ã¼ber erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.<br/>
+<br/>
+Der Anbieter verwendet die Protokolldaten nur fÃ¼r statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der Optimierung des Angebotes. Der AnbieterbehÃ¤lt sich jedoch vor, die Protokolldaten nachtrÃ¤glich zu Ã¼berprÃ¼fen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht einer rechtswidrigen Nutzung besteht.</p>
+</li>
+<li>
+<div class="title-icon"><img src="images/icons/icon3.png" alt="" class="alignleft"/>
+<h4>Umgang mit personenbezogenen Daten</h4>
+</div>
+<p>Personenbezogene Daten sind Informationen, mit deren Hilfe eine Person bestimmbar ist, also Angaben, die zurÃ¼ck zu einer Person verfolgt werden kÃ¶nnen. Dazu gehÃ¶ren der Name, die Emailadresse oder die Telefonnummer. Aber auch Daten Ã¼ber Vorlieben, Hobbies, Mitgliedschaften oder welche Webseiten von jemandem angesehen wurden zÃ¤hlen zu personenbezogenen Daten.<br/>
+<br/>
+Personenbezogene Daten werden von dem Anbieter nur dann erhoben, genutzt und weiter gegeben, wenn dies gesetzlich erlaubt ist oder die Nutzer in die Datenerhebung einwilligen.</p>
+<p>Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie fÃ¼r den Fall, dass Anschlussfragen entstehen, gespeichert.</p>
+<p>Wenn Nutzer Kommentare im Forum oder sonstige BeitrÃ¤ge hinterlassen, werden ihre IP-Adressen gespeichert. Das erfolgt zur Sicherheit des Anbieters, falls jemand in Kommentaren und BeitrÃ¤gen widerrechtliche Inhalte schreibt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem Fall kann der Anbieter selbst fÃ¼r den Kommentar oder Beitrag belangt werden und ist daher an der IdentitÃ¤t des Verfassers interessiert.</p>
+<p>Die Nachfolgekommentare kÃ¶nnen durch Nutzer abonniert werden. Die Nutzer erhalten eine BestÃ¤tigungsemail, um zu Ã¼berprÃ¼fen, ob sie der Inhaber der eingegebenen Emailadresse sind. Nutzer kÃ¶nnen laufende Kommentarabonnements jederzeit abbestellen. Die BestÃ¤tigungsemail wird Hinweise dazu enthalten.</p>
+<p>Die im Rahmen der Registrierung eingegebenen Daten werden fÃ¼r die Zwecke der Nutzung des Angebotes verwendet. Die Nutzer kÃ¶nnen Ã¼ber angebots- oder registrierungsrelevante Informationen, wie Ãnderungen des Angebotsumfangs oder technische UmstÃ¤nde per E-Mail informiert werden. Die erhobenen Daten sind aus der Eingabemaske im Rahmen der Registrierung ersichtlich. Dazu gehÃ¶ren Benutzername, eMailadresse, Minecraft-Name, ggf. vollstÃ¤ndiger Name und Adresse zum Zwecke der Accountverwaltung in unseren Communites.</p>
+</li>
+<li>
+<div class="title-icon"><img src="images/icons/icon4.png" alt="" class="alignleft"/>
+<h4>Cookies</h4>
+</div>
+Cookies sind kleine Dateien, die es ermÃ¶glichen, auf dem ZugriffsgerÃ¤t der Nutzer (PC, Smartphone o.Ã¤.) spezifische, auf das GerÃ¤t bezogene Informationen zu speichern. Sie dienen zum einem der Benutzerfreundlichkeit von Webseiten und damit den Nutzern (z.B. Speicherung von Logindaten). Zum anderen dienen sie, um die statistische Daten der Webseitennutzung zu erfassen und sie zwecks Verbesserung des Angebotes analysieren zu kÃ¶nnen. Die Nutzer kÃ¶nnen auf den Einsatz der Cookies Einfluss nehmen. Die meisten Browser verfÃ¼gen eine Option mit der das Speichern von Cookies eingeschrÃ¤nkt oder komplett verhindert wird. Allerdings wird darauf hingewiesen, dass die Nutzung und insbesondere der Nutzungskomfort ohne Cookies eingeschrÃ¤nkt werden.<br/>
+<br/>
+Sie kÃ¶nnen viele Online-Anzeigen-Cookies von Unternehmen Ã¼ber die US-amerikanische Seite <a href="http://www.aboutads.info/choices/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.aboutads.info/choices/']);">http://www.aboutads.info/choices/</a> oder die EU-Seite <a href="http://www.youronlinechoices.com/uk/your-ad-choices/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.youronlinechoices.com/uk/your-ad-choices/']);">http://www.youronlinechoices.com/uk/your-ad-choices/ </a> verwalten.</li>
+</ul>
+<div class="clear"></div>
+</div> 
+<div class="clear"></div> 
+</div> 
+ 
+<div class="page" id="page5">
+<h1 class="pagetitle">Tracking und Externe Inhalte</h1>
+<ul class="list-row">
+<li>
+<div class="title-icon"><img src="images/icons/icon1.png" alt="" class="alignleft"/>
+<h4>Google Analytics</h4>
+</div>
+Unsere Angebote benutzen Google Analytics, einen Webanalysedienst der Google Inc. (&bdquo;Google&ldquo;). Google Analytics verwendet sog. &bdquo;Cookies&ldquo;, Textdateien, die auf Computer der Nutzer gespeichert werden und die eine Analyse der Benutzung der Website durch sie ermÃ¶glichen. Die durch den Cookie erzeugten Informationen Ã¼ber Benutzung dieser Website durch die Nutzer werden in der Regel an einen Server von Google in den USA Ã¼bertragen und dort gespeichert.<br/>
+<br/>
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird die IP-Adresse der Nutzer von Google jedoch innerhalb von Mitgliedstaaten der EuropÃ¤ischen Union oder in anderen Vertragsstaaten des Abkommens Ã¼ber den EuropÃ¤ischen Wirtschaftsraum zuvor gekÃ¼rzt. Nur in AusnahmefÃ¤llen wird die volle IP-Adresse an einen Server von Google in den USA Ã¼bertragen und dort gekÃ¼rzt. Die IP-Anonymisierung ist auf dieser Website aktiv. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um die Nutzung der Website durch die Nutzer auszuwerten, um Reports Ã¼ber die WebsiteaktivitÃ¤ten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenÃ¼ber dem Websitebetreiber zu erbringen.<br/>
+<br/>
+Die im Rahmen von Google Analytics von Ihrem Browser Ã¼bermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengefÃ¼hrt. Die Nutzer kÃ¶nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; Dieses Angebot weist die Nutzer jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sÃ¤mtliche Funktionen dieser Website vollumfÃ¤nglich werden nutzen kÃ¶nnen. Die Nutzer kÃ¶nnen darÃ¼ber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfÃ¼gbare Browser-Plugin herunterladen und installieren: <a href="http://tools.google.com/dlpage/gaoptout?hl=de" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://tools.google.com/dlpage/gaoptout?hl=de']);">http://tools.google.com/dlpage/gaoptout?hl=de</a>.<br/>
+<br/>
+Alternativ zum Browser-Add-On oder innerhalb von Browsern auf mobilen GerÃ¤ten, um die Erfassung durch Google Analytics innerhalb dieser Website zukÃ¼nftig zu verhindern. Dabei wird ein Opt-Out-Cookie auf Ihrem GerÃ¤t abgelegt. LÃ¶schen Sie Ihre Cookies, mÃ¼ssen Sie diesen Link erneut klicken. </li>
+<li>
+<div class="title-icon"><img src="images/icons/icon2.png" alt="" class="alignleft"/>
+<h4>Twitter</h4>
+</div>
+Dieses Angebot nutzt die <a href="https://twitter.com/about/resources/buttons" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com/about/resources/buttons']);">SchaltflÃ¤chen des Dienstes Twitter</a>. Diese SchaltflÃ¤chen werden angeboten durch die Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. Sie sind an Begriffen wie &quot;Twitter&quot; oder &quot;Folge&quot;, verbunden mit einem stillisierten blauen Vogel erkennbar. Mit Hilfe der SchaltflÃ¤chen ist es mÃ¶glich einen Beitrag oder Seite dieses Angebotes bei Twitter zu teilen oder dem Anbieter bei Twitter zu folgen.<br/>
+<br/>
+Wenn ein Nutzer eine Webseite dieses Internetauftritts aufruft, die einen solchen Button enthÃ¤lt, baut sein Browser eine direkte Verbindung mit den Servern von Twitter auf. Der Inhalt des Twitter-SchaltflÃ¤chen wird von Twitter direkt an den Browser des Nutzers Ã¼bermittelt. Der Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die Twitter mit Hilfe dieses Plugins erhebt und informiert die Nutzer entsprechend seinem Kenntnisstand. Nach diesem wird lediglich die IP-Adresse des Nutzers die URL der jeweiligen Webseite beim Bezug des Buttons mit Ã¼bermittelt, aber nicht fÃ¼r andere Zwecke, als die Darstellung des Buttons, genutzt.<br/>
+Weitere Informationen hierzu finden sich in der DatenschutzerklÃ¤rung von Twitter unter http://twitter.com/privacy.</li>
+<li>
+<div class="title-icon"><img src="images/icons/icon3.png" alt="" class="alignleft"/>
+<h4>+1 und AdSense</h4>
+</div>
+<p>Unsere Angebote verwenden die &ldquo;+1â³-SchaltflÃ¤che des sozialen Netzwerkes Google Plus, welches von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States betrieben wird (&ldquo;Google&rdquo;). Der Button ist an dem Zeichen &ldquo;+1â³ auf weiÃem oder farbigen Hintergrund erkennbar.<br/>
+<br/>
+Wenn ein Nutzer eine Webseite dieses Angebotes aufruft, die eine solche SchaltflÃ¤che enthÃ¤lt, baut der Browser eine direkte Verbindung mit den Servern von Google auf. Der Inhalt der &ldquo;+1â³-SchaltflÃ¤che wird von Google direkt an seinen Browser Ã¼bermittelt und von diesem in die Webseite eingebunden. der Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die Google mit der SchaltflÃ¤che erhebt. Laut Google werden ohne einen Klick auf die SchaltflÃ¤che keine personenbezogenen Daten erhoben. Nur bei eingeloggten Mitgliedern, werden solche Daten, unter anderem die IP-Adresse, erhoben und verarbeitet.<br/>
+<br/>
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Google sowie Ihre diesbezÃ¼glichen Rechte und EinstellungsmÃ¶glichkeiten zum Schutz Ihrer PrivatsphÃ¤re kÃ¶nnen die Nutzer Googles Datenschutzhinweisen zu der &ldquo;+1â³-SchaltflÃ¤che entnehmen: http://www.google.com/intl/de/+/policy/+1button.html und der FAQ: http://www.google.com/intl/de/+1/button/.</p>
+<p>Unsere Angebote benutzen Google AdSense, einen Dienst zum Einbinden von Werbeanzeigen der Google Inc. (&quot;Google&quot;). Google AdSense verwendet sog. &quot;Cookies&quot;, Textdateien, die auf dem Computer der Nutzer gespeichert werden und die eine Analyse der Benutzung der Website ermÃ¶glicht. Google AdSense verwendet auch so genannte Web Beacons (unsichtbare Grafiken). Durch diese Web Beacons kÃ¶nnen Informationen wie der Besucherverkehr auf den Seiten dieses Angebots ausgewertet werden.<br/>
+<br/>
+Die durch Cookies und Web Beacons erzeugten Informationen Ã¼ber die Benutzung dieser Website (einschlieÃlich der IP-Adresse der Nutzer) und Auslieferung von Werbeformaten werden an einen Server von Google in den USA Ã¼bertragen und dort gespeichert. Diese Informationen kÃ¶nnen von Google an Vertragspartner von Google weiter gegeben werden. Google wird Ihre IP-Adresse jedoch nicht mit anderen von Ihnen gespeicherten Daten zusammenfÃ¼hren.<br/>
+<br/>
+Die Nutzer kÃ¶nnen die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; der Anbieter weist die Nutzer jedoch darauf hin, dass sie in diesem Fall gegebenenfalls nicht sÃ¤mtliche Funktionen dieses Angebotes voll umfÃ¤nglich nutzen kÃ¶nnen. Durch die Nutzung dieser Website erklÃ¤ren die Nutzer sich mit der Bearbeitung der Ã¼ber sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.</p>
+</li>
+<li>
+<div class="title-icon"><img src="images/icons/icon4.png" alt="" class="alignleft"/>
+<h4>Facebook</h4>
+</div>
+<p>Dieses Angebot verwendet Social Plugins (&quot;Plugins&quot;) des sozialen Netzwerkes facebook.com, welches von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA betrieben wird (&quot;Facebook&quot;). Die Plugins sind an einem der Facebook Logos erkennbar (weiÃes &bdquo;f&ldquo; auf blauer Kachel oder ein &bdquo;Daumen hoch&ldquo;-Zeichen) oder sind mit dem Zusatz &quot;Facebook Social Plugin&quot; gekennzeichnet. Die Liste und das Aussehen der Facebook Social Plugins kann hier eingesehen werden: <a href="https://developers.facebook.com/docs/plugins/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://developers.facebook.com/docs/plugins/']);">https://developers.facebook.com/docs/plugins/</a>.<br/>
+<br/>
+Wenn ein Nutzer eine Webseite dieses Angebots aufruft, die ein solches Plugin enthÃ¤lt, baut sein Browser eine direkte Verbindung mit den Servern von Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an Ihren Browser Ã¼bermittelt und von diesem in die Webseite eingebunden. Der Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die Facebook mit Hilfe dieses Plugins erhebt und informiert die Nutzer daher entsprechend seinem <a href="http://www.facebook.com/help/?faq=17512" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com/help/?faq=17512']);">Kenntnisstand</a>:<br/>
+<br/>
+Durch die Einbindung der Plugins erhÃ¤lt Facebook die Information, dass ein Nutzer die entsprechende Seite des Angebots aufgerufen hat. Ist der Nutzer bei Facebook eingeloggt, kann Facebook den Besuch seinem Facebook-Konto zuordnen. Wenn Nutzer mit den Plugins interagieren, zum Beispiel den Like Button betÃ¤tigen oder einen Kommentar abgeben, wird die entsprechende Information von Ihrem Browser direkt an Facebook Ã¼bermittelt und dort gespeichert. Falls ein Nutzer kein Mitglied von Facebook ist, besteht trotzdem die MÃ¶glichkeit, dass Facebook seine IP-Adresse in Erfahrung bringt und speichert. Laut Facebook wird in Deutschland nur eine anonymisierte IP-Adresse gespeichert.<br/>
+<br/>
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Facebook sowie die diesbezÃ¼glichen Rechte und EinstellungsmÃ¶glichkeiten zum Schutz der PrivatsphÃ¤re der Nutzer , kÃ¶nnen diese den Datenschutzhinweisen von Facebook entnehmen: <a href="https://www.facebook.com/about/privacy/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com/about/privacy/']);">https://www.facebook.com/about/privacy/</a>.<br/>
+<br/>
+Wenn ein Nutzer Facebookmitglied ist und nicht mÃ¶chte, dass Facebook Ã¼ber dieses Angebot Daten Ã¼ber ihn sammelt und mit seinen bei Facebook gespeicherten Mitgliedsdaten verknÃ¼pft, muss er sich vor dem Besuch des Internetauftritts bei Facebook ausloggen.<br/>
+<br/>
+Ebenfalls ist es mÃ¶glich Facebook-Social-Plugins mit Add-ons fÃ¼r Ihren Browser zu blocken, zum Beispiel mit dem &quot;<a href="http://webgraph.com/resources/facebookblocker/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://webgraph.com/resources/facebookblocker/']);">Facebook Blocker</a>&quot;.</p>
+</li>
+</ul>
+<div class="clear"></div>
+<p>&nbsp;</p> 
+<div class="clear"></div>
+</div> 
+ 
+<div class="page" id="page6">
+<h1 class="pagetitle">Auskunft &amp; Quellen</h1>
+<ul class="list-row">
+<li>
+<div class="title-icon"><img src="images/icons/icon1.png" alt="" class="alignleft"/>
+<h4>Widerruf, Ãnderungen, Berichtigungen und Aktualisierungen</h4>
+</div>
+Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten Ã¼ber die personenbezogenen Daten, die Ã¼ber ihn gespeichert wurden. ZusÃ¤tzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und LÃ¶schung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.</li>
+<li>
+<div class="title-icon"><img src="images/icons/icon2.png" alt="" class="alignleft"/>
+<h4>Quelle der Datenschutzbestimmungen</h4>
+</div>
+<a href="http://rechtsanwalt-schwenke.de/smmr-buch/datenschutz-muster-generator-fuer-webseiten-blogs-und-social-media/"><strong>Datenschutz-Muster von Rechtsanwalt Thomas Schwenke - I LAW it</strong></a></li>
+</ul>
+<div class="clear"></div>
+<p>&nbsp;</p> 
+</div> 
+</div> 
+</div> 
+</div> 
+<div id="footer">
+<div id="copyright">Content &copy;2016 GommeHDnet GmbH</div>
+</div> 
+</div> 
+</div>
+ 
+<script type="text/javascript"> Cufon.now(); Cufon.refresh(); </script>  
+</body>
+</html>

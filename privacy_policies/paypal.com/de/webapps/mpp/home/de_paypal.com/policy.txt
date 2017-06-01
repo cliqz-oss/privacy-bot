@@ -1,0 +1,882 @@
+PayPal
+
+# PayPal-Datenschutzgrundsätze
+
+&gt;&gt; AGB anzeigen
+
+# PayPal-Datenschutzgrundsätze
+
+Letzte Aktualisierung: 27. April 2017
+
+Drucken PDF herunterladen
+
+
+
+Zu folgendem Abschnitt springen:
+
+1\. Übersicht  
+2\. Von uns gesammelte Informationen  
+3\. Verwendung der erfassten personenbezogenen Daten  
+4\. Marketing  
+5\. Offenlegung personlicher Angaben gegenuber anderen PayPal-Nutzern  
+6\. Offenlegung personenbezogener Daten gegenuber anderen Dritten  
+7\. Grenzuberschreitende Übertragung personenbezogener Daten  
+8\. Ihre Nutzung von Informationen und PayPal-Services  
+9\. Informationssicherheit  
+10\. Aufrufen und Ändern Ihrer personlichen Daten  
+11\. Verantwortlichkeit  
+Anhang: WICHTIGE DATENSCHUTZRECHTLICHE INFORMATION FÜR KUNDEN MIT DEUTSCHEN
+PAYPAL-PRIVATKONTEN
+
+
+
+Bitte lesen Sie diese Datenschutzgrundsatze, laden Sie sie herunter und
+speichern Sie sie.
+
+Die Nutzung von Produkten, Diensten, Inhalten, Funktionen, Technologien oder
+Funktionalitaten, die von PayPal angeboten werden, und allen zugehorigen
+Seiten, Anwendungen und Diensten (gemeinsam als "PayPal-Services" bezeichnet)
+(darunter auch die Angabe von Daten in Bezug auf die Nutzung der PayPal-
+Services) unterliegen diesen Datenschutzgrundsatzen.
+
+Sie stimmen diesen Datenschutzgrundsatzen zu, wenn Sie sich neu anmelden oder
+die PayPal-Services verwenden. Indem Sie den Datenschutzgrundsatzen zustimmen,
+akzeptieren Sie die Verwendung und Offenlegung Ihrer personlichen Angaben in
+der hier beschriebenen Art und Weise.
+
+
+
+1\. Übersicht
+
+Um PayPal-Services anbieten und das Betrugsrisiko minimieren zu konnen,
+benotigt PayPal (Europe) S.a r.l. et Cie, S.C.A. (nachfolgend auch "PayPal",
+"unser", "uns" oder "wir") einige personliche Informationen, einschließlich
+Ihrer Kreditkartendaten und/oder Bankverbindungsdaten. Durch Ihr
+Einverstandnis mit den Datenschutzgrundsatzen stimmen Sie der Offenlegung und
+Verwendung Ihrer personlichen Angaben in der hier beschriebenen Art und Weise
+ausdrucklich zu. In diesen Datenschutzgrundsatzen wird beschrieben, wie wir
+diese Informationen erfassen und verwenden. Der Schutz Ihrer personenbezogenen
+Daten hat dabei fur PayPal oberste Prioritat, weshalb wir Ihre Daten nur unter
+strikter Einhaltung der Datenschutzgrundsatze verwenden. Fur die Zwecke der
+vorliegenden Datenschutzgrundsatze werden mit dem Begriff "Informationen"
+jegliche vertrauliche Informationen und solche Informationen, welche
+Ruckschlusse auf die Person zulassen oder sonstige Informationen in Bezug auf
+die Nutzer der PayPal-Services wie Kunden und Handler (juristische Personen)
+bezeichnet.
+
+Wir werden Ihre Daten nicht ohne Ihre ausdruckliche Zustimmung an Dritte fur
+deren Marketingzwecke verkaufen oder vermieten. Lediglich um unseren Kunden
+die PayPal-Services anbieten zu konnen, die Qualitat der PayPal-Services von
+Zeit zu Zeit zu verbessern und die Interessen unserer Kunden zu schutzen,
+werden wir unter bestimmten Umstanden gewisse Daten an Dritte weitergeben; die
+Weitergabe erfolgt jedoch unter Einhaltung strenger Beschrankungen, die in den
+Ziffern 3, 5 und 6 dieser Datenschutzgrundsatze genauer beschrieben sind.
+Bitte lesen Sie diese Datenschutzgrundsatze sorgfaltig; sie gelten fur alle
+PayPal-Services.
+
+Die Nutzung der PayPal-Services durch unsere Kunden (darunter alle, die die
+PayPal-Services im Rahmen ihrer Geschafts- oder Handelstatigkeit nutzen)
+unterliegt diesen Datenschutzgrundsatzen, sofern vertraglich nichts anderes
+vereinbart ist.
+
+Änderungen dieser Datenschutzgrundsatze: Jegliche zukunftige Änderungen dieser
+Datenschutzgrundsatze, die schon in dem Dokument "Aktualisierte PayPal-
+Richtlinien" auf der PayPal-Website unter dem Link "AGB" veroffentlicht sind,
+wenn Sie sich fur die PayPal-Dienste anmelden, gelten als Teil dieser
+Datenschutzgrundsatze und treten fur Sie zu dem Datum in Kraft, das in den
+aktualisierten Richtlinien genannt ist. Unter "Aktualisierte PayPal-
+Richtlinien" kundigt PayPal Änderungen der zwischen Ihnen und PayPal
+bestehenden Vereinbarungen im Voraus an und stellt Ihnen diese schriftlich zur
+Verfugung. Bitte verzichten Sie auf Registrierung und Nutzung der PayPal-
+Services, wenn Sie mit den Bestimmungen der Datenschutzgrundsatze nicht
+einverstanden sind.
+
+Benachrichtigung uber Änderungen
+
+Diese Datenschutzgrundsatze konnen im Laufe der Zeit uberarbeitet werden, wenn
+beispielsweise den PayPal-Services neue Funktionen hinzugefugt oder
+Kundenvorschlage umgesetzt werden. Wir behalten uns das Recht vor, diese
+Datenschutzgrundsatze jederzeit zu andern und die uberarbeitete Fassung auf
+unserer Website zu veroffentlichen. Wir geben mindestens 30 Tage vor
+Inkrafttreten der uberarbeiteten Datenschutzgrundsatze die Änderung bekannt,
+es sei denn es gibt rechtliche Grunde, die dagegen sprechen. Wir konnen Ihnen
+die Nachricht auf unserer Website unter "Aktualisierte PayPal-Richtlinien"
+und/oder per E-Mail zukommen lassen. Ab dem Tag des Inkrafttretens der
+uberarbeiteten Datenschutzgrundsatze wird angenommen, dass Sie allen
+Änderungen der Datenschutzgrundsatze ausdrucklich zustimmen. Wenn Sie den
+Regelungen der Datenschutzgrundsatze nicht zustimmen, konnen Sie Ihr Konto
+jederzeit schließen.
+
+Die aktuellste Version unserer Datenschutzgrundsatze finden Sie auf der
+PayPal-Website hier.
+
+Websites von Dritten: Einige Abschnitte der PayPal-Website beinhalten Links zu
+Webseiten von Dritten. Diese Seiten unterliegen eigenen
+Datenschutzgrundsatzen. PayPal ist fur ihren Betrieb einschließlich der
+Datenhandhabung nicht verantwortlich. Nutzer, die Informationen an oder uber
+solche Seiten von Drittanbietern senden, sollten die Datenschutzerklarungen
+dieser Seiten prufen, bevor sie ihnen individuell zuordnungsbare Informationen
+zukommen lassen.
+
+Kein Rahmenvertrag: Hiermit stellen wir klar, dass diese Datenschutzgrundsatze
+keinen "Rahmenvertrag" im Sinne der EU-Zahlungsdiensterichtlinie (2007/64/EG)
+und ihrer Umsetzungsgesetze in der Europaischen Union oder im EWR (darunter
+die Zahlungsdienstevorschrift des Vereinigten Konigreichs aus dem Jahr 2009)
+darstellen.
+
+Besonderer Hinweis zum Mindestalter. Kinder sind nicht berechtigt, die PayPal-
+Services zu nutzen, und wir bitten darum, dass Minderjahrige (unter 18 Jahren)
+keine personenbezogenen Daten an uns ubermitteln und die PayPal-Services nicht
+verwenden.
+
+Zuruck nach oben
+
+
+
+2\. Von uns erfasste Daten
+
+Erforderliche Angaben: Um ein PayPal-Konto zu eroffnen oder die PayPal-
+Services zu nutzen, mussen Sie Name, Adresse, Telefonnummer und E-Mail-Adresse
+angeben. Um Zahlungen uber die PayPal-Services vornehmen zu konnen, mussen Sie
+Ihre Kreditkarten- oder Bankkontodaten angeben. Zusatzlich bitten wir Sie,
+zwei Sicherheitsfragen zu beantworten (z.B. nach Ihrem Geburtsort oder dem
+Namen Ihres Haustiers).  
+  
+Wenn Sie hohe Geldbetrage uberweisen oder empfangen oder insgesamt hohe
+Zahlungen uber die PayPal-Services abwickeln, benotigen wir moglicherweise
+weitere Angaben zu Ihrer Person oder Ihrem Unternehmen, um geltende Anti-
+Geldwaschebestimmungen zu erfullen.  
+  
+Nutzung Ihres Gerats: Wenn Sie uber ein beliebiges Gerat (ungeachtet dessen,
+ob Sie drahtlos oder uber ein Kabel oder anderweitig mit PayPal verbunden
+sind) auf PayPal zugreifen, erfassen und speichern wir womoglich zusatzlich
+die Anmeldedaten des Gerats (einschließlich Gerate-ID) und Standortdaten, um
+die PayPal-Services anzubieten.  
+  
+Fotos: Falls Sie bestimmte von uns zur Verfugung gestellte Funktionalitaten
+nutzen (darunter die PayPal-POS-Funktionalitat in der App auf Ihrem mobilen
+Endgerat), konnen wir Sie bitten, ein Bild von sich hochzuladen, um Ihnen die
+jeweiligen Dienste zur Verfugung zu stellen. Auf diesem Bild muss Ihr Gesicht
+deutlich erkennbar sein. Fur das Bild sind Sie alleinverantwortlich.  
+  
+Mitgliedsdaten: Wenn wir Ihnen ermoglichen, Ihre Mitgliedschaft bei einem
+teilnehmenden Bonusprogramm mit Ihrem Konto zu verknupfen, mussen Sie uns
+dafur gegebenenfalls Ihre Mitglieds-ID mitteilen.
+
+Transaktionsdaten: Wenn Sie PayPal-Services zum Senden von Zahlungen an Dritte
+oder zum Anfordern von Geld von Dritten nutzen, geben Sie bitte Daten in Bezug
+auf diese Transaktion an. Diese Informationen beinhalten beispielsweise den
+Betrag und die Art der Transaktion (Warenkauf, Kauf einer Dienstleistung oder
+einfache Geldtransfers), andere Transaktionsdetails sowie E-Mail-Adresse oder
+Telefonnummer des Dritten. Wenn Sie Geld an einen anderen PayPal-Kunden
+senden, kann es daruber hinaus sein, dass Sie aufgefordert werden, personliche
+Angaben uber den Kunden einzugeben, um die Transaktion abzuschließen. Diese
+Angaben konnen uns auch von dem Kunden zur Verfugung gestellt werden. Außerdem
+erfassen wir die Internetadresse (IP-Adresse) und andere Informationen uber
+den Computer oder das Gerat, das Sie fur den Zugriff auf Ihr PayPal-Konto oder
+fur die Nutzung der PayPal-Services verwenden, um Ihr Konto in Bezug auf
+unbefugten Zugriff zu uberwachen.  
+  
+Informationen uber Sie von Dritten: Um alle unsere Kunden vor einem moglichen
+Betrug zu schutzen, uberprufen wir die von Ihnen angegebenen Daten mit den
+Zahlungsverarbeitungsunternehmen und/oder Kreditauskunfteien. Wahrend solcher
+Verifizierungen erhalten wir personliche Informationen uber Sie von diesen
+Anbietern. Dies gilt beispielsweise dann, wenn Sie eine Kreditkarte oder ein
+neues Bankkonto bei PayPal registrieren. In solchen Fallen nutzen wir Services
+fur Kreditkartenautorisierung und Services zum Schutz vor Betrug. So konnen
+wir verifizieren, dass Ihre Kartendaten und Adressangaben mit den bei PayPal
+eingereichten Daten ubereinstimmen und die Karte nicht als verloren oder
+gestohlen gemeldet ist.
+
+Wenn Sie insgesamt hohe Zahlungen mit den PayPal-Diensten abwickeln oder als
+Handler eine eingeschrankte Verkaufsgeschichte haben, fuhren wir unter
+bestimmten Umstanden eine Hintergrunduberprufung Ihres Geschafts durch.
+Hierbei erhalten wir von einer Kreditauskunftei Daten uber Sie und Ihr
+Geschaft und moglicherweise (sofern gesetzlich erlaubt) auch uber Ihre
+Vorstande, Gesellschafter und Partner.
+
+Falls Sie PayPal Geld schulden, sind wir berechtigt, im Rahmen der
+gesetzlichen Moglichkeiten eine Überprufung Ihrer Kreditwurdigkeit
+durchzufuhren, indem wir uber Auskunfteien zusatzliche Informationen uber Sie
+einholen. PayPal behalt sich außerdem das Recht vor, nach eigenem Ermessen
+regelmaßig einen Geschafts- und/oder Kundenkreditbericht von einer solchen
+Kreditauskunftei fur jedes beliebige Konto abzurufen und zu prufen sowie,
+ausgehend von den wahrend eines solchen Kreditprufungsverfahrens erhaltenen
+Informationen, Konten zu schließen.
+
+Wenn Sie Ihr PayPal-Konto zum Verkaufen von Waren nutzen, erheben wir
+eventuell offentliche Informationen uber Ihr Unternehmen und Ihr Verhalten auf
+sozialen Netzwerken (wie zum Beispiel die E-Mail-Adresse und die Anzahl von
+"Likes" und "Followers"), soweit es fur die Bestatigung einer Beurteilung
+Ihrer Transaktionen und/oder Ihres Unternehmens, einschließlich der Große und
+des Kundenstammes, notwendig ist.
+
+Einzelheiten zur Zusammenarbeit zwischen PayPal und deutschen
+Kreditauskunfteien finden Sie im Anhang zu diesen Datenschutzgrundsatzen.
+Ferner konnen wir unter Beachtung der jeweiligen Datenschutzgrundsatze
+Informationen von Mitgliedern der PayPal-Konzernfamilie oder von anderen
+Unternehmen einholen.
+
+Informationen uber Sie aus anderen Quellen: Wir sind zudem berechtigt, Daten
+uber Sie aus anderen Quellen, darunter von Mitgliedern der PayPal-
+Unternehmensgruppe, anderen Unternehmen (vorbehaltlich deren
+Datenschutzrichtlinien und der jeweils geltenden gesetzlichen Bestimmungen)
+sowie von anderen Konten zu erfassen, wenn wir davon ausgehen konnen, dass
+diese (zum Teil oder vollstandig) unter Ihrer Kontrolle stehen.
+
+Zusatzliche Überprufung: Wenn wir die von Ihnen angegebenen Daten nicht
+uberprufen konnen oder wenn Sie eine Scheckauszahlung an eine andere Adresse
+als Ihre uberprufte Rechnungsanschrift fur die Kreditkarte anfordern, bitten
+wir Sie, uns per Fax Zusatzinformationen zu schicken (wie etwa Fuhrerschein,
+Kreditkartenabrechnung und/oder eine aktuelle Strom-, Gas- oder Wasserrechnung
+oder sonstige Informationen, die Sie mit der entsprechenden Adresse in
+Verbindung bringen) oder diese hochzuladen, oder online zusatzliche Fragen zu
+beantworten, damit wir Ihre Angaben bestatigen konnen.
+
+Websiteverkehrsdaten: Aufgrund der Funktionsweise der Kommunikationsstandards
+des Internets erhalten wir automatisch die Webadresse der Website, von der Sie
+auf die PayPal-Website kommen oder zu der Sie von der PayPal-Website wechseln.
+Wir erfassen auch Informationen daruber, welche Seiten unserer Website Sie
+besuchen, welchen Browser Sie verwenden sowie Daten uber die Haufigkeit Ihrer
+Besuche auf unserer Website und die verwendeten IP-Adressen.
+
+Verwendung von Cookies, Zahlpixeln, lokalem Speicher und ahnlichen
+Technologien: Wenn Sie unsere Website aufrufen oder die PayPal-Dienste nutzen,
+legen wir (einschließlich Unternehmen, mit denen wir zusammenarbeiten) eine
+kleine Datenmenge auf Ihrem Computer oder anderem Gerat ab. Zu diesen Dateien
+zahlen Cookies, Pixel-Tags, "Flash-Cookies" oder sonstige, von Ihrem Browser
+oder von ahnlichen Anwendungen lokal gespeicherte Elemente (gemeinsam
+"Cookies"). Wir nutzen diese Technologien, um Sie als Kunden zu erkennen,
+PayPal-Services, Inhalte und Werbung zu personalisieren, die Effektivitat von
+Werbung auszuwerten, die Sicherheit Ihres Kontos zu gewahrleisten, Risiken zu
+minimieren und Betrug zu vermeiden sowie das Vertrauen und die Sicherheit im
+Zusammenhang mit unseren Websites und den PayPal-Services zu steigern.  
+  
+Sie haben die Moglichkeit, unsere Cookies abzulehnen, wenn in Ihrem Browser
+oder Browser-Add-on eine entsprechende Moglichkeit gegeben ist, sofern diese
+Cookies nicht zur Betrugspravention oder zur Gewahrleistung der Sicherheit der
+von uns verwalteten Websites erforderlich sind. Wenn Sie jedoch unsere Cookies
+ablehnen, beeintrachtigt dies die Nutzung unserer Website und der PayPal-
+Services.
+
+Ausfuhrliche Informationen zur Verwendung dieser Technologien finden Sie in
+unserer Richtlinie uber Cookies, Zahlpixel und vergleichbare Technologien.
+
+Kommunikation: Wenn Sie mit uns aufgrund einer Kundendienstanfrage oder zu
+anderen Zwecken (z. B. per E-Mail, Fax, Telefon, Tweet usw.) kommunizieren, so
+bewahren wir unsere Antworten an Sie zusammen mit den Datensatzen zu Ihrem
+Konto auf."
+
+Fragebogen, Umfragen, Gewinnspiele und Profildaten: Von Zeit zu Zeit bieten
+wir unseren Kunden optionale Fragebogen, Umfragen und Gewinnspiele an, um
+demografische Informationen zu sammeln oder die Interessen und Bedurfnisse der
+Kunden einzuschatzen. Wenn wir personenbezogene Daten unserer Kunden im Rahmen
+von Fragebogen, Umfragen und Gewinnspielen erfassen, werden die Kunden vor
+ihrer Teilnahme an der Umfrage, am Fragebogen oder am Gewinnspiel daruber
+informiert, wie diese Daten verwendet werden.
+
+Personen, die keine "registrierten Benutzer" der PayPal-Services sind: Wenn
+ein registrierter Benutzer der PayPal-Services versucht, eine Transaktion mit
+einer Person, die kein registrierter Benutzer der PayPal-Services ist,
+auszufuhren (zum Beispiel, indem er der Person eine Zahlung oder einen anderen
+Vorteil sendet oder eine Zahlung von dieser Person anfordert), bewahren wir
+zum Vorteil des registrierten Benutzers der PayPal-Services, der versucht, die
+andere Partei zu kontaktieren, die Daten auf, die der registrierte Benutzer
+der PayPal-Services an uns ubermittelt, z.B. die E-Mail-Adresse,
+Telefonnummer, und/oder den Namen der anderen Partei, damit der registrierte
+Benutzer der PayPal-Services eine vollstandige Aufzeichnung seiner
+Transaktionen erhalt, auch nicht abgeschlossener Transaktionen. Diese Daten
+werden zwar gesetzeskonform fur einen gewissen Zeitraum aufbewahrt, jedoch
+nicht fur die Vermarktung im Zusammenhang mit der nicht registrierten Person
+verwendet. Außerdem sind Kunden ohne PayPal-Konto ebenso wie alle anderen
+Personen, die PayPal-Services nutzen, berechtigt, auf die eigenen Daten
+zuzugreifen und diese zu korrigieren. (Voraussetzung ist jedoch, dass deren
+Angaben korrekt sind und wir uns mit ihnen in Verbindung setzen konnen.)
+
+Kontoinformationen: Fur die Zwecke der vorliegenden Datenschutzgrundsatze
+umfassen Kontoinformationen ("Kontoinformationen") immer: Name, Adresse,
+E-Mail-Adresse, Telefonnummer, Benutzername, Foto, IP-Adresse, Gerate-ID,
+Standortdaten, Kontonummern, Kontoarten, Angaben zu den mit dem Konto
+genutzten Zahlungsinstrumenten, Details der Zahlungstransaktionen, Details zu
+geschaftlichen Transaktionen, Kundenangaben und -berichte,
+Kontovoreinstellungen, Angaben zur Identitat, die im Rahmen unserer "Know Your
+Customer"-Prufungen erfasst wurden, und Kundenkorrespondenz.
+
+Zuruck nach oben
+
+
+
+
+
+3\. Verwendung der erfassten personenbezogenen Daten
+
+Interne Verwendung: Wir erfassen, speichern und verarbeiten Ihre Daten auf
+Servern in den USA und an anderen Standorten weltweit. Die Datenerfassung auf
+unserer Seite dient in erster Linie dazu, die Nutzung der PayPal-Services fur
+Sie so sicher, angenehm und effizient wie moglich zu gestalten. Sie erklaren
+sich damit einverstanden, dass wir Ihre personlichen Angaben zu folgenden
+Zwecken nutzen durfen:
+
+  * Verarbeitung von Transaktionen und Erbringung der PayPal-Dienste,
+  * Überprufung Ihrer Identitat, u.a. bei Vorgangen, die die Kontoeroffnung und Passwortrucksetzung betreffen,
+  * Klarung von Konflikten, Einzug von Gebuhren, Behebung von Problemen
+  * Risikomanagement zur Erkennung, Vermeidung und/oder Schadensbegrenzung von Betrug oder anderen potenziell illegalen oder verbotenen Aktivitaten,
+  * Erkennung, Vermeidung oder Schadensbegrenzung durch Verstoße gegen Richtlinien oder anwendbare Nutzungsbedingungen,
+  * Bereitstellung von Diensten im Rahmen des Kundenservice auf Anfrage,
+  * Verbesserung der PayPal-Services durch Optimierung der Benutzerfreundlichkeit,
+  * Messung der Leistung der PayPal-Services zur Verbesserung von deren Inhalt und Layout,
+  * Verwaltung und Schutz unserer IT-Infrastruktur,
+  * Gezielte Bereitstellung von Marketing- und Werbeinformationen, Service-Updates und Werbeangeboten auf Grundlage der Einstellungen, die Sie in Ihrem PayPal-Konto und fur Ihre Nutzung der PayPal-Services fur den Erhalt von Informationen definiert haben (vgl. Sie dazu auch den Abschnitt "Unser Kontakt zu PayPal-Kunden") und
+  * Überprufung der Kreditwurdigkeit und Zahlungsfahigkeit, Prufung von Informationen auf Richtigkeit, auch unter Einbeziehung von Dritten.
+
+Befragungen, Gewinnspiele, Umfragen und Profildaten: Wenn Sie sich an unseren
+optionalen Befragungen oder Umfragen beteiligen, sind wir berechtigt, die
+hierdurch erhaltenen Informationen zur Verbesserung der PayPal-Services, zur
+Zusendung von Marketing- und Werbeinformationen an Sie sowie zur Organisation
+von Gewinnspielen zu verwenden, soweit in der Umfrage nichts Abweichendes
+angegeben ist.
+
+Von Ihnen zur Veroffentlichung bereitgestellte Inhalte: Falls Sie uns im
+Rahmen der Nutzung der PayPal-Dienste Inhalte zusenden oder Inhalte
+bereitstellen (jeweils zum Zwecke der Veroffentlichung, sowohl online als auch
+offline), gewahren Sie PayPal und verbundenen Unternehmen ("PayPal-Gruppe")
+das nicht ausschließliche, weltweite, unbefristete, unwiderrufliche,
+gebuhrenfreie, (an mehrere Dritte) unterlizenzierbare Recht zur Ausubung aller
+Ihnen an diesen Inhalten zustehenden Rechte einschließlich der Urheberrechte,
+Werberechte, Markenrechte, Datenbankrechte und geistigen Eigentumsrechte in
+allen bekannten Medien, jetzt und in Zukunft, einschließlich derzeit noch
+nicht bekannter Medien. Ferner verzichten Sie soweit gesetzlich zulassig auf
+alle moralischen Rechte und sichern zu, solche Rechte nicht gegenuber der
+PayPal-Gruppe oder deren Beauftragten geltend zu machen. Sie sichern zu, dass
+keine der folgenden Aktivitaten ein geistiges Eigentumsrecht verletzt: Ihre
+Bereitstellung von Inhalten an uns, die Bereitstellung von Inhalten im Rahmen
+der Nutzung der PayPal-Services und die Nutzung solchen Inhalts
+(einschließlich abgeleiteter Werke) durch die PayPal-Gruppe in Verbindung mit
+den PayPal-Services.
+
+Unser Kontakt mit PayPal-Kunden: Wir kommunizieren regelmaßig mit unseren
+Kunden per E-Mail, um angeforderte Services zu erbringen. Bei der Bearbeitung
+von Kundenbeschwerden oder Kauferschutzantragen, um auf Kundenanfragen zu
+antworten, um Sie daruber zu informieren, dass unserer Ansicht nach Ihr
+PayPal-Konto oder eine Ihrer Transaktionen zu einem unerlaubten Zweck genutzt
+wird, um Informationen zu Ihrer Person, Ihrem Geschaft oder Kontobewegungen zu
+bestatigen, zum Forderungseinzug, um Kundenumfragen durchzufuhren oder bei der
+Untersuchung verdachtiger Transaktionen kommunizieren wir auch telefonisch mit
+unseren Kunden.
+
+Wir verwenden Ihre E-Mail-Adresse oder Anschrift, um die Eroffnung Ihres
+PayPal-Kontos zu bestatigen, um Ihnen Benachrichtigungen uber den Eingang bzw.
+die Abbuchung von Zahlungen uber PayPal zuzusenden (einschließlich
+Empfehlungsbonuszahlung, wie nachfolgend beschrieben), um Sie uber wichtige
+Änderungen bei unseren Produkten und Services zu informieren und um Ihnen
+Mitteilungen und andere gesetzlich vorgeschriebene Bekanntmachungen
+zuzusenden. Im Allgemeinen konnen Kunden nicht auswahlen, welche Mitteilungen
+sie erhalten mochten. Die Mitteilungen werden jedoch vorwiegend zu
+Informationszwecken und nicht zu Werbezwecken versendet.
+
+Daruber hinaus senden wir an Ihre E-Mail-Adresse auch andere Arten von
+Mitteilungen, die Sie selbst bestimmen konnen. Hierzu zahlen der regelmaßige
+PayPal-Newsletter, Auktionstipps, Kundenumfragen und Hinweise auf spezielle
+Angebote von Drittanbietern. Sie konnen auswahlen, ob Sie alle Mitteilungen
+oder keine dieser Mitteilungen erhalten mochten, wenn Sie das Anmeldeverfahren
+abschließen, bzw. zu jedem beliebigen Zeitpunkt danach. Melden Sie sich hierzu
+auf der PayPal-Website in Ihrem PayPal-Konto an, und andern Sie die
+Einstellungen auf der Seite "Mein Profil" unter "Mein Konto".
+
+Wie oben beschrieben kommunizieren wir mit Ihnen gegebenenfalls auch per SMS
+(fur Zwecke der Verwaltung Ihrer Kommunikationspraferenzen werden SMS wie
+E-Mails behandelt).
+
+Im Zusammenhang mit unabhangigen Prufungen unserer Jahresabschlusse und
+Transaktionen kontaktieren die Prufer moglicherweise einige unserer Kunden, um
+die Korrektheit unserer Unterlagen zu bestatigen. Die Prufer durfen jedoch
+keine personlichen Daten fur sekundare Zwecke verwenden.
+
+Zuruck nach oben
+
+4\. Marketing
+
+Wir konnen Ihre Daten mit Daten, die wir von anderen Unternehmen erhalten,
+zusammenfugen und verwenden, um die PayPal-Services zu verbessern und zu
+personalisieren. Sie konnen selbst entscheiden, ob Sie Werbemitteilungen von
+uns erhalten oder an unserem kundenspezifischen Werbeprogramm teilnehmen
+mochten, indem Sie sich in Ihr Konto auf der PayPal-Website einloggen und Ihre
+Kommunikationseinstellungen in der Rubrik "Kontoinformationen" auf der "Mein
+Profil"-Seite anpassen oder indem Sie den in der Mitteilung oder dem
+Marketinginhalt enthaltenen Hinweisen folgen.
+
+Zuruck nach oben
+
+
+
+5\. Offenlegung personenbezogener Daten gegenuber anderen PayPal-Nutzern
+
+Wenn Sie registrierter PayPal-Kunde sind, werden Ihr Name, Ihre E-Mail-
+Adresse, Ihre Telefonnummer (sofern vorhanden), das Datum der Anmeldung, die
+Anzahl der von verifizierten PayPal-Kunden erhaltenen Zahlungen und
+Informationen daruber, ob Sie uber einen Zugriff auf ein verifiziertes
+Bankkonto verfugen, anderen PayPal-Kunden angezeigt, an die Sie eine Zahlung
+gesendet haben, oder Absendern, die uber die PayPal-Services eine Zahlung an
+Sie senden mochten oder eine Zahlung von Ihnen anfordern. Wenn Sie Inhaber
+eines Geschaftskontos sind, zeigen wir anderen PayPal-Kunden die
+Websiteadresse (URL) und die Kontaktdaten fur den Kundenservice an, die Sie
+bei uns eingereicht haben. Diese und andere Informationen konnen daruber
+hinaus auch an Dritte weitergegeben werden, wenn Sie diese Dritten zum Zugriff
+auf PayPal-Services nutzen. Ihre Kreditkartennummer, die Kontodaten und andere
+Finanzdaten werden jedoch weder an Personen weitergegeben, an die Sie eine
+Zahlung gesendet oder von denen Sie uber PayPal-Services eine Zahlung erhalten
+haben, noch an Dritte, die PayPal-Services nutzen, es sei denn Sie haben uns
+dies ausdrucklich gestattet oder wir sind aufgrund von
+Kreditkartenbestimmungen, eines Gerichtsbeschlusses oder eines anderen
+gesetzlichen Verfahrens dazu verpflichtet.
+
+Wenn Sie Waren oder Dienstleistungen uber PayPal erwerben, teilen wir dem
+Verkaufer u.U. die Lieferadresse fur die Waren sowie Ihre Rechnungsadresse
+mit, damit Sie die Transaktion abschließen konnen. Falls die Bezahlung eines
+Verkaufers fehlschlagt oder spater storniert wird, konnen wir dem Verkaufer
+auch genauere Angaben zu der fehlgeschlagenen Zahlung zur Verfugung stellen.
+Im Falle eines Konflikts konnen wir einem Kaufer die Adresse eines Verkaufers
+nennen, damit die Ware zum Verkaufer zuruckgeschickt werden kann.
+
+Wenn Sie die mobile Anwendung nutzen, konnen wir Ihr Foto, das Sie auf der
+mobilen Anwendung gespeichert haben, an andere PayPal-Nutzer weitergeben,
+damit diese PayPal-Nutzer Sie anhand des Fotos identifizieren konnen. Sie
+erteilen uns fur diese Zwecke eine nicht exklusive, weltweite, gebuhrenfreie,
+ubertragbare und unterlizenzierbare Lizenz zur Nutzung des Fotos.  
+  
+Wir konnen ebenfalls die Information, dass Sie als Kunde lokal erreichbar
+sind, an andere PayPal-Nutzer weitergeben. Wenn Sie keine Weitergabe dieser
+Informationen wunschen, so konnen Sie die Einstellungen solcher Daten auf
+Ihrem Mobilgerat abrufen, anzeigen und steuern.
+
+Wenn Sie PayPal nutzen, um sich auf Websites oder mobilen Applikationen
+Dritter anzumelden ("Login"), werden wir gegebenenfalls Ihren Login-Status mit
+solchen Dritten teilen, einschließlich solcher personlicher sowie
+Kontoinformationen, zu deren Weitergabe Sie zugestimmt haben, um es dem
+Dritten zu ermoglichen, Sie als Besucher seiner Website oder mobilen
+Applikation zu erkennen. PayPal wird solchen Dritten keinen Zugriff auf Ihr
+PayPal-Konto ermoglichen und Zahlungen von Ihrem PayPal-Konto an solche Dritte
+nur mit Ihrer ausdrucklichen Genehmigung abwickeln. Die entsprechenden
+Einstellungen fur die Weitergabe von Daten an Dritte konnen Sie in Ihrem
+PayPal-Konto einsehen, uberprufen und andern.
+
+Falls Sie Ihre Mitgliedschaft mit einem teilnehmenden Bonusprogramm mit Ihrem
+Konto in unserer mobilen Applikation verknupfen, werden wir Ihre
+Mitgliedsnummer/ID mit jedem an dem jeweiligen Bonusprogramm teilnehmenden
+Handler teilen, wenn Sie an diesen Handler Zahlungen mit PayPal leisten.
+Sobald Sie Ihre Mitgliedsnummer/ID aus Ihrem Konto loschen, werden wir das
+Teilen dieser Informationen beenden.
+
+Wir arbeiten mit Dritten, einschließlich Handlern, zusammen, um es diesen zu
+ermoglichen, Zahlungen unter Nutzung der PayPal-Services von Ihnen oder an Sie
+zu akzeptieren oder zu erleichtern. Zu diesem Zweck geben Dritte unter
+Umstanden Informationen uber Sie an uns weiter, wie z.B. Ihre E-Mail-Adresse
+oder Ihre Telefonnummer, wenn eine Zahlung an Sie erfolgt oder wenn Sie
+versuchen, an den Dritten zu zahlen. So konnen wir bestatigen, dass Sie
+PayPal-Kunde sind und dass PayPal als Zahlungsmethode fur Ihren Einkauf
+aktiviert werden kann. Im Falle einer Zahlung an Sie konnen wir Ihnen so eine
+Bestatigung senden, dass Sie eine Zahlung erhalten haben. Wir bestatigen auch
+Dritten gegenuber, dass Sie PayPal-Kunde sind, sofern Sie dies wunschen. Bitte
+beachten Sie, dass Dritte, von denen Sie kaufen und mit denen Sie einen
+Vertrag schließen, Ihre eigenen Datenschutzrichtlinien haben konnen und dass
+PayPal fur deren Anwendung und die Vorgehensweise der Dritten nicht haftet.
+
+Falls Sie ein PayPal-Konto direkt uber die Website eines Dritten oder mittels
+der Anwendung eines Dritten (und nicht unmittelbar uber PayPal-Services)
+eroffnen, erhalt der Inhaber der Drittwebsite bzw. Anwendung Zugriff auf
+samtliche Informationen, die Sie uber die Website bzw. mittels der Anwendung
+eines solchen Dritten eingeben. Ihre Informationen konnen in diesem Fall von
+den Datenschutzbestimmungen des Dritten erfasst sein.
+
+Indem Sie diese Datenschutzgrundsatze akzeptieren, stimmen Sie ausdrucklich
+zu, dass jedes Mal, wenn Sie uber Ihr PayPal-Konto eine Zahlung an einen
+PayPal-Kunden (einschließlich Handler) vornehmen bzw. dies versuchen, PayPal
+zur Abwicklung der Zahlung die vorgenannten Daten verarbeiten und an den
+PayPal-Kunden, der auch außerhalb des Europaischen Wirtschaftsraums (EWR)
+seinen Sitz haben kann, weiterleiten darf. Sie stimmen außerdem ausdrucklich
+zu, dass PayPal, falls Sie eine mobile Anwendung von PayPal (einschließlich
+Point of Sale) nutzen, Transaktionsinformationen sowie andere fur die Nutzung
+der mobilen Anwendung notwendige Informationen an Handler und andere Dritte
+weitergibt, die Sie ausdrucklich in der mobilen Anwendung bzw. bei Nutzung des
+Point of Sale-Dienstes angewahlt haben.
+
+Zuruck nach oben
+
+6\. Offenlegung personenbezogener Daten gegenuber anderen Dritten
+
+Wie die meisten Banken und Finanzdienstleister arbeitet PayPal mit
+Dienstleistern, die einen wichtigen Beitrag dazu leisten, dass PayPal eine
+einfache, schnelle und sichere Art des Bezahlens ist, sowie mit anderen
+Dritten zusammen. Diesen gegenuber mussen wir gelegentlich Nutzerdaten
+offenlegen, damit die PayPal-Services erbracht werden konnen.
+
+
+
+Grundsatzlich verlangen die Luxemburger Gesetze, denen PayPal in Bezug auf
+Datenschutz und Bankgeheimnis unterliegt, einen hoheren Grad an Transparenz
+als die meisten anderen Rechtsordnungen in der EU. Aus diesem Grunde fuhren
+wir - anders als die allermeisten Anbieter von Internet- oder
+Finanzdienstleistungen in der EU - eine Liste von Dritten, die Dienste fur uns
+erbringen und denen gegenuber wir Daten offenlegen, aus der sowohl die Art der
+offengelegten Daten als auch der Grund fur die Offenlegung hervorgeht. Eine
+Übersicht dieser Dritten finden Sie hier. Indem Sie diesen
+Datenschutzgrundsatzen zustimmen und ein PayPal-Konto unterhalten, stimmen Sie
+der Offenlegung Ihrer Daten an diese Dritten fur die genannten Zwecke
+ausdrucklich zu.
+
+
+
+PayPal wird die Liste von Dritten quartalsweise (jeweils zum 1. Januar, 1.
+April, 1. Juli und 1. Oktober eines Jahres) uberarbeiten. PayPal wird Daten
+gegenuber neu in die Liste aufgenommenen Dritten oder wenn sich der Zweck der
+Offenlegung oder die Art der offengelegten Daten geandert haben sollte erst 30
+Tage nach dem Datum offenlegen, an dem die uberarbeitete Liste von Dritten
+durch diese Datenschutzgrundsatze veroffentlicht worden ist. Sie sollten daher
+die Liste von Dritten jedes Quartal auf der PayPal-Website zu den genannten
+Daten einsehen. Wenn Sie der Offenlegung von Daten an die neu in die Liste von
+Dritten aufgenommenen Dritten nicht innerhalb von 30 Tagen nach der
+Veroffentlichung der uberarbeiteten Liste von Dritten widersprechen, gilt Ihre
+Zustimmung zu den Änderungen der Liste von Dritten und dieser
+Datenschutzgrundsatze als erteilt. Falls Sie mit den Änderungen nicht
+einverstanden sein sollten, mussen Sie Ihr PayPal-Konto schließen und die
+Nutzung der PayPal-Services beenden.
+
+
+
+PayPal verkauft oder vermietet ohne Ihre Zustimmung keine personlichen Daten
+an Dritte fur deren Marketingzwecke. Eine Offenlegung erfolgt nur sehr
+eingeschrankt und ausschließlich zu den in diesen Datenschutzgrundsatzen
+beschriebenen Zwecken. Dies schließt die Weiterleitung von Daten an Nicht-EWR-
+Mitgliedsstaaten ein.
+
+Um Ihnen PayPal Dienste zu ermoglichen, kann es erforderlich sein, dass wir
+als Zahlungsanbieter, Zahlungsanbieter im Auftrag oder Kontoanbieter (oder in
+vergleichbaren Funktionen) manche der erfassten Informationen (wie in Punkt 2
+beschrieben) an andere PayPal Niederlassungen oder andere Einrichtungen wie
+unter Punkt 6 ausgefuhrt, ubermitteln mussen. Sie nehmen hiermit zur Kenntnis,
+dass diese Niederlassungen oder andere Einrichtungen ihrerseits lokalen
+Rechtsvorschriften des jeweiligen Landes unterliegen, die eine Offenlegung
+dieser Informationen an Auskunfteien, aufgrund von Untersuchungen oder
+Anweisungen notwendig machen. Mit der Nutzung der PayPal Dienste erklaren Sie
+sich mit dieser Offenlegung ausdrucklich einverstanden.
+
+Sie stimmen ausdrucklich zu und weisen PayPal an, dass mit Ihren Informationen
+die nachfolgenden Maßnahmen ergriffen werden durfen:
+
+  1. Offenlegung von Kontodaten gegenuber der Polizei und sonstigen Strafverfolgungsbehorden, Sicherheitskraften, zustandigen staatlichen, zwischenstaatlichen oder uberstaatlichen Behorden, sonstigen zustandigen Behorden, Ministerien, gesetzgebenden Organen, Regulierungsbehorden oder Organisationen (darunter die im Abschnitt "Behorden" der Liste mit Dritten hier aufgefuhrten Behorden) und sonstigen Dritten, darunter Unternehmen der PayPal-Gruppe, (i) die u.a. dem Luxemburger Gesetz vom 24 Juli 2015 betreffend der Umsetzung des US amerikanischen „Foreign Account Tax Compliance Act („FATCA Vorschriften") und dem Standard fur den automatischen Informationsaustausch uber Finanzkonten der OECD vom 18 Dezember 2015 („CRS Vorschriften") rechtlich verpflichtet sind; (ii) bei denen wir begrundet davon ausgehen konnen, dass es fur uns angemessen ist, diese bei ihren Nachforschungen zu Betrug und anderen illegalen oder potenziell illegalen Aktivitaten oder (iii) Untersuchungen in Bezug auf Verstoße gegen unsere Nutzungsbedingungen (einschließlich Ihrer Zahlungsquellen- oder Kreditkartenanbieter) zu unterstutzen.  
+Fur den Fall, dass Sie unter die FATCA oder CRS Vorschriften fallen, mussen
+wir Sie uber den Inhalt der Daten und den Datenaustausch mit anderen Behorden
+informieren. Hier lesen Sie mehr uber die Verpflichtungen die PayPal unter den
+FATCA und CRS Vorschriften hat und dessen Auswirkungen auf Sie, sowie welche
+Art von Informationen wir offenlegen mussen.  
+Wir und weitere Organisationen, darunter solche Parteien, welche PayPal
+akzeptieren, sind ebenfalls zur Offenlegung, zum Zugriff und zur Verwendung
+der erforderlichen Informationen (darunter Daten aus anderen Landern)
+berechtigt, um sie und uns bei der Bewertung und Verwaltung von Risiken
+(darunter zur Pravention von Finanzbetrug, Geldwasche und
+Terrorismusfinanzierung) zu unterstutzen. Bitte kontaktieren Sie uns, wenn Sie
+weitere Details zu den am Ende dieser Richtlinie genannten Auskunfteien
+genannt bekommen wollen. Klicken Sie hier, um weitere Informationen zu diesen
+Stellen, Auskunfteien und weiteren Dritten zu erhalten.
+
+  2. Obligatorische Offenlegung aufgrund von Kreditkartenbestimmungen oder aufgrund eines straf- oder zivilrechtlichen Prozesses.
+  3. Offenlegung von Kontodaten gegenuber Rechteinhabern, sofern diese nach den anwendbaren nationalen Vorschriften eines EU Mitgliedstaates einen außergerichtlichen Auskunftsanspruch gegen PayPal aufgrund einer Rechtsverletzung ihrer geistigen Eigentumsrechte haben und der Rechtsverletzer fur die Rechtsverletzung die Dienstleistungen von PayPal in Anspruch genommen hat (z.B. gem. § 19, Abs. 2 Nr. 3 des deutschen Markengesetzes oder § 101, Abs. 2, Nr. 3 des deutschen Urhebergesetzes).
+  4. Wenn Sie als Handler mit einem Drittanbieter auf PayPal zugreifen oder PayPal mit dessen Hilfe integrieren, sind wir berechtigt, einem solchen Partner die notigen Daten zum Zwecke der Vereinfachung und zum Erhalt einer Vereinbarung (einschließlich des Status Ihrer PayPal-Integration, ungeachtet dessen, ob Sie ein aktives PayPal-Konto haben und ob Sie bereits mit einem anderen PayPal-Integrationspartner arbeiten) offenzulegen.
+  5. Offenlegen erforderlicher Informationen gegenuber zahlungsverarbeitenden Unternehmen, Wirtschaftsprufern, Kundendienstmitarbeitern, Kreditwurdigkeitsstellen und Auskunfteien, Anbietern von Finanzprodukten, Handelspartnern, Marketing- und PR-Unternehmen, Marktplatzen und sonstiger hier aufgefuhrter Dritter. Der Zweck dieser Offenlegung ist es, Ihnen unsere PayPal-Services zur Verfugung zu stellen. Wir haben unter jeder "Kategorie" in der Liste mit Dritten nicht ausschließliche Beispiele der Dritten (mit ihren moglichen Rechtsnachfolgern und Bevollmachtigten) aufgefuhrt, denen wir aktuell tatsachlich Ihre Kontoinformationen offenlegen. Neben dem Zweck der Offenlegung haben wir auch die tatsachlichen Informationen, die wir offenlegen (soweit nicht jeweils anders angegeben, sind diese Dritten gesetzlich bzw. vertraglich dazu verpflichtet, die Informationen ausschließlich zu dem vorgesehenen Zweck und zu keinem anderen Zweck zu verwenden) angefuhrt.
+  6. Offenlegung erforderlicher Daten gegenuber Ihren Vertretern bzw. Rechtsvertretern (z.B. dem Inhaber einer von Ihnen erteilten Vollmacht oder einem fur Sie ernannten Vormund).
+  7. Weitergabe von zusammengefassten Statistikdaten an unsere Geschaftspartner oder PR-Partner. Wir legen beispielsweise offen, dass ein bestimmter Prozentsatz unserer Kunden in Berlin lebt. Diese zusammengefassten Informationen enthalten jedoch keine personlichen Angaben.
+  8. Weitergabe erforderlicher Kontoinformationen an nicht mit uns verbundenen (hier aufgefuhrten) Unternehmen zu folgenden Zwecken:  
+
+
+    1. Betrugspravention und Risikomanagement: um zur Betrugspravention und zur Bewertung sowie zum Management von Risiken beizutragen.  Wenn Sie beispielsweise PayPal-Dienste zum Kauf oder Verkauf uber eBay oder seine Konzern- oder Partnerunternehmen ("eBay") nutzen, konnen wir Kontoinformationen an eBay weitergeben, um Ihre Konten vor betrugerischen Aktivitaten zu schutzen, Sie uber betrugerische Aktivitaten in Ihren Konten zu informieren oder Kreditrisiken zu bewerten.   
+  
+Im Rahmen unserer Bemuhungen im Hinblick auf Betrugsverhutung und
+Risikomanagement legen wir die erforderlichen Kontodaten mit eBay, falls
+PayPal Ihr Konto basierend auf Konflikten, Forderungen, Ruckbuchungen oder
+anderen Situationen im Zusammenhang mit dem Kauf oder Verkauf von Waren
+einbehalten oder mit bestimmten Einschrankungen belegt hat. Als Teil der
+Betrugsverhinderung und des Risikomanagements konnen wir Kontoinformationen
+mit eBay teilen, um ihnen zu ermoglichen, ihre Programme fur die Evaluation
+von Kaufern oder Verkaufern zu betreiben.
+
+    2. Kundenservice: zu Zwecken des Kundenservice, einschließlich der Bedienung Ihrer Konten oder zur Beilegung von strittigen Punkten (z. B. in Bezug auf Rechnungen oder Transaktionen).
+    3. Versand: im Zusammenhang mit dem Versand und darauf bezogenen Diensten fur uber PayPal getatigte Kaufe.
+    4. Einhaltung gesetzlicher Auflagen: zur Unterstutzung bei der Umsetzung der Verifizierungsanforderungen bei der Bekampfung von Geldwasche und Terrorismusfinanzierung.
+    5. Serviceprovider: Damit bei uns unter Vertrag stehende Serviceprovider uns bei geschaftlichen Vorgangen u.a. Betrugspravention, Rechnungseintreibung, Marketing, Kundenservice und Technologie-Service unterstutzen konnen. Diese Serviceprovider sind vertraglich dazu verpflichtet, Ihre Informationen nur in Verbindung mit den Services zu verwenden, die sie fur uns bereitstellen, nicht jedoch zu ihrem eigenen Nutzen.
+
+Zusammenschlusse oder Übernahmen: Wie bei anderen Unternehmen ist es moglich,
+dass PayPal in Zukunft Zusammenschlusse eingeht oder von einem anderen
+Unternehmen ubernommen wird. Bei einer solchen Übernahme stimmen Sie zu, dass
+das Folgeunternehmen Zugriff auf die von PayPal verwalteten Informationen,
+einschließlich der Informationen zu Kundenkonten, erhalt. Das Folgeunternehmen
+ist jedoch weiterhin an die Datenschutzgrundsatze gebunden, es sei denn, sie
+werden entsprechend geandert.
+
+Seiten von Dritten: Falls Sie ein PayPal-Konto direkt auf der Website eines
+Dritten oder uber die App eines Dritten eroffnen, erhalt der Inhaber dieser
+Website oder Anwendung Zugriff auf samtliche Daten, die Sie uber die Website
+bzw. die App des Dritten (und nicht unmittelbar auf der PayPal-Website)
+eingeben. Solche Websites verfugen uber ihre eigenen Datenschutzrichtlinien.
+Sie sollten sie daher lesen, bevor Sie personliche Daten zur Verfugung
+stellen. PayPal ist fur die Inhalte oder Informationspraktiken Dritter nicht
+verantwortlich.
+
+Zuruck nach oben
+
+7\. Grenzuberschreitende Offenlegung personenbezogener Daten
+
+PayPal ist verpflichtet, Ihre personenbezogenen Daten angemessen zu schutzen,
+unabhangig davon, wo sich diese Daten befinden, und einen angemessenen
+Datenschutz sicherzustellen, wenn solche Daten in Lander außerhalb des EWR
+ubermittelt werden.
+
+Zuruck nach oben
+
+
+
+8\. Ihre Nutzung von Informationen und PayPal-Diensten
+
+Zur Vereinfachung der Transaktionen zwischen PayPal-Kunden bieten Ihnen die
+PayPal-Services eingeschrankten Zugang zu den Kontakt- oder
+Versandinformationen anderer Kunden. Bei einer solchen Übernahme stimmen Sie
+zu, dass das Folgeunternehmen Zugriff auf die von PayPal verwalteten
+Informationen, einschließlich der Informationen zu Kundenkonten, erhalt. Das
+Folgeunternehmen ist jedoch weiterhin an die Datenschutzgrundsatze gebunden,
+es sei denn, sie werden entsprechend geandert.  
+  
+Sie verpflichten sich, die personlichen Angaben anderer Kunden, die Sie uber
+PayPal-Services oder durch PayPal-bezogene Nachrichten oder durch vereinfachte
+PayPal-Transaktionen erhalten, ausschließlich zu folgenden Zwecken zu
+verwenden: a) PayPal-bezogene Nachrichten, nicht fur unerwunschte Werbe-E-
+Mails, b) Handlungen, die sich auf die PayPal-Zahlungen beziehen oder die
+Transaktionen, fur die PayPal genutzt wurde (z.B. Versicherung, Versand und
+Betrugsbeschwerden) und c) weitere Zwecke, denen der jeweilige Nutzer nach
+einer angemessenen Offenlegung des Verwendungszwecks zugestimmt hat.
+
+In allen Fallen mussen Sie Kunden die Moglichkeit bieten, ihre Daten aus der
+Datenbank zu entfernen und alle uber sie gesammelten Informationen anzuzeigen.
+Generell sind Sie verpflichtet, das jeweils anwendbare Datenschutzrecht
+einzuhalten. Dies gilt insbesondere in Hinblick auf das Versenden von E-Mails
+zu Marketingzwecken.
+
+PayPal duldet keinen Spam. Wir setzen unsere Anti-Spam-Richtlinien strikt um.
+Wenn Sie uns uber PayPal-bezogene Spam-E-Mails informieren mochten, wenden Sie
+sich an uns.
+
+Zuruck nach oben
+
+
+
+9\. Datensicherheit
+
+PayPal wendet bei der Verwaltung der Kundeninformationen hochste Standards fur
+Informationssicherheit an. So verwenden wir beispielsweise Schutzmechanismen
+fur Computer, wie Firewalls und Datenverschlusselung. Fur unsere Gebaude und
+Daten gelten physische Zugangskontrollen. Der Zugriff auf personliche Angaben
+unserer Kunden ist nur jenen Mitarbeitern moglich, die diese zur Erledigung
+ihrer Tatigkeiten benotigen.
+
+Weitere Informationen zu den Sicherheitspraktiken von PayPal erhalten Sie im
+PayPal-Sicherheits-Center.
+
+Die Sicherheit Ihres PayPal-Kontos hangt auch davon ab, wie gut Sie Ihr
+PayPal-Passwort schutzen. Teilen Sie niemandem Ihr PayPal-Passwort mit. Von
+PayPal-Mitarbeitern werden Sie niemals dazu aufgefordert, Ihr Passwort
+anzugeben. Betrachten Sie daher E-Mails oder andere Nachrichten, in denen Sie
+nach Ihrem Passwort gefragt werden, als unbefugt und verdachtig, und leiten
+Sie diese an spoof@paypal.com weiter. Wenn Sie Ihr PayPal-Passwort dennoch aus
+einem bestimmten Grund an eine andere Person weitergeben - dies gilt auch fur
+die Weitergabe an Personen, die Ihnen zusatzliche Services, wie beispielsweise
+die Kontoaggregation, zugesichert haben - erhalt diese Person Zugriff auf Ihr
+Konto und Ihre personlichen Daten, und Sie sind fur samtliche mit Ihrem
+Passwort ausgefuhrten Aktivitaten verantwortlich. Wenn Sie glauben, dass eine
+andere Person Zugriff auf Ihr Passwort hat, andern Sie es umgehend, indem Sie
+sich unter www.paypal.com/de in Ihr Konto einloggen und die Änderung in den
+Profileinstellungen vornehmen. Benachrichtigen Sie uns außerdem umgehend wie
+unten beschrieben.
+
+Zuruck nach oben
+
+10\. Aufrufen und Ändern Ihrer personlichen Angaben
+
+Sie konnen die von Ihnen angegebenen personlichen Daten jederzeit uberprufen
+und diese Daten bzw. die Einstellungen fur Ihr PayPal-Konto gegebenenfalls
+andern. Loggen Sie sich hierzu auf der PayPal-Website in Ihr Konto ein und
+andern Sie die Einstellungen auf der Profilseite auf der Registerkarte "Mein
+Konto". Sie konnen Ihr Konto auch auf der PayPal-Website schließen. Wenn Sie
+Ihr PayPal-Konto schließen, registrieren wir Ihr Konto in unserer Datenbank
+mit dem Status "Geschlossen". Ihre Kontoinformationen werden jedoch nicht
+geloscht. Dies ist z.B. erforderlich, um betrugerische Aktivitaten zu
+unterbinden. Wir stellen auf diese Weise sicher, dass Personen, die versuchen,
+betrugerische Aktivitaten durchzufuhren, nicht unbemerkt fortfahren konnen,
+indem sie einfach ihr Konto schließen und ein neues Konto eroffnen. Wenn Sie
+Ihr Konto schließen, werden Ihre personenbezogenen Daten jedoch weder fur
+andere Zwecke verwendet, noch verkauft oder an Dritte weitergegeben, es sei
+denn, wir konnen dadurch betrugerische Aktivitaten vermeiden oder wir sind im
+Zuge eines Strafverfolgungsverfahrens oder gesetzlich dazu verpflichtet.
+
+Zuruck nach oben
+
+11\. Verantwortlichkeit
+
+Unser Datenschutzburo tragt die Verantwortung dafur, dass bei unserer
+taglichen Arbeit diese Datenschutzgrundsatze eingehalten werden. Sollten Sie
+Ihr Recht auf Dateneinsicht ausuben wollen oder Fragen zu diesen
+Datenschutzgrundsatzen, den Informationspraktiken von PayPal oder zu Ihren
+PayPal-Transaktionen haben, setzen Sie sich mit uns in Verbindung. Verwenden
+Sie einfach dieses Formular, rufen Sie die Kundenservicenummer an, die auf der
+Website von PayPal angegeben ist, oder schreiben Sie an PayPal (Europe) S.a
+r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxemburg.
+
+Zuruck nach oben
+
+### Anhang: WICHTIGE DATENSCHUTZRECHTLICHE INFORMATIONEN FÜR KUNDEN MIT
+DEUTSCHEN PAYPAL-PRIVATKONTEN
+
+Nutzung Ihrer personlichen Daten durch PayPal und Kreditauskunfteien in
+Deutschland
+
+Warum benotigen wir Bonitatsauskunfte?
+
+Bei einigen PayPal-Diensten gehen wir mit einer Zahlung in Vorleistung und
+ubernehmen daher in Bezug auf unsere Kunden ein Kreditrisiko (zum Beispiel
+wenn Sie eine PayPal-Zahlung mit Lastschrift bezahlen, oder in Zusammenhang
+mit einem Kreditprodukt von PayPal). Daher ist es notwendig, dass wir uns der
+Zahlungsfahigkeit unserer Kunden fur diese Dienste ruckversichern, indem wir
+eine Bonitatsauskunft einholen. Dies hilft uns bei der Entscheidung, ob wir
+dem Kunden das Produkt anbieten konnen.
+
+Mit welchen Kreditauskunfteien arbeiten wir zusammen? Wie sind ihre
+Kontaktdaten?
+
+Die nachfolgende Tabelle enthalt eine Liste aller Kreditauskunfteien, mit
+denen wir bezuglich unserer deutschen Privatkunden im Rahmen von
+Bonitatsauskunften zusammenarbeiten.
+
+Name der Auskunftei und Sitzland
+
+Adresse, Kontaktdaten, um uber eine Selbstauskunft weitere Informationen uber
+die dort gespeicherten Informationen zu erhalten  
+  
+Accumio Finance Services GmbH (Deutschland)
+
+accumio finance services gmbh  
+Niederlassung Hannover  
+Customer Care Services Center  
+- Selbstauskunft Auskunftei -  
+Postfach 11 02 54  
+D-30099 Hannover
+
+http://saf-solutions.de/services/selbstauskunft-auskunftei/  
+  
+CEG Creditreform Boniversum GmbH (Deutschland),
+
+Creditreform Boniversum GmbH
+
+Konsumentenservice
+
+Hellersbergstr. 11
+
+D-41460 Neuss
+
+http://www.meineauskunft.org/eigenauskunft/  
+  
+Burgel Wirtschaftsinformationen GmbH &amp; Co. KG (Deutschland)
+
+Burgel Wirtschaftsinformationen GmbH &amp; Co. KG  
+Gasstraße 18  
+22761 Hamburg
+
+http://www.buergel.de/kontakt.html  
+  
+SCHUFA Holding AG (Deutschland)
+
+SCHUFA Holding AG  
+Kormoranweg 5  
+65201 Wiesbaden  
+https://www.meineschufa.de/(Kontakt)  
+  
+infoscore Consumer Data GmbH (Deutschland)
+
+infoscore Consumer Data GmbH  
+Abteilung Datenschutz  
+Rheinstraße 99  
+76532 Baden-Baden  
+http://www.arvato-infoscore.de/verbraucher/selbstauskunft/  
+  
+Welche Daten werden an die Kreditauskunftei gesandt, um die Bonitatsauskunft
+zu erhalten? Welche Daten verbleiben in der Datenbank der Kreditauskunftei?
+
+Wir werden der Kreditauskunftei zum Zwecke der Bonitatsauskunft die folgenden
+Informationen zusenden:
+
+a) Daten, um die Bonitatsauskunft zu erhalten: Name, Geburtsdatum, Adresse,
+Kontoverbindungsdaten (soweit zutreffend).
+
+Diese Daten und die Tatsache, dass wir eine Bonitatsauskunft (Score) uber Sie
+angefordert haben, konnen bei der Kreditauskunftei vorubergehend vor allem zu
+Nachweiszwecken verbleiben. Bitte wenden Sie sich an die jeweilige
+Kreditauskunftei oder konsultieren Sie deren Website, um weitere Informationen
+zu erhalten.
+
+b) gegebenenfalls Informationen uber nicht vertragsgemaßes Verhalten
+Ihrerseits ("Negativdaten"), sofern PayPal uber Sie eine Bonitatsauskunft bei
+dieser Kreditauskunftei eingeholt hat. Dies schließt Falle ein, in denen Sie
+einen negativen Kontostand auch nach mehrmaliger Mahnung nicht ausgeglichen
+haben, oder Falle von gerichtlichen Vollstreckungsmaßnahmen gegen Sie. Die
+Übermittlung dieser Tatsachen findet nur statt, wenn dies zur Wahrung
+berechtigter Interessen von PayPal, der Auskunftei bzw. deren Vertragspartner
+erforderlich ist und kein Grund zu der Annahme besteht, dass Ihr
+schutzwurdiges Interesse an dem Ausschluss der Übermittlung uberwiegt.
+
+Diese Tatsachen werden in der Datenbank der Auskunftei gespeichert und konnen
+u.a. wie unten stehend beschrieben zur Ermittlung Ihres Scoringwertes bei der
+Auskunftei verwendet werden.
+
+Indem Sie der Bonitatsauskunft und diesen Datenschutzbestimmungen zustimmen,
+
+- stimmen Sie zu, dass diese Daten an die in der oben stehenden Tabelle genannten externen Kreditauskunfteien geschickt werden, um eine Bonitatsauskunft und einen Score einzuholen, und dass die vorgenannten Daten an deren Datenbanken ubermittelt werden.
+
+- befreien Sie PayPal diesbezuglich vom Bankgeheimnis.
+
+Wie nutzt eine Kreditauskunftei Daten uber "negatives Verhalten" und
+Adressdaten fur Bonitatsbewertungen?
+
+Die Kreditauskunftei speichert und nutzt die Daten, die sie erhalt. Die
+Nutzung umfasst die Berechnung eines Wahrscheinlichkeitswertes auf Basis der
+Daten, die der Auskunftei zur Verfugung stehen, um das Kreditrisiko
+einzuschatzen (Score). Fur die Berechnung des Scores kann die
+Kreditauskunftei, basierend auf einem mathematisch-statistischem Verfahren,
+auch Adressdaten nutzen. Die empfangenen Daten werden moglicherweise an
+Vertragspartner in der Europaischen Union und in der Schweiz ubertragen, um
+diesen Dritten Informationen zur Beurteilung der Kreditwurdigkeit von
+naturlichen Personen zu geben. Vertragspartner der Kreditauskunftei sind
+Unternehmen, die aufgrund ihrer Angebote ein finanzielles Kreditrisiko
+ubernehmen (insbesondere Finanzinstitute, Kreditkartenunternehmen,
+Leasingunternehmen, aber auch Handelsunternehmen,
+Telekommunikationsunternehmen, Energieversorger, Versicherungen und
+Inkassounternehmen). Die Kreditauskunftei wird diesen Kunden nur dann
+Informationen zur Verfugung stellen, wenn diese ein legitimes Interesse im
+Einzelfall darlegen konnen, dass sie solche Informationen benotigen, und die
+Übertragung der Informationen nach Abwagung aller beteiligten Interessen
+zulassig ist. Daher kann es sein, dass die Informationen, die Vertragspartnern
+zuganglich gemacht werden, unterschiedlich sein konnen.  
+  
+Wie erfahren Sie mehr?  
+  
+Sie konnen die Kreditauskunfteien in Deutschland kontaktieren und eine
+Eigenauskunft bezuglich der uber Sie gespeicherten Informationen anfordern.
+Die Informationen, die uber Sie gespeichert sind, konnen von Auskunftei zu
+Auskunftei verschieden sein, so dass es sinnvoll erscheint, samtliche
+Auskunfteien zu kontaktieren.
+
+Zuruck nach oben
+
+
+
+  * (C) 1999-2017 PayPal. Alle Rechte vorbehalten.
+  * Impressum
+  * Datenschutz
+  * AGB
+  * Feedback zur Website
+

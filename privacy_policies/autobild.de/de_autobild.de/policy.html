@@ -1,0 +1,1505 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+  <head>
+	  <script src="//cdn.optimizely.com/js/8091130321.js"></script>
+
+				<title>Datenschutz - autobild.de</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=7, IE=9, IE=10" /><link rel="canonical" href="http://www.autobild.de/sonderseite/datenschutz_217127.html"/>	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+<meta name="robots" content="NOODP,NOINDEX" />
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="content-language" content="de" />
+
+
+<link rel="shortcut icon" href="http://i.auto-bild.de/ab/images/base/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Schlagzeilen - autobild.de als RSS-Feed" href="http://feeds.feedburner.com/autobild-news" />
+<meta property="fb:pages" content="48766015974" />
+
+<meta property="fb:app_id" content="344359888988150" /><link href="http://i.auto-bild.de/css/styles20170515.css" rel="stylesheet" type="text/css" />
+<!--[if IE 7 | IE 8]>
+    <link href="http://i.auto-bild.de/css/ie7_20170515.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lte IE 6]>
+    <link href="http://i.auto-bild.de/css/ie6_20170515.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript">
+		try {document.execCommand("BackgroundImageCache", false, true);} catch (e) {}
+	</script>
+<![endif]-->
+
+
+<link href="http://i.auto-bild.de/css/module/revert.css" rel="stylesheet" type="text/css" />
+
+	<link href="http://i.auto-bild.de/css/navi.css?0" media="all" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://i.auto-bild.de/ab/javascripts/base/jquery-1.7.1.min.js?1434619635"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/ab/javascripts/base/aubigl-pack.js?1434619635"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/ab/javascripts/base/ipad.js?1434619635"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/ab/javascripts/suche/autocomplete.js?1434619635"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/ab/javascripts/suche/jquery-ui-1.8.custom.min.js?1434619635"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/js/ir_script.js"></script><script type="text/javascript" src="http://i.auto-bild.de/js/rd/forms.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/js/rd/flyout.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/js/rd/overlay.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/js/rd/tabs.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/js/rd/vote.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/js/rd/tooltip.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/js/rd/textstrecke.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/js/rd/default.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/ab/javascripts/base/cookienotifier.min.js"></script>
+<script type="text/javascript" src="http://i.auto-bild.de/ab/javascripts/base/session.current-user.min.js"></script>
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+<script type="text/javascript">
+
+    function callGAEvent (event) {
+
+        var type = jQuery.parseJSON('[59270,59276,"60291"]');
+
+        var action = event.data.action;
+        var label = event.data.label;
+        var value = event.data.value;
+
+        if(typeof(_gaq) != 'undefined' && action && label && value) {
+            _gaq.push(['t3._trackEvent', action, label, value]);
+        }
+    }
+
+    jQuery(document).ready(function($) {
+        // head
+        $('#search .submitcontent input').on('click', {'action' : 'Suche', 'label' : 'Header', 'value' : 'Submit' }, callGAEvent );
+
+        var type = $.parseJSON('[59270,59276,"60291"]');
+
+        var primary = 59270;
+        var navigationNodeId = 59276;
+        var themePageNodeId = 63469;
+        var searchNodeId = 60291;
+
+        var label = 'undefined';
+
+        var element = $('#content').find('.searchbox .submitcontent input');
+
+        if (type.length == 3 && type[1] == navigationNodeId) { // Indexseite
+            label = 'IndexseitenFooter'; // [59270,59276,60371]
+        } else if (type.length == 4 && type[2] == themePageNodeId) { // Themenseite
+            label = 'ThemenFooter'; // [59270,59276,63469,63854]
+        } else if (type.length == 4 && type[2] == searchNodeId) { // Suche
+            // [59270,59276,60291,"61218"]
+            var box = $('#suche .searchbox');
+            label = 'SucheTop';
+            for (var i=0; i < box.length; i++) {
+
+                if (i == 1) {
+                    label = 'SucheBottom';
+                }
+
+                element = $(box[i]).find('.submitcontent input');
+                if (element) {
+                    element.on('click', {'action' : 'Suche', 'label' : label, 'value' : 'Submit' }, callGAEvent );
+                }
+            }
+            element = null;
+        } else if (type.length > 0 && type[0] == primary){
+            label = 'ArtikelFooter'; // Articles can be everywhere
+        }
+
+        if (element) {
+            element.on('click', {'action' : 'Suche', 'label' : label, 'value' : 'Submit' }, callGAEvent );
+        }
+    });
+
+</script>
+
+
+<script type="text/javascript">
+    // <![CDATA[
+    function newsletter_overlay() {
+
+        
+        var params = "";
+
+        if (arguments[0] && arguments[0]["url"] && typeof(arguments[0]["url"]) == "string") {
+            params += "url=" + arguments[0]["url"] + "&";
+        }
+        if (arguments[0] && arguments[0]["newsletterid"] && typeof(arguments[0]["newsletterid"]) == "string") {
+            params += "newsletterid=" + arguments[0]["newsletterid"];
+        }
+
+        // Für den MSIE müssen Flash/Iframe Layer ausgeblendet werden.
+        if ($.browser.msie && (parseInt($.browser.version) < 10)) {
+            $('iframe,object').hide();
+        }
+
+        $.ajax({type: 'POST',url: 'http://www.autobild.de/php_incl/newsletteroverlay.php',data: params,success: function(data) {if ($('#overlay').length == 0) {$('body').append(data);}overlay();}});
+
+            }
+    // ]]>
+</script>
+
+		<script type="text/javascript" src="//ec-ns.sascdn.com/diff/251/pages/autobild.js"></script>
+
+		<!-- ï¿½berschreiben des SmartAdServer Aufrufs mit dem SmartAdServerAjax Aufruf -->
+		<script type="text/javascript" language="JavaScript">
+			// <![CDATA[
+				if (typeof SmartAdServer === "function") {
+					SmartAdServer = (function() {
+				  		return function() {
+				    		SmartAdServerAjax.apply(null, arguments);
+				  		}
+					})();
+				}
+			// ]]>
+		</script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<script type="text/javascript">
+	// <![CDATA[
+	var IRUI = "";
+	var AUBIID = ""; 	// ]]>
+</script>
+
+	  </head>
+	<body id="pg-article" class="mandant_online">
+		<div style="position:absolute; top:-10px; left:-10px; display:none;" id="tracking_container">
+
+<script type="text/javascript" language="JavaScript">
+// <![CDATA[
+var n_pbt = "";
+// ]]>
+</script>
+
+    <!-- SZM VERSION="2.0" -->
+    <script type="text/javascript">
+        var iam_data = {"st":"autobild","cp":"ab-aub-c-01","mg":"yes","sv":"in"};
+        iom.c(iam_data);
+    </script>
+    <!--/SZM -->
+
+<script type="text/javascript">
+    // <![CDATA[
+        var google_tracking = '/autobild_de/sonstiges/datenschutz [ivw:ab-aub-c-01]';
+    var _gaq = _gaq || [];
+    try {
+        _gaq.push(['_setAccount', 'UA-333980-1'],
+                ['_setDomainName', '.autobild.de'],
+                ['_gat._anonymizeIp'],
+                ['_trackPageview', '/autobild_de/sonstiges/datenschutz [ivw:ab-aub-c-01]']
+        );
+    } catch(err) {}
+    // ]]>
+</script>
+<script type="text/javascript">
+    try {
+        _gaq.push(['t2._setAccount', 'UA-333980-7'],
+                ['t2._setDomainName', '.autobild.de'],
+                ['t2._gat._anonymizeIp']
+        );
+        _gaq.push(function() {
+            var pageTracker = _gat._getTrackerByName('t2');
+        });
+    } catch(err) {}
+</script>
+
+</div>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KLSQ4G"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KLSQ4G');</script>
+<!-- End Google Tag Manager --><script type="text/javascript">
+    var callGAEvent = callGAEvent || function callGAEvent (event) {
+            var action = event.data.action;
+            var label = event.data.label;
+            var value = event.data.value;
+
+            if(typeof(_gaq) != 'undefined' && action && label && value) {
+                _gaq.push(['t3._trackEvent', action, label, value]);
+            }
+        };
+
+    jQuery(document).ready(function($) {
+
+        var articleContent = $('.articlecontent');
+
+        // each link in a "subtitle" should have a "click"-event with "InlineArtikel", "Headline" and "Link"
+        articleContent.find('h3.subtitle a').on('click', {'action' : 'InlineArtikel', 'label' : 'Headline', 'value' : 'Link'}, callGAEvent);
+
+        // each link in a "paragraph" should have a "click"-event with "InlineArtikel", "Paragraph" and "Link"
+        articleContent.find('> a[href!=#]').on('click', {'action' : 'InlineArtikel', 'label' : 'Paragraph', 'value' : 'Link'}, callGAEvent);
+        articleContent.find('strong > a[href!=#]').on('click', {'action' : 'InlineArtikel', 'label' : 'Paragraph', 'value' : 'Link'}, callGAEvent);
+
+        // each link in a "crossreference" should have a "click"-event with "InlineArtikel", "ReadMore" and "Link"
+        articleContent.find('.crossreference a').on('click', {'action' : 'InlineArtikel', 'label' : 'ReadMore', 'value' : 'Link'}, callGAEvent);
+
+        // the button in a "aktionsbalken" should habe a "click"-event with "InlineArtikel", "Aktionsbalken" and "Button"
+        articleContent.find('.inlineslot a.buttoncontent').on('click', {'action' : 'InlineArtikel', 'label' : 'Aktionsbalken', 'value' : 'Link'}, callGAEvent);
+
+        // each image in a "inline gallery" should have a "click"-event with "InlineArtikel", "InlineGallery" and "Image" (with its Position)
+        var inlineGallery = articleContent.find('.inlinefotostrecke');
+        var images = inlineGallery.find('.pictureblock img');
+        images.each(
+            function(index, element) {
+                $(element).on(
+                    'click',
+                    {'action' : 'InlineArtikel', 'label' : 'InlineGallery', 'value' : 'Image'+(index+1) },
+                    callGAEvent
+                );
+            }
+        );
+        // the button in a "inline gallery" should have a "click"-event with "InlineArtikel", "InlineGallery" and "Button"
+        inlineGallery.find('.button a').on('click', {'action' : 'InlineArtikel', 'label' : 'InlineGallery', 'value' : 'Button'}, callGAEvent);
+    });
+</script>
+  <script type="text/javascript">
+  try {
+	  var _gaq = _gaq || [];
+	  _gaq.push (['t3._setAccount', 'UA-333980-18'],
+			  ['t3._setDomainName', '.autobild.de'],
+			  ['t3._gat._anonymizeIp'],
+			  ['t3._trackPageview']
+	  );
+	  (function() {
+		  var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+		  ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+  } catch(err) {}
+  </script>
+
+    <script type="text/javascript">
+	  var utag_data = {"page_type":"article","page_name":"Datenschutz - autobild.de","cid":217127,"bid":216721,"platform":"desktop","subbrand":"autobild","modb_brands":[],"modb_models":[],"modb_generations":[]};
+  </script>
+  <script type="text/javascript">
+	  (function(a,b,c,d){
+		  a='//tags.tiqcdn.com/utag/axelspringer/abo-autobild.de/prod/utag.js';
+		  b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+		  a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+	  })();
+  </script>
+
+  			<div id="ad-placement-topofpage">
+				<div id="superbanner">
+					<script type="text/javascript">
+                      <!--
+                    sas_renderMode = 0;
+                    sas_pageid = '10017/(sonstige)';
+                    sas_formatid = 3648;
+                    sas_target = 'bid=216721';
+                    SmartAdServerAjax(sas_pageid,sas_formatid,sas_target);
+                  //-->
+                </script><script type="text/javascript">
+                    sas_loadHandler = function(f) {
+                      if (f.id == "3651" && !f.hasAd) {
+                        sas_callAd(18913);
+                      }
+                    }
+                  </script><div id="richmedia"><script type="text/javascript">
+                      <!--
+                    sas_renderMode = 0;
+                    sas_pageid = '10017/(sonstige)';
+                    sas_formatid = 3651;
+                    sas_target = 'bid=216721';
+                    SmartAdServerAjax(sas_pageid,sas_formatid,sas_target);
+                  //-->
+                </script></div><div id="inRead"><script type="text/javascript">
+                      <!--
+                    sas_renderMode = 2;
+                    sas_pageid = '10017/(sonstige)';
+                    sas_formatid = 18913;
+                    sas_target = 'bid=216721';
+                    SmartAdServerAjax(sas_pageid,sas_formatid,sas_target);
+                  //-->
+                </script></div>				</div>
+				<div id="skyscraper">
+					<div id="skyscrapercontent">
+						<script type="text/javascript">
+                      <!--
+                    sas_renderMode = 0;
+                    sas_pageid = '10017/(sonstige)';
+                    sas_formatid = 3650;
+                    sas_target = 'bid=216721';
+                    SmartAdServerAjax(sas_pageid,sas_formatid,sas_target);
+                  //-->
+                </script>					</div>
+				</div>
+			</div>
+					<div id="pagemargins">
+				
+<div id="header" class="clearfix">
+	<div id="logo"><a id="header_logo" href="http://www.autobild.de" title="Zur Startseite von autobild.de"></a></div>
+	<ul id="mandant" class="clearfix">
+		<li><a href="http://www.autobild.de/sportscars/" class="sportscars" title="AUTOBILD Sportscars"><span>Sportscars</span></a></li>
+		<li><a href="http://www.autobild.de/allrad/" class="allrad" title="AUTOBILD Allrad"><span>Allrad</span></a></li>
+		<li><a href="http://www.autobild.de/tuning/" class="tuning" title="AUTOBILD Tuning"><span>Tuning</span></a></li>
+		<li><a href="http://www.autobild.de/motorsport/" class="motorsport" title="AUTOBILD Motorsport"><span>Motorsport</span></a></li>
+		<li><a href="http://www.autobild.de/klassik/index.html" class="klassik" title="AUTOBILD Klassik"><span>Klassik</span></a></li>
+		<li><a href="http://www.autobild.de/autotest/" class="autotest" title="AUTOBILD Autotest"><span>Autotest</span></a></li>
+		<li><a href="http://www.autobild.de/ratgeber/wohnmobile/" class="reisemobil" title="AUTOBILD Reisemobil"><span>Reisemobil</span></a></li>
+		<li><a href="http://www.autobild.de/specials/connected-car/" class="connectedcar" title="Connected Car"><span>Connected Car</span></a></li>
+		<li><a href="http://www.autohaus24.de/" class="autohaus24" title="Autohaus 24"><span>Autohaus 24</span></a></li>
+		<li>
+			<a class="login" title="Login" href="https://www.autobild.de/usercard/login.html">Login</a>		</li>
+	</ul>
+	<ul id="toplinks" class="clearfix">
+		
+					<li>
+						<a href="https://marketing.autobild.de/npzfzq"  title="VIP-LOUNGE" class="cttag-hdr-link">
+							<span>VIP-LOUNGE</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="https://marketing.autobild.de/o59rye"  title="Abo" class="cttag-hdr-link">
+							<span>Abo</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="http://www.autobild.de/app/"  target="_blank" title="App" class="cttag-hdr-link">
+							<span>App</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="http://www.autobild.de/newsletter/"  title="Newsletter" class="cttag-hdr-link">
+							<span>Newsletter</span>
+						</a>
+					</li>
+
+					<li>
+						<a href="http://www.autobild.de/rss/rss_uebersicht.html"  title="RSS" class="cttag-hdr-link">
+							<span>RSS</span>
+						</a>
+					</li>
+
+			</ul>
+	<form id="search" action="http://www.autobild.de/suche" method="get">
+		<fieldset class="clearfix">
+			<div class="textinput"><div class="textinputcontent"><input type="text" class="searchboxinput9" title="Suchbegriff oder Inserats-ID eingeben" value="Suchbegriff oder Inserats-ID eingeben" name="q"/></div></div>
+			<div class="submit"><div class="submitcontent"><span><input type="submit" value="Suchen" /></span></div></div>
+		</fieldset>
+	</form>
+	<div class="navigation">
+		<ul id="navigation" class="clearfix">
+								<li>
+						<a href="http://www.autobild.de/marken-modelle/" class="menu cttag-hdr-flyout">
+							AUTO-KATALOG						</a>
+					   
+							<ul class="subnavigation">
+								<li>
+									<div class="subcontent">
+										<p class="title">Beliebte Marken</p>
+										<div class="interspacebox clearfix">
+											<div class="boxblock clearfix">
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/audi.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/audi/">Audi</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/bmw.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/bmw/">BMW</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/citoen.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/citroen/">Citroën</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/dacia.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/dacia/">Dacia</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/ford.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/ford/">Ford</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/hyundai.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/hyundai/">Hyundai</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/mazda.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/mazda/">Mazda</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/mercedes.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/mercedes-benz/">Mercedes-Benz</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/opel.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/opel/">Opel</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/renault.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/renault/">Renault</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/seat.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/seat/">Seat</a></div>
+												</div>
+												<div class="teaser clearfix">
+													<div class="pictureblock"><img height="86" width="134" alt="" src="http://i.auto-bild.de/i/static/flyout/marken/vw.jpg" /></div>
+													<div class="textblock expand"><a href="http://www.autobild.de/marken-modelle/vw/">VW</a></div>
+												</div>
+											</div>
+										</div>
+										<ul class="sectionlinks clearfix">
+											<li><a href="http://www.autobild.de/marken-modelle">Alle Marken</a></li>
+											<li><a href="http://www.autobild.de/klassik/marken">Klassische Marken</a></li>
+										</ul>
+										<div class="shadow"><div class="s1"></div><div class="s2"></div><div class="s3"></div><div class="s4"></div><div class="clearfix"><div class="s5"><div class="button"><a class="buttoncontent" href="javascript:void(0);"><span><span class="close">Schliessen</span></span></a></div></div><div class="s6"></div></div></div>
+									</div>
+								</li>
+							</ul>					</li>
+										<li id="nav1_test">
+						<a href="http://www.autobild.de/tests/" class="menu cttag-hdr-flyout">
+							Test						</a>
+					   <ul class="subnavigation">
+	<li>
+		<div class="subcontent">
+			<div class="mainrowcontent clearfix">
+				<div class="submenu navigationboxm clearfix">
+	<p class="title">Test</p>
+	<div class="box clearfix">
+		<div class="boxcontent">
+			
+								<a href="http://www.autobild.de/tests/fahrberichte/"><span>Fahrbericht</span></a>
+								<a href="http://www.autobild.de/tests/einzeltests/"><span>Einzeltest</span></a>
+								<a href="http://www.autobild.de/tests/vergleichstests/"><span>Vergleichstest</span></a>
+								<a href="http://www.autobild.de/tests/tracktest/"><span>Tracktest</span></a>
+								<a href="http://www.autobild.de/tests/dauertests/"><span>Dauertest</span></a>
+								<a href="http://www.autobild.de/tests/crashtests/"><span>Crashtest</span></a>
+								<a href="http://www.autobild.de/tests/gebrauchtwagen/"><span>Gebrauchtwagentest</span></a></div><div class="boxcontent">
+								<a href="http://www.autobild.de/ratgeber/reifen/"><span>Reifentests</span></a>
+								<a href="http://www.autobild.de/ratgeber/autoteile/"><span>Zubeh&ouml;rtests</span></a>
+								<a href="http://www.autobild.de/tests/kaufberatung/"><span>Kaufberatung</span></a>
+								<a href="http://www.autobild.de/tests/sitzproben/"><span>Sitzprobe</span></a>		</div>
+	</div>
+</div><div class="teasers">
+	<div class="teaser clearfix videomark">
+		<div class="pictureblock"><img width="219" height="146" src="http://i.auto-bild.de/ir_img/1/2/9/4/4/2/0/Hyundai-i30-N-2016-Erlkoenig-Vorstellung-219x146-a7352635c24fdd99.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/hyundai-i30-n-2017-5855298.html">Hyundai i30 N Erlk&ouml;nig (2017): Test</a></p>
+			<p class="headline">Hyundais Angriff auf den Golf GTI</p>
+			<p class="text">Hyundai greift in der Kompaktsportler-Klasse an! Der i30 N ist das erste Modell der neuen N-Brand. Fahrbericht!</p>
+			<p class="link">So f&auml;hrt der GTI-Gegner</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/8/7/7/1/7/9/1827-106x60-cd40740762825a66.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/neu-oder-gebraucht-kaufberatung-teil-2-11689827.html">Neu oder gebraucht? Kaufberatung, Teil 2</a></p>
+			<p class="headline">Die Neuwagen schlagen zur&uuml;ck</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/8/7/7/3/7/7/1827-106x60-581ee6ded4e2cd38.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/50-jahre-amg-fahrberichte-11691263.html">50 Jahre AMG: Fahrberichte</a></p>
+			<p class="headline">F&uuml;nf Legenden im Test</p>
+		</div>
+	</div>
+</div>    <script type="text/javascript">
+        <!--
+            document.write('<iframe height="120" width="300" scrolling="no" frameborder="0" id="adSlot_sightloaderSubNavi60358" name="adSlot_sightloaderSubNavi60358" src="" style="display:none;"><\/iframe>');
+            de.cbild.iframeData.push({id:"sightloaderSubNavi60358", url:"http://ww251.smartadserver.com/call/pubj/10017/(themen/testberichte_index)/15889/S/[timestamp]/?"});
+        // -->
+    </script>
+    			</div>
+			<div class="shadow">
+				<div class="s1"></div>
+				<div class="s2"></div>
+				<div class="s3"></div>
+				<div class="s4"></div>
+				<div class="clearfix">
+					<div class="s5">
+						<div class="button">
+							<a class="buttoncontent" href="javascript:void(0);"><span><span class="close">Schliessen</span></span></a>
+						</div>
+					</div>
+					<div class="s6"></div>
+				</div>
+			</div>
+		</div>
+	</li>
+</ul>					</li>
+										<li id="nav1_news">
+						<a href="http://www.autobild.de/news/" class="menu cttag-hdr-flyout">
+							News						</a>
+					   <ul class="subnavigation">
+	<li>
+		<div class="subcontent">
+			<div class="mainrowcontent clearfix">
+				<div class="submenu navigationboxs clearfix">
+	<p class="title">News</p>
+	<div class="box clearfix">
+		<div class="boxcontent">
+			
+								<a href="http://www.autobild.de/messen/"><span>Messen</span></a>
+								<a href="http://www.autobild.de/autos-der-zukunft/"><span>Autos der Zukunft</span></a>
+								<a href="http://www.autobild.de/news/wirtschaft/"><span>Wirtschaft</span></a>
+								<a href="http://www.autobild.de/news/verkehr/"><span>Verkehr</span></a>
+								<a href="http://www.autobild.de/news/rueckrufe/"><span>R&uuml;ckrufe</span></a>
+								<a href="http://www.autobild.de/news/neuzulassungen/"><span>Neuzulassungen</span></a>
+								<a href="http://www.autobild.de/umfrage/index.html"><span>Umfragen</span></a>
+								<a href="http://www.autobild.de/specials/nutzfahrzeuge/"><span>Nutzfahrzeuge</span></a>		</div>
+	</div>
+</div><div class="teasers">
+	<div class="teaser clearfix">
+		<div class="pictureblock"><img width="219" height="146" src="http://i.auto-bild.de/ir_img/1/7/6/8/6/9/3/Formel-1-Sebastian-Vettel-219x146-588bbbc965a1ed19.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/formel-1-vettel-ist-fuer-juventus-turin-10923595.html">Formel 1: Vettel ist f&uuml;r Juventus Turin</a></p>
+			<p class="headline">Vettels Fu&szlig;ballheld war Matth&auml;us</p>
+			<p class="text">Vor dem Finale der UEFA Champions League spricht Sebastian Vettel &uuml;ber seine Anf&auml;nge im Fu&szlig;ball gesprochen.</p>
+			<p class="link">&quot;Ronaldo der kompletteste Fu&szlig;baller&quot;</p>
+		</div>
+	</div>
+</div><div class="teasers">
+	<div class="teaser clearfix">
+		<div class="pictureblock"><img width="219" height="146" src="http://i.auto-bild.de/ir_img/1/4/6/1/8/1/7/Kaufpraemie-fuer-E-Autos-219x146-003e7b64236dd959.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/kaufpraemie-fuer-elektroautos-infos-und-antragsformular-8535657.html">Kaufpr&auml;mie f&uuml;r Elektroautos</a></p>
+			<p class="headline">Zoe am meisten gef&ouml;rdert</p>
+			<p class="text">Neue Zwischenbilanz zur Kaufpr&auml;mie f&uuml;r E-Autos und Hybride: Am meisten gef&ouml;rdert ist ein Franzose.</p>
+			<p class="link">F&ouml;rderung von Elektroautos</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/1/7/9/8/6/0/1827-106x60-c801ea993e5c60cf.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/motorrad-zu-fahrzeug-kommunikation-5135654.html">Motorrad-zu-Fahrzeug-Kommunikation</a></p>
+			<p class="headline">Neuer Kollisionsschutz</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/6/8/9/2/2/1/1827-106x60-01192b4d1f1028b3.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/bmw-neuheiten-2017-2018-2019-2020-und-2021-1292770.html">BMW: Neue Autos bis 2021</a></p>
+			<p class="headline">8er und Z4 kommen zur&uuml;ck</p>
+		</div>
+	</div>
+</div>    <script type="text/javascript">
+        <!--
+            document.write('<iframe height="120" width="300" scrolling="no" frameborder="0" id="adSlot_sightloaderSubNavi60371" name="adSlot_sightloaderSubNavi60371" src="" style="display:none;"><\/iframe>');
+            de.cbild.iframeData.push({id:"sightloaderSubNavi60371", url:"http://ww251.smartadserver.com/call/pubj/10017/(themen/news_index)/15889/S/[timestamp]/?"});
+        // -->
+    </script>
+    			</div>
+			<div class="shadow">
+				<div class="s1"></div>
+				<div class="s2"></div>
+				<div class="s3"></div>
+				<div class="s4"></div>
+				<div class="clearfix">
+					<div class="s5">
+						<div class="button">
+							<a class="buttoncontent" href="javascript:void(0);"><span><span class="close">Schliessen</span></span></a>
+						</div>
+					</div>
+					<div class="s6"></div>
+				</div>
+			</div>
+		</div>
+	</li>
+</ul>					</li>
+										<li id="nav1_ratgeber">
+						<a href="http://www.autobild.de/ratgeber/" class="menu cttag-hdr-flyout">
+							Ratgeber						</a>
+					   <ul class="subnavigation">
+	<li>
+		<div class="subcontent">
+			<div class="mainrowcontent clearfix">
+				<div class="submenu navigationboxm clearfix">
+	<p class="title">Ratgeber</p>
+	<div class="box clearfix">
+		<div class="boxcontent">
+			
+								<a href="http://www.autobild.de/ratgeber/autokauf/"><span>Autokauf</span></a>
+								<a href="http://www.autobild.de/ratgeber/autofinanzierung/"><span>Autofinanzierung</span></a>
+								<a href="http://www.autobild.de/ratgeber/pflege/"><span>Autopflege</span></a>
+								<a href="http://www.autobild.de/ratgeber/autoteile/"><span>Autoteile</span></a>
+								<a href="http://www.autobild.de/ratgeber/carsharing/"><span>Carsharing</span></a>
+								<a href="http://www.autobild.de/specials/connected-car/"><span>Connected Car</span></a>
+								<a href="http://www.autobild.de/ratgeber/felgen/"><span>Felgen</span></a>
+								<a href="http://www.autobild.de/ratgeber/fuehrerschein/"><span>F&uuml;hrerschein</span></a>
+								<a href="http://www.autobild.de/kaufberatung/"><span>Kaufberatung</span></a>
+								<a href="http://www.autobild.de/ratgeber/kfz-kennzeichen/"><span>Kfz-Kennzeichen</span></a></div><div class="boxcontent">
+								<a href="http://www.autobild.de/kfz-steuer/"><span>Kfz-Steuer</span></a>
+								<a href="http://www.autobild.de/ratgeber/kfz-versicherung/"><span>Kfz-Versicherung</span></a>
+								<a href="http://www.autobild.de/kindersitze/"><span>Kindersitze</span></a>
+								<a href="http://www.autobild.de/ratgeber/recht/"><span>Recht</span></a>
+								<a href="http://www.autobild.de/ratgeber/reifen/"><span>Reifen</span></a>
+								<a href="http://www.autobild.de/ratgeber/reparatur-technik/"><span>Reparatur &amp; Technik</span></a>
+								<a href="http://www.autobild.de/ratgeber/sicherheit/"><span>Sicherheit</span></a>
+								<a href="http://www.autobild.de/ratgeber/spritsparen/"><span>Spritsparen</span></a>
+								<a href="http://www.autobild.de/ratgeber/wohnmobile/"><span>Wohnmobile</span></a>		</div>
+	</div>
+</div><div class="teasers">
+	<div class="teaser clearfix">
+		<div class="pictureblock"><img width="219" height="146" src="http://i.auto-bild.de/ir_img/1/2/8/3/6/5/3/Dach-Heck-Kupplung-welche-Fahrradtraeger-sind-die-besten-219x146-22e8dc98f80e64a6.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/fahrradtraeger-systeme-im-vergleich-5782256.html">Fahrradtr&auml;ger: Systeme im Vergleich</a></p>
+			<p class="headline">Diese Fahrradtr&auml;ger gibt es</p>
+			<p class="text">Dachtr&auml;ger, Hecktr&auml;ger, Kupplungstr&auml;ger &#150; welche Systeme gibt es und welcher Fahrradtr&auml;ger ist der richtige f&uuml;r Sie? AUTO BILD gibt Tipps.</p>
+			<p class="link">Ratgeber: Fahrradträger</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/8/4/3/8/1/9/1827-106x60-6ab99b6e3bab270b.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/sommerreifen-testsieger-2017-11452237.html">Sommerreifen: Testsieger 2017</a></p>
+			<p class="headline">Die besten Reifen der Saison</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/6/8/1/1/5/5/1827-106x60-31760817b17a466f.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/motorradfahren-schnell-zum-fuehrerschein-1273311.html">Motorrad: Schnell zum F&uuml;hrerschein</a></p>
+			<p class="headline">Motorradfahrer in f&uuml;nf Tagen</p>
+		</div>
+	</div>
+</div>    <script type="text/javascript">
+        <!--
+            document.write('<iframe height="120" width="300" scrolling="no" frameborder="0" id="adSlot_sightloaderSubNavi60385" name="adSlot_sightloaderSubNavi60385" src="" style="display:none;"><\/iframe>');
+            de.cbild.iframeData.push({id:"sightloaderSubNavi60385", url:"http://ww251.smartadserver.com/call/pubj/10017/(service_index)/15889/S/[timestamp]/?"});
+        // -->
+    </script>
+    			</div>
+			<div class="shadow">
+				<div class="s1"></div>
+				<div class="s2"></div>
+				<div class="s3"></div>
+				<div class="s4"></div>
+				<div class="clearfix">
+					<div class="s5">
+						<div class="button">
+							<a class="buttoncontent" href="javascript:void(0);"><span><span class="close">Schliessen</span></span></a>
+						</div>
+					</div>
+					<div class="s6"></div>
+				</div>
+			</div>
+		</div>
+	</li>
+</ul>					</li>
+										<li>
+						<a href="http://gebrauchtwagen.autobild.de/" class="menu cttag-hdr-flyout">
+							Automarkt						</a>
+					   <ul class="subnavigation">
+	<li>
+		<div class="subcontent">
+			<div class="mainrowcontent clearfix">
+				<div class="submenu navigationboxs clearfix">
+	<p class="title">Automarkt</p>
+	<div class="box clearfix">
+		<div class="boxcontent">
+			
+								<a href="http://gebrauchtwagen.autobild.de/"><span>Gebrauchtwagen kaufen</span></a>
+								<a href="http://reisemobilmarkt.autobild.de"><span>Wohnmobile kaufen</span></a>
+								<a href="http://neuwagen.autobild.de/"><span>Neuwagen suchen</span></a>
+								<a href="http://konfigurator.autobild.de/"><span>Neuwagenkonfigurator</span></a>
+								<a href="http://www.autobild.de/specials/probefahrten/"><span>Probefahrten</span></a>
+								<a href="http://www.autobild.de/fahrzeugbewertung-1764785.html"><span>Fahrzeugbewertung</span></a>
+								<a href="http://www.autobild.de/news/neuzulassungen/"><span>Neuzulassungen</span></a>
+								<a href="http://www.autobild.de/kaufberatung/"><span>Kaufberatung</span></a>		</div>
+	</div>
+</div><div class="teasers">
+	<div class="teaser clearfix">
+		<div class="pictureblock"><img width="219" height="146" src="http://i.auto-bild.de/ir_img/1/4/6/9/9/8/5/1855-219x146-89ea6c24e1b9329f.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://gebrauchtwagen.autobild.de/">Gebrauchtwagenmarkt</a></p>
+			<p class="headline">Gebrauchtwagen finden</p>
+			<p class="text">Mehr als 800.000 Inserate von H&auml;ndlern und Privatanbietern: Hier finden Sie Ihren passenden Gebrauchten! Auch Youngtimer und Oldtimer!</p>
+			<p class="link">Zum Gebrauchtwagenmarkt</p>
+		</div>
+	</div>
+</div><div class="teasers">
+	<div class="teaser clearfix">
+		<div class="pictureblock"><img width="219" height="146" src="http://i.auto-bild.de/ir_img/1/7/3/8/6/4/9/1855-219x146-e3cf4eea0cc42988.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://reisemobilmarkt.autobild.de/">Ein Service von AutoScout24</a></p>
+			<p class="headline">Neu: Traummobil finden!</p>
+			<p class="text">Im Reisemobilmarkt k&ouml;nnen Sie bei autobild.de jetzt nach gebrauchten Wohnmobilen st&ouml;bern oder selbst ein Inserat aufgeben.</p>
+			<p class="link">Zur Wohnmobilbörse</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href=""></a></p>
+			<p class="headline"></p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href=""></a></p>
+			<p class="headline"></p>
+		</div>
+	</div>
+</div>    <script type="text/javascript">
+        <!--
+            document.write('<iframe height="120" width="300" scrolling="no" frameborder="0" id="adSlot_sightloaderSubNavi60293" name="adSlot_sightloaderSubNavi60293" src="" style="display:none;"><\/iframe>');
+            de.cbild.iframeData.push({id:"sightloaderSubNavi60293", url:"http://ww251.smartadserver.com/call/pubj/10017/(automarkt_index)/15889/S/[timestamp]/?"});
+        // -->
+    </script>
+    			</div>
+			<div class="shadow">
+				<div class="s1"></div>
+				<div class="s2"></div>
+				<div class="s3"></div>
+				<div class="s4"></div>
+				<div class="clearfix">
+					<div class="s5">
+						<div class="button">
+							<a class="buttoncontent" href="javascript:void(0);"><span><span class="close">Schliessen</span></span></a>
+						</div>
+					</div>
+					<div class="s6"></div>
+				</div>
+			</div>
+		</div>
+	</li>
+</ul>					</li>
+										<li id="nav1_aktionen">
+						<a href="http://www.autobild.de/aktionen/" class="menu cttag-hdr-flyout">
+							Aktionen						</a>
+					   <ul class="subnavigation">
+	<li>
+		<div class="subcontent">
+			<div class="mainrowcontent clearfix">
+				<div class="submenu navigationboxl clearfix">
+	<p class="title">Aktionen</p>
+	<div class="box clearfix">
+		<div class="boxcontent">
+			
+								<a href="http://www.autobild.de/artikel/deutschlands-beste-werkstaetten-2017-2018-11642571.html"><span>1000 beste Werkst&auml;tten</span></a>
+								<a href="http://www.autobild.de/artikel/allradautos-des-jahres-2017-leserwahl-11183397.html"><span>Allrad-Auto des Jahres 2017</span></a>
+								<a href="http://www.autobild.de/heftarchiv/index.html"><span>Artikel kaufen</span></a>
+								<a href="https://marketing.autobild.de/npzg09" style="background: url('http://i.auto-bild.de/ir_img/8/4/5/6/8/3/viplounge-logo-flyout-de9c8cbe1b1a0a15.png') no-repeat right;" target="_blank" class=" extwin"><span>AUTO BILD VIP-LOUNGE</span></a>
+								<a href="http://www.autobild.de/specials/bfgoodrich-baja-pit-stop-challenge-2017/"><span>Baja Pit-Stop Challenge</span></a>
+								<a href="http://www.autobild.de/artikel/die-besten-marken-aller-klassen-11429796.html"><span>Beste Marken aller Klassen</span></a>
+								<a href="http://www.autobild.de/specials/special-caramia/"><span>CAR.A.MIA </span></a>
+								<a href="http://www.autobild.de/artikel/connected-car-award-2016-11133507.html"><span>Connected Car Award 2016</span></a>
+								<a href="http://www.autobild.de/index_5677633.html"><span>DBA 2017</span></a>
+								<a href="http://www.autobild.de/themen/auto-selbsthilfe-mit-ebay-motors_3555663.html"><span>eBay Motors Selbsthilfe</span></a></div><div class="boxcontent">
+								<a href="http://www.autobild.de/ford-stories/"><span>Ford Stories</span></a>
+								<a href="http://www.autobild.de/specials/special-goldenes-lenkrad/"><span>Goldenes Lenkrad 2016</span></a>
+								<a href="http://www.autobild.de/klassik/artikel/der-goldene-klassiker-2017-leserwahl-11561847.html"><span>Goldener Klassiker 2017</span></a>
+								<a href="http://www.autobild.de/artikel/goldenes-reisemobil-2017-11589989.html"><span>Goldenes Reisemobil 2017</span></a>
+								<a href="http://www.autobild.de/artikel/fahraktion-toyota-proace-verso-11566965.html"><span>Im Toyota Proace in den Urlaub</span></a>
+								<a href="http://www.autobild.de/raetsel"><span>Kreuzwortr&auml;tsel</span></a>
+								<a href="http://www.autobild.de/kummerkasten/"><span>Kummerkasten</span></a>
+								<a href="http://www.autobild.de/artikel/k-n-erfolgsgeheimnis-11553049.html"><span>K&amp;N Luftfilter gewinnen</span></a>
+								<a href="http://www.autobild.de/index_2288214.html"><span>Mazda Stories</span></a>
+								<a href="http://ad-emea.doubleclick.net/clk;278586921;105809201;j" target="_blank" class=" extwin"><span>Michelin High Performance</span></a></div><div class="boxcontent">
+								<a href="http://www.autobild.de/specials/miss-tuning/"><span>Miss Tuning </span></a>
+								<a href="http://www.autobild.de/artikel/motorsport-award-2016-10815177.html"><span>MOTORSPORT AWARD 2016</span></a>
+								<a href="http://www.autobild.de/specials/suv-special/"><span>SUV-Spezial</span></a>
+								<a href="http://www.autobild.de/index_3527101.html"><span>Toyota Stories</span></a>
+								<a href="http://www.autobild.de/artikel/trackday-motorsport-arena-oschersleben-11391903.html"><span>Trackday und Rennlizenzlehrgang</span></a>
+								<a href="http://www.autobild.de/artikel/attraktive-praemien-von-truma-11589873.html"><span>Truma Klima-Aktion</span></a>
+								<a href="http://www.autobild.de/specials/vw-special-deutschland-testet-die-zukunft/"><span>VW e-Autotest </span></a>		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/8/7/4/0/1/7/1827-106x60-5ff159016a162de5.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/partneraktion-falken-masters-of-excitement-11668689.html">Aktion: Falken &quot;Masters of Excitement&quot;</a></p>
+			<p class="headline">Live vom 24h-Rennen!</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix videomark">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/8/7/3/1/6/9/1827-106x60-9b1eed63c35ec9be.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/fahraktion-mazda-kurve-deines-lebens-2-11663287.html">Fahraktion: Mazda Kurve deines Lebens 2</a></p>
+			<p class="headline">Das n&auml;chste Level</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/5/7/2/5/0/1/1827-106x60-54cc03a2d3b32258.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/top-bestseller-bei-amazon-9418505.html">Amazon-Bestseller: Kindersitze</a></p>
+			<p class="headline">Die beliebtesten Kindersitze</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix labeling">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/8/7/2/7/6/9/1827-106x60-66313e09abe1715a.jpg" alt="" /></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/artikel/gewinnspiel-ford-fiesta-fahr-event-11660469.html">Gewinnspiel: Ford Fiesta Fahr-Event</a></p>
+			<p class="headline">2 Tage Fahrspa&szlig; gewinnen!</p>
+		</div>
+	</div>
+</div>			</div>
+			<div class="shadow">
+				<div class="s1"></div>
+				<div class="s2"></div>
+				<div class="s3"></div>
+				<div class="s4"></div>
+				<div class="clearfix">
+					<div class="s5">
+						<div class="button">
+							<a class="buttoncontent" href="javascript:void(0);"><span><span class="close">Schliessen</span></span></a>
+						</div>
+					</div>
+					<div class="s6"></div>
+				</div>
+			</div>
+		</div>
+	</li>
+</ul>					</li>
+										<li id="nav1_video">
+						<a href="http://www.autobild.de/videos/" class="menu cttag-hdr-flyout">
+							Videos						</a>
+					   <ul class="subnavigation">
+	<li>
+		<div class="subcontent">
+			<div class="mainrowcontent clearfix">
+				<div class="submenu navigationboxs clearfix">
+	<p class="title">Videos</p>
+	<div class="box clearfix">
+		<div class="boxcontent">
+			
+								<a href="http://www.autobild.de/index_5377086.html"><span>TV-MAGAZIN N24</span></a>
+								<a href="http://www.autobild.de/videos/tests/"><span>Test</span></a>
+								<a href="http://www.autobild.de/videos/fahrberichte/"><span>Fahrbericht</span></a>
+								<a href="http://www.autobild.de/videos/neuvorstellungen/"><span>Neuvorstellung</span></a>
+								<a href="http://www.autobild.de/videos/motorsounds/"><span>Motorsounds</span></a>
+								<a href="http://www.autobild.de/videos/erlkoenige/"><span>Erlk&ouml;nige</span></a>
+								<a href="http://www.autobild.de/videos/klassik/"><span>Klassik</span></a>
+								<a href="http://www.autobild.de/videos/messen/"><span>Messen</span></a>
+								<a href="http://www.autobild.de/videos/ratgeber/"><span>Ratgeber</span></a>
+								<a href="http://www.autobild.de/index_3398533.html"><span>Sportscars</span></a>		</div>
+	</div>
+</div><div class="teasers">
+	<div class="teaser clearfix">
+		<div class="pictureblock"><img width="219" height="146" src="http://i.auto-bild.de/ir_img/1/8/7/8/1/5/3/Ferienhaeuser-auf-Raedern-219x146-2e65a6de2e6f35cf.jpg" alt="" /><span class="overlayvideo">Video Abspielen</span></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/videos/video-urlaub-mit-caravan-und-wohnmobil-2017-sicherheitssysteme-komfort-11696931.html">Video: Urlaub mit Caravan &amp; Wohnmobil</a></p>
+			<p class="headline">Ferienh&auml;user auf R&auml;dern</p>
+			<p class="text">Komfortaustattungen und neuste Sicherheitssysteme machen Freizeitfahrzeuge zu  Ferienh&auml;usern auf R&auml;dern.</p>
+			<p class="link">Video: Urlaub mit Caravan und Wohnmobil (2017)</p>
+		</div>
+	</div>
+</div><div class="teasers">
+	<div class="teaser clearfix">
+		<div class="pictureblock"><img width="219" height="146" src="http://i.auto-bild.de/ir_img/1/8/7/7/9/9/7/Der-Kick-fuer-den-Supersportler-219x146-4163649b3134e376.jpg" alt="" /><span class="overlayvideo">Video Abspielen</span></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/videos/video-studie-online-autohaus-carspring-2017-11695871.html">Video: Die Autos der Fu&szlig;ball-Stars (2017)</a></p>
+			<p class="headline">5 Stunden Arbeit f&uuml;r einen Bugatti</p>
+			<p class="text">Wie lange m&uuml;ssen Star-Kicker auf dem Platz stehen, um ihre Supersport-Wagen zu bezahlen?</p>
+			<p class="link">Video: Die Autos der Kicker (2017)</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/8/7/7/1/5/5/1867-106x60-f372a13f0083c3bf.jpg" alt="" /><span class="overlayvideo">Video Abspielen</span></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/videos/video-vw-arteon-2017-volkswagen-11689635.html">Video: VW Arteon</a></p>
+			<p class="headline">VWs neues Topmodell</p>
+		</div>
+	</div>
+</div><div class="teaserm">
+	<div class="horizontal teaser clearfix">
+		<div class="pictureblock"><img width="106" height="60" src="http://i.auto-bild.de/ir_img/1/8/7/7/1/0/3/1867-106x60-58c10b4194c24f51.jpg" alt="" /><span class="overlayvideo">Video Abspielen</span></div>
+		<div class="textblock">
+			<p class="kicker"><a href="http://www.autobild.de/videos/video-quickshot-porsche-911-carrera-rsr-38-1993-11689251.html">Video: Quickshot Porsche 911 Carrera RSR 3.8</a></p>
+			<p class="headline">Elfer mit Seltenheitswert</p>
+		</div>
+	</div>
+</div>    <script type="text/javascript">
+        <!--
+            document.write('<iframe height="120" width="300" scrolling="no" frameborder="0" id="adSlot_sightloaderSubNavi60433" name="adSlot_sightloaderSubNavi60433" src="" style="display:none;"><\/iframe>');
+            de.cbild.iframeData.push({id:"sightloaderSubNavi60433", url:"http://ww251.smartadserver.com/call/pubj/10017/(autobildtv_index)/15889/S/[timestamp]/?"});
+        // -->
+    </script>
+    			</div>
+			<div class="shadow">
+				<div class="s1"></div>
+				<div class="s2"></div>
+				<div class="s3"></div>
+				<div class="s4"></div>
+				<div class="clearfix">
+					<div class="s5">
+						<div class="button">
+							<a class="buttoncontent" href="javascript:void(0);"><span><span class="close">Schliessen</span></span></a>
+						</div>
+					</div>
+					<div class="s6"></div>
+				</div>
+			</div>
+		</div>
+	</li>
+</ul>					</li>
+								
+<li id="nav1">
+	<ul id="sas_23447"></ul>
+<script type="text/javascript">
+                      <!--
+                    sas_renderMode = 0;
+                    sas_pageid = '10017/(sonstige)';
+                    sas_formatid = 23447;
+                    sas_target = 'bid=216721';
+                    SmartAdServerAjax(sas_pageid,sas_formatid,sas_target);
+                  //-->
+                </script></li>
+		</ul>
+
+		<div id="subnavigation" class="clearfix"></div>
+	</div>
+
+	<div class="socialmedia"><div class="hide clearfix"></div></div>			<p id="area">autobild.de</p>
+					</div><!-- / #header -->
+                <div id="cookienotifier" class="clearfix" style="display: none;">
+                    <div class="close"></div>
+                    <span class="infobox">Hinweis:</span>
+                    Durch die Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu.
+                    <a class="link" href="http://www.autobild.de/sonderseite/cookies_5486677.html">Mehr erfahren</a>
+                </div>
+				<div id="page">
+				
+					<div id="content" class="clearfix">
+						<div id="billboard" class="clearfix"><script type="text/javascript">
+                      <!--
+                    sas_renderMode = 0;
+                    sas_pageid = '10017/(sonstige)';
+                    sas_formatid = 5419;
+                    sas_target = 'bid=216721';
+                    SmartAdServerAjax(sas_pageid,sas_formatid,sas_target);
+                  //-->
+                </script></div>
+						
+<div class="mobileswitchWrapper">
+<link id="switchcss" type="text/css" rel="stylesheet" href="http://www.autobild.de/css/mobile/mobileswitch.css" />
+
+<div id="mobileswitchTop" class="mobileswitchTop clearfix" style="display: none;">
+	<div class="mobileswitchtext">
+		<p>Sie befinden sich in der Webansicht.<br />Jetzt Wechseln?</p>
+		<a class="mobilebutton" href="?noMobileCookie=1">Zur Mobilansicht</a>
+	</div>
+</div>
+<div id="mobileswitch" class="mobileswitchFix" style="display: none;">
+	<div class="mobileswitchcontent">
+		<input id="mobileswitchstatus" type="checkbox" />
+		<label for="mobileswitchstatus" id="mobileswitchview"><a href="?noMobileCookie=1"></a></label>
+	</div>
+</div>
+</div>
+
+<script type="text/javascript">
+
+	var aubi = window.aubi || {};
+	aubi.mobileSwitch = {
+		selectors: {
+			stylesheet: '#switchcss',
+			switchTop: {
+				switchSelector: '#mobileswitchTop',
+				targetSelectorToShow: '#page'
+			},
+			switchFix: {
+				switchSelector: '#mobileswitch',
+				targetSelectorToShow: 'body'
+			}
+		},
+		available : true,
+		mobileNotUsedButAvailable : {
+			url : '?noMobileCookie=1',
+			css : 'http://www.autobild.de/css/mobile/mobileswitch.css'
+		},
+		mobileNotAvailable : {
+			url : 'http://www.autobild.de?noMobileCookie=1',
+			css : 'http://www.autobild.de/css/mobile/mobileswitch2.css'
+		}
+	};
+	var MobileSwitch;
+	(function (MobileSwitch) {
+		function mobileBrowsers() {
+			var userAgent = navigator.userAgent.toLowerCase();
+			var isBlackBerry = /BlackBerry/i.test(userAgent);
+			var isWindowsPhone = /Windows Phone/i.test(userAgent);
+			var isIpad = /iPad/i.test(userAgent);
+			var isGalaxyTab = /android/i.test(userAgent) && !/Mobile Safari/i.test(userAgent);
+			return !isIpad
+				&& !isGalaxyTab
+				&& (isBlackBerry || isWindowsPhone || MobileSwitch.mobileBrowsersFixedPosition());
+		}
+		MobileSwitch.mobileBrowsers = mobileBrowsers;
+		function mobileBrowsersFixedPosition() {
+			var mobileFixed = false;
+			var isAndroidCrome = false;
+			var userAgent = navigator.userAgent.toLowerCase();
+			var isiDevice = /iphone|ipod/i.test(userAgent);
+			var isAndroid = /android/i.test(userAgent);
+			var isChrome = /chrome/i.test(userAgent);
+			if (isAndroid && isChrome) {
+				isAndroidCrome = true;
+			}
+			if (isiDevice || isAndroidCrome) {
+				mobileFixed = true;
+			}
+			return mobileFixed;
+		}
+		MobileSwitch.mobileBrowsersFixedPosition = mobileBrowsersFixedPosition;
+		/**
+		 * 1. Mobile Ansicht vorhanden
+		 *
+		 * Wenn ich mich auf einer Seite befinde, zu der es auch eine mobile Ansicht gibt, wird
+		 * ein Hinweis eingeblendet: "Sie befinden sich in der Webansicht."
+		 * Dieser Hinweis lÃ¤sst sich ausklappen, woraufhin ein Button "Zur Mobilansicht" erscheint.
+		 * Der Link fÃ¼hrt auf die gleiche Seite im Angebot in der Mobilansicht.
+		 * Der User bleibt fortan in der Mobilansicht, der Cookie wird entsprechend angepasst/gelÃ¶scht.
+		 * Dies gilt nur, wenn sich der User zuvor entschieden hat, auf die Web-Ansicht umzuschalten.
+		 *
+		 * 2. Mobile Ansicht nicht vorhanden
+		 *
+		 * Wenn ich mich auf einer Seite befinde, zu der es keine mobile Ansicht gibt,
+		 * Ã¤ndert sich der Hinweistext zu:
+		 * "Diese Seite ist mobil nicht verfÃ¼gbar."
+		 * Der Buttontext Ã¤ndert sich zu: "Zur mobilen Homepage" und fÃ¼hrt zur Mobilansicht der Home.
+		 * Es gibt keine Cookie-Ãnderung.
+		 *
+		 */
+		var Checker = (function () {
+			function Checker(mobileData) {
+				this.delayTime = 100;
+				this.globalData = mobileData;
+				this.available = mobileData.available;
+				if (this.available) {
+					this.data = mobileData.mobileNotUsedButAvailable;
+				}
+				else {
+					this.data = mobileData.mobileNotAvailable;
+				}
+			}
+			/**
+			 *
+			 * @param {JQuery} element
+			 * @param {number=} delayTime
+			 * @returns {boolean}
+			 */
+			Checker.prototype.delayedFollowLink = function (element, delayTime) {
+				setTimeout(function () {
+					var hostname = element.prop('hostname');
+					// check ob url auf unserer domain ist
+					if (/.*app-web\.local$/.test(hostname) || /.*autobild\.de$/.test(hostname)) {
+						window.location.assign(element.attr('href'));
+					}
+				}, delayTime || this.delayTime);
+				return false;
+			};
+			Checker.prototype.showSwitch = function () {
+				$(this.globalData.selectors.switchTop.switchSelector).remove();
+				var $mobileSwitch = $(this.globalData.selectors.switchFix.switchSelector);
+				this.showIn($(this.globalData.selectors.switchFix.targetSelectorToShow), $mobileSwitch);
+			};
+			Checker.prototype.showTopSwitch = function () {
+				$(this.globalData.selectors.switchFix.switchSelector).remove();
+				var $mobileSwitch = $(this.globalData.selectors.switchTop.switchSelector);
+				this.showIn($(this.globalData.selectors.switchTop.targetSelectorToShow), $mobileSwitch);
+			};
+			/**
+			 * @param {JQuery} $target
+			 * @param {JQuery} $switch
+			 */
+			Checker.prototype.showIn = function ($target, $switch) {
+				var _this = this;
+				var switchLink = $switch.find('a');
+				$(this.globalData.selectors.stylesheet).attr('href', this.data.css);
+				switchLink.attr('href', this.data.url);
+				var gaLabel = this.available ? "Zur-Mobilen-Home" : 'Zur-Mobilansicht';
+				switchLink.on('click', function () {
+					callGAEvent({ data: { action: "MobileSwitch", label: gaLabel, value: "Click" } });
+				});
+				switchLink.on('click', function () {
+					return _this.delayedFollowLink(switchLink);
+				});
+				$target.prepend($switch.detach());
+				$switch.show();
+			};
+			return Checker;
+		}());
+		MobileSwitch.Checker = Checker;
+	})(MobileSwitch || (MobileSwitch = {}));
+	(function ($) {
+		$(document).ready(function () {
+			if (aubi && aubi.mobileSwitch && MobileSwitch.mobileBrowsers()) {
+				var mobileSwitch = new MobileSwitch.Checker(aubi.mobileSwitch);
+				if (!MobileSwitch.mobileBrowsersFixedPosition()) {
+					mobileSwitch.showTopSwitch();
+				}
+				else {
+					mobileSwitch.showSwitch();
+				}
+			}
+			else {
+				$('.mobileswitchWrapper').remove();
+			}
+		});
+	})(jQuery);
+
+</script><div class="modul nobeside">	<div class="modulcontent">		    <div><strong>Datenschutzerklärung der Axel Springer Auto Verlag GmbH</strong><br class="sb" /><br class="sb" /> Diensteanbieter im Sinne des Telemediengesetzes (TMG) und verantwortliche Stelle im Sinne des Bundesdatenschutzgesetzes (BDSG) ist die&nbsp;<a href="http://www.autobild.de/impressum.html" title="">Axel Springer Auto Verlag GmbH</a>. Mit "wir", "uns" und ähnlichen Formulierungen beziehen wir uns im Folgenden auf die Axel Springer Auto Verlag GmbH.<br class="sb" /> Unter "autobild.de" verstehen wir in diesem Dokument das Internet-Angebot von AUTO BILD, AUTO BILD ALLRAD, AUTO BILD MOTORSPORT, AUTO BILD SPORTSCARS, AUTO BILD KLASSIK, AUTO BILD TUNING, AUTO BILD MOBIL, AUTO BILD TV und AUTO TEST sowie über die dazugehörigen App's nebst der darüber verfügbaren Inhalte und Dienstleistungen (z.B. Internet-Foren, Gewinnspiele). Einzelne Teile von autobild.de werden im Folgenden auch als "Onlinedienste" bezeichnet.<br class="sb" /> Wir nehmen den Schutz der persönlichen Daten ernst und werden alle personenbezogenen Daten in Übereinstimmung mit dem jeweils geltenden Datenschutzrecht erheben und nutzen.<br class="sb" /><br class="sb" />Wir möchten Ihnen anhand dieser Datenschutzerklärung über die gesetzlichen Pflichtangaben hinaus erläutern, welche Daten unbedingt benötigt werden und wie Sie durch Angabe weiterer, freiwilliger Daten Zusatznutzen erlangen können.<br class="sb" /><br class="sb" /><br class="sb" /><strong>§ 1 Cookies und Angabe persönlicher Daten</strong><br class="sb" /> Cookies sind kleine Dateien, die Ihr Browser auf Ihrem Gerät in einem dafür vorgesehenen Verzeichnis ablegt. Durch sie kann u.a. festgestellt werden, ob Sie eine Website schon einmal besucht haben. Sofern Sie zustimmen, können in Cookies auch Login-Daten für einen Onlinedienst gespeichert werden, so dass Sie diese Login-Daten nicht bei jedem Aufruf der Seite eingeben müssen.<br class="sb" />Bei der Nutzung von Apps wird statt des Cookies eine in ihrer Funktion vergleichbare Technik verwendet.<br class="sb" />Werbeanzeigen werden zumeist durch Drittanbieter bereitgestellt. Diese nutzen möglicherweise und soweit durch Ihre Geräteeinstellungen zugelassen Informationen zu Ihren Besuchen, damit Anzeigen zu Produkten und Diensten geschaltet werden können, die Sie eventuell interessieren. Konkrete Kontaktdaten wie Ihr Name, Ihre Adresse, E-Mail-Adresse oder Telefonnummer werden dabei auf keinen Fall übertragen.<br class="sb" />Auch sog. Webanalysedienste können Cookies und ähnliche Technogien verwenden, wenn Ihre Geräteeinstellungen dies zulassen. Dies ermöglicht eine Analyse der Benutzung der Website durch Sie. Die dadurch erzeugten Informationen über Ihre Nutzung werden dabei regelmäßig an einen Server des Webanalysedienstes übertragen und dort gespeichert und verarbeitet. Näheres zu Webanalysediensten finden Sie im entsprechenden Abschnitt am Ende dieses Dokumentes.<br class="sb" /> Die meisten Browser akzeptieren Cookies automatisch. Sie können Ihren Browser allerdings so einstellen, dass keine Cookies gespeichert werden oder vor dem Speichern eines Cookies eine explizite Zustimmung erforderlich ist. Außerdem können Sie bereits gesetzte Cookies jederzeit löschen. Bitte beachten Sie, dass das Abschalten von Cookies zu Einschränkungen bei der Nutzung führen kann.<br class="sb" />Für das Inserieren von Fahrzeugen, das Registrieren beim Newsletter, der Teilnahme an Gewinnspielen, die Anmeldung in dem Forum, der Bestellung von Zeitschriften- Abonnements oder für den Erwerb von kostenpflichtigen Leistungen werden einige persönliche Angaben abgefragt. Je nach Anwendung oder Leistung wird erhoben: E-Mail-Adresse, Name und Vorname, Anschrift, Land, Geburtsdatum, Telefon- oder Mobiltelefonnummer, Anrede, Beruf, Fahrzeugdaten (Marke, Modell, Typ, Baujahr), Führerschein-Ausstellungsdatum, Konfektionsgröße. Die jeweils notwendigen Datenfelder sind mit einem Stern ("*") gekennzeichnet.<br class="sb" /><br class="sb" /><br class="sb" /><strong>§ 2 Verwendung Ihrer Daten</strong><br class="sb" /> autobild.de fragt Sie u.a. dann gegebenenfalls nach Namen, Adresse und weiteren Angaben, wenn Sie etwa ein Abonnement abschließen, ein Produkt bestellen wollen oder einen interaktiven Dienst in Anspruch nehmen oder sich hierfür registrieren lassen, etwa um einen Newsletter zu bestellen, an einem Gewinnspiel, dem Kummerkasten oder dem Forum sowie der Community teilzunehmen oder bezahlbare Inhalte abzurufen. In diesem Fall werden diejenigen personenbezogenen Daten abgefragt, die dem jeweiligen Vertrag bzw. Service und dessen Personalisierung dienen. autobild.de protokolliert Ihre Einwilligung zur Erhebung und Speicherung der Daten. Sollten Sie Ihre Zustimmung jedoch nicht geben, können wir Ihnen die ausgewählte Anwendung oder Leistung auch nicht zur Verfügung stellen.<br class="sb" /> Bitte beachten Sie beim Herunterladen von Apps: Sofern gemäß den anwendbaren Nutzungsbestimmungen des App-Portals, von denen Sie die App herunterladen (wie iTunes, Google PlayStore etc.) autobild.de oder ein Dritter (z.B. die Axel Springer SE) Ihr Vertragspartner für den Erwerb der App wird, verarbeiten wir bzw. der Dritte in dem zur Vertragserfüllung erforderlichen Umfang die Daten, die das App-Portal zur Verfügung stellt, z. B. Ihre Device ID, damit Sie die App auf Ihr mobiles Endgerät herunterladen können.<br class="sb" /><br class="sb" /><br class="sb" /><strong>§ 3 Weitergabe personenbezogener Daten</strong><br class="sb" /> Grundsätzlich geben wir Ihre personenbezogenen Daten nicht an Dritte weiter. Von diesem Grundsatz gibt es folgende Ausnahmen:<br class="sb" />autobild.de gibt Ihre personenbezogenen Daten nur an solche Unternehmen weiter, die bei der Erfüllung der mit Ihnen abgeschlossenen Verträge eingeschaltet werden.<br class="sb" />Eine Weitergabe von personenbezogenen Daten kann dann erfolgen, wenn von Ihnen beabsichtigte Aktionsteilnahmen, Buchungen oder Vertragsabschlüsse ersichtlich bei oder gemeinsam mit einem Drittanbieter erfolgen. Dies ist z.B. der Fall bei Gewinnspielen oder anderen Aktionen, die wir gemeinsam mit einem Partner durchführen, sowie bei Käufen über myPass (siehe hierzu im folgenden Absatz) oder über andere Portale. Der Kauf der digitalen Abos erfolgt zum Beispiel durch einen entsprechenden Vertrag zwischen Ihnen und der Axel Springer SE, worauf Sie auch im Rahmen des Vertragsabschlusses hingewiesen werden. Entsprechend geben wir die von Ihnen beim Kauf eingegebenen Daten an die Axel Springer SE weiter.<br class="sb" /> autobild.de kann auch kostenpflichtige Leistungen oder andere Dienste umfassen, für die eine Registrierung notwendig ist. Teilweise ist eine Anmeldung bei dem Dienst myPass erforderlich. Anbieter dieses Dienstes ist die myPass GmbH, Axel-Springer-Str. 65, 10969 Berlin. Die Nutzungsbedingungen für myPass finden Sie&nbsp;<a href="http://www.mypass.de/nutzungsbedingungen" target="_blank" title="http://www.mypass.de/nutzungsbedingungen">hier</a>. Sie werden erst bei einer entsprechenden Registrierung relevant.<br class="sb" /> Außerdem sind wir natürlich zur Weitergabe an Dritte berechtigt bzw. verpflichtet, wenn Sie der Weitergabe ausdrücklich zugestimmt haben oder wenn das BDSG, das TKG oder ein anderes Gesetz die Weitergabe ausnahmsweise gestattet (wie zum Beispiel bei der Herausgabe aufgrund einer gerichtlichen oder behördlichen Anordnung).&nbsp;Die SMS Verifikation für Ihre Anmeldung stellen wir Ihnen zum Beispiel mit Hilfe von&nbsp;<a href="https://www.developergarden.com/de/impressum/" target="_blank" title="https://www.developergarden.com/de/impressum/">Developer Garden</a>&nbsp;zur Verfügung, der wir zu diesem Zweck Ihre Telefonnummer und TAN offen legen.<br class="sb" />In einigen Fällen erfolgt unsere eigene Datenverarbeitung durch externe Dienstleister, die von uns beauftragt sind, Daten für uns weisungsgebunden zu verarbeiten. Solche Dienstleister werden von uns nach den strengen Vorgaben des BDSG schriftlich verpflichtet und dürfen die Daten zu keinen anderen Zwecken weiterverwenden.<br class="sb" />Ansonsten werden wir Ihre personenbezogenen Angaben nicht an Dritte weitergegeben.<br class="sb" /><br class="sb" /><br class="sb" /><strong>§ 4 Google Analytics und weitere Webanalyse-Dienste&nbsp;</strong><br class="sb" /><br class="sb" /><strong>a.</strong>&nbsp;<strong>Google Analytics</strong><br class="sb" /> Die Nutzung von Google Analytics erfolgt nach den Bedingungen, die zwischen den deutschen Datenschutzbehörden und Google in 2011 gemeinsam abgestimmt wurden. Aus dieser Vereinbarung stammt auch der nachfolgende Text. Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter <a href="http://www.google.com/analytics/terms/de.html" target="_blank" title="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a> bzw. unter <a href="http://www.google.com/intl/de/analytics/privacyoverview.html" target="_blank" title="http://www.google.com/intl/de/analytics/privacyoverview.html">http://www.google.com/intl/de/analytics/privacyoverview.html</a>. Die Datenschutzerklärung von Google finden Sie unter: <a href="http://www.google.com/intl/de/policies/privacy/#information" target="_blank" title="http://www.google.com/intl/de/policies/privacy/#information">http://www.google.com/intl/de/privacypolicy.html-information</a>.<br class="sb" /> Die Webseiten von autobild.de benutzen Google Analytics, einen Webanalysedienst der Google Inc. ("Google"). Google Analytics verwendet sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen.<br class="sb" />Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (<a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank" title="https://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>) verfügbare Browser-Plugin herunterladen und installieren.<br class="sb" />&nbsp;<br class="sb" /><strong>b. Datenschutzerklärung zur Nutzung des Messverfahrens der INFOnline GmbH</strong><br class="sb" /> autobild.de nutzt das Messverfahren (SZMnG) der INFOnline GmbH (<a href="https://www.infonline.de/" target="_blank" title="https://www.infonline.de/">https://www.infonline.de</a>) zur Ermittlung statistischer Kennwerte über die Nutzung unserer Angebote. Ziel der Reichweitenmessung ist es, die Nutzungsintensität, die Anzahl der Nutzer einer Webseite und das Surfverhalten statistisch  auf Basis eines einheitlichen Standardverfahrens - zu bestimmen und somit marktweit vergleichbare Werte zu erhalten.</div>
+<div><br class="sb" /> Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW &nbsp;<a href="http://www.ivw.eu/" target="_blank" title="http://www.ivw.eu/">http://www.ivw.eu</a>) sind oder an den Studien der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF -&nbsp;<a href="http://www.agof.de" target="_blank" title="http://www.agof.de">http://www.agof.de</a>) teilnehmen, werden die Nutzungsstatistiken regelmäßig von der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (agma -&nbsp;<a href="http://www.agma-mmc.de/" target="_blank" title="http://www.agma-mmc.de/">http://www.agma-mmc.de</a>), sowie der IVW veröffentlicht und können auf den jeweiligen Webseiten eingesehen werden.<br class="sb" /><br class="sb" />1. Datenverarbeitung<br class="sb" />Die INFOnline GmbH erhebt und verarbeitet Daten nach deutschem Datenschutzrecht. Durch technische und organisatorische Maßnahmen wird sichergestellt, dass einzelne Nutzer zu keinem Zeitpunkt identifiziert werden können. Daten, die möglicherweise einen Bezug zu einer bestimmten, identifizierbaren Person haben, werden frühestmöglich anonymisiert.<br class="sb" /><br class="sb" />1.1 Anonymisierung der IP-Adresse<br class="sb" />Im Internet benötigt jedes Gerät zur Übertragung von Daten eine eindeutige Adresse, die sogenannte IPAdresse. Die zumindest kurzzeitige Speicherung der IP-Adresse ist aufgrund der Funktionsweise des Internets technisch erforderlich. Die IP-Adressen werden vor jeglicher Verarbeitung gekürzt und nur anonymisiert weiterverarbeitet. Es erfolgt keine Speicherung oder Verarbeitung der ungekürzten IP-Adressen.<br class="sb" /><br class="sb" />1.2 Geolokalisierung bis zur Ebene der Bundesländer / Regionen<br class="sb" />Eine sogenannte Geolokalisierung, also die Zuordnung eines Webseitenaufrufs zum Ort des Aufrufs, erfolgt ausschließlich auf der Grundlage der anonymisierten IP-Adresse und nur bis zur geographischen Ebene der Bundesländer / Regionen. Aus den so gewonnenen geographischen Informationen kann in keinem Fall ein Rückschluss auf den konkreten Wohnort eines Nutzers gezogen werden.<br class="sb" /><br class="sb" />1.3 Identifikationsnummer des Gerätes&nbsp;<br class="sb" /> Die Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder ein Cookie mit der Kennung ioam.de", ein Local Storage Object oder eine anonyme Signatur, die aus verINFOnline_DSE_2-3.doc Version: 2.3 16.01.2015 Seite 2<br class="sb" />schiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird.<br class="sb" /> Die Gültigkeit des Cookies ist auf maximal 1 Jahr beschränkt.<br class="sb" /><br class="sb" />1.4 Anmeldekennung<br class="sb" />Zur Messung von verteilter Nutzung (Nutzung eines Dienstes von verschiedenen Geräten) kann die Nutzerkennung beim Login, falls vorhanden, als anonymisierte Prüfsumme an INFOnline übertragen werden.<br class="sb" /><br class="sb" />2. Löschung<br class="sb" />Die gespeicherten Nutzungsvorgänge werden nach spätestens 7 Monaten gelöscht.<br class="sb" /><br class="sb" />3. Widerspruch<br class="sb" />Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter folgendem Link widersprechen:&nbsp;<a href="http://optout.ioam.de/" target="_blank" title="http://optout.ioam.de/">http://optout.ioam.de</a><br class="sb" /><br class="sb" /> Weitere Informationen zum Datenschutz im Messverfahren finden Sie auf der Webseite der INFOnline GmbH (<a href="https://www.infonline.de" target="_blank" title="https://www.infonline.de">https://www.infonline.de</a>), die das Messverfahren betreibt, der Datenschutzwebseite der AGOF (<a href="http://www.agof.de/datenschutz" target="_blank" title="http://www.agof.de/datenschutz">http://www.agof.de/datenschutz</a>) und der Datenschutzwebseite der IVW (<a href="http://www.ivw.eu/" target="_blank" title="http://www.ivw.eu/">http://www.ivw.eu</a>).<br class="sb" /><br class="sb" /><strong>c.&nbsp;ADITION</strong><br class="sb" /> Auf dieser Website werden mit der Technologie ADITION adserving der ADITION technologies AG (www.adition.com) Daten zu Marketing- und Optimierungszwecken gesammelt und gespeichert. Aus diesen Daten können unter anderem pseudonymisierte Nutzerprofile erstellt werden. Hierzu können Cookies eingesetzt werden. Die mit der ADITION adserving-Technologie erhobenen Daten werden nicht dazu benutzt, den Besucher dieser Website persönlich zu identifizieren. Der Datenerhebung und -speicherung kann jederzeit mit Wirkung für die Zukunft widersprochen werden. Auf der <a href="http://de.adition.com/privacy/" target="_blank" title="http://de.adition.com/privacy/">Unternehmensseite</a> steht hierfür eine OptOut -Funktion zur Verfügung.</div>
+<div><br class="sb" /><strong>d.&nbsp;Disqus-Kommentierungsfunktion</strong><br class="sb" /> Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco/USA (im Folgenden als "disqus.com" bezeichnet), als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter, Yahoo und OpenID anmelden. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter www.disqus.com.</div>
+<div>Verantwortliche Stelle ist die Big Head Labs, Inc., die Ihre im Zuge der Kommentierung gegebenenfalls angegebenen personenbezogenen Daten erhebt und verarbeitet, und zwar auch schon dann, wenn Sie die Kommentierungs-Funktion ohne Disqus-Account als "Gast" nutzen. Hinsichtlich der Erhebung, Verarbeitung und Nutzung der betreffenden Daten gelten die Nutzungsbedingungen und Datenschutzhinweise von Disqus, die Sie unter h<a href="http://docs.disqus.com/help/30/" target="_blank" title="http://docs.disqus.com/help/30/">ttp://docs.disqus.com/help/30/</a> und <a href="http://docs.disqus.com/help/29/" target="_blank" title="http://docs.disqus.com/help/29/">http://docs.disqus.com/help/29/</a> finden. Wenn Sie sich über Ihren Facebook-, Twitter-, Yahoo- oder OpenID-Account anmelden, werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters. Damit die Kommentare auf der Webseite "autobild.de" veröffentlicht werden können, übermittelt Disqus an unser Onlineangebot neben dem Kommentartext auch den von Ihnen gewählten Nutzernamen, der mit dem Kommentar auf der Webseite "autobild.de" veröffentlicht wird. Die Administratoren und Moderatoren, die bei uns für die Kommentare zu den Artikeln zuständig sind, erhalten Zugriff auf diese Daten. Auch wenn Kommentare grundsätzlich nicht gelesen werden, bevor sie online gehen, werden sie stichprobenartig auf ihren Inhalt überprüft, um einen Missbrauch der Kommentierungsfunktion zu verhindern und eine etwaige Haftung von unserem Onlinedienst "autobild.de" zu vermeiden. Wenn wir auf konkrete, klare Rechtsverletzungen hingewiesen werden, müssen wir den betreffenden Kommentar sogar prüfen. Um eine Haftung für Kommentarinhalte zu vermeiden, kann es auch erforderlich sein, Kommentare zu löschen, von der Veröffentlichung auszuschließen oder  als mildere Maßnahme und mit entsprechender Kennzeichnung  zu bearbeiten.</div>
+<div>Zudem übermittelt Disqus an den Onlinedienst "autobild.de" auch die mit dem Kommentarformular mitgeteilte oder bei Disqus bzw. dem jeweiligen Drittanbieter (Facebook, Twitter, Yahoo oder Open-ID) hinterlegte E-Mail-Adresse sowie die IP-Adresse, die dem von Ihnen genutzten Internetanschluss zum Zeitpunkt des Absendens des Kommentarformular zugewiesen war. Der Onlinedienst "autobild.de" benötigt die E-Mail-Adresse, um Sie gegebenenfalls kontaktieren zu können, wenn es etwa Rückfragen zu einem Kommentar gibt oder falls die Moderatoren des Onlinedienstes "autobild.de" wegen eines Kommentars in Anspruch genommen werden und den Sachverhalt aufklären müssen. Eine anderweitige Nutzung der E-Mail-Adresse oder gar deren Veröffentlichung/Weitergabe an Dritte erfolgt selbstverständlich nicht. Die Übermittlung der IP-Adressen dient dazu, einen Missbrauch der Kommentierungsfunktion verhindern zu können, z.B. wenn ein Nutzer die Kommentierung zu einem Artikel durch wiederholt beleidigende Inhalte stört. In solch einem Fall muss es dem Onlinedienst "autobild.de" möglich sein, einzelne IP-Adressen wenigstens während einer Session zu sperren.</div>
+<div><strong><br class="sb" /> e.</strong>&nbsp;<strong>Exactag</strong><br class="sb" /> Die Exactag GmbH sammelt und speichert auf dieser Webseite und deren Unterseiten Daten zu Marketing- und Optimierungszwecken. Aus diesen Daten können anonym Nutzungsprofile erstellt werden. Hierzu können Cookies und eine Technik eingesetzt werden, die sich Fingerprint nennt. Bei Cookies handelt es sich um kleine Textdateien, die lokal im Zwischenspeicher des Internet-Browsers des Seitenbesuchers gespeichert werden. Die Fingerprint-Technologie speichert Umgebungsvariablen des Internet-Browsers in einer Datenbank, ohne eindeutige userbezogene Daten wie eine IP-Adresse zu speichern. Die Cookies und/oder der Fingerprint ermöglichen die Wiedererkennung des Internet- Browsers. Die mit den Exactag-Technologien erhobenen Daten werden ohne die gesondert erteilte Zustimmung des Betroffenen nicht dazu benutzt, den Besucher dieser Website persönlich zu identifizieren, personenbezogene Daten werden grundsätzlich nicht erfasst.<br class="sb" />Sie können jederzeit der Speicherung Ihrer anonym erfassten Besucherdaten für die Zukunft über diesen&nbsp;<a href="http://exactag.com/de/datenschutz.html" target="_blank" title="http://exactag.com/de/datenschutz.html">Link</a>&nbsp;widersprechen. Um diesen Ausschluss von der Datenspeicherung zu gewährleisten, wird in Ihrem Browser ein Cookie gesetzt. Dieser Cookie trägt den Namen 'optout' und wird von 'exactag.com' gesetzt. Er darf nicht gelöscht werden, solange der Speicherung der Daten widersprochen wird.<br class="sb" /><br class="sb" /><strong>f. </strong><strong>AdDefend</strong><br class="sb" /> autobild.de verwendet zur Anzeige von Werbung AdDefend, einen Dienst der AdDefend GmbH, Borselstrasse 3, 22765 Hamburg. Dieser Dienst nutzt Cookies, um festzustellen, ob Sie eine Webseite schon einmal besucht haben. Sie können der Verwendung dieser Cookies durch AdDefend jederzeit widersprechen, indem Sie eine E-Mail an <a href="mailto:" title="mailto:">privacy@addefend.com</a> senden. &nbsp;</div>
+<div><strong><br class="sb" /></strong></div>
+<div><strong>§ 5 Soziale Netzwerke&nbsp;und andere Dienste Dritter</strong><br class="sb" /> Sie finden uns auch in sog. sozialen Netzwerken fremder Unternehmen, wie z.B. Facebook oder Twitter. Zudem sind einzelne Funktionen dieser Netzwerke auch in unsere Onlinedienste integriert. Beides können Sie nur nutzen, wenn Sie bei dem jeweiligen sozialen Netzwerk registriert und angemeldet sind. Beachten Sie deshalb, dass für die Nutzung des sozialen Netzwerks dessen Nutzungs- und Datenschutzbedingungen gelten. Wir möchten Ihnen aber generell erläutern, wie solche Anbieter Ihre personenbezogenen Daten in diesem Zusammenhang verarbeiten:</div>
+<div>&nbsp;</div>
+<div><strong>a.</strong>&nbsp;<strong>Präsenz von autobild.de in sozialen Netzwerken</strong><br class="sb" /> autobild.de finden Sie auch in den folgenden sozialen Netzwerken:</div>
+<div>&nbsp;</div>
+<div>i. Facebook<br class="sb" /> Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In Facebook haben wir diverse Internetangebote in Form von Spielen, Webseiten (sog. Fan-Seiten) und Anwendungen (sog. Applikationen) integriert.<br class="sb" /> Nutzen Sie einen von autobild.de bereitgestellten Onlinedienst auf Facebook, gewährt Facebook uns über eine technische Schnittstelle Zugang zu Ihren sog. "öffentlichen Information" bei Facebook und solche, die Sie öffentlich zugänglich machen oder für die jeweilige Anwendung freigeben. "Öffentlich" bedeutet im Zusammenhang mit Facebook, dass jeder auch außerhalb von Facebook diese Daten sehen kann. Hierzu zählen Ihr Name, Ihr Profil- und Titelbild, Ihr Geschlecht, Ihre Netzwerke, Ihr Nutzername (Facebook URL) und Ihre Nutzerkennnummer (Facebook ID). Um einzelne Internetangebote nutzerfreundlicher zu gestalten und damit Sie auch Ihr persönliches Netzwerk innerhalb unserer Internetangebote nutzen können, werden zum Teil auch die Nutzerkennnummern Ihrer Freunde (oder Ihre Freundesliste) genutzt. Welche Daten Facebook den einzelnen Diensten innerhalb von Facebook zur Verfügung stellt, erklärt Ihnen Facebook hier: <a href="https://www.facebook.com/about/privacy/your-info-on-other#applications" target="_blank" title="https://www.facebook.com/about/privacy/your-info-on-other#applications">http://www.facebook.com/about/privacy/your-info-on-other#applications</a><br class="sb" /> Facebook entscheidet dabei gemäß der Facebook-Datenschutzbestimmungen, welche Daten stets öffentlich zugänglich sind und welche Sie mit Hilfe Ihrer Privatsphäreeinstellungen individuell zugänglich machen können. Lesen Sie zu den Einzelheiten mehr bei Facebook: <a href="https://www.facebook.com/about/privacy/your-info#everyoneinfo" target="_blank" title="https://www.facebook.com/about/privacy/your-info#everyoneinfo">http://www.facebook.com/about/privacy/your-info#everyoneinfo</a><br class="sb" /> Ob und welche weiteren Informationen autobild.de aus Ihrem Facebook-Profil benötigt, erfahren Sie, wenn Sie sich für einen Onlinedienst entscheiden. Dort nennt Facebook Ihnen die Datenkategorien, zu denen der jeweilige Onlinedienst Zugang hat.<br class="sb" /> Wenn Sie Ihr Facebook-Profil auf Facebook mit autobild.de verbunden haben, können Sie auch außerhalb von Facebook Funktionen von Facebook in unseren Internetangeboten nutzen. So können Sie sehen, welche Ihrer Freunde bereits dieselben Inhalte gelesen haben oder welche Inhalte sie weiterempfehlen. Nutzen Sie diese Funktionen von Facebook über autobild.de, erfahren wir über die Verbindung auf Facebook, welche Funktion von Facebook Sie benutzt haben.<br class="sb" /> Egal, welches unserer Internetangebote Sie bei Facebook nutzen; in jedem Fall verwenden wir die uns zugänglichen Daten nur für den Zweck, Ihnen den jeweiligen Dienst anzubieten. Wenn wir Ihre Daten darüber hinaus verwenden wollen, tun wir dies nur insoweit, wie das Gesetz dies gestattet oder Sie Ihre Zustimmung hierzu erteilt haben.<br class="sb" /> Möchten Sie die Onlinedienste auf Facebook nicht mehr verwenden, können Sie dies durch die jeweiligen Einstellungen bei Facebook deutlich machen, z.B. die Verbindung zwischen Ihrem Profil und der Anwendung aufheben. Wir haben dann keinen Zugang mehr zu Ihren allgemeinen Informationen und löschen diese, wenn Sie uns hierüber informieren. Wenden Sie sich hierzu bitte an<strong>&nbsp;datenschutz@autobild.de</strong>&nbsp;mit dem Betreff "Löschen meiner Facebook Daten in autobild.de ".</div>
+<div>&nbsp;</div>
+<div>ii. Google+<br class="sb" /> autobild.de finden Sie auch in dem sozialen Netzwerk Google+, das von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben wird. Dort sind in autobild.de diverse Onlinedienste in Form von Spielen, Webseiten (sog. Google+-Seiten) und Anwendungen (sog. Applikationen) integriert.<br class="sb" /> Welche Daten autobild.de aus Ihrem Google+-Profil sehen kann, können Sie individuell in Ihren Privatsphäreeinstellungen einstellen:<a href="https://www.google.com/settings/privacy?tab=4" target="_blank" title="https://www.google.com/settings/privacy?tab=4"> https://www.google.com/settings/privacy?tab=4</a> . Insbesondere können Sie entscheiden, in welchen Kreis Sie den Onlinedienst hinzufügen möchten. Einzelheiten entnehmen Sie bitte den Datenschutzinformationen von Google: <a href="http://www.google.de/intl/de/policies/privacy/" target="_blank" title="http://www.google.de/intl/de/policies/privacy/">http://www.google.de/intl/de/policies/privacy/</a>.<br class="sb" /> <br class="sb" /> </div>
+<div>iii. Twitter<br class="sb" /> autobild.de hat auch Twitter-Konten. Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107).<br class="sb" /> Wenn Sie selber Twitter aktiv nutzen und einen Tweet veröffentlichen, können wir ihn ebenfalls sehen, wenn Sie ihn jedermann zugänglich gemacht haben oder wenn wir Ihnen über Twitter folgen. Ebenfalls können wir Ihre Angaben auf Twitter sehen, wenn unsere Internetangebote Ihren Tweets folgen. Einzelheiten zur Verarbeitung der Daten bei Twitter und den Sichtbarkeitseinstellungen entnehmen Sie bitte den Datenschutzbedingungen von Twitter: <a href="https://twitter.com/privacy" target="_blank" title="https://twitter.com/privacy">https://twitter.com/privacy</a>.</div>
+<div>&nbsp;</div>
+<div><strong>b.&nbsp;Social Plug-Ins auf autobild.de.</strong></div>
+<div>Auf autobild.de finden Sie zum Teil auch sogenannte "Social Plug-Ins". Das sind Funktionen des jeweiligen sozialen Netzwerks, über die Sie zum Beispiel Inhalte unserer Websites mit Ihren Freunden in den sozialen Netzwerken teilen oder diese Inhalte weiterempfehlen können. Wir nutzen Social Plug-Ins folgender Anbieter:</div>
+<div><br class="sb" /> i. Facebook<br class="sb" /> Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Irland). In unseren Internetangeboten haben wir unterschiedliche Funktionen von Facebook eingebundenen (z.B. "Like", "Teilen") um die Nutzung der Onlinedienste noch nutzerfreundlicher zu gestalten. Facebook-Funktionen sind mit dem Facebook-Logo gekennzeichnet. Abhängig von der Art der Funktion können weitere Angaben hinzukommen (z.B. "Like", "Empfehlen").<br class="sb" /> Mit dem Like -Button können Sie Ihren Facebook Freunden und Facebook Nutzern Ihre Meinung mitteilen, welche Artikel sie mögen/empfehlen. Haben Sie als Facebook-Nutzer die Recommendations Bar in Facebook zu Ihren Facebook Anwendungen hinzugefügt, veröffentlichen Sie automatisch Ihre Leseaktivität auf Facebook in Ihrem Newsfeed und Ihrer Timeline/Chronik, sobald sich die Recommendations Bar aufklappt. Auf Facebook erfahren dann die Personen, denen Sie bei Installation der Anwendung die Rechte hierzu gegeben haben, welchen Artikel Sie gerade bei uns lesen oder welche Inhalte Sie in unseren Internetangeboten nutzen. Die einzelnen Einträge sowie die Applikation selber können Sie jederzeit auf Facebook wieder entfernen.<br class="sb" /> Wenn Sie ein Internetangebot von uns nutzen, der einen Facebook-Button enthält, wird von Ihrem Browser bzw. der Anwendung eine direkte Verbindung mit den Facebook-Servern aufgebaut und der Button zur jeweiligen Funktion von dort geladen. Dabei wird die Information an Facebook übermittelt, dass die entsprechende Internetseite aufgerufen oder ein bestimmtes Internetangebot genutzt wurde.<br class="sb" /> Wenn Sie selber aktiv eine Facebook-Funktion verwenden, z.B. auf den Like-Button klicken, ist es möglich, dass Facebook weitere Daten verarbeitet. So kann Facebook z.B. einen Cookie setzen, über den Facebook auf anderen Internetseiten, die ebenfalls Facebook-Buttons eingebunden haben, erkennen kann, dass Sie bereits auf den Button geklickt haben.<br class="sb" /> Sind Sie als Facebook-Nutzer gleichzeitig bei Facebook eingeloggt, ist außerdem die Zuordnung eines Seitenabrufs zu ihrem Profil auf Facebook möglich. Wenn Sie eingebundene Facebook-Buttons anklicken und sich danach bei Facebook einloggen (oder bereits eingeloggt sind), können z.B. die "ge-like-ten" oder "empfohlenen" Informationen auf Facebook in Ihrem Profil und Ihrer Chronik/Timeline in Kurzform veröffentlicht werden. Facebook kann so gegebenenfalls weitere Nutzungsdaten erheben und speichern. So können bei Facebook-Nutzerprofile entstehen, die über das hinausgehen, was Sie selbst bei Facebook preisgeben.<br class="sb" /> Wir erfahren nicht, welche Facebook-Buttons Sie wann verwendet haben, sondern erhalten von Facebook ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung unserer Fanpages und eine zusammengefasste Statistik zur Verwendung von Facebook-Buttons in Bezug auf autobild.de.<br class="sb" /> Welche Daten Facebook im Einzelnen zu eigenen Zwecken erhebt, erfahren Sie in der Datenschutzerklärung von Facebook; dort erhalten Sie auch weitere Informationen zu Datenerhebung und -verarbeitung durch Facebook und zu Ihren darauf bezogenen Rechten, Die Facebook-Datenschutzerklärung ist abrufbar unter <a href="https://www.facebook.com/policy.php" target="_blank" title="https://www.facebook.com/policy.php">https://www.facebook.com/policy.php</a>, die Information von Facebook zu sog. Social Plugins unter <a href="http://on.fb.me/mAN33b" target="_blank" title="http://on.fb.me/mAN33b">http://on.fb.me/mAN33b</a>.</div>
+<div>&nbsp;</div>
+<div>ii. Twitter<br class="sb" /> Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107, USA). Wenn Sie autobild.de nutzen, z.B. eine unserer Webseiten aufrufen, die einen Twitter-Button enthält, wird von Ihrem Browser ebenfalls eine direkte Verbindung mit den Servern von Twitter aufgebaut und der Button von dort geladen. Dabei wird die Information an Twitter übermittelt, dass ein Onlinedienst aufgerufen wurde. Auch wenn Sie nicht eingeloggt sind, kann Twitter so gegebenenfalls Nutzungsdaten erheben und auch speichern.<br class="sb" /> Wenn Sie die Twitter-Buttons anklicken und über das sich öffnende Twitter-Fenster Informationen "twittern", übermitteln Sie die getwitterten Informationen an Twitter. Diese Informationen werden dann in Ihrem Twitter-Nutzerprofil veröffentlicht.<br class="sb" /> Weitere Informationen zur Datenerhebung, Auswertung und Verarbeitung Ihrer Daten durch Twitter sowie Ihren darauf bezogenen Rechte erhalten Sie in der Datenschutzerklärung von Twitter, die unter <a href="https://twitter.com/privacy?lang=de" target="_blank" title="https://twitter.com/privacy?lang=de">https://twitter.com/privacy?lang=de</a> abrufbar ist.</div>
+<div><br class="sb" /> iii. Google+<br class="sb" /> In autobild.de sind auch Google+ Buttons des sozialen Netzwerks "Google+" eingebunden. Dieses Soziale Netzwerk wird von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben. Der Button von Google+ ist an dem Zeichen "+1&#x2033; erkennbar.<br class="sb" /> Wenn Sie z.B. eine unserer Webseiten aufrufen, die einen Google+ Button enthält, wird von Ihrem Browser eine direkte Verbindung mit den Google-Servern aufgebaut und der Button von dort geladen. Dabei wird die Information an Google Inc. übermittelt, dass die entsprechende Seite auf autobild.de aufgerufen wurde.<br class="sb" /> Der Inhalt der "+1&#x2033;-Schaltfläche wird von Google direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Google mit der Schaltfläche erhebt. Nach Angabe von Google werden ohne einen Klick auf die Schaltfläche keine personenbezogenen Daten erhoben. Nur bei eingeloggten Mitgliedern des sozialen Netzwerks Google+ werden Daten, unter anderem die IP-Adresse, erhoben und verarbeitet.<br class="sb" /> Wenn Sie Google+-Mitglied sind und nicht möchten, dass Google über unseren Internetauftritt Daten über Sie erhebt, müssen Sie sich vor Ihrem Besuch unseres Internetauftritts bei Google+ ausloggen.<br class="sb" /> Wir erfahren nicht, ob und wann Sie den Google+ Button verwendet haben, sondern erhalten von Google ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung des Google+-Buttons.<br class="sb" /> Welche Daten Google im Einzelnen zu eigenen Zwecken erhebt und Informationen über die weitere Verarbeitung und Nutzung der Daten, erfahren Sie in der Datenschutzerklärung von Google unter <a href="" title="">//www.google.com/intl/de/+/policy/+1button.html:http://www.google.com/intl/de/+/policy/+1button.html</a>.<br class="sb" /> <br class="sb" /> </div>
+<div><strong>c. Einbeziehung von Social Media auf autobild.de</strong></div>
+<div><strong>Registrierung auf autobild.de über Facebook</strong></div>
+<div>Wir bieten Ihnen auch die Möglichkeit einer einfacheren Registrierung auf autobild.de an. Hierfür können Sie Ihr Nutzer-Konto bei Facebook nutzen. Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In Facebook haben wir diverse Dienste in Form von Spielen, Webseiten (sog. Fan-Seiten) und Anwendungen (sog. Applikationen) integriert.&nbsp;<br class="sb" /><br class="sb" />Zu Beginn einer Registrierung für autobild.de weisen wir Sie mit Worten wie Login mit Facebook auf die Option hin, sich mit Ihren Facebook-Profilangaben zu registrieren. Hierfür ist erforderlich, dass Sie bei Facebook bereits registriert sind oder einen Facebook-Zugang erstellen. Beachten Sie deshalb bitte, dass für die Registrierung und die Nutzung von Facebook die Datenschutz- und Nutzungsbedingungen von Facebook gelten.&nbsp;<br class="sb" /><br class="sb" /></div>
+<div><strong>Login beim sozialen Netzwerk</strong></div>
+<div>Entscheiden Sie sich für die Registrierung mit Ihrem Facebook-Konto, werden Sie in einem ersten Schritt unmittelbar zu Facebook weitergeleitet. Dort bittet Facebook Sie, Ihre Zugangsdaten anzugeben und sich bei Facebook anzumelden oder zu registrieren. Sind Sie in diesem Moment bereits bei Facebook eingeloggt, wird diese Abfrage zur Anmeldung übersprungen. Wichtig: Wir erfahren dadurch Ihre Zugangsdaten nicht.&nbsp;<br class="sb" /><br class="sb" /></div>
+<div><strong>Verbindung mit autobild.de in sozialem Netzwerk</strong></div>
+<div>In einem zweiten Schritt verbinden Sie Ihr Profil bei Facebook mit einer Facebook-Applikation von autobild.de, für die Sie sich gerade registrieren wollen. Zudem zeigt Facebook Ihnen noch einen Link zu den Datenschutz- und Nutzungsbedingungen von autobild.de an.&nbsp;<br class="sb" /><br class="sb" />Welche Ihrer Angaben aus Ihrem Facebook-Profil von autobild.de abgefragt werden können, erfahren Sie in diesem Schritt ebenfalls. Hierzu gehören zum einen Ihre sog. öffentlichen Information bei Facebook und solche, die Sie öffentlich zugänglich machen oder für die jeweilige Anwendung freigeben. Öffentlich bedeutet im Zusammenhang mit Facebook, dass jeder auch außerhalb von Facebook diese Daten sehen kann. Hierzu zählen Ihr Name, Ihr Profil- und Titelbild, Ihr Geschlecht, Ihre Netzwerke, Ihr Nutzername (Facebook URL) und Ihre Nutzerkennnummer (Facebook ID). Zur Registrierung bei autobild.de benötigen wir schließlich noch Ihre E-Mail-Adresse, die Sie bei Facebook hinterlegt haben, damit wir mit Ihnen unabhängig von Facebook in Kontakt treten und Ihren Zugang bei autobild.de anlegen können. Sollten Sie nämlich einmal die Verbindung zwischen der Facebook Applikation und Ihrem Profil aufheben, können Sie so über die Funktion Passwort vergessen auf autobild.de, Ihr autobild.de-Profil weiter nutzen.&nbsp;<br class="sb" /><br class="sb" />Wenn Sie damit einverstanden sind, dass autobild.de für die Nutzung Ihre Facebook-Daten verwenden darf, wie es Ihnen bei Facebook angezeigt wird, stellen Sie die Verbindung in dem sozialen Netzwerk zwischen Ihrem Netzwerk-Profil und autobild.de in dem Netzwerk her und werden dann wieder zur Registrierung für autobild.de weitergeleitet.&nbsp;<br class="sb" /><br class="sb" />Bitte beachten Sie, dass der Schritt Verbindung autobild.de im Netzwerk übersprungen wird, wenn Sie sich bereits innerhalb des Sozialen Netzwerks mit der jeweiligen Applikation von autobild.de bei Facebook verbunden haben.&nbsp;<br class="sb" /><br class="sb" />Autobild.de hat nun die im Rahmen der Registrierung genannten Daten von Facebook übernommen und damit ein Konto bei autobild.de für Sie angelegt  Ihr autobild.de-Konto. Sie können sich nun zukünftig immer über den Button Login mit Facebook bei Ihrem autobilld.de-Konto und damit bei autobild.de anmelden.&nbsp;<br class="sb" /><br class="sb" /><br class="sb" /></div>
+<div><strong>Zusatzinformationen</strong></div>
+<div>Haben Sie diese Form der Registrierung abgeschlossen, speichert autobild.de die Information, dass und über welches soziale Netzwerk Sie sich für die Registrierung bei autobild.de angemeldet haben. Diese Information wird in Form eines Schlüssels zu autobild.de gespeichert. Ihre Zugangsdaten zu dem jeweiligen sozialen Netzwerk werden dagegen nie von uns gespeichert.&nbsp;<br class="sb" /><br class="sb" />Sollten Sie Ihre Angaben, die an autobild.de übermittelt wurden ändern, müssen Sie diese Änderungen auch bei autobild.de vornehmen. Autobild.de erhält nicht automatisch Ihre aktualisierten Daten von Ihrem Facebook-Konto und schickt auch keine Ihrer Profilinhalte an Facebook, wenn Sie dem nicht ausdrücklich zustimmen (siehe oben).&nbsp;<br class="sb" /><br class="sb" />In keinem Fall werden Daten, die Sie dann für eingeben, an Facebook weitergegeben oder etwaige Angaben in Ihrem Facebook-Profil überschrieben.&nbsp;<br class="sb" /><br class="sb" /><br class="sb" /></div>
+<div><strong>Aufhebung der Verbindung</strong></div>
+<div>Sollten Sie sich einmal entscheiden, autobild.de unabhängig von Facebook nutzen zu wollen, fordern Sie bitte bei autobild.de ein neues Passwort über die Funktion Passwort vergessen an.&nbsp;<br class="sb" /><br class="sb" />Möchten Sie die o.g. Verbindung zu der jeweiligen Applikation innerhalb von Facebook aufheben, melden Sie sich bitte bei Facebook an und stellen dort die erforderlichen Änderungen in Ihrem Profil ein. Wir haben dann keine Berechtigung mehr, Angaben aus Ihrem Facebook-Profil für Sie zu nutzen. Sie müssen deshalb ein eigenes Passwort bei autobild.de über die Funktion Passwort vergessen anfordern. Möchten Sie, dass wir Ihre Facebook-Daten aus Ihrem autobild.de-Profil löschen, müssen Sie Ihr gesamtes autobild.de-Profil kündigen, sodass Sie autobild.de nicht mehr nutzen können. Hierfür schreiben Sie bitte eine E-Mail an info@autobild.de.de mit dem Betreff autobild.de-Profil löschen. Wenn Sie nur Daten bei autobild.de löschen möchten, nutzen Sie bitte die dort jeweils angebotenen Funktionen wie Beitrag löschen, autobild.de-Profil löschen etc&nbsp;<br class="sb" /><br class="sb" /></div>
+<div><strong>autobild.de in sozialen Netzwerken</strong></div>
+<div>Sie finden autobild.de auch in sozialen Online-Netzwerken, die andere Unternehmen im Internet anbieten (z.B. Facebook oder Google). Zudem finden Sie einzelne Funktionen dieser Netzwerke auch in autobild.de integriert. Sowohl autobild.de in sozialen Netzwerken als auch die sozialen Netzwerk-Funktionen in autobild.de können Sie nur nutzen, wenn Sie auch bei dem jeweiligen sozialen Netzwerk registriert und angemeldet sind. Beachten Sie deshalb, dass für die Nutzung des sozialen Netzwerks die Nutzungs- und Datenschutzbedingungen des jeweiligen Netzwerk-Anbieters gelten. Wie autobild.de Ihre personenbezogenen Daten in diesem Zusammenhang verarbeitet werden, erklären wir Ihnen im folgenden Text:&nbsp;<br class="sb" /><br class="sb" /><br class="sb" /></div>
+<div><strong>Login mit Facebook</strong></div>
+<div>Haben Sie die Registrierung über Facebook genutzt (s.o.), müssen Sie sich zukünftig zuerst bei Facebook anmelden, um die verknüpften Dienste auf autobild.de nutzen zu können.&nbsp;<br class="sb" /><br class="sb" />Besuchen Sie autobild.de, wenn Sie sich über Ihr Facebook-Konto registriert haben, und sind zeitgleich bereits bei Facebook angemeldet, werden Sie automatisch auch bei unserem Internetangebot angemeldet. Sie haben dort die Möglichkeit sich jederzeit wieder abzumelden.&nbsp;<br class="sb" /><br class="sb" />Melden Sie sich bei Facebook ab, bleiben Sie bei autobild.de weiterhin angemeldet, bis Sie sich dort abgemeldet haben. Wenn Sie sich bei autobild.de abmelden, werden Sie automatisch auch bei Facebook abgemeldet.</div>
+<div><strong><br class="sb" />d. Outbrain-Widget</strong></div>
+<div>Auf manchen Internetseiten von der Axel Springer Auto Verlag GmbH integrieren wir ein sog. Widget der Outbrain UK Limited mit Sitz in London. Der Dienst Outbrain dient dazu, unsere Nutzer auf weiterführende Inhalte hinzuweisen, die in einem thematischen Zusammenhang mit dem vom jeweiligen Nutzer gelesenen Inhalt stehen. Wenn der Nutzer kein Opt-out erklärt hat (siehe unten), erfolgt die Auswahl der im Widget angezeigten Inhalte auch anhand der Inhalte, die der Nutzer aktuell und in der jüngeren Vergangenheit auf der betreffenden Website betrachtet hat. Hierfür verwendet Outbrain unter anderem Cookies (zu Cookies siehe oben).</div>
+<div>Die im Widget angezeigten Inhalte werden inhaltlich und technisch von Outbrain gesteuert und ausgeliefert. Axel Springer Auto Verlag GmbH erhebt und verwendet im Zusammenhang mit dem Outbrain-Widget keine personenbezogenen Daten. Über die Erhebung und Verwendung von Nutzungs- und anderen Daten informiert Outbrain als verantwortliche Stelle in den <a href="http://www.outbrain.com/de/legal/privacy" target="_blank" title="http://www.outbrain.com/de/legal/privacy">Datenschutzregelungen von Outbrain</a>. Dort haben Sie überdies die Möglichkeit, der Verwendung von Nutzungs- und anderen Daten für bestimmte Zwecke zu widersprechen Opt-out). Die Empfehlungen von Inhalten im Widget werden danach nicht mehr auf der Grundlage von von Outbrain erfassten Nutzungsdaten gesteuert<br class="sb" /> <br class="sb" /> <strong>§ 6 Auskunftsrecht und Löschung von personenbezogenen Daten</strong><br class="sb" /> Sie können jederzeit Auskunft über die bei uns über Sie gespeicherten Daten erhalten, etwaigen Werbeeinwilligungen widerrufen und/oder der sonstigen Verwendung für Zwecke der Werbung widersprechen. Bei Bedarf schreiben Sie bitte an<br class="sb" /> <br class="sb" /> Axel Springer Auto Verlag GmbH<br class="sb" /> Leserredaktion<br class="sb" /> Kostenstelle 8291<br class="sb" /> Axel-Springer-Platz 1<br class="sb" /> 20350 Hamburg<br class="sb" /> oder senden Sie eine E-Mail an: datenschutz@autobild.de<br class="sb" /> <br class="sb" /> <br class="sb" /> <strong>§ 7 Weitere Hinweise zum Datenschutz</strong><br class="sb" /> Bitte denken Sie daran, dass immer, wenn Sie freiwillig persönliche Informationen online bekannt geben (z.B. in Chatbereichen, per E-Mail, in Foren) diese Informationen von anderen gesammelt und verwendet werden können. Sie könnten also von anderen unerwünschte Nachrichten erhalten, wenn Sie in Bereichen mit öffentlichem Zugriff persönliche Informationen online versenden. Handeln Sie online stets vorsichtig und verantwortungsvoll und achten Sie auf die Geheimhaltung Ihres Passwortes und/oder sonstiger persönlicher Informationen.<br class="sb" /> <br class="sb" /> <br class="sb" /> <strong>§ 8 Änderungsvorbehalt</strong><br class="sb" /> Autobild.de behält sich das Recht vor, jederzeit diese Erklärung zum Datenschutz unter Beachtung der rechtlichen Vorgaben zu aktualisieren.</div>
+<p class="agb"></p>
+
+		<script type="text/javascript"><!--function optOut() {blockCall = new Image();blockCall.src = 'http://eu.nuggad.net/block';}function optIn() {blockCall = new Image();blockCall.src = 'http://eu.nuggad.net/unblock';}//--></script><p class="agb"><br><br><strong>§ 9 Steuerung von Werbeeinblendungen</strong><br class="sb">Auf dieser Website werden mit der Technologie der nugg.ad AG (www.nugg.ad) Daten zur Steuerung von Werbeeinblendungen gemessen. Hierzu werden Cookies eingesetzt. Bei Cookies handelt es sich um kleine Textdateien, die lokal im Zwischenspeicher des Internetbrowsers des Seitenbesuchers gespeichert werden. Die Cookies ermöglichen die Wiedererkennung des Internetbrowsers.<br class="sb">Sollten Sie wünschen, dass für den genannten Zweck keine Informationen im Zusammenhang mit Ihrer Nutzung unseres Online-Angebots an nugg.ad übermittelt werden, klicken Sie bitte <a href="#" onClick="optOut(); alert('Einstellung gespeichert'); return false;">hier</a>.<br class="sb"><br class="sb">Sollten Sie die Übermittlung der Informationen an nugg.ad wieder zulassen wollen, so klicken Sie bitte <a href="#" onClick="optIn(); alert('Einstellung gespeichert'); return false;">hier</a>.<br class="sb"><br class="sb">Bitte beachten Sie! Das Cookie darf nicht gelöscht werden, solange der Aufzeichnung von Messdaten widersprochen wird. Sollten Sie alle Ihre Cookies im Browser löschen, müssen Sie den Vorgang wiederholen.<br></p><p class="agb"><br><br><strong>Tealium</strong><br class="sb" />Auf dieser Website werden durch Tealium, einem Dienst des Anbieters Tealium Inc., 11085 Torreyana Road, San Diego, CA 92121, USA, Daten erhoben und gespeichert, aus denen unter Verwendung von Pseudonymen Nutzungsprofile erstellt werden. Im Auftrag des Betreibers dieser Website wird Tealium diese Informationen benutzen, um Ihre Nutzung der Website automatisiert und in Echtzeit bedarfsgerecht zu gestalten. Hierfür werden beispielsweise folgende Informationen erhoben: gesehene und geklickte Anzeigen, Artikel, Werbung, Besucherzahlen, Thema der Seite etc..<br>Autobild.de verwendet auch das Tag Management System von Tealium, um Teile der Webseiten dynamisch anzupassen. Um diese Funktionalität zu ermöglichen wird ein Cookie namens utag_main angelegt.<br>Die pseudonymisierten Nutzungsprofile werden ohne eine gesondert zu erteilende Einwilligung nicht mit personenbezogenen Daten über den Träger des Pseudonyms zusammengeführt. Auch die von Ihrem Browser übermittelte IP-Adresse wird nicht mit den Nutzungsprofilen zusammengeführt.<br>Zur Erstellung der Nutzungsprofile werden Cookies oder bei mobilen Endgeräten ähnliche Technologien eingesetzt. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden ausschließlich in Deutschland gespeichert. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können.<br>Der Datenerhebung und -speicherung zum Zwecke der Webanalyse können Sie jederzeit mit Wirkung für die Zukunft widersprechen, indem Sie auf diesen <a href="javascript:utag_trackingOptOut(); return false;">Opt-Out Link</a> klicken.<br></p><p class="agb">Stand: August 2016</p>	</div></div>					<div id="ie_clearing" class="ie_clearing">&nbsp;</div>
+			</div>
+			<div class="adsensebox">
+	<script type="text/javascript">
+		<!--
+		google_ad_channel="7348016779";
+		google_ad_client="pub-2557501611105071";
+		google_ad_format="1000x100";
+		google_ad_height=100;
+		google_ad_type="text";
+		google_ad_width=1000;
+		google_color_bg="#ffffff";
+		google_color_border="#e3e3e3";
+		google_color_link="#ff0000";
+		google_color_text="#000000";
+		google_color_url="#000000";
+		google_font_face="Open Sans, Arial";
+		google_language="de";
+		google_max_num_ads="4";
+		// -->
+	</script>
+	<script src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div><div id="servicetools">
+	<div class="header clearfix">
+		<p class="title"><span>Service Tools</span></p>
+	</div>
+	<div class="content">
+		<ul class="clearfix">
+
+			<li class="section1">
+				<p class="headline"><span>Messen</span></p>
+				<ul>
+					<li><a href="http://www.autobild.de/messen/iaa/">IAA</a></li>
+					<li><a href="http://www.autobild.de/messen/auto-salon-genf/">Genfer Autosalon</a></li>
+					<li><a href="http://www.autobild.de/messen/auto-salon-paris/">Autosalon Paris</a></li>
+					<li><a href="http://www.autobild.de/messen/detroit-auto-show/">Detroit Auto Show</a></li>
+					<li><a href="http://www.autobild.de/messen/auto-shanghai/">Shanghai Auto Show</a></li>
+					<li><a href="http://www.autobild.de/messen/peking-motor-show/">Auto China Peking</a></li>
+				</ul>
+			</li>
+			<li class="section2">  
+				<p class="headline"><span>Automodelle</span></p>  
+				<ul>  
+					<li><a href="http://www.autobild.de/marken-modelle/hyundai/i30/">Hyundai i30</a></li>  
+					<li><a href="http://www.autobild.de/marken-modelle/mercedes-benz/a-klasse/">Mercedes A-Klasse</a></li>  
+					<li><a href="http://www.autobild.de/marken-modelle/vw/golf/">VW Golf</a></li>  
+					<li><a href="http://www.autobild.de/marken-modelle/dacia/duster/">Dacia Duster</a></li>  
+					<li><a href="http://www.autobild.de/marken-modelle/bmw/3er/">BMW 3er</a></li>  
+					<li><a href="http://www.autobild.de/marken-modelle/audi/a4/">Audi A4</a></li>  
+				</ul>  
+			</li>
+			<li class="section3">
+				<p class="headline"><span>Auto Kaufen</span></p>
+				<ul>
+					<li><a href="http://neuwagen.autobild.de/">Neuwagen</a></li>
+					<li><a href="http://gebrauchtwagen.autobild.de/">Gebrauchtwagen</a></li>
+					<li><a href="http://www.autobild.de/fahrzeugbewertung-1764785.html">Fahrzeugbewertung</a></li>
+					<li><a href="http://www.autobild.de/kaufberatung/">Kaufberatung</a></li>
+					<li><a href="http://www.autobild.de/artikel/kfz-kaufvertrag-43875.html">Musterkaufvertrag</a></li>
+					<li><a href="http://www.autobild.de/ratgeber/autofinanzierung/">Autofinanzierung</a></li>
+					<li><a href="http://www.autobild.de/ratgeber/leasing/">Leasing</a></li>
+				</ul>
+			</li>
+			<li class="section4">
+				<p class="headline"><span>Rechner</span></p>
+				<ul>
+					<li><a href="http://www.autobild.de/autokredit-vergleich-5500751.html">Autokredit-Vergleich</a></li>
+					<li><a href="http://www.autobild.de/kfz-steuer/">Kfz-Steuer</a></li>
+					<li><a href="http://www.autobild.de/firmenwagenrechner-1764475.html">Firmenwagenrechner</a></li>
+					<li><a href="http://www.autobild.de/bussgeldrechner-1764477.html">Bußgeldrechner</a></li>
+					<li><a href="http://www.autobild.de/artikel/urteil-zur-pendlerpauschale-818351.html">Kilometergeldrechner</a></li>
+					<li><a href="http://www.autobild.de/artikel/hitliste-der-spritsparer-819373.html">CO2-Rechner</a></li>
+				</ul>
+			</li>
+			<li class="section5">
+				<p class="headline"><span>Ratgeber</span></p>
+				<ul>
+					<li><a href="http://www.autobild.de/ratgeber/kfz-versicherung/">Kfz-Versicherung</a></li>
+					<li><a href="http://www.autobild.de/ratgeber/wohnmobile/">Wohnmobile</a></li>
+					<li><a href="http://www.autobild.de/ratgeber/sommerreifen/">Sommerreifen</a></li>
+					<li><a href="http://www.autobild.de/ratgeber/kfz-kennzeichen/">Kfz-Kennzeichen</a></li>
+					<li><a href="http://www.autobild.de/ratgeber/felgen/">Felgen</a></li>
+					<li><a href="http://www.autobild.de/ratgeber/fuehrerschein/">Führerschein</a></li>
+					<li><a href="http://www.autobild.de/kummerkasten/">Kummerkasten</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+			<div id="footer">
+				<div class="socialmedia"><div class="hide clearfix"></div></div>	<ul class='main'>
+
+    <li><a href="http://www.autobild.de/sonderseite/agb_217129.html">AGB</a></li>
+
+    <li><a href="http://www.autobild.de/sonderseite/datenschutz_217127.html">Datenschutz</a></li>
+
+    <li><a href="http://www.autobild.de/nutzungsbasierte-online-werbung-3535351.html">Nutzungsbasierte Online-Werbung</a> </li>
+
+    <li><a href="http://www.autobild.de/widerrufsbelehrung-5159624.html">Widerrufsbelehrung</a> </li>
+
+    <li><a href="http://www.autobild.de/impressum.html">Impressum</a></li>
+
+    <li><a href="http://www.axelspringer-mediapilot.de/Unsere-Medien-Auto-und-Sport_551226.html" target="_blank">Media</a> </li>
+
+    <li><a href="http://www.autobild-syndication.com/" target="_blank">Fotosyndication</a> </li>
+
+    <li><a href="http://www.autobild.de/kontakt/kontakt.html">Kontakt</a></li>
+  </ul>
+<p class="headline">Weitere Online-Angebote der Axel Springer SE</p>
+<ul>
+	<li><a target="_blank" title="Autohaus24" href="http://www.autohaus24.de/">Autohaus24</a></li>
+	<li><a target="_blank" title="Promis, News, Sport aus Berlin" href="http://www.bz-berlin.de/">B.Z.</a></li>
+	<li><a target="_blank" title="Aktuelle Nachrichten Show, Sport, Promis, Ratgeber" href="http://www.bild.de">BILD</a></li>
+	<li><a target="_blank" title="" href="http://www.computerbild.de">COMPUTERBILD</a></li>
+	<li><a target="_blank" title="Aktienkurse" href="http://www.finanzen.net">finanzen.net</a></li>
+	<li><a target="_blank" title="Flug- und Billigflug-Angebote vergleichen" href="http://flug.idealo.de">flug.idealo.de</a></li>
+	<li><a target="_blank" title="Portal für Onlinespiele" href="http://www.gamigo.de">gamigo.de</a></li>
+	<li><a target="_blank" title="Mode, Horoskop, Wellness" href="http://www.gofeminin.de">goFeminin.de</a></li>
+	<li><a target="_blank" title="Preisvergleich" href="http://www.idealo.de">idealo.de</a></li>
+	<li><a target="_blank" title="Immobilien" href="http://www.immonet.de">immonet.de</a></li>
+	<li><a href="http://www.ladenzeile.de" title="LadenZeile" target="_blank" >Ladenzeile.de</a></li>
+	<li><a target="_blank" title="Heavy Metal, Hardrock, Metal Videos" href="http://www.metal-hammer.de">METAL HAMMER</a></li>
+	<li><a target="_blank" title="Independent, Musik, Plattenkritik, Style" href="http://www.musikexpress.de">MUSIKEXPRESS</a></li>
+	<li><a target="_blank" title="" href="http://www.onmeda.de">Onmeda</a></li>
+	<li><a target="_blank" title="Rock, Pop, Kultur, Plattenkritik" href="http://www.rollingstone.de">ROLLING STONE</a></li>
+	<li><a target="_blank" title="Sport, Fussball, Formel1, Live" href="http://www.sportbild.de">SPORT BILD</a></li>
+	<li><a target="_blank" title="Stellenangebote und Jobs bei Stepstone" href="http://www.stepstone.de">stepstone.de</a></li>
+	<li><a target="_blank" title="" href="http://www.transfermarkt.de">transfermarkt.de</a></li>
+	<li><a target="_blank" title="Umzug &amp; Umzüge" href="http://www.umzugsauktion.de">umzugsauktion.de</a></li>
+	<li><a target="_blank" title="Aktuelle Nachrichten" href="http://www.welt.de">WELT</a></li>
+	<li><a target="_blank" title="Affiliate Marketing" href="http://www.zanox.com/de">zanox.de</a></li>
+</ul>
+<ul>
+	<li><a href="http://www.axelspringer.de/" rel="follow" target="_blank">Axel Springer SE</a></li>
+	<li><a href="http://www.axel-springer-akademie.de/" rel="follow" target="_blank">Axel Springer Akademie</a></li>
+	<li><a href="http://www.ein-herz-fuer-kinder.de/" rel="follow" target="_blank">Ein Herz für Kinder</a></li>
+	<li><a href="http://www.ikiosk.de/" rel="follow" target="_blank">iKiosk</a></li>
+</ul>
+<ul>
+	<li><a href="http://www.auto-swiat.pl/" rel="follow" target="_blank">AUTO-SWIAT.PL</a></li>
+	<li><a href="http://www.autobild.bg/" rel="follow" target="_blank">AUTOBILD.BG</a></li>
+	<li><a href="http://www.autobild.by/" rel="follow" target="_blank">AUTOBILD.BY</a></li>
+	<li><a href="http://www.autobild.co.id/" rel="follow" target="_blank">AUTOBILD.CO.ID</a></li>
+	<li><a href="http://www.autobild.es/" rel="follow" target="_blank">AUTOBILD.ES</a></li>
+	<li><a href="http://www.autobild.fi/" rel="follow" target="_blank">AUTOBILD.FI</a></li>
+	<li><a href="http://www.autobild.ge/" rel="follow" target="_blank">AUTOBILD.GE</a></li>
+	<li><a href="http://www.autobild.gr/" rel="follow" target="_blank">AUTOBILD.GR</a></li>
+	<li><a href="http://www.autobild.hu/" rel="follow" target="_blank">AUTOBILD.HU</a></li>
+	<li><a href="http://www.autobild.in/" rel="follow" target="_blank">AUTOBILD.IN</a></li>
+	<li><a href="http://www.autobild.lt/" rel="follow" target="_blank">AUTOBILD.LT</a></li>
+	<li><a href="http://www.auto-bild.ro/" rel="follow" target="_blank">AUTOBILD.RO</a></li>
+	<li><a href="http://www.autobild.sk/" rel="follow" target="_blank">AUTOBILD.SK</a></li>
+	<li><a href="http://autobild.ua/" rel="follow" target="_blank">AUTOBILD.UA</a></li>
+	<li><a href="http://www.autoexpress.co.uk/" rel="follow" target="_blank">AUTOEXPRESS.CO.UK</a></li>
+	<li><a href="http://www.autoplus.fr/" rel="follow" target="_blank">AUTOPLUS.FR</a></li>
+	<li><a href="http://www.autoweek.nl/" rel="follow" target="_blank">AUTOWEEK.NL</a></li>
+	<li><a href="http://www.clever-tanken.de/" rel="follow" target="_blank">clever-tanken.de</a></li>
+	<li><a href="http://www.formel1.de/" rel="follow" target="_blank">Formel1.de</a></li>
+	<li><a href="http://www.motorsport-total.com/" rel="follow" target="_blank">Motorsport-Total.com</a></li>
+</ul>
+			</div>
+						<script src="http://i.auto-bild.de/js/inactivityOverlay/overlay.min.js"></script>
+			<script>
+				$(function() {
+					var listener = new InactivityTimer.IdleTimerShowHomepage();
+					var idleTimerGA = new InactivityTimer.IdleTimerGoogleAnalytics();
+					idleTimerGA.gaPrefix = 't3.';
+					listener.addAnalyticsInterface(idleTimerGA);
+					var timer = new InactivityTimer.IdleTimer();
+					timer.registerListener(listener);
+					timer.startTimeouts();
+				});
+			</script>
+			
+		</div>	</div>	<script type="text/javascript">
+	<!--
+
+	$(".searchboxinput9").click(function () {
+		if ($(this).val() == "Suchbegriff oder Inserats-ID eingeben") { $(this).val(''); }
+	});
+
+	$(function() {
+		var facebookactivated = false;
+		var googleplusactivated = false;
+		var twitteractivated = false;
+		var currurl = $(location).attr('href');
+		var currtitle = document.title;
+
+		$(".socialmedia .hide").append('<div class="facebook deactivated clearfix"><div class="box"><\/div><\/div><div class="googleplus deactivated clearfix"><div class="box"><\/div><\/div><div class="twitter deactivated clearfix"><div class="box"><\/div><\/div>');
+
+		// GOOGLE PROBLEME IM IE8 IE7 WIRD VON GOOGLE NICHT SUPPORTET
+		$(".socialmedia .hide .googleplus .box").append('<div class="g-plusone" data-size="medium" data-count="false"><\/div>');
+
+		function getfacebook() {
+			if (facebookactivated === false) {
+
+				$("body").append('<div id="fb-root"><\/div>');
+
+				var e = document.createElement('script'); e.async = true;
+				e.src = '//connect.facebook.net/de_DE/all.js#xfbml=1';
+				document.getElementById('fb-root').appendChild(e);
+
+				$("#header .socialmedia .facebook .box").prepend('<fb:like href="http://www.autobild.de" layout="button_count" width="125" font="verdana"><\/fb:like>');
+				$("#footer .socialmedia .facebook .box").prepend('<fb:like href="http://www.autobild.de" layout="button_count" width="125" font="verdana"><\/fb:like>');
+				$("#content .socialmedia .facebook .box").prepend('<fb:like href="' + currurl + '" layout="button_count" width="125" font="verdana"><\/fb:like>');
+
+				facebookactivated = true;
+			}
+		}
+
+		function getgoogleplus() {
+			if (googleplusactivated === false) {
+
+				var e = document.createElement('script'); e.async = true;
+				e.src = 'https://apis.google.com/js/plusone.js';
+				var lg = document.createTextNode("{lang: \'de\'}");
+				e.appendChild(lg);
+				document.body.appendChild(e);
+
+				googleplusactivated = true;
+			}
+		}
+
+		function gettwitter() {
+			if (twitteractivated === false) {
+
+				$("#header .socialmedia .twitter .box").append('<a target="_blank" title="Diesen Artikel twittern" alt="Diesen Artikel twittern" class="twitter_icon" href="http://twitter.com/share?url=http://www.autobild.de&amp;text=AUTOBILD.DE%20-%20Testberichte%20-%20Automarkt%20-%20Autokauf"><\/a>');
+				$("#footer .socialmedia .twitter .box").append('<a target="_blank" title="Diesen Artikel twittern" alt="Diesen Artikel twittern" class="twitter_icon" href="http://twitter.com/share?url=http://www.autobild.de&amp;text=AUTOBILD.DE%20-%20Testberichte%20-%20Automarkt%20-%20Autokauf"><\/a>');
+				$("#content .socialmedia .twitter .box").append('<a target="_blank" title="Diesen Artikel twittern" alt="Diesen Artikel twittern" class="twitter_icon" href="http://twitter.com/share?url=' + currurl + '&amp;text='+ currtitle +'"><\/a>');
+
+				twitteractivated = true;
+			}
+		}
+
+		$(".socialmedia").hover(
+			function () {
+				$(this).find(".hide").addClass('active');
+			},
+			function () {
+			}
+        );
+
+        if(!$.browser.msie || ($.browser.msie && parseInt($.browser.version) > 8)){
+            getfacebook();
+        }
+		getgoogleplus();
+		gettwitter();
+
+		$(".socialmedia .hide").not(".socialmedia.extended .hide").append('<div class="close"><\/div>');
+
+		$(".socialmedia .hide .close").live("click", function() {
+			$(this).parents('.hide:eq(0)').removeClass('active');
+		});
+	});
+	// -->
+    </script>
+
+	<script>
+		if (typeof SmartAdServer !== "function") {
+			document.write("<img src=\"http://i.auto-bild.de/ab/images/at2014070702.gif?r=" + Math.floor((Math.random() * 100000) + 1) + "\" />");
+		} else {
+			document.write("<img src=\"http://i.auto-bild.de/ab/images/at2014070701.gif?r=" + Math.floor((Math.random() * 100000) + 1) + "\" />");
+		}
+	</script>
+<!-- Visual Revenue Reader Response Tracking Script (v6) -->
+<script type="text/javascript">
+	var _vrq = _vrq || [];
+	_vrq.push(['id', 463]);
+    _vrq.push(['automate', false]);
+	_vrq.push(['track', function(){}]);
+	(function(d, a){
+		var s = d.createElement(a),
+		x = d.getElementsByTagName(a)[0];
+		s.async = true;
+		s.src = 'http://a.visualrevenue.com/vrs.js';
+		x.parentNode.insertBefore(s, x);
+	})(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+	        <script type="text/javascript" language="JavaScript">
+        <!--
+            var r2sz = screen.width+'x'+screen.height+'x'+screen.colorDepth;
+            var con = navigator.cookieEnabled ? 1 : 0;
+            document.write('<img id="rholive1" src="http://r1.autobild.de/images/pic.gif?m=autobild.de;b=216721;c=217127;tit=Datenschutz+-+autobild.de;url=http%3A%2F%2Fwww.autobild.de%2Fsonderseite%2Fdatenschutz_217127.html;sep=%7C;tce=%7C;tid=60291;tn=autobild.de;tp=59270%7C59276;tc=59270%7C59276%7C60291;tpn=AuBi-Navigation%7CStartseite;random=' + Math.random() + ';r=' + escape(document.referrer) + ';json=1;con='+con+';sz='+r2sz+';cs=1" width="1" height="1" alt="" />');
+        //-->
+        </script>
+        <noscript>
+            <img id="rholive1" src="http://r1.autobild.de/images/pic.gif?m=autobild.de;b=216721;c=217127;tit=Datenschutz+-+autobild.de;url=http%3A%2F%2Fwww.autobild.de%2Fsonderseite%2Fdatenschutz_217127.html;sep=%7C;tce=%7C;tid=60291;tn=autobild.de;tp=59270%7C59276;tc=59270%7C59276%7C60291;tpn=AuBi-Navigation%7CStartseite;random=1384885571;r=;cs=1" width="1" height="1" alt="" />
+        </noscript>                <script type="text/javascript">
+                  try {
+                    var _gaq = _gaq || [];
+                    _gaq.push (['t3._setCustomVar', 1, 'Submarke', 'autobild-online', 3],
+                               ['t3._setCustomVar', 2, 'Bereich', 'Startseite|autobild.de', 3],
+                               ['t3._setCustomVar', 3, 'Vollbildgalerie', 'NULL', 2]
+                    );
+
+                    var aufloesung = '';
+                    if ($(window).width()<=$(window).height()) {
+                        aufloesung='Hochformat';
+                    } else {
+                        aufloesung='Querformat';
+                    }
+                    _gaq.push (['t3._setCustomVar', 4, 'Displayaufloesung', aufloesung, 3]);
+
+                    (function() {
+                      var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+                      ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+                      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                    })();
+                  } catch(err) {}
+                </script>
+  </body>
+</html>

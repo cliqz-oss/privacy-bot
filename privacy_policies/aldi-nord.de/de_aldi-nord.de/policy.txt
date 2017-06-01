@@ -1,0 +1,611 @@
+0 Einkaufs- liste
+
+  * Angebote 
+
+    * Übersicht
+    * Frischeparade Mo., 29.05. - Sa., 03.06.
+    * Angebote ab Donnerstag, 01.06.
+    * Wochenendparade Fr., 02.06. - Sa., 03.06.
+    * Angebote ab Dienstag, 06.06.
+    * Angebote ab Donnerstag, 08.06.
+    * Länderaktion Frankreich ab Donnerstag, 08.06.
+    * Multimedia
+
+  * Unsere Magazine
+  * Produkte 
+
+    * Übersicht
+    * Neu im Sortiment
+    * Einkaufsideen
+    * Schon probiert?
+    * Ja, das grill ich!
+    * Saisonale Artikel
+    * Aus dem Sortiment
+    * Schnelle Küche fix &amp; lecker
+    * Unsere Weine
+    * Unser Sekt
+    * Ausgezeichnete Qualität
+    * Unsere Marken
+    * Nährwertanzeiger
+    * Zertifizierungen, Siegel und Initiativen
+
+  * Online-Services 
+
+    * Übersicht
+    * ALDI TALK
+    * ALDI life
+    * ALDI Reisen
+    * ALDI Blumen
+    * ALDI Foto
+
+  * Rezepte 
+
+    * Übersicht
+    * Neue Rezepte
+    * Rezept zum Wochenende
+    * Rezept der Woche
+    * Vorspeisen
+    * Hauptspeisen
+    * Beilagen
+    * Salate
+    * Saucen und Dips
+    * Suppen
+    * Snacks und kleine Gerichte
+    * Desserts und Süßspeisen
+    * Backen
+    * Getränke
+    * Grillen
+    * Für Kids
+
+  * Themenwelten 
+
+    * Übersicht
+    * Unsere Weinwelt
+    * Unsere Obst- und Gemüsewelt
+    * Unsere Kaffeewelt
+    * Unsere Teewelt
+
+  * Verantwortung 
+
+    * Übersicht
+    * Unser Verständnis
+    * Lieferkette Food
+    * Lieferkette Non-Food
+    * Gesellschaftliches Engagement
+
+  * Kunden Informationen 
+
+    * Übersicht
+    * ALDI App
+    * Bargeldlos bezahlen
+    * Einwegpfand
+    * Garantie
+
+  * Startseite
+  * Newsletter
+  * Filialen und Öffnungszeiten
+  * Karriere
+  * Unternehmen
+  * International
+
+  1. Startseite
+  2. Datenschutzhinweis
+
+# Datenschutzhinweis
+
+Sehr geehrte Kundinnen, sehr geehrte Kunden,
+
+Datenschutz ist uns sehr wichtig. Den Schutz Ihrer persönlichen Daten nehmen
+wir sehr ernst. Wir möchten Ihnen nachfolgend erläutern, welche Daten wir wann
+und zu welchem Zweck erheben, verarbeiten und nutzen:
+
+## Einige Hinweise zum Datenschutz vorab
+
+### Die Rechtsgrundlage
+
+Das Bundesdatenschutzgesetz (BDSG) und in der Folge auch das Telemediengesetz
+(TMG) schützen personenbezogene Daten. Dies sind Daten, die sich auf
+natürliche Personen beziehen. Daten juristischer Personen unterliegen diesem
+Schutz nicht. Personenbezogene Daten sind Einzelangaben über persönliche oder
+sachliche Verhältnisse, die Ihrer Person zugeordnet werden können (z. B. Ihr
+Name in Verbindung mit Ihrer Telefonnummer oder Ihrer E-Mail-Adresse).
+Informationen, die nicht direkt mit Ihrer tatsächlichen Identität in
+Verbindung gebracht werden können (wie zum Beispiel die Ihnen angezeigten
+Artikel auf einer Webseite), fallen nicht darunter.
+
+### Weitergabe Ihrer persönlichen Daten an Dritte
+
+Ihre Daten werden von uns nicht an Dritte zum Zwecke der Werbung
+weitergegeben. Dritte erhalten Ihre persönlichen Daten von uns nur in der in
+diesem Datenschutzhinweis beschriebenen Weise.  
+
+### Was passiert, wenn Sie unsere Website benutzen?
+
+Bei jedem Zugriff auf unsere Website, d. h. bei jedem Abruf oder Versuch eines
+Abrufs einer Datei auf diesem Server, werden Daten über diesen Vorgang in
+einer Protokolldatei gespeichert (Logfile).  
+
+Im Einzelnen wird über jeden Abruf folgender Datensatz gespeichert:
+
+  * IP-Adresse
+  * Name der abgerufenen Datei
+  * Datum und Uhrzeit des Abrufs
+  * übertragene Datenmenge
+  * Meldung, ob der Abruf erfolgreich war
+  * Meldung, warum ein Abruf ggf. fehlgeschlagen ist
+  * Betriebssystem und Browsersoftware Ihres Computers
+  * Bildschirmauflösung
+  * Browsersprache
+  * Farbtiefe
+  * Browser-Plug-ins (Javascript, Flash-Player, Java, Silverlight, Adobe Acrobat Reader usw.)
+  * die Website, von der aus Sie uns besuchen
+
+Die erstellten Datensätze werden zu statistischen Zwecken in Logfiles
+gespeichert und nach der statistischen Auswertung gelöscht. Wir können Ihnen
+die gespeicherten Daten nicht zuordnen. Die Daten werden von uns auch nicht an
+Dritte weitergegeben, lediglich bei Verletzungen unserer Rechte behalten wir
+uns vor, einzelne Datensätze an die zuständigen Stellen weiterzuleiten, um
+eine Verfolgung der Rechtsverletzungen zu veranlassen.
+
+### Einsatz von Cookies und Local Storage
+
+Wir setzen auf unserer Website sogenannte "Cookies" ein und nutzen die lokale
+Speicherkapazität Ihres Browsers („Local Storage“) um Ihnen maximalen
+Bedienkomfort zu bieten und unser Online Angebot auch in Zukunft attraktiv für
+Sie zu gestalten.
+
+Cookies sind Textdateien, die vom Browser auf Ihrem Computer gespeichert
+werden und Informationen über Ihre Benutzung unserer Website enthalten. Wir
+verwenden Cookies beispielsweise, um Ihnen die Nutzung der Reise-Merkliste zu
+ermöglichen, indem wir die fünf- bis sechsstellige Identifikationsnummer der
+gewählten Reise darin speichern. Die Merkliste bleibt somit erhalten, auch
+wenn das Pop-up-Fenster geschlossen wird. Dieses Sitzungs-Cookie verfällt nach
+24 Stunden. Weitere Cookies setzen wir zu statistischen Zwecken ein. Diese
+verbleiben dauerhaft auf Ihrem Computer, sofern Sie sie nicht löschen. Über
+diese Cookies werden keinerlei personenbezogene Daten ermittelt.
+
+In der Standard Einstellung akzeptiert Ihr Browser Cookies, sodass Sie keine
+spezielle Einstellung vornehmen müssen, damit Cookies auf Ihrem Computer
+gespeichert werden können. Wenn Sie die Speicherung von Cookies deaktivieren
+möchten, so können Sie weitere Informationen hierzu der Hilfe-Funktion in der
+Menüleiste Ihres Browsers entnehmen. Bitte beachten Sie aber, dass das
+Abschalten von Cookies die Nutzung der Website, insbesondere im Bereich der
+Reisen-Merkliste, einschränken kann. Wir empfehlen, die Verwendung von Cookies
+zuzulassen, da ansonsten die Möglichkeit besteht, dass die Funktionalität der
+Website eingeschränkt ist.
+
+Der Local Storage ist ein lokaler Speicher in Ihrem Browser. Wir verwenden den
+Local Storage um Artikel, die Sie der virtuellen Einkaufsliste hinzugefügt
+haben, temporär zu speichern. Die gespeicherten Artikel werden automatisch
+gelöscht, sobald die Artikel auf unserer Website nicht mehr verfügbar sind.
+Die Nutzung unserer Website ist auch ohne Local Storage problemlos möglich.
+Die im Local Storage gesammelten Daten werden nicht zu Werbezwecken
+missbraucht.
+
+### Retargeting
+
+Diese Webseite verwendet Retargeting-Technologien. Diese ermöglichen es, auf
+anderen Webseiten gezielt jene Internet-User mit Werbung anzusprechen, die
+sich bereits für unsere Webseite und unsere Produkte interessiert haben. Die
+Einblendung der Werbemittel erfolgt beim Retargeting auf der Basis einer
+Cookie-basierten Analyse des vorherigen Nutzerverhaltens. Bei Cookies handelt
+es sich um kleine Textdateien, die lokal im Zwischenspeicher des Internet-
+Browsers des Seitenbesuchers gespeichert werden. Die Cookies ermöglichen die
+Wiedererkennung des Internet-Browsers. Im Cookie sind weder Ihre IP-Adresse
+noch sonstige Daten, die Rückschlüsse auf Ihre Person zulassen, gespeichert.
+
+Bei der von uns verwendeten Technologie werden somit keine personenbezogenen
+Daten gespeichert. Die Verwendung der Retargeting-Technologie erfolgt unter
+Beachtung der geltenden gesetzlichen Datenschutzbestimmungen.
+
+Wenn Sie nicht möchten, dass Ihnen interessenbezogene Werbung angezeigt wird,
+können Sie diese Funktion deaktivieren. Da auf dieser Webseite
+unterschiedliche Systeme des Retargetings genutzt werden, müssen Sie dazu
+bitte alle Links benutzen.
+
+  * Opt out für AdForm http://site.adform.com/privacy-policy/de/
+  * Opt out für TheTradeDesk http://insight.adsrvr.org/track/stop?action=dooptout
+  * Opt out für Flashtalking http://www.flashtalking.com/de-privacy-policy/
+  * Opt out für Google https://www.google.de/settings/ads
+
+### Einsatz von YouTube-Videos
+
+Wir haben YouTube-Videos auf unserer Webseite eingebunden, die auf
+„www.youtube.com" gespeichert und von unserer Webseite direkt abspielbar sind.
+Diese sind alle im so genannten „erweiterten Datenschutzmodus" eingebunden, d.
+h. dass keine Daten über Sie als Nutzer an YouTube übertragen werden, wenn Sie
+die Videos nicht abspielen. Erst wenn Sie die Videos abspielen, werden auf
+Ihrem Rechner YouTube-Cookies gespeichert und Daten an Google Inc.,
+Amphitheater Parkway, Mountain View, CA 94043, USA, als YouTube-Betreiber
+übertragen.
+
+Beim Abspielen von bei YouTube gespeicherten Videos werden mindestens folgende
+Daten an Google Inc. als YouTube-Betreiber übertragen: IP-Adresse und Cookie-
+ID, die spezifische Adresse der bei uns aufgerufenen Seite, Systemdatum und
+Zeit des Aufrufs, Kennung Ihres Browsers.
+
+Die Datenübertragung erfolgt unabhängig davon, ob Sie bei Google ein
+Nutzerkonto verwenden, über das Sie eingeloggt sind, oder ob für Sie kein
+Nutzerkonto besteht. Wenn Sie eingeloggt sind, werden diese Daten direkt Ihrem
+Konto zugeordnet. Wenn Sie die Zuordnung zu Ihrem Profil nicht wünschen,
+müssen Sie sich vor Aktivierung des Buttons ausloggen.
+
+YouTube bzw. Google Inc. speichert diese Daten als Nutzungsprofile und nutzt
+diese für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten
+Gestaltung seiner Webseite. Eine solche Auswertung erfolgt insbesondere (auch
+für nicht eingeloggte Nutzer) zur Erbringung von bedarfsgerechter Werbung und
+um andere Nutzer über Ihre Aktivitäten auf unserer Webseite zu informieren.
+Ihnen steht ein Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile,
+wobei Sie sich zur Ausübung dessen an Google Inc. als Betreiber von YouTube
+richten müssen.
+
+Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer
+Verarbeitung durch Google Inc. erhalten Sie auf dieser Informationsseite.
+
+### Wann und wozu erheben, verarbeiten und nutzen wir Daten von Ihnen?
+
+Personenbezogene Daten werden nur dann erhoben, wenn Sie uns diese von sich
+aus - zum Beispiel im Rahmen einer Registrierung (z. B. Newsletter), bei einer
+Anfrage über die Kontakt-Seite oder bei Ihrer Online Bewerbung - zur Verfügung
+stellen.  
+
+Ihre Angaben werden verschlüsselt übertragen. Dies schützt die Kommunikation
+zwischen Ihnen und unserem Webserver und hilft, einem Missbrauch der Daten
+(Abhören) durch Dritte vorzubeugen. Zur Verschlüsselung setzen wir SSL (Secure
+Sockets Layer) ein, ein anerkanntes und weitverbreitetes System im Internet,
+mit dem z. B. auch Banken oder Online Shops für Internet Geschäfte arbeiten
+und das in der jeweils aktuellen Version als sicher gilt. Ausgenommen von der
+verschlüsselten Übertragung ist die Kontaktanfrage zu Immobilienobjekten.
+
+Alle im Zuge unserer Website anfallenden personenbezogenen Daten werden
+entsprechend den jeweils geltenden Bestimmungen zum Schutz personenbezogener
+Daten nur zum Zweck der von Ihnen beauftragten Services und zur Bearbeitung
+Ihrer Anfragen erhoben, verarbeitet und genutzt. Im Rahmen der Bearbeitung
+Ihrer Anfragen und Ihrer Nutzung unserer Dienste beauftragen wir
+Dienstleister. Die Dienstleister sind vertraglich zur Einhaltung dieser
+Datenschutzerklärung verpflichtet. Eine Verarbeitung und Nutzung Ihrer Daten
+für Zwecke der Beratung, der Werbung und der Marktforschung, über die oben
+genannten Zwecke hinaus, erfolgt durch ALDI nicht.
+
+### Adobe Analytics:
+
+Auf dieser Website kommt das Webanalysewerkzeug Adobe Analytics zum Einsatz.
+Adobe Analytics verwendet sog. "Cookies", Textdateien, die auf Ihrem Computer
+gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie
+ermöglichen. Aus diesen Daten können unter einem Pseudonym Nutzungsprofile
+erstellt werden. Die durch den Cookie erzeugten Informationen werden in der
+Regel an einen Server von Adobe in den USA übertragen und dort gespeichert. Da
+wir die IP-Anonymisierung auf dieser Webseite aktiviert haben, wird durch die
+von uns vorgenommene Servereinstellung gewährleistet, dass vor der
+Geolokalisierung die IP-Adresse anonymisiert wird. Dabei wird das letzte
+Oktett der IP-Adresse durch Nullen ersetzt. Vor Speicherung der durch den
+Cookie erzeugten Informationen wird die IP-Adresse durch einzelne generische
+IP-Adressen ersetzt. Adobe wird diese Informationen benutzen, um Ihre Nutzung
+der Webseite für uns auszuwerten, um Berichte über die Webseitenaktivitäten
+zusammenzustellen und um weitere mit der Webseitennutzung und der
+Internetnutzung verbundene Dienstleistungen gegenüber uns zu erbringen.
+
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung
+Ihres Internet-Browsers- verhindern und damit den Einsatz von Adobe Analytics
+unterbinden. Wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
+gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen
+können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten
+und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an
+Adobe sowie die Verarbeitung dieser Daten durch Adobe verhindern, indem sie
+der Datenerhebung und -speicherung unter dem folgenden Link widersprechen:
+
+Bitte schließen Sie mich von der Datenerhebung auf dieser Webseite für diesen
+Browser aus.
+
+### Wie können Sie sich über aktuelle Aktionsangebote von ALDI informieren?
+
+ALDI Newsletter  
+Gerne informieren wir Sie regelmäßig über unsere aktuellen Angebote per
+E-Mail. Zu diesem Zweck können Sie sich für unseren Newsletter anmelden. Dabei
+erfassen wir Ihre E-Mail-Adresse für den Versand. Ihre E-Mail-Adresse wird
+selbstverständlich nicht an Dritte weitergegeben. Sie können den Newsletter
+jederzeit abbestellen.
+
+Aktionsartikel per E-Mail empfehlen  
+Unsere Kunden können Aktionsartikel aus dem aktuellen Angebot von ALDI per
+E-Mail weiterempfehlen. Ihre E-Mail-Adresse, Ihr Name sowie die E-Mail-Adresse
+des Empfängers werden ausschließlich zu Übertragungszwecken gespeichert, um
+den Adressaten über den Absender zu informieren bzw. um im Fall eines
+Übertragungsfehlers eine Benachrichtigung zu übermitteln.
+
+Bitte beachten Sie, dass die unaufgeforderte Zusendung einer Empfehlung vom
+Empfänger als störend empfunden werden kann. Mit diesem Angebot dürfen Sie
+eine Empfehlung nur dann aussprechen, wenn Sie wissen oder sicher davon
+ausgehen können, dass der Empfänger mit der Zusendung der Empfehlung
+einverstanden ist.
+
+### Datenschutzhinweise für die Anmeldung und Nutzung des ALDI Newsletters
+
+ALDI nimmt den Schutz Ihrer persönlichen Daten ernst und möchte einen
+Missbrauch Ihrer E-Mail-Adresse vermeiden. Wenige Minuten nach der Anmeldung
+erhalten Sie entsprechend Ihrer Auswahl eine E-Mail. Klicken Sie bitte
+innerhalb von 7 Tagen auf den darin angegebenen Bestätigungslink. Erst nach
+Ihrer Bestätigung werden Sie in den Verteiler des ALDI Newsletters, des ALDI
+Frische-Angebote-Newsletters und/oder des ALDI Reisen-Newsletters eingetragen
+und Sie werden den nächsten Newsletter automatisch erhalten.  
+
+Ihre E-Mail-Adresse wird zu keinem anderen Zweck genutzt und nicht an andere
+Unternehmen weitergeleitet.
+
+Auf unserer Website leiten wir Sie teilweise über unsere "Online-Services" auf
+die entsprechenden Websites unserer Vertragspartner weiter. Um Ihre Anfragen
+und Ihre Bestellungen bearbeiten zu können, werden Sie auf die Internetseiten
+unserer Vertragspartner weitergeleitet. Wir übermitteln in diesem Zusammenhang
+keinerlei personenbezogene Daten. Die zur Beauftragung des jeweiligen
+Vertragspartners erforderlichen Daten geben Sie selbst erst auf dessen
+Internetseite an. Sie können die jeweils verantwortliche Stelle daran
+erkennen, dass der Vertragspartner auf der Seite und im jeweiligen Impressum
+genannt wird. Auf den Websites der Vertragspartner gelten deren
+Datenschutzhinweise. Zu Ihrer Sicherheit haben wir diese Unternehmen
+vertraglich auf die Einhaltung der geltenden Datenschutzgesetze verpflichtet.
+
+Bitte beachten Sie, dass sich der hier vorliegende Datenschutzhinweis nur auf
+unsere ALDI Website bezieht. Hinweise zu unseren einzelnen Online-Services
+erhalten Sie nachstehend.
+
+ALDI Reisen  
+Unser Online-Service ALDI Reisen bietet Ihnen eine Übersicht der aktuellen
+Reiseangebote. Die Informationen über die Reiseangebote werden direkt von uns
+bereitgestellt. Sollten Sie sich für eine Reise entscheiden, verweisen wir Sie
+auf das Buchungsformular des jeweiligen Reiseanbieters, da wir nur als
+Vermittler auftreten. Zu diesem Zeitpunkt verlassen Sie die ALDI Website. Ihre
+dort eingegebenen personenbezogenen Daten werden ausschließlich von unseren
+Vertragspartnern erhoben, verarbeitet und genutzt.
+
+ALDI Blumen Service  
+Der ALDI Blumen Service bietet Ihnen ein großes Angebot an frischen
+Blumensträußen. Die genauen Übersichten über die Angebote erhalten Sie auf der
+Website unserer Vertragspartner. Alle personenbezogenen Angaben, die Sie auf
+der Seite unserer Vertragspartner bereitstellen, werden ausschließlich von
+unseren Vertragspartnern erhoben und zur Abwicklung der Bestellung verarbeitet
+und genutzt. Auch hier treten wir nur als Vermittler auf.
+
+ALDI Foto Service  
+Der ALDI Foto Service bietet Ihnen einen Rundumservice für Ihre digitalen
+Bilder. Die genauen Übersichten über die Angebote erhalten Sie auf der Website
+unserer Vertragspartner. Alle personenbezogenen Angaben, die Sie auf dieser
+Seite bereitstellen, werden ausschließlich von unseren Vertragspartnern
+erhoben und zur Abwicklung der Bestellung verarbeitet und genutzt. Auch hier
+treten wir nur als Vermittler auf.
+
+ALDI TALK  
+ALDI TALK bietet Ihnen attraktive Mobilfunktarife. ALDI Nord ist allerdings
+nicht der Anbieter der Telekommunikationsdienstleistung, sondern der
+Vermittler der jeweiligen Angebote. Wenn Sie sich für ALDI TALK entscheiden,
+gehen Sie einen Vertrag direkt mit dem betreffenden
+Telekommunikationsdienstleister ein. Durch uns werden in diesem Zusammenhang
+keine personenbezogenen Daten verarbeitet.
+
+ALDI life  
+ALDI life bietet Ihnen ein großes Angebot an Musik und Hörbüchern. Die genauen
+Übersichten erhalten Sie auf der Webseite unseres Vertragspartners. ALDI Nord
+ist allerdings nicht der Anbieter der Dienstleistung, sondern der Vermittler
+der jeweiligen Angebote. Alle personenbezogenen Angaben, die Sie auf der Seite
+unseres Vertragspartners bereitstellen, werden ausschließlich von unserem
+Vertragspartner erhoben und zur Abwicklung der Bestellung verarbeitet und
+genutzt. Auch hier treten wir nur als Vermittler auf.
+
+Filialfinder  
+Der Filialfinder ermöglicht Ihnen, Filialen in der Umgebung Ihres Wohnortes
+oder eines von Ihnen bestimmten Standortes zu finden. Die von Ihnen
+bereitgestellten Daten (Postleitzahl, Ortsbezeichnung und/oder
+Straßenbezeichnung) leiten wir an unseren Vertragspartner weiter. Die
+Übersicht der Filialen erhalten Sie auf der Homepage unseres Vertragspartners.
+
+### Verhaltensregeln für persönliche Empfehlungen, Nachrichten und Grüße
+
+Für das Versenden von persönlichen Empfehlungen, Nachrichten und Grüßen gelten
+folgende Verhaltensregeln:  
+
+  1. Jeder Nutzer der Dienste ist für den Inhalt seiner Empfehlungen, Nachrichten und Grüße verantwortlich.
+  2. Die Nutzer garantieren, im Rahmen der Nutzung der Dienste nicht gegen gesetzliche Bestimmungen oder die guten Sitten zu verstoßen oder Rechte Dritter zu verletzen. Insbesondere dürfen keine pornografischen, obszönen, diffamierenden, verleumderischen, beleidigenden, bedrohenden, volksverhetzenden oder rassistischen Inhalte oder Informationen versandt und veröffentlicht werden.
+  3. Die von den Nutzern versandten Empfehlungen, Nachrichten und Grüße müssen der Wahrheit entsprechen. Der Nutzer hat auf die Belange der Adressaten und anderer Nutzer Rücksicht zu nehmen und deren Rechte sowie die Rechte Außenstehender nicht zu verletzen.
+  4. Urheberrechte und ähnliche Schutzrechte Dritter sind zu beachten. Ohne Erlaubnis des Rechtsinhabers dürfen Informationen, Inhalte oder anderes Material nicht übermittelt werden.
+  5. Der Nutzer darf seine Identität nicht verschleiern, vor allem sich nicht als Mitarbeiter oder Vertreter der ALDI Einkauf GmbH &amp; Co. oHG oder eines anderen Unternehmens der Unternehmensgruppe ALDI Nord ausgeben.
+  6. Der Dienst darf von den Nutzern nicht für Werbezwecke oder sonstige kommerzielle Zwecke genutzt werden. Das Versenden von Äußerungen und/oder Inhalten, die der Adressat nicht wünscht, ist verboten.
+  7. Sofern der Nutzer gegen die oben genannten Verhaltensregeln oder Rechte Dritter im Rahmen der Nutzung des Dienstes verstößt, stellt er die ALDI Einkauf GmbH &amp; Co. oHG, alle Gesellschaften der Unternehmensgruppe ALDI Nord und ihre Mitarbeiter bzw. Beauftragten von sämtlichen daraus resultierenden Ansprüchen Dritter frei.
+  8. Die ALDI Einkauf GmbH &amp; Co. oHG kann den Nutzer im Falle eines Verstoßes gegen die oben genannten Verhaltensregeln von der Nutzung des Dienstes ausschließen.
+  9. Die ALDI Einkauf GmbH &amp; Co. oHG haftet für die von ihr oder ihren Mitarbeitern vorsätzlich oder grob fahrlässig verursachten Schäden. Eine Haftung für leichte Fahrlässigkeit besteht nur bei der Verletzung von Kardinalpflichten. Unter Kardinalpflichten ist eine Pflicht zu verstehen, deren Erfüllung die ordnungsgemäße Durchführung des Dienstes überhaupt erst ermöglicht und auf deren Einhaltung der Nutzer regelmäßig vertrauen darf. Die vorstehende Haftungsbeschränkung gilt nicht bei Verletzung von Leben, Körper oder Gesundheit oder bei erfolgten Garantiezusagen, die nach ihrem Inhalt gerade bezwecken, den Nutzer gegen den eingetretenen Schaden abzusichern.
+  10. Es gilt das Recht der Bundesrepublik Deutschland.
+
+### Kontakt zu ALDI
+
+Sie können uns jederzeit über unser Kontaktformular Informationen und Anfragen
+zukommen lassen.  
+
+Ihre Informationen erhält die für Ihren Wohnort zuständige
+Regionalgesellschaft, die die dortigen ALDI-Filialen betreibt.  
+
+Um Ihre Anfrage zeitnah und sachkundig beantworten zu können, nutzen wir
+ebenfalls die Kompetenz unserer Regionalgesellschaften; Ihre Anfrage leiten
+wir auch an die zuständige Regionalgesellschaft weiter.  
+
+Wenn Sie eine Reklamation mitteilen, nutzen wir zusätzlich die Kompetenz
+unseres für das reklamierte Produkt zuständigen Lieferanten bzw.
+Vertragspartners. Zur Beantwortung leiten wir Ihre Anfrage an diesen
+Lieferanten bzw. Vertragspartner weiter.  
+
+Ihre Daten werden jeweils ausschließlich zum Zweck der Kenntnisnahme der
+Informationen, der Beantwortung der Anfrage oder der Abwicklung der
+Reklamation an die Regionalgesellschaften, Lieferanten bzw. Vertragspartner
+weitergegeben und von diesen zweckgebunden genutzt. Eine Nutzung zu anderen
+Zwecken, insbesondere zu Zwecken der Werbung, erfolgt nicht.  
+
+### Was passiert mit Ihren personenbezogenen Daten bei einer Online Bewerbung?
+
+Sie haben die Möglichkeit, sich über unsere Online-Stellenbewerbung auf
+ausgeschriebene Stellen zu bewerben. Hierzu teilen Sie uns personenbezogene
+Daten mit, die wir ausschließlich für den Bewerbungsprozess verarbeiten. Um
+Ihre Bewerbung gewissenhaft bearbeiten zu können, werden Ihre Unterlagen
+automatisiert an die betroffene ALDI Regionalgesellschaft oder die ALDI
+Einkauf GmbH &amp; Co. OHG weitergeleitet.  
+
+### Welche Möglichkeiten haben Sie im Hinblick auf die Speicherung bzw.
+weitere Verwendung Ihrer Daten?
+
+Als unser Kunde können Sie jederzeit darüber Auskunft verlangen, ob wir
+personenbezogene Daten über Sie gespeichert haben und um welche Daten es sich
+handelt. Sollten Sie dabei feststellen, dass Ihre bei uns vorliegenden
+personenbezogenen Daten unrichtig sind, werden wir diese Daten
+selbstverständlich jederzeit berichtigen, sperren bzw. löschen.  
+
+Wir freuen uns auf Ihren Besuch.
+
+Ihr ALDI Team  
+
+Die für die Datenverarbeitung im Zusammenhang mit unserer Website
+verantwortliche Stelle ist die:
+
+ALDI Einkauf GmbH &amp; Co. OHG  
+Eckenbergstraße 16  
+45307 Essen
+
+* Sternchentexte und rechtliche Hinweise
+
+* Bitte beachten Sie, dass diese Aktionsartikel im Unterschied zu unserem ständig vorhandenen Sortiment nur in begrenzter Anzahl zur Verfügung stehen. Sie können daher schon am Vormittag des ersten Aktionstages kurz nach Aktionsbeginn ausverkauft sein.
+
+** Die Jahrgänge und Abbildungen des angebotenen Produkts können je nach Verfügbarkeit variieren.
+
+*** Bitte beachten Sie, dass dieser Artikel nicht in allen Filialen verfügbar ist. Sollte der Artikel in Ihrer Filiale nicht mehr erhältlich sein, werden wir uns bemühen, den Artikel für Sie in einer anderen Filiale zu besorgen.
+
+Nach oben
+
+ALDI App
+
+Unsere kostenlose ALDI App und unsere mobile Website informieren Sie auch
+unterwegs über unsere Angebote.
+
+ZUR ALDI APP
+
+Karriere bei ALDI
+
+Unser Kurs ist klar: Wir wollen weiter wachsen - dafür suchen wir Sie.
+Karriereangebote für echte Kaufleute mit Kaufmannsgen im Blut.
+
+DIREKT BEWERBEN
+
+ALDI aktuell
+
+Blättern Sie durch unsere Angebote, eine Auswahl aus unserem Sortiment und
+Inhalte unserer Online-Services.
+
+UNSERE MAGAZINE
+
+Newsletter
+
+Möchten Sie regelmäßig über unsere wöchentlichen Angebote informiert werden?
+Nutzen Sie unseren Newsletter-Service!
+
+ANMELDEN
+
+  * Unsere Angebote 
+    * Frischeparade ab Mo., 29.05. - Sa., 03.06.
+    * ab Donnerstag, 01.06.
+    * Wochenendparade ab Fr., 02.06. + Sa., 03.06.
+    * ab Dienstag, 06.06.
+    * ab Donnerstag, 08.06
+    * Länderaktion Frankreich ab Donnerstag, 08.06.
+    * Multimedia
+
+Rezepte
+
+    * Neue Rezepte
+    * Rezept der Woche 
+    * Vorspeisen
+    * Hauptspeisen
+    * Desserts und Süßspeisen
+
+  * Unsere Produkte 
+    * Neu im Sortiment
+    * Einkaufsideen
+    * Saisonale Artikel
+    * Schnelle Küche fix &amp; lecker
+    * Ausgezeichnete Qualität
+    * Unsere Marken
+
+Informationen
+
+    * Hilfe
+    * Impressum
+    * Datenschutzhinweis
+    * Kontakt
+    * Filialen und Öffnungszeiten
+
+  * Online-Services 
+    * ALDI TALK
+    * ALDI life
+    * ALDI Reisen
+    * ALDI Blumen 
+    * ALDI Foto
+
+  * Verantwortung 
+    * Unser Verständnis
+    * Lieferkette Food
+    * Lieferkette Non-Food
+    * Gesellschaftliches Engagement
+
+  * Unternehmen 
+    * Über ALDI Nord 
+    * Presse
+    * Karriere
+    * Grundstücke und Immobilien 
+    * Einfach ist mehr Kampagne
+    * International 
+    * ALDI Nord auf YouTube 
+
+#### Abgelaufen
+
+Dieses Angebot ist leider abgelaufen
+
+#### Erinnerung aktiv!
+
+Sie erhalten Ihre Erinnerung am ${date} um ${time} Uhr.
+
+Wir senden Ihnen noch eine Nachricht per E-Mail, um ihre E-Mail Adresse zu
+bestätigen. Bitte klicken Sie auf den Link in der Nachricht.
+
+Wir senden Ihnen noch eine Nachricht per SMS, um ihre Telefonnummer zu
+bestätigen. Bitte rufen Sie den Link in der Nachricht auf.
+
+Wir senden Ihnen noch eine Nachricht per E-Mail und per SMS, um ihre E-Mail
+Adresse und Telefonnummer zu bestätigen. Bitte klicken Sie auf den Link in der
+Nachricht.
+
+#### Erinnerung für
+
+Fehler! Leider ist ein Fehler aufgetreten, bitte versuchen Sie es später
+erneut.
+
+####
+
+Verfügbar ab
+
+Sollen wir Sie benachrichtigen, wenn der Artikel verfügbar ist?
+
+Email SMS
+
+Bitte füllen Sie das Feld aus.
+
+Bitte füllen Sie das Feld aus.
+
+Zwei Tage vorher  Einen Tag vorher  Am Angebotstag  Tag der Erinnerung Morgens
+(ab 8 Uhr) Mittags (ab 12 Uhr) Abends (ab 17 Uhr) Uhrzeit Die Hinweise zum
+Datenschutz (siehe unten) habe ich zur Kenntnis genommen und akzeptiert. *
+Bitte akzeptieren Sie den Datenschutz.
+
+Erinnerung aktivieren
+
+###### Hinweise
+
+  * Um unseren kostenlosen Erinnerungsservice nutzen zu können, müssen Sie sich bei erstmaliger Nutzung authentifizieren. Bitte beachten Sie hierfür den folgenden Ablauf: Geben Sie bitte E-Mail-Adresse und/oder Handynummer ein und klicken Sie auf "Erinnerung aktivieren". Sie erhalten je nach ausgewähltem Dienst (E-Mail, SMS) einen Aktivierungslink. Diesen Link rufen Sie im nächsten Schritt auf und aktivieren somit den Erinnerungsservice. Für jede weitere Nutzung ist keine weitere Authentifizierung mehr nötig. 
+  * Bitte füllen Sie mindestens die mit einem * gekennzeichneten Felder aus. 
+  * Um dieses Formular übermitteln zu können, müssen Sie in den Sicherheitseinstellungen Ihres Browsers die Annahme von Cookies aktivieren. 
+  * Ein SMS-Versand ist nur ins deutsche Mobilfunknetz möglich. 
+  * Die Erinnerung kann nur versendet werden, wenn der gewählte Termin in der Zukunft liegt und Sie Ihre E-Mail-Adresse bzw. Handynummer erfolgreich authentifiziert haben. 
+  * Ihre E-Mail-Adresse und Ihre Mobilfunknummer werden zu Übertragungszwecken, um die Erinnerung für einen ausgewählten Artikel zu versenden, sowie zu Authentifizierungszwecken für spätere Erinnerungen im Rahmen dieses Services gespeichert. Die Abmeldung/das Löschen Ihrer Daten ist jederzeit über die Seite "Erinnerungsservice Abmeldeformular" möglich. Bitte beachten Sie, dass die Aktivierung des Erinnerungsservices nur dann zulässig ist, wenn Sie selbst der Empfänger sind.
+

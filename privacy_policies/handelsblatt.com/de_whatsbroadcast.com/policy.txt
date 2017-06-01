@@ -1,0 +1,158 @@
+  * Home
+  * Preise
+  * Services/Bots
+    * Newsletter
+    * Kundenservice
+    * Multichannel
+    * API
+    * Chatbots
+  * Blog
+  * FAQ
+  * Partnerportal
+  * Kontakt
+  * LOGIN
+  * Deutsch
+    * English
+    * Italiano
+    * Español
+    * العربية
+    * Türkçe
+    * Portuguese
+    * Français
+  *   *   *   *   *   *   *   * 
+
+# Hinweise zum Datenschutz  
+Stand: 21.07.2016
+
+0\. ÄNDERUNGEN  
+21\. Juli 2016: Präzisierungen der Hinweise  
+1\. Feb 2016: Diese Datenschutzhinweise wurden so verallgemeinert, dass Sie
+nicht nur für WhatsApp, sondern auch für andere unterstützte Messenger
+Plattformen gelten.
+
+1\. ALLGEMEINES  
+WhatsBroadcast ist ein Angebot der WhatsBroadcast GmbH, womit Kunden von
+WhatsBroadcast über Messenger Plattformen (wie WhatsApp, Facebook Messenger
+und weitere) Nachrichten versenden können.  
+WhatsBroadcast stellt seinen Kunden ausschließlich die technischen
+Voraussetzungen zur Versendung von Nachrichten zur Verfügung und versendet
+keine eigenen Nachrichten.  
+WhatsBroadcast erhebt und verarbeitet personenbezogene Daten nur im Rahmen des
+Angebots für diese Kunden. Daten werden nur für den Kunden und für Zwecke des
+Kunden erhoben.  
+Wenn Sie Messenger wie z.B. WhatsApp oder Facebook Messenger installieren,
+akzeptieren Sie die Nutzungsbedingungen und Datenschutzregeln des jeweiligen
+Anbieters. WhatsBroadcast hat keinerlei Einfluss auf diese Regelungen.
+
+2\. BEDIENUNG VON WHATSBROADCAST
+
+Anmeldung Folgen Sie den Anweisungen im Anmelde-Widget, um sich für Ihren
+gewünschten Messenger anzumelden.  
+Nachrichten unterbrechen Möchten Sie für eine Weile oder dauerhaft keine
+Nachrichten mehr erhalten, dann schreiben Sie uns eine Nachricht mit dem Wort
+STOP.  
+Nachrichten wieder starten Wollen Sie wieder Nachrichten erhalten, schreiben
+Sie wieder START.  
+Alle Daten löschen lassen Wollen Sie keine Nachrichten mehr erhalten und alle
+Daten aus unserer Datenbank löschen lassen, dann senden Sie bitte eine
+Nachricht mit den Worten ALLE DATEN LOESCHEN.  
+  
+Für Ihre Eingaben können Sie sowohl Groß- als auch Kleinbuchstaben verwenden.
+
+3\. ERHOBENE DATEN  
+Daten, die wir von Ihnen automatisch erfassen, nachdem Sie sich angemeldet
+haben, können Ihre bei der Messenger Plattform hinterlegten Benutzerdaten (die
+Ihren Vor- und Nachnamen enthalten können), Ihre Telefonnummer, Ihr
+Nutzungsgerät, alle an den Dienst gesendeten Nachrichten sowie welche
+Nachrichten Sie gelesen und angeklickt haben beinhalten.  
+Diese Daten helfen unserem Kunden dabei, Ihnen individuelle Nachrichten anhand
+Ihrer Präferenzen zu senden.  
+Weitere Informationen, die Sie über den jeweiligen Chat individuell zur
+Verfügung stellen, werden automatisch gespeichert.
+
+4\. VERWENDUNG DER ERHOBENEN DATEN  
+WhatsBroadcast verwendet Ihre Daten ausschließlich, um es unseren Kunden zu
+ermöglichen, individuelle Nachrichten automatisch zu versenden. Bitte
+berücksichtigen Sie, dass der Kunde jede individuelle Information nutzen kann,
+um anhand von fest definierten Regeln passende Nachrichten zu senden. In
+Ausnahmefällen werden aktive Abonnenten auch per SMS über Systemänderungen
+informiert, dazu kann die Mobilnummer an einen SMS-Versanddienstleister nur zu
+diesem Zweck übermittelt werden.  
+WhatsBroadcast stellt die erhobenen Daten dem jeweiligen Kunden zur Verfügung,
+wird aber keine Ihrer Daten an Dritte weitergeben. Von den erhobenen Daten
+können Teile für Mitarbeiter des Kunden, bei dem Sie sich eingetragen haben,
+sichtbar sein.
+
+5\. ABMELDUNG VOM SERVICE  
+Sie haben jederzeit die Möglichkeit, unseren Service mit einer individuellen
+Nachricht zu beenden. Dafür senden Sie im Messenger „STOP“ an den Anbieter.
+Sie erhalten bis zu einer neuen Anmeldung keine weiteren Nachrichten vom
+Anbieter.
+
+6\. LÖSCHUNG IHRER DATEN  
+Um alle von Ihnen gespeicherten Daten eines Kunden entfernen zu lassen, senden
+Sie eine Nachricht mit dem Text „ALLE DATEN LOESCHEN" über Ihren Messenger.
+
+7\. DATENSICHERHEIT  
+Unsere Datenbanken sind durch diverse technische Vorkehrungen geschützt. Nur
+ein sehr begrenzter Personenkreis aus unserem eigenen Unternehmen erhält für
+technische Arbeiten am Service den Zugang auf die Datenbank.  
+Für die Sicherheit Ihres eigenen Endgerätes sind Sie selbst verantwortlich.
+Bitte sorgen Sie dafür, dass Ihre Zugänge zu WhatsApp oder Ihrem Mobilgerät
+ausreichend geschützt sind. Wir können die Sicherheit bei der Übermittlung von
+Daten über WhatsApp und andere Messenger nicht garantieren. Jede Übertragung
+basiert somit auf Ihrem persönlichen Risiko.
+
+8\. INHALTE DES DIENSTES  
+Die gesendeten Daten verantwortet ausschließlich der Kunde, der unseren
+Service nutzt und über den Sie sich persönlich angemeldet haben. Wir
+übernehmen daher keine Haftung für den Schaden, der durch gesendete Inhalte
+oder Links für Nutzer des Service entstehen kann.
+
+9\. ÄNDERUNGEN DER DATENSCHUTZHINWEISE  
+Bitte nehmen Sie zur Kenntnis, dass sich Inhalte dieser Datenschutzerklärung
+jederzeit mit einer Ankündigungsfrist von 2 Wochen ändern können. Wir
+publizieren diese Änderungen gut sichtbar am Kopf der Seite.
+
+10\. KONTAKT
+
+Wir überprüfen regelmäßig die Korrektheit dieser Datenschutzbestimmungen.
+Sollten Sie Fragen, Anregungen oder Hinweise dazu haben, senden Sie uns bitte
+eine E-Mail an support@WhatsBroadcast.com oder per Post an:  
+WhatsBroadcast GmbH, Otto-Lindenmeyer-Str. 28, 86153 Augsburg
+
+* * * * *
+
+### Sitemap
+
+Home  
+Preise  
+FAQ  
+Partner
+
+Blog  
+Pressebereich  
+Jobs  
+Kontakt
+
+### WhatsBroadcast GmbH
+
+Schwanthalerstr. 32  
+80336 München
+
+Tel.: +49 (0)89 – 416 173 180
+
+E-Mail: sales@whatsbroadcast.com
+
+© WhatsBroadcast 2017
+
+  * Facebook
+
+  * Pressebereich
+  * Datenschutzerklärung
+  * Kontakt
+  * Impressum
+  * AGB
+
+Nach oben scrollen
+

@@ -1,0 +1,340 @@
+Billigflüge momondo
+
+  * Flüge
+  * Hotels
+  * Mietwagen
+  * Trip Finder
+  * Inspiration
+
+  *   * Login
+  * 
+
+# Datenschutzerklärung
+
+### Einleitung
+
+Nur die englische Version dieser Datenschutzerklärung ist rechtlich bindend.
+Übersetzungen wurden einzig und allein zur Nutzerfreundlichkeit
+bereitgestellt. Im Falle, dass sich die Übersetzung vom englischen Original
+unterscheidet, ist das englische Original maßgebend.
+
+Diese Datenschutzerklärung (nebst unseren Nutzungsbedingungen und anderen
+darin bezeichneten Dokumenten) legt die Grundlage unserer Bearbeitung von
+personenbezogenen Daten dar, die wir von dir erfassen oder die du an uns
+übermittelst.
+
+Diese Datenschutzerklärung ist auf die Webseiten und Mobil-Applikationen
+(Apps) von momondo, die von Momondo A/S (momondo) betrieben werden, in
+verschiedenen Märkten anwendbar. Wir nehmen deine Privatsphäre ernst und
+stellen diese Datenschutzerklärung zur Verfügung, um dich über unsere
+Praktiken hinsichtlich der Erfassung, der Nutzung und des Schutzes
+personenbezogener Angaben der Besucher und Mitglieder unserer Webseite und
+unserer Apps zu informieren. Personenbezogene Angaben sind Informationen, die
+persönlich identifizierbar sind, wie dein Name, deine E-Mail-Adresse,
+Telefonnummer, Postanschrift, etc. Durch Nutzung unserer Webseite und der Apps
+erklärst du dich mit den in diesem Dokument beschriebenen Bedingungen
+einverstanden.
+
+### Informationen über uns
+
+Momondo A/S ist in Dänemark unter der Gesellschaftsnummer 20181397
+eingetragen. Die Anschrift unseres eingetragenen Sitzes und
+Hauptgeschäftssitzes lautet Løvstræde 1, DK-1152 Copenhagen K, Dänemark.
+
+### Informationserfassung
+
+momondo kann die folgenden Daten von dir erfassen und verarbeiten,
+einschließlich:
+
+  * Informationen, die du beim Ausfüllen von Formularen auf unserer Webseite oder in unseren Apps übermittelst. Dies umfasst Informationen, die zum Zeitpunkt der Registrierung zur Nutzung unserer Seite oder unserer Apps, des Abonnements unseres Dienstes, der Bekanntgabe von Materialien oder der Anforderung weiterer Dienstleistungen übermittelt wurden. Wir können dich außerdem um Informationen bitten, wenn du an einem von uns veranstalteten Wettbewerb oder einer Werbeaktion teilnimmst und wenn du ein Problem mit unserer Seite oder unseren Apps meldest.
+  * eine Aufzeichnung jeglicher Korrespondenz mit dir.
+  * Einzelheiten darüber, welche Dienstleistungen dich interessieren.
+  * Einzelheiten deiner Besuche unserer Seite und unserer Apps, insbesondere Verkehrsdaten, Standortdaten, Weblogs und sonstige Kommunikationsdaten, unabhängig davon, ob dies für deine eigenen Rechnungszwecke oder anderweitig verlangt wird, sowie die von dir aufgerufenen Ressourcen.
+  * Informationen darüber, ob du bestimmte Inhalte in den an dich gesendeten Emails geöffnet und angeklickt hast.
+  * Informationen über deinen Computer, einschließlich, sofern diese verfügbar sind, deiner IP-Adresse, deines Betriebssystems, deines Browsertyps und der Geräte-ID, für die Systemadministration und um gesammelte Informationen an unsere Werbepartner zu melden, sowie die aus Cookies erlangten Informationen. Bitte lies weiter unter Cookie-Richtlinie. Diese Informationen ermöglichen es uns nicht zwingend, dich persönlich zu identifizieren.
+
+momondo verlangt nicht, dass du personenbezogene Angaben eingibst, um auf
+Webseiten oder Apps von momondo zu recherchieren, oder wenn du auf Webseiten
+Dritter weitergeleitet wirst.
+
+Wenn du dich bei momondo registrierst, fordern wir dich zur Übermittlung von
+Informationen über dich auf, wie:
+
+  * deinen Namen und deine E-Mail-Adresse
+  * Informationen über deine Flug- und Hotelzimmerpräferenzen, wie Sitzplätze, Abflug, Ankunft, Direktflüge, Anzahl der Reisenden, Geburtsdaten und Geburtsdaten deiner Kinder, die wir zur künftigen Nutzung speichern.
+  * Informationen über deine Mitreisenden. Du solltest die Zustimmung anderer Personen einholen, bevor du ihre personenbezogenen Angaben und Reisepräferenzen an uns übermittelst, da jeder Zugriff zur Ansicht oder Änderung ihrer Informationen über dein Profil erfolgen wird. Wenn du Informationen über deine Kinder speicherst, willigst du in die Verarbeitung dieser Daten im Namen deiner Kinder ein.
+  * Soziale Netzwerke. Wenn du dich für eine Anmeldung über Facebook https://developers.facebook.com/products/login/ oder Google+ https://developers.google.com/+/features/sign-in entscheidest, erlaubst du momondo die Nutzung und Speicherung dieser Informationen in Bezug auf dein Profil und ermöglichst uns, etwaige Funktionen für soziale Netzwerke auf unserer Webseite oder in unseren Apps zu nutzen. Der Anbieter des sozialen Netzwerks kann Informationen im Einklang mit seinen Richtlinien an uns senden, die deinen Namen, dein Profilbild, dein Geschlecht, deine Freundelisten und sonstige Informationen umfassen können, zu deren Verfügbarmachung du dich entschieden hast. Sonstige Informationen in Bezug auf Empfehlungen, die zwischen dir und deinen Freunden ausgetauscht wurden, können ebenfalls geteilt werden. Bitte beachte, dass – wenn deine Facebook- oder Google+ Freunde momondo nutzen – diese möglicherweise Informationen über dich mit uns über die Facebook- oder Google+ Anmeldung geteilt haben. Wenn du diese Art des Teilens verhindern möchtest, kannst du dies durch die Bearbeitung deiner Einstellungen zur Privatsphäre bei Facebook oder Google+ oder der entsprechenden Einstellungen/Präferenzen für andere Anbieter sozialer Netzwerke tun.
+
+Es wird ausdrücklich angegeben, ob die angeforderten Daten zwingend notwendig
+sind oder nicht.
+
+### Nutzung von Informationen
+
+Der Zweck der Verarbeitung deiner Daten besteht, wie folgt:
+
+  * Prüfung deiner Ermächtigung zum Zugriff auf bestimmte Funktionen der Seite,
+  * Erfüllung deiner Anfragen nach Produkten oder Dienstleistungen,
+  * Personalisierung und Anpassung der Inhalte und relevanten Reisedienste, die dir angeboten werden,
+  * Optimierung und Personalisierung deiner Besuche durch Erinnerung der Standort-, Sprach- und Währungskonfigurationen sowie vorheriger Recherchen,
+  * Kontaktaufnahme mit dir, beispielsweise wenn du einen Newsletter abonniert hast,
+  * Verbesserung unserer Leistungen, Berichterstattung.
+
+### Teilen und Offenlegung von Informationen
+
+Wir werden deine personenbezogenen Daten niemals an Dritte verkaufen. momondo
+teilt Daten über dich in den folgenden Situationen
+
+  * (i) zur Bereitstellung bzw. Erbringung der von dir angeforderten Produkte oder Dienstleistungen, insbesondere Produkte und Dienstleistungen Dritter, wie z. B.:
+    * -Buchungsseiten
+    * -Drittanbieter
+    * -Geschäftspartner
+    * -verweisende Webseiten
+    * -Tochtergesellschaften
+    * -soweit gesetzlich gefordert
+  * (ii) oder wenn wir deine Erlaubnis haben.
+
+Darüber hinaus teilt momondo Daten über dich unter den folgenden Umständen:
+
+momondo kann Drittanbieter (Datenverarbeiter) einsetzen, um uns bei der
+Bereitstellung bzw. Erbringung unserer Produkte oder Dienstleistungen zu
+unterstützen, und kann deine persönlichen Angaben an diese Anbieter
+übertragen, die einen Vertrag mit uns geschlossen haben, der die
+Vertraulichkeit deiner Angaben schützt und dem Anbieter die Nutzung derselben
+lediglich in dem zur Erfüllung seines Vertrages erforderlichen Umfang
+gestattet;
+
+Wir können deine personenbezogenen Angaben zu anderen vorstehend genannten
+Zwecken gegenüber einem Mitglied unserer Gruppe offenlegen, die unsere
+Tochtergesellschaften, unsere Holdinggesellschaft und ihre
+Tochtergesellschaften umfasst. Dies umfasst auch juristische Personen, die wir
+zu einem zukünftigen Datum als Teil einer Akquisition erwerben.
+
+In Erwiderung auf Vorladungen, gerichtliche Anordnungen oder Gerichtsverfahren
+oder zur Festlegung oder Ausübung unserer gesetzlichen Rechte oder zur Abwehr
+von Rechtsansprüchen.
+
+Wenn wir der Auffassung sind, dass das Teilen von Informationen erforderlich
+ist, um in Bezug auf rechtswidrige Aktivitäten, Betrugsverdacht, Situationen,
+die potenzielle Bedrohungen der physischen Sicherheit einer Person umfassen,
+Verletzungen der Servicebedingungen von momondo oder wie anderweitig
+gesetzlich gefordert, Ermittlungen vorzunehmen, diese zu verhindern oder
+diesbezüglich Maßnahmen zu ergreifen.
+
+### Datenspeicherung
+
+Alle von dir an uns übermittelten personenbezogenen Daten werden auf sicheren
+Servern gespeichert. Derzeit verfügen wir über Server, die sich innerhalb des
+EWR (Europäischer Wirtschaftsraum) befinden.
+
+Die von dir erfassten Daten können an einen Zielort außerhalb des Europäischen
+Wirtschaftsraums (EWR) übertragen und dort gespeichert werden. Die Übertragung
+kann an ein anderes Mitglied der Momondo Group oder an Dritte erfolgen, wie
+dies in dieser Datenschutzerklärung dargelegt wird. Sie können auch von
+Mitarbeitern verarbeitet werden, die außerhalb des EWR tätig sind, die für uns
+oder einen unserer Lieferanten arbeiten. Durch die Übermittlung deiner
+personenbezogenen Daten erklärst du dich mit dieser Übertragung, Speicherung
+oder Verarbeitung einverstanden. Wir werden alle Schritte ergreifen, die
+angemessen erforderlich sind, um sicherzustellen, dass deine Daten sicher und
+nach Maßgabe dieser Datenschutzerklärung behandelt werden.
+
+Wir können gesetzlich aufgefordert sein, deine Daten an einem bestimmten Ort
+aufzubewahren; dies ist abhängig von dem Standort, von dem du auf die momondo-
+Dienste zugreifst. Ungeachtet des Ortes, an dem deine Daten gespeichert
+werden, werden wir angemessene Maßnahmen zum Schutz der Sicherheit deiner
+personenbezogenen Daten ergreifen.
+
+Diese Länder haben möglicherweise andere und/oder weniger strenge Regeln zu
+Privatsphäre/Datenschutz und Datensicherheit als diejenigen deines eigenen
+Landes. Infolgedessen können deine personenbezogenen Angaben Zugriffsanfragen
+von Regierungen, Gerichten oder Strafverfolgungsbehörden in diesen Ländern
+gemäß den Gesetzen in diesen Ländern unterliegen.
+
+### Links zu Seiten Dritter
+
+momondo bietet Links zu Webseiten Dritter an, z. B. im Anschluss an einen
+Suchvorgang, und kann Empfehlungen bestimmter Produkte oder Dienstleistungen
+Dritter anbieten. Bitte sei dir darüber bewusst, dass diese
+Datenschutzerklärung - wenn du dich für den Besuch der Webseite eines Dritten
+oder die Nutzung seiner Produkte oder Dienstleistungen entscheidest – deine
+Aktivitäten und etwaige Informationen, die du gegenüber diesem Dritten offen
+legst, nicht regelt. Wir regen deshalb inbesondere an, die
+Datenschutzrichtlinien der von dir besuchten Webseiten Dritter zu lesen. Wir
+sind in keiner Weise für die Inhalte der Seiten verantwortlich, zu denen wir
+Links zur Verfügung stellen.
+
+### Vertraulichkeit und Sicherheit
+
+Wir begrenzen den Zugriff auf personenbezogene Angaben über dich auf
+Mitarbeiter, von denen wir der Auffassung sind, dass sie ein berechtigtes
+Bedürfnis haben, mit diesen Angaben in Berührung zu kommen, um Produkte oder
+Dienstleistungen an dich bereitzustellen bzw. zu erbringen, oder um ihre
+berufliche Tätigkeit auszuüben. momondo setzt verfahrensbezogene und
+technische Maßnahmen ein, die in angemessener Weise ausgestaltet wurden, um
+deine personenbezogenen Angaben vor Verlust, Missbrauch, unbefugtem Zugriff
+oder Offenlegung zu schützen. Wenngleich keine Webseite oder keine App
+Sicherheit garantieren kann, haben wir angemessene administrative, technische
+und physische Sicherheitsverfahren umgesetzt, um den Schutz deiner
+personenbezogenen Angaben zu unterstützen. Wir nutzen auch Verschlüsselung zur
+Übermittlung sensibler personenbezogener Angaben an dich zwischen deinem
+System und unserem.
+
+### Gemeinschaft – Teilen von Informationen unter den momondo-Nutzern
+
+Wenn du dich für die Einbeziehung persönlicher Angaben in deinen Kommentaren,
+Freitextfeldern oder anderen Bereichen der Webseite oder der Apps
+entscheidest, die zur Veröffentlichung vorgesehen sind, werden andere Nutzer
+diese Informationen einsehen und nutzen können. Wir sprechen uns gegen die
+Bekanntgabe deiner E-Mail-Adresse und anderer persönlicher Angaben auf diese
+Weise aus, sofern du dich mit der Möglichkeit ungewollter Kontaktaufnahme
+nicht wohlfühlst.
+
+### Zugang, Prüfung und Änderung deiner personenbezogenen Angaben
+
+Wir werden dir die Gelegenheit geben, auf bestimmte Informationen über die
+Registrierungsseite auf der Webseite oder in der App zuzugreifen, diese zu
+prüfen und zu ändern. Auf dein Anfordern werden wir dein Profil deaktivieren
+und deine personenbezogenen Angaben aus dem aktiven Service entfernen. Dein
+Profil wird deaktiviert, sobald dies auf der Basis deiner Kontoaktivität
+angemessen möglich ist. Wir werden einige personenbezogene Angaben in unseren
+Dateien und Datenbanken zurückbehalten, um Betrug zu verhindern,
+Auseinandersetzungen beizulegen, Probleme zu beheben, Ermittlungen zu
+unterstützen, unsere Nutzungsbedingungen durchzusetzen und gesetzliche
+Anforderungen einzuhalten, soweit dies gesetzlich zulässig ist. Somit solltest
+du nicht erwarten, dass sämtliche deiner personenbezogenen Angaben in
+Erwiderung auf dein Anfordern vollständig aus unseren Datenbanken entfernt
+werden.
+
+### Änderungen dieser Datenschutzerklärung
+
+momondo kann diese Datenschutzerklärung aktualisieren. Wir werden dich über
+bedeutende Änderungen in der Weise informieren, in der wir personenbezogene
+Angaben behandeln, indem wir eine Mitteilung an die in deinem momondo-Profil
+angegebene E-Mail-Adresse senden oder eine Mitteilung auf unserer Seite
+bekanntgeben.
+
+### Informationen über den Inhaber
+
+Die momondo-Webseite wird von Momondo A/S zur Verfügung gestellt. Wir sind in
+Dänemark unter der Gesellschaftsnummer 20181397 eingetragen. Die Adresse
+unseres eingetragenen Sitzes und Hauptgeschäftssitzes ist Løvstræde 1, DK-1152
+Copenhagen K, Dänemark.
+
+### Cookies
+
+Die momondo Webseiten setzen Cookies auf deinem Computer und greifen auf diese
+zu. Ein Cookie ist eine kleine Datenmenge, die die Server von momondo an
+deinen Browser übertragen, und die nur die Server von momondo lesen können.
+Wenn du die Seite besuchst, erfasst der Cookie bestimmte Daten der Sitzung, um
+deine Erfahrung zu rationalisieren, und – wenn du dich dafür entscheidest,
+deinen Mitgliedsnamen und dein Passwort zu speichern – werden die momondo
+Webseiten diese Information in einem Cookie speichern, so dass du dich nicht
+jedes Mal beim Besuch der Seite neu anmelden musst. Du kannst Cookies in
+deiner Internetbrowseranwendung deaktivieren oder löschen, indem du auf die
+Einstellungen zur Sicherheit oder zur Privatsphäre zugreifst. momondo verlangt
+jedoch, dass du Cookies aktiviert hast, um auf bestimmte Teile der Seite
+zuzugreifen. momondo kann anderen Gesellschaften, die Werbung auf einigen
+unserer Seiten schalten, gestatten, ihre Cookies auf deinem Computer zu setzen
+und darauf zuzugreifen. Die Nutzung der Cookies anderer Gesellschaften
+unterliegt den Datenschutzrichtlinien dieser Gesellschaften, nicht den
+vorliegenden. Andere Gesellschaften haben keinen Zugriff auf die Cookies von
+momondo.
+
+momondo nutzt Cookies, einschließlich Informationen zur IP-Adresse, zu den
+folgenden Zwecken:
+
+  * Funktionalitäts-Cookies, die es unserer Webseite und unseren Apps erlauben, deine Entscheidungen und Präferenzen zu speichern. Sie ermöglichen uns, dir personalisierte und verbesserte Funktionen anzubieten.
+  * Leistungs-Cookies werden dazu genutzt, die Nutzerfreundlichkeit von momondo zu bewahren und momondo stets relevant und aktuell zu halten. Wir nutzen Web-Analyse-Dienste, die uns dabei helfen zu verstehen, wie unsere Webseiten und Apps genutzt werden.
+  * Personalisierungs-Cookies unterstützen uns dabei, zielgerichtete Werbung zu schalten. Diese Cookies werden dazu genutzt, dir Anzeigen zu zeigen, welche unserer Meinung nach für dich interessante Flug- und Hotelpreise enthalten. Du wirst diese Anzeigen möglichweise auf anderen Webseiten als momondo sehen. Wir verwenden auf Nutzer zugeschnittene Anzeigen, weil wir dich inspirieren und es dir ermöglichen wollen, die perfekte Reise zu buchen.
+
+### Welche Informationen werden über Cookies erfasst?
+
+Cookies werden zu den vorgenannten Zwecken durch Erfassung von Informationen
+über die Zahl der Nutzer auf der Seite und des Verkehrs auf der Seite
+eingesetzt. Dies ermöglicht uns die entsprechende Anpassung von Inhalten und
+Werbung und die Generierung von Statistiken der Seitenaufrufe. Einige von
+ihnen ermöglichen dir auch das Teilen von Seiten mit sozialen Netzwerken, wenn
+du dies wünschst. Sie ermöglichen uns und unseren Werbekunden, dir relevante
+für dich möglicherweise interessante Werbung darzubieten. Neben momondo haben
+unsere digitalen Kooperationspartner, die für den Seitensupport verantwortlich
+sind, Zugriff auf die durch Cookies erfassten Daten. Die Informationen werden
+nicht gegenüber Dritten offen gelegt. Du kannst dich immer gegen den Einsatz
+von Cookies entscheiden; vgl. unten.
+
+### Wie löscht und vermeidet man Cookies?
+
+Als Nutzer kannst du entscheiden, ob du alle Cookies annehmen oder löschen
+möchten, oder Cookies individuell für jede Webseite kontrollieren möchtest. Du
+kannst den Einsatz von Cookies auch vollständig sperren. Du kannst
+individuelle Einstellungen in deinen Browsereinstellungen vornehmen. Bitte
+beachte, dass dein Zugriff auf die Webseiten von momondo – wenn du Cookies
+löschst – mehr oder weniger eingeschränkt sein kann, oder dass die
+Seitenfunktionalität möglicherweise unzureichend ist.
+
+## Lerne momondo kennen
+
+  * Über momondo
+  * Hilfe
+  * Jobs
+  * Presse
+  * AGB
+
+* * *
+
+## Bitte denke daran
+
+Wir sind kein Reiseburo und wir verkaufen keine Flugtickets. Wenn du Fragen zu
+einer Buchung hast, wende dich bitte direkt an das Reiseburo oder die
+Fluggesellschaft.
+
+#### Internationale Seiten
+
+  * Billige flybilletter 
+  * Billigflüge 
+  * Flights 
+  * Cheap Flights 
+  * Vuelos baratos 
+  * Halvat Lennot 
+  * Vol pas cher 
+  * Voli low cost 
+  * Billige flybilletter 
+  * Goedkope vliegtickets 
+  * Voos baratos 
+  * Aвиабилеты 
+  * Flygresor 
+
+#### Wo geht es als nächstes hin? Lass dich von uns inspirieren...
+
+Meld dich für unseren Newsletter an und erhalte Reisetipps sowie Zugang zu
+Tools, die dich clever reisen lassen.
+
+Anmelden
+
+  * Über momondo 
+  * Let's Open Our World
+  * Jobs
+  * Trainee Programme
+  * Presse
+  * Affiliate
+  * AGB 
+  * Impressum
+  * Datenschutzerklärung
+  * Cookies
+  * Fluggesellschaften 
+  * Apps
+  * Hilfe
+
+momondo.de ist eine kostenlose und unabhängige Reise-Suchmaschine, die
+Milliarden billiger Flüge, Hotels und Mietwagen vergleicht.
+
+  * Twitter
+  * Facebook
+  * Google+
+
+Feedback
+
+Cookies
+
+momondo.de verwendet Cookies
+
+Weiterlesen
+

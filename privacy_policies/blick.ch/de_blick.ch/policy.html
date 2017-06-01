@@ -1,0 +1,2947 @@
+<!DOCTYPE html>
+<html prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns#" lang="de"  itemtype='http://schema.org/NewsArticle' itemscope>
+<head>
+
+    <!-- Page hiding snippet (recommended) -->
+        <style>.async-hide { opacity: 0 !important} </style>
+        <script>
+            (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+                h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+                (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+            })(window,document.documentElement,'async-hide','dataLayer',500,
+                    {'GTM-57N8KPB':true});
+        </script>
+    <script type="text/javascript">
+/* <![CDATA[ */
+var s_account='ringierag-blick';
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://f.blick.ch/resources/BLICK_20170511/ver1-0/js/scz_code.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _sf_startpt=(new Date()).getTime();// Chartbeat
+var WEMF_section='/services';
+scz.special='artikel';
+
+document.addEventListener('DOMContentLoaded',function(){
+    if(typeof(dataLayer) != 'undefined'){
+        dataLayer.push({'event': 'wemfSection'}); /* GTM Pageview */
+    }
+});
+
+function getWEMF(caller){
+    if(typeof(dataLayer) != 'undefined'){
+        dataLayer.push({'event': 'wemfSection'}); /* GTM Pageview */
+    }
+}
+
+function setDefaultProperties(category,agof,swipe){delomni();scz.prop4='Datenschutzbestimmungen - Blick';scz.pageName='www.blick.ch/services/datenschutzbestimmungen-id151553';scz.channel='www.blick.ch';scz.prop2='services';scz.prop3='datenschutzbestimmungen-id151553';if(category){scz.prop6=category;}else{scz.prop6='artikel';}if(swipe){scz.prop12=swipe;}scz.prop13=scz.special;if(agof){scz.prop7=agof;}else{scz.prop7='/services';}scz.prop8='20080118';scz.prop9='0';if(category=='artikel'||category=='video'||category=='slideshow'||category=='fehler'){scz.prop17=scz.prop6+':datenschutzbestimmungen-id151553';};scz.trackingServer='omni.blick.ch';scz.hier1=scz.pageName;}
+
+
+
+getomni('artikel','');
+
+/* ]]> */
+</script>
+<script>
+        
+
+        function isArticle(url) {
+            if (typeof url !== 'undefined') {
+                var patt = /id(\d{7,9})\.html/g;
+                var match = patt.exec(url);
+                return(match ? match[1] : false);
+            }
+            return false;
+        };
+
+        function DeviceIsTouchEnabled()
+        {
+            var isTouchEnabled=false;
+            if(('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+                isTouchEnabled = true;
+            }
+            return isTouchEnabled;
+        }
+
+        var sDefaultSwipeValue=DeviceIsTouchEnabled() ? 'tap':'click';
+
+        function googleTagManagerVariables(category,agof,swipe,requestType,slideShowStats,callbackFunction)
+        {
+            //console.log("GTM Vars -> googleTagManager.jsp");
+            requestType=(typeof requestType !=='undefined' ? requestType :'ajax');
+
+            var sTrackCustomLinkText='';
+            var authorIds=[];
+            authorIds.push(62);
+
+            if(requestType=='ajax')
+            {
+                if(category == 'trackCustomLink')
+                {
+                    sTrackCustomLinkText=scz.prop27;
+                }
+                scz.prop6=category;
+
+                swipe=swipe||sDefaultSwipeValue;
+                swipe=((swipe == 'click' || swipe == 'touch') && DeviceIsTouchEnabled()) ? sDefaultSwipeValue:sDefaultSwipeValue;
+            }
+
+            //Fixed this way for compactibility to old newStats calls
+            //console.log('googleTagManager category -> '+ category + 'requestType: '+requestType);
+
+            //Only if Logged in
+
+            var userId;
+            var userIdSex;
+            if(typeof getCookie('communitydata2') !== 'undefined')
+            {
+                var userData = getCookie('communitydata2').split('|');
+                if (typeof userData[0] !== 'undefined' && userData[0]!="") {userId=userData[0]; }
+                if (typeof userData[1] !== 'undefined' && userData[1]!="") {userIdSex=userData[1]; }
+            }
+            
+            var dataLayerVars = {
+            'articleID': isArticle(location.href),
+            'authorIds':authorIds,
+            'CRMAuthor': '',
+            'CRMCreator': 'Ramon Burri',
+            'webAppMode':((("standalone" in window.navigator) && window.navigator.standalone) ? true:false),
+            'articleName': scz.prop4,
+            'articleCreatedDate': scz.prop8,
+            'slideShowStats':slideShowStats,
+            'pageName': scz.pageName,
+            'context': scz.prop6,
+            'metaSpecial': scz.prop13,
+            'userId': userId,
+            'userIdSex': userIdSex,
+            'interaction':swipe,
+            'category':category,
+            'wemfSection':'/services',
+            'requestType':requestType,
+            'requestSource':'blick_web',
+            'trackCustomLinkValue':sTrackCustomLinkText,
+            'eventCallback' : (callbackFunction!=='undefined'? callbackFunction:undefined),
+            'hasArticleText':'yes',
+            'articleLength':'12427',
+            'hasImage':'no',
+            'hasSlideshow':'no',
+            'slidesNumber':'0',
+            'has360':'no',
+            'hasVideo':'no',
+            'hasLivestream':'no',
+            'hasLiveticker':'no',
+            'hasLiveMatch':'no',
+            'hasInteractive':'no',
+            'isSobli':'no',
+            'hasInfografik': 'no',
+            'abTest': false
+            };
+
+            
+
+
+
+            if(requestType=='ajax')
+            {
+                //Following are ajax functions which swipe variable is empty
+                var exceptionList = [''];
+                //scz.prop12 = swipe | scz.prop6 = context
+                if((typeof swipe !=='undefined') || exceptionList.inArray(scz.prop6))
+                {
+                    dataLayerVars['event']=scz.prop6;
+                }
+                else
+                {
+                    dataLayerVars['event']='ajaxPageload';
+                }
+            }
+            var dataLayer;
+
+            if(requestType == 'initial')
+            {
+                dataLayer=[];
+                dataLayer.push(dataLayerVars);
+
+                //console.log('Initial do GoogleTagManager -> googleTagManagerCall -> '+JSON.stringify(dataLayerVars));
+            }
+            else
+            {
+                dataLayer=dataLayerVars;
+            }
+
+            return dataLayer;
+        }
+
+        function googleTagManagerCall(category,agof,swipe,requestType,slideShowStats,callbackFunction)
+        {
+            //console.log("GTM Call -> googleTagManager.jsp");
+           
+            var dataLayerVars = googleTagManagerVariables(category,agof,swipe,requestType,slideShowStats,callbackFunction);
+            //console.log('Do Google Tag Manager AJAX Call with dataLayerVars -> '+JSON.stringify(dataLayerVars));
+            dataLayer.push(dataLayerVars);
+        }
+
+        function trackGTMandRedirect(eventName,trackingName,targetUrl)
+        {
+            googleTagManagerCall(eventName,'','','ajax',{'trackingName':trackingName},(function () {function redirect(targetUrl){location.href=targetUrl;} redirect(targetUrl);} ()));
+            return false;
+        }
+
+        Array.prototype.inArray = function (value)
+        {
+            // Returns true if the passed value is found in the
+            // array. Returns false if it is not.
+                var i;
+                for (i=0; i < this.length; i++) {
+                // Matches identical (===), not just similar (==).
+                if (this[i] === value) {
+                    return true;
+                }
+            }
+            return false;
+        };
+
+        
+            var dataLayer = googleTagManagerVariables('artikel','','','initial');
+        
+        //console.log('Do Google Tag Manager INITIAL Call with dataLayerVars -> '+JSON.stringify(dataLayer));
+        </script>
+        <!-- Start Google Tag Manager -->
+            <script>
+        
+                    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                    ga('create', 'UA-54102511-1', 'auto');
+                    ga('require', 'GTM-57N8KPB');
+                
+
+
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-PMZ3CX');
+
+                </script>
+            <!-- End Google Tag Manager -->
+        <title>Datenschutzbestimmungen - Blick</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Datenschutzbestimmungen - Blick" />
+            <meta itemprop="description" content="Datenschutzbestimmungen - Blick" />
+        <meta name="keywords" content="Services" />
+        <meta name="news_keywords" content="ringier,website,mobilen applikation,facebook,cookies,cookie,datenschutzbestimmungen" />
+            <meta name="author" content="Blick" />
+<meta name="date" content="2016-12-09T09:17:32+0100" />
+<meta name="robots" content="index,follow,noodp,noarchive" />
+    <meta name="contentId" content="151553" />
+    <meta name="cXenseParse:recs:articleid" content="151553"/>
+<meta name="contentType" content="news" />
+    <meta name="cXenseParse:rag-pagetype" content="news"/>
+<meta name="contentPool" content="web|mobile|app" />
+<meta name="contentDate" content="20080118" />
+    <meta name="cXenseParse:recs:publishtime" content="2016-12-09T09:17:32+0100"/>
+<meta name="cXenseParse:pageclass" content="article"/>
+        <meta name="cXenseParse:recs:rag-teasertitle" content="Datenschutzbestimmung"/>
+            <meta name="cXenseParse:recs:rag-teasercatchword" content=""/>
+
+            <meta name="cXenseParse:recs:rag-videourl" content=""/>
+                <meta name="cXenseParse:recs:rag-galleryurl" content=""/>
+                <meta name="cXenseParse:rag-source" content="0"/>
+        <meta name="cXenseParse:rag-section" content="Services"/>
+    <meta property="og:url" content="https://www.blick.ch/services/datenschutzbestimmungen-id151553.html" />
+<meta property="og:title" content="Datenschutzbestimmungen" />
+    <meta property="og:description" content="Datenschutzbestimmungen - Blick" />
+        <meta property="og:image" content="https://f2.blick.ch/img/aktuell/crop739855/9284675352-chorizontal-w1200-h630/Werbung-AGBs-Teaser.jpg" />
+        <meta property="og:image:width" content="1200"/>
+        <meta property="og:image:height" content="630"/>
+    <meta property="og:type" content="article" />
+<!-- Blick-Kanal (bolzurich) -->
+<meta name="google-site-verification" content="C1lCSj-OcwR549EmccB49Y8L2_9C1shzE9ZO4y4x-so" />
+<!-- Sport-Kanal (blicksport) -->
+<meta name="google-site-verification" content="q5yTS32Nn7X9c9xup6z3whp6uOMxwY6P8cIq1SIvq08" />
+
+<link rel="canonical" href="https://www.blick.ch/services/datenschutzbestimmungen-id151553.html" />
+<!-- bu: https://www.blick.ch/ -->
+<link rel="apple-touch-icon" href="https://f.blick.ch/resources/BLICK_20170511/ver1-0/img/icon-128-precomposed.png" type="image/png" />
+<link rel="shortcut icon" href="https://f.blick.ch/resources/BLICK_20170511/ver1-0/img/favicon.ico" type="image/x-icon" />
+<meta name="apple-itunes-app" content="app-id=444685616">
+<link itemprop="mainEntityOfPage" href="https://www.blick.ch/services/datenschutzbestimmungen-id151553.html" />
+    <meta itemprop="articleSection" content="Services"/>
+	    <meta itemprop="datePublished" content="2008-01-18T11:08:55" />
+        <meta itemprop="dateModified" content="2016-12-09T09:17:32" />
+    <link href="//players.brightcove.net/videojs-ima3/2/videojs.ima3.min.css" rel="stylesheet" type="text/css" />
+
+<meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@Blickch"/>
+    <meta name="twitter:url" content="https://www.blick.ch/151553" />
+    <meta name="twitter:title" content="Datenschutzbestimmungen - Blick"/>
+    <meta name="twitter:description" content="Datenschutzbestimmungen - Blick"/>
+    <meta name="twitter:image:src" content="https://f2.blick.ch/img/aktuell/crop739855/9284675352-chorizontal-w1200-h630/Werbung-AGBs-Teaser.jpg"/>
+            <meta name="twitter:image" content="https://f2.blick.ch/img/aktuell/crop739855/9284675352-chorizontal-w1200-h630/Werbung-AGBs-Teaser.jpg"/>
+        <meta name="twitter:app:country" content="CH">
+    <meta name="twitter:app:name:iphone" content="Blick News-App">
+    <meta name="twitter:app:id:iphone" content="375173494">
+    <meta name="twitter:app:url:iphone" content="blicknews://open/151553">
+    <meta name="twitter:app:name:googleplay" content="Blick-News App">
+    <meta name="twitter:app:id:googleplay" content="ch.blick.news">
+    <link rel="publisher" href="https://plus.google.com/104929913663164164177" />
+<link title="Blick.ch als Suchmaschine" rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml"/><script type="text/javascript">
+                var nuggtg = encodeURIComponent("");
+                var nugghost = "//ri.nuggad.net";
+                var nugghostmobile = "//ri.nuggad.net";
+                var nuggn = 1442414040;
+                var nuggsid = 1198918638;
+                var nuggnmobile = 1827563635;
+                var nuggsidmobile = 1934633688;
+                var nuggadmobile = navigator.userAgent.match(/mobile/i);
+                var nuggadios = navigator.userAgent.match(/iPhone|iPad|iPod/i);
+
+                if(nuggadmobile) {
+                    // Use mobile config for all mobile devices
+                    var nuggn = nuggnmobile;
+                    var nuggsid = nuggsidmobile;
+                    var nugghost = nugghostmobile;
+                }
+                if(nuggadios) {
+                    // Load Mobile Solutions Lib on iOS
+                    document.write('<scr' + 'ipt type="text/javascript" src="' + nugghost + '/javascripts/nuggad-ls.js"></scr' + 'ipt>');
+                }
+                else {
+                    // Sync RC-Call for all non-iOS Devices (incl Desktop)
+                    document.write('<scr' + 'ipt type="text/javascript" src="' + nugghost + '/rc?nuggn=' + nuggn + '&nuggsid=' + nuggsid + '&nuggtg=' + nuggtg + '"></scr' + 'ipt>');
+                }
+            </script>
+
+            <script type="text/javascript">
+                if(nuggadios) {
+                    nuggad.init({"rptn-url": nugghost}, function(api) {
+                        api.rc({"nuggn": nuggn, "nuggsid": nuggsid, "nuggtg": nuggtg});
+                    });
+                }
+</script><meta property="fb:admins" content="1075195362" />
+    <meta property="fb:admins" content="814305281" />
+    <meta property="fb:app_id" content="198633050385" />
+    <link rel="alternate" type="application/rss+xml" title="RSS Blick Services" href="https://www.blick.ch/services/rss"/>
+            <!--[if !IE]><!-->
+            <link rel="stylesheet" type="text/css" href="https://f.blick.ch/resources/BLICK_20170511/ver1-0/css/styles.css" media="screen, projection, print"/>
+            <!--<![endif]-->
+            <!--[if IE]>
+            <link rel="stylesheet" type="text/css" href="https://f.blick.ch/resources/BLICK_20170511/ver1-0/css/ie-split.css" media="screen, projection, print"/>
+            <![endif]-->
+            <!--[if IE 6]>
+            <link rel="stylesheet" type="text/css" href="https://f.blick.ch/resources/BLICK_20170511/ver1-0/css/ie6.css" />
+            <![endif]-->
+            <!--[if gte IE 7]>
+            <link rel="stylesheet" type="text/css" href="https://f.blick.ch/resources/BLICK_20170511/ver1-0/css/ie789.css" />
+            <![endif]-->
+            <link rel="stylesheet" type="text/css" href="https://f.blick.ch/resources/BLICK_20170511/ver1-0/css/print_rebrush.css" media="print"/>
+
+            <script type="text/javascript" src="https://aka-cdn.adtech.de/dt/common/DAC.js"></script>
+                        <script type="text/javascript" src="https://aka-cdn-ns.adtech.de/dac/780.2/w1090252.js"></script>
+                        <script type="text/javascript" src="https://aka-cdn-ns.adtech.de/dac/780.2/1090252/p463474.js"></script>
+                    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.min.js"></script>
+
+            <script type="text/javascript" src="https://f.blick.ch/resources/BLICK_20170511/ver1-0/js/allJsFiles.min.js"></script>
+        <script src="https://f.blick.ch/resources/BLICK_20170511/ver1-0/js/lazysizes.min_custom.js"></script>
+    <script> var loop11_key = "f94f7eeccfa2e9d5122d36fba48eecde15554f8d";</script>
+    <script src='//cdn.loop11.com/my/loop11.js' type='text/javascript'></script>
+    <script type="text/javascript">
+        window.twttr = (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+                    t = window.twttr || {};
+            if (d.getElementById(id)) return;
+            js = d.createElement(s);
+            js.id = id;
+            js.async = 1;
+            js.defer = 1;
+            js.src = "//platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+            t._e = [];
+            t.ready = function(f) {
+                t._e.push(f);
+            };
+            return t;
+        }(document, "script", "twitter-wjs"));
+    </script>
+</head>
+
+<body class="submenu article">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id="
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var fbAsyncIds = [],
+        fbStatUrls = [];
+    $(window).load(function () {
+        $.getScript('//connect.facebook.net/de_DE/sdk.js', function () {
+            FB.init({version:'v2.0',appId: '198633050385', cookie: 'www.blick.ch', oauth: true,channelUrl:'http://www.blick.ch/resources/ver1-0/channel.html'});
+            $('.fblb').each(function () {
+                FB.XFBML.parse($(this).get(0));
+            });
+        });
+        window.fbAsyncInit = function() {
+            for (var i = 0; i < fbAsyncIds.length; i++) {
+                FB.XFBML.parse($('#' + fbAsyncIds[i]).get(0));
+                FB.Event.subscribe('edge.create', function (href, widget) {
+                    try {
+                        if (facebookLikes == 0) {
+                            trackLike(fbStatUrls[i++]);
+                            facebookLikes++;
+                        }
+                    } catch (e) {
+                    }
+                });
+            }
+        };
+    });
+    function enableFullscreenControl(){return -1}
+    function finishedLoading(){videoTag.removeEventListener('timeupdate', finishedLoading ,false);return -1}
+    /* ]]> */
+</script>
+
+<a id="top"></a>
+<div id="content_outer">
+    <script type="text/javascript" src="https://scdn.cxense.com/cx.js"></script><!--googleoff: index--><div class="headerPartners gradient sticky-top">
+    <ul class="headerPartnersInner clearfix">
+      <li >
+          <a href="https://www.geschenkidee.ch/?utm_source=blick&amp;utm_medium=Logoleiste&amp;utm_campaign=blick-logoleiste" title="Geschenkidee" target="_blank">
+              <img class="headerPartnerImage" src="https://f3.blick.ch/img/incoming/origs5180273/2811378119-w30-h960-q95/Logo-Geschenkidee.png" alt="geschenkidee.ch" width="30"/></a>
+          </li>
+      <li >
+          <a href="https://www.cash.ch/?utm_source=blickicon&amp;utm_medium=display_blick.ch&amp;utm_campaign=cash-icon_blick.ch" title="Finanzen" target="_blank">
+              <img class="headerPartnerImage" src="https://f2.blick.ch/img/incoming/origs2963809/8631379204-w30-h960-q95/Cash-Logo-NEW.png" alt="" width="30"/></a>
+          </li>
+      <li >
+          <a href="https://ad.doubleclick.net/ddm/clk/301184853;128136180;y?utm_source=integration&amp;utm_medium=blick_ch&amp;utm_campaign=top_button" title="DeinDeal !" target="_blank">
+              <img class="headerPartnerImage" src="https://f1.blick.ch/img/incoming/origs2484051/9081373981-w30-h960-q95/app-57x57.png" alt="&#160;" width="30"/></a>
+          </li>
+      <li >
+          <a href="https://sistyle.ch?utm_source=blick.ch&amp;utm_medium=icon&amp;utm_campaign=BlickPartnericon" title="Style" target="_blank">
+              <img class="headerPartnerImage" src="https://f2.blick.ch/img/incoming/origs4810480/6751371491-w30-h960-q95/style-60x60.png" alt="" width="30"/></a>
+          </li>
+      <li >
+          <a href="https://www.anibis.ch/de/default.aspx?utm_source=blick.ch&amp;utm_medium=cooperations&amp;utm_content=logo&amp;utm_campaign=logoleiste" title="Anzeigen" target="_blank">
+              <img class="headerPartnerImage" src="https://f1.blick.ch/img/incoming/origs2375283/2021376123-w30-h960-q95/anibisLogo.png" alt="" width="30"/></a>
+          </li>
+      <li >
+          <a href="https://www.boleromagazin.ch/?utm_source=blick.ch&amp;utm_medium=icon&amp;utm_campaign=BlickPartnericon" title="Bolero" target="_blank">
+              <img class="headerPartnerImage" src="https://f1.blick.ch/img/incoming/origs4935159/2601371307-w30-h960-q95/bolero-icon-60x60.png" alt="" width="30"/></a>
+          </li>
+      <li >
+          <a href="https://www.energy.ch" title="Radio" target="_blank">
+              <img class="headerPartnerImage" src="https://f2.blick.ch/img/incoming/origs2376592/057137794-w30-h960-q95/energy-blick-icon.png" alt="&#160;" width="30"/></a>
+          </li>
+      <li >
+          <a href="https://www.schweizer-illustrierte.ch?utm_source=blick.ch&amp;utm_medium=icon&amp;utm_campaign=BlickPartnericon" title="SI" target="_blank">
+              <img class="headerPartnerImage" src="https://f1.blick.ch/img/incoming/origs4810503/8631372270-w30-h960-q95/AppIcon60x60.png" alt="" width="30"/></a>
+          </li>
+      <li class="last" >
+          <a href="https://www.weinclub.com?utm_source=blick.ch&amp;utm_medium=icon&amp;utm_campaign=BlickPartnericon" title="Weinclub" target="_blank">
+              <img class="headerPartnerImage" src="https://f2.blick.ch/img/incoming/origs4746436/49013712-w30-h960-q95/Blick-Header-Partner-1.png" alt="" width="30"/></a>
+          </li>
+      </ul>
+  </div>
+<!--googleon: index--><style>
+/* START SASS as the SCSS-compiler doesnt like keyframes-animations yet, definition in here*/
+@-webkit-keyframes fa-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes fa-spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+/* END SASS*/
+</style>
+
+<div id="header_outer">
+    <div id="header" class="clearfix">
+        <div id="logo">
+		            <a title="Blick.ch – das Newsportal für die Schweiz" href="https://www.blick.ch/">Blick.ch – das Newsportal für die Schweiz</a>
+		        </div>
+	    	<div id="logo_print"><img src="https://f.blick.ch/resources/BLICK_20170511/ver1-0/img/logo_print.gif" alt="Blick.ch – das Newsportal für die Schweiz" /></div>
+    <div class="headerRight">
+            <div class="toplink">
+                </div>
+            <div class="clearfix search_form_add_info">
+                <div class="fr add_info">
+                    <div class="weather-search fl clearfix" id="seitenkopf_miniwetter">
+    <div class="temp fr" data-geocode="weather_header">
+        <span class="weatherlabel">&nbsp;</span>
+        <span class="temperature">&nbsp;</span>
+        <a href="#" class="ovl_overlay ovl-t_sonne" title=""></a>
+    </div>
+    <div class="weather-search__overlay">
+        <span class="weather-search__current-location">Wetter in <span class="weatherlabel">-</span></span>
+        <a class="weather-search__weather-link" href="#" onclick="location.href='/wetter/schweiz/'">Wetter</a><br />
+        <div id="weathersearch" class="ort">
+            <div class="current-country">
+                <span class="current-country-label">Ort anpassen</span>
+                <div class="countries">
+                    <div class="cont-bottom clearfix">
+                        <ul class="first">
+                            <li><a href="https://www.blick.ch/wetter/schweiz/zuerich" data-geocode="2657896" class="weatherButton">Z&uuml;rich</a></li>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/bern" data-geocode="2661552" class="weatherButton">Bern</a></li>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/basel" data-geocode="2661604" class="weatherButton">Basel</a></li>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/luzern" data-geocode="2659811" class="weatherButton">Luzern</a></li>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/stgallen" data-geocode="2658822" class="weatherButton">St. Gallen</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/genf" data-geocode="2660646" class="weatherButton">Genf</a></li>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/lausanne" data-geocode="2659994" class="weatherButton">Lausanne</a></li>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/bellinzona" data-geocode="2661567" class="weatherButton">Bellinzona</a></li>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/sion" data-geocode="2658576" class="weatherButton">Sion</a></li>
+                            <li><a href="https://www.blick.ch/wetter/schweiz/chur" data-geocode="2661169" class="weatherButton">Chur</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix">
+            <div class="weather-search__forecast-col">
+                <a href="#" class="ovl_overlay ovl-t_sonne" title=""></a>
+                <div class="weather-search__forecast-day">-</div>
+                <div class="weather-search__forecast-temperature">
+                    <span class="min">-</span>&deg; / <span class="max">-</span>&deg;
+                </div>
+            </div>
+            <div class="weather-search__forecast-col">
+                <a href="#" class="ovl_overlay ovl-t_sonne" title=""></a>
+                <div class="weather-search__forecast-day">-</div>
+                <div class="weather-search__forecast-temperature">
+                    <span class="min">-</span>&deg; / <span class="max">-</span>&deg;
+                </div>
+            </div>
+            <div class="weather-search__forecast-col">
+                <a href="#" class="ovl_overlay ovl-t_sonne" title=""></a>
+                <div class="weather-search__forecast-day">-</div>
+                <div class="weather-search__forecast-temperature">
+                    <span class="min">-</span>&deg; / <span class="max">-</span>&deg;
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        initWeatherSearch("blickWeatherNew", "https://www.blick.ch/widget/id1651480?view=ajax_rebrush", 2657896);
+    });
+
+    /* Netmetrix Tracking */
+    var weather_search_tracking = [];
+    $("#seitenkopf_miniwetter").mouseenter(function () {
+        var that = this;
+        if ($.inArray($(that).attr('id'), weather_search_tracking) == -1) {
+            weather_search_tracking.push($(that).attr('id'));
+            newStats('weather_search');
+        }
+    });
+</script><div id="search-form-fwid0" class="search_form search_form--header clearfix hidden fl">
+			<label class="search_form__input-wrapper fl" title="suchbegriff">
+				<input id="searchslotfwid0" class="search placeholder" type="text" onkeyup="if(event.keyCode==13){location.href='https://www.blick.ch/suche/?q='+$('#searchslotfwid0').val();}" onblur="if (this.value == ''){this.value = 'Suchbegriff...';$(this).addClass('placeholder');}" onfocus="if (this.value == 'Suchbegriff...') {this.value = '';$(this).removeClass('placeholder');}" value="Suchbegriff..." title="Suchbegriff..." />
+			</label>
+			<a class="fl search-btn" href="javascript:void(0);" onclick="if ('Suchbegriff...'==document.getElementById('searchslotfwid0').value) {document.getElementById('searchslotfwid0').value = '';}location.href='https://www.blick.ch/suche/?q='+$('#searchslotfwid0').val();">Suchen</a>
+			</div>
+		<div id="search-trigger-fwid0" class="search-form-trigger fl" href="#" title="Suchbegriff...">
+			Suche
+		</div>
+		<script type="text/javascript">
+			$(document).ready(function () {
+				// Init search slot trigger
+				$("#search-trigger-fwid0").click(function () {
+					$(this).hide();
+					$("#search-form-fwid0").removeClass("hidden");
+				});
+				// Init search as you type
+				initSayt('#searchslotfwid0', 'https://www.blick.ch/widget/id2797159?view=json');
+			});
+		</script>
+	<div id="community_login_register" class="userstate fl">
+        <div id="userDataLoged" style="display:none">
+            <a class="userstate__login usericon"  href="https://www.blick.ch/services/personal/" title="Login">Mein Konto</a>
+            <span style="color: #FFF;font-size: 15px;font-weight: 400;">|</span>
+            <a class="userstate__logout" id="logout-button" href="" title="">Abmelden</a>
+        </div>
+        <div id="userDataUnloged">
+            <a class="userstate__login"  id="topLogin" href="#loginModal" title="Login">Anmelden</a>
+            </div>
+    </div>
+<script type="text/javascript">
+            $(document).ready(function () {
+                initLogin('https://www.blick.ch/', 'https://www.blick.ch/widget/id2554794?view=ajax', 'https://www.blick.ch/twitter/login')
+            });
+        </script>
+    </div>
+                <div class="fl">
+                    </div>
+            </div>
+        </div>
+        <div class="header__navigation clearfix">
+            <ul class=" menu menu--firstlvl">
+    <li class="first ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/"
+                       title="Home"
+                       data-sectionid="1"
+                       data-ajaxContentUrl=""
+                       menu-path="Home"
+                       data-lvl="1" data-children="empty">
+                            Home</a><ul class="clearfix menu menu--secondlvl menu--small">
+                        <li class="menu__teaser menu__teaser--fullsize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/news/"
+                       title="News"
+                       data-sectionid="3"
+                       data-ajaxContentUrl=""
+                       menu-path="News"
+                       data-lvl="1" >
+                            News</a><ul class="clearfix menu menu--secondlvl menu--big">
+                        <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/news/schweiz/"
+                                           class="first  menu__link"
+                                           title="Schweiz" 
+                                           data-sectionid="38"
+                                           data-ajaxContentUrl=""
+                                           menu-path="News / Schweiz"
+                                           data-lvl="2" data-children="empty">
+                                                Schweiz</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/news/ausland/"
+                                           class="  menu__link"
+                                           title="Ausland" 
+                                           data-sectionid="39"
+                                           data-ajaxContentUrl=""
+                                           menu-path="News / Ausland"
+                                           data-lvl="2" data-children="empty">
+                                                Ausland</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl menu__item--has-children">
+                                    <a href="https://www.blick.ch/news/politik/"
+                                           class=" arrow  menu__link"
+                                           title="Politik" 
+                                           data-sectionid="40"
+                                           data-ajaxContentUrl=""
+                                           menu-path="News / Politik"
+                                           data-lvl="2" >
+                                                Politik</a><ul class="clearfix menu menu--thirdlvl" >
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/news/politik/abstimmungen/"
+                                                       class="menu__link" title="Abstimmungen" 
+                                                       data-sectionid="3905"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="News / Politik / Abstimmungen"
+                                                       data-lvl="3"  >
+                                                            Abstimmungen</a></li>
+                                            </ul>
+
+                                    </li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/news/wirtschaft/"
+                                           class="  menu__link"
+                                           title="Wirtschaft" 
+                                           data-sectionid="41"
+                                           data-ajaxContentUrl=""
+                                           menu-path="News / Wirtschaft"
+                                           data-lvl="2" data-children="empty">
+                                                Wirtschaft</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/interaktiv/"
+                                           class="  menu__link"
+                                           title="Specials" 
+                                           data-sectionid="73"
+                                           data-ajaxContentUrl=""
+                                           menu-path="News / Specials"
+                                           data-lvl="2" data-children="empty">
+                                                Specials</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/news/leserreporter/"
+                                           class="  menu__link"
+                                           title="Leserreporter 8989" 
+                                           data-sectionid="42"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id4729739?view=ajax"
+                                           menu-path="News / Leserreporter 8989"
+                                           data-lvl="2" data-children="empty">
+                                                Leserreporter 8989</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/services/webarchiv/"
+                                           class="last  menu__link"
+                                           title="Alle Meldungen" 
+                                           data-sectionid="750"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5073270?view=ajax"
+                                           menu-path="News / Alle Meldungen"
+                                           data-lvl="2" data-children="empty">
+                                                Alle Meldungen</a></li>
+                            <li class="menu__teaser menu__teaser--othersize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/sport/"
+                       title="Sport"
+                       data-sectionid="4"
+                       data-ajaxContentUrl=""
+                       menu-path="Sport"
+                       data-lvl="1" >
+                            Sport</a><ul class="clearfix menu menu--secondlvl menu--big">
+                        <li class="ajax-menu menu__item menu__item--secondlvl menu__item--has-children">
+                                    <a href="https://www.blick.ch/sport/fussball/"
+                                           class="first arrow  menu__link"
+                                           title="Fussball" 
+                                           data-sectionid="16"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Fussball"
+                                           data-lvl="2" >
+                                                Fussball</a><ul class="clearfix menu menu--thirdlvl" >
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/fussball/superleague/"
+                                                       class="menu__link" title="Raiffeisen Super League" 
+                                                       data-sectionid="23"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / Raiffeisen Super League"
+                                                       data-lvl="3"  >
+                                                            Raiffeisen Super League</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/liga-prognose/"
+                                                       class="menu__link" title="Liga-Prognose" 
+                                                       data-sectionid="2011"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / Liga-Prognose"
+                                                       data-lvl="3"  >
+                                                            Liga-Prognose</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/fussball/cup/"
+                                                       class="menu__link" title="Helvetia Schweizer Cup" 
+                                                       data-sectionid="24"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / Helvetia Schweizer Cup"
+                                                       data-lvl="3"  >
+                                                            Helvetia Schweizer Cup</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/fussball/challengeleague/"
+                                                       class="menu__link" title="Brack.ch Challenge League" 
+                                                       data-sectionid="158"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / Brack.ch Challenge League"
+                                                       data-lvl="3"  >
+                                                            Brack.ch Challenge League</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/fussball/nati/"
+                                                       class="menu__link" title="Nati" 
+                                                       data-sectionid="25"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / Nati"
+                                                       data-lvl="3"  >
+                                                            Nati</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/fussball/superleague/fussballer-des-monats/"
+                                                       class="menu__link" title="Fussballer des Monats" 
+                                                       data-sectionid="2122"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / Fussballer des Monats"
+                                                       data-lvl="3"  >
+                                                            Fussballer des Monats</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/fussball/international/"
+                                                       class="menu__link" title="International" 
+                                                       data-sectionid="28"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / International"
+                                                       data-lvl="3"  >
+                                                            International</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/fussball/championsleague/"
+                                                       class="menu__link" title="Champions League" 
+                                                       data-sectionid="26"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / Champions League"
+                                                       data-lvl="3"  >
+                                                            Champions League</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/fussball/europaleague/"
+                                                       class="menu__link" title="Europa League" 
+                                                       data-sectionid="27"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Fussball / Europa League"
+                                                       data-lvl="3"  >
+                                                            Europa League</a></li>
+                                            </ul>
+
+                                    </li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl menu__item--has-children">
+                                    <a href="https://www.blick.ch/sport/eishockey/"
+                                           class=" arrow  menu__link"
+                                           title="Eishockey" 
+                                           data-sectionid="17"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Eishockey"
+                                           data-lvl="2" >
+                                                Eishockey</a><ul class="clearfix menu menu--thirdlvl" >
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/eishockey/nati/"
+                                                       class="menu__link" title="Nati" 
+                                                       data-sectionid="154"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Eishockey / Nati"
+                                                       data-lvl="3"  >
+                                                            Nati</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/eishockey/nla/"
+                                                       class="menu__link" title="NLA" 
+                                                       data-sectionid="151"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Eishockey / NLA"
+                                                       data-lvl="3"  >
+                                                            NLA</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/eishockey/nlb/"
+                                                       class="menu__link" title="NLB" 
+                                                       data-sectionid="152"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Eishockey / NLB"
+                                                       data-lvl="3"  >
+                                                            NLB</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/eishockey/nhl/"
+                                                       class="menu__link" title="NHL" 
+                                                       data-sectionid="156"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Eishockey / NHL"
+                                                       data-lvl="3"  >
+                                                            NHL</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/eishockey/eishockey_cup/"
+                                                       class="menu__link" title="Swiss Ice Hockey Cup" 
+                                                       data-sectionid="1532"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Eishockey / Swiss Ice Hockey Cup"
+                                                       data-lvl="3"  >
+                                                            Swiss Ice Hockey Cup</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/eishockey/spenglercup/"
+                                                       class="menu__link" title="Spengler Cup" 
+                                                       data-sectionid="153"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Eishockey / Spengler Cup"
+                                                       data-lvl="3"  >
+                                                            Spengler Cup</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/dino/"
+                                                       class="menu__link" title="2 Minuten für Dino" 
+                                                       data-sectionid="1881"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Eishockey / 2 Minuten für Dino"
+                                                       data-lvl="3"  >
+                                                            2 Minuten für Dino</a></li>
+                                            </ul>
+
+                                    </li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/sport/ski/"
+                                           class="  menu__link"
+                                           title="Ski" 
+                                           data-sectionid="20"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Ski"
+                                           data-lvl="2" data-children="empty">
+                                                Ski</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/sport/formel1/"
+                                           class="  menu__link"
+                                           title="Formel 1" 
+                                           data-sectionid="18"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Formel 1"
+                                           data-lvl="2" data-children="empty">
+                                                Formel 1</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/sport/motorsport/formel_e/"
+                                           class="  menu__link"
+                                           title="Formel E" 
+                                           data-sectionid="2802"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Formel E"
+                                           data-lvl="2" data-children="empty">
+                                                Formel E</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/sport/tennis/"
+                                           class="  menu__link"
+                                           title="Tennis" 
+                                           data-sectionid="19"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Tennis"
+                                           data-lvl="2" data-children="empty">
+                                                Tennis</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/sport/rad/"
+                                           class="  menu__link"
+                                           title="Rad" 
+                                           data-sectionid="196"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Rad"
+                                           data-lvl="2" data-children="empty">
+                                                Rad</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl menu__item--has-children">
+                                    <a href="https://www.blick.ch/sport/leichtathletik/"
+                                           class=" arrow  menu__link"
+                                           title="Leichtathletik" 
+                                           data-sectionid="166"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Leichtathletik"
+                                           data-lvl="2" >
+                                                Leichtathletik</a><ul class="clearfix menu menu--thirdlvl" >
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/leichtathletik/EM_2016/"
+                                                       class="menu__link" title="EM 2016" 
+                                                       data-sectionid="3383"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Leichtathletik / EM 2016"
+                                                       data-lvl="3"  >
+                                                            EM 2016</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/leichtathletik/ubs_kids_cup/"
+                                                       class="menu__link" title="UBS Kids Cup" 
+                                                       data-sectionid="3384"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Leichtathletik / UBS Kids Cup"
+                                                       data-lvl="3"  >
+                                                            UBS Kids Cup</a></li>
+                                            </ul>
+
+                                    </li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl menu__item--has-children">
+                                    <a href="https://www.blick.ch/sport/mehr_sport/"
+                                           class=" arrow  menu__link"
+                                           title="Mehr Sport" 
+                                           data-sectionid="22"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Mehr Sport"
+                                           data-lvl="2" >
+                                                Mehr Sport</a><ul class="clearfix menu menu--thirdlvl" >
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/schwingen/"
+                                                       class="menu__link" title="Schwingen" 
+                                                       data-sectionid="177"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Schwingen"
+                                                       data-lvl="3"  >
+                                                            Schwingen</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/triathlon/"
+                                                       class="menu__link" title="Triathlon" 
+                                                       data-sectionid="178"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Triathlon"
+                                                       data-lvl="3"  >
+                                                            Triathlon</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/motorsport/motogp/"
+                                                       class="menu__link" title="Motorrad" 
+                                                       data-sectionid="681"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Motorrad"
+                                                       data-lvl="3"  >
+                                                            Motorrad</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/basketball/"
+                                                       class="menu__link" title="Basketball" 
+                                                       data-sectionid="149"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Basketball"
+                                                       data-lvl="3"  >
+                                                            Basketball</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/leichtathletik/"
+                                                       class="menu__link" title="Leichtathletik" 
+                                                       data-sectionid="166"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Leichtathletik"
+                                                       data-lvl="3"  >
+                                                            Leichtathletik</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/boxen/"
+                                                       class="menu__link" title="Boxen" 
+                                                       data-sectionid="171"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Boxen"
+                                                       data-lvl="3"  >
+                                                            Boxen</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/american-football/"
+                                                       class="menu__link" title="American Football" 
+                                                       data-sectionid="167"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / American Football"
+                                                       data-lvl="3"  >
+                                                            American Football</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/handball/"
+                                                       class="menu__link" title="Handball" 
+                                                       data-sectionid="165"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Handball"
+                                                       data-lvl="3"  >
+                                                            Handball</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/volleyball/"
+                                                       class="menu__link" title="Volleyball" 
+                                                       data-sectionid="181"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Volleyball"
+                                                       data-lvl="3"  >
+                                                            Volleyball</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/golf/"
+                                                       class="menu__link" title="Golf" 
+                                                       data-sectionid="173"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Golf"
+                                                       data-lvl="3"  >
+                                                            Golf</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/reiten/"
+                                                       class="menu__link" title="Reiten" 
+                                                       data-sectionid="175"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Reiten"
+                                                       data-lvl="3"  >
+                                                            Reiten</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/schwimmen/"
+                                                       class="menu__link" title="Schwimmen" 
+                                                       data-sectionid="176"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Schwimmen"
+                                                       data-lvl="3"  >
+                                                            Schwimmen</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/wintersport/"
+                                                       class="menu__link" title="Wintersport" 
+                                                       data-sectionid="21"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Mehr Sport / Wintersport"
+                                                       data-lvl="3"  >
+                                                            Wintersport</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/weitere/"
+                                                       class="menu__link" title="Weitere" 
+                                                       data-sectionid="3185"
+                                                       data-ajaxContentUrl="https://www.blick.ch/widget/id4785257?view=ajax"
+                                                       menu-path="Sport / Mehr Sport / Weitere"
+                                                       data-lvl="3"  >
+                                                            Weitere</a></li>
+                                            </ul>
+
+                                    </li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl menu__item--has-children">
+                                    <a href="https://www.blick.ch/sport/videoformate/"
+                                           class=" arrow  menu__link"
+                                           title="Videoformate" 
+                                           data-sectionid="1871"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / Videoformate"
+                                           data-lvl="2" >
+                                                Videoformate</a><ul class="clearfix menu menu--thirdlvl" >
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/dino/"
+                                                       class="menu__link" title="2 Minuten für Dino" 
+                                                       data-sectionid="1881"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Videoformate / 2 Minuten für Dino"
+                                                       data-lvl="3"  >
+                                                            2 Minuten für Dino</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/liga-prognose/"
+                                                       class="menu__link" title="Liga-Prognose" 
+                                                       data-sectionid="2011"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Videoformate / Liga-Prognose"
+                                                       data-lvl="3"  >
+                                                            Liga-Prognose</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/hitzfeld/"
+                                                       class="menu__link" title="Hitzfeld" 
+                                                       data-sectionid="2142"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Videoformate / Hitzfeld"
+                                                       data-lvl="3"  >
+                                                            Hitzfeld</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/auf-ein-bier-mit/"
+                                                       class="menu__link" title="Auf ein Bier mit..." 
+                                                       data-sectionid="1873"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Videoformate / Auf ein Bier mit..."
+                                                       data-lvl="3"  >
+                                                            Auf ein Bier mit...</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/broeckelmann/"
+                                                       class="menu__link" title="Studio Bröckelmann" 
+                                                       data-sectionid="2088"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Videoformate / Studio Bröckelmann"
+                                                       data-lvl="3"  >
+                                                            Studio Bröckelmann</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/mimi/"
+                                                       class="menu__link" title="Mimi" 
+                                                       data-sectionid="2144"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Videoformate / Mimi"
+                                                       data-lvl="3"  >
+                                                            Mimi</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/sporttalk/"
+                                                       class="menu__link" title="Sporttalk" 
+                                                       data-sectionid="1880"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Videoformate / Sporttalk"
+                                                       data-lvl="3"  >
+                                                            Sporttalk</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/sport/videoformate/apres-ski-mit-marcel/"
+                                                       class="menu__link" title="Apres-Ski mit Marcel" 
+                                                       data-sectionid="1872"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Sport / Videoformate / Apres-Ski mit Marcel"
+                                                       data-lvl="3"  >
+                                                            Apres-Ski mit Marcel</a></li>
+                                            </ul>
+
+                                    </li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/sport/sporterlebnis/"
+                                           class="  menu__link"
+                                           title="SportErlebnis" 
+                                           data-sectionid="200"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Sport / SportErlebnis"
+                                           data-lvl="2" data-children="empty">
+                                                SportErlebnis</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="http://resultate.sport.blick.ch/"
+                                           class="last  menu__link"
+                                           title="Resultate" target="http://resultate.sport.blick.ch/"
+                                           data-sectionid="200"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5071522?view=ajax"
+                                           menu-path="Sport / Resultate"
+                                           data-lvl="2" data-children="empty">
+                                                Resultate</a></li>
+                            <li class="menu__teaser menu__teaser--othersize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/people-tv/"
+                       title="People"
+                       data-sectionid="5"
+                       data-ajaxContentUrl=""
+                       menu-path="People"
+                       data-lvl="1" >
+                            People</a><ul class="clearfix menu menu--secondlvl menu--big">
+                        <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/people-tv/schweiz/"
+                                           class="first  menu__link"
+                                           title="People Schweiz" 
+                                           data-sectionid="32"
+                                           data-ajaxContentUrl=""
+                                           menu-path="People / People Schweiz"
+                                           data-lvl="2" data-children="empty">
+                                                People Schweiz</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/people-tv/international/"
+                                           class="  menu__link"
+                                           title="People International" 
+                                           data-sectionid="33"
+                                           data-ajaxContentUrl=""
+                                           menu-path="People / People International"
+                                           data-lvl="2" data-children="empty">
+                                                People International</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/people-tv/royals/"
+                                           class="  menu__link"
+                                           title="Royals" 
+                                           data-sectionid="34"
+                                           data-ajaxContentUrl=""
+                                           menu-path="People / Royals"
+                                           data-lvl="2" data-children="empty">
+                                                Royals</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl menu__item--has-children">
+                                    <a href="https://www.blick.ch/people-tv/tv/"
+                                           class=" arrow  menu__link"
+                                           title="TV" 
+                                           data-sectionid="37"
+                                           data-ajaxContentUrl=""
+                                           menu-path="People / TV"
+                                           data-lvl="2" >
+                                                TV</a><ul class="clearfix menu menu--thirdlvl" >
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/people-tv/tv/tv-checker/"
+                                                       class="menu__link" title="TV-Checker Padrutt" 
+                                                       data-sectionid="1566"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="People / TV / TV-Checker Padrutt"
+                                                       data-lvl="3"  >
+                                                            TV-Checker Padrutt</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/people-tv/tv/tatort/"
+                                                       class="menu__link" title="Tatort" 
+                                                       data-sectionid="1565"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="People / TV / Tatort"
+                                                       data-lvl="3"  >
+                                                            Tatort</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/people-tv/tv/bachelor/"
+                                                       class="menu__link" title="Bachelor" 
+                                                       data-sectionid="865"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="People / TV / Bachelor"
+                                                       data-lvl="3"  >
+                                                            Bachelor</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/people-tv/tv/bauerledigsucht/"
+                                                       class="menu__link" title="Bauer, ledig, sucht..." 
+                                                       data-sectionid="217"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="People / TV / Bauer, ledig, sucht..."
+                                                       data-lvl="3"  >
+                                                            Bauer, ledig, sucht...</a></li>
+                                            </ul>
+
+                                    </li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/people-tv/musik/"
+                                           class="  menu__link"
+                                           title="Musik" 
+                                           data-sectionid="36"
+                                           data-ajaxContentUrl=""
+                                           menu-path="People / Musik"
+                                           data-lvl="2" data-children="empty">
+                                                Musik</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/people-tv/musik/festivals/"
+                                           class="  menu__link"
+                                           title="Festivals & Openairs" 
+                                           data-sectionid="4324"
+                                           data-ajaxContentUrl=""
+                                           menu-path="People / Festivals & Openairs"
+                                           data-lvl="2" data-children="empty">
+                                                Festivals & Openairs</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/people-tv/kino/"
+                                           class="  menu__link"
+                                           title="Kino" 
+                                           data-sectionid="35"
+                                           data-ajaxContentUrl=""
+                                           menu-path="People / Kino"
+                                           data-lvl="2" data-children="empty">
+                                                Kino</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.ticketcorner.ch/tickets.html?affiliate=BML"
+                                           class="  menu__link"
+                                           title="Ticketcorner" target="blank"
+                                           data-sectionid="35"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5069310?view=ajax"
+                                           menu-path="People / Ticketcorner"
+                                           data-lvl="2" data-children="empty">
+                                                Ticketcorner</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.geschenkidee.ch/events?utm_source=blick&utm_medium=referral&utm_campaign=naviintegration​"
+                                           class="last  menu__link"
+                                           title="Erlebnis-Gutscheine" target="blank"
+                                           data-sectionid="35"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5069486?view=ajax"
+                                           menu-path="People / Erlebnis-Gutscheine"
+                                           data-lvl="2" data-children="empty">
+                                                Erlebnis-Gutscheine</a></li>
+                            <li class="menu__teaser menu__teaser--othersize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/ratgeber/"
+                       title="Ratgeber"
+                       data-sectionid="2022"
+                       data-ajaxContentUrl=""
+                       menu-path="Ratgeber"
+                       data-lvl="1" >
+                            Ratgeber</a><ul class="clearfix menu menu--secondlvl menu--big">
+                        <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/ratgeber/ernaehrung/"
+                                           class="first  menu__link"
+                                           title="Ernährung" 
+                                           data-sectionid="2023"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Ratgeber / Ernährung"
+                                           data-lvl="2" data-children="empty">
+                                                Ernährung</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/ratgeber/geld-konsum/"
+                                           class="  menu__link"
+                                           title="Geld & Konsum" 
+                                           data-sectionid="2024"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Ratgeber / Geld & Konsum"
+                                           data-lvl="2" data-children="empty">
+                                                Geld & Konsum</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/ratgeber/liebe/"
+                                           class="  menu__link"
+                                           title="Fux über Sex" 
+                                           data-sectionid="2860"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Ratgeber / Fux über Sex"
+                                           data-lvl="2" data-children="empty">
+                                                Fux über Sex</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://ebalance.blick.ch/portal/"
+                                           class="last  menu__link"
+                                           title="Blick eBalance" target="blank"
+                                           data-sectionid="2860"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5069522?view=ajax"
+                                           menu-path="Ratgeber / Blick eBalance"
+                                           data-lvl="2" data-children="empty">
+                                                Blick eBalance</a></li>
+                            <li class="menu__teaser menu__teaser--othersize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/life/"
+                       title="Life"
+                       data-sectionid="6"
+                       data-ajaxContentUrl=""
+                       menu-path="Life"
+                       data-lvl="1" >
+                            Life</a><ul class="clearfix menu menu--secondlvl menu--big">
+                        <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/life/mode/"
+                                           class="first  menu__link"
+                                           title="Mode" 
+                                           data-sectionid="88"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Life / Mode"
+                                           data-lvl="2" data-children="empty">
+                                                Mode</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/life/beauty/"
+                                           class="  menu__link"
+                                           title="Beauty" 
+                                           data-sectionid="82"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Life / Beauty"
+                                           data-lvl="2" data-children="empty">
+                                                Beauty</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl menu__item--has-children">
+                                    <a href="https://www.blick.ch/life/reisen/"
+                                           class=" arrow  menu__link"
+                                           title="Reisen" 
+                                           data-sectionid="81"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Life / Reisen"
+                                           data-lvl="2" >
+                                                Reisen</a><ul class="clearfix menu menu--thirdlvl" >
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/life/reisen/ch/"
+                                                       class="menu__link" title="Schweiz" 
+                                                       data-sectionid="1969"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Life / Reisen / Schweiz"
+                                                       data-lvl="3"  >
+                                                            Schweiz</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/life/reisen/citytrip/"
+                                                       class="menu__link" title="Citytrip" 
+                                                       data-sectionid="1970"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Life / Reisen / Citytrip"
+                                                       data-lvl="3"  >
+                                                            Citytrip</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/life/reisen/fernweh/"
+                                                       class="menu__link" title="Fernweh" 
+                                                       data-sectionid="1971"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Life / Reisen / Fernweh"
+                                                       data-lvl="3"  >
+                                                            Fernweh</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/life/reisen/active/"
+                                                       class="menu__link" title="Active" 
+                                                       data-sectionid="1972"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Life / Reisen / Active"
+                                                       data-lvl="3"  >
+                                                            Active</a></li>
+                                            <li class="menu__item menu__item--thirdlvl ajax-menu" ><a href="https://www.blick.ch/life/reisen/family/"
+                                                       class="menu__link" title="Family" 
+                                                       data-sectionid="1973"
+                                                       data-ajaxContentUrl=""
+                                                       menu-path="Life / Reisen / Family"
+                                                       data-lvl="3"  >
+                                                            Family</a></li>
+                                            </ul>
+
+                                    </li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/life/essen/"
+                                           class="  menu__link"
+                                           title="Essen & Trinken" 
+                                           data-sectionid="87"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Life / Essen & Trinken"
+                                           data-lvl="2" data-children="empty">
+                                                Essen & Trinken</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/life/essen/rezept/"
+                                           class="  menu__link"
+                                           title="Rezepte" 
+                                           data-sectionid="3375"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Life / Rezepte"
+                                           data-lvl="2" data-children="empty">
+                                                Rezepte</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/life/digital/"
+                                           class="  menu__link"
+                                           title="Digital" 
+                                           data-sectionid="83"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Life / Digital"
+                                           data-lvl="2" data-children="empty">
+                                                Digital</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/life/games/"
+                                           class="  menu__link"
+                                           title="Games" 
+                                           data-sectionid="214"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Life / Games"
+                                           data-lvl="2" data-children="empty">
+                                                Games</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/life/wissen/"
+                                           class="  menu__link"
+                                           title="Wissen" 
+                                           data-sectionid="103"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Life / Wissen"
+                                           data-lvl="2" data-children="empty">
+                                                Wissen</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/life/horoskop/"
+                                           class="last  menu__link"
+                                           title="Horoskop" 
+                                           data-sectionid="393"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id4729602?view=ajax"
+                                           menu-path="Life / Horoskop"
+                                           data-lvl="2" data-children="empty">
+                                                Horoskop</a></li>
+                            <li class="menu__teaser menu__teaser--othersize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/gesundheit/"
+                       title="Gesundheit"
+                       data-sectionid="3043"
+                       data-ajaxContentUrl=""
+                       menu-path="Gesundheit"
+                       data-lvl="1" >
+                            Gesundheit</a><ul class="clearfix menu menu--secondlvl menu--big">
+                        <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/gesundheit/medizin/"
+                                           class="first  menu__link"
+                                           title="Medizin" 
+                                           data-sectionid="3188"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Gesundheit / Medizin"
+                                           data-lvl="2" data-children="empty">
+                                                Medizin</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/gesundheit/ernaehrung/"
+                                           class="  menu__link"
+                                           title="Ernährung" 
+                                           data-sectionid="3192"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Gesundheit / Ernährung"
+                                           data-lvl="2" data-children="empty">
+                                                Ernährung</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/gesundheit/wellness/"
+                                           class="  menu__link"
+                                           title="Wellness" 
+                                           data-sectionid="3191"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Gesundheit / Wellness"
+                                           data-lvl="2" data-children="empty">
+                                                Wellness</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/gesundheit/fitness/"
+                                           class="last  menu__link"
+                                           title="Fitness" 
+                                           data-sectionid="3190"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Gesundheit / Fitness"
+                                           data-lvl="2" data-children="empty">
+                                                Fitness</a></li>
+                            <li class="menu__teaser menu__teaser--othersize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/vr/"
+                       title="Virtual Reality"
+                       data-sectionid="3402"
+                       data-ajaxContentUrl=""
+                       menu-path="Virtual Reality"
+                       data-lvl="1" data-children="empty">
+                            Virtual Reality</a><ul class="clearfix menu menu--secondlvl menu--small">
+                        <li class="menu__teaser menu__teaser--fullsize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/auto/"
+                       title="Auto"
+                       data-sectionid="7"
+                       data-ajaxContentUrl=""
+                       menu-path="Auto"
+                       data-lvl="1" >
+                            Auto</a><ul class="clearfix menu menu--secondlvl menu--big">
+                        <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/neuheiten/"
+                                           class="first  menu__link"
+                                           title="Neuheiten" 
+                                           data-sectionid="44"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Auto / Neuheiten"
+                                           data-lvl="2" data-children="empty">
+                                                Neuheiten</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/tests/"
+                                           class="  menu__link"
+                                           title="Tests" 
+                                           data-sectionid="45"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Auto / Tests"
+                                           data-lvl="2" data-children="empty">
+                                                Tests</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/news_n_trends/"
+                                           class="  menu__link"
+                                           title="News" 
+                                           data-sectionid="47"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Auto / News"
+                                           data-lvl="2" data-children="empty">
+                                                News</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/service/"
+                                           class="  menu__link"
+                                           title="Service" 
+                                           data-sectionid="46"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Auto / Service"
+                                           data-lvl="2" data-children="empty">
+                                                Service</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/abgefahren/"
+                                           class="  menu__link"
+                                           title="Abgefahren" 
+                                           data-sectionid="3881"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Auto / Abgefahren"
+                                           data-lvl="2" data-children="empty">
+                                                Abgefahren</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/classic/"
+                                           class="  menu__link"
+                                           title="Classic" 
+                                           data-sectionid="3882"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Auto / Classic"
+                                           data-lvl="2" data-children="empty">
+                                                Classic</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/autosalon/"
+                                           class="  menu__link"
+                                           title="Autosalon" 
+                                           data-sectionid="68"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id4725385?view=ajax"
+                                           menu-path="Auto / Autosalon"
+                                           data-lvl="2" data-children="empty">
+                                                Autosalon</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/motorrad/"
+                                           class="  menu__link"
+                                           title="Motorrad" 
+                                           data-sectionid="49"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Auto / Motorrad"
+                                           data-lvl="2" data-children="empty">
+                                                Motorrad</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/auto/autoscout24/"
+                                           class="last  menu__link"
+                                           title="AutoScout24" 
+                                           data-sectionid="758"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5069488?view=ajax"
+                                           menu-path="Auto / AutoScout24"
+                                           data-lvl="2" data-children="empty">
+                                                AutoScout24</a></li>
+                            <li class="menu__teaser menu__teaser--othersize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/video/"
+                       title="Video"
+                       data-sectionid="9"
+                       data-ajaxContentUrl="https://www.blick.ch/widget/id4718429?view=ajax"
+                       menu-path="Video"
+                       data-lvl="1" data-children="empty">
+                            Video</a><ul class="clearfix menu menu--secondlvl menu--small">
+                        <li class="menu__teaser menu__teaser--fullsize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="last ajax-menu menu__item menu__item--firstlvl"><a class=" menu__link"
+                       href="https://www.blick.ch/services/"
+                       title="Services"
+                       data-sectionid="11"
+                       data-ajaxContentUrl=""
+                       menu-path="Services"
+                       data-lvl="1" >
+                            Services</a><ul class="clearfix menu menu--secondlvl menu--big">
+                        <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://reader.ringier.ch/"
+                                           class="first  menu__link"
+                                           title="ePaper" target="_blank"
+                                           data-sectionid="11"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5074049?view=ajax"
+                                           menu-path="Services / ePaper"
+                                           data-lvl="2" data-children="empty">
+                                                ePaper</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blickamabend.ch"
+                                           class="  menu__link"
+                                           title="Blick am Abend" target="_blank"
+                                           data-sectionid="11"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5147680?view=ajax"
+                                           menu-path="Services / Blick am Abend"
+                                           data-lvl="2" data-children="empty">
+                                                Blick am Abend</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/sonntagsblick/"
+                                           class="  menu__link"
+                                           title="SonntagsBlick" 
+                                           data-sectionid="395"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Services / SonntagsBlick"
+                                           data-lvl="2" data-children="empty">
+                                                SonntagsBlick</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/services/apps/"
+                                           class="  menu__link"
+                                           title="Apps" 
+                                           data-sectionid="743"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Services / Apps"
+                                           data-lvl="2" data-children="empty">
+                                                Apps</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/services/sponsored-content/"
+                                           class="  menu__link"
+                                           title="Sponsored Content" 
+                                           data-sectionid="3650"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Services / Sponsored Content"
+                                           data-lvl="2" data-children="empty">
+                                                Sponsored Content</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/services/blick-tipps/"
+                                           class="  menu__link"
+                                           title="BLICK-Tipps" 
+                                           data-sectionid="3501"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Services / BLICK-Tipps"
+                                           data-lvl="2" data-children="empty">
+                                                BLICK-Tipps</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/incoming/article1740258.ece"
+                                           class="  menu__link"
+                                           title="Kreuzworträtsel" 
+                                           data-sectionid="3501"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5074047?view=ajax"
+                                           menu-path="Services / Kreuzworträtsel"
+                                           data-lvl="2" data-children="empty">
+                                                Kreuzworträtsel</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="http://gutscheine.blick.ch/"
+                                           class="  menu__link"
+                                           title="Blick-Gutscheine" target="_blank"
+                                           data-sectionid="3501"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5074052?view=ajax"
+                                           menu-path="Services / Blick-Gutscheine"
+                                           data-lvl="2" data-children="empty">
+                                                Blick-Gutscheine</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="http://gutscheine.blick.ch/aboutyou-gutscheine"
+                                           class="  menu__link"
+                                           title="About-You-Gutscheine" target="_blank"
+                                           data-sectionid="3501"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5074054?view=ajax"
+                                           menu-path="Services / About-You-Gutscheine"
+                                           data-lvl="2" data-children="empty">
+                                                About-You-Gutscheine</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="http://gutscheine.blick.ch/deindeal-gutscheine"
+                                           class="  menu__link"
+                                           title="DeinDeal-Gutscheine" target="_blank"
+                                           data-sectionid="3501"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5074057?view=ajax"
+                                           menu-path="Services / DeinDeal-Gutscheine"
+                                           data-lvl="2" data-children="empty">
+                                                DeinDeal-Gutscheine</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="http://gutscheine.blick.ch/nike-gutscheine"
+                                           class="  menu__link"
+                                           title="Nike-Gutscheine" target="_blank"
+                                           data-sectionid="3501"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5074056?view=ajax"
+                                           menu-path="Services / Nike-Gutscheine"
+                                           data-lvl="2" data-children="empty">
+                                                Nike-Gutscheine</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/services/marktplatz/"
+                                           class="  menu__link"
+                                           title="Marktplatz" 
+                                           data-sectionid="282"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Services / Marktplatz"
+                                           data-lvl="2" data-children="empty">
+                                                Marktplatz</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="https://www.blick.ch/services/"
+                                           class="  menu__link"
+                                           title="Abo / Werbung" 
+                                           data-sectionid="11"
+                                           data-ajaxContentUrl=""
+                                           menu-path="Services / Abo / Werbung"
+                                           data-lvl="2" data-children="empty">
+                                                Abo / Werbung</a></li>
+                            <li class="ajax-menu menu__item menu__item--secondlvl ">
+                                    <a href="//www.blick.ch/erotik/"
+                                           class="last  menu__link"
+                                           title="Erotik" 
+                                           data-sectionid="11"
+                                           data-ajaxContentUrl="https://www.blick.ch/widget/id5722684?view=ajax"
+                                           menu-path="Services / Erotik"
+                                           data-lvl="2" data-children="empty">
+                                                Erotik</a></li>
+                            <li class="menu__teaser menu__teaser--othersize">
+                            <div class="teaser">Teaserplatzhalter</div>
+                        </li>
+                    </ul>
+                </li>
+                </ul>
+
+<script>
+    (function() {
+        var menu_selecion_tracking  = [];
+        var i = 0,
+                activeClass = "menu__item--active",
+                actualSection = 0,
+                menuEntered = false,
+                lazyOffset = 300;
+
+        $(".menu__item--secondlvl .menu__link").mouseenter(function () {
+            var that = this;
+            window.setTimeout( function() {
+                if( $(that).is(":hover") ) {
+                    $(".menu__item--secondlvl").removeClass(activeClass);
+                    $(that).closest(".menu__item--secondlvl").addClass(activeClass);
+                    if ($.inArray($(that).data('sectionid'), menu_selecion_tracking) == -1) {
+                        menu_selecion_tracking.push($(that).data('sectionid'));
+                        newStats('menu_level_two');
+                    }
+                }
+            }, lazyOffset );
+        });
+
+        $(".menu__item--firstlvl").mouseleave(function () {
+            var that = this;
+            window.setTimeout( function() {
+                $(".menu__item--secondlvl").removeClass(activeClass);
+            }, lazyOffset );
+        });
+
+        $(".menu--firstlvl").mouseleave( function() {
+            $(".menu__item--firstlvl", this).removeClass( activeClass );
+            menuEntered = false;
+        });
+
+        $(".menu__item--firstlvl .menu__link").mouseenter(function () {
+            var that = this;
+            window.setTimeout( function() {
+                if( $(that).is(":hover") ) {
+                    $(".menu__item--firstlvl").removeClass(activeClass);
+                    $(that).closest(".menu__item--firstlvl").addClass(activeClass);
+                    if ($.inArray($(that).data('sectionid'), menu_selecion_tracking) == -1) {
+                        menu_selecion_tracking.push($(that).data('sectionid'));
+                        newStats('menu_level_one');
+                    }
+                }
+            }, lazyOffset );
+        });
+
+        $(document).delegate(".ajax-menu .menu__link", "mouseenter", function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            let menuPath = this.getAttribute('menu-path');
+            var customUrl = "";
+            if($(this).data('ajaxContentUrl')) {
+                customUrl = $(this).data('ajaxContentUrl');
+            } else if ($(this).data('plz') != undefined || $(this).data('region') === true) {
+                customUrl =  "https://www.blick.ch/widget/id4317648?view=ajax";
+            } else {
+                customUrl ="https://www.blick.ch/widget/id4317643?view=ajax";
+            }
+            var $this = $(this),
+                sectionId = $this.data('sectionid'),
+                menuLevel = $this.data('lvl'),
+                hasChildren = $this.data("children") !== "empty",
+                url = customUrl,
+                plz = $this.data('plz'),
+                menu = $this.closest(".menu__item--firstlvl"),
+                teaser = $(".menu__teaser .teaser", menu);
+
+            if( menuEntered ) {
+                window.setTimeout( function() {
+                    if ( $this.is(":hover") ) {
+                        fetchTeasers( url );
+                    }
+                }, lazyOffset );
+            }
+            else {
+                menuEntered = true;
+                fetchTeasers( url );
+            }
+
+            function fetchTeasers( url ) {
+
+                actualSection = sectionId;
+
+                var postData = {
+                    'ctxSec': sectionId,
+                    'ajaxMenuSectionLevel': menuLevel,
+                    'hasChildren': hasChildren
+                };
+
+                if (plz !== undefined) {
+                    postData['centerPlz'] = plz;
+                    postData['isRegion'] = true;
+                }
+
+                $.ajax({
+                    url: url,
+                    type: 'GET',
+                    data: postData,
+                    beforeSend: function () {
+                        teaser.showAjaxLoadAnimation();
+                    },
+                    success: function (xhr) {
+                        if (actualSection === sectionId) {
+                            var teaserWidth = "auto",
+                                    teaserClass = "teaser teaser--four-cols";
+
+                            if (menuLevel === 1 && !hasChildren) {
+                                teaserClass = "teaser teaser--four-cols";
+                            }  else if (menuLevel === 2 && hasChildren) {
+                                teaserClass = "teaser teaser--two-cols";
+                                teaserWidth = 420;
+                            } else if (menuLevel === 2 || menuLevel === 1) {
+                                teaserClass = "teaser teaser--three-cols";
+                                teaserWidth = 644;
+                            } else if (menuLevel === 3) {
+                                teaserClass = "teaser teaser--two-cols";
+                                teaserWidth = 420;
+                            }
+
+                            teaser.attr("class", teaserClass);
+                            teaser.attr("menu-path", menuPath);
+                            teaser.css("width", teaserWidth);
+                            teaser.html(xhr);
+                            //re-initializing shareicons
+                            if(typeof addSharreEvents !== 'undefined' && ({}).toString.call(addSharreEvents) === '[object Function]') {
+                                addSharreEvents();
+                            }
+                        }
+                    },
+                    error: function (e) {
+                    }
+                });
+            }
+
+        });
+    })();
+</script>
+
+</div>
+    </div>
+</div>
+<div id="submenu_outer">
+    <div id="submenu">
+        </div>
+</div>
+<div class="breadcrumbContainer" class="breadcrumb clearfix" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <span class="breadcrumbPrefix">Sie sind hier:</span>
+<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="https://www.blick.ch/" itemprop="item"><span class="breadcrumb" itemprop="name">
+                    Home</span></a>
+                <span class="breadcrumb-separator">> </span>
+            <meta itemprop="position" content="0"/>
+    </span>
+    <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="https://www.blick.ch/services/" itemprop="item"><span class="breadcrumb" itemprop="name">
+                    Services</span></a>
+                <span class="breadcrumb-separator">> </span>
+            <meta itemprop="position" content="1"/>
+    </span>
+    <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <link href="http://www.blick.ch/services/datenschutzbestimmungen-id151553.html" itemprop="item">
+        <h1 class="breadcrumb">
+            Datenschutzbestimmungen</h1>
+        <meta itemprop="position" content="2"/>
+    </span>
+</div>
+<div class="container_18 push_18 wideboard">
+	</div>
+
+<div class="container_18 push_18 sky_left">
+	<div id="sky-ads-left" class="ad--sky--left ad--sky ad">
+		<div class="ad--sky--left__inner">
+				</div>
+		</div>
+</div>
+
+<div class="container_18 push_18 sky_right">
+	<div id="sky-ads-right" class="ad--sky--right ad--sky ad">
+		<div class="ad--sky--right__inner">
+				</div>
+		</div>
+</div>
+
+<div class="container_18 contentwrapper">
+        <div id="container" class="article">
+            <div class="grid_18"><h2  class="article-headline" itemprop="headline">
+                        <span>Datenschutzbestimmungen</span>
+                    </h2>
+                    </div>
+<div class="clear"></div><div class="grid_18 clearfix rebrush rebrush--article" >
+	<div class="grid_6 omega rightElement">
+		<!--googleoff: index--><div class="nl_reg">
+	<form action="#">
+		<fieldset class="nl_fieldset">
+			<div class="sm_follow">
+				<div class="sm_follow_email--div">
+					<span class="sm_follow--email__icon sm_follow__icon icon-ico-02-mail-open"></span>
+					<span class="sm_follow--email__text sm_follow__text">
+						Abonniere den Newsletter
+					</span>
+				</div>
+			</div>
+  		<div class="fr_container">
+        <label title="E-Mail-Adresse...">
+            <input class="nl_email--input" type="email" value="Ihre E-Mail-Adresse" id="nl_email" name="email" onblur="if (this.value == ''){this.value = 'Ihre E-Mail-Adresse';}" onfocus="if (this.value == 'Ihre E-Mail-Adresse') {this.value = '';}">
+        </label>
+        <button class="nl_reg--button" type="submit" id="submit_nl_reg_1">
+          <span>Senden</span>
+        </button>
+    	</div>
+    <div id="regText" class="nl_desc nl_reg-text">Immer informiert - Abonnieren Sie den Blick-Newsletter!</div>
+		</fieldset>
+	</form>
+	<div class="nl_reg-overlay clearfix" id="nl_error_overlay">
+		<a href="#" class="closeLink_error"><div class="icon icon-ico-01-close"></div></a>
+	  	<div class="center_text nl_reg_responsetext">
+			<div>
+				Bitte geben Sie eine gültige E-Mail-Adresse ein.
+			</div>
+		</div>
+	</div>
+	<div class="nl_reg-overlay clearfix" id="nl_overlay">
+		<a href="#" class="closeLink"><div class="icon icon-ico-01-close"></div></a>
+	  	<div class="center_text nl_reg_responsetext">
+			<div>
+				Schön, dass wir Ihnen unsere BLICK News des Tages senden dürfen. Möchten Sie zusätzlich den BLICK Sport Newsletter erhalten?</div>
+		    <div class="buttonWrapper">
+				<button id="submit_nl_reg_ok" type="button" class="red-btn--rebrush">
+					Ja, gerne
+				</button>
+		    </div>
+		    <div class="buttonWrapper">
+				<button id="submit_nl_reg_no" type="button" class="red-btn--rebrush">
+					Nein, bitte nur die News des Tages
+				</button>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="sm_follow vspace">
+	<a itemprop="sameAs" class="sm_follow_fb--div" href="https://www.facebook.com/blick" target="_blank">
+		<span class="sm_follow--fb__icon sm_follow__icon icon-ico-03-facebook"></span>
+		<span class="sm_follow--fb__text sm-follow__text">
+			Like uns auf Facebook
+		</span>
+	</a>
+	<a itemprop="sameAs" class="sm_follow_tw--div" href="https://twitter.com/blickch" target="_blank">
+		<span class="sm_follow--tw__icon sm_follow__icon icon-ico-03-twitter"></span>
+		<span class="sm_follow--fb__text sm-follow__text">
+			Folge uns auf Twitter
+		</span>
+	</a>
+	<a itemprop="sameAs" class="sm_follow_in--div" href="https://instagram.com/blick.ch/" target="_blank">
+		<span class="sm_follow--in__icon sm_follow__icon icon-ico-07-instagram"></span>
+		<span class="sm_follow--fb__text sm-follow__text">
+			Folge uns auf Instagram
+		</span>
+	</a>
+</div>
+
+<div id="errorMessage_email" class="forms_content" style="display:none">
+	Bitte geben Sie eine gültige E-Mail-Adresse ein.
+</div>
+
+
+<script type="text/javascript" >
+
+	jQuery('#submit_nl_reg_1').unbind('click').bind('click', function(e) {
+			e.preventDefault();
+			var email = jQuery( "#nl_email" ).val();
+			bindCloseButton();
+			bindCloseErrorButton();
+			if( email !== '' && email !== 'E-Mail-Adresse...' ){
+				var atIndex = email.indexOf('@');
+				if( atIndex > 0 && email.indexOf( '.',atIndex ) > -1){
+					jQuery("#nl_error_overlay").hide("fast");
+					bindOKButtons();
+					jQuery("#nl_overlay").show("fast");
+				}else{
+					
+					jQuery("#nl_error_overlay").show("fast");
+					jQuery(".nl_email--input").val("");
+				}
+			}else{
+				jQuery("#nl_error_overlay").show("fast");
+				jQuery(".nl_email--input").val("");
+			}
+			return false;
+		});
+	
+	
+	
+	var bindCloseButton = function(){
+		jQuery("#close_nl_overlay").unbind('click').bind('click',function(e){
+			e.preventDefault();
+			jQuery('#nl_overlay').hide("fast");
+			jQuery.ajax({
+				type : 'POST',
+				url : 'https://www.blick.ch/widget/id4319250?view=ajax1',
+				dataType: "html",
+				data : {
+					'uniqueSection':'services'
+				},
+				success : function(response) {
+					var newresponse=replaceStrings(response);
+					jQuery('#nl_overlay').html(newresponse);
+					
+				}
+				
+			});
+			return false;
+		});
+		
+		jQuery(".closeLink").unbind('click').bind('click',function(e){
+			e.preventDefault();
+			jQuery('#nl_overlay').hide("fast");
+			jQuery.ajax({
+				type : 'POST',
+				url : 'https://www.blick.ch/widget/id4319250?view=ajax1',
+				dataType: "html",
+				data : {
+					'uniqueSection':'services'
+				},
+				success : function(response) {
+					var newresponse=replaceStrings(response);
+					jQuery('#nl_overlay').html(newresponse);
+					
+				}
+				
+			});
+			return false;
+		});
+	};
+	
+	var bindCloseErrorButton = function(){
+		jQuery(".closeLink_error").unbind("click").bind("click",function(e){
+			e.preventDefault();
+			jQuery('#nl_error_overlay').hide();
+			return false;
+		});
+	};
+	
+	var bindOKButtons = function(){
+		jQuery('#submit_nl_reg_ok').unbind('click').bind('click',function(e) {
+			e.preventDefault();
+			var email = jQuery( "#nl_email" ).val();
+			jQuery.ajax({
+				type : 'POST',
+				url : 'https://www.blick.ch/widget/id4319250?view=ajax',
+				dataType: "html",
+				data : {
+					 'email' : email,
+					 'all'	 : true
+					
+				},
+				success : function(response) {
+					
+					var newresponse=replaceStrings(response);
+					jQuery('#nl_overlay').html(newresponse).show();
+					bindCloseButton();
+					jQuery( "#nl_email" ).val('E-Mail-Adresse...');
+					
+				},
+				error : function(response) {
+					alert("Es ist ein Fehler aufgetreten!");
+				}
+			}); 
+			return false;
+		});
+		
+		jQuery('#submit_nl_reg_no').unbind('click').bind('click',function(e) {
+			e.preventDefault();
+			var email = jQuery( "#nl_email" ).val();
+			jQuery.ajax({
+				type : 'POST',
+				url : 'https://www.blick.ch/widget/id4319250?view=ajax',
+				dataType: "html",
+				data : {
+					 'email' : email,
+					 'all'	 : false
+					 
+				},
+				success : function(response) {
+					var newresponse=replaceStrings(response);
+					jQuery('#nl_overlay').html(newresponse);
+					bindCloseButton();
+					jQuery( "#nl_email" ).val('');
+				},
+				error : function(response) {
+					alert("Es ist ein Fehler aufgetreten!");
+				}
+			}); 
+			return false;
+		});
+	};
+	
+	jQuery( document ).ready(function(){
+		var width = jQuery( ".nl_reg" ).width();
+		var widthText = jQuery( "#regText" ).width();
+		if(widthText < width){
+			jQuery( "#regText" ).hide();
+			jQuery( ".fr_container" ).css("float","none");
+			//jQuery( ".nl_fieldset" ).css("padding","0 0 0 5px");
+			var inputWidth = jQuery( ".fr_container" ).width() - jQuery( ".fr_container > button" ).width() - 19; //all margins, paddings and borders
+			jQuery( "#nl_email" ).css("width",inputWidth);
+			jQuery(".article-entry .foto img").css("background-color","#fff");
+			jQuery( "#regTextOver" ).show();
+		}
+	});
+
+	var replaceStrings = function(string){
+		string = string.replace('<a href="#" class="closeLink">[x]</a>', '<a href="#" class="closeLink"><div class="icon icon-ico-01-close"></div></a>');
+		string = string.replace(/center_text/g, 'center_text nl_reg_responsetext');
+		string = string.replace(/red-btn/g, 'red-btn--rebrush');
+		return string;
+
+	}
+
+	
+	// ]]>
+</script><!--googleoff: index-->
+<div class="section-list">
+    <h3 class="module_title clearfix ">
+            <span class="h3_title">
+                	Meistgelesen</span>
+            </h3>
+    <dl class="vspace">
+        <dt></dt>
+        <dd class="section-list__element clearfix">
+                    <span class="section-list__counter">1</span>
+                    <a class="section-list__text" href="https://www.blick.ch/news/wirtschaft/zinsen-sinken-wohnen-wird-trotzdem-teurer-mieter-steigen-auf-die-barrikaden-id6766814.html" title="Wohnen wird teurer: Mieter steigen auf die Barrikaden!">
+                        <strong class="section-list__catchword">
+                                Wohnen wird teurer</strong>
+                        <span class="section-list__title">
+                            Mieter steigen auf die Barrikaden!</span>
+                    </a>
+                </dd>
+            <dd class="section-list__element clearfix">
+                    <span class="section-list__counter">2</span>
+                    <a class="section-list__text" href="https://www.blick.ch/news/wirtschaft/airline-ranking-swiss-fliegt-auf-gleicher-hoehe-id6767523.html" title="Airline-Ranking: Swiss fliegt auf gleicher Höhe">
+                        <strong class="section-list__catchword">
+                                Airline-Ranking</strong>
+                        <span class="section-list__title">
+                            Swiss fliegt auf gleicher Höhe</span>
+                    </a>
+                </dd>
+            <dd class="section-list__element clearfix">
+                    <span class="section-list__counter">3</span>
+                    <a class="section-list__text" href="https://www.blick.ch/news/ausland/die-ruehrende-geschichte-von-aladino-und-bambi-jaeger-haengt-gewehr-an-den-nagel-weil-er-sich-in-ein-reh-verliebt-id6761498.html" title="Die Geschichte von Aladino und Bambi: Jäger hängt Gewehr an Nagel - weil er sich in Reh verliebt">
+                        <strong class="section-list__catchword">
+                                Die Geschichte von Aladino und Bambi</strong>
+                        <span class="section-list__title">
+                            Jäger hängt Gewehr an Nagel -...</span>
+                    </a>
+                </dd>
+            <dd class="section-list__element clearfix">
+                    <span class="section-list__counter">4</span>
+                    <a class="section-list__text" href="https://www.blick.ch/news/wirtschaft/referenzzinssatz-sinkt-auf-1-5-prozent-4-dinge-die-mieter-jetzt-wissen-muessen-id6769060.html" title="Referenzzinssatz sinkt auf 1,5 Prozent: 4 Dinge, die Mieter jetzt wissen müssen">
+                        <strong class="section-list__catchword">
+                                Referenzzinssatz sinkt auf 1,5 Prozent</strong>
+                        <span class="section-list__title">
+                            4 Dinge, die Mieter jetzt...</span>
+                    </a>
+                </dd>
+            <dd class="section-list__element clearfix">
+                    <span class="section-list__counter">5</span>
+                    <a class="section-list__text" href="https://www.blick.ch/news/schweiz/ostschweiz/barbara-schwager-56-schmuggelte-ihren-verlobten-ueber-die-grenze-schlepperin-aus-leidenschaft-id6766448.html" title="Barbara Schwager (56): Schlepperin aus Leidenschaft">
+                        <strong class="section-list__catchword">
+                                Barbara Schwager (56)</strong>
+                        <span class="section-list__title">
+                            Schlepperin aus Leidenschaft</span>
+                    </a>
+                </dd>
+            </dl>
+</div>
+<!--googleon: index--><div class="megateaser wintersport vspace">
+
+	<div class="topteaser_free">
+						<a href="https://www.blick.ch/services/blick-tipps/wein-knigge-keep-it-cool-so-bleibt-der-wein-auch-im-sommer-herrlich-kuehl-id6762427.html" target="_self" title="Wein-Knigge: keep it cool: So bleibt der Wein auch im Sommer herrlich kühl" >
+							<span class="play-wrapper">
+								<img alt="So bleibt der Wein auch im Sommer herrlich kühl" src="https://f1.blick.ch/img/incoming/crop6762852/8608131456-cpanorama-w308-h130/TT-6762427-CC-Weinknigge-keep-it-cool.jpg" width="" height="">
+								<span class="teaserTag">Blick-Tipps</span>
+	<span class="mini-sharebar clearfix">
+	</span>
+<span class="article__mediaSharebar mediaSharebar sharebarList">
+	<span class="article__shareButton_fb" data-share-id="6762427"
+		  data-share-url="https://www.blick.ch/services/blick-tipps/wein-knigge-keep-it-cool-so-bleibt-der-wein-auch-im-sommer-herrlich-kuehl-id6762427.html?utm_source=facebook&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="So bleibt der Wein auch im Sommer herrlich kühl" onclick="shareWithFBIMG('6762427','https://www.blick.ch/services/blick-tipps/wein-knigge-keep-it-cool-so-bleibt-der-wein-auch-im-sommer-herrlich-kuehl-id6762427.html')">
+	</span>
+
+	<span class="article__shareButton_tw" data-share-id="6762427"
+		  data-share-url="https://www.blick.ch/services/blick-tipps/wein-knigge-keep-it-cool-so-bleibt-der-wein-auch-im-sommer-herrlich-kuehl-id6762427.html?utm_source=twitter&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="So bleibt der Wein auch im Sommer herrlich kühl" onclick="shareWithTWIMG('6762427','https://www.blick.ch/services/blick-tipps/wein-knigge-keep-it-cool-so-bleibt-der-wein-auch-im-sommer-herrlich-kuehl-id6762427.html')">
+	</span>
+
+	<span class="article__shareButton_mail" data-share-id="6762427"
+		  data-share-url="https://www.blick.ch/services/blick-tipps/wein-knigge-keep-it-cool-so-bleibt-der-wein-auch-im-sommer-herrlich-kuehl-id6762427.html?utm_source=email&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="So bleibt der Wein auch im Sommer herrlich kühl" onclick="shareWithEmailIMG('6762427','https://www.blick.ch/services/blick-tipps/wein-knigge-keep-it-cool-so-bleibt-der-wein-auch-im-sommer-herrlich-kuehl-id6762427.html')">
+	</span>
+
+</span></span>
+						</a>
+					</div>
+				<div class="teaser_summary clearfix">
+			</div>
+	</div><div class="megateaser transparent vspace">
+
+	<div class="topteaser_free">
+						<a href="https://www.blick.ch/news/schweiz/kaltfront-vermiest-die-feiertage-das-pfingst-wochenende-faellt-ins-wasser-id6769286.html" target="_self" title="Kaltfront vermiest die Feiertage: Das Pfingst-Wochenende fällt ins Wasser" >
+							<span class="play-wrapper">
+								<img alt="Das Pfingst-Wochenende fällt ins Wasser" src="https://f1.blick.ch/img/incoming/crop6769455/62381373-cpanorama-w308-h130/TT-6769286-Pfingst-Wochenende-faellt-ins-Wasser.jpg" width="" height="">
+								<span class="mini-sharebar clearfix">
+	<span class="mini-sharebar__comments">6</span>
+	</span>
+<span class="article__mediaSharebar mediaSharebar sharebarList">
+	<span class="article__shareButton_fb" data-share-id="6769286"
+		  data-share-url="https://www.blick.ch/news/schweiz/kaltfront-vermiest-die-feiertage-das-pfingst-wochenende-faellt-ins-wasser-id6769286.html?utm_source=facebook&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="Das Pfingst-Wochenende fällt ins Wasser" onclick="shareWithFBIMG('6769286','https://www.blick.ch/news/schweiz/kaltfront-vermiest-die-feiertage-das-pfingst-wochenende-faellt-ins-wasser-id6769286.html')">
+	</span>
+
+	<span class="article__shareButton_tw" data-share-id="6769286"
+		  data-share-url="https://www.blick.ch/news/schweiz/kaltfront-vermiest-die-feiertage-das-pfingst-wochenende-faellt-ins-wasser-id6769286.html?utm_source=twitter&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="Das Pfingst-Wochenende fällt ins Wasser" onclick="shareWithTWIMG('6769286','https://www.blick.ch/news/schweiz/kaltfront-vermiest-die-feiertage-das-pfingst-wochenende-faellt-ins-wasser-id6769286.html')">
+	</span>
+
+	<span class="article__shareButton_mail" data-share-id="6769286"
+		  data-share-url="https://www.blick.ch/news/schweiz/kaltfront-vermiest-die-feiertage-das-pfingst-wochenende-faellt-ins-wasser-id6769286.html?utm_source=email&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="Das Pfingst-Wochenende fällt ins Wasser" onclick="shareWithEmailIMG('6769286','https://www.blick.ch/news/schweiz/kaltfront-vermiest-die-feiertage-das-pfingst-wochenende-faellt-ins-wasser-id6769286.html')">
+	</span>
+
+</span></span>
+						</a>
+					</div>
+				<div class="teaser_summary clearfix">
+			</div>
+	</div><div class="megateaser transparent vspace">
+
+	<div class="topteaser_free">
+						<a href="https://www.blick.ch/sport/fussball/championsleague/ronaldo-will-seine-kroenung-verhindern-hoffe-dass-buffon-ein-mieses-spiel-erwischt-id6769934.html" target="_self" title="Ronaldo will seine Krönung verhindern: «Hoffe, dass Buffon ein mieses Spiel erwischt!»" >
+							<span class="play-wrapper">
+								<img alt="«Hoffe, dass Buffon ein mieses Spiel erwischt!»" src="https://f2.blick.ch/img/incoming/crop6769954/7798137544-cpanorama-w308-h130/TT-Champions-League-Ronaldo-Buffon.jpg" width="" height="">
+								<span class="mini-sharebar clearfix">
+	<span class="mini-sharebar__comments">3</span>
+	</span>
+<span class="article__mediaSharebar mediaSharebar sharebarList">
+	<span class="article__shareButton_fb" data-share-id="6769934"
+		  data-share-url="https://www.blick.ch/sport/fussball/championsleague/ronaldo-will-seine-kroenung-verhindern-hoffe-dass-buffon-ein-mieses-spiel-erwischt-id6769934.html?utm_source=facebook&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="«Hoffe, dass Buffon ein mieses Spiel erwischt!»" onclick="shareWithFBIMG('6769934','https://www.blick.ch/sport/fussball/championsleague/ronaldo-will-seine-kroenung-verhindern-hoffe-dass-buffon-ein-mieses-spiel-erwischt-id6769934.html')">
+	</span>
+
+	<span class="article__shareButton_tw" data-share-id="6769934"
+		  data-share-url="https://www.blick.ch/sport/fussball/championsleague/ronaldo-will-seine-kroenung-verhindern-hoffe-dass-buffon-ein-mieses-spiel-erwischt-id6769934.html?utm_source=twitter&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="«Hoffe, dass Buffon ein mieses Spiel erwischt!»" onclick="shareWithTWIMG('6769934','https://www.blick.ch/sport/fussball/championsleague/ronaldo-will-seine-kroenung-verhindern-hoffe-dass-buffon-ein-mieses-spiel-erwischt-id6769934.html')">
+	</span>
+
+	<span class="article__shareButton_mail" data-share-id="6769934"
+		  data-share-url="https://www.blick.ch/sport/fussball/championsleague/ronaldo-will-seine-kroenung-verhindern-hoffe-dass-buffon-ein-mieses-spiel-erwischt-id6769934.html?utm_source=email&utm_medium=social_user&utm_campaign=blick_web"
+		  data-share-text="«Hoffe, dass Buffon ein mieses Spiel erwischt!»" onclick="shareWithEmailIMG('6769934','https://www.blick.ch/sport/fussball/championsleague/ronaldo-will-seine-kroenung-verhindern-hoffe-dass-buffon-ein-mieses-spiel-erwischt-id6769934.html')">
+	</span>
+
+</span></span>
+						</a>
+					</div>
+				<div class="teaser_summary clearfix">
+			</div>
+	</div><div class="vspace">
+    <!-- BEGIN ADITIONTAG Website-Tag -->
+    <script type="text/javascript" src="https://imagesrv.adition.com/js/adition.js"></script>
+    <script type="text/javascript" src="https://ad1.adfarm1.adition.com/js?wp_id=3155381"></script>
+    </div>
+<!--googleon: index--></div>
+	<div class="grid_12 alpha leftElement">
+		<div id="page">
+			<script type="text/javascript">
+        //<![CDATA[
+try{
+$('.partnerArticle a').addClass('trackCustomLink');
+$('.partnerArticle a').attr('data-rel', 'beo');
+}catch(err){};
+        //]]>;
+    </script><div class="article-entry clearfix">
+				<div class="article_text" style="padding: 0;">
+					<div class="container-stickybar">
+					<div class="facebook_sb_outer" onclick="shareWithFB()">
+    <div id="facebook" class="socialNetwork--fb icon-ico-03-facebook" data-title="" data-text="" data-url="https://www.blick.ch/151553?utm_source=facebook&utm_medium=social_user&utm_campaign=blick_web">
+        <div class="share-button facebook"></div>
+    </div>
+    <div class="fb_sharetext"><span >teilen</span></div>
+</div>
+<div class="twitter_sb_outer" onclick="shareWithTW()">
+			<div data-title="" data-text="Datenschutzbestimmungen" data-url="https://www.blick.ch/151553?utm_source=twitter&utm_medium=social_user&utm_campaign=blick_web"
+				class="socialNetwork--tw icon-ico-03-twitter">
+				<div class="share-button twitter"></div>
+			</div>
+			<div class="tw_sharetext">
+				<span>teilen</span>
+			</div>
+		</div>
+<div class="gp_sb_outer" onclick="shareWithGP()">
+	<div id="googleplus"  data-title="" data-text="" data-url="https://www.blick.ch/151553?utm_source=googleplus&utm_medium=social_user&utm_campaign=blick_web" class="socialNetwork--gp icon-ico-03-googleplus">
+		<div class="share-button google-plus"></div>
+	</div>
+	<div class="gp_sharetext"><span >teilen</span></div>
+</div>
+<a class="roundButton outline email" href="mailto:?subject=Datenschutzbestimmungen&body=Datenschutzbestimmungen%0a%0a%09%09Link%3a+https%3a%2f%2fwww.blick.ch%2f151553%3futm_source%3demail%26utm_medium%3dsocial_user%26utm_campaign%3dblick_web" target="_blank">
+	<div class="email_sb_outer" onclick="shareWithEmail()">
+		<div class="socialNetwork--email icon-ico-03-mail"></div>
+		<div class="email_sharetext"><span >teilen</span></div>
+	</div>
+</a>
+
+</div>
+
+				<div class="sn_published">
+						<div id="snfwid4" class="sn_published_inner clearfix"><div class="socialNetwork-container">
+							<div class="facebook_sb_outer" onclick="shareWithFB()">
+    <div id="facebook" class="socialNetwork--fb icon-ico-03-facebook" data-title="" data-text="" data-url="https://www.blick.ch/151553?utm_source=facebook&utm_medium=social_user&utm_campaign=blick_web">
+        <div class="share-button facebook"></div>
+    </div>
+    <div class="fb_sharetext"><span >teilen</span></div>
+</div>
+<div class="twitter_sb_outer" onclick="shareWithTW()">
+			<div data-title="" data-text="Datenschutzbestimmungen" data-url="https://www.blick.ch/151553?utm_source=twitter&utm_medium=social_user&utm_campaign=blick_web"
+				class="socialNetwork--tw icon-ico-03-twitter">
+				<div class="share-button twitter"></div>
+			</div>
+			<div class="tw_sharetext">
+				<span>teilen</span>
+			</div>
+		</div>
+<div class="gp_sb_outer" onclick="shareWithGP()">
+	<div id="googleplus"  data-title="" data-text="" data-url="https://www.blick.ch/151553?utm_source=googleplus&utm_medium=social_user&utm_campaign=blick_web" class="socialNetwork--gp icon-ico-03-googleplus">
+		<div class="share-button google-plus"></div>
+	</div>
+	<div class="gp_sharetext"><span >teilen</span></div>
+</div>
+<div class="socialNetwork--shares">
+								<span class="shares_count">25</span> <span class="shares_title">shares</span>
+							</div>
+							</div>
+						<a class="roundButton outline error lightbox" href="https://www.blick.ch/widget/id491251?website_name=Blick&amp;article_title=Datenschutzbestimmungen&amp;view=error_send&amp;section_name=Services&amp;article_lead=&amp;article_url=https://www.blick.ch/151553">
+	<div class="socialNetwork--reporterror icon-ico-03-error-btn"></div>
+	<div class="socialNetwork--reporterrors">Fehler<br/>Melden</div>
+</a>
+
+</div></div>
+				<script type="text/javascript">
+					if ($('#snfwid4').parents('.article-entry').find('.foto:first').children().length > 0) {
+						$('#snfwid4').css('width', '309px');
+					}
+				</script>
+			<div class="article_menus clearfix">
+		</div>
+<div id="bodytext" itemprop="articleBody" class="readmore clearfix vspace">
+				<p>Diese Erklärung gibt Aufschluss darüber, wie <a href="https://www.blick.ch/dossiers/ringier">Ringier</a> AG (im Folgenden «Ringier») mit Personendaten umgeht, welche bei der Nutzung von Websites und  mobiler Applikationen, welche  Ringier betreibt, erhoben werden.</p><p>Mit der Nutzung einer Website oder einer mobilen Applikation erklären Sie sich mit der Bearbeitung Ihrer <a href="https://www.blick.ch/dossiers/daten">Daten</a> nach Massgabe dieser Datenschutzerklärung einverstanden und akzeptieren die vorliegende Datenschutzerklärung.</p><p><strong>Personendaten</strong></p><p>Personendaten sind alle Angaben, die sich auf eine bestimmte oder bestimmbare (natürliche oder juristische) Person beziehen. Darunter fallen Informationen wie Vorname und Name, Anrede, Postadresse, E-Mail-Adresse, Telefonnummer und ähnliche Angaben.</p><p><strong>Erhebung und Speicherung von Personendaten</strong></p><p>Je nach Website oder mobiler Applikation sind für die Nutzung von gewissen Diensten eine Registrierung und die Errichtung eines Benutzerkontos erforderlich. Bei der Registrierung werden Personendaten wie Name, Vorname, Wohnort, E-Mail Adresse und allenfalls weitere Daten erhoben und gespeichert.</p><p>Des Weiteren werden Personendaten erhoben und gespeichert, wo sie für Bestellungen, Nutzung von Angeboten, Teilnahme an Wettbewerben etc. erforderlich sind.</p><p><strong>Nutzung und Weitergabe von Personendaten</strong></p><p>Mit der Angabe von Personendaten erklären Sie sich damit einverstanden, dass Ringier sowie Gesellschaften der Ringier-Gruppe Ihre Personendaten zu folgenden Zwecken bearbeiten können:</p><p>- zur Erfüllung und Abwicklung von vertraglichen oder gesetzlichen Verpflichtungen</p><p>- zur Überprüfung der Zugangsberechtigung und Verwaltung des Benutzerkontos (falls vorhanden)</p><p>- zur Rechnungsstellung</p><p>- zur Entwicklung und Pflege der Kundenbeziehung</p><p>- für Marketingzwecke</p><p>- zur bedarfsgerechten Ausgestaltung und Verbesserung von Angeboten und Produkten</p><p>- zur Auswertung des individuellen Nutzerverhaltens</p><p>- zur Ausspielung von zielgerichteter Werbung</p><p><br />Ihre Personendaten dürfen innerhalb der Ringier-Gruppe weitergegeben und zu den oben erwähnten Zwecken bearbeitet werden.</p><p>Wünschen Sie keine Kontaktaufnahme zu Marketingzwecken, können Sie durch ausdrückliche schriftliche Erklärung an Ringier, Kundenkontakt Center, Brühlstrasse 5, 4800 Zofingen, auf eine solche Kontaktaufnahme allgemein oder in Bezug auf ein bestimmtes Produkt oder eine bestimmte Dienstleistung verzichten. Falls Sie einen Artikel auf einer Website oder in einer mobilen Applikation kommentieren und sich über ein bei Ringier angelegtes Benutzerkonto, über <a href="https://www.blick.ch/dossiers/facebook">Facebook</a> oder <a href="https://www.blick.ch/dossiers/twitter">Twitter</a> einloggen, willigen Sie zudem ein, dass Ihr Name und Vorname sowie ggf. Wohnort (wie von Ihnen im Benutzerkonto, Facebook- oder Twitter-Account angegeben) im Zusammenhang mit Ihrem Kommentar publiziert werden. Ihr Kommentar kann samt Personendaten auf Webseiten Dritter weiterverbreitet und auf Suchmaschinen gefunden werden.</p><p>Ihre Personendaten können an Dritte weitergegeben werden, welche sie im Auftrag von Ringier als Erfüllungsgehilfen oder zur Erbringung gewisser <a href="https://www.blick.ch/dossiers/dienstleistungen">Dienstleistungen</a> bearbeiten, wobei auch ein Datentransfer ins Ausland erfolgen kann. Dabei wird sichergestellt, dass die transferierten Personendaten ausreichend geschützt sind.<br />Eine sonstige Weitergabe, Übermittlung oder ein <a href="https://www.blick.ch/dossiers/verkauf">Verkauf</a> Ihrer Personendaten an Dritte ausserhalb der Ringier-Gruppe erfolgt nicht, es sei denn, dass dies zur Abwicklung eines Vertrages, welchen Sie mit Ringier abgeschlossen haben, erforderlich ist oder Sie ausdrücklich eingewilligt haben.</p><p>Vorbehalten bleibt die Offenlegung der Daten von Gesetzes wegen, beispielsweise zur Verfolgung und Aufdeckung unrechtmässiger Aktivitäten.</p><p><strong>Unpersönliche Nutzungsdaten</strong></p><p>Bei der Nutzung von Websites oder mobilen Applikationen registrieren die Webserver unpersönliche Nutzungsdaten (sog. Logfiles). Die Logfiles geben Auskunft über Ihre IP-Adresse, die zuletzt besuchte Seite, den verwendeten Browser, das Datum, die Uhrzeit und die angeforderte Datei. Ringier sowie Gesellschaften der Ringier-Gruppe werten diese unpersönlichen Nutzungsdaten aus, um Trends zu erkennen, Statistiken zu erstellen sowie Angebote und Produkte zu verbessern bzw. bestmöglich auf die Bedürfnisse der Kunden auszurichten.</p><p><strong>Cookies</strong></p><p>Auf den Websites und mobilen Applikationen werden Cookies eingesetzt. Ein Cookie ist eine kurze Textdatei, die auf Ihrem Gerät  gespeichert wird und der Analyse der Nutzung einer Website oder einer mobilen Applikation und der Speicherung von Einstellungen zwischen Besuchen einer Website oder einer mobilen Applikation dient. Die Cookies beinhalten keinerlei Personendaten.<br /><br />Die meisten Browser sind so eingestellt, dass sie Cookies automatisch akzeptieren. Es steht Ihnen jedoch offen, Ihren Browser so einzustellen, dass Cookies generell abgelehnt werden, indem Sie in Ihren Browser-Einstellung „keine Cookies akzeptieren“ wählen (Opt out). In diesem Fall können Sie aber gegebenenfalls nicht sämtliche Funktionen der Website vollumfänglich nutzen.</p><p><strong>Webanalyse</strong></p><p>Für die Analyse der Nutzung der Websites und mobilen Applikationen verwendet Ringier auch verschiedene Analysetools von Dritten (im Folgenden «Toolanbieter»), die Cookies verwenden, unter anderem auch <a href="https://www.blick.ch/dossiers/google">Google</a> Analytics, ein Webanalysedienst der Google Inc. (nähere Informationen zu Google Analytics sowie zur Deaktivierung des Dienstes finden Sie unter: <a href="https://tools.google.com/dlpage/gaoptout/" rel="noFollow">https://tools.google.com/dlpage/gaoptout/</a>). Die durch die Cookies erzeugten Informationen über Ihre Benutzung dieser Website oder mobilen Applikationen werden an einen Server des betreffenden Toolanbieters übertragen und dort gespeichert. Dieser Server kann sich ausserhalb der Schweiz (im Falle von Google Analytics in den USA) befinden.<br /><br />Die Toolanbieter benutzen diese Informationen, um die Nutzung der Websites oder der mobilen Applikationen auszuwerten, um beispielsweise Reports über die Websiteaktivitäten für Ringier und Gesellschaften der Ringier-Gruppe zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Gegebenenfalls werden diese Informationen an Dritte weitergegeben, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag der Toolanbieter verarbeiten.<br /><br />Ringier übernimmt keine Verantwortung oder Haftung für jegliche Datenverarbeitung durch die verschiedenen Toolanbieter.</p><p>Durch die Benutzung einer Website oder einer mobilen Applikation von Ringier erklären Sie sich mit der Verwendung von Cookies in der zuvor beschriebenen Art und Weise einverstanden.</p><p><strong>Interessenbezogene Werbung</strong></p><p>Auf den Webseiten und mobilen Applikationen von Ringier AG werden mit der Technologie von <a href="http://www.admeira.ch" rel="noFollow">Admeira AG</a> anonyme Web Tracking Daten via Cookies gesammelt, um Ihnen interessenbezogene Werbung anzuzeigen. Wenn Sie nicht möchten, dass Admeira AG Ihre Daten zur Ausspielung von interessenbezogener Werbung verwendet, <a href="http://www.admeira.ch/datenschutz" rel="noFollow">können Sie diesen Link anklicken</a>. Detaillierte Informationen dazu finden Sie unter: <a href="http://www.admeira.ch/optout" rel="noFollow">http://www.admeira.ch/optout</a></p><p>Auf gewissen Websites werden mit der Technologie der nugg.ad AG (www.nugg.ad) Daten zur Steuerung von Werbeeinblendungen gemessen. Dazu speichert nugg.ad die Häufigkeiten Ihrer Nutzung verschiedener Themengebiete webseitenbezogen in Cookies. Diese Cookies werden im Browser Ihres Endgerätes (z.B. PC, Laptop, SmartPhone, etc.) mit einer Lebensdauer von maximal 26 Wochen gespeichert. Die groben Informationen zu Ihrer Internetnutzung können von der nugg.ad Technologie auch webseitenübergreifend genutzt werden, um eine grobe Schätzung aufzustellen, welche Werbung Sie möglicherweise am meisten interessiert.</p><p>Wenn Sie ein Interesse daran haben, Werbung auf Websites angezeigt zu bekommen, die zu Ihren Interessengebieten passen, dann können Sie eine Einwilligung (Opt-In: http://ad-choices.nuggad.net)) für die weitere themenbasierte Analyse Ihres Nutzungsverhaltens erteilen. Wenn Sie die Einwilligung erteilen, wird dieser Opt-In Cookie ebenfalls im Browser Ihres Endgerätes gespeichert. Die Speicherdauer beträgt 1 Jahr. Sollten von nugg.ad Informationen in bereits zuvor im Browser Ihres Endgerätes platzierten Cookies gespeichert worden sein, bewirkt das Setzen des Opt-In Cookies das Folgende: Durch Ihre Einwilligung verlängert sich die Lebensdauer der von nugg.ad bereits gesetzten Cookies auf insgesamt 1 Jahr (berechnet ab dem Zeitpunkt des Setzens dieser Cookies). Die vor dem Opt-in in den Cookies gespeicherten Informationen werden nach Ihrer Einwilligung also beibehalten und mit Ablauf der Lebensdauer der Cookies, mithin nach Ablauf von maximal 1 Jahr gelöscht.</p><p>Sie können jederzeit die Aufzeichnung von Messdaten durch das nugg.ad System  unterbinden, in dem Sie die Möglichkeit eines Widerspruchs (Link für den Cookie Opt-Out: http://www.adition.com/kontakt/datenschutz/?optout=true) nutzen. Eine bereits erteilte Einwilligung können Sie ebenfalls jederzeit mit Wirkung für die Zukunft widerrufen. Auch ein Opt-Out wird in einem Cookie im Browser Ihres Endgerätes gespeichert, hat eine Lebensdauer von 10 Jahren und trägt den Namen „nuggstopp“ und wird von „nuggad.net“ gesetzt.</p><p>Auf einer Website ausgesteuerte Werbeeinblendungen, die auf gemessenen Daten der nugg.ad Technologie beruhen, sind mit einem Piktogramm gekennzeichnet. Wenn Sie auf dieses Piktogramm klicken, werden Sie zur Seite <a href="http://ad-choices.nuggad.net" rel="noFollow">http://ad-choices.nuggad.net</a> geleitet. Dort erhalten Sie weitere Informationen zum Datenschutz bei nugg.ad und können auf dem Themen-Monitor <a href="https://mtm.nuggad.net/" rel="noFollow">https://mtm.nuggad.net/ </a>sehen wie Ihre Interessen auf Grundlage Ihres bisherigen Surfverhaltens eingeschätzt werden.</p><p><strong>Links zu anderen Websites</strong></p><p>Auf den Websites und mobilen Applikationen gibt es Links zu Websites Dritter. Sobald Sie diese anklicken, verlassen Sie den Einflussbereich von Ringier. Für fremde Websites, zu welchen ein Link besteht, übernimmt Ringier keine inhaltliche oder rechtliche Verantwortung.</p><p><strong>Elemente von anderen Websites</strong></p><p>Auf den Websites oder mobilen Applikationen können Elemente anderer Websites (z.B. soziale Netzwerke wie Facebook, Twitter, Google+ und Youtube) verwendet werden (im Folgenden «Drittanbieter»). Wenn Sie ein Element eines Drittanbieters (z.B. «Gefällt mir» Plug-in von Facebook) anklicken, kann automatisch eine Verbindung zu den Servern dieses Drittanbieters hergestellt werden. Dabei können dem Drittanbieter Daten über Ihren Besuch auf der Ringier Website resp. auf einer mobilen Applikation übermittelt werden. Diese Daten können unter Umständen Ihrem Benutzerkonto beim Drittanbieter (z.B. Facebook oder Twitter-Konto) zugeordnet werden. Überdies kann der Drittanbieter Personendaten (Name, Vorname und E-Mail-Adresse) Ihres Benutzerkontos an Ringier übermitteln, sofern Sie dieser Funktion beim Drittanbieter zugestimmt haben. Informationen zur Erhebung und Nutzung der Daten durch Drittanbieter finden Sie in den Datenschutzhinweisen der entsprechenden Drittanbieter.</p><p><strong>Datensicherheit</strong></p><p>Ringier betreibt sichere Datennetze, die den jeweils geltenden technischen Standards entsprechen. Es werden angemessene technische und organisatorische Vorkehrungen getroffen, um Ihre Daten gewissenhaft vor Verlust, Zerstörung, Verfälschung, Manipulation oder unberechtigtem Zugriff zu schützen.<br />Obwohl Ringier alle sinnvollen Mittel einsetzt, die Offenlegung der Daten aufgrund von Fehlern bei der Datenübertragung und/oder unberechtigtem Zugriff durch Dritte zu verhindern, kann sie keine Haftung für solche unerwünschten Ereignisse übernehmen.</p><p><strong>Auskunftsrecht</strong></p><p>Das Datenschutzgesetz gewährt Ihnen den Anspruch, unentgeltlich zu erfahren, ob und welche Personendaten Ringier über Sie speichert. Zudem steht Ihnen auch das Recht zu, falsche Angaben berichtigen und löschen zu lassen. Vorbehalten bleiben gesetzliche Aufbewahrungspflichten.<br />Auskunftsbegehren sind schriftlich zusammen mit einem Identitätsausweis an Ringier AG, Kundenkontakt Center, Brühlstrasse 5, 4800 Zofingen zu richten.</p><p><strong>Rechtliche Grundlage</strong></p><p>Ausschliessliche rechtliche Grundlage dieser Datenschutzerklärung bildet das schweizerische Datenschutzgesetz.</p><p><strong>Änderungen und Zustimmung der Nutzer zu dieser Datenschutzerklärung</strong></p><p>Ringier passt diese Datenschutzerklärung jeweils neuen oder sich ändernden Bedürfnissen an. Die jeweils neue Fassung wird Ihnen an geeigneter Stelle zugänglich gemacht.<br />Es gilt jeweils die aktuelle, von Ringier veröffentlichte Datenschutzerklärung. Mit der fortgesetzter Nutzung von Website bzw. mobilen Applikationen von Ringier stimmen die Nutzer der jeweils geltenden Datenschutzerklärung zu.</p><p> </p><p>Zürich, Dezember 2016</p><span class="test article__body__date">
+					Publiziert am 18.01.2008 | Aktualisiert am 09.12.2016</span>
+</div>
+
+			<div id="sharelines-body-text" class="share-popup" style="display: none;">
+				<div class="share-popup__inner">
+					<span class="share-popup__headline">Teile diesen Text</span>
+					<div class="share-popup__button-line">
+						<a class="share-popup__button share-popup__button--twitter shareline-twitter-inline icon-ico-03-twitter">
+
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div id="article-flyin-container" class="article-flyin" style="display: none; right:-1100px; z-index:1000; position:fixed;">
+	<h3 class="module_title clearfix ">
+            <span class="h3_title">
+                	Das könnte Sie interessieren</span>
+            </h3>
+    <div class="flyin_closebutton"><div class="icon icon-ico-01-close"></div></div>
+	<div class="widget_maxiteaser topteaser various-news">
+		<div class="clearfix">
+			<div class=" flyin-container clearfix ">
+					<span class="play-wrapper">	
+							<a class="news-img" href="https://www.blick.ch/services/blick-tipps/buchtipp-irre-gluecklich-absurde-geschichten-aus-dem-alltag-einer-depressiven-bloggerin-id6763849.html" title="Buchtipp: Irre glücklich: Absurde Geschichten aus dem Alltag einer depressiven Bloggerin">
+								<img class="flyin--image" src="https://f3.blick.ch/img/incoming/crop6764180/8512817957-chorizontal-w308/Irre-gluecklich-Jenny-Lawson.jpg" alt="Buchtipp: Irre glücklich: Absurde Geschichten aus dem Alltag einer depressiven Bloggerin"/>
+									<span class="mini-sharebar clearfix">
+	</span>
+</a>
+						</span>
+						<a class="news-links" href="https://www.blick.ch/services/blick-tipps/buchtipp-irre-gluecklich-absurde-geschichten-aus-dem-alltag-einer-depressiven-bloggerin-id6763849.html" title="Buchtipp: Irre glücklich: Absurde Geschichten aus dem Alltag einer depressiven Bloggerin">
+							<strong class="flyin_catchword">Buchtipp: Irre glücklich</strong>
+							<span class="flyin_teasertitle">Absurde Geschichten aus dem Alltag einer depressiven Bloggerin</span>
+						</a>
+					</div>
+			<div class=" flyin-container clearfix  last">
+					<span class="play-wrapper">	
+							<a class="news-img" href="https://www.blick.ch/services/blick-tipps/schaefchen-zaehlen-in-thurgauer-gaerten-exklusiv-uebernachten-im-aufblasbaren-hotel-id6767831.html" title="Schäfchen zählen in Thurgauer Gärten: Exklusiv übernachten im aufblasbaren Hotel">
+								<img class="flyin--image" src="https://f2.blick.ch/img/incoming/crop6768343/6192818110-chorizontal-w308/Himmelbett-Arenenberg.jpg" alt="Schäfchen zählen in Thurgauer Gärten: Exklusiv übernachten im aufblasbaren Hotel"/>
+									<span class="mini-sharebar clearfix">
+	</span>
+</a>
+						</span>
+						<a class="news-links" href="https://www.blick.ch/services/blick-tipps/schaefchen-zaehlen-in-thurgauer-gaerten-exklusiv-uebernachten-im-aufblasbaren-hotel-id6767831.html" title="Schäfchen zählen in Thurgauer Gärten: Exklusiv übernachten im aufblasbaren Hotel">
+							<strong class="flyin_catchword">Schäfchen zählen in Thurgauer Gärten</strong>
+							<span class="flyin_teasertitle">Exklusiv übernachten im aufblasbaren Hotel</span>
+						</a>
+					</div>
+			</div>
+	</div>
+</div>
+<div class="container-stickybar">
+					<div class="facebook_sb_outer" onclick="shareWithFB()">
+    <div id="facebook" class="socialNetwork--fb icon-ico-03-facebook" data-title="" data-text="" data-url="https://www.blick.ch/151553?utm_source=facebook&utm_medium=social_user&utm_campaign=blick_web">
+        <div class="share-button facebook"></div>
+    </div>
+    <div class="fb_sharetext"><span >teilen</span></div>
+</div>
+<div class="twitter_sb_outer" onclick="shareWithTW()">
+			<div data-title="" data-text="Datenschutzbestimmungen" data-url="https://www.blick.ch/151553?utm_source=twitter&utm_medium=social_user&utm_campaign=blick_web"
+				class="socialNetwork--tw icon-ico-03-twitter">
+				<div class="share-button twitter"></div>
+			</div>
+			<div class="tw_sharetext">
+				<span>teilen</span>
+			</div>
+		</div>
+<div class="gp_sb_outer" onclick="shareWithGP()">
+	<div id="googleplus"  data-title="" data-text="" data-url="https://www.blick.ch/151553?utm_source=googleplus&utm_medium=social_user&utm_campaign=blick_web" class="socialNetwork--gp icon-ico-03-googleplus">
+		<div class="share-button google-plus"></div>
+	</div>
+	<div class="gp_sharetext"><span >teilen</span></div>
+</div>
+<a class="roundButton outline email" href="mailto:?subject=Datenschutzbestimmungen&body=Datenschutzbestimmungen%0a%0a%09%09Link%3a+https%3a%2f%2fwww.blick.ch%2f151553%3futm_source%3demail%26utm_medium%3dsocial_user%26utm_campaign%3dblick_web" target="_blank">
+	<div class="email_sb_outer" onclick="shareWithEmail()">
+		<div class="socialNetwork--email icon-ico-03-mail"></div>
+		<div class="email_sharetext"><span >teilen</span></div>
+	</div>
+</a>
+
+</div>
+
+				<div class="sn_published">
+						<div id="snfwid10" class="sn_published_inner clearfix"><div class="socialNetwork-container">
+							<div class="facebook_sb_outer" onclick="shareWithFB()">
+    <div id="facebook" class="socialNetwork--fb icon-ico-03-facebook" data-title="" data-text="" data-url="https://www.blick.ch/151553?utm_source=facebook&utm_medium=social_user&utm_campaign=blick_web">
+        <div class="share-button facebook"></div>
+    </div>
+    <div class="fb_sharetext"><span >teilen</span></div>
+</div>
+<div class="twitter_sb_outer" onclick="shareWithTW()">
+			<div data-title="" data-text="Datenschutzbestimmungen" data-url="https://www.blick.ch/151553?utm_source=twitter&utm_medium=social_user&utm_campaign=blick_web"
+				class="socialNetwork--tw icon-ico-03-twitter">
+				<div class="share-button twitter"></div>
+			</div>
+			<div class="tw_sharetext">
+				<span>teilen</span>
+			</div>
+		</div>
+<div class="gp_sb_outer" onclick="shareWithGP()">
+	<div id="googleplus"  data-title="" data-text="" data-url="https://www.blick.ch/151553?utm_source=googleplus&utm_medium=social_user&utm_campaign=blick_web" class="socialNetwork--gp icon-ico-03-googleplus">
+		<div class="share-button google-plus"></div>
+	</div>
+	<div class="gp_sharetext"><span >teilen</span></div>
+</div>
+<div class="socialNetwork--shares">
+								<span class="shares_count">25</span> <span class="shares_title">shares</span>
+							</div>
+							</div>
+						<a class="roundButton outline error lightbox" href="https://www.blick.ch/widget/id4319224?website_name=Blick&amp;article_title=Datenschutzbestimmungen&amp;view=error_send&amp;section_name=Services&amp;article_lead=&amp;article_url=https://www.blick.ch/151553">
+	<div class="socialNetwork--reporterror icon-ico-03-error-btn"></div>
+	<div class="socialNetwork--reporterrors">Fehler<br/>Melden</div>
+</a>
+
+</div></div>
+				<script type="text/javascript">
+					if ($('#snfwid10').parents('.article-entry').find('.foto:first').children().length > 0) {
+						$('#snfwid10').css('width', '309px');
+					}
+				</script>
+			<!--googleoff: index--><!--googleon: index--></div>
+			</div>
+			<div class="vspace">
+				<!--googleoff: index--><!--googleon: index--><!-- Javascript tag  -->
+<!-- begin ADWEBSTER.COM for channel:  DE_Blick.ch_Text/Bild , publisher: Blick-Gruppe , Ad Dimension: Blick_Bild/Text - 644 x 320 -->
+<script language="JavaScript">
+var zflag_nid="1301"; var zflag_cid="5335"; var zflag_sid="143"; var zflag_width="644"; var zflag_height="320"; var zflag_sz="31"; var zflag_charset="utf-8";
+</script>
+<script language="JavaScript" src="https://secure.adwebster.com/jsc/tt3/fo.js"></script>
+<!-- end ADWEBSTER.COM for channel:  DE_Blick.ch_Text/Bild , publisher: Blick-Gruppe , Ad Dimension: Blick_Bild/Text - 644 x 320 --><table style="margin-top:20px"><tr><td></td><td style="padding-left:28px"></td></tr></table></div>
+			<div class="grid_12 alpha">
+				<!--googleoff: index-->
+</div>
+			</div>
+	</div>
+
+
+</div>
+<div class="clear"></div>
+<!-- end content -->
+<div class="container_18 clearfix">
+	<div class="grid_18">
+		</div>
+	<div class="clear"></div>
+</div></div>
+    </div>
+</div>
+
+<!--googleoff: index--><div id="footer-teasers_outer">
+    <div class="footer-teasers">
+        </div>
+</div>
+<div id="footer_outer">
+    <div id="footer">
+        <div class="container_18 widget_footer">
+            <div class="clearfix">
+                <div class="logobox">
+    <div id="logo_footer">
+		<a href="//www.blick.ch/" title="Blick.ch &ndash; Aktuelle Nachrichten aus der Schweiz und aller Welt">Blick.ch &ndash; Aktuelle Nachrichten aus der Schweiz und aller Welt</a>
+	</div>
+	<div id="logo_ringier">
+		<a href="http://www.ringier.com/" title="Ringier">Ringier</a>
+	</div>
+</div><p class="copy">Blick.ch – das Schweizer Portal für Nachrichten aus den Bereichen News, Politik, Wirtschaft, Sport, People, Unterhaltung, Lifestyle und Auto. © 2017 Blick.ch</p><ul class="fl footerNav">
+        <li>
+            <strong>Blick-Gruppe</strong>
+        </li>
+        <li>
+            	<a title="Impressum" href="//www.blick.ch/services/impressum/">Impressum</a>
+                	</li>
+        <li>
+            	<a title="Abonnement" href="http://www.online-kiosk.ch/Zeitschriften.aspx?productId=BLI" target="blank">Abonnement</a>
+                	</li>
+        <li>
+            	<a title="ePaper" href="http://www.online-kiosk.ch/blick-epaper" target="blank">ePaper</a>
+                	</li>
+        <li>
+            	<a title="Print Werbung" href="http://www.go4media.ch/" target="blank">Print Werbung</a>
+                	</li>
+        <li>
+            	<a title="Rubrikanzeigen" href="https://oas.ringier.ch/?em_client=rgb" target="blank">Rubrikanzeigen</a>
+                	</li>
+        <li>
+            	<a title="Feedback" href="/news/schreiben-sie-uns-id43193.html">Feedback</a>
+                	</li>
+        <li>
+            	<a title="RSS" href="/services/immer-das-neuste-aus-ihren-lieblingsthemen-id100896.html">RSS</a>
+                	</li>
+        <li>
+            	<a title="Werbung" href="/services/">Werbung</a>
+                	</li>
+        <li>
+            	<a title="Datenschutzbestimmungen" href="/services/datenschutzbestimmung-id151553.html">Datenschutzbestimmungen</a>
+                	</li>
+        <li>
+            	<a title="AGB" href="/services/agb/">AGB</a>
+                	</li>
+        <li>
+            	<a title="Archiv" href="//www.blick.ch/services/webarchiv/">Archiv</a>
+                	</li>
+        <li>
+            	<a title="Dossiers" href="//www.blick.ch/dossiers/">Dossiers</a>
+                	</li>
+        </ul>
+<ul class="fl footerNav">
+        <li>
+            <strong>Navigation</strong>
+        </li>
+        <li>
+            	<a title="Home" href="https://www.blick.ch/">Home</a>
+                    </li>
+        <li>
+            	<a title="News" href="https://www.blick.ch/news/">News</a>
+                    </li>
+        <li>
+            	<a title="Sport" href="https://www.blick.ch/sport/">Sport</a>
+                    </li>
+        <li>
+            	<a title="People" href="https://www.blick.ch/people-tv/">People</a>
+                    </li>
+        <li>
+            	<a title="Ratgeber" href="https://www.blick.ch/ratgeber/">Ratgeber</a>
+                    </li>
+        <li>
+            	<a title="Life" href="https://www.blick.ch/life/">Life</a>
+                    </li>
+        <li>
+            	<a title="Gesundheit" href="https://www.blick.ch/gesundheit/">Gesundheit</a>
+                    </li>
+        <li>
+            	<a title="Virtual Reality" href="https://www.blick.ch/vr/">Virtual Reality</a>
+                    </li>
+        <li>
+            	<a title="Auto" href="https://www.blick.ch/auto/">Auto</a>
+                    </li>
+        <li>
+            	<a title="Video" href="https://www.blick.ch/video/">Video</a>
+                    </li>
+        <li>
+            	<a title="Services" href="https://www.blick.ch/services/">Services</a>
+                    </li>
+        </ul>
+<ul class="fl footerNav">
+        <li>
+            <strong>Ringier im Web</strong>
+        </li>
+        <li>
+            	<a title="anibis" href="http://www.anibis.ch/" target="_blank">anibis</a>
+                	</li>
+        <li>
+            	<a title="AutoScout24" href="http://www.autoscout24.ch/" target="_blank">AutoScout24</a>
+                	</li>
+        <li>
+            	<a title="Blick am Abend" href="http://www.blickamabend.ch/" target="_blank">Blick am Abend</a>
+                	</li>
+        <li>
+            	<a title="Blick Gutscheine" href="http://gutscheine.blick.ch/" target="_blank">Blick Gutscheine</a>
+                	</li>
+        <li>
+            	<a title="Bolero (de)" href="http://www.boleromagazin.ch/" target="_blank">Bolero (de)</a>
+                	</li>
+        <li>
+            	<a title="Bolero (fr)" href="http://www.boleromagazin.ch/fr" target="_blank">Bolero (fr)</a>
+                	</li>
+        <li>
+            	<a title="Cash" href="http://cash.ch/" target="_blank">Cash</a>
+                	</li>
+        <li>
+            	<a title="DeinDeal" href="http://www.deindeal.ch" target="_blank">DeinDeal</a>
+                	</li>
+        <li>
+            	<a title="Gate24" href="http://www.gate24.ch/" target="_blank">Gate24</a>
+                	</li>
+        <li>
+            	<a title="Geschenkidee" href="http://www.geschenkidee.ch/" target="_blank">Geschenkidee</a>
+                	</li>
+        <li>
+            	<a title="Idee cadeau" href="http://www.ideecadeau.ch/" target="_blank">Idee cadeau</a>
+                	</li>
+        <li>
+            	<a title="Glückspost" href="http://www.glueckspost.ch/" target="_blank">Glückspost</a>
+                	</li>
+        <li>
+            	<a title="Good News" href="http://www.goodnews.ch/" target="_blank">Good News</a>
+                	</li>
+        <li>
+            	<a title="Il Caffé" href="http://www.caffe.ch" target="_blank">Il Caffé</a>
+                	</li>
+        <li>
+            	<a title="ImmoScout24" href="http://www.immoscout24.ch/" target="_blank">ImmoScout24</a>
+                	</li>
+        <li>
+            	<a title="Infront Ringier" href="http://www.infrontringier.ch/" target="_blank">Infront Ringier</a>
+                	</li>
+        </ul>
+<ul class="footerNav footerNav-last">
+        <li>
+            <strong></strong>
+        </li>
+        <li>
+            	<a title="Jobs.ch" href="http://www.jobs.ch/" target="_blank">Jobs.ch</a>
+                	</li>
+        <li>
+            	<a title="JobScout24" href="http://www.jobscout24.ch/" target="_blank">JobScout24</a>
+                	</li>
+        <li>
+            	<a title="l&#039;Hebdo" href="http://www.hebdo.ch/" target="_blank">l&#039;Hebdo</a>
+                	</li>
+        <li>
+            	<a title="l&#039;Illustré" href="http://www.illustre.ch/" target="_blank">l&#039;Illustré</a>
+                	</li>
+        <li>
+            	<a title="Radio Energy Basel" href="http://www.energy.ch/basel/" target="_blank">Radio Energy Basel</a>
+                	</li>
+        <li>
+            	<a title="Radio Energy Bern" href="http://www.energybern.ch/home/" target="_blank">Radio Energy Bern</a>
+                	</li>
+        <li>
+            	<a title="Radio Energy Zürich" href="http://www.energyzueri.ch/home/" target="_blank">Radio Energy Zürich</a>
+                	</li>
+        <li>
+            	<a title="Sat.1 Schweiz" href="http://www.sat1.ch/" target="_blank">Sat.1 Schweiz</a>
+                	</li>
+        <li>
+            	<a title="Schweizer Illustrierte" href="http://www.schweizer-illustrierte.ch/" target="_blank">Schweizer Illustrierte</a>
+                	</li>
+        <li>
+            	<a title="Scout24" href="http://www.scout24.ch/" target="_blank">Scout24</a>
+                	</li>
+        <li>
+            	<a title="SI Style" href="http://www.sistyle.ch/" target="_blank">SI Style</a>
+                	</li>
+        <li>
+            	<a title="The Classical Company" href="http://www.classicalcompany.ch/" target="_blank">The Classical Company</a>
+                	</li>
+        <li>
+            	<a title="Ticketcorner" href="http://www.ticketcorner.ch/" target="_blank">Ticketcorner</a>
+                	</li>
+        <li>
+            	<a title="TV8" href="http://www.tv8.ch/" target="_blank">TV8</a>
+                	</li>
+        <li>
+            	<a title="Verkaufen.ch" href="http://www.verkaufen.ch/" target="_blank">Verkaufen.ch</a>
+                	</li>
+        </ul>
+<script async="async" data-client-id="DBJAmwVgVdWzHRh" type="text/javascript" src="//d2lv4zbk7v5f93.cloudfront.net/khp.js"></script><script type="text/javascript">
+    function getQueryVariable(variable)
+    {
+        var query = window.location.search.substring(1);
+        var vars = query.split('&');
+        for (var i=0;i<vars.length;i++) {
+            var pair = vars[i].split('=');
+            if(pair[0] == variable){return pair[1];}
+        }
+        return(false);
+    }
+    if(getQueryVariable('token') === false){
+        var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+        cX.callQueue.push(['setAccountId', '9222265749525871941']);
+        cX.callQueue.push(['setSiteId', '9222265749525871943']);
+        cX.callQueue.push(['setCustomParameters', {'articleId': '151553'}]);
+        if (getQueryVariable('nlsub') != false  && /\S+@\S+/.test(getQueryVariable('nlsub'))) {
+            cX.callQueue.push(['addExternalId', {'id': $().crypt({method: 'md5', source: getQueryVariable('nlsub').toLowerCase()}), 'type': 'rag'}]);
+        } else if (getQueryVariable('nlsubid') != false) {
+            cX.callQueue.push(['addExternalId', {'id': getQueryVariable('nlsubid'), 'type': 'rag'}]);
+        }
+        cX.callQueue.push(['sendPageViewEvent']);
+    }
+</script>
+<script type="text/javascript">
+    if(getQueryVariable('token') === false){
+        (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+            scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+            var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+    }
+</script>
+
+<!-- SZMFRABO VERSION="1.1" WEB Version -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var szmvars="blickonl//CP//";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blickonl-ssl.wemfbox.ch/2004/01/survey.js"></script>
+<!-- /SZMFRABO --><style>
+.brandstudio-inline__container {
+  width:100%
+}
+
+.brandstudio-inline__element {
+  width: 50%;
+  display: inline;
+}
+
+.brandstudio-inline__element:nth-child(2n+1){
+  float:left;
+}
+.brandstudio-inline__element:nth-child(2n){
+  float:right;
+}
+
+.brandstudio-inline__element--fullwidth {
+  width: 100%;
+  display:inline-block;
+  text-align:center;
+}
+
+.brandstudio-inline__element__img{
+  max-width:100%;
+}
+
+.brandstudio-inline__element:nth-child(2n) .brandstudio-inline__element__img{
+  float:right;
+}
+</style></div>
+        </div>
+    </div>
+</div><!--googleon: index--><img class="statspixel" src="https://www.blick.ch/stats/?rt=1&amp;objId=151553&amp;type=article&amp;ctxId=11&amp;pubId=1&amp;cat=news&amp;meta=&amp;title=Datenschutzbestimmungen&amp;url=http%3A%2F%2Fwww.blick.ch%2Fservices%2Fdatenschutzbestimmungen-id151553.html" width="1" height="1" alt=""/>
+<script type="text/javascript">if(typeof addAdScrolling != "undefined")
+	{
+		addAdScrolling(".ad--sky");
+	}
+$('body').addClass('hasMega');
+$('body').addClass('hasMega');
+$('body').addClass('hasMega');
+
+				jQuery('.article__social--inline').find('iframe').each(function() {
+				var width = $(this).attr("width").replace("px", "");
+				var height = $(this).attr("height").replace("px", "");
+				$(this).attr("height", 644 * height / width);
+				$(this).attr("width", 644);
+				});
+			
+
+// Fly-in box
+(function () {
+	var $bodytext = $('#bodytext');
+	var divisor = 1; // show box after 1/divisor of bodytext
+	var negativeOffset = 700;
+
+	if ($bodytext.length > 0) {
+		$(window).bind('scroll', function () {
+
+			var $flyin = $('.article-flyin'),
+				$window = $(window),
+				$footer = $('#footer'),
+				endPos;
+
+			// Fly OUT on start of #footer
+			if ($window.scrollTop() + $footer.outerHeight() >= $footer.offset().top) {
+				endPos = -1100;
+				$flyin.animate({right: endPos}, 1000);
+				return;
+			}
+
+			// Fly in on end of bodytext
+			if ($window.width() >= 1070){
+				// if the window is big enough to allow the fly-in box not to overlap with the article text show it earlier
+				divisor = 2;
+				negativeOffset = 0;
+			}
+			if ($window.scrollTop() >= (($bodytext.offset().top + $bodytext.outerHeight()) / divisor) - negativeOffset - $flyin.outerHeight()) {
+				if (!$flyin.is(':visible')) {
+					$flyin.show();
+					endPos = 0;
+					$flyin.animate({right: endPos}, 1000);
+				}
+			}
+		});
+
+		$(".flyin_closebutton").bind('click', function () {
+			var $flyin = $('.article-flyin'),
+				$window = $(window),
+				endPos = -1100;
+
+			$flyin.animate({right: endPos}, 1000);
+		})
+	}
+})();</script>
+<script type="text/javascript">
+
+    </script>
+
+<script type="text/javascript">
+    if (typeof ADTECH != 'undefined' && ADTECH.executeQueue) {
+        ADTECH.executeQueue();
+    }
+</script>
+
+<div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <div itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="url" content="https://l.blick.ch/img/logo/blick-60x102.jpg">
+            <meta itemprop="width" content="102">
+            <meta itemprop="height" content="60">
+        </div>
+        <meta itemprop="name" content="Blick">
+    </div>
+<div id="loginModal" class="login-modal">
+    <div class="login-modal__registration">
+        <h3 class="login-modal__headline">Registration</h3>
+        <p class="login-modal__text">
+            Werden Sie Teil der Blick-Community! Debattieren Sie aktiv mit uns und anderen
+            Blick-Lesern &uuml;ber brisante Themen.
+        </p>
+        <div class="center">
+            <a id="login-modal-register" class="login-modal__submit login-modal__submit--registration" href="#" target="_blank">Zur Registration</a>
+        </div>
+    </div>
+    <div class="login-modal__login">
+        <h3 class="login-modal__headline">Anmelden</h3>
+        <div class="loginError err hidden">
+            <strong>Login-Fehler, z.B. falsche Username/Passwort-Kombination.</strong>
+        </div>
+        <p class="login-modal__text">
+            Melden Sie sich an, um einen Kommentar abzugeben.
+        </p>
+        <form action="#" class="clearfix" method="post">
+            <div class="login-modal__username">
+                <label for="usernameModalForm">
+                    <strong>Username / E-Mail</strong>
+                </label>
+                <input class="login-modal__textfield" type="text" name="username" id="usernameModalForm" value="" maxlength="255" />
+            </div>
+            <div class="login-modal__password">
+                <label for="passwortModalForm">
+                    <strong>Passwort</strong>
+                </label>
+                <div class="login-modal__combined-field">
+                    <input type="password" class="login-modal__textfield login-modal__textfield--password" name="passwort" id="passwortModalForm" value="" maxlength="255" />
+                    <button type="button" class="login-modal__submit login-modal__submit--login" id="login-button">
+                        <span>Login</span>
+                    </button>
+                </div>
+                <a class="login-modal__forgot-password" id="login-modal-forgot-password" href="#">Passwort vergessen</a>
+                <a class="login-modal__register-link" id="login-modal-register-link" href="#">Registrieren</a>
+            </div>
+        </form>
+    </div>
+    <div class="login-modal__social-buttons sm_follow clearfix">
+        <p class="login-modal__text">
+            Wenn Sie ein Konto bei Facebook oder Twitter haben, k&ouml;nnen Sie sich damit anmelden.
+        </p>
+        <a id="fb-auth" class="sm_follow_fb--div" href="#">
+            <span class="sm_follow--fb__icon sm_follow__icon icon-ico-03-facebook"></span>
+            <span class="sm_follow--fb__text sm-follow__text">
+                Mit Facebook anmelden
+            </span>
+        </a>
+        <a id="tw-auth" class="sm_follow_tw--div" href="#">
+            <span class="sm_follow--tw__icon sm_follow__icon icon-ico-03-twitter"></span>
+            <span class="sm_follow--fb__text sm-follow__text">
+                Mit Twitter anmelden
+            </span>
+        </a>
+    </div>
+</div></body>
+</html>

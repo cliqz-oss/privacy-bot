@@ -1,0 +1,995 @@
+  * Abo
+  * Info
+  * Anzeigen
+  * Genossenschaft
+  * Shop
+  * taz.zahl ich
+  * taz.meinland
+  * Panter Preis
+  * taz.futurzwei
+  * zeozwei
+  * taz.am wochenende
+  * taz.gazete
+  * Nord
+  * ePaper
+  * Café
+  * Neubau
+  * Panter Stiftung
+  * recherchefonds ausland
+  * KONTEXT: Wochenzeitung
+  * LE MONDE diplomatique
+  * Hausblog
+  * Blogs
+  * Archiv
+  * Reisen in die Zivilgesellschaft
+  * Kirchentag
+  * Hilfe
+
+# taz.Hilfe
+
+  * taz.de
+
+  * Hilfe
+  * Redaktionsstatut
+  * Impressum
+  * RSS
+  * Mobil
+  * Datenschutz
+  * Newsletter
+  * Kontakt
+
+taz_online_106599106599
+
+#### Datenschutzerklärung
+
+# Wir sind uns sicher
+
+Die Unternehmen der taz-Gruppe nehmen den Schutz personenbezogener Daten sehr
+ernst.
+
+Die Unternehmen der taz-Gruppe nehmen den Schutz personenbezogener Daten sehr
+ernst. Soweit anwendbar sind wir verpflichtet, die Vorgaben des
+Bundesdatenschutzgesetzes (BDSG) und des Telemediengesetzes (TMG) zu erfüllen.
+Wir haben technische und organisatorische Maßnahmen getroffen, die
+sicherstellen, dass die gesetzlichen Vorschriften zu personenbezogenen Daten
+eingehalten werden. Die nachfolgende Erklärung gilt für unsere Angebote taz,
+taz.Abo, taz.shop, taz.anzeigen, taz.genossenschaft und LE MONDE diplomatique
+(nachfolgend „Angebot“ oder „Angebote“) und gibt Ihnen einen Überblick
+darüber, wie wir den Schutz personenbezogener Daten gewährleisten und welche
+Art von Daten zu welchem Zweck erhoben, verarbeitet und genutzt werden.
+
+Ein Teil der Angebote ist für jeden Besucher nutzbar. Weitere Bereiche der
+Angebote sind jedoch zugangsbeschränkt und setzen die vorherige Registrierung
+des Nutzers voraus.
+
+Der Betrieb der Angebote selbst bringt es mit sich, dass wir bestimmte
+personenbezogene Daten unserer Besucher und Nutzer erheben und verarbeiten.
+Wir erheben, verarbeiten und nutzen personenbezogene Daten im Zusammenhang mit
+dem Besuch der Angebote nur in dem in der folgenden Datenschutzerklärung
+beschriebenen Umfang.
+
+Hier finden Sie unsere Datenschutzerklärung als pdf.
+
+Berlin, 14. Januar 2016
+
+## A. Allgemeine Informationen für alle Angebote
+
+## 1\. Erhebung Nutzungsdaten
+
+Bei der Nutzung der Website fallen stets einige Daten an, so genannte
+Nutzungsdaten, deren Verarbeitung erforderlich ist, um die Inanspruchnahme der
+Website zu ermöglichen.
+
+## Logfiles
+
+Wenn Sie unsere Website besuchen, speichert unser Server bestimmte Daten in so
+genannten Logfiles. Ein Logfile besteht aus Datum/Zeit, IP-Adresse, URL,
+UserAgent (Betriebssystem und Browser) und Status Code. Diese Daten werden
+drei Tage gespeichert und dann von uns durch eine Kennzeichnung ersetzt.
+
+## Cookies
+
+In unserem Angebot verwenden wir überdies Cookies. Dies sind kleine
+Textdateien, die auf Ihrem Endgerät (PC, Mobiltelefon, etc.) gespeichert
+werden und in denen Informationen abgespeichert werden können.
+
+Für den Einsatz der taz „Paywahl“ nutzen wir Cookies. Diese Cookies enthalten
+Informationen dazu, wie häufig Ihr Browser die "Paywahl" über einem Artikel
+bereits angezeigt hat und das Datum der Kampagne. Keiner dieser Cookies
+enthält eine individuelle Kennnummer und könnte dazu dienen, Ihnen ein Profil
+zuzuordnen oder sie als Einzelne/n wiederzuerkennen. Nähere Informationen zu
+den Cookies für die taz „Paywahl“ erhalten Sie hier .
+
+Falls Sie die Verwendung von Cookies unterbinden wollen, besteht dazu in den
+Einstellungen Ihres Browsers oder des Betriebssystems Ihres mobilen Endgerätes
+die Möglichkeit, die Annahme und Speicherung neuer Cookies zu verhindern und
+Cookies zu löschen. Wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
+gegebenenfalls nicht sämtliche Funktionen dieser Angebote vollumfänglich
+werden nutzen können.
+
+## Kommentarfunktion
+
+Wenn Sie die freiwillige Kommentarfunktion in unserem Angebot nutzen, erheben
+und speichern wir in diesem Zusammenhang Ihre E-Mail-Adresse und Ihren Vor-
+und Nachnamen.
+
+## 2\. Verwendung von Nutzungsdaten
+
+Nutzungsdaten verwenden wir, damit wir das von Ihnen genutzte Endgerät
+identifizieren und Sie die Leistungen und Funktionen der Angebote in Anspruch
+nehmen können. Die Logfiles und darin enthaltende Daten verwenden wir zum
+einen aus Sicherheitsgründen, um Fälle des Missbrauchs unserer Angebote
+entdecken, nachvollziehen und abstellen zu können. Durch die Daten gewinnen
+wir zum anderen Erkenntnisse darüber, wie unser Dienst genutzt wird. Für
+diesen Zweck wird die IP-Adresse jedoch zuvor durch uns anonymisiert, indem
+diese durch eine Kennzeichnung ersetzt wird. Solche Erkenntnisse benötigen
+wir, um Ihnen ein sicheres und nutzerfreundliches Nutzungserlebnis anbieten zu
+können. Zum anderen dienen sie uns zur technischen und redaktionellen
+Optimierung der Angebote.
+
+## Pseudonyme Nutzungsprofile
+
+Wir verwenden Nutzungsdaten auch, um Ihnen Informationen, einschließlich
+Werbung zielgerichtet anhand der uns verfügbaren Informationen präsentieren zu
+können. Hierzu erstellen wir bzw. von uns beauftragte Dienstleister
+Nutzungsprofile, jedoch nur unter einem Pseudonym. In diesem Fall steht Ihnen
+jeweils ein Widerspruchsrecht für die Zukunft zu. Wie Sie dieses ausüben
+können, erfahren Sie in den spezifischen Informationen zu den jeweiligen
+Funktionen in dieser Datenschutzerklärung.
+
+## Kommentarfunktion
+
+Ihre E-Mail-Adresse sowie Ihren Vor- und Nachnamen nutzen wir, um einen
+Missbrauch der Kommentarfunktion zu verhindern. Ihr Vor-und Nachname werden
+zudem, wenn Sie dies entsprechend angeben, im Zusammenhang mit Ihrem Kommentar
+veröffentlicht.
+
+## Weitergabe von Nutzungsdaten
+
+Wir geben die Nutzungsdaten grundsätzlich nicht an Dritte weiter.
+
+Ausnahmen gelten,
+
+\- wenn und soweit es zur Durchführung der mit Ihnen bestehenden
+Vertragsverhältnisse oder zur Durchsetzung uns zustehender Ansprüche
+erforderlich ist,
+
+\- wenn Sie in die Weitergabe eingewilligt haben,
+
+\- wenn wir gesetzlich dazu verpflichtet sind oder durch ein Gericht
+entsprechend verpflichtet werden oder
+
+\- wenn es sich um Anfragen von behördlichen Organen, insbesondere
+Strafverfolgungs- und Aufsichtsbehörden, handelt, wenn und soweit dies zur
+Abwehr von Gefahren für die öffentliche Sicherheit und Ordnung sowie zur
+Verfolgung von Straftaten erforderlich ist.
+
+## 3\. Nutzungsanalyse
+
+Mit der Nutzungsanalyse wollen wir nachvollziehen, wie sich User*innen auf
+unserer Seite bewegen, um diese kontinuierlich im Sinne der Nutzer*innen zu
+optimieren. Auf der Basis von Datenschutzkonformität stehen Usability,
+Darstellung und Aufteilung der Website im Fokus unserer Betrachtung.
+
+## eTracker
+
+Unsere Angebote nutzen Technologien der etracker GmbH, Erste Brunnenstraße 1,
+20459 Hamburg („eTracker“). Dazu werden Daten zu Marketing- und
+Optimierungszwecken gesammelt und gespeichert. Aus diesen Daten können unter
+einem Pseudonym Nutzungsprofile erstellt werden. Hierzu können Cookies
+eingesetzt werden. Die Cookies ermöglichen die Wiedererkennung des
+Internetbrowsers. Die mit den eTracker-Technologien erhobenen Daten werden
+ohne Ihre gesondert erteilte Zustimmung nicht dazu benutzt, den Besucher
+dieser Website persönlich zu identifizieren und nicht mit personenbezogenen
+Daten über den Träger des Pseudonyms zusammengeführt. Der Datenerhebung und
+-speicherung kann jederzeit mit Wirkung für die Zukunft widersprochen werden.
+
+Bitte schließen Sie mich von der eTracker Zählung aus.
+
+Weitere Informationen zum Umgang mit personenbezogenen Daten durch eTracker
+erhalten Sie in der Datenschutzerklärung:
+https://www.etracker.com/de/datenschutz.html
+
+## 4\. Reichweitenmessung
+
+Die Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern
+(IVW) misst die Reichweite aller Zeitungen und Webseiten und schafft damit
+vergleichbare Werte, die öffentlich eingesehen werden können und auch für uns
+der eigenen Einordnung dienen.
+
+## Skalierbare Zentrale Messverfahren (SZMnG)
+
+Unsere Angebote nutzen das „Skalierbare Zentrale Messverfahren" (SZMnG) der
+INFOnline GmbH, Forum Bonn Nord - Brühler Straße 9, 53119 Bonn („INFOnline“)
+für die Ermittlung statistischer Kennwerte zur Nutzung unserer Angebote. Dabei
+werden anonyme Messwerte erhoben.
+
+Ziel der Reichweitenmessung ist es, die Nutzungsintensität, die Anzahl der
+Nutzer einer Website und das Nutzungsverhalten statistisch – auf Basis eines
+einheitlichen Standardverfahrens - zu bestimmen und somit marktweit
+vergleichbare Werte zu erhalten. Für Angebote, die Mitglied der
+Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern
+e.V. (IVW) sind oder an den Studien der Arbeitsgemeinschaft Online-Forschung
+e.V. (AGOF) teilnehmen, werden die Nutzungsstatistiken regelmäßig von der AGOF
+und der Arbeitsgemeinschaft Media-Analyse e.V. (agma), sowie der IVW
+veröffentlicht und können auf den jeweiligen Webseiten eingesehen werden.
+
+Die INFOnline GmbH erhebt und verarbeitet Daten nach deutschem
+Datenschutzrecht. Durch technische und organisatorische Maßnahmen wird
+sichergestellt, dass einzelne Nutzer zu keinem Zeitpunkt identifiziert werden
+können. Daten, die möglicherweise einen Bezug zu einer bestimmten,
+identifizierbaren Person haben, werden frühestmöglich anonymisiert:
+
+\- Anonymisierung der IP-Adresse durch Kürzung vor jeglicher Verarbeitung
+
+\- Geolokalisierung bis zur Ebene der Bundesländer / Regionen
+
+\- Verarbeitung von anonymisierten Identifikationsnummern des Gerätes und
+anonymisierten Anmeldekennungen zur Messung von verteilter Nutzung
+
+Die gespeicherten Nutzungsvorgänge werden nach spätestens 7 Monaten gelöscht.
+Weitere Informationen zum Datenschutz im Messverfahren finden Sie auf der
+Website der INFOnline GmbH (https://www.infonline.de), die das Messverfahren
+betreibt, der Datenschutzwebseite der AGOF (http://www.agof.de/datenschutz)
+und der Datenschutzwebseite der IVW.
+
+Wenn Sie an der Messung nicht teilnehmen möchten, können Sie hier und hier
+widersprechen. Weitere Informationen zu der von INFOnline betriebenen
+Reichweitenmessung im Internet finden Sie in den allgemeinen
+Datenschutzinformationen von INFOnline.
+
+## 5\. Social Media Dienste
+
+Unsere Angebote setzen sog. „Social Plugins“ ein. Derzeit sind dies die
+Plugins der Dienste Facebook, Google Plus und Twitter. Über diese Plugins
+werden unter Umständen Informationen, zu denen auch personenbezogene Daten
+gehören können, an die Betreiber der jeweiligen Dienste gesendet und ggf. von
+diesen genutzt. Wir verhindern die unbewusste und ungewollte Erhebung und
+Übertragung von Daten an die Diensteanbieter durch eine sog. „2-Klick-Lösung“.
+Um ein gewünschtes Plugin zu aktivieren, müssen Sie zunächst auf den
+entsprechenden Schalter klicken. Erst durch diese Aktivierung des Plugins wird
+es aktiviert und eine Datenübertragung an den jeweiligen Diensteanbieter
+ausgelöst. Wir selbst erheben keine personenbezogenen Daten mittels der Social
+Plugins oder über deren Nutzung.
+
+Wir haben keinen Einfluss darauf, welche Daten über ein aktiviertes Plugin
+erhoben und verarbeitet und wie diese durch den Anbieter verwendet werden
+können.
+
+## Facebook
+
+Unsere Angebote verwenden die „Teilen″-Schaltfläche des sozialen Netzwerkes
+Facebook, welches von der Facebook Ireland Limited, 4 Grand Canal Square,
+Dublin 2, Irland („Facebook“) betrieben wird. Mit einem Klick auf die zuvor
+aktivierte „Teilen“-Schaltfläche können Sie Inhalte von unserer Website mit
+Ihren Freunden bei Facebook teilen.
+
+Wenn Sie die „Teilen“-Schaltfläche aktivieren, baut Ihr Browser eine direkte
+Verbindung mit den Servern von Facebook auf. Der Inhalt der
+„Teilen″-Schaltfläche wird von Facebook direkt an Ihren Browser übermittelt
+und von Facebook in die Website eingebunden. Wir haben daher keinen Einfluss
+auf den Umfang der Daten, die Facebook mit der Schaltfläche erhebt. Facebook
+sammelt nach eigenen Angaben Informationen, wenn Sie Webseiten Dritter
+besuchen, die Dienste von Facebook (wie etwa die „Teilen“-Schaltfläche)
+nutzen. Dazu zählen Informationen über die von Ihnen besuchten Webseiten und
+über Ihre Nutzung Dienste von Facebook auf solchen Webseiten. Wenn Sie bei
+Ihrem Besuch unserer Website gleichzeitig bei Facebook angemeldet sind, erhält
+Facebook unter anderem Ihre Nutzer-ID, die besuchte Website, das Datum und die
+Uhrzeit sowie andere browserbezogene Informationen.
+
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Facebook entnehmen Sie bitte Facebook‘s Hinweisen zu sozialen
+Plug-ins. Weitere Informationen zum Umgang mit personenbezogenen Daten durch
+Facebook erhalten Sie in der Datenschutzrichtlinie.
+
+## Twitter
+
+Unsere Angebote verwenden die „Link teilen″-Schaltfläche des sozialen
+Netzwerkes Twitter, welche von der Twitter International Company, The Academy,
+42 Pearse Street, Dublin 2, Ireland („Twitter“) betrieben wird. Mit einem
+Klick auf die zuvor aktivierte „Link teilen“-Schaltfläche können Sie Inhalte
+von unserer Website mit Ihren Followern bei Twitter teilen.
+
+Wenn Sie die „Link teilen“-Schaltfläche aktivieren, baut Ihr Browser eine
+direkte Verbindung mit den Servern von Twitter auf. Twitter erhält hierdurch
+Log-Daten, die die Website beinhalten, die Sie besucht haben und setzt einen
+Cookie, der Ihren Browser identifiziert. Wenn Sie die „Link
+teilen″-Schaltfläche anklicken während Sie in Ihrem Twitter-Account eingeloggt
+sind, können Sie die Inhalte unserer Website auf Ihrem Twitter-Profil teilen.
+Dadurch kann Twitter den Besuch unserer Website Ihrem Benutzerkonto zuordnen.
+Wir haben keinen Einfluss auf den Umfang der Daten, die Twitter über die
+Schaltfläche erhebt.
+
+Informationen über Tweets, Log-Daten und andere Informationen, die Twitter
+über die „Link teilen“-Schaltfläche sammelt, erhalten Sie in der
+Datenschutzrichtlinie von Twitter.
+
+## 6\. Flattr Button
+
+Unsere Angebote enthalten ein Plugin des Kleinbetragszahlungsdienstes Flattr,
+der von der Flattr AB, Box 4111, SE-203 12 Malmö, Schweden („Flattr“)
+betrieben wird. Wenn Sie mit aktiviertem Java-Script eine Website besuchen,
+die das Flattr-Plugin enthält, baut Ihr Internet-Browser eine direkte
+Verbindung mit den Servern von Flattr auf. Wenn Sie ein Benutzerkonto bei
+Flattr besitzen, eingeloggt sind und mit der Schaltfläche interagieren, werden
+Informationen darüber an Flattr übermittelt und nach den für Flattr geltenden
+Datenschutzbestimmungen, u.a. zu Abrechnungszwecken verarbeitet. Auch wenn Sie
+nicht in Ihrem Benutzerkonto eingeloggt sind, können ggf. Informationen zu
+Ihrem Besuch unseres Angebotes durch Flattr erhoben und verarbeitet werden.
+Die Nutzung des Flattr-Plugins und Datenverarbeitungen mit Hilfe des Plugins
+unterliegen den Datenschutzbedingungen und Nutzungsbedingungen von Flattr. Wir
+haben keinen Einfluss auf den Umfang der Daten, die Flattr mit der
+Schaltfläche erhebt und wie diese genutzt werden.
+
+Einzelheiten zu dem Umgang mit Daten durch Flattr sowie zu Ihren Rechten und
+Einstellungsmöglichkeiten zum Schutz Ihrer personenbezogenen Daten können Sie
+den Datenschutzhinweisen von Flattr entnehmen.
+
+## 7\. Werbenetzwerke
+
+Unsere Angebote enthalten bestimmte Bereiche (Banner), die mit Werbeanzeigen
+von Drittanbietern befüllt werden. Diese Drittanbieter erheben und nutzen
+möglicherweise personenbezogene Daten von Webseitenbesuchern, um Werbeanzeigen
+auf unseren Angeboten ausspielen zu können. Für die Auswahl und Ausspielung
+der konkreten Werbeanzeigen nutzen wir zum Teil die Dienste von Vermarktern.
+Nachfolgend erteilen wir Ihnen Informationen dazu, wer diese Vermarkter sind
+und wie diese mit Daten umgehen. Weitere Informationen rund um das Thema
+nutzungsbasierte Online-Werbung finden Sie auch auf dem Verbraucherportal
+www.meine-cookies.org.
+
+## Yieldlove
+
+Yieldlove GmbH, Neuer Pferdemarkt 1, 20359 Hamburg („Yieldlove“) vermarktet
+Online-Werbeflächen auf unseren Angeboten taz.de und der mobilen Website der
+taz. Um die Werbeauslieferung auf den Webseiten zu optimieren, werden durch
+Yieldlove Cookies eingesetzt.
+
+Alle Informationen dazu, wie Yieldlove Daten verarbeitet und welche Daten
+betroffen sind, erhalten Sie in der Privacy Policy von Yieldlove. Zudem können
+Sie unter dem angegebenen Link dem Einsatz von Cookies durch Yieldlove für die
+Zukunft widersprechen (Opt-out).
+
+## DFP
+
+Unsere Angebote nutzen einen AdServer von Google, den DoubleClick for
+Publishers („DFP“), um Werbeflächen ausspielen und vermarkten zu können. Wenn
+Sie bestimmte Webseiten besuchen oder auf von Ihnen besuchten Webseiten auf
+bestimmte Werbebanner klicken, platziert der AdServer einen Cookie auf Ihrem
+Computer.
+
+Die Nutzungsbedingungen der Plattformprodukte von Google finden Sie hier.
+
+## 8\. VG Wort
+
+Unsere Angebote nutzen Zählpixel der Verwertungsgesellschaft WORT,
+Goethestraße 49, 80336 München („VG Wort“). Zählpixel sind für Sie als
+Webseitbesucher unsichtbare Grafiken innerhalb der jeweiligen Website, wodurch
+Informationen über den Besucherverkehr auf unseren Angeboten ausgewertet
+werden können. Die VG Wort verwaltet für Autoren die Tantiemen aus
+Zweitverwertungsrechten an Sprachwerken. Die Ausschüttung von Tantiemen für
+Onlinetexte ist an bestimmte Kriterien gebunden. Die über Zählpixel
+ermittelten Daten nutzt die VG Wort, um festzustellen, ob ein Text auf einer
+Website den für eine Ausschüttung erforderlichen Schwellenwert erreicht hat.
+
+Nach Angaben der VG Wort stellt das eingesetzte Verfahren sicher, dass
+einzelne Nutzer oder deren Leseverhalten nicht ermittelbar sind, wenn die
+Anzahl der Textaufrufe gezählt wird, da alle von der VG Wort erfassten Daten
+sofort sicher verschlüsselt werden. Der Einsatz des Zählpixels wurde durch das
+Bayerische Landesamt für Datenschutzaufsicht begutachtet und als
+datenschutzkonform bewertet.
+
+## B. Ergänzende Informationen zur Datenverarbeitung auf dem Angebot taz.de
+
+## 1\. taz.zahl ich
+
+Auf dem Angebot taz.de haben Sie die Möglichkeit, für einzelne Artikel zu
+bezahlen. Für die Zahlung bieten wir Ihnen mehrere Möglichkeiten an.  
+
+## Zahlen per Handy
+
+Wenn Sie sich für die Möglichkeit entscheiden, über Ihr Mobiltelefon zu
+zahlen, so erheben und verarbeiten wir
+
+\- die Transaktions ID,
+
+\- die Mobilfunknummer,
+
+\- den Betrag und den gekauften Artikel.
+
+Diese Daten verarbeiten wir allein für den Zweck der Abwicklung der Zahlung.
+
+## Zahlen per PayPal
+
+Wenn Sie sich für die Möglichkeit entscheiden, über Ihr bestehendes
+Nutzerkonto bei PayPal zu zahlen, so erheben und verarbeiten
+
+\- wir die Transaktions ID,
+
+\- Ihre E-Mail-Adresse, mit der Sie bei PayPal registriert sind,
+
+\- den Betrag und
+
+\- den Artikel, für den Sie bezahlt haben.
+
+Diese Daten verarbeiten wir allein für den Zweck der Abwicklung der Zahlung.
+
+Bitte beachten Sie, dass für die Datenverarbeitung, welche bei der Zahlung
+über PayPal stattfindet, allein der Betreiber dieses Dienstes, die PayPal
+(Europe) S.à r.l. et Cie, S.C.A. 22-24 Boulevard Royal, 2449 Luxemburg
+verantwortlich ist. Für die Zahlung über PayPal müssen Sie sich mit Ihren
+Zugangsdaten in Ihrem Benutzerkonto bei PayPal anmelden. Informationen dazu,
+wie PayPal mit personenbezogenen Daten umgeht, erhalten Sie in der
+Datenschutzerklärung des Dienstes.
+
+## Zahlen per Lastschrift
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Lastschrift zu zahlen, so
+erheben und verarbeiten wir
+
+\- Ihren Namen,
+
+\- Ihren Vornamen,
+
+\- den Geldbetrag,
+
+\- Ihre IBAN und
+
+\- Ihre BIC.
+
+Diese Daten verarbeiten wir allein für den Zweck der Abwicklung der Zahlung.
+
+## Zahlen per Kreditkarte
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Kreditkarte zu zahlen, so
+erheben und verarbeiten wir
+
+\- Ihren Namen,
+
+\- Ihren Vornamen,
+
+\- den Geldbetrag,
+
+\- Ihre Kreditkartennummer,
+
+\- die Gültigkeit der Kreditkarte und
+
+\- die Prüfnummer der Kreditkarte.
+
+Diese Daten verarbeiten wir allein für den Zweck der Abwicklung der Zahlung.
+
+Bitte beachten Sie, dass wir für die Zahlung per Kreditkarte den Dienst
+„PaySolution“ der Deutsche Postbank AG, Friedrich-Ebert-Allee 114-126, 53113
+Bonn, nutzen. Für Datenverarbeitungen über PaySolution, welche bei der Zahlung
+per Kreditkarte erfolgen, ist daher die Deutsche Postbank AG verantwortlich.
+Weitere Informationen zu dem Dienst „PaySolution“ erhalten Sie hier.
+
+## Zahlen per Banküberweisung
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Banküberweisung zu zahlen,
+so erheben und verarbeiten wir
+
+\- Ihren Namen,
+
+\- Ihren Vornamen,
+
+\- den Geldbetrag,
+
+\- Ihre IBAN und
+
+\- Ihre BIC.
+
+Diese Daten verarbeiten wir allein für den Zweck der Abwicklung der Zahlung.
+
+## Zahlen per Bitcoinüberweisung
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Überweisung von Bitcoins zu
+zahlen, so erheben und verarbeiten wir diesbezüglich keine personenbezogenen
+Daten.
+
+## C. Ergänzende Informationen zur Datenverarbeitung auf dem Angebot taz.Abo
+
+## 1\. Abonnement von taz-Produkten
+
+Auf dem Angebot von taz.Abo haben Sie die Möglichkeit, Produkte der TAZ
+Verlags- und Vertriebs GmbH (in gedruckter oder digitaler Form)
+kostenpflichtig zu erwerben. Um das mit Ihnen bestehende Vertragsverhältnis in
+einem solchen Fall erfüllen zu können, also etwa Ihnen ein abonniertes Produkt
+liefern und Ihre Zahlung für das abgeschlossene Abonnement abwickeln zu
+können, erheben und verarbeiten wir folgende personenbezogene Daten:
+
+\- Ihre E-Mail-Adresse,
+
+\- Ihre Lieferadresse (Vorname, Name, Straße, Hausnummer, Land, Postleitzahl,
+Ort, Telefonnummer, Lieferhinweis, Briefkasten),
+
+\- Ihre Rechnungsadresse (Vorname, Name, Namenszusatz, Straße, Hausnummer,
+Land, Postleitzahl, Ort, Telefonnummer),
+
+\- den monatlichen Bezugspreis,
+
+\- Informationen zu den Versandkosten,
+
+\- Informationen zum gewählten Zahlungsrythmus,
+
+\- die von Ihnen gewählte Zahlungsart,
+
+\- weitere von Ihnen freiwillig bereitgestellte Informationen.
+
+Diese Daten verarbeiten wir allein für den Zweck der Durchführung des mit
+Ihnen bestehenden Vertragsverhältnisses.
+
+## 2\. Zahlungsarten
+
+Wenn Sie sich für den Abschluss eines Abonnementvertrages entscheiden, bieten
+wir Ihnen zwei Zahlungsarten an.
+
+## Zahlung per Bankeinzug
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Bankeinzug (Lastschrift) zu
+zahlen, so erheben und verarbeiten wir
+
+\- Ihren Namen,
+
+\- Ihren Vornamen,
+
+-den einzuziehenden Geldbetrag, 
+
+\- Ihre IBAN und
+
+\- Ihre BIC.
+
+## Zahlung per Rechnung
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Rechnung zu zahlen, so
+erheben und verarbeiten wir die unter Ziffer C.1 aufgeführten Daten zur
+Rechnungsadresse.
+
+## 3\. taz.de unterstützen (taz.zahl ich regelmäßig)
+
+Auf dem Angebot von taz.Abo haben Sie zudem die Möglichkeit, einen
+regelmäßigen Beitrag für die für im Internet abrufbaren Artikel der taz
+abzuschließen.
+
+Zusätzlich zu den unter Ziffer C.1 angegeben Daten, erheben und verarbeiten
+wir in diesem Fall
+
+\- das Intervall der Zahlungen,
+
+\- das Startdatum der Zahlungen und
+
+\- das Enddatum des Abonnements und der Zahlungen,
+
+\- Ihre E-Mail-Adresse.
+
+Diese Daten verarbeiten wir allein für den Zweck der Durchführung des mit
+Ihnen bestehenden Vertragsverhältnisses.
+
+## D. Ergänzende Informationen zur Datenverarbeitung auf dem Angebot taz.shop
+
+## 1\. Kundenkonto
+
+Auf dem Angebot des taz.shop haben Sie die Möglichkeit, Produkte in unserem
+Online-Shop zu erwerben. Produkte können Sie sowohl als registrierter Kunde
+oder ohne eine Registrierung bestellen. Wenn Sie sich als Kunde registrieren,
+erheben und verarbeiten wir folgende Daten:
+
+\- Persönliche Daten: Anrede, Titel, Vorname, Nachname, E-Mail-Adresse,
+Telefonnummer;
+
+\- Firmendaten: Firmenname, USt-Identifikationsnummer;
+
+\- Adresse: Straße, Hausnummer, Postleitzahl, Ort, Land;
+
+\- Kunden- oder Anteilsnummer: taz-Abonnent; taz-Genosse; Mitglied der taz-
+EntwicklungsKG;
+
+\- Informationen dazu, ob Sie den Newsletter abonnieren möchten;
+
+\- Ihr Passwort (Speicherung erfolgt in verschlüsselter Form).
+
+## 2\. Bestellungen im taz.shop
+
+Wenn Sie ein oder mehrere Produkte in unserem Online-Shop bestellen, erheben
+und verarbeiten wir folgende Daten:
+
+\- Persönliche Daten: Anrede, Titel, Vorname, Nachname, E-Mail-Adresse,
+Telefonnummer;
+
+\- Firmendaten: Firmenname, USt-Identifikationsnummer;
+
+\- Adresse: Straße, Hausnummer, Postleitzahl, Ort, Land;
+
+\- Kunden- oder Anteilsnummer: taz-Abonnent; taz-Genosse; Mitglied der taz-
+EntwicklungsKG;
+
+\- Informationen zu dem von Ihnen bestellten Produkt (Bezeichnung, Preis).
+
+Diese Daten verarbeiten wir allein für den Zweck der Durchführung des mit
+Ihnen bestehenden Vertragsverhältnisses, also insbesondere zur Abwicklung der
+erforderlichen Zahlungen und zum Versand der bestellten Produkte. In diesem
+Zusammenhang übermitteln wir Ihre Adressdaten auch an Dienstleister, welche
+die Auslieferung der Produkte übernehmen.
+
+## 3\. Zahlungsarten
+
+Wenn Sie Produkte aus dem taz.shop kostenpflichtig bestellen, bieten wir Ihnen
+drei Zahlungsarten an.
+
+## Zahlung per Bankeinzug
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Bankeinzug (Lastschrift) zu
+zahlen, so erheben und verarbeiten wir
+
+\- Ihren Namen,
+
+\- Ihren Vornamen,
+
+-den einzuziehenden Geldbetrag, 
+
+\- Ihre IBAN und
+
+\- Ihre BIC.
+
+## Zahlung per Rechnung
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Rechnung zu zahlen, so
+erheben und verarbeiten wir die unter Ziffer C.1 aufgeführten Daten zur
+Rechnungsadresse.
+
+## Zahlen per Banküberweisung
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Banküberweisung zu zahlen,
+so erheben und verarbeiten wir
+
+\- Ihren Namen,
+
+\- Ihren Vornamen,
+
+\- den Geldbetrag,
+
+\- Ihre IBAN und
+
+-Ihre BIC.
+
+## E. Ergänzende Informationen zur Datenverarbeitung bei taz.anzeigen
+
+## Verwendung Ihrer Daten
+
+Auf dem Angebot von taz.anzeigen haben Sie die Möglichkeit uns zu
+kontaktieren, wenn Sie an dem Erwerb von Anzeigenplätzen in Angeboten der TAZ
+Verlags- und Vertriebs GmbH (in gedruckter oder digitaler Form) interessiert
+sind.
+
+Wenn Sie mit uns in Kontakt treten, erheben, verarbeiten und nutzen wir jene
+personenbezogenen Daten, die Sie uns im Rahmen der Kontaktaufnahme mitteilen.
+Hierzu können insbesondere Name, Vorname, E-Mail-Adresse und Telefonnummer
+gehören. Wir verarbeiten und nutzen diese Daten ausschließlich für den Zweck,
+um mit Ihnen in Kontakt zu treten und um einen Vertrag über die Schaltung von
+Werbemitteln abzuschließen, durchzuführen oder zu beenden.
+
+## F. Ergänzende Informationen zur Datenverarbeitung bei taz.genossenschaft
+
+## Verwendung Ihrer Daten
+
+Auf dem Angebot von taz.Genossenschaft haben Sie die Möglichkeit, kostenlos
+per Post Informationen zur taz Genossenschaft zu bestellen. Hierfür werden
+folgende personenbezogene Daten erhoben, verarbeitet und genutzt:
+
+\- Persönliche Daten: Anrede, Titel, Vorname, Nachname, Namenszusatz, E-Mail-
+Adresse, Telefonnummer;
+
+\- Adresse: Straße, Hausnummer, Postleitzahl, Ort, Land;
+
+\- Informationen, die sie im Rahmen der Bestellung freiwillig angeben.
+
+Diese Daten verarbeiten wir allein für den Zweck der Übersendung des
+Informationsmaterials und um mit Ihnen Kontakt zu treten.
+
+## G. Ergänzende Informationen zur Datenverarbeitung bei LE MONDE diplomatique
+
+## 1\. Abonnement von LE MONDE diplomatique
+
+Auf dem Angebot von LE MONDE diplomatique (monde-diplomatique.de) haben Sie
+die Möglichkeit, die deutschsprachige Ausgabe von LE MONDE diplomatique
+kostenpflichtig zu abonnieren (in gedruckter oder digitaler Form). Um das mit
+Ihnen bestehende Vertragsverhältnis in einem solchen Fall erfüllen zu können,
+also etwa Ihnen ein abonniertes Produkt liefern und Ihre Zahlung für das
+abgeschlossene Abonnement abwickeln zu können, erheben und verarbeiten wir
+folgende personenbezogene Daten:
+
+\- Ihre E-Mail-Adresse, Ihre Lieferadresse (Vorname, Name, Straße, Hausnummer,
+Land, Postleitzahl, Ort, Telefonnummer, Lieferhinweis, Briefkasten),
+
+\- Ihre Rechnungsadresse (Vorname, Name, Namenszusatz, Straße, Hausnummer,
+Land, Postleitzahl, Ort, Telefonnummer),
+
+\- den monatlichen Bezugspreis,
+
+\- Informationen zu den Versandkosten,
+
+\- Informationen zum gewählten Zahlungsrythmus,
+
+\- die von Ihnen gewählte Zahlungsart,
+
+\- weitere von Ihnen freiwillig bereitgestellte Informationen.
+
+Diese Daten verarbeiten wir allein für den Zweck der Durchführung oder
+Beendigung des mit Ihnen bestehenden Vertragsverhältnisses.
+
+## 2\. Zahlungsarten
+
+Wenn Sie sich für den Abschluss eines Abonnementvertrages entscheiden, bieten
+wir Ihnen zwei Zahlungsarten an.
+
+## Zahlung per Bankeinzug
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Bankeinzug (Lastschrift) zu
+zahlen, so erheben und verarbeiten wir
+
+\- Ihren Namen,
+
+\- Ihren Vornamen,
+
+-den einzuziehenden Geldbetrag, 
+
+\- Ihre IBAN und
+
+\- Ihre BIC.
+
+## Zahlung per Rechnung
+
+Wenn Sie sich für die Möglichkeit entscheiden, per Rechnung zu zahlen, so
+erheben und verarbeiten wir die unter Ziffer C.1 aufgeführten Daten zur
+Rechnungsadresse.
+
+## 3\. Bestellungen im Online-Shop von LE MONDE diplomatique
+
+Wenn Sie ein oder mehrere Produkte in unserem Online-Shop von LE MONDE
+diplomatique bestellen, erheben und verarbeiten wir folgende Daten:
+
+\- Persönliche Daten: Anrede, Titel, Vorname, Nachname, E-Mail-Adresse,
+Telefonnummer;
+
+\- Firmendaten: Firmenname, USt-Identifikationsnummer;
+
+\- Adresse: Straße, Hausnummer, Postleitzahl, Ort, Land;
+
+-Kunden- oder Anteilsnummer: taz-Abonnent; taz-Genosse; Mitglied der taz-EntwicklungsKG; Informationen zu dem von Ihnen bestellten Produkt (Bezeichnung, Preis). 
+
+Diese Daten verarbeiten wir allein für den Zweck der Durchführung des mit
+Ihnen bestehenden Vertragsverhältnisses, also insbesondere zur Abwicklung der
+erforderlichen Zahlungen und zum Versand der bestellten Produkte. In diesem
+Zusammenhang übermitteln wir Ihre Adressdaten auch an Dienstleister, welche
+die Auslieferung der Produkte übernehmen.
+
+## H. Ergänzende Informationen
+
+## 1\. Datenverarbeitung außerhalb des Europäischen Wirtschaftsraumes
+
+Bestands- und Nutzungsdaten werden nicht in Staaten außerhalb des
+Anwendungsbereichs der Richtlinie 95/46/EG verarbeitet, soweit nicht die in
+dieser Datenschutzerklärung genannten Dienstleister oder Drittanbieter
+betroffen sind, welche ihren Sitz außerhalb des Europäischen Wirtschaftsraumes
+haben.
+
+## 2\. Links zu anderen Websites
+
+Unsere Angebote können Links zu Websites anderer, mit uns nicht verbundener
+Anbieter enthalten. Nach Anklicken des Links haben wir keinen Einfluss mehr
+auf die Verarbeitung etwaig mit dem Anklicken des Links an den Dritten
+übertragener, personenbezogener Daten (wie zum Beispiel der IP-Adresse oder
+der URL, auf der sich der Link befindet), da das Verhalten Dritter naturgemäß
+unserer Kontrolle entzogen ist. Für die Verarbeitung derartiger
+personenbezogener Daten durch Dritte können wir daher keine Verantwortung
+übernehmen.
+
+## 3\. Auskunft, Berichtigung, Löschung, Sperrung
+
+Sie können jederzeit Auskunft über die von uns über Sie gespeicherten
+personenbezogenen Daten verlangen. Schriftliche oder in Textform kommunizierte
+Anforderungen richten Sie bitte an die E-Mail datenschutz@taz.de oder
+schriftlich an taz verlags u. vertriebs GmbH, Herr Jochen Ronig, Rudi-
+Dutschke-Str. 23, 10969 Berlin.
+
+Sie haben zudem jederzeit die Möglichkeit, Ihre personenbezogenen Daten
+berichtigen, sperren oder löschen zu lassen, wenn die gesetzlichen
+Voraussetzungen dafür jeweils erfüllt sind. Im Falle von Unrichtigkeiten
+werden wir die bei uns gespeicherten Daten nach Mitteilung durch Sie
+unverzüglich korrigieren. Zur Berichtigung können Sie sich an die oben
+angegebene Anschrift und E-Mail-Adresse wenden.
+
+Personenbezogene Daten werden gelöscht, wenn die Erhebung oder Verarbeitung
+von An-fang an unzulässig war, die Verarbeitung oder Nutzung sich auf Grund
+nachträglich eingetretener Umstände als unzulässig erweist oder die Kenntnis
+der Daten für uns zur Erfüllung des Zwecks der Verarbeitung oder Nutzung nicht
+mehr erforderlich ist. Von der Löschung ausgenommen sind ausschließlich die
+Daten, die wir zur Abwicklung noch ausstehender Aufgaben oder zur Durchsetzung
+unserer Rechte und Ansprüche benötigen, sowie Daten, die wir nach gesetzlicher
+Maßgabe aufbewahren müssen. Solche Daten werden jedoch gesperrt.
+
+## 4\. Sicherheit
+
+Wir setzen technische und organisatorische Sicherheitsmaßnahmen ein, um zu
+gewährleisten, dass die personenbezogenen Daten unserer Nutzer vor Verlust,
+unrichtigen Veränderungen oder unberechtigten Zugriffen Dritter geschützt
+sind. In jedem Fall haben von unserer Seite überdies nur berechtigte Personen
+Zugang zu Ihren personenbezogenen Daten, und dies auch nur insoweit, als es im
+Rahmen der oben genannten Zwecke erforderlich ist. Die Übertragung der Daten
+erfolgt verschlüsselt.
+
+## Fragen zum Datenschutz?
+
+Bei Fragen bezüglich unserer Datenschutzbestimmungen können Sie gerne über die
+E-Mail Adresse datenschutz@taz.de Kontakt zu uns aufnehmen.
+
+Stand: Januar 2016
+
+## taz.de Redaktion
+
+Redaktion
+
+Telefon: 030 - 25 902 -0
+
+Nutzen Sie unser Kontaktformular
+
+taz-Blogs
+
+Mail: blogwart@taz.de
+
+Online-Anzeigen
+
+Telefon: 030 - 25 902 -130
+
+Email: anzeigen@taz.de
+
+Technik
+
+Email: webmaster@taz.de
+
+## taz. die tageszeitung
+
+Rudi-Dutschke-Str. 23, 10969 Berlin
+
+Telefon: 030 - 25 902 -0
+
+Nutzen Sie unser Kontaktformular
+
+## Lokalredaktionen
+
+Hamburg
+
+Stresemannstraße 23, 22769 Hamburg
+
+Telefon: 040 - 389 017 -0
+
+Mail: redaktion@taz-hamburg.de
+
+Bremen
+
+Pieperstr. 7, 28195 Bremen
+
+Telefon: 0421 - 960 26 -0
+
+Mail: redaktion@taz-bremen.de
+
+Regionalseiten Nord
+
+Mail: redaktion@taz-nord.de
+
+Berlin
+
+Rudi-Dutschke-Str. 23, 10969 Berlin
+
+Telefon: 030 - 25 902 -0
+
+Mail: berlin@taz.de
+
+## taz.informant
+
+Sie wollen auf Missstände hinweisen? Anonym, verschlüsselt und diskret: das
+Informanten-Postfach des taz-Rechercheressorts.
+
+## Nachdruckrechte
+
+Wollen Sie taz-Texte im Netz veröffentlichen oder nachdrucken? Wenden Sie sich
+bitte an die Abteilung Syndikation: lizenzen@taz.de.
+
+## Unsere taz.abos
+
+Egal ob auf Papier oder als ePaper, nur am Wochenende oder täglich: Wir haben
+das richtige Abo für Sie.
+
+## Werden Sie Miteigentümer der taz
+
+Für Sie ist politische Rendite wichtiger als Steuervorteile und finanzieller
+Gewinn? Werden Sie Mitglied der taz Genossenschaft.
+
+## Unser taz.shop
+
+Sie wollen mit gutem Gewissen einkaufen? Dann sind Sie im taz.shop genau
+richtig. Von der Spatzen-WG bis zum tazpresso, köstlichen Weinen bis hin zu
+@TOM-Produkten: taz.shop
+
+  * taz.de
+    * Politik
+      * Deutschland
+      * Europa
+      * taz.gazete
+      * Amerika
+      * Afrika
+      * migration control
+      * Asien
+      * Nahost
+      * Netzpolitik
+    * Öko
+      * Ökonomie
+      * Ökologie
+      * Arbeit
+      * Konsum
+      * Verkehr
+      * Wissenschaft
+      * Netzökonomie
+    * Gesellschaft
+      * Alltag
+      * Debatte
+      * Kolumnen
+      * Medien
+      * Bildung
+      * Gesundheit
+      * Reise
+    * Kultur
+      * Musik
+      * Film
+      * Künste
+      * Buch
+      * Netzkultur
+    * Sport
+      * Fußball
+      * Kolumnen
+    * Berlin
+    * Nord
+      * Hamburg
+      * Bremen
+      * Kultur
+    * Wahrheit
+      * bei Tom
+      * über die Wahrheit
+  *     * Abo
+    * Info
+    * Anzeigen
+    * Genossenschaft
+    * Shop
+    * taz.zahl ich
+    * taz.meinland
+    * Panter Preis
+    * taz.futurzwei
+    * zeozwei
+    * taz.am wochenende
+    * taz.gazete
+    * Nord
+    * ePaper
+    * Café
+    * Neubau
+    * Panter Stiftung
+    * recherchefonds ausland
+    * KONTEXT: Wochenzeitung
+    * LE MONDE diplomatique
+    * Hausblog
+    * Blogs
+    * Archiv
+    * Reisen in die Zivilgesellschaft
+    * Kirchentag
+    * Hilfe
+  *     * Hilfe
+    * Redaktionsstatut
+    * Impressum
+    * RSS
+    * Mobil
+    * Datenschutz
+    * Newsletter
+    * Kontakt
+  * 
+
+Alle Rechte vorbehalten. Für Fragen zu Rechten oder Genehmigungen wenden Sie
+sich bitte an lizenzen@taz.de
+

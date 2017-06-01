@@ -1,0 +1,421 @@
+Skyscanner benotigt JavaScript. Es sieht so aus, als ob Ihr Browser JavaScript
+nicht unterstutzt oder JavaScript ausgeschaltet ist. Bitte schalten Sie es ein
+und versuchen Sie es erneut.
+
+  * Hilfe
+  * de-DE € EUR
+  * Anmelden
+  * Menü
+
+Skyscanner
+
+  * Flüge
+  * Hotels
+  * Mietwagen
+
+  * Home
+  * Datenschutzrichtlinie
+
+# Datenschutzrichtlinie
+
+Skyscanner hat sich dem Schutz und der Wahrung Ihrer Privatsphäre
+verpflichtet, und die Gewährleistung der Vertraulichkeit von allen
+persönlichen Informationen, die Sie uns vorlegen, hat bei uns höchste
+Priorität.
+
+Diese Richtlinie sowie unsere Nutzungsbedingungen und unsere Cookie-Richtlinie
+regeln die Herangehensweise von Skyscanner Limited an die Sammlung von und den
+Umgang mit solchen Informationen; diese Richtlinie gilt für alle Websites,
+mobilen Apps und sonstigen, von uns betriebenen Dienste, wie Newsletter und
+Preismitteilungen (die „Skyscanner-Services“).
+
+Indem Sie die Skyscanner-Services nutzen, gehen wir davon aus, dass Sie der
+Nutzung Ihrer Informationen in Übereinstimmung mit dieser Richtlinie
+zustimmen. Wir bitten Sie, sich einige Minuten Zeit zu nehmen, um die
+Richtlinie zu lesen und uns zu kontaktieren, wenn Sie Fragen haben sollten.
+
+Im Fall von Änderungen an unserer Herangehensweise aktualisieren wir diese
+Richtlinie und stellen die aktuelle Version auf diese Seite – bitte überprüfen
+Sie dies regelmäßig, damit sichergestellt ist, dass Sie auf dem Laufenden
+bleiben.
+
+Welche Art von Informationen sammelt Skyscanner?
+
+Die meisten Informationen, die wir von Ihnen sammeln, beziehen sich auf nicht
+personenbezogene Angaben, wie anonyme Benutzer-IDs oder Gerätenummern, und
+lassen eine Identifizierung von Ihnen als Einzelperson in der Welt außerhalb
+des Internets nicht zu („nicht personenbezogene Informationen“). Solche nicht
+personenbezogenen Informationen umfassen Angaben wie Ihren Browsertyp, die Art
+des Geräts, das Sie nutzen, Zugriffszeiten, die Website, über die Sie zu
+Skyscanner gelangt sind, die Funktionalitäten oder Funktionen, die Sie während
+der Nutzung der Skyscanner-Services ausgewählt haben und Ihren allgemeinen
+geographischen Standort.
+
+Falls erforderlich, sammeln wir auch Informationen von Ihnen, über die eine
+Identifizierung von Ihnen als Einzelperson in der Welt außerhalb des Internets
+möglich ist, z. B. Ihren Namen, Ihre E-Mail-Adresse, Ihre Passnummer oder Ihre
+Zahlungsangaben („personenbezogene Informationen“). Um die Auswirkungen auf
+Ihre Privatsphäre zu minimieren, werden wir keinesfalls wissentlich mehr
+personenbezogene Informationen sammeln, als unbedingt benötigt werden, um die
+in dieser Richtlinie beschriebenen Aktivitäten auszuführen.
+
+Wie und wann sammelt Skyscanner diese Informationen?
+
+Wir sammeln Informationen, die Sie uns freiwillig im Rahmen Ihrer Nutzung der
+Skyscanner-Services zur Verfügung stellen. Dazu können nicht personenbezogene
+Informationen zählen, wie die Daten und Wunschziele Ihrer Flugsuche, ebenso
+wie die personenbezogenen Informationen, die Sie angeben müssen, um einen Flug
+bei einem Reiseanbieter über die Skyscanner-Services zu buchen. Sie haben
+stets die vollumfängliche Kontrolle darüber, ob Sie uns diese Informationen
+zur Verfügung stellen oder nicht.
+
+Neben den Informationen, die Sie uns freiwillig zur Verfügung stellen, sammeln
+wir auch bestimmte nicht personenbezogene Informationen direkt von Ihnen,
+während Sie die Skyscanner-Services nutzen und auch indirekt, wenn uns die
+Informationen über die Drittanwendung, soziale Netzwerk-Website (z. B.
+Facebook oder Twitter) oder eine andere Website (z. B. die Website eines
+Werbepartners), zu der Sie eine Verbindung über die Skyscanner-Services
+herstellen, zur Verfügung gestellt werden.
+
+Wie nutzt Skyscanner diese Informationen?
+
+Zur Bereitstellung der Skyscanner-Services
+
+Wir nutzen Ihre Informationen zur Bereitstellung der Skyscanner-Services und
+der konkreten Funktionalitäten und Funktionen, die Sie anfordern. Dies umfasst
+Dinge wie die Generierung von Suchergebnissen, die am besten zu Ihren
+Suchkriterien passen, die Speicherung Ihrer personenbezogenen Informationen,
+damit zukünftige Buchungsformulare vorausgefüllt werden können, die
+Vereinfachung des Abschlusses von Buchungen bei Drittanbietern über die
+Skyscanner-Services, die Unterstützung bei Problemen nach der Buchung oder die
+Zustellung von Newslettern oder Preismitteilungen, die Sie erhalten möchten,
+an Ihre E-Mail-Adresse.
+
+Zur Optimierung und Personalisierung der Skyscanner-Services
+
+Neben der Nutzung Ihrer Informationen zur Bereitstellung der wesentlichen
+Aspekte der Skyscanner-Services verwenden wir Ihre Informationen auch zur
+Optimierung und Personalisierung Ihres Erlebnisses bei der Nutzung der
+Skyscanner-Services. Beispielsweise setzen wir Cookies ein, um Ihre Sprach-
+und Währungseinstellungen zu speichern und um Ihr Erlebnis zu personalisieren,
+indem wir bestimmte Informationen oder Reiseoptionen hervorheben oder
+empfehlen, von denen wir aufgrund Ihres Suchverlaufs und Ihrer Nutzung der
+Skyscanner-Services glauben, dass sie für Sie relevant sind.
+
+Zur Darstellung von passender Werbung
+
+Wir nutzen nicht personenbezogene Informationen, z. B. Ihre Suchanfragen bei
+Skyscanner oder Ihren allgemeinen geographischen Standort, um Ihnen relevante
+Werbung zu präsentieren. Beispielsweise setzen wir gegebenenfalls Werbung
+Dritter im Rahmen von Retargeting-Services ein, um Ihnen Werbung zu einem
+Zielort zukommen zu lassen, nach dem Sie gesucht haben. Wir verwenden Ihre
+personenbezogenen Informationen zu diesem Zweck nur dann, wenn Sie dies
+ausdrücklich autorisiert haben.
+
+Zum besseren Verständnis, zur Verbesserung und zum Schutz der Skyscanner-
+Services
+
+Wir nutzen Informationen, die wir darüber sammeln, wie Benutzer mit den
+Skyscanner-Services interagieren, um Fehler zu erkennen und zu korrigieren,
+unsere Dienstleistungen zu verbessern und sachkundige geschäftliche
+Entscheidungen zu treffen, ebenso wie zu Sicherheits- und
+Betrugspräventionszwecken.
+
+Zur Generierung von zusammengefassten Datensätzen zur Information unseres
+Unternehmens und der Reisebranche
+
+Wir nutzen Informationen, die wir über Benutzer sammeln, um Datensätze
+bestehend aus nicht personenbezogenen Informationen zu generieren. Mit Hilfe
+dieser Datensätze können wir hilfreiche Einblicke in Produkte bereitstellen.
+Wir können beispielsweise die Nachfrage nach Zielorten beobachten, um
+sicherzugehen, dass Tarife und Reiseoptionen, die unsere Benutzer wollen, im
+Rahmen der Skyscanner-Services auch zur Verfügung stehen.
+
+Um Sie zu kontaktieren
+
+Wir nutzen Ihre Informationen, um Ihnen Bestätigungen, Mitteilungen oder
+Hinweise, die Sie angefordert haben, z. B. E-Mail-Newsletter oder
+Preismitteilungen, oder die wir Ihnen senden müssen, um die von Ihnen
+ausgewählten Skyscanner-Services erbringen zu können, z. B. Angaben zu einer
+Buchung, die Sie über die Skyscanner-Plattform ausgeführt haben, zukommen zu
+lassen. Außerdem können wir Sie über Änderungen oder Aktualisierungen der
+Skyscanner-Services oder dieser Richtlinie, unserer Cookie-Richtlinie oder
+unserer Nutzungsbedingungen informieren oder auf Nachrichten antworten, die
+Sie uns geschickt haben, beispielsweise über unser Kundenservicezentrum oder
+über soziale Medien.
+
+Sammeln Dritte Informationen über mich, wenn ich die Skyscanner-Services
+nutze?
+
+Ja. Wenn Sie eine Buchung bei einem dritten Reiseanbieter über die Skyscanner-
+Plattform ausführen, können die Informationen, die Sie im Rahmen des
+Buchungsvorgangs zur Verfügung stellen, von dem Dritten gesammelt werden, um
+die Buchung zu verarbeiten. Ihre Informationen werden von solchen Dritten in
+Übereinstimmung mit deren eigenen Bedingungen und Datenschutzrichtlinien
+genutzt; ein Link zu den entsprechenden Bedingungen wird Ihnen im Rahmen des
+Buchungsvorgangs zur Verfügung gestellt.
+
+Darüber hinaus können dritte Werbedienstleister nicht personenbezogene
+Informationen über Sie mit Hilfe von Cookies oder ähnlichen Technologien
+sammeln, wenn Sie die Skyscanner-Services nutzen. Mit Hilfe dieser
+Informationen kann man Ihnen relevante Werbung sowohl innerhalb der
+Skyscanner-Services als auch auf dritten Websites und Anwendungen im Internet
+zukommen lassen. Weitere Informationen zur Nutzung solcher Technologien und
+zur Verweigerung derselben finden Sie im nachfolgenden Abschnitt „Wie setzt
+Skyscanner Cookies und andere Tracking-Technologien ein?“.
+
+Unter welchen Umständen gibt Skyscanner Ihre Informationen an Dritte weiter?
+
+Weitergabe von personenbezogenen Informationen an Dritte, die diese
+ausschließlich auf Anweisung von Skyscanner verarbeiten
+
+Wir geben Informationen über unsere Benutzer an ausgewählte Dritte weiter, die
+Dienstleistungen in unserem Namen oder auf unsere Anweisung erbringen
+(„Drittdienstleister“). Wir stellen sicher, dass Drittdienstleister, die
+Informationen in unserem Namen verarbeiten, dies in Übereinstimmung mit
+vertraglichen Bedingungen tun, die sie dazu verpflichten, die Informationen zu
+schützen und – falls die Informationen personenbezogene Informationen umfassen
+– sie in Übereinstimmung mit geltenden Datenschutzgesetzen zu verarbeiten und
+ausschließlich gemäß unseren Anweisungen und nicht für ihre eigenen Zwecke zu
+nutzen (es sei denn, Sie haben einer solchen Nutzung ausdrücklich zugestimmt).
+
+Drittdienstleister können in einem anderen Land als Sie ansässig sein und Ihre
+Informationen auch dort verarbeiten. Wenn unsere Zusammenarbeit mit einem
+Drittdienstleister die Übertragung von persönlichen Daten von innerhalb
+Europas an einen Standort außerhalb des Europäischen Wirtschaftsraums umfasst,
+ergreifen wir geeignete Maßnahmen, um sicherzugehen, dass die persönlichen
+Daten an diesem Standort angemessen geschützt werden, in der Regel in Form von
+Standardvertragsklauseln, die von der Europäischen Kommission genehmigt
+wurden, und von umfassenden Sicherheitsprüfungen.
+
+Weitergabe von Informationen innerhalb der Skyscanner-Gruppe
+
+Teile der Skyscanner-Services werden von Gruppenunternehmen unterstützt, bei
+denen es sich um vollumfängliche Tochtergesellschaften unseres Unternehmens
+handelt („Skyscanner-Gruppenunternehmen“). Dementsprechend können Ihre
+Informationen von Zeit zu Zeit an solche Skyscanner-Gruppenunternehmen
+weitergegeben werden, damit diese sie in unserem Namen verarbeiten. Wenn das
+passiert, sorgen wir dafür, dass detaillierte Vereinbarungen greifen, die die
+Skyscanner-Gruppenunternehmen dazu verpflichten, Ihre Informationen
+ausschließlich in Übereinstimmung mit dieser Richtlinie und zu den vorstehend
+ausgeführten Zwecken zu nutzen.
+
+Weitergabe Ihrer Informationen an Dritte zur Verarbeitung außerhalb der
+Kontrolle von Skyscanner
+
+Wir geben Ihre persönlichen Informationen im Rahmen der beiden folgenden
+Szenarien zur Verarbeitung außerhalb der Kontrolle von Skyscanner und zu deren
+eigenen Zwecken an Dritte weiter: (1) Wenn Sie eine Buchung bei einem dritten
+Reiseanbieter über die Skyscanner-Plattform ausführen, werden die persönlichen
+Informationen, die Sie im Rahmen des Buchungsvorgangs vorlegen, an diesen
+Dritten weitergegeben, damit die Buchung verarbeitet werden kann, und (2) wenn
+Sie uns ausdrücklich entsprechend autorisieren, z. B. wenn wir eine
+Werbeaktion in Zusammenarbeit mit einem Partner durchführen und Sie uns
+anweisen, Ihre E-Mail-Adresse an diesen Dritten weiterzugeben, um Werbe-E-
+Mails zu erhalten.
+
+Wenn Sie Reiseprodukte auf der Buchungsplattform der Skyscanner-Services
+kaufen, können wir Informationen (einschließlich persönlicher Informationen)
+an den Reiseanbieter zur Durchführung von Standard- und
+Betrugspräventionsprüfungen oder an einen dritten Vertragspartner zur
+Erbringung der Dienstleistungen im Namen des Reiseanbieters weitergeben.
+
+Nicht personenbezogene Informationen, wie voll anonymisierte Datensätze, die
+zusammengefasste Nutzungsinformationen der Skyscanner-Services enthalten oder
+Einblicke in Reisetrends, können von uns an Dritte weitergegeben werden. Wie
+vorstehend beschrieben, können dritte Werbeunternehmen nicht personenbezogene
+Informationen über Sie mit Hilfe von Cookies und anderen Tracking-Werkzeugen
+sammeln, während Sie die Skyscanner-Services nutzen.
+
+Offenlegung von Informationen aus rechtlichen und anderen Gründen
+
+Wir können Ihre Informationen offenlegen, wenn dies erforderlich ist, um
+unsere Nutzungsbedingungen oder andere Vereinbarungen durchzusetzen oder
+gegenüber einem potenziellen bzw. tatsächlichen Käufer, wenn Skyscanner selbst
+(oder ein Teil unseres Unternehmens) verkauft wird. Wir können Ihre
+Informationen außerdem offenlegen, wenn dies erforderlich ist, um
+rechtswidriges oder mutmaßlich rechtswidriges Verhalten zu verhindern,
+aufzudecken oder zu verfolgen oder um sonstigen Schaden zu verhindern oder
+weil rechtliche Schritte gegen uns ergriffen werden oder um unsere Rechte und
+Ansprüche durchzusetzen.
+
+Wie sorgt Skyscanner für die Sicherheit und den Schutz meiner persönlichen
+Informationen?
+
+Die Vertraulichkeit und Sicherheit Ihrer persönlichen Informationen hat bei
+uns höchste Priorität, und wir begrenzen den Zugriff auf diese Informationen
+ausschließlich auf diejenigen Skyscanner-Mitarbeiter, die die Informationen
+kennen müssen, um ihre Arbeit zu erledigen und um Ihnen die Skyscanner-
+Services zur Verfügung zu stellen.
+
+Wenngleich wir unser Bestes tun, um Ihre persönlichen Informationen zu
+schützen, kann die Übertragung von Informationen über das Internet niemals
+vollkommen sicher sein, daher können wir die Sicherheit der Informationen, die
+Sie uns auf eigenes Risiko zur Verfügung stellen, nicht garantieren.
+
+Wo speichert Skyscanner meine Informationen?
+
+Die Informationen, die wir von Ihnen sammeln, werden auf sicheren Servern an
+verschiedenen Standorten in aller Welt gespeichert. Persönliche Informationen,
+die wir von Ihnen sammeln, werden jedoch ausschließlich auf Servern im
+Vereinigten Königreich, in Irland, oder in Singapur gespeichert oder in dem
+Land, von dem aus sie auf die Skyscanner-Services zugreifen, wenn dies
+gesetzlich vorgeschrieben ist. Unabhängig vom Standort stellen wir sicher,
+dass angemessene technische und organisatorische Maßnahmen greifen, um die
+Sicherheit der Informationen, die wir auf unseren Servern speichern, zu
+gewährleisten.
+
+Verwendet Skyscanner Cookies oder andere Tracking-Werkzeuge?
+
+Wir nutzen eine Kombination von Cookies und ähnlichen Tracking-Technologien
+(z. B. auf mobilen Geräten setzen wir nicht dauerhafte Gerätenummern-Techniken
+wie IDFA und Android Advertising ein), um nicht personenbezogene Informationen
+von Ihnen gemäß dieser Richtlinie in Bezug auf Ihre Nutzung der Skyscanner-
+Services zu sammeln. Bitte lesen Sie unsere Cookie-Richtlinie für
+detailliertere Informationen dazu, wie die Skyscanner-Services diese
+Technologien einsetzen.
+
+Wie vorstehend beschrieben, sammeln auch dritte Werbetreibende, mit Hilfe von
+Cookies und ähnlichen Technologien, nicht personenbezogene Informationen von
+Ihnen, um Ihnen relevante Werbung sowohl über die Skyscanner-Services als auch
+auf anderen Drittplattformen zu präsentieren, wenn Sie sich, auf einem
+beliebigen Gerät, im Internet bewegen. Die Anwendung dieser Technologien
+können Sie über die Einstellungen in Ihrem Browser oder in Ihrem mobilen
+Betriebssystem kontrollieren. Für weitere Informationen und Angaben zu Ihren
+Wahlmöglichkeiten besuchen Sie die Network Advertising Initiative Website.
+
+Halten sich Drittplattformen an dieser Richtlinie?
+
+Die Skyscanner-Services enthalten Links zu Websites und Anwendungen Dritter
+und können Ihnen die Option gewähren, Informationen zu solchen Plattformen zu
+exportieren. Bitte beachten Sie, dass wir keine Verantwortung für die
+Datenschutzpraktiken auf solchen Websites Dritter übernehmen. Wenn Sie die
+Skyscanner-Services verlassen oder anderweitig nicht länger nutzen oder Ihre
+Informationen von den Skyscanner-Services auf eine Drittplattform übertragen,
+empfehlen wir Ihnen, die geltenden Datenschutzrichtlinien jeder Drittplattform
+zu lesen, der Sie die Erhebung von Informationen über Sie gestatten.
+
+Sammelt Skyscanner Informationen über Kinder?
+
+Die Skyscanner-Services sind nicht zur Nutzung durch Kinder unter 13 Jahren
+vorgesehen, und Personen im Alter von unter 13 Jahren können über die
+Skyscanner-Services keine Informationen zur Verfügung stellen. Wir sammeln
+nicht wissentlich persönliche Informationen über Kinder unter 13 Jahren und
+löschen Informationen, wenn wir erfahren, dass sie nicht mit Zustimmung oder
+im Namen der Eltern oder rechtlichen Vertreter des Kindes zur Verfügung
+gestellt wurden.
+
+Wie kann ich auf meine persönlichen Informationen zugreifen oder sie
+verwalten?
+
+Wenn Sie ein Konto bei Skyscanner angelegt haben, können Sie einige Ihrer
+persönlichen Daten und Aboeinstellungen über Ihre Profileinstellungen
+verwalten.
+
+Sie sind außerdem jederzeit berechtigt, uns aufzufordern, Ihre persönlichen
+Daten nicht zu Marketingzwecken zu verarbeiten. Von diesem Recht können Sie
+jederzeit Gebrauch machen, indem Sie uns kontaktieren. Sie können auch den
+Empfang von nicht notwendigen E-Mails, einschließlich Marketing-E-Mails,
+verweigern, indem Sie auf den Abmeldelink im unteren Teil solcher E-Mails
+klicken.
+
+Wir stellen Ihnen jederzeit gern Angaben zu den persönlichen Informationen zur
+Verfügung, die wir von Ihnen speichern. Wenn Sie eine solche Anfrage stellen
+möchten, tun Sie dies bitte schriftlich unter Vorlage eines
+Identitätsnachweises an Skyscanner, Quartermile One, 15 Lauriston Place,
+Edinburgh EH3 9EN, zu Händen des Chief Legal Officer.
+
+Es gibt eine Reihe von hilfreichen Werkzeugen und Ressourcen, mit denen Sie
+Ihre Privatsphäre online kontrollieren können, z. B. über Your Online Choices
+oder die Network Advertising Initiative. Wir empfehlen Ihnen insbesondere,
+sich mit den Datenschutzfunktionen und -einstellungen Ihres Browsers vertraut
+zu machen.
+
+Kontaktieren Sie uns
+
+Falls Sie Fragen zu dieser Richtlinie haben, kontaktieren Sie uns hier oder
+schriftlich an Skyscanner, Quartermile One, 15 Lauriston Place, Edinburgh EH3
+9EN, zu Händen des Chief Legal Officer.
+
+### Durchsuchen
+
+  * Stadte +
+    * Palma
+    * Berlin
+    * Munchen
+    * London
+    * Paris
+    * Frankfurt Am Main
+    * Istanbul
+  * Stadtereisen +
+    * London
+    * Paris
+    * Berlin
+    * Hamburg
+    * Amsterdam
+    * New York
+  * Flughafen
+  * Lander +
+    * Deutschland
+    * Spanien
+    * Vereinigte Staaten
+  * Fluglinien
+  * Fluge
+  * Hotels
+  * Mietwagen
+  * App
+
+### Partner
+
+  * Arbeiten Sie mit uns
+  * Partner-Analysen
+  * Werben Sie bei uns
+  * Reise-Insights
+  * Partner
+  * White Label
+  * Reise-APIs
+  * Entwickler
+
+### Unternehmen
+
+  * Informationen zu Skyscanner
+  * Impressum
+  * Stellenangebote
+  * Medien
+  * Reise-Tipps &amp; News
+  * Cookie-Richtlinie
+  * Datenschutzrichtlinie
+  * Nutzungsbedingungen
+  * Kundencharta
+
+### Hilfe
+
+  * Hilfe
+
+(C) Skyscanner Ltd 2002-2017
+
+Schließen
+
+## Anmelden oder registrieren
+
+Schließen
+
+## Angemeldet als
+
+##
+
+Preismeldungen Kontoeinstellungen Abonnements Abmelden
+
+Fur diese Suche konnen wir nur Economy-Preise anzeigen.
+
+Wahlen Sie zunachst Ziele und Reisedaten aus, um weitere Buchungsklassen
+anzusehen.
+
+Wir sind stets bemuht, die bei Skyscanner angezeigten Preise mit den
+tatsachlich bei der Fluglinie zu zahlenden Preisen abzugleichen.
+
+Auf Skyscanner angezeigte Preise enthalten eine Schätzung aller Pflichtsteuern
+und Gebühren. Der endgültige Preis kann je nach zusätzlichen Optionen, die von
+der Fluggesellschaft angeboten werden, wie zum Beispiel Freigepäckgrenzen oder
+Reiseversicherungen variieren.
+

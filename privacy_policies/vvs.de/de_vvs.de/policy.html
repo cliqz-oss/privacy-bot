@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2017 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>VVS Verkehrs- und Tarifverbund Stuttgart (VVS): VVS Datenschutzerklärung</title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="Der VVS führt eine Web-Analyse mit Hilfe von Piwik durch. Dabei versichern wir Ihnen eine 100% datenschutzkonforme Erfassung und Verarbeitung der Daten.">
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/Assets/8086c606a8.css?1495187603" media="all">
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/typo3temp/vhs-assets-egg-fbc-poi-vvsc.css?1496334685" />
+</head>
+<body class="live p667"><div id="top" style="background:;color:;text-align:center;font-weight:bold;"></div>
+
+<!-- pid:667-->
+	
+			
+		
+		
+		
+		
+
+		
+
+		
+
+		
+
+    	
+    	
+
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+			
+		
+	
+		
+
+	
+			
+			<div class="page_margins">
+				<div class="topnavHolder">
+					<div id="topnav">
+						
+		<div class="hlist">
+			<ul><li><a href="/vvs/">VVS</a></li><li><a href="/kontakt/">Kontakt</a></li><li class="active"><a href="/datenschutz/">Datenschutz</a></li><li><a href="/vvs-barrierefrei/">Barrierefrei</a></li><li><a href="/faq/">FAQ</a></li><li><a href="/schlagwoerter/">Schlagwörter</a></li><li><a href="http://en.vvs.de">English</a></li><li><a href="/presse/presseinformationen/">Presse</a></li><li><a href="/no_cache/suche/">Suche</a></li></ul>
+		</div>
+	
+					</div>
+				</div>
+				<div class="page">
+					<div id="header">
+						
+	 	<a href="/" title="zur VVS Homepage">
+			<img alt="VVS Logo" src="/typo3temp/_processed_/d/5/csm_logo_7ab302048e.png" width="88" height="64" />
+		</a>
+	
+					</div>
+
+					<div id="nav">
+						
+		<div class="hlist">
+			<ul><li><a href="/home-vvs/">Home VVS</a></li><li><a href="/aktuelles/">Aktuelles</a></li><li><a href="/no_cache/fahrplan/">Fahrplan</a></li><li><a href="/tickets/">Tickets</a></li><li><a href="/karten-plaene/">Karten &amp; Pläne</a></li><li><a href="/service/">Service</a></li><li><a href="/rundum-mobil/" class="mobil">Rundum mobil</a></li></ul>
+		</div>
+	
+					</div>
+					<div id="pennant">
+						
+					</div>
+
+					<div id="main">
+						<div id="col1">
+							<div id="col1_content" class="clearfix">
+								
+		
+	
+								
+							</div>
+						</div>
+
+						<div id="col2">
+							<div id="col2_content" class="clearfix">
+								
+									
+
+		
+		
+
+		
+		
+
+		
+		
+
+		
+		
+
+		
+		
+
+		
+		
+
+
+
+
+		
+		<div id="efa">
+			<form action="#" method="post" id="efaFormSelect">
+				<div class="styled-select">
+					<select name="efaSelect" id="efaSelect" size="1">
+						<option value="efaForm" selected="selected">Fahrplanauskunft</option>
+						<option value="pvForm">Preisvergleich</option>
+						<option value="tbForm">Ticketberater</option>
+						<option value="rrpForm">Radroutenplaner</option>
+					</select>
+				</div>
+			</form>
+			<!-- EFA -->
+
+			<form onsubmit="setCalcOneDirection(this);" action="http://www2.vvs.de/vvs/XSLT_TRIP_REQUEST2" method="post" id="efaForm">
+				<div>
+					<input type="hidden" name="charsetConvert" value="utf8">
+					<input type="hidden" name="anySigWhenPerfectNoOtherMatches" value="1">
+					<input type="hidden" name="convertStopsPTKernel2LocationServer" value="1">
+					<input type="hidden" name="convertPOIsITKernel2LocationServer" value="1">
+					<input type="hidden" name="SpEncId" id="efaSpEncId" value="0">
+					<input type="hidden" name="execInst" id="execInst" value="normal">
+					<input type="hidden" name="illumTransfer" value="on">
+					<input type="hidden" name="itOptionsActive" value="1">
+					<input type="hidden" name="language" value="de">
+					<input type="hidden" name="locationServerActive" value="1">
+					<input type="hidden" name="noElevationProfile" value="1">
+					<input type="hidden" name="noElevationSummary" value="1">
+					<input type="hidden" name="outputOptionsActive" value="1">
+					<input type="hidden" name="requestID" id="requestID" value="0">
+					<input type="hidden" name="securityOptionsActive" value="1">
+					<input type="hidden" name="sessionID" id="sessionID" value="0">
+					<input type="hidden" name="type_destination" id="type_destination" value="any">
+					<input type="hidden" name="type_origin" id="type_origin" value="any">
+					<input type="hidden" name="useElevationData" value="1">
+					<input type="hidden" name="useRealtime" value="1">
+					<input type="hidden" name="verifyAnyLocViaLocServer" value="1">
+					<input type="text" class="text dialog" name="name_origin" id="efaOrigin" placeholder="von">
+					<input type="hidden" name="tryToFindLocalityPOIs" value="1">
+					<input type="hidden" name="tryToFindLocalityStops" value="1">
+					<input type="hidden" name="w_objPrefAl" value="2">
+					<input type="hidden" name="w_objPrefAl" value="12">
+					<input type="hidden" name="w_regPrefAm" value="1">
+					<input type="hidden" name="searchLimitMinutes" value="360">
+					<!-- <input type="hidden" name="vvsETrackerSwitch" value="2"> -->
+					<input id="efaETrackerSwitch" type="hidden" name="vvsETrackerSwitch"  value="0">
+					<input type="hidden" name="configurationFontSizeNormal" value="0">
+					<input type="hidden" name="calcOneDirection" value="0">
+				</div>
+				<div>
+					<input type="text" class="text dialog" name="name_destination" id="efaDestination" placeholder="nach">
+				</div>
+				<div>
+					<div id="efaDate">
+						<input type="text" class="date" name="itdDateDay" id="IDday" value="" maxlength="2"> .
+						<input type="text" class="date" name="itdDateMonth" id="IDmonth" value="" maxlength="2"> .
+						<input type="text" class="date datepicker" name="itdDateYear" id="IDyear" value="" maxlength="2">
+					</div>
+				</div>
+				<div>
+					<div id="efaTime">
+						<input type="text" class="date" name="itdTimeHour" id="itdTimeHour" value="" maxlength="2"> :
+						<input type="text" class="date" name="itdTimeMinute" id="itdTimeMinute" value="" maxlength="2">
+					</div>
+					<div id="efaAD" class="efaRadio">
+						<input type="radio" class="radio" name="itdTripDateTimeDepArr" id="efaDep" value="dep" checked="checked">
+						<label for="efaDep">Abfahrt</label>
+						<input type="radio" class="radio" name="itdTripDateTimeDepArr" id="efaArr" value="arr">
+						<label for="efaArr">Ankunft</label>
+					</div>
+				</div>
+				<div class="efaButtons">
+					<button type="submit" name="efaSubmit" id="efaSubmit" value="submit" class="button166">Anfordern</button>
+					<button type="button" name="efaHelp" id="efaHelp" value="help" class="button26">?</button>
+				</div>
+				<div id="efaLinks">
+					
+						<p class="linkBlack "><a href="http://www2.vvs.de/vvs/XSLT_TRIP_REQUEST2?language=de" title="Erweiterte Fahrplanauskunft">Erweiterte Fahrplanauskunft</a></p>
+						<p class="linkBlack "><a href="http://vvs.de/m" title="Fahrplanauskunft mobil">Mobil</a></p>
+					
+					<p class="linkBlack "><a href="http://www2.vvs.de/bcl/XSLT_TRIP_REQUEST2?language=de" title="Fahrplanauskunft f&uuml;r Sehbehinderte">barrierefrei</a></p>
+					
+						<p class="linkBlack nomargin "><a href="http://www2.vvs.de/vvs/XSLT_REQUEST?language=de" title="mehr">mehr</a></p>
+					
+					<p class="linknewEfa"><a href="http://www.vvs.de/efa-beta/" title="Die neue Auskunft testen!">Die neue Auskunft testen!</a></p>
+				</div>
+			</form>
+
+			<!-- /EFA -->
+			<!-- Radroutenplaner -->
+			<form onsubmit="setViaRadTour(this);" action="http://efa.vvs.de/bike/XSLT_TRIP_REQUEST2?language=de" method="post" id="rrpForm" class="hide">
+				<div>
+					<input type="hidden" name="charsetConvert" value="ansi">
+					<input type="hidden" name="language" value="de">
+					<input type="hidden" name="sessionID" value="0" id="rrpSessionID">
+					<input type="hidden" name="requestID" value="0" id="rrpRequestID">
+					<input type="hidden" name="SpEncId" id="rrpSpEncId" value="0">
+					<input type="hidden" name="command" id="rrpCommand" value="">
+					<input type="hidden" name="execInst" id="rrpExecInst" value="verifyOnly">
+					<input type="hidden" name="ptOptionsActive" value="1">
+					<input type="hidden" name="itOptionsActive" value="1">
+					<input type="hidden" name="locationServerActive" value="1">
+					<input type="hidden" name="anySigWhenPerfectNoOtherMatches" value="1">
+					<input type="hidden" name="convertStopsPTKernel2LocationServer" value="1">
+					<input type="hidden" name="convertPOIsITKernel2LocationServer" value="1">
+					<input type="hidden" name="convertCrossingsITKernel2LocationServer" value="1">
+					<input type="hidden" name="convertCoordsITKernel2LocationServer" value="1">
+					<input type="hidden" name="vehTimeInclChTime" value="1">
+					<input type="hidden" name="useSignedRoute" id="rrpRoutetype-1" value="0">
+					<input type="hidden" name="usePseudoRouting" id="rrpRoutetype-2" value="1">
+					<input type="hidden" name="preferAsphaltTracks" id="rrpRoutetype-3" value="0">
+					<input type="hidden" name="useElevationData" id="rrpRoutetype-4" value="1">
+					<input type="hidden" name="preferGreenTracks" id="rrpRoutetype-5" value="1">
+					<input type="hidden" name="cycleSpeed" id="rrpRoutespeed" value="15">
+					<input type="hidden" name="place_origin" value="">
+					<input type="hidden" name="type_origin" id="rrpType_origin" value="any">
+					<input type="hidden" name="nameState_origin" id="rrpNameState_origin" value="empty">
+					<input type="hidden" name="placeState_origin" id="rrpPlaceState_origin" value="empty">
+					<input type="hidden" name="place_destination" value="">
+					<input type="hidden" name="type_destination" id="rrpType_destination" value="any">
+					<input type="hidden" name="nameState_destination" id="rrpNameState_destination" value="empty">
+					<input type="hidden" name="placeState_destination" id="rrpPlaceState_destination" value="empty">
+					<input type="hidden" name="computationType" value="SEQUENCEEX">
+					<input type="hidden" name="containerType" value="SEQUENCE">
+					<input type="hidden" name="coordListOutputFormat" value="STRING">
+					<input type="hidden" name="coordOutputFormatTail" value="0">
+					<input type="text" class="text" name="name_origin" id="rrpOrigin" placeholder="Startpunkt">
+
+					<input type="hidden" value="4" name="regionID_origin">
+					<input type="hidden" value="4" name="regionID_destination">
+					<input type="hidden" value="4" name="regionID_via">
+					<input type="hidden" value="" name="itdLPxx_hiddenCommand" id="itdLPxx_hiddenCommand">
+					<input type="hidden" value="500" name="anyMaxSizeHitList">
+					<input type="hidden" value="0" name="anyExclObjSubFilter_origin">
+					<input type="hidden" value="0" name="anyExclObjSubFilter_destination">
+					<input type="hidden" value="0" name="anyExclObjSubFilter_via">
+					<input type="hidden" value="1" name="anySigWhenPerfectNoOtherMatches">
+					<input type="hidden" value="1" name="vehTimeInclChTime">
+					<input type="hidden" value="360" name="searchLimitMinutes">
+					<input type="hidden" value="1" name="w_regPrefAm">
+					<input type="hidden" value="2" name="w_objPrefAl">
+					<input type="hidden" value="12" name="w_objPrefAl">
+					<input type="hidden" value="1" name="useLocalityMainStop">
+					<input type="hidden" value="1" name="useProxFootSearch">
+					<input type="hidden" value="0" name="SpEncId">
+					<input type="hidden" value="1" name="calculateDistance">
+					<input type="hidden" value="RRP" name="purposeSuffix">
+					<input type="hidden" value="" name="inclDrawClasses_1">
+					<input type="hidden" value="1" name="inclFilter">
+					<input type="hidden" value="100" name="radius_1">
+					<input type="hidden" value="POI_AREA" name="type_1">
+					<input type="hidden" value="1" name="genES">
+					<input type="hidden" value="u" name="sM">
+					<input type="hidden" value="1" name="calcAltVarBicycle" id="calcAltVarBicycle">
+					<input type="hidden" value="attractive" name="itdLPxx_choosenRoute" id="choosenRoute">
+					<input type="hidden" value="" name="itdLPxx_poiSubCat" id="itdLPxx_poiSubCat">
+					<input type="hidden" value="" name="itdLPxx_poiCat" id="itdLPxx_poiCat">
+					<input type="hidden" value="" name="itdLPxx_onlyContent" id="onlyContent">
+					<input type="hidden" value="" name="cycleType">
+					<input type="hidden" value="0" name="via_index" id="via_index">
+					<input type="hidden" value="107" name="mot_via">
+					<input type="hidden" value="0" name="delMinDistTrips">
+					<input type="hidden" value="" name="delVia">
+					<input type="hidden" value="" name="delViaPos">
+					<input type="hidden" value="" name="delDest">
+					<input type="hidden" value="" name="delOrig">
+					<input type="hidden" value="" name="changeVia">
+					<input type="hidden" value="107" name="adoptOrigMOT">
+					<input type="hidden" value="107" name="adoptDestMOT">
+					<input type="hidden" value="" name="adoptViaDwellMin" id="adoptViaDwellMin">
+					<input type="hidden" value="" name="adoptOrigDwell">
+					<input type="hidden" value="" name="addViaAsOrig">
+					<input type="hidden" value="" name="addViaAsDest">
+					<input type="hidden" value="" name="addViaAsOrigDest">
+					<input type="hidden" value="" name="changeViaToOrig">
+					<input type="hidden" value="" name="changeViaToDest">
+					<input type="hidden" value="" name="copyOrigToDest">
+					<input type="hidden" value="" name="copyDestToOrig">
+					<input type="hidden" value="" name="changeViaToOrigDest">
+					<input type="hidden" value="" name="changeOrigToDest">
+					<input type="hidden" value="" name="changeDestToOrig">
+					<input type="hidden" value="" name="changeOrigToDestVia">
+					<input type="hidden" value="" name="changeDestToOrigVia">
+					<input type="hidden" value="" name="changeOrigToVia">
+					<input type="hidden" value="" name="changeDestToVia">
+					<input type="hidden" value="" name="changeOrigToViaPos">
+					<input type="hidden" value="" name="changeDestToViaPos">
+					<input type="hidden" value="" name="itdLPxx_lastCommand" id="itdLPxx_lastCommand">
+					<input type="hidden" value="" name="itdLPxx_zoomLevel" id="itdLPxx_zoomLevel">
+					<input type="hidden" value="" name="itdLPxx_lastAddedPoint" id="itdLPxx_lastAddedPoint">
+					<input type="hidden" value="1188" name="itdLPxx_adoptPoint" id="itdLPxx_adoptPoint">
+					<input type="hidden" value="" name="itdLPxx_hiddenMarker" id="itdLPxx_hiddenMarker">
+					<input type="hidden" value="PDF" name="imageFormat" id="imageFormat">
+					<input type="hidden" value="" name="itdLPxx_currentPage" id="itdLPxx_currentPage">
+					<input type="hidden" value="navteq" name="itdLPxx_currentMap" id="itdLPxx_currentMap">
+
+					<input type="hidden" value="empty" name="nameState_via" id="nameState_via">
+					<input type="hidden" value="empty" name="placeState_via" id="placeState_via">
+					<input type="hidden" value="inputField" name="itdLPxx_adoptPoint">
+					<input type="hidden" value="empty" name="via_index">
+					<input type="hidden" value="2" name="w_objPrefAl">
+					<input type="hidden" value="12" name="w_objPrefAl">
+					<input type="hidden" value="12" name="anyObjFilter_origin">
+					<input type="hidden" value="12" name="anyObjFilter_destination">
+
+					<input type="hidden" value="locID" name="localityID_origin">
+					<input type="hidden" value="locOmc" name="localityOmc_origin">
+					<input type="hidden" value="PlaceName" name="locality_origin">
+					<input type="hidden" value="list" name="nameState_origin">
+
+					<input type="hidden" value="0" name="anyObjFilter_via" id="anyObjFilter_via">
+					<input type="hidden" value="" name="anyType_notVia" id="anyType_notVia">
+					<input type="hidden" value="any" name="anyType_via" id="anyType_via">
+					<input type="hidden" value="0" name="aufenthalt" id="aufenthalt">
+					<input type="hidden" value="5" name="ausstiegkm" id="ausstiegkm">
+					<input type="hidden" value="0" name="changeMOTSel" id="changeMOTSel">
+					<input type="hidden" value="1" name="convertCoord2LocationServer" id="convertCoord2LocationServer">
+					<input type="hidden" value="5" name="einstiegkm" id="einstiegkm">
+					<input type="hidden" value="50" name="elevFac" id="elevFac">
+					<input type="hidden" value="1" name="genEvMap" id="genEvMap">
+					<input type="hidden" value="1" name="inclMOT_0" id="inclMOT_0">
+					<input type="hidden" value="1" name="inclMOT_0_overlay" id="inclMOT_0_overlay">
+					<input type="hidden" value="3" name="inclMOT_1" id="inclMOT_1">
+					<input type="hidden" value="6" name="inclMOT_10" id="inclMOT_10">
+					<input type="hidden" value="8" name="inclMOT_11" id="inclMOT_11">
+					<input type="hidden" value="3" name="inclMOT_1_overlay" id="inclMOT_1_overlay">
+					<input type="hidden" value="2" name="inclMOT_3" id="inclMOT_3">
+					<input type="hidden" value="2" name="inclMOT_3_overlay" id="inclMOT_3_overlay">
+					<input type="hidden" value="4" name="inclMOT_5" id="inclMOT_5">
+					<input type="hidden" value="4" name="inclMOT_5_overlay" id="inclMOT_5_overlay">
+					<input type="hidden" value="5" name="inclMOT_7" id="inclMOT_7">
+					<input type="hidden" value="checkbox" name="includedMeans" id="includedMeans">
+					<input type="hidden" value="" name="itdLPxx_mapCentre" id="itdLPxx_mapCentre">
+					<input type="hidden" value="dep" name="itdTripDateTimeDepArr" id="itdTripDateTimeDepArr">
+					<input type="hidden" value="dep" name="itdTripDateTimeDepArrPopUp" id="itdTripDateTimeDepArrPopUp">
+					<input type="hidden" value="http://www2.vvs.de/bike/XSLT_TRIP_REQUEST2?language=de&amp;itdLPxx_netpathID=XXX" name="linkto" id="linkto">
+					<input type="hidden" value="locID" name="localityID_destination" id="localityID_destination">
+					<input type="hidden" value="PlaceName" name="locality_destination" id="locality_destination">
+					<input type="hidden" value="107" name="mot_destination" id="mot_destination">
+					<input type="hidden" value="107" name="mot_origin" id="mot_origin">
+					<input type="hidden" value="" name="nameDisplay_notVia" id="nameDisplay_notVia">
+					<input type="hidden" value="" name="nameDisplay_via" id="nameDisplay_via">
+					<input type="hidden" value="" name="nameMapName_notVia" id="nameMapName_notVia">
+					<input type="hidden" value="" name="nameMapName_via" id="nameMapName_via">
+					<input type="hidden" value="empty" name="nameState_notVia" id="nameState_notVia">
+					<input type="hidden" value="" name="nameX_notVia" id="nameX_notVia">
+					<input type="hidden" value="" name="nameX_via" id="nameX_via">
+					<input type="hidden" value="" name="nameY_notVia" id="nameY_notVia">
+					<input type="hidden" value="" name="nameY_via" id="nameY_via">
+
+					<input type="hidden" value="" name="name_via" id="name_via">
+					<input type="hidden" value="" name="locality_via" id="locality_via">
+
+					<input type="hidden" value="invalid" name="placeInfo_destination">
+					<input type="hidden" value="invalid" name="placeInfo_notVia">
+					<input type="hidden" value="invalid" name="placeInfo_origin">
+					<input type="hidden" value="invalid" name="placeInfo_via">
+					<input type="hidden" value="" name="placeOMC_destination" id="placeOMC_destination">
+					<input type="hidden" value="" name="placeOMC_notVia" id="placeOMC_notVia">
+					<input type="hidden" value="" name="placeOMC_origin" id="placeOMC_origin">
+					<input type="hidden" value="" name="placeOMC_via" id="placeOMC_via">
+					<input type="hidden" value="" name="place_notVia" id="place_notVia">
+					<input type="hidden" value="" name="place_via" id="place_via">
+					<input type="hidden" value="1" name="stateless" id="stateless">
+					<input type="hidden" value="" name="stateless_destination" id="stateless_destination">
+					<input type="hidden" value="" name="stateless_origin" id="stateless_origin">
+					<input type="hidden" value="15" name="trITArrMOTvalue101" id="trITArrMOTvalue101">
+					<input type="hidden" value="15" name="trITArrMOTvalue102" id="trITArrMOTvalue102">
+					<input type="hidden" value="15" name="trITDepMOTvalue101" id="trITDepMOTvalue101">
+					<input type="hidden" value="15" name="trITDepMOTvalue102" id="trITDepMOTvalue102">
+					<input type="hidden" value="invalid" name="typeInfo_destination" id="typeInfo_destination">
+					<input type="hidden" value="invalid" name="typeInfo_notVia" id="typeInfo_notVia">
+					<input type="hidden" value="invalid" name="typeInfo_origin"  id="typeInfo_origin">
+					<input type="hidden" value="invalid" name="typeInfo_via" id="typeInfo_via">
+					<input type="hidden" value="any" name="type_notVia" id="type_notVia">
+					<input type="hidden" value="any" name="type_via" id="type_via">
+				</div>
+				<div>
+					<input type="text" class="text" name="name_destination" id="rrpDestination" placeholder="Ziel" title="Eingabefeld f&uuml;r beliebigen Punkt">
+				</div>
+				<div class="efaButtons">
+					<button type="submit" name="efaSubmit" id="rrpSubmit" value="submit" class="button166">Anfordern</button>
+					<button type="button" name="efaHelp" id="rrpHelp" value="help" class="button26">?</button>
+				</div>
+			</form>
+			<!-- /Radroutenplaner -->
+			<!-- Ticketberater -->
+			<form action="/tickets/ticketberater/ticketberater/" method="get" id="tbForm" class="hide">
+				<div>
+					<input type="text" class="text" name="name_origin" id="tbOrigin" placeholder="von">
+				</div>
+				<div>
+					<input type="text" class="text" name="name_destination" id="tbDestination" placeholder="nach">
+				</div>
+				<div class="efaButtons">
+					<button type="submit" name="efaSubmit" id="tbSubmit" value="submit" class="button166">Anfordern</button>
+					<button type="button" name="efaHelp" id="tbHelp" value="help" class="button26">?</button>
+				</div>
+			</form>
+			<!-- /Ticketberater -->
+			<!-- Preisvergleich -->
+			<form action="rundum-mobil/preisvergleichsrechner/" method="get" id="pvForm" class="hide">
+				<div>
+					<input type="hidden" name="charsetConvert" value="ansi">
+					<input type="hidden" name="sessionID" id="pvSessionID" value="0">
+					<input type="hidden" name="requestID" id="pvRequestID" value="0">
+					<input type="hidden" name="SpEncId" id="pvSpEncId" value="0">
+					<input type="hidden" name="language" value="de">
+					<input type="hidden" name="locationServerActive" value="1">
+					<input type="hidden" name="command" id="command" value="">
+					<input type="hidden" name="execInst" id="pvExecInst" value="normal">
+					<input type="hidden" name="useRealtime" value="1">
+					<input type="hidden" name="ptOptionsActive" value="1">
+					<input type="hidden" name="illumTransfer" value="on">
+					<input type="hidden" name="itdLPxx_priceComparison" value="1">
+					<input type="hidden" name="itOptionsActive" value="1">
+					<input type="hidden" name="anySigWhenPerfectNoOtherMatches" value="1">
+					<input type="hidden" name="tryToFindLocalityStops" value="1">
+					<input type="hidden" name="tryToFindLocalityPOIs" value="1">
+					<input type="hidden" name="verifyAnyLocViaLocServer" value="1">
+					<input type="hidden" name="convertStopsPTKernel2LocationServer" value="1">
+					<input type="hidden" name="convertPOIsITKernel2LocationServer" value="1">
+					<input type="hidden" name="outputOptionsActive" value="1">
+					<input type="hidden" name="calcNumberOfTrips" value="1">
+					<input type="hidden" name="anyMaxSizeHitList" value="500">
+					<input type="hidden" name="anyObjFilter" value="">
+					<input type="hidden" name="coordListOutputFormat" value="STRING">
+					<input type="hidden" name="delMinDistTrips" value="1">
+					<input type="hidden" name="searchLimitMinutes" value="360">
+					<input type="hidden" name="itdTime" value="1600">
+					<input type="hidden" name="itdDate" value="20131104">
+					<input type="hidden" name="computeMonomodalTripCar" value="1">
+					<input type="hidden" name="speedFactorCar" value="100%">
+					<input type="hidden" name="costFactorCar" value="0%">
+					<input type="hidden" name="distanceFactorCar" value="10%">
+					<input type="hidden" name="traveltimeFactorCar" value="90%">
+					<input type="hidden" name="lineRestriction" value="403">
+					<input type="hidden" name="calculateCO2" value="1">
+					<input type="hidden" name="calculateDistance" value="1">
+					<input type="hidden" name="securityOptionsActive" value="1">
+					<input type="hidden" name="useElevationData" value="1">
+					<input type="hidden" name="type_origin" id="pvType_origin" value="any">
+					<input type="hidden" name="type_destination" id="pvType_destination" value="any">
+					<input id="pvETrackerSwitch" type="hidden" name="vvsETrackerSwitch"  value="1">
+					<input type="text" class="text" name="name_origin" id="pvOrigin" placeholder="von" title="Eingabefeld für beliebigen Punkt">
+				</div>
+				<div>
+					<input type="text" class="text" name="name_destination" id="pvDestination" placeholder="nach" title="Eingabefeld für beliebigen Punkt">
+				</div>
+				<div id="pvCars" class="efaRadio">
+					<input type="radio" class="radio" name="itdLPxx_carDescription" id="formVehicleSmall" title="Kleinwagen" value="SmallCars">
+					<label for="formVehicleSmall">Kleinwagen</label><br>
+					<input type="radio" class="radio" name="itdLPxx_carDescription" id="formVehicleMedium" checked="checked" title="Mittelklassewagen" value="MediumCars">
+					<label for="formVehicleMedium">Mittelklassewagen</label><br>
+					<input type="radio" class="radio" name="itdLPxx_carDescription" id="formVehicleTop" title="Obere Mittelklasse" value="LargeCars">
+					<label for="formVehicleTop">Obere Mittelklasse</label>
+				</div>
+				<div class="efaButtons">
+					<button type="submit" name="efaSubmit" id="pvSubmit" value="submit" class="button166">Anfordern</button>
+					<button type="button" name="efaHelp" id="pvHelp" value="help" class="button26">?</button>
+				</div>
+			</form>
+			<!-- /Preisvergleich -->
+		</div>
+		
+	
+								
+								
+							</div>
+						</div>
+
+						<div id="col3">
+							<div id="col3_content" class="clearfix">
+								<!--TYPO3SEARCH_begin-->
+									<div class="innerMain">
+										
+		<div id="ariadne"><p class="linkBlack"><a href="/datenschutz/">Datenschutz</a></p></div>
+	
+										<h1>VVS Datenschutzerklärung</h1>
+										
+
+	
+			<div class="contentBoxWrapper" id="c2428">
+				
+				
+					<p>Liebe Besucherinnen und Besucher von vvs.de, gerne möchten wir Sie über den Einsatz von Web-Analyse Methoden auf der Website des VVS und den damit zusammenhängenden Datenschutz informieren. Wir, der VVS, versichern Ihnen eine 100% datenschutzkonforme Erfassung und Verarbeitung der Daten. Deshalb setzten wir bei der Webstatistik auf die Verwendung von Piwik<span style="color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(245, 245, 245); display: inline !important; float: none;"></span>. <br /><br />Auf den Webseiten des VVS (vvs.de, Orange Seiten und Elektronische Fahrplanauskunft) wird eine Web-Analyse durchgeführt. Dabei messen wir u.a. welche Seiten wie oft und wie lange angesehen werden, wie von einer Seite zur anderen navigiert wird und von welchen Seiten die Anwender auf das VVS-Angebot kommen. Zudem werden einzelne Klicks gemessen, z.B. wie oft die Fahrplanauskunft genutzt wird. Diese Messungen dienen allerdings nicht dem Zweck Sie als Nutzer auszuspähen. Sie dienen ausschließlich der Erfolgsmessung, sowie der Verbesserung unseres Angebotes in Abstimmung auf Ihre Bedürfnisse.</p>
+				
+				
+			</div>
+		
+
+
+
+	
+			<div class="contentBoxWrapper" id="c2429">
+				
+					
+						
+							
+								
+									
+										<h2>Der VVS positioniert sich zum Datenschutz</h2>
+									
+
+									
+
+									
+
+									
+								
+							
+						
+					
+				
+				
+				
+			</div>
+		
+
+
+
+	
+			<div class="contentBoxWrapper" id="c2431">
+				
+					
+						
+							
+								
+									
+										<h2>Datenschutzerklärung und Widerspruch</h2>
+									
+
+									
+
+									
+
+									
+								
+							
+						
+					
+				
+				
+					<p>Auf dieser Website werden mit Technologien von Piwik (<a href="http://www.piwik.org/" title="Opens external link in new window" target="_blank" class="external-link-new-window">www.piwik.org</a>) Daten zu Marketing- und Optimierungszwecken gesammelt und gespeichert. Aus diesen Daten können unter einem Pseudonym Nutzungsprofile  erstellt werden. Hierzu können Cookies eingesetzt werden. Bei Cookies  handelt es sich um kleine Textdateien, die lokal im Zwischenspeicher des  Internet-Browsers des Seitenbesuchers gespeichert werden. Die Cookies  ermöglichen die Wiedererkennung des Internet-Browsers. </p>
+<p>Die mit den Piwik-Technologien erhobenen Daten werden ohne die  gesondert erteilte Zustimmung des Betroffenen nicht dazu benutzt, den  Besucher dieser Website persönlich zu identifizieren und nicht mit  personenbezogenen Daten über den Träger des Pseudonyms zusammengeführt.  Der Datenerhebung und -speicherung kann jederzeit mit der folgenden  Möglichkeit für die Zukunft widersprochen werden.</p>
+				
+				
+			</div>
+		
+
+<div id="c2432">
+	
+	<div class="piwikOptOut">
+<iframe src="//piwik.vvs.de/piwik/index.php?module=CoreAdminHome&action=optOut&language=de" height="180" width="100%" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div>
+
+	
+
+
+</div>
+
+
+	
+			<div class="contentBoxWrapper" id="c8271">
+				
+				
+					<p><span style="color: rgb(112, 112, 112); font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">Auf dieser Webseite wird der Google Tag Manager verwendet. Durch diesen Dienst können Website-Tags über eine Oberfläche verwaltet werden. Der Google Tool Manager implementiert lediglich Tags. Das bedeutet: Es werden keine Cookies eingesetzt und es werden keine personenbezogenen Daten erfasst. Der Google Tool Manager löst andere Tags aus, die wiederum ggf. Daten erfassen. Jedoch greift der Google Tag Manager nicht auf diese Daten zu. Wurde auf Domain- oder Cookie-Ebene eine Deaktivierung vorgenommen, so bleibt sie für alle Tracking-Tags bestehen, insofern diese mit dem Google Tag Manager implementiert werden.</span></p>
+				
+				
+			</div>
+		
+
+
+
+	
+			<div class="contentBoxWrapper" id="c2434">
+				
+					
+						
+							
+								
+									
+										<h2>Datenschutzfreundliche Einbindung des Gefällt-mir Buttons von Facebook</h2>
+									
+
+									
+
+									
+
+									
+								
+							
+						
+					
+				
+				
+					<p>Zum Schutz Ihrer Daten ist auf den Seiten des VVS der Gefällt-mir Button von Facebook in einer zweistufigen Lösung eingebunden: Über den ersten Klick auf den Button &quot;Auf Facebook teilen?&quot; wird der Button aktiviert und eine Verbindung zu den Facebook Servern wird aufgebaut. Anschließend können Sie über einen zweiten Klick auf den Gefällt-mir Button die Seite Ihren Freunden empfehlen.</p>
+<p>Über diese zweistufige Lösung findet ein Datenaustausch mit den Facebook-Betreibern erst mit Ihrer aktiven Zustimmung durch den ersten Klick auf den Button statt. Damit garantieren wir Ihnen einen erhöhten Schutz Ihrer Daten.</p>
+				
+				
+			</div>
+		
+
+									</div>
+								<!--TYPO3SEARCH_end-->
+							</div>
+							<div id="ie_clearing">&nbsp;</div>
+						</div>
+					</div>
+				</div>
+				<div id="footer">
+					<div class="footerContent">
+						
+		<a href="javascript:window.print();">Drucken</a><span>&#124;</span><a href="/impressum/">Impressum</a><span>&#124;</span><a href="/aeb/">AEB</a><span>&nbsp;</span><span class="toolbox-facebook-button"><a href="" rel="http://www.facebook.com/vvs" class="load-fb-button"><span>VVS Facebook Fanpage</span></a></span>
+	
+					</div>
+				</div>
+			</div>
+		
+<!-- Piwik From User Function --><script type='text/javascript'>var _paq = _paq || [];_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function() {var u='//piwik.vvs.de/piwik/';_paq.push(['setTrackerUrl', u+'piwik.php']);_paq.push(['setSiteId',4]);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);})();</script><noscript><p><img src='//piwik.vvs.de/piwik/piwik.php?idsite=4' style='border:0;' alt='' /></p></noscript><!-- End Piwik Code --><!-- kyok --><!-- 95 -->
+
+
+
+
+
+<script type="text/javascript" src="/typo3temp/vhs-assets-coo-fbj-jqr-jui-msc-odv-plh-vvsj-wdg.js?1496334685"></script>
+</body>
+</html>

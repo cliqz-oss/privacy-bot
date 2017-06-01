@@ -1,0 +1,453 @@
+Zum barrierefreien Online-Banking
+
+Online-Banking
+
+Bitte aktivieren Sie in Ihrem Browser die Ausführung von Javascript!  
+Mehr zu diesem Thema
+
+Suche
+
+parentpfad: \1\2\4\47486\47939\47943\999\  
+ONPUBLIX_PAGE_PARENTPATH: \1\2\4\47486\47939\47943
+
+  *     * Produkte
+    * Finanzkonzepte
+    * Unternehmen
+    * Online-Banking
+  * Unternehmen
+    * Unternehmensprofil
+    * Karriere
+    * Presse und Aktuelles
+    * Gut für die Region
+    * Nachhaltigkeit
+    * Rechtliches
+    * Partner
+  * Rechtliches
+    * AGB und Preise
+    * Datenschutz
+    * Impressum
+    * Offenlegung nach Basel III
+    * Offenlegung nach InstitutsVergV
+  * Datenschutz
+
+# Datenschutzerklärung
+
+## 1\. Gültigkeit der Datenschutzerklärung
+
+Diese Datenschutzerklärung gilt für alle von der Kreissparkasse Köln
+verantworteten Internetseiten. Unsere Internetseiten können jedoch Links zu
+fremden Unternehmen enthalten, auf die sich unsere Datenschutz-Erklärung nicht
+bezieht. Um die Einhaltung der Datenschutzerklärung zu gewährleisten, werden
+unsere Mitarbeiterinnen und Mitarbeiter auf das Bankgeheimnis und das
+Datengeheimnis nach § 5 Bundesdatenschutzgesetz (BDSG) verpflichtet und den
+jeweiligen Arbeitsanweisungen zu Datenschutz konformen Verhalten angewiesen.
+Die KSK Köln hat einen Datenschutzbeauftragten bestellt, der auf die
+Einhaltung der Vorschriften zum Datenschutz hinwirkt. Unsere
+Sicherheitsvorkehrungen entsprechen dem aktuellen Stand der Technik und werden
+bei Bedarf zeitnah an die neuen gesetzlichen oder technischen Gegebenheiten
+angepasst.
+
+## 2\. Protokollierung
+
+Bei jedem Besuch unserer Internetseiten werden folgende Zugriffsdaten
+automatisiert von Ihrem Browser übermittelt und in unseren Server-Log-Files
+gespeichert:  
+  
+• Namen der Datei sowie Datum und Uhrzeit der Anforderung,  
+• die Seite, von der aus die Datei angefordert wurde,  
+• die übertragene Datenmenge,  
+• der Zugriffsstatus (Datei übertragen, Datei nicht gefunden etc.),  
+• die Beschreibung des Typs des verwendeten Webbrowsers,  
+• die IP-Adresse des Clients,  
+• Cookies, die von der Anwendung gesetzt werden.  
+  
+  
+Darüber hinaus kommen sogenannte „Cookies“ oder Zählpixel Techniken zum
+Einsatz, die auf dem Rechner des Nutzers für die Zeitdauer der Session oder
+gegebenenfalls bei Einwilligung länger gespeichert werden. Eine Verknüpfung
+der Cookies bzw. der Zählpixel Technik mit den oben genannten Zugriffsdaten
+findet nicht ohne eine Einwilligung des Betroffenen statt.
+
+## 3\. Cookies
+
+Cookies sind kleine Textdateien, die auf Ihrem Rechner über den Browser
+abgelegt werden. Sie dienen der Erkennung zwischen Nutzer und Anbieter, um
+bestimmte Funktionen und Angebote technisch möglich zu machen. Eine Nutzung
+von Online-Banking ist ohne Cookies nicht möglich.  
+  
+Hauptsächlich verwenden wir temporäre „Session-Cookies“. Sie werden bei dem
+ersten Aufruf der Webseite gesetzt, um den Nutzer während der Session zu
+identifizieren. Nur so sind bestimmte Funktionen über alle Seiten der Webseite
+technisch möglich(z.B. die Anmeldung im Online-Banking).Session-Cookies werden
+beim Verlassen unseres Angebots automatisch entfernt. Permanente Cookies
+bleiben über die Session hinaus auf Ihrem Endgerät gespeichert. Sie werden
+nach einem Jahr gelöscht. Diese Cookies ermöglichen es uns, die von Ihnen
+getroffenen Einstellungen zu speichern und bei Ihrem nächsten Besuch der
+Webseite wieder zu laden (z.B. die persönliche Watchlist).  
+  
+Sie können die Verwendung von Cookies in den Einstellungen Ihres Browser
+unterbinden. Wir empfehlen die Nutzung von temporären Cookies, da Ihnen nur so
+alle Komfortfunktionen der Webseite zur Verfügung stehen.
+
+## 4\. Verwendung Ihrer personenbezogenen Daten
+
+Die personenbezogenen Daten, die Sie uns im Internet mitteilen (z.B. Ihr Name
+und Ihre Adresse oder Ihre E-Mail-Adresse), werden ausschließlich für die
+Korrespondenz mit Ihnen genutzt oder für den Zweck verarbeitet, für den Sie
+uns die Daten zur Verfügung gestellt haben. Eine Weitergabe der Daten an
+Dritte erfolgt nicht. Auftragnehmer einer Auftragsdatenverarbeitung nach § 11
+BDSG sind keine Dritten nach dem Bundesdatenschutzgesetz. Verantwortlich
+bleibt hier die KSK Köln.  
+Unberührt hiervon bleiben gesetzliche Verpflichtungen zur Weitergabe der Daten
+oder die Übermittlung aufgrund einer von Ihnen zuvor erteilten Einwilligung.
+
+## 5\. Verwendung von Piwik
+
+Auf dieser Website werden mit Technologien des Open-Source-Programms Piwik
+(http://de.piwik.org) Daten zu Marketing- und Optimierungszwecken gesammelt
+und gespeichert. Aus diesen Daten können nicht personengebundene
+Nutzungsprofile erstellt werden. Hierzu können Cookies eingesetzt werden. Die
+Cookies ermöglichen die Wiedererkennung des Internetbrowsers. Die mit den
+Piwik-Technologien erhobenen Daten werden ohne die gesondert erteilte
+Zustimmung des Betroffenen nicht dazu benutzt, den Besucher dieser Website
+persönlich zu identifizieren und nicht mit personenbezogenen Daten über den
+Träger des Nutzungsprofils zusammengeführt.
+
+Der Datenerhebung und -speicherung für Piwik können Sie jederzeit mit Wirkung
+für die Zukunft widersprechen, indem Sie den Opt-Out-Link nutzen. Durch die
+Nutzung des Links wird ein Cookie auf Ihrem System gespeichert. Solange Sie
+Ihren Widerspruch aufrechterhalten wollen, sollte dieser Cookie nicht gelöscht
+werden.
+
+Ihre Daten werden ab sofort nicht mehr gespeichert.
+
+## 6\. Ihre Rechte
+
+Gemäß § 34 BDSG können Sie Auskunft über die zu Ihrer Person gespeicherten
+Daten verlangen.
+
+## 7\. Öffentliches Verfahrensverzeichnis der Kreissparkasse Köln
+
+Öffentliches Verfahrensverzeichnis der Kreissparkasse Köln
+
+## 8\. Sichere Kommunikation im Internet
+
+Um zu verhindern, dass Unberechtigte Daten abfangen, umleiten oder inhaltlich
+zum Nachteil der Betroffenen verändern, setzen wir technische und
+organisatorische Sicherheitsmaßnahmen ein und schützen so Ihre Daten vor
+Manipulation und sonstigen Verfälschungen und Zerstörungen zu schützen. Die
+Sicherheitsmaßnahmen entsprechen den aktuellen technischen Standards. Um die
+Vertraulichkeit der laufenden Kommunikation mit Ihnen abzusichern, setzen wir
+in unserem gesamten Internetauftritt eine TLS-Verschlüsselung mit 256bit ein,
+die dem derzeit sichersten Verschlüsselungsstandard entspricht. Um sicher zu
+sein, dass auch der von Ihnen verwendete Browser diesen Sicherheitsstandard
+erfüllt, empfehlen wir die regelmäßige Aktualisierung Ihres Browsers.
+
+### Sie haben Fragen zum Datenschutz?
+
+Bei weitergehenden Fragen wenden Sie sich bitte an den Datenschutzbeauftragten
+der Kreissparkasse Köln. Diesen können Sie  unter den nachstehenden
+Kontaktdaten erreichen oder eine Nachricht senden.
+
+Ansprechpartner
+
+Anschrift
+
+Telefon  
+  
+Frank-Stephan Esch  
+(Datenschutzbeauftragter)
+
+Neumarkt 18-24  
+50667 Köln
+
+0221 227-3655  
+  
+Stand 29.08.2016
+
+  * Impressum
+  * AGB
+  * Datenschutz
+  * Sicherheit
+  * Standorte
+  * Hilfe
+  * Sofort-Chat
+
+  * Facebook
+  * Twitter
+  * Google+
+  * XING
+  * YouTube
+  * RSS
+  * Newsletter
+  * PodCast
+
+  * © 2017 Kreissparkasse Köln 
+  * BLZ: 370 502 99
+  * BIC: COKSDE33XXX
+
+  * Produkte
+
+    * Girokonten
+      * zurück
+      * Girokonten
+      * Konten
+      * Karten
+      * Elektronisches Bezahlen
+      * Internationaler Zahlungsverkehr
+      * ReiseService
+    * Geldanlagen
+      * zurück
+      * Geldanlagen
+      * Tagesgelder
+      * Sparkonten
+      * Sparpläne
+      * Wertpapiere
+      * Edelmetalle und Münzen
+      * Vermögensverwaltung
+      * Altersvorsorge
+    * Finanzierungen
+      * zurück
+      * Finanzierungen
+      * Kredite auf Girokonten
+      * Ratenkredite
+      * Baufinanzierungen
+      * Investitionsdarlehen
+      * Förderkredite
+      * Leasing
+      * Existenzgründungsfinanzierungen
+      * Fremdwährungskredite
+      * Avale und Bürgschaften
+      * Sonderfinanzierungen
+    * Wertpapiere
+      * zurück
+      * Wertpapiere
+      * Marktüberblick
+      * Verzinsliche Wertpapiere
+      * Investmentfonds
+      * Aktien
+      * Anlage in Sachwerten
+      * Rohstoffe
+      * Innovative Wertpapiere
+      * Depot und Brokerage
+      * Vermögensverwaltung
+      * Verwahrstelle
+    * Versicherungen
+      * zurück
+      * Versicherungen
+      * Rente und Altersvorsorge
+      * Leben
+      * Berufsunfähigkeit
+      * Gesundheit und Pflege
+      * Haftpflicht
+      * Hausrat und Gebäude
+      * Rechtsschutz
+      * Unfall
+      * Fahrzeug
+      * Kreditabsicherung
+    * Immobilien
+      * zurück
+      * Immobilien
+      * Immobiliensuche
+      * Immobilienverkauf
+      * Immobilienfinanzierung
+      * Bauträger- und Projektfinanzierung
+      * Immobilienversicherung
+      * Dienstleistungen
+    * Services
+      * zurück
+      * Services
+      * Service-Garantien
+      * SEPA
+      * Online-Extras
+      * Spenden
+      * Unternehmensnahe Services
+      * s-points
+      * Rechner und Vordrucke
+      * s-Kick
+      * SB-Kontenverbund
+      * S-Urlaub
+      * Wunsch-PIN Sparkassen-Karten
+  * Finanzkonzepte
+
+    * Privatkunden
+    * Firmenkunden
+    * Freie Berufe
+    * Junge Kunden
+    * Studenten
+    * Existenzgründer
+    * Institutionen
+    * Kommunen
+  * Unternehmen
+
+    * Unternehmensprofil
+      * zurück
+      * Unternehmensprofil
+      * Vorstand
+      * Überblick/Zahlen
+      * Standorte und Ansprechpartner
+      * Einlagensicherheit
+      * Investor Relations
+      * Anregung/Meinung
+      * Soziale Netzwerke
+    * Karriere
+      * zurück
+      * Karriere
+      * Ihr Arbeitgeber KSK
+      * Aktuelle Stellenangebote
+      * Ausbildung
+      * Schülerpraktikum
+      * Weiterentwicklung
+      * Gesundheitsmanagement
+      * Unsere Leistungen
+      * Bewerben
+    * Presse und Aktuelles
+      * zurück
+      * Presse und Aktuelles
+      * Pressemitteilungen
+      * Wirtschaftskommentare
+      * Veranstaltungen
+      * Newsletter
+      * Videos
+      * RSS-Nachrichten
+      * Nachrichtenticker
+    * Gut für die Region
+      * zurück
+      * Gut für die Region
+      * Förderung von Vereinen
+      * Gut für Vereine
+      * Gut für die Jugend
+      * Gut für den Sport
+      * Kulturförderung
+      * Stiftungen der KSK
+      * Gemeinden und Städte
+    * Nachhaltigkeit
+    * Rechtliches
+      * zurück
+      * Rechtliches
+      * AGB und Preise
+      * Datenschutz
+      * Impressum
+      * Offenlegung nach Basel III
+      * Offenlegung nach InstitutsVergV
+    * Partner
+      * zurück
+      * Partner
+      * Tochterunternehmen
+      * Partnerunternehmen
+      * Unterschriftenverzeichnis
+      * Vertriebspartnerplattform
+      * Online-Nachricht
+      * s-points-Kooperationspartner
+
+  * Schnelleinstieg
+
+    * Finanzstatus
+    * Überweisung
+    * Umsätze
+    * Sammellastschrift
+    * Wertpapierorder
+    * Postkorb
+    * Handy laden
+  * Übersicht
+
+    * Funktionen
+    * Brokerage
+    * Mobile-Banking
+    * Barrierefreies Banking
+    * Telefon-Banking
+    * Softwarelösungen
+    * Chipkartenleser
+  * Sicherheit
+
+    * Aktuelle Warnhinweise
+    * Empfehlungen
+  * paydirekt
+
+    * Registrieren
+  * Hilfe
+
+  * Freischalten
+
+  * Login
+
+Kreissparkasse Köln
+
+0221 227-0
+
+  * Termin
+  * Nachricht
+
+Filiale suchen
+
+Online-Banking-Experten
+
+0221 227-4200
+
+24 h
+
+Hilfe
+
+Sperrnotruf
+
+116 116
+
+24 h
+
+Alle Rufnummern
+
+Kunde werden
+
+Häufig aufgerufene Seiten
+
+  * Unternehmen
+    * Vorstand
+    * Auszeichnungen
+    * Veranstaltungen
+    * Ausbildung Sparkasse
+    * Stellenangebote
+    * Pressemitteilungen
+    * Vertriebspartner
+  * Wünsche
+    * Hypothekendarlehen
+    * Karte FC-Card
+    * VL-Sparen
+    * Privatkredit
+    * Sparplan
+    * Kreditkarte beantragen
+    * Festgeldanlage
+  * Angebote
+    * Sparbrief
+    * PS-Sparen
+    * Günstige Baufinanzierung online
+    * Modernisierungsdarlehen
+    * Auto leasen
+    * Fahrzeugfinanzierung
+    * Anschlussdarlehen
+  * Konten
+    * Onlinekonto
+    * S-GiroClassic
+    * S-GiroPlus
+    * Studentenkonto
+    * Jugendkonto
+    * Geschäftskonto
+    * S-Rücklagenkonto
+    * Fremdwährungskonto
+  * Online-Extras
+    * Baufinanzierungsrechner
+    * Online Banking
+    * Videos
+    * Kreditrechner
+    * Online-Beratung
+    * Handy laden
+    * Kreditkartenabrechnung 
+    * Newsletter abonnieren 
+  * Top-Produkte
+    * Geld anlegen
+    * Günstiger Autokredit
+    * ec-Terminal
+    * Altersvorsorge
+    * Kleinkredit
+    * Sparkonto
+    * Persönliche Vermögensberatung
+

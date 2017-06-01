@@ -1,0 +1,857 @@
+Navigation
+
+  * Home
+  * Ticker
+  * Video
+  * Audio
+
+Top-Themen:
+
+  * Computex 2017
+  * Quantencomputer
+  * Security
+  * Apple
+  * Auto
+  * Microsoft
+  * mehr…
+    * Nvidia
+    * Smartphone
+    * Flugzeug
+    * Vectoring
+    * Raumfahrt
+    * Netzpolitik
+    * Limux
+    * Telekom
+    * Playstation VR
+    * Nintendo Switch
+    * AdBlocker
+    * Wikileaks
+    * Amazon
+    * Golem retro_
+    * Facebook
+    * iPhone 7
+    * Google
+    * Samsung
+    * BMW
+    * Android 7.0
+    * NSA
+    * Playstation 4
+    * Windows 10
+    * VR
+    * Test
+    * Super Mario Run
+    * Netflix
+    * Anleitung
+    * IoT
+    * Drohne
+    * Open Source
+    * Linux
+    * Foto
+    * Android
+    * Galaxy S8
+
+Suchbegriffe:
+
+Abo
+
+  * Services:
+  *   *   *   *   * 
+
+Anzeige
+
+Golem pur
+
+  * Golem.de ohne Werbung nutzen
+  * Mehrseitige Artikel auf einer Seite lesen
+  * RSS-Volltext-Feed fur Artikel
+  * Ab 2,50€ im Monat
+
+# Datenschutz
+
+#### Artikel
+
+  1. ### Liefery
+
+## Erratbare Trackingnummern bei Versand-Startup
+
+Die meisten Lieferservices erlauben ihren Kunden heutzutage, den Status von
+Sendungen online abzufragen. Bei Liefery waren die zugehörigen Sendungsnummern
+sehr kurz - und ließen sich trivial erraten.
+
+01.06.201717 Kommentare
+
+Videos zum Thema Datenschutz
+
+  
+  
+  * Netgear RN 420 Series - Produkttrailer
+  * My Friend Cayla (Herstellervideo)
+  * Tenant Assured (Herstellervideo)
+  * Snowden - Kinotrailer
+  * Tanktaler ausprobiert
+  * Luftschiff Stratobus - Thales Alenia
+  * Wie sicher sind Fluggastdaten - Interview
+  * Privacy-Boxen angesehen
+  * Politik auf der Apple-Keynote - Statement uber Datenschutz
+  * Obama unterzeichnet Judicial Redress Act
+  * Access to data and your car - Herstellervideo
+  * Democracy - Im Rausch der Daten - Webtrailer
+  * Sociax - Werbevideo fur die iOS-App
+  * Sociax - Prasentationsvideo der Entwickler
+  * Anonabox bei Indiegogo
+  * Kinko-Box ausprobiert
+  * Kinko verschlusselt E-Mails automatisch
+  * Terrorbyte - Interview
+  * Peter Schaar - Interview
+  * Bilder der Piratendrohne
+  * Watch Dogs - Trailer (Hide-App fur Smartphones)
+
+  1. ### Anhorung im Bundestag
+
+## Beim Staatstrojaner geht es den Experten ums Ganze
+
+Im Streit um den Einsatz von Staatstrojanern stehen sich IT-Experten und
+Strafverfolger unversöhnlich gegenüber. Während die Polizei im Bundestag vor
+dem "Going dark" warnt, befürchtet der CCC eine weltweite Gefährdung von IT-
+Systemen.  
+Ein Bericht von Friedhelm Greis
+
+31.05.201731 Kommentare
+
+  2. ### Datenschutz
+
+## Facebook muss Konto Verstorbener nicht an Eltern freigeben
+
+So verständlich der Wunsch der Eltern rein menschlich erscheinen mag - sie
+haben laut einem Urteil kein Recht, nach Gründen für den Tod ihres Kindes in
+dessen Facebook-Konto zu suchen.
+
+31.05.201754 Kommentare
+
+Anzeige
+
+  1. ### Netgear RN426 und RN428
+
+## BTRFS und vier Ethernet-Ports stecken in Buro-NAS
+
+Netgears neue RN400-NAS-Systeme sind komplett auf Datensicherheit ausgelegt.
+Dafür sorgen das BTRFS-Dateisystem und vom Hersteller integrierte Funktionen.
+Eine davon: das Readynas OS in Version 6.7 inklusive Virenschutz.
+
+31.05.201718 KommentareVideo
+
+  2. ### Tatigkeitsbericht
+
+## Voßhoff weiter unzufrieden mit Geheimdienstkontrolle
+
+Deutschlands oberste Datenschützerin will im Auftrag der Bürger den
+Geheimdiensten auf die Finger sehen. Doch nach Ansicht Voßhoffs wird ihr das
+weiterhin zu schwer gemacht.
+
+30.05.201714 Kommentare
+
+  3. ### FTP-Client
+
+## Filezilla bekommt ein Master Password
+
+Nach Jahren vergeblichen Bittens durch die Community bekommen Nutzer des FTP-
+Clients Filezilla endlich die Möglichkeit, ihre Passwörter für FTP-Zugänge mit
+einem Master Password zu verschlüsseln.
+
+27.05.201768 Kommentare
+
+  1. ### Überwachung
+
+## Wikipedia darf nun doch die NSA verklagen
+
+Erfolg im zweiten Anlauf: Ein US-Berufungsgericht hält eine Klage der
+Wikipedia gegen die Massenüberwachung des Internets durch den US-Geheimdienst
+NSA für zulässig. Andere Organisationen sind erneut gescheitert.
+
+24.05.20175 Kommentare
+
+  2. ### Wohnungseinbruche
+
+## Koalition verteidigt erweiterte Vorratsdatenabfrage
+
+Bei allen Einbruchsdelikten soll die Polizei künftig Funkzellen- und
+Standortdaten abfragen dürfen. Während die Grünen die erweiterte
+Vorratsdatenabfrage kritisierten, verteidigten Union und SPD die Pläne im
+Bundestag.
+
+19.05.201746 Kommentare
+
+  3. ### Große Koalition II
+
+## Großflachige Nutzung von Passfotos geplant
+
+Der ehemalige Bundesdatenschutzbeauftragte Peter Schaar warnt vor einer
+"datenschutzrechtlichen Ungeheuerlichkeit". Dahinter verbergen sich Pläne der
+Koalition, vielen Behörden den automatisierten Zugriff auf digitalisierte
+Passfotos zu erlauben.
+
+17.05.201773 Kommentare
+
+  1. ### Große Koalition I  
+
+## Großflachiger Einsatz von Staatstrojanern geplant
+
+Auf den letzten Metern der Legislaturperiode will die große Koalition noch die
+Sicherheitsgesetze verschärfen. Der Polizei soll der Einsatz von
+Staatstrojanern in vielen Fällen erlaubt werden.  
+Ein Bericht von Friedhelm Greis
+
+17.05.2017236 Kommentare
+
+  2. ### BGH-Urteil
+
+## Datenschutz gilt auch fur dynamische IP-Adressen
+
+Im jahrelangen Streit zwischen dem Piratenpolitiker Patrick Breyer und der
+Bundesregierung hat der BGH nun entschieden. Doch mit dem Urteil geht der
+Prozess in eine neue Runde.
+
+16.05.201746 Kommentare
+
+  3. ### Executive Order
+
+## Trump fordert viele Cybersecurity-Berichte an
+
+Deutlich später als geplant hat Donald Trump eine Executive Order zum Thema
+IT-Sicherheit unterzeichnet. Darin fordert er 18 verschiedene Berichte an,
+ändert an der Politik seines Vorgängers aber nur wenig.
+
+12.05.20171 Kommentar
+
+  1. ### Cloud-Anbieter
+
+## Vorratsdatenspeicherung as a Service
+
+Wenige Wochen vor Beginn der anlasslosen Vorratsdatenspeicherung gibt es
+offenbar Bewegung auf dem Markt. Vor allem kleinere Provider dürften die
+Speicherpflicht auslagern wollen.
+
+12.05.201714 Kommentare
+
+  2. ### Yahoo
+
+## BSI fordert mehr Kooperation bei Security-Vorfallen
+
+Das Bundesamt für Sicherheit in der Informationstechnik hat Yahoo kritisiert,
+weil das Unternehmen nicht mit den deutschen Behörden kooperiere. Auch
+internationale Unternehmen sollten kooperieren, wenn deutsche Staatsbürger von
+Security-Vorfällen betroffen sind.
+
+11.05.20174 Kommentare
+
+  3. ### Messenger
+
+## Whatsapp fuhrt verschlusselte iCloud-Backups ein
+
+Whatsapp sichert die Daten der Nutzer weiter ab: Die Backups von iPhone-
+Nutzern werden ab sofort verschlüsselt. Wie es mit Android aussieht, ist
+derzeit noch unklar.
+
+10.05.201713 Kommentare
+
+  1. ### Bundesregierung
+
+## Polizei darf Vorratsdaten kunftig bei Einbruchen abfragen
+
+Es tritt ein, wovor Kritiker der Vorratsdatenspeicherung immer gewarnt haben:
+Die Bundesregierung will die Liste der Delikte verlängern, bei denen
+Kommunikations- und Standortdaten abgefragt werden dürfen.
+
+10.05.2017249 Kommentare
+
+  2. ### Spionagevorwurf
+
+## Cayla-Hersteller scheitert mit Antrag gegen BNetzA
+
+Ist eine Pressemitteilung existenzgefährdend? Das Verwaltungsgericht Köln fand
+dies im Fall des umstrittenen Verbots der Puppe Cayla nicht. Im
+Hauptsacheverfahren soll es um die Gesetzmäßigkeit des Verbots selbst gehen.
+
+09.05.20179 KommentareVideo
+
+  3. ### Single Sign-on
+
+## Daimler und Springer wollen Generalschlussel furs Internet
+
+Mit einem Generalschlüssel fürs Internet meint eine Allianz deutscher
+Unternehmen keine Backdoor in Krypto, sondern ein Single-Sign-on-Verfahren.
+Dies soll besonders sicher sein, technische Details gibt es bislang aber
+nicht.
+
+08.05.201748 Kommentare
+
+  4. ### Visa
+
+## US-Regierung will doch keine Passworter mehr haben
+
+Wer in die USA einreist, soll seine Passwörter also doch für sich behalten
+dürfen: Das US-Außenministerium hat erstmals eine schriftliche Version der
+geplanten Regeln veröffentlicht. Diese bleibt hinter vollmundigen
+Ankündigungen von Regierungsmitarbeitern zurück.
+
+08.05.201738 Kommentare
+
+  5. ### Fernsehwerbung
+
+## 230 Android-Apps unterstutzen Tracking per Ultraschall
+
+Die Anzahl an Apps die Ultraschall-Tracking von Werbekonsumenten unterstützen,
+nimmt offenbar rasant zu. Mehr als 200 Apps unterstützen das umstrittene
+Verfahren, im vergangenen Jahr waren es erst sechs. Ein bisschen Entwarnung
+gibt es: Bislang unterstützt kein Fernsehsender in Europa das Verfahren.
+
+05.05.201765 Kommentare
+
+  6. ### Phishing  
+
+## Bosartige Google-Docs-Einladungen kopieren Kontakte
+
+Wer heute eine Einladung für ein Google-Docs-Dokument bekommen hat, sollte
+dieser auf keinen Fall Folge leisten - denn es dürfte sich in den meisten
+Fällen um eine Phishing-Kampagne handeln. Wer klickt, gibt seine Kontakte frei
+und bekommt Scareware-Anzeigen. Die Macher scheinen vom Erfolg überrascht.
+
+03.05.201710 Kommentare
+
+  7. ### Gesichtserkennung
+
+## Programmierer veroffentlicht Bilder aus Tinder auf Kaggle
+
+Tinder-Bilder sind kein Match für Gesichtserkennung: Ein Programmierer aus den
+USA hat sich mehrere Zehntausend Bilder aus der Dating-App Tinder beschafft.
+Er hat sie ins Netz gestellt, damit Algorithmen für die Gesichtserkennung
+daran trainiert werden können.
+
+02.05.201738 Kommentare
+
+  8. ### Analysepapier
+
+## Facebook berichtet offiziell von staatlicher Desinformation
+
+Auf Facebook versuchen verschiedene Regierungen, auf die öffentliche Meinung
+Einfluss zu nehmen - das hat das soziale Netzwerk nun erstmals in einem
+Bericht eingeräumt. Gleichzeitig betont Facebook, dass es gegen derartige
+Machenschaften konsequent vorgehe.
+
+29.04.201763 Kommentare
+
+  9. ### Onlinelexikon
+
+## Turkische Behorden sperren Zugang zu Wikipedia
+
+In der Türkei können Onlinenutzer nicht mehr auf das Internetlexikon Wikipedia
+zugreifen. Aktivisten zufolge ist der Zugang von den Behörden gesperrt worden,
+ohne einen Gerichtsbeschluss als Grundlage zu haben. Die Sperre betreffe alle
+Spracheditionen der Wikipedia.
+
+29.04.2017129 Kommentare
+
+  10. ### Bluetooth-Kopfhorer
+
+## Bose will Opt-out aus Datenspeicherung anbieten
+
+Bose-Nutzer sollen ihre Musikvorlieben künftig nicht mehr mit dem Hersteller
+teilen müssen - die Connect-App soll eine entsprechende Opt-out-Regelung
+bekommen. Die bislang gesammelten Daten will Bose nicht verkauft haben.  
+Von Hauke Gierow
+
+28.04.20177 KommentareVideo
+
+  11. ### Datenschutzverordnung im Bundestag
+
+## "Fur uns ist jeden Tag der Tag der inneren Sicherheit"
+
+Zwischen "Verwässerung" und "Meilenstein" war in der Debatte alles dabei: Der
+Deutsche Bundestag hat das Gesetz zur Umsetzung der EU-
+Datenschutzgrundverordnung beschlossen. Ein CSU-Politiker machte dabei
+deutlich, wo die Prioritäten seiner Fraktion liegen.
+
+27.04.20171 Kommentar
+
+  12. ### Elektronischer Personalausweis
+
+## Das tote Pferd soll auferstehen
+
+Was ist eigentlich diese eID? Kaum jemand nutzt die Onlinefunktion des
+Personalausweises. Die Regierung will das ändern und sie verpflichtend
+aktivieren. Datenschützer kritisieren das, die Regierung verschiebt daraufhin
+die Abstimmung über das Gesetz.  
+Von Eike Kühl
+
+26.04.2017174 KommentareVideo
+
+  13. ### Cisco
+
+## Kontrollzentrum verwaltet Smartphones im Unternehmen
+
+Datenverkehr und Verbrauch überwachen: Ciscos Jasper Control Center for Mobile
+Enterprise verwaltet Smartphones und Tablets in Unternehmen. Darüber lassen
+sich zentral Mobilfunktarife und das Nutzungsverhalten von Mitarbeitern
+einsehen.
+
+25.04.20172 Kommentare
+
+  14. ### Datenschutz
+
+## Facebook erhalt weiterhin keine Whatsapp-Daten
+
+Auch das Hamburger Verwaltungsgericht weiß noch nicht, ob im Streit zwischen
+Facebook und den Datenschutzbehörden deutsches Datenschutzrecht anzuwenden ist
+- oder irisches. Facebook darf weiterhin keine Daten deutscher Whatsapp-Nutzer
+verwenden - verrät aber einiges über die Pläne der Datennutzung.
+
+25.04.20178 Kommentare
+
+  15. ### Amazon
+
+## Phishing-Kampagne kodert mit Datenschutzgrundverordnung
+
+Angebliche von Amazon versendete Mails sind derzeit häufig im E-Mail-Postfach
+zu finden. Nach gefälschten Umsatzsteuerrechnungen gibt es neuerdings eine
+Phishing-Kampagne, die Nutzer ausgerechnet unter Verweis auf die EU-
+Datenschutzverordnung zur Preisgabe persönlicher Daten bringen will.
+
+24.04.20170 Kommentare
+
+  16. ### Internetdienste
+
+## VZBV fordert Kontrolle von Algorithmen
+
+Wie entscheidet ein Computer? Die Verbraucherzentralen fordern eine
+unabhängige Instanz, die Algorithmen überprüft, die Entscheidungen für einen
+Nutzer treffen, etwa bei der Stellenauswahl.
+
+24.04.201714 Kommentare
+
+  17. ### Suchmaschinen
+
+## Internet Archive will kunftig Robots.txt-Eintrage ignorieren
+
+Das Archiv des Internets will der Robots.txt-Datei einer Webseite künftig
+keine Bedeutung mehr beimessen. Der Schritt sei notwendig, weil die Datei
+einer echten Archivierung des Internets aus Nutzersicht entgegenstehe,
+schreiben die Macher.
+
+24.04.2017138 Kommentare
+
+  18. ### Privatsphare
+
+## Bildungsrechner spionieren Schuler aus
+
+Computer in der Schule können den Schülern beim Lernen helfen. Sie spionieren
+die Schüler aber auch aus, wie die US-Bürgerrechtsorganisation EFF
+herausgefunden hat.
+
+22.04.201743 Kommentare
+
+  19. ### Datenschutzreform
+
+## EU-Kommission lehnt deutschen Sonderweg ab
+
+Bei der Umsetzung der EU-Datenschutzverordnung will die große Koalition
+möglichst viele Öffnungsklauseln ausnutzen. Das gefällt Brüssel
+erwartungsgemäß gar nicht.
+
+21.04.20178 Kommentare
+
+  20. ### Digitaler finaler Rettungsschuss
+
+## Regierung will bei IT-Angriffen zuruckschlagen
+
+Was andere Staaten angeblich können, soll auch für Deutschland möglich werden.
+Sicherheitsbehörden sollen Angriffe auf IT-Systeme aktiv abwehren und Server
+im Ausland "zerstören" dürfen.
+
+20.04.201730 Kommentare
+
+  21. ### Bluetooth  
+
+## Bose-Kopfhorer spionieren Vorlieben der Nutzer aus
+
+Kabellose Kopfhörer sind praktisch, im Falle von Bose aber ein Risiko für die
+Privatsphäre der Nutzer. Der Kopfhörerhersteller würde Informationen über
+übertragene Songs illegal speichern - so argumentieren jedenfalls mehrere
+Kläger in den USA. Bose widerspricht.
+
+19.04.201732 KommentareVideo
+
+  22. ### Andrea Voßhoff
+
+## Keine Einwande gegen Gesichtserkennungstest in Berlin
+
+Die deutschen Datenschützer haben große Bedenken gegen einen flächendeckenden
+Einsatz von Gesichtserkennungssoftware in Bahnhöfen. Tests zu deren
+Vorbereitung findet die Bundesdatenschutzbeauftragte Andrea Voßhoff hingegen
+akzeptabel.
+
+16.04.201714 Kommentare
+
+  23. ### Shadowbrokers
+
+## NSA-Exploits fur Windows als Ostergeschenk
+
+Die Gruppe Shadowbrokers veröffentlicht zahlreiche NSA-Exploits und
+Informationen über einen Hack des Swift-Banksystems Eastnets durch den US-
+Geheimdienst. Anders als beim letzten Mal sind viele der Exploits recht
+aktuell und können Windows-Systeme angreifen.
+
+15.04.201751 Kommentare
+
+  24. ### Bundesverfassungsgericht
+
+## Vorratsdatenspeicherung lasst sich vorerst nicht stoppen
+
+In Karlsruhe sind zum wiederholten Male Eilanträge gegen die
+Vorratsdatenspeicherung gescheitert. Nun müssen die Provider die Technik
+installieren, obwohl das Gesetz wenig später im Hauptverfahren einkassiert
+werden könnte.
+
+13.04.201727 Kommentare
+
+  25. ### Datenschutzbeauftragte
+
+## Wirre Whatsapp-Behauptungen aus Berlin
+
+Äußerungen von Politikern zur Verschlüsselung von Whatsapp lösen immer wieder
+Kopfschütteln aus. Dieses Mal will die Berliner Datenschutzbeauftragte den
+Einsatz von Whatsapp an Schulen untersagen - und spricht ohne Quelle von
+Lücken in der Verschlüsselung.  
+Eine Analyse von Hauke Gierow
+
+13.04.2017295 Kommentare
+
+  26. ### Gezielte Werbung  
+
+## Deutsche Post testet Gesichtserkennung in Filialen
+
+Die Werbung in den Warteschlangen von Postfilialen soll personalisierter
+werden. Die verwendete Gesichtserkennungssoftware ist umstritten, auch wenn
+sie Menschen nicht identifiziert.
+
+12.04.201771 Kommentare
+
+  27. ### Trutzbox Apu 2 im Test
+
+## Gute Privacy-Box mit kleiner Basteleinlage
+
+Auch die zweite Version der Trutzbox überzeugt im Test - selbst wenn wir
+Kleinigkeiten bei der Einrichtung zu bemängeln haben. Letztlich ist das Gerät
+ein umfassender Heimserver mit einfacher Konfiguration. Für das WLAN müssen
+die Nutzer Hand anlegen.  
+Ein Test von Hauke Gierow
+
+12.04.201784 KommentareVideo
+
+  28. ### Datenschutzer Caspar  
+
+## Einigung uber Datenweitergabe von Whatsapp "weit entfernt"
+
+Noch immer verhandeln die EU und Whatsapp über die Weitergabe von Nutzerdaten
+an den Mutterkonzern Facebook. Hamburgs Datenschützer Caspar widerspricht
+seiner irischen Kollegin energisch.
+
+12.04.20174 Kommentare
+
+  29. ### Datenschutz  
+
+## Ask.com zeigt auf Apache-Statusseite Suchanfragen an
+
+Der Suchmaschinenbetreiber Ask.com gibt mehr Informationen preis, als er
+eigentlich sollte: Auf einer Apache-Statusseite lassen sich zahlreiche
+Suchanfragen von Nutzern verfolgen. Seit einem Monat hat das Unternehmen nicht
+auf die Fehlermeldung reagiert.  
+Von Hauke Gierow
+
+07.04.201725 KommentareVideo
+
+  30. ### Windows 10
+
+## Microsoft verrat, welche Daten gesammelt werden
+
+Microsoft hat erstmals sehr detailliert darüber Auskunft gegeben, welche
+Nutzerdaten Windows 10 sammelt. Mit dem aktuellen Creators Update erhalten
+Anwender mehr Einstellungsoptionen, um das zu verringern.
+
+06.04.2017138 Kommentare
+
+  31. ### Handy-Kontakte und Passworter
+
+## USA konnten Einreisekontrollen drastisch verscharfen
+
+Die von US-Präsident Donald Trump versprochenen "extremen Einreisekontrollen"
+könnten für Besucher der USA sehr unangenehm werden. Ob sie auch für deutsche
+Staatsbürger gelten, ist noch unklar.
+
+05.04.201764 Kommentare
+
+  32. ### Internet of Things
+
+## Dildos sollen smart sein durfen
+
+Wie mit Sicherheitslücken in Dildos umgehen? Alle smarten Geräte wegschmeißen?
+Das Internet of Things verbieten? Nein. Dildos sollten smart sein dürfen - und
+sicher sein.  
+Ein IMHO von Hauke Gierow
+
+05.04.2017126 KommentareVideo
+
+  33. ### WLAN-Storerhaftung
+
+## Regierung schlagt Sperrliste gegen Rechtsverstoße vor
+
+Schneller als erwartet hat sich die Regierung auf den neuen Entwurf zur WLAN-
+Störerhaftung geeinigt. Behörden sollen nun die Möglichkeit bekommen, Hotspots
+vorübergehend abzuschalten.  
+Ein Bericht von Friedhelm Greis
+
+05.04.201766 Kommentare
+
+  34. ### Cryptowars
+
+## Ahnungslose EU-Kommissarin redet uber Whatsapp-Daten
+
+EU-Justizkommissarin Vera Jourová will der Polizei ermöglichen, leichter
+Zugang zu Daten von Internetdienstleistern wie Whatsapp zu erhalten. Aber
+welche Daten? Die etwas konfuse Pressekonferenz der Kommissarin zeigt, wie
+wichtig technisches Verständnis bei Politikern ist.  
+Eine Analyse von Jan Weisensee
+
+03.04.201771 KommentareVideo
+
+  35. ### Gesichtserkennung
+
+## FBI sammelt anlasslos Fotos von US-Burgern
+
+Für seine neue biometrische Datenbank hat das FBI bereits Fotos von fast der
+Hälfte der US-Bevölkerung eingesammelt - ohne deren Einwilligung. Die
+Gesichtserkennung stieß auf scharfe Kritik in einer Anhörung im US-
+Repräsentantenhaus.
+
+29.03.201731 Kommentare
+
+* * *
+
+  1. Seite: 
+  2. 1
+  3. 2
+  4. 3
+  5. 4
+  6. 5
+  7. 6
+  8. 7
+  9. 8
+  10. 9
+  11. 10
+  12. 11
+  13. 12
+  14. …
+  15. 52
+
+Anzeige
+
+* * *
+
+Gesuchte Artikel
+
+  1. Diascanner
+
+Rollei fotografiert Vorlagen mit 3.600 dpi in 2 Sekunden
+
+Der Diascanner Rollei DF-S 190 SE ist eine 9-Megapixel-CMOS-Kamera in einem
+Gehause und besitzt den richtigen Abstand zu einem Dia oder einem Negativ, um
+es bildfullend abzulichten. Dadurch soll die Bilderfassung wesentlich
+schneller gehen als mit einem herkommlichen Diascanner.  
+(Diascanner)
+
+  2. MS Flight angespielt
+
+Kostenloses Flugtraining uber Hawaii
+
+Kunstflug im ersten Einsatz, Wasserlandung in der zweiten Mission: MS Flight
+schickt PC-Piloten ab sofort in den Himmel uber Hawaii und auf den Boden. Der
+inoffizielle Nachfolger des legendaren Flugsimulators ist betont
+einsteigerfreundlich - und bietet Erfolge fur Unfalle.  
+(Erste Erfahrungen Mit Microsoft Flight)
+
+  3. Microsoft
+
+Security Essentials 4 ist fertig
+
+Der neue Virenscanner von Microsoft, Security Essentials 4, kann jetzt
+automatisch gegen Schadsoftware vorgehen. Gefahrliche Software macht der
+Scanner ohne Nutzeraufforderung unschadlich.  
+(Microsoft Security Essentials)
+
+  4. Adobe
+
+Photoshop CS5 ist jetzt veraltet
+
+Adobe hat das letzte Versionsupdate fur das Rohdatenmodul Camera Raw fur
+Photoshop CS5 (Windows und Mac OS X) veroffentlicht. Neue Digitalkameras
+werden kunftig nur noch von Photoshop CS6 unterstutzt.  
+(Photoshop Cs5)
+
+  5. Deep Silver
+
+Sacred 3 und die Kraft der Sonne
+
+Auf Basis von Ascarons altehrwurdigem Hack-and-Slay arbeitet Deep Silver nicht
+an einer, sondern sogar an zwei Fortsetzungen. In Sacred 3 konnen Spieler
+unter anderem mit einer heiligen Kriegerin antreten, die auf solare Zauber
+setzt.  
+(Sacred 3)
+
+  6. Test Ubuntu 12.10
+
+Quantal Quetzal ist noch ziemlich langsam
+
+Ubuntu 12.10 tragt den Beinamen Quantal Quetzal. Schnell ist die aktuelle
+Version von Ubuntu jedoch nicht geworden. Im Gegenteil: Der Unity-Desktop hat
+zwar fast keine optischen Macken, reagiert allerdings trage. Dafur sieht er
+immer besser aus.  
+(Ubuntu 12.10)
+
+  7. Gimmicks
+
+Yps kehrt fur seine alten Leser zuruck
+
+Der Verlag Egmont Ehapa bringt das im Jahr 2000 eingestellte Heft Yps am 11.
+Oktober 2012 erneut auf den Markt. Aus dem Comic-Heft mit Gimmicks von damals
+wird ein Heft mit Gimmicks fur Erwachsene.  
+(Yps)
+
+* * *
+
+Verwandte Themen
+
+Scroogle, Marit Hansen, Max Schrems, Cookies, Privatsphare, Überwachung,
+Operation Eikonal, Volkszahlung, Onlinedurchsuchung, Phorm, Thilo Weichert,
+Peter Schaar, Im Rausch der Daten, Schultrojaner
+
+* * *
+
+RSS Feed
+
+Datenschutz
+
+* * *
+
+Folgen Sie uns
+
+         
+  
+* * *
+
+Newsletter-Abo
+
+E-Mail-Adresse:
+
+* * *
+
+Haben wir etwas ubersehen?
+
+E-Mail an news@golem.de
+
+* * *
+
+Anzeige
+
+Forumsbeitrage »
+
+  1. Liefery: Erratbare Trackingnummern bei Versand-Startup
+
+Re: DHL ahnlich betroffen
+
+Niyak | 17:41
+
+  2. Liefery: Erratbare Trackingnummern bei Versand-Startup
+
+Re: Wie kann man sich sowas erlauben?
+
+r3bel | 15:48
+
+  3. Liefery: Erratbare Trackingnummern bei Versand-Startup
+
+Ja so isch des doch subber und vorbildlich!
+
+Polecat42 | 14:28
+
+  4. Anhorung im Bundestag: Beim Staatstrojaner geht es den Experten ums Ganze
+
+Re: ich habe nichts zu verbergen...
+
+h4z4rd | 14:10
+
+  5. Anhorung im Bundestag: Beim Staatstrojaner geht es den Experten ums Ganze
+
+Re: Wenn "Experten" uns Profis was sagen...
+
+h4z4rd | 14:08
+
+* * *
+
+Ticker »
+
+  1. Angacom Cisco zeigt Prototyp von Full Duplex Docsis 3.1
+
+17:36
+
+  2. Toshiba Portege X30-D Leichtes Business-Notebook mit Trackpoint und IR-Kamera
+
+16:33
+
+  3. Senden Bauern machen den Ausbau mit dem Glasfaserpflug
+
+15:30
+
+  4. Intel Erste HDR-Patches fur Linux-Grafiktreiber verfugbar
+
+14:42
+
+  5. Adobe Scan Kostenlose App scannt Druckseiten in eine PDF-Datei
+
+14:26
+
+  6. Liefery Erratbare Trackingnummern bei Versand-Startup
+
+13:34
+
+  7. ASM3142 Asmedias USB-3.1-Gen2-Controller benotigt weniger Energie
+
+13:00
+
+  8. Compute Engine Google-Cloud bietet CPU-Plattformwahl und Skylake-Xeons
+
+12:45
+
+* * *
+
+  * Home
+  * Ticker
+  * RSS
+  * API
+  * Forum
+  * Zusatzdienste
+  * Jobs
+  * Impressum
+  * Leitbild
+  * Datenschutz
+  * Werbung
+  * Ansicht
+  * Nutzungsbasierte Onlinewerbung
+  * 
+
+(C) 1997--2017 Golem.de. Alle Rechte vorbehalten.
+
+Ich habe verstanden!
+
+Golem.de benutzt Cookies, um seinen Lesern das beste Webseiten-Erlebnis zu
+ermoglichen. Außerdem werden teilweise auch Cookies von Diensten Dritter
+gesetzt. Weiterfuhrende Informationen erhalten Sie in der Datenschutzerklarung
+von Golem.de.
+

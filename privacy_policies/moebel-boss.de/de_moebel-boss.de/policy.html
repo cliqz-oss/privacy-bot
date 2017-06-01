@@ -1,0 +1,1401 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]> <html class="no-js lt-ie9" lang="de"> <![endif]-->
+<!--[if lte IE 9]> <html class="no-js lt-ie10" lang="de"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de"> <!--<![endif]-->
+
+<head>
+	<script src="//cdn.optimizely.com/js/4473644208.js"></script>
+
+	<title>
+		Datenschutz | M&ouml;bel Boss</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<meta property="og:site_name" content="Möbel Boss"/>
+				<meta property="og:title" content="Datenschutz | M&ouml;bel Boss" />
+				<meta property="og:url" content="https://moebel-boss.de/privacy">
+				
+				<meta property="og:description" content="" />
+					<meta property="og:type" content="website" />
+				<meta property="og:locale" content="de_DE" />
+			<meta name="keywords">
+<meta name="description">
+<meta name="robots" content="index,follow">
+<!-- <link rel="stylesheet" type="text/css" media="all" href="/_ui/responsive/theme-boss/css/style.css"/> -->
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/responsive/theme-boss/css/main.css?date=20170526"/>
+<script>
+	var gaProperty = 'UA-49007958-1';
+	var disableStr = 'ga-disable-' + gaProperty;
+	if (document.cookie.indexOf(disableStr + '=true') > -1)
+	{ 
+		window[disableStr] = true; 
+	}
+
+	function gaOptout()
+	{ 
+		document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/'; 
+		window[disableStr] = true; 
+	}
+
+</script>
+<script type="text/javascript">
+/* Google Analytics */
+
+var googleAnalyticsTrackingId = 'UA-49007958-1';
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', googleAnalyticsTrackingId]);
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_addIgnoredRef', 'secure.payengine.de']); 
+_gaq.push(['_addIgnoredRef', 'sofort.com']);
+_gaq.push(['_addIgnoredRef', 'mein.payever.de']);
+
+var mediator = (function() {
+	var subscribe = function(tracker, fn) {
+			if (!mediator.trackers[tracker])
+			{
+				mediator.trackers[tracker] = [];
+			}
+			mediator.trackers[tracker].push({context: this, callback: fn});
+			return this;
+		},
+
+		publish = function(tracker) {
+			if (!mediator.trackers[tracker])
+			{
+				return false;
+			}
+			var args = Array.prototype.slice.call(arguments, 1);
+			for (var i = 0, l = mediator.trackers[tracker].length; i < l; i++)
+			{
+				var subscription = mediator.trackers[tracker][i];
+				subscription.callback.apply(subscription.context, args);
+			}
+			return this;
+		},
+
+		publishAll = function() {
+			if (Object.keys(mediator.trackers).length === 0)
+			{
+				return false;
+			}
+			for (var tracker in mediator.trackers)
+			{
+				var args = [tracker].concat(Array.prototype.slice.call(arguments));
+				mediator.publish.apply(this, args);
+			}
+			return this;
+		};
+
+	return {
+		trackers: {},
+		publish: publish,
+		publishAll: publishAll,
+		subscribe: subscribe
+	}
+})()
+
+
+		_gaq.push(['_trackPageview']);
+	
+
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+
+function trackAddToCart_google(productCode, quantityAdded) {
+	_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, quantityAdded]);
+}
+
+function trackUpdateCart(productCode, initialQuantity, newQuantity) {
+	if (initialQuantity != newQuantity) {
+		if (initialQuantity > newQuantity) {
+			_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity - newQuantity]);
+		} else {
+			_gaq.push(['_trackEvent', 'Cart', 'AddToCart', productCode, newQuantity - initialQuantity]);
+		}
+	}
+}
+
+function trackRemoveFromCart(productCode, initialQuantity) {
+	_gaq.push(['_trackEvent', 'Cart', 'RemoveFromCart', productCode, initialQuantity]);
+}
+
+function trackClickPayment_google(paymentType) {
+	_gaq.push(['_trackEvent', 'Payment', 'ClickPaymentRadiobutton', paymentType]);
+}
+
+function trackShowPaymentContinueButton_google(paymentType) {
+	_gaq.push(['_trackEvent', 'Payment', 'ShowPaymentContinueButton', 'ShowPaymentContinueButton-' + paymentType]);
+}
+
+function trackSubmitPayment_google(paymentType) {
+	_gaq.push(['_trackEvent', 'Payment', 'ClickPaymentContinueButton', 'ClickPaymentContinueButton-' + paymentType]);
+}
+
+function trackSubmitExitlayer_google(intentType) {
+	_gaq.push(['_trackEvent', 'SubmitExitlayer', 'SubmitExitlayer', 'SubmitExitlayer-' + intentType]);
+}
+
+function trackShowExitlayer_google() {
+	_gaq.push(['_trackEvent', 'ShowExitlayer', 'ShowExitlayer', 'ShowExitlayer']);
+}
+
+function trackOrderconfirmation_google(orderNumber) {
+	_gaq.push(['_trackEvent', 'Orderconfirmation', 'Orderconfirmation', 'Orderconfirmation-' + orderNumber]);
+}
+
+window.mediator.subscribe('trackAddToCart', function(data) {
+	if (data.productCode && data.quantity)
+	{
+		trackAddToCart_google(data.productCode, data.quantity);
+	}
+});
+
+window.mediator.subscribe('trackUpdateCart', function(data) {
+	if (data.productCode && data.initialCartQuantity && data.newCartQuantity)
+	{
+		trackUpdateCart(data.productCode, data.initialCartQuantity, data.newCartQuantity);
+	}
+});
+
+window.mediator.subscribe('trackRemoveFromCart', function(data) {
+	if (data.productCode && data.initialCartQuantity)
+	{
+		trackRemoveFromCart(data.productCode, data.initialCartQuantity);
+	}
+});
+
+window.mediator.subscribe('trackClickPayment', function(data) {
+	if (data.paymentType)
+	{
+		trackClickPayment_google(data.paymentType);
+	}
+});
+
+window.mediator.subscribe('trackShowPaymentContinueButton', function(data) {
+	if (data.paymentType)
+	{
+		trackShowPaymentContinueButton_google(data.paymentType);
+	}
+});
+
+window.mediator.subscribe('trackSubmitPayment', function(data) {
+	if (data.paymentType)
+	{
+		trackSubmitPayment_google(data.paymentType);
+	}
+});
+
+window.mediator.subscribe('trackSubmitExitlayer', function(data) {
+	if (data.selectedReason)
+	{
+		trackSubmitExitlayer_google(data.selectedReason);
+	}
+});
+
+window.mediator.subscribe('trackShowExitlayer', function(data) {
+	trackShowExitlayer_google();
+});
+</script>
+<script type="text/javascript">
+	/* OWA Tracking */
+	
+	window.owaParams =
+	{"page_type":"other","device_type":"d"};
+
+	setTimeout(function(){var d=document,t="script",p=d.getElementsByTagName(t)[0],s=d.createElement(t);s.async=true;s.type="text/javascript"; s.src="http"+("https:"==d.location.protocol?"s":"")+"://ssl.hurra.com/oti.js?cid=4369";p.parentNode.insertBefore(s,p)},0);
+
+
+	function trackAddToCart_owa(productCode, quantityAdded, cartData) {
+		window.hc_tm = window.hc_tm || [];
+		window.hc_tm.push({"e":"track","p":{ "page_type":"add_to_cart", "product_quantity":quantityAdded, "product_price":cartData.basePrice, "currency":cartData.baseCurrencyIso, "product_id":productCode}});
+	}
+
+	window.mediator.subscribe('trackAddToCart', function(data) {
+		if (data.productCode && data.quantity && data.cartData)
+		{
+			trackAddToCart_owa(data.productCode, data.quantity, data.cartData);
+		}
+	});
+	</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P3N7Z4L');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="shortcut icon" href="/_ui/responsive/theme-boss/img/favicon.ico" type="image/x-icon" />
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900" rel="stylesheet">
+	<link rel="canonical" href="https://moebel-boss.de/privacy" /><script src="/_ui/responsive/theme-boss/js/libs/vendor/picturefill/picturefill.min.js" async></script>
+
+ 	<script type="text/javascript" class="js-googleMapsApi"
+		src="//maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyC9mTWJvh6nFXzZS76R0wzUWqocO1bL56E"></script>
+		</head>
+
+<body class="page-privacy pageType-ContentPage template-pages-layout-contentLayout1Page pageLabel--privacy language-de">
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P3N7Z4L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+<div class="yCmsContentSlot container">
+</div><header>
+	<div class="header-wrapper">
+		<div class="container">
+			<a class="navigation-toggle" href="#" title="Menü">Menü</a>
+				<style>
+		.logo { background-image: url(/medias/?context=Ym9zc3xyb290fDM3OTg1fGltYWdlL3BuZ3xoNDkvaDk3Lzg4NTQ5NzczMTQ4NDYucG5nfDE5N2RhZTU3MzQzNDVlYzRiZjU0NDA4MjI4MWRlZjA1MWEyZDdmMzQ2ZmRkNGQ2MDM1YTBiNWJkMTc2MGQ5OGU); }
+		.logo:before { content: url(/medias/?context=Ym9zc3xyb290fDM3OTg1fGltYWdlL3BuZ3xoNDkvaDk3Lzg4NTQ5NzczMTQ4NDYucG5nfDE5N2RhZTU3MzQzNDVlYzRiZjU0NDA4MjI4MWRlZjA1MWEyZDdmMzQ2ZmRkNGQ2MDM1YTBiNWJkMTc2MGQ5OGU); }
+	</style>
+
+	<a class="logo" href="/" title="SB-M&ouml;bel Boss - Qualit&auml;t sehr g&uuml;nstig!">SB-M&ouml;bel Boss - Qualit&auml;t sehr g&uuml;nstig!</a>
+		<a class="search-toggle" href="#" title="Suchen">Suchen</a>
+				<form method="get" action="/search/" name="search_form_SearchBox" class="mod-quick-search">
+	<fieldset>
+		<input type="text" id="js-site-search-input"
+				class="js-site-search-input"
+				name="text" value=""
+				id="quick-search" autocomplete="off"
+				maxlength="100" placeholder="Ich suche ..."
+				data-options='{"autocompleteUrl" : "/search/autocomplete/SearchBox","minCharactersBeforeRequest" : "3","waitTimeBeforeRequest" : "500","displayProductImages" : true}'>
+		<button class="btn btn--yellow icon-link-forward icon-after" title="Suchen">Suchen</button>
+			</fieldset>
+	<div class="mod-quick-search__flyout" >
+		<div class="row">
+			<div class="col-l-4">
+				<h2>Produktvorschläge</h2>
+					<ul class="mod-quick-search__flyout__products" data-itemtype="productResult">
+				</ul>
+				<a href="#" class="icon-before icon-link-forward" data-itemtype="urlShowAllProducts">Alle anzeigen</a>
+					</div>
+			<div class="col-l-4">
+				<h2>Produktkategorien</h2>
+					<ul data-itemtype="categoriesResult">
+				</ul>
+
+				<h2>Suchvorschläge</h2>
+					<ul data-itemtype="searchSuggestions">
+				</ul>
+			</div>
+			<div class="col-l-4">
+				<h2>Aus ihrem Markt</h2>
+					<ul data-itemtype="market">
+				</ul>
+
+				<h2>Service & Karriere</h2>
+					<ul data-itemtype="serviceAndCareer">
+				</ul>
+			</div>
+		</div>
+	</div> 
+</form>
+<div class="mod-nav-cart">
+					<a href="/cart"
+			class="js-mini-cart-link"
+			data-mini-cart-url="/cart/rollover/MiniCart"
+			data-mini-cart-refresh-url="/cart/miniCart/TOTAL_WITHOUT_DELIVERY"
+			data-mini-cart-name="Mein Warenkorb "
+			data-mini-cart-empty-name="Ihr Warenkorb ist leer."
+			>
+	<span class="mod-nav-cart__title">Mein Warenkorb </span>
+	<span class="mod-nav-cart__sum js-mini-cart-price">
+			<div>
+    0,00 €</div>
+</span>
+		<span class="mod-nav-cart__amount icon-before icon-cart">
+		<span class="js-mini-cart-count">0</span>
+		</span>
+	</a>
+<div class="mod-nav-cart__flyout js-mini-cart-container mod-nav-cart__flyout"></div>
+	</div>
+			</div>
+	</div>
+	<div class="mod-top-links">
+			<div class="container">
+				<ul class="left">
+					<li class="mod-top-links__item mod-top-links__item--mobile-hidden mod-top-links__item--newsletter">
+	
+	<a href="#" class="icon-before icon-newsletter"><span>Newsletter</span></a>
+		<div class="mod-top-links__flyout">
+		<div class="mod-top-links__flyout__header">
+			<div class="left">
+							<h2>Bestens informiert!</h2>
+							<ul class="mod-check-list mod-check-list--ci">
+								<li>Die aktuellsten Prospekte</li>
+								<li>Rabattaktionen, Angebote und Gewinnspiele</li>
+								<li>Die neuesten Trends auf einen Blick</li>
+							</ul>
+						</div>
+					<img title="Newsletter Image" alt="Newsletter Image" src="/medias/7-Newsletter.png?context=Ym9zc3xyb290fDc1OTN8aW1hZ2UvcG5nfGg4Ni9oN2QvODg0OTc0NjkxOTQ1NC5wbmd8NjY3NGU5MmRhY2RmNDUyZjI0YzhjZGE3ZWVmZGY3OTA5OTRiZGZjMjRjYzg5ODQ2YmFmNjRhZTRlYTg2YjY4Mg" class="right" width="161" height="161">
+					</div>
+		<form id="command" action="/newsletter/form" method="post"><fieldset>
+				<input type="email" id="newsletter-top" name="email" placeholder="E-Mail-Adresse">
+						<button class="btn btn--full-width icon-after icon-link-forward" title="Kostenlos anmelden">Kostenlos anmelden</button>
+					</fieldset>
+		<div>
+<input type="hidden" name="CSRFToken" value="2e5afdf4-a8e5-488f-a59c-de828c61886d" />
+</div></form></div>
+</li>
+<li class="mod-top-links__item mod-top-links__item--mobile-hidden">
+			<a href="#" class="icon-before icon-service glyphicon glyphicon-plane"><span>Service</span></a>
+					<div class="mod-top-links__flyout">
+				<ul>
+					<li>
+								<a href="/service/service"
+									title="Das nennen wir Service"
+									class="icon-before icon-link-forward"
+									
+								>Das nennen wir Service</a>
+							</li>
+						<li>
+								<a href="/service/online"
+									title="Onlineservices & Hilfe"
+									class="icon-before icon-link-forward"
+									
+								>Onlineservices & Hilfe</a>
+							</li>
+						<li>
+								<a href="/service/orderhotline"
+									title="Telefonische Bestellung"
+									class="icon-before icon-link-forward"
+									
+								>Telefonische Bestellung</a>
+							</li>
+						<li>
+								<a href="/service/environmentalism"
+									title="Umweltschutz"
+									class="icon-before icon-link-forward"
+									
+								>Umweltschutz</a>
+							</li>
+						<li>
+								<a href="/newsletter"
+									title="Newsletter"
+									class="icon-before icon-link-forward"
+									
+								>Newsletter</a>
+							</li>
+						<li>
+								<a href="/my-account/tracking"
+									title="Auftragsverfolgung"
+									class="icon-before icon-link-forward"
+									
+								>Auftragsverfolgung</a>
+							</li>
+						</ul>
+			</div>
+		</li>
+	<li class="mod-top-links__item mod-top-links__item--mobile-hidden">
+	<!-- TODO the URL is here only to test the flyout -->
+	<a href="/favorites" class="icon-before icon-favorites" data-ajaxurl="/wishlist/rollover"><span>Favoriten</span></a>
+		</li>
+<li class="mod-top-links__item mod-top-links__item--mobile-hidden">
+			<a href="#" class="icon-before icon-service icon-career"><span>Karriere</span></a>
+					<div class="mod-top-links__flyout">
+				<ul>
+					<li>
+								<a href="https://karriere.moebel-boss.de/prj/lst/a181a603769c1f98ad927e7367c7aa51/GesamtlisteOffenePositionen.htm?b=6"
+									title="Ihr neuer Job bei uns!"
+									class="icon-before icon-link-forward"
+									
+								>Ihr neuer Job bei uns!</a>
+							</li>
+						<li>
+								<a href="https://karriere.moebel-boss.de/prj/lst/a181a603769c1f98ad927e7367c7aa51/GesamtlisteOffenePositionen.htm?b=9"
+									title="Deine Ausbildung bei uns!"
+									class="icon-before icon-link-forward"
+									
+								>Deine Ausbildung bei uns!</a>
+							</li>
+						</ul>
+			</div>
+		</li>
+	</ul>
+				
+				<ul class="right">
+					<li class="mod-top-links__item mod-top-links__item" id="js-mymarket-flyout">
+	<a href="/store-finder" class="my-market icon-before icon-market" data-store="true" data-ajax-url="/">
+						<span><span class="is-mobile-hidden">Mein Markt:</span>SB-Möbel BOSS Online Shop</span>
+					</a>
+				<div class="mod-top-links__flyout">
+		<section class="mod-shop-info">
+			<div class="mod-shop-info__header">
+				<div  class="left" >
+					<div class="mod-teaser mod-teaser--full-width">
+			<img src="/medias/?context=Ym9zc3xyb290fDIwODIwfGltYWdlL2pwZWd8aGQ5L2gyNi84Nzk5NjQ0NjE0Njg2LmpwZ3w3NDE3NjA4NTBiOTk4OTViZmI3MWFlYzJkNzFhYWZkMGYxMWYyYWVmYzRmYzNiNTNkOWJiNzE2ZmFkOTZkOTU4" alt="SB-Möbel BOSS Online Shop" title="SB-Möbel BOSS Online Shop"/>
+				</div>
+	</div>
+				<h2><span id="storename">SB-Möbel BOSS Online Shop</span></h2>
+					</div>
+			<div class="row">
+				<div class="col-m-6">
+					<h3>Adresse</h3><p class="mod-shop-info__address">
+						Bakenweg 16-20<br>
+						32457&nbsp;Porta Westfalica</p>
+				</div>
+				<div class="col-m-6">
+					<div class="mod-box mod-box--padding mod-box--bg-light">
+						<ul class="mod-icon-list">
+							<!-- <li><a href="#" class="icon-before icon-show-offer">Angebote ansehen</a></li> -->
+							<li><a href="/prospect" class="icon-before icon-document">Aktueller Prospekt</a></li>
+							<li><a href="http://maps.google.com/maps?z=15&q=SB-Möbel BOSS Online Shop&ll=,&hl=de" target="_blank" class="icon-before icon-route">Anfahrt berechnen</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<ul class="mod-icon-list mod-icon-list--horizontal">
+				<li><a href="tel:05731-609860" class="icon-before icon-phone">05731-609860</a></li>
+				<li><a href="fax:034602-25589" class="icon-before icon-fax">034602-25589</a></li>
+				<li><a href="mailto:onlineshop@moebel-boss.de" class="icon-before icon-mail">onlineshop@moebel-boss.de</a></li>
+			</ul>
+			<p>
+				<strong>Unsere Mitarbeiter bieten Informationen und Beratung in verschiedenen Sprachen an. Sprechen Sie uns an.</strong>
+					</p>
+			<div class="btn-set">
+			<a href="/store-finder" class="btn btn--yellow icon-after icon-link-forward right" title="MARKT äNDERN">MARKT äNDERN</a>
+					</div>
+		</section>
+	</div>
+</li>
+<li class="mod-top-links__item has-mobile-flyout">
+	<a href="/my-account" class="icon-before icon-my-account"><span>Login</span></a>
+			<div class="mod-top-links__flyout">
+		<div class="mod-top-links__flyout__header">
+				<h2>Mein Konto</h2>
+					<!-- passw vergessen -->
+				<a href="/login/pw/request" class="icon-before icon-link-forward fancybox-hybris fancybox.ajax" data-cbox-title="Kennwort wiederherstellen">
+					Passwort vergessen?</a>
+			</div>
+			
+			<p>
+	Bitte melden Sie sich an. Sie haben noch kein Konto bei uns?<br />
+			Dann können Sie sich registrieren.</p>
+<!-- Form: email + passw + anmelden -->
+
+<form id="loginForm" action="/j_spring_security_check" method="post"><fieldset>
+
+		<div class="mod-form__field ">
+           <div class="mod-form__input-box">
+                <input id="j_username" name="j_username" placeholder="E-Mail-Adresse" type="text" value=""/></div>
+       </div>
+   <div class="mod-form__field">
+				<div class="mod-form__input-box">
+					<input id="j_password" name="j_password" placeholder="Passwort" type="password" value="" autocomplete="off"/></div>
+			</div>
+	<button type="submit" class="btn btn--yellow btn--full-width icon-after icon-link-forward" title="Anmelden">
+				Anmelden</button>
+    		</fieldset>
+<div>
+<input type="hidden" name="CSRFToken" value="2e5afdf4-a8e5-488f-a59c-de828c61886d" />
+</div></form><p class="mod-seperator">
+				<span>oder</span>
+			</p>
+			
+			<!-- Link registrieren -->								
+			<a href="/login" class="btn btn--full-width icon-after icon-link-forward" title="Registrieren">
+						Registrieren</a>
+		    		</div>
+</li>
+</ul>
+			</div>
+		</div>
+		<nav class="main-nav" role="navigation">
+		<div class="nav-controls">
+			<a class="nav-controls__back-one-level icon-before icon-link-back" href="#" title="Zurück">Zurück</a>
+			<a class="nav-controls__back-to-start" href="#" title="Hauptmenü">Hauptmenü</a>
+		</div>
+		<ul class="show-level-01">
+			<li class="  ">
+	<a href="/prospect"  title="Prospekte" ><span>Prospekte</span></a></li>
+<li class="has-flyout auto  ">
+	<a href="/Wohnen/c/200"  title="Wohnen" ><span>Wohnen</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/Wohnen/Couchtische-%26-Beistelltische/c/230"  title="Couchtische & Beistelltische" >Couchtische & Beistelltische</a></li>
+							<li class=" has-flyout">
+									<a href="/Wohnen/Esszimmer/c/290"  title="Esszimmer" >Esszimmer</a><div class="main-nav__subnav__flyout">
+											<ul>
+												<li class="">
+<a href="/Wohnen/Esszimmer/Tische/c/291"  title="Tische" >Tische</a></li><li class="">
+<a href="/Wohnen/Esszimmer/St%C3%BChle/c/292"  title="Stühle" >Stühle</a></li><li class="">
+<a href="/Wohnen/Esszimmer/Barhocker-%26-Sessel/c/293"  title="Barhocker" >Barhocker</a></li><li class="">
+<a href="/Wohnen/Esszimmer/Essgruppen/c/294"  title="Essgruppen" >Essgruppen</a></li></ul>
+										</div>
+									</li>
+							<li class="">
+									<a href="/Wohnen/Gartenm%C3%B6bel/c/295"  title="Gartenmöbel" >Gartenmöbel</a></li>
+							<li class="">
+									<a href="/Wohnen/Kommoden-%26-Vitrinen/c/260"  title="Kommoden & Vitrinen" >Kommoden & Vitrinen</a></li>
+							<li class=" has-flyout">
+									<a href="/Wohnen/Polsterm%C3%B6bel/c/220"  title="Polstermöbel" >Polstermöbel</a><div class="main-nav__subnav__flyout">
+											<ul>
+												<li class="">
+<a href="/Wohnen/Polsterm%C3%B6bel/Sofas/c/221"  title="Sofas" >Sofas</a></li><li class="">
+<a href="/Wohnen/Polsterm%C3%B6bel/Eckgarnituren/c/222"  title="Eckgarnituren" >Eckgarnituren</a></li><li class="">
+<a href="/Wohnen/Polsterm%C3%B6bel/Sessel-%26-Hocker/c/223"  title="Sessel" >Sessel</a></li><li class="">
+<a href="/Wohnen/Polsterm%C3%B6bel/Polstergarnitur/c/224"  title="Polstergarnitur" >Polstergarnitur</a></li><li class="">
+<a href="/Wohnen/Polsterm%C3%B6bel/Schlafsofa/c/225" >Schlafsofas</a></li></ul>
+										</div>
+									</li>
+							<li class="">
+									<a href="/Wohnen/Regale/c/270"  title="Regale" >Regale</a></li>
+							<li class="">
+									<a href="/Wohnen/TV--%26-Mediam%C3%B6bel/c/240"  title="TV- & Mediamöbel" >TV- & Mediamöbel</a></li>
+							<li class="">
+									<a href="/Wohnen/Wohnw%C3%A4nde/c/210"  title="Wohnwände" >Wohnwände</a></li>
+							<li class="">
+									<a href="/Wohnen/Wohnzubeh%C3%B6r/c/296"  title="Wohnzubehör" >Wohnzubehör</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="Navigation_Wohnen.jpg" alt="Navigation_Wohnen.jpg" src="/medias/sys_boss/images/h3d/hc0/8800882982942.jpg" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+<li class="has-flyout auto  ">
+	<a href="/Schlafen/c/300"  title="Schlafen" ><span>Schlafen</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/Schlafen/Betten/c/310"  title="Betten" >Betten</a></li>
+							<li class=" has-flyout">
+									<a href="/Schlafen/Bettwaren/c/380"  title="Bettwaren" >Bettwaren</a><div class="main-nav__subnav__flyout">
+											<ul>
+												<li class="">
+<a href="/Schlafen/Bettwaren/Bettw%C3%A4sche/c/381"  title="Bettwäsche" >Bettwäsche</a></li><li class="">
+<a href="/Schlafen/Bettwaren/Bettlaken/c/384"  title="Bettlaken" >Bettlaken</a></li><li class="">
+<a href="/Schlafen/Bettwaren/Bettdecken-%26-Kopfkissen/c/383"  title="Bettdecken & Kopfkissen" >Bettdecken & Kopfkissen</a></li></ul>
+										</div>
+									</li>
+							<li class="">
+									<a href="/Schlafen/Boxspringbetten/c/390"  title="Boxspringbetten" >Boxspringbetten</a></li>
+							<li class="">
+									<a href="/Schlafen/Kleiderschr%C3%A4nke/c/340"  title="Kleiderschränke" >Kleiderschränke</a></li>
+							<li class="">
+									<a href="/Schlafen/Kommoden/c/350"  title="Kommoden" >Kommoden</a></li>
+							<li class=" has-flyout">
+									<a href="/Schlafen/Matratzen-%26-Lattenroste/c/320"  title="Matratzen & Lattenroste" >Matratzen & Lattenroste</a><div class="main-nav__subnav__flyout">
+											<ul>
+												<li class="">
+<a href="/Schlafen/Matratzen-%26-Lattenroste/Matratzen/c/321"  title="Matratzen" >Matratzen</a></li><li class="">
+<a href="/Schlafen/Matratzen-%26-Lattenroste/Lattenroste/c/322"  title="Lattenroste" >Lattenroste</a></li><li class="">
+<a href="/Schlafen/Matratzen-%26-Lattenroste/Matratzenzubeh%C3%B6r/c/323"  title="Matratzenzubehör" >Matratzenzubehör</a></li></ul>
+										</div>
+									</li>
+							<li class="">
+									<a href="/Schlafen/Nachttische/c/330"  title="Nachttische" >Nachttische</a></li>
+							<li class="">
+									<a href="/Schlafen/Schlafzubeh%C3%B6r/c/370"  title="Schlafzubehör" >Schlafzubehör</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="Navigation_Schlafen.jpg" alt="Navigation_Schlafen.jpg" src="/medias/sys_boss/images/h2f/hf3/8800883048478.jpg" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+<li class="has-flyout auto  ">
+	<a href="/K%C3%BCche/c/400"  title="Küche" ><span>Küche</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/K%C3%BCche/Armaturen-%26-Sp%C3%BClen/c/470"  title="Armaturen & Spülen" >Armaturen & Spülen</a></li>
+							<li class="">
+									<a href="/K%C3%BCche/Einbauk%C3%BCchen/c/430"  title="Einbauküchen" >Einbauküchen</a></li>
+							<li class="">
+									<a href="/K%C3%BCche/Elektrogro%C3%9Fger%C3%A4te/c/480" >Elektrogroßgeräte</a></li>
+							<li class="">
+									<a href="/K%C3%BCche/Haushaltsger%C3%A4te/c/440"  title="Haushaltsgeräte" >Haushaltsgeräte</a></li>
+							<li class="">
+									<a href="/K%C3%BCche/Kochen-%26-Essen/c/450"  title="Kochen & Essen" >Kochen & Essen</a></li>
+							<li class="">
+									<a href="/K%C3%BCche/K%C3%BCchenm%C3%B6bel/c/420"  title="Küchenmöbel" >Küchenmöbel</a></li>
+							<li class="">
+									<a href="/K%C3%BCche/K%C3%BCchenzubeh%C3%B6r/c/460"  title="Küchenzubehör" >Küchenzubehör</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="K-Teaser_Kueche.jpg" alt="K-Teaser_Kueche.jpg" src="/medias/sys_boss/images/hb9/h9d/8800757055518.jpg" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+<li class="has-flyout auto  ">
+	<a href="/Bad/c/500"  title="Bad" ><span>Bad</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/Bad/Badarmaturen/c/520"  title="Badarmaturen" >Badarmaturen</a></li>
+							<li class=" has-flyout">
+									<a href="/Bad/Badm%C3%B6bel/c/510"  title="Badmöbel" >Badmöbel</a><div class="main-nav__subnav__flyout">
+											<ul>
+												<li class="">
+<a href="/Bad/Badm%C3%B6bel/Unterschr%C3%A4nke/c/511"  title="Unterschränke" >Unterschränke</a></li><li class="">
+<a href="/Bad/Badm%C3%B6bel/H%C3%A4ngeschr%C3%A4nke/c/512"  title="Hochschränke" >Hochschränke</a></li><li class="">
+<a href="/Bad/Badm%C3%B6bel/Standschr%C3%A4nke/c/513"  title="Standschränke" >Standschränke</a></li><li class="">
+<a href="/Bad/Badm%C3%B6bel/Spiegelschr%C3%A4nke/c/514"  title="Spiegelschränke" >Spiegelschränke</a></li></ul>
+										</div>
+									</li>
+							<li class="">
+									<a href="/Bad/Badspiegel/c/530"  title="Badspiegel" >Badspiegel</a></li>
+							<li class="">
+									<a href="/Bad/Badtextilien/c/550"  title="Badtextilien" >Badtextilien</a></li>
+							<li class="">
+									<a href="/Bad/Badzubeh%C3%B6r/c/540"  title="Badzubehör" >Badzubehör</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="Navigation_Bad.jpg" alt="Navigation_Bad.jpg" src="/medias/sys_boss/images/hf9/hcb/8800883474462.jpg" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+<li class="has-flyout auto  ">
+	<a href="/Kinder/c/600"  title="Kinder" ><span>Kinder</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/Kinder/Betten/c/620"  title="Betten" >Betten</a></li>
+							<li class="">
+									<a href="/Kinder/Kinder--%26-Jugendzimmer/c/660"  title="Kinder- und Jugendzimmer" >Kinder- und Jugendzimmer</a></li>
+							<li class="">
+									<a href="/Kinder/Kleiderschr%C3%A4nke-%26-Kommoden/c/640"  title="Kleiderschränke & Kommoden" >Kleiderschränke & Kommoden</a></li>
+							<li class="">
+									<a href="/Kinder/Regale/c/670"  title="Regale" >Regale</a></li>
+							<li class="">
+									<a href="/Kinder/Schlafsofas/c/630"  title="Schlafsofas" >Schlafsofas</a></li>
+							<li class="">
+									<a href="/Kinder/St%C3%BChle%2C-Sessel-%26-Hocker/c/650"  title="Stühle, Sessel & Hocker" >Stühle, Sessel & Hocker</a></li>
+							<li class="">
+									<a href="/Kinder/Zubeh%C3%B6r/c/680"  title="Zubehör" >Zubehör</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="Navigation_Kinder.jpg" alt="Navigation_Kinder.jpg" src="/medias/sys_boss/images/h19/h3d/8800883539998.jpg" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+<li class="has-flyout auto  ">
+	<a href="/Arbeit/c/700"  title="Arbeit" ><span>Arbeit</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/Arbeit/B%C3%BCrost%C3%BChle/c/730"  title="Bürostühle" >Bürostühle</a></li>
+							<li class="">
+									<a href="/Arbeit/Regale/c/740"  title="Regale" >Regale</a></li>
+							<li class="">
+									<a href="/Arbeit/Rollcontainer/c/720"  title="Rollcontainer" >Rollcontainer</a></li>
+							<li class="">
+									<a href="/Arbeit/Schreibtische/c/710"  title="Schreibtische" >Schreibtische</a></li>
+							<li class="">
+									<a href="/Arbeit/Zubeh%C3%B6r/c/760"  title="Zubehör" >Zubehör</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="k-teaser_arbeit_neu2.jpg" alt="k-teaser_arbeit_neu2.jpg" src="/medias/sys_boss/images/h3b/h40/8800670089246.jpg" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+<li class="has-flyout auto  ">
+	<a href="/Flur/c/800"  title="Flur" ><span>Flur</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/Flur/Flurkommoden/c/820"  title="Flurkommoden" >Flurkommoden</a></li>
+							<li class="">
+									<a href="/Flur/Garderoben/c/850"  title="Garderoben" >Garderoben</a></li>
+							<li class="">
+									<a href="/Flur/Garderobenschr%C3%A4nke/c/810"  title="Garderobenschränke" >Garderobenschränke</a></li>
+							<li class="">
+									<a href="/Flur/Schuhschr%C3%A4nke/c/830"  title="Schuhschränke" >Schuhschränke</a></li>
+							<li class="">
+									<a href="/Flur/Spiegel/c/840"  title="Spiegel" >Spiegel</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="Navigation_Flur.jpg" alt="Navigation_Flur.jpg" src="/medias/sys_boss/images/h14/h4f/8800883605534.jpg" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+<li class="has-flyout auto  ">
+	<a href="/Dekoration/c/900"  title="Dekoration" ><span>Dekoration</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/Dekoration/Bilder/c/970"  title="Bilder" >Bilder</a></li>
+							<li class="">
+									<a href="/Dekoration/Geschenkideen/c/960"  title="Geschenkideen" >Geschenkideen</a></li>
+							<li class=" has-flyout">
+									<a href="/Dekoration/Lampen/c/950"  title="Lampen" >Lampen</a><div class="main-nav__subnav__flyout">
+											<ul>
+												<li class="">
+<a href="/Dekoration/Lampen/Deckenlampen/c/281"  title="Deckenleuchten" >Deckenleuchten</a></li><li class="">
+<a href="/Dekoration/Lampen/Pendellampen/c/282"  title="Pendelleuchten" >Pendelleuchten</a></li><li class="">
+<a href="/Dekoration/Lampen/Wandlampen/c/283"  title="Wandlampen" >Wandlampen</a></li><li class="">
+<a href="/Dekoration/Lampen/Stehlampen/c/284"  title="Stehlampen" >Stehlampen</a></li><li class="">
+<a href="/Dekoration/Lampen/Tischlampen/c/285"  title="Tischleuchten" >Tischleuchten</a></li><li class="">
+<a href="/Dekoration/Lampen/Leuchtmittel/c/286"  title="Leuchtmittel" >Leuchtmittel</a></li><li class="is-mobile-hidden">
+														<a class="highlight" href="/Dekoration/Lampen/c/950" data-visibleitems="6">Alle anzeigen</a>
+													</li>
+												</ul>
+										</div>
+									</li>
+							<li class="">
+									<a href="/Dekoration/Sonstiges/c/910"  title="Sonstiges" >Sonstiges</a></li>
+							<li class="">
+									<a href="/Dekoration/Spiegel/c/930"  title="Spiegel" >Spiegel</a></li>
+							<li class="">
+									<a href="/Dekoration/Teppiche-%26-L%C3%A4ufer/c/920"  title="Teppiche & Läufer" >Teppiche & Läufer</a></li>
+							<li class="">
+									<a href="/Dekoration/Uhren/c/990" >Uhren</a></li>
+							<li class="">
+									<a href="/Dekoration/Vorh%C3%A4nge-%26-Rollos/c/940"  title="Vorhänge & Rollos" >Vorhänge & Rollos</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="Navigation_Dekoration.jpg" alt="Navigation_Dekoration.jpg" src="/medias/sys_boss/images/hd7/h89/8800883671070.jpg" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+<li class=" main-nav__separate ">
+	<a href="/sale/products"  title="Sale" ><span>Sale</span></a></li>
+<li class="has-flyout auto main-nav__separate ">
+	<a href="/store-finder"  title="Märkte" ><span>Märkte</span></a><div class="main-nav__flyout">
+			<div class="container">
+				<div class="main-nav__subnav">
+					<ul>
+						<li class="">
+									<a href="/store-finder" >Märkte</a></li>
+							<li class="">
+									<a href="/store-events" >Veranstaltungen</a></li>
+							</ul>
+				</div>
+				<div class="main-nav__visual">
+						<a href="#">
+							<img title="Navigation_Märkte.png" alt="Navigation_Märkte.png" src="/medias/sys_boss/images/ha3/h42/8800883736606.png" width="310" height="175">
+						</a>
+					</div>
+				</div>
+		</div>
+	</li>
+</ul>
+	</nav>
+</header>
+<main id="main" role="main" data-currency-iso-code="EUR">
+			<div class="mod-breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+					<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/" itemprop="item"><span itemprop="name">Home</span></a></span>
+
+
+			&gt;
+		<strong>Datenschutz</strong>
+		</div>
+			<div id="globalMessages">
+				</div>
+			<div class="row">
+		<div class="yCmsContentSlot col-l-3">
+<nav class="sub-navigation" role="navigation" aria-label="Subnavigation">
+    <ul class="sub-navigation__level1">
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/service"  title="Das nennen wir Service" >Das nennen wir Service</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/deliveryservice"  title="Lieferservice" >Lieferservice</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/shippingcosts"  title="Versandkosten" >Versandkosten</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/paymentinformations"  title="Zahlungsinformationen" >Zahlungsinformationen</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/clickandcollect"  title="Click & Collect" >Click & Collect</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/orderhotline"  title="Telefonische Bestellannahme" >Telefonische Bestellannahme</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/environmentalism"  title="Umweltschutz" >Umweltschutz</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/contact"  title="Kontakt" >Kontakt</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/contact/form"  title="Kontaktformular" >Kontaktformular</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/staintable"  title="Fleckentabelle" >Fleckentabelle</a></span></li>
+        <li>
+            </li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/company/company"  title="Über uns" >Über uns</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/service/gewerbeflaechen"  title="Gewerbeflächen gesucht" >Gewerbeflächen gesucht</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/impressum"  title="Impressum" >Impressum</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/termsAndConditions"  title="AGB" >AGB</a></span></li>
+        <li>
+            <span class="yCmsComponent  is-active">
+<a href="/privacy"  title="Datenschutz" >Datenschutz</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/newsletter"  title="Newsletter" >Newsletter</a></span></li>
+        <li>
+            <span class="yCmsComponent  ">
+<a href="/my-account/tracking"  title="Auftragsverfolgung" >Auftragsverfolgung</a></span></li>
+        </ul>
+</nav>
+
+
+
+</div><div class="yCmsContentSlot col-l-9">
+<div class="content"><section class="mod-box"><header><h2 class="highlight" style="text-align: justify;">Datenschutzerkl&auml;rung</h2> </header> <div class="mod-box__content"><p style="text-align: justify;">Wir freuen uns &uuml;ber Ihr Interesse an unserer Website. Der Schutz Ihrer Privatsph&auml;re ist f&uuml;r uns sehr wichtig. Nachstehend informieren wir Sie ausf&uuml;hrlich &uuml;ber den Umgang mit Ihren Daten.</p>  <h4 style="text-align: justify;">Erhebung, Verarbeitung und Nutzung personenbezogener Daten</h4> <p style="text-align: justify;">Sie k&ouml;nnen unsere Seite besuchen, ohne Angaben zu Ihrer Person zu machen. Wir speichern lediglich Zugriffsdaten ohne Personenbezug. Zu den nicht personenbezogenen Informationen werden all jene gerechnet, die anonym erfasst, verarbeitet und gespeichert werden und die nicht wieder einer Person zugeordnet werden k&ouml;nnen. Zu den nicht personenbezogenen Daten z&auml;hlen beispielsweise aggregierte Kennzahlen wie die durchschnittliche Verweildauer, Aufrufh&auml;ufigkeiten von Web-Seiten oder auch Inhalte von Warenk&ouml;rben, jedoch keine Daten &uuml;ber die ein Personenbezug herstellbar ist. Dazu k&ouml;nnen die Daten eines einzelnen Besuchers unter einem Pseudonym gef&uuml;hrt werden, das nicht dazu verwendet wird bzw. werden kann, einen Personenbezug herzustellen. Bei der Speicherung von nicht personenbezogenen Informationen&nbsp; werden insbesondere auch die IP-Adressen und Domaindaten der Besucher nur verk&uuml;rzt gespeichert, so dass ein R&uuml;ckschluss auf den einzelnen Besucher nicht m&ouml;glich ist.&nbsp; Wir verpflichten uns, etwaig erhobene IP-Adressen niemals mit anderen Datenbest&auml;nden zusammenzuf&uuml;hren. Diese Daten werden ausschlie&szlig;lich zur Verbesserung unseres Angebotes ausgewertet und erlauben keinen R&uuml;ckschluss auf Ihre Person. <br /> Personenbezogene Daten werden nur erhoben, wenn Sie uns diese im Rahmen Ihrer Warenbestellung oder bei Er&ouml;ffnung eines Kundenkontos oder Registrierung f&uuml;r unseren Newsletter freiwillig mitteilen. Wir verwenden die von ihnen mitgeteilten Daten ohne Ihre gesonderte Einwilligung ausschlie&szlig;lich zur Erf&uuml;llung und Abwicklung Ihrer Bestellung. Mit vollst&auml;ndiger Abwicklung des Vertrages und vollst&auml;ndiger Kaufpreiszahlung werden Ihre Daten f&uuml;r die weitere Verwendung gesperrt und nach Ablauf der steuer- und handelsrechtlichen Aufbewahrungsfristen gel&ouml;scht, sofern Sie nicht ausdr&uuml;cklich in die weitere Nutzung Ihrer Daten eingewilligt haben. Bei Anmeldung zum Newsletter wird Ihre E-Mail-Adresse f&uuml;r eigene Werbezwecke genutzt, bis Sie sich vom Newsletter abmelden. Die Abmeldung ist jederzeit m&ouml;glich.</p>  <h4 style="text-align: justify;">Verwendung von Cookies</h4> <p style="text-align: justify;">Auf verschiedenen Seiten verwenden wir Cookies, um den Besuch unserer Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu erm&ouml;glichen. Hierbei handelt es sich um kleine Textdateien, die auf Ihrem Endger&auml;t abgelegt werden. Einige der von uns verwendeten Cookies werden nach dem Ende der Browser-Sitzung, also nach Schlie&szlig;en Ihres Browsers, wieder gel&ouml;scht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Endger&auml;t und erm&ouml;glichen uns oder unseren Partnerunternehmen, Ihren Browser beim n&auml;chsten Besuch wiederzuerkennen (persistente Cookies). <br />Sie k&ouml;nnen Ihren Browser so einstellen, dass Sie &uuml;ber das Setzen von Cookies informiert werden und einzeln &uuml;ber deren Annahme entscheiden oder die Annahme von Cookies f&uuml;r bestimmte F&auml;lle oder generell ausschlie&szlig;en. Bei der Nichtannahme von Cookies kann die Funktionalit&auml;t unserer Website eingeschr&auml;nkt sein.</p><h4 style="text-align: justify;">Doubleclick by Google</h4><p style="text-align: justify;">Doubleclick by Google ist eine Dienstleistung von Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (&quot;Google&quot;). Doubleclick by Google verwendet Cookies um Ihnen f&uuml;r Sie relevante Werbeanzeigen zu pr&auml;sentieren. Dabei wird Ihrem Browser eine pseudonyme Identifikationsnummer (ID) zugeordnet, um zu &uuml;berpr&uuml;fen, welche Anzeigen in Ihrem Browser eingeblendet wurden und welche Anzeigen aufgerufen wurden. Die Cookies enthalten keine personenbezogenen Informationen. Die Verwendung der DoubleClick-Cookies erm&ouml;glicht Google und seinen Partner-Webseiten lediglich die Schaltung von Anzeigen auf Basis vorheriger Besuche auf unserer oder anderen Webseiten im Internet. Die durch die Cookies erzeugten Informationen werden von Google zur Auswertung an einen Server in den USA &uuml;bertragen und dort gespeichert. Google beachtet die Datenschutzbestimmungen des &quot;US-Safe-Harbor&quot;-Abkommens und ist beim &quot;Safe Harbor&quot;-Programm des US-Handelsministeriums registriert. Eine &Uuml;bertragung der Daten durch Google an Dritte findet nur aufgrund gesetzlicher Vorschriften oder im Rahmen der Auftragsdatenverarbeitung statt. Keinesfalls wird Google ihre Daten mit anderen von Google erfassten Daten zusammenbringen.<br />Durch die Nutzung unserer Webseiten erkl&auml;ren Sie sich mit der Bearbeitung der &uuml;ber Sie erhobenen Daten durch Google und der zuvor beschriebenen Art und Weise der Datenverarbeitung sowie dem benannten Zweck einverstanden. Sie k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen unserer Webseiten vollumf&auml;nglich werden nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch die Cookies erzeugten und auf Ihre Nutzung der Webseiten bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden <a href="https://www.google.com/settings/ads/onweb/" target="_blank">Link</a> unter dem Punkt DoubleClick-Deaktivierungserweiterung verf&uuml;gbare Browser-Plugin herunterladen und installieren. Alternativ k&ouml;nnen Sie die Doubleclick-Cookies auf der Seite der Digital Advertising Alliance unter dem folgenden <a href="http://www.aboutads.info/choices/" target="_blank">Link</a> deaktivieren.</p><h4 style="text-align: justify;">Re-Targeting</h4><p style="text-align: justify;">Die Shopseiten verwenden sogenannte Re-Targeting-Technologien. Wir nutzen diese Technologien, um f&uuml;r Sie das Internetangebot interessanter zu gestalten. Diese Technik erm&ouml;glicht es, Internetnutzern, die sich bereits f&uuml;r unseren Shop und unsere Produkte interessiert haben, auf den Webseiten unserer Partner mit Werbung anzusprechen. Wir sind davon &uuml;berzeugt, dass die Einblendung einer personalisierten, interessenbezogenen Werbung in der Regel f&uuml;r den Internetnutzer interessanter ist als Werbung, die keinen solchen pers&ouml;nlichen Bezug hat. Die Einblendung dieser Werbemittel auf den Seiten unserer Partner erfolgt auf Basis einer Cookie-Technologie und einer Analyse des vorherigen Nutzungsverhaltens. Diese Form der Werbung erfolgt vollkommen pseudonym. Es werden keine personenbezogenen Daten gespeichert und es werden auch keine Nutzungsprofile mit Ihren personenbezogenen Daten zusammengef&uuml;hrt.<br />Wenn Sie eine unserer Shopseiten besuchen und in Ihren Browsereinstellungen die Annahme von Cookies akzeptiert haben, bedeutet dies f&uuml;r uns, dass Sie Produkte und Dienstleistungen von SB-M&ouml;bel BOSS nutzen wollen und Sie hierzu dem Einsatz von Cookies und anderen Technologien wie im in unserer Datenschutzerkl&auml;rung beschrieben, zustimmen. Wie kann ich die Speicherung von Cookies verhindern?<br />In Ihrem Browser k&ouml;nnen Sie einstellen, dass eine Speicherung von Cookies nur akzeptiert wird, wenn Sie dem zustimmen. Wenn Sie nur die SB-M&ouml;bel BOSS-Cookies nicht aber die Cookies unserer Dienstleister und Partner akzeptieren wollen, k&ouml;nnen Sie die Einstellung in Ihrem Browser &quot;Cookies von Drittanbietern blockieren&quot; w&auml;hlen.<br />Wir empfehlen Ihnen, bei gemeinsam genutzten Computern, welche so eingestellt sind, dass die Cookies und Flash Cookies akzeptieren, sich nach Beendigung stets vollst&auml;ndig abzumelden.</p><h4 style="text-align: justify;">Einsatz von Google Remarketing</h4><p style="text-align: justify;">Diese Website verwendet die Remarketing-Funktion der Google Inc. (&bdquo;Google&ldquo;). Diese Funktion dient dazu, Besuchern der Website im Rahmen des Google-Werbenetzwerks interessenbezogene Werbeanzeigen zu pr&auml;sentieren. Der Browser des Websitebesuchers speichert sog. &bdquo;Cookies&ldquo;, Textdateien, die auf Ihrem Computer gespeichert werden und die es erm&ouml;glichen, den Besucher wiederzuerkennen, wenn dieser Websites aufruft, die dem Werbenetzwerk von Google angeh&ouml;ren. Auf diesen Seiten k&ouml;nnen dem Besucher dann Werbeanzeigen pr&auml;sentiert werden, die sich auf Inhalte beziehen, die der Besucher zuvor auf Websites aufgerufen hat, die die Remarketing Funktion von Google verwenden. Nach eigenen Angaben erhebt Google bei diesem Vorgang keine personenbezogenen Daten. Sollten Sie die Funktion Remarketing von Google dennoch nicht w&uuml;nschen, k&ouml;nnen Sie diese grunds&auml;tzlich deaktivieren, indem Sie die entsprechenden Einstellungen <a href="http://www.google.com/settings/ads" target="_blank">hier</a> vornehmen. Alternativ k&ouml;nnen Sie den Einsatz von Cookies f&uuml;r interessenbezogene Werbung &uuml;ber die Werbenetzwerkinitiative deaktivieren, indem Sie den <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Anweisungen</a> folgen. Weiterf&uuml;hrende Informationen zu Google Remarketing und die Datenschutzerkl&auml;rung von Google k&ouml;nnen Sie <a href="http://www.google.com/privacy/ads/" target="_blank">hier</a> einsehen.</p><h4 style="text-align: justify;">Verwendung von Web-Bugs</h4> <p style="text-align: justify;">Web-Bugs oder auch &quot;clear GIFs&quot; sind kleine, ca. 1*1 Pixel gro&szlig;e GIF-Dateien, die unter anderem in Grafiken, E-Mails, o. &auml;. versteckt werden k&ouml;nnen. Web-Bugs erf&uuml;llen &auml;hnliche Funktionen wie Cookies, sind f&uuml;r Sie als Benutzer jedoch nicht zu bemerken. Web-Bugs senden Ihre IP-Adresse, die Internet-Adresse der besuchten Webseite URL, den Zeitpunkt an dem der Web-Bug angesehen wurde, den Browsertyp des Benutzers sowie zuvor gesetzte Cookie-Informationen an einen Web-Server. Auf bestimmten Seiten legen wir ein sogenanntes Web-Bug auf Ihrem Computer ab. Auf diese Weise k&ouml;nnen wir Ihren Computer erkennen, wenn &uuml;ber diesen die Website erneut aufgerufen wird, oder es kann ermittelt werden, wie Werbeaktionen bei den Benutzern angenommen werden. Diese Daten sind anonym und nicht mit pers&ouml;nlichen Daten auf dem Computer des Benutzers oder mit einer Datenbank verkn&uuml;pft.</p> <p style="text-align: justify;">Unter Umst&auml;nden verwenden wir diese Technologie auch in unserem Newsletter. Ohne Ihre ausdr&uuml;ckliche Zustimmung werden wir Web-Bugs nicht dazu benutzen, um unbemerkt pers&ouml;nliche Daten &uuml;ber Sie zu sammeln; solche Daten an Drittanbieter und Marketingplattformen zu &uuml;bermitteln.</p>  <h4 style="text-align: justify;">Vermeidung von Web-Bugs</h4> <p style="text-align: justify;">Um Web-Bugs auf unseren Seiten zu unterbinden, k&ouml;nnen Sie Tools wie z. B. webwasher, bugnosys oder AdBlock (f&uuml;r den Firefox Browser) verwenden. Um Web-Bugs in unserem Newsletter zu unterbinden, stellen Sie bitte Ihr Mailprogramm so ein, dass in Nachrichten kein HTML angezeigt wird. Web-Bugs werden ebenfalls unterbunden, wenn Sie Ihre E-Mails offline lesen.</p>  <h4 style="text-align: justify;">Weitergabe personenbezogener Daten</h4> <p style="text-align: justify;">Eine Weitergabe Ihrer Daten erfolgt an das mit der Lieferung beauftragte Versandunternehmen, soweit dies zur Lieferung der Waren notwendig ist. Zur Abwicklung von Zahlungen geben wir Ihre Zahlungsdaten an das mit der Zahlung beauftragte Kreditinstitut weiter.</p>  <h4 style="text-align: justify;">Identit&auml;ts- und Bonit&auml;tspr&uuml;fung bei Auswahl von Billpay-Zahlungsarten</h4> <p style="text-align: justify;">Wenn Sie sich f&uuml;r eine der Zahlungsoptionen unseres Partners <a target="_blank" href="https://www.billpay.de/endkunden/">Billpay GmbH</a>  entscheiden, werden Sie im Bestellprozess gebeten, in die &Uuml;bermittlung  der f&uuml;r die Abwicklung der Zahlung und eine Identit&auml;ts- und  Bonit&auml;tspr&uuml;fung erforderlichen Daten an Billpay einzuwilligen. Sofern  Sie Ihre Einwilligung erteilen, werden Ihre Daten (Vor- und Nachname,  Stra&szlig;e, Hausnummer, Postleitzahl, Ort, Geburtsdatum, Telefonnummer und  beim Kauf per Lastschrift die angegebene Kontoverbindung) sowie die  Daten im Zusammenhang mit Ihrer Bestellung an Billpay &uuml;bermittelt. <br />Zum  Zwecke der eigenen Identit&auml;ts- und Bonit&auml;tspr&uuml;fung &uuml;bermittelt Billpay  oder von Billpay beauftragte Partnerunternehmen Daten an  Wirtschaftsauskunfteien (Auskunfteien) und erh&auml;lt von diesen Ausk&uuml;nfte  sowie ggf. Bonit&auml;tsinformationen auf Basis mathematisch-statistischer  Verfahren, in deren Berechnung unter anderem Anschriftendaten  einflie&szlig;en. Detaillierte Informationen hierzu und zu den eingesetzten  Auskunfteien sind den <a target="_blank" href="https://www.billpay.de/allgemein/datenschutz/">Datenschutzbestimmungen</a> der Billpay GmbH zu entnehmen. <br />Des  Weiteren setzt Billpay zur Aufdeckung und Pr&auml;vention von Betrug ggf.  Hilfsmittel Dritter ein. Mit diesen Hilfsmitteln gewonnene Daten werden  ggf. bei Dritten verschl&uuml;sselt gespeichert, so dass sie lediglich von  Billpay lesbar sind. Nur wenn Sie eine Zahlart unseres  Kooperationspartners Billpay ausw&auml;hlen, werden diese Daten verwendet,  ansonsten verfallen die Daten automatisch nach 30 Minuten.</p>    <h4 style="text-align: justify;">Datensicherheit</h4> <p style="text-align: justify;">Ihre personenbezogenen Daten werden im Bestellprozess verschl&uuml;sselt mittels SSL &uuml;ber das Internet &uuml;bertragen. Kreditkartendaten werden nicht gespeichert, sondern direkt von unserem Payment-Dienstleister ConCardis, PaymentNetWorke, Targobank erhoben und verarbeitet. Wir sichern unsere Website und sonstigen Systeme durch technische und organisatorische Ma&szlig;nahmen gegen Verlust, Zerst&ouml;rung, Zugriff, Ver&auml;nderung oder Verbreitung Ihrer Daten durch unbefugte Personen. Der Zugang zu Ihrem Kundenkonto ist nur nach Eingabe Ihres pers&ouml;nlichen Passwortes m&ouml;glich. Sie sollten Ihre Zugangsinformationen stets vertraulich behandeln und das Browserfenster schlie&szlig;en, wenn Sie die Kommunikation mit uns beendet haben, insbesondere wenn Sie den Computer gemeinsam mit anderen nutzen.</p> <h4 style="text-align: justify;">Wiederholung von Einwilligungserkl&auml;rungen</h4>    <p class="MsoNormal" style="text-align: justify;">Die nachstehende(n) Einwilligung(en) haben Sie  uns ggf. ausdr&uuml;cklich erteilt und wir haben Ihre Einwilligung  protokolliert. Nach dem Telemediengesetz sind wir verpflichtet, den  Inhalt von Einwilligungen jederzeit zum Abruf bereit zu halten. Sie  k&ouml;nnen Ihre Einwilligung(en) jederzeit mit Wirkung f&uuml;r die Zukunft  widerrufen.</p>    <h4 style="text-align: justify;">a) Erlaubnis zur E-Mail-Werbung</h4>    <p style="text-align: justify;">Ich m&ouml;chte den Newsletter abonnieren (Abmeldung jederzeit m&ouml;glich)</p>    <h4 style="text-align: justify;">Einwilligungsklausel Newsletter</h4>    <p class="MsoNormal" style="text-align: justify;">Mit Ihrem Einverst&auml;ndnis nutzen wir  Ihre E-Mail-Adresse f&uuml;r die Zusendung eines E-Mail-Newsletters. Die  Versendung erfolgt zum Monatsanfang. Sie erteilen Ihre Einwilligung nur  gegen&uuml;ber unserem Unternehmen. Ihre Daten werden vertraulich behandelt  und nur f&uuml;r firmeninterne Zwecke verwendet. Ihre Daten werden NICHT an  Dritte weitergeleitet.  Der Newsletter informiert &uuml;ber Sonderaktionen, Gewinnspiele und   Produkte. Zu statistischen Zwecken werten wir jedes Mailing in anonymer Form aus.  Dabei wird analysiert welche Links im Newsletter angeklickt wurden. Es  sind keine R&uuml;ckschl&uuml;sse zu Ihrer Person m&ouml;glich, wer was angeklickt hat.</p>    <h4 style="text-align: justify;">Widerruf</h4>    <p class="MsoNormal" style="text-align: justify;">Sie k&ouml;nnen Ihre Einwilligung jederzeit  widerrufen, indem Sie den Abmelde-Link anklicken, den Sie am Ende jedes  Newsletters finden. Auf  <a href="https://moebel-boss.de/service/contact/form/">Anfrage</a>   teilen wir Ihnen unentgeltlich mit, welche Daten wir &uuml;ber Sie  gespeichert haben. Sie haben das Recht die Berichtigung, Sperrung oder  L&ouml;schung Ihrer Daten zu verlangen.</p>        <p class="MsoNormal" style="text-align: justify;">Der Nutzung Ihrer Daten zu Werbezwecken k&ouml;nnen Sie jederzeit widersprechen.</p>     <h4 style="text-align: justify;">Ihre Rechte</h4> <p style="text-align: justify;">Nach dem Bundesdatenschutzgesetz haben Sie das Recht, von uns Auskunft &uuml;ber alle personenbezogenen Daten zu erhalten, die wir &uuml;ber Sie gespeichert haben. Sollten Sie mit der Speicherung Ihrer personenbezogenen Daten nicht mehr einverstanden sein oder diese unrichtig geworden sein, k&ouml;nnen Sie uns anweisen, Ihre Daten zu l&ouml;schen, zu sperren oder erforderliche Korrekturen vorzunehmen.</p><p style="text-align: justify;">Der Nutzung Ihrer Daten zu Werbezwecken k&ouml;nnen Sie jederzeit widersprechen.&nbsp;</p><h4 style="text-align: justify;">Google Analytics</h4><p style="text-align: justify;">Diese&nbsp; Website&nbsp; benutzt&nbsp; Google&nbsp; Analytics,&nbsp; einen&nbsp; Webanalysedienst&nbsp; der&nbsp; Google&nbsp; Inc. (&bdquo;Google&ldquo;). Google&nbsp; Analytics&nbsp; verwendet&nbsp; sog.&nbsp; &bdquo;Cookies&ldquo;,&nbsp; Textdateien,&nbsp; die&nbsp; auf&nbsp; Ihrem&nbsp; Computer&nbsp; gespeichert werden&nbsp; und&nbsp; die&nbsp; eine&nbsp; Analyse&nbsp; der&nbsp; Benutzung&nbsp; der&nbsp; Website&nbsp; durch&nbsp; Sie&nbsp; erm&ouml;glichen.&nbsp; Die&nbsp; durch&nbsp; den Cookie erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der Regel an einen Server&nbsp; von&nbsp; Google&nbsp; in&nbsp; den&nbsp; USA&nbsp; &uuml;bertragen&nbsp; und&nbsp; dort&nbsp; gespeichert.&nbsp; Im&nbsp; Falle&nbsp; der&nbsp; Aktivierung&nbsp; der IPAnonymisierung&nbsp; auf&nbsp; dieser&nbsp; Webseite,&nbsp; wird&nbsp; Ihre&nbsp; IP-Adresse&nbsp; von&nbsp; Google&nbsp; jedoch&nbsp; innerhalb&nbsp; von Mitgliedstaaten der Europ&auml;ischen Union oder in anderen Vertragsstaaten des Abkommens &uuml;ber den Europ&auml;ischen&nbsp; Wirtschaftsraum&nbsp; zuvor&nbsp; gek&uuml;rzt.&nbsp; Nur&nbsp; in&nbsp; Ausnahmef&auml;llen&nbsp; wird&nbsp; die&nbsp; volle&nbsp; IP-Adresse&nbsp; an einen Server von Google in den USA &uuml;bertragen und dort gek&uuml;rzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports&nbsp; &uuml;ber&nbsp; die&nbsp; Websiteaktivit&auml;ten&nbsp; zusammenzustellen&nbsp; und&nbsp; um&nbsp; weitere&nbsp; mit&nbsp; der Websitenutzung und&nbsp;&nbsp; der&nbsp;&nbsp; Internetnutzung&nbsp;&nbsp; verbundene&nbsp;&nbsp; Dienstleistungen&nbsp;&nbsp; gegen&uuml;ber&nbsp;&nbsp; dem&nbsp;&nbsp; Websitebetreiber&nbsp;&nbsp; zu erbringen.&nbsp; Die&nbsp; im&nbsp; Rahmen&nbsp; von&nbsp; Google&nbsp; Analytics&nbsp; von&nbsp; Ihrem&nbsp; Browser&nbsp; &uuml;bermittelte&nbsp; IP-Adresse&nbsp; wird nicht&nbsp; mit&nbsp; anderen&nbsp; Daten&nbsp; von&nbsp; Google&nbsp; zusammengef&uuml;hrt.&nbsp; Sie&nbsp; k&ouml;nnen&nbsp; die&nbsp; Speicherung&nbsp; der&nbsp; Cookies durch&nbsp; eine&nbsp; entsprechende&nbsp; Einstellung&nbsp; Ihrer&nbsp; Browser-Software&nbsp; verhindern;&nbsp; wir&nbsp; weisen&nbsp; Sie&nbsp; jedoch darauf&nbsp; hin,&nbsp; dass&nbsp; Sie&nbsp; in&nbsp; diesem&nbsp; Fall&nbsp; gegebenenfalls&nbsp; nicht&nbsp; s&auml;mtliche&nbsp; Funktionen&nbsp; dieser&nbsp; Website vollumf&auml;nglich werden nutzen k&ouml;nnen.</p><p style="text-align: justify;">Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website&nbsp; bezogenen&nbsp; Daten&nbsp; (inkl.&nbsp; Ihrer&nbsp; IP-Adresse)&nbsp; an&nbsp; Google&nbsp; sowie&nbsp; die&nbsp; Verarbeitung&nbsp; dieser&nbsp; Daten durch&nbsp; Google&nbsp; verhindern,&nbsp; indem&nbsp; sie&nbsp; das&nbsp; unter&nbsp; dem&nbsp; folgenden&nbsp; Link&nbsp; verf&uuml;gbare&nbsp; Browser-Plugin herunterladen und installieren: <a href="http://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">http://tools.google.com/dlpage/gaoptout?hl=de</a></p><h4 style="text-align: justify;">Optimizely, Inc., (&quot;Optimizely&quot;)</h4><p style="text-align: justify;">Diese Website benutzt Optimizely, einen Webanalysedienst der Optimizely, Inc., (&quot;Optimizely&quot;). Optimizely verwendet sog. &quot;Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm&ouml;glichen. Die durch den Cookie erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der Regel an einen Server von Optimizely in den USA &uuml;bertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Optimizely jedoch innerhalb von Mitgliedstaaten der Europ&auml;ischen Union oder in anderen Vertragsstaaten des Abkommens &uuml;ber den Europ&auml;ischen Wirtschaftsraum zuvor gek&uuml;rzt. Nur in Ausnahmef&auml;llen wird die volle IP-Adresse an einen Server von Optimizely in den USA &uuml;bertragen und dort gek&uuml;rzt. Im Auftrag des Betreibers dieser Website wird Optimizely diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten und um Reports &uuml;ber die Websiteaktivit&auml;ten zusammenzustellen. Die im Rahmen von Optimizely von Ihrem Browser &uuml;bermittelte IP-Adresse wird nicht mit anderen Daten von Optimizely zusammengef&uuml;hrt. Sie k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich werden nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus das Optimizely-Tracking jederzeit deaktivieren (und somit die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten - inkl. Ihrer IP-Adresse - an Optimizely sowie die Verarbeitung dieser Daten durch Optimizely verhindern), indem Sie durch ein <a href="https://moebel-boss.de/?optimizely_opt_out=true" target="_blank">Opt-Out</a> widersprechen.</p><h4 style="text-align: justify;">Hurra Communications GmbH</h4><p style="text-align: justify;">Auf dieser Website werden mit Technologien der Hurra Communications GmbH (<a href="http://www.hurra.com">www.hurra.com</a>) Daten &uuml;ber Ihr Nutzungsverhalten auf unserer Website zu Optimierungs- und Marketingzwecken erhoben und gespeichert. Diese Daten dienen der Analyse des Verhaltens der Besucher und werden f&uuml;r die Erstellung von pseudonymen Nutzungsprofilen verwendet. Zu diesem Zweck werden Cookies einsetzt, die eine Wiedererkennung eines Internet-Browsers bei einem erneuten Besuch erm&ouml;glichen. Die durch hurra.com Technologie erhobenen Nutzungsprofile werden ohne ausdr&uuml;ckliche Zustimmung des Besuchers jedoch nicht mit personenbezogenen Daten &uuml;ber den Tr&auml;ger des Pseudonyms zusammengef&uuml;hrt. Die IP Adressen von Besuchern werden vor der Speicherung gek&uuml;rzt, so dass ein Personenbezug ausgeschlossen und eine Zusammenf&uuml;hrung von Nutzungsprofilen zu IP-Adressen nicht mehr m&ouml;glich ist.<br />Weitere Informationen finden Sie in der <a href="http://www.hurra.com/privacy">Datenschutzerkl&auml;rung</a> von hurra.com. Besucher der Website k&ouml;nnen der Datenerhebung und &ndash;speicherung durch hurra.com Technologie f&uuml;r diese<br />Webseite jederzeit f&uuml;r die Zukunft durch einen <a href="http://ssl.hurra.com/opt-out?cid=&lt;4369&gt;&amp;ln=de">Opt-Out</a> widersprechen.</p> <h4 style="text-align: justify;">Ansprechpartner f&uuml;r Datenschutz</h4> <p style="text-align: justify;">Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten, bei Ausk&uuml;nften, Berichtigung, Sperrung oder L&ouml;schung von Daten sowie Widerruf erteilter Einwilligungen wenden Sie sich bitte an:</p> <p style="text-align: justify;">Uwe L&uuml;llemann Dipl. Betriebswirt (FH) - Zertifizierter Datenschutzbeauftragter,</p> <p style="text-align: justify;">Osterweg 2, 32549 Bad Oeynhausen, <a href="mailto:uwe.luellemann@SK-consulting.com">uwe.luellemann@SK-consulting.com</a>.<!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal" />
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8" />
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 1" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 2" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 3" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 4" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 5" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 6" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 7" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 8" />
+  <w:LsdException Locked="false" Priority="39" Name="toc 9" />
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption" />
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title" />
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font" />
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle" />
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong" />
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis" />
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid" />
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text" />
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1" />
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision" />
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph" />
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5" />
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6" />
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6" />
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6" />
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6" />
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" />
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6" />
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6" />
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6" />
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6" />
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6" />
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis" />
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis" />
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference" />
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference" />
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title" />
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography" />
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading" />
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Normale Tabelle";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--></p></div></section></div></div></div>
+
+	</main>
+		<footer>
+	<div class="container">
+        <ul class="mod-teaser-list mod-flexbox">
+					<li class="mod-teaser-list__m mod-flexbox__item">
+						<form id="footerNewsletter" class="mod-quick-newsletter mod-quick-newsletter--scale" action="/newsletter/form" method="post"><fieldset>
+								<div class="mod-quick-newsletter__visual">
+									<img title="" width="180" height="150" src="/medias/sys_boss/images/hda/heb/footernewslettermedia.png" alt=""/>
+								</div>
+								<div class="mod-quick-newsletter__content">
+									<h2>Bestens informiert!</h2>
+									<ul class="mod-check-list mod-check-list--ci">
+										<li>Die aktuellsten Prospekte</li>
+										<li>Rabattaktionen, Angebote und Gewinnspiele</li>
+										<li>Die neuesten Trends auf einen Blick</li>
+									</ul>
+								</div>
+								<input type="text" id="storelocator-query" name="email" placeholder="Meine E-Mail-Adresse &hellip;" class="form-control js-store-finder-search-input form-control" />
+								<button class="btn icon-after icon-link-forward" title="Kostenlos anmelden">Kostenlos anmelden</button>
+							</fieldset>
+						<div>
+<input type="hidden" name="CSRFToken" value="2e5afdf4-a8e5-488f-a59c-de828c61886d" />
+</div></form></li>
+					<li class="mod-teaser-list__s mod-flexbox__item">
+						<section class="mod-teaser mod-teaser--footer">
+	<span class="util-h-l"><font color="#000000">SICHER EINKAUFEN</font></span>
+	<ul class="mod-teaser__logos">
+			<li><div id="trusted-badge"></div></li>
+			<li >
+									<a target="_blank" href="https://ehi-siegel.de/verbraucher/shops-mit-siegel/zertifizierte-shops/zertifikat/e24d0c13f28a398c4ee599cb7ae984f2/"  title="EHI Geprüfter Online-Shop"><img title="EHI-Siegel_BOSS_90x90.png" alt="EHI-Siegel_BOSS_90x90.png" src="/medias/sys_boss/images/h6a/h40/ehi-siegel-boss-90x90.png"><span></span></a>
+								</li>
+							</ul>
+</section> 
+</li>
+					<li class="mod-teaser-list__s mod-flexbox__item">
+						<section class="mod-teaser mod-teaser--footer"> 	<span class="util-h-l">SERVICEHOTLINE</span>       <br /> <a href="tel:+495731609860"><p><span style="font-size: large;"><strong><font color="#e6007e">05731 - 609 860*</font></strong></span></p></a><br /><div>Mo.-Fr. 8.00 bis 20.00 Uhr</div><div>Sa. 10.00 bis 15.00 Uhr</div><div><br /><span style="font-size: small;">*zum Ortstarif, Mobil ggf. abweichend</span></div></section></li>
+				</ul>
+				<div class="mod-box">
+					<div class="row">
+						<div class="col-m-6">
+							<section class="mod-teaser mod-teaser--footer">
+	<span class="util-h-l">ZAHLUNGSMETHODEN</span>
+	<ul class="mod-teaser__logos">
+			<li class="has-text">
+									<a href="https://moebel-boss.de/service/paymentinformations#Kreditkarte" ><img title="Visa" alt="Visa" src="/medias/sys_boss/images/h89/had/8796157804574.png"><span>Visa</span></a>
+								</li>
+							<li class="has-text">
+									<a href="https://moebel-boss.de/service/paymentinformations#Kreditkarte" ><img title="Mastercard" alt="Mastercard" src="/medias/sys_boss/images/h4d/hd6/8796158197790.png"><span>Mastercard</span></a>
+								</li>
+							<li class="has-text">
+									<a href="/service/paymentinformations#paypal" ><img title="Paypal" alt="Paypal" src="/medias/sys_boss/images/h07/hf5/8796158296094.png"><span>Paypal</span></a>
+								</li>
+							<li class="has-text">
+									<a href="/service/paymentinformations#Sofortueberweisung" ><img title="Sofortüberweisung" alt="Sofortüberweisung" src="/medias/sys_boss/images/h03/hc3/8796158230558.png"><span>Sofort&shy;&uuml;ber&shy;wei&shy;sung</span></a>
+								</li>
+							<li class="has-text">
+									<a href="/service/paymentinformations#Ueberweisung" ><img title="Vorkasse" alt="Vorkasse" src="/medias/sys_boss/images/hd0/h47/8796158263326.png"><span>Vorkasse</span></a>
+								</li>
+							<li class="has-text">
+									<a href="https://moebel-boss.de/service/paymentinformations#Kauf%20auf%20Rechnung" ><img title="Rechnung" alt="Rechnung" src="/medias/sys_boss/images/hf2/h89/8796158066718.png"><span>Rechnung</span></a>
+								</li>
+							<li class="has-text">
+									<a href="https://moebel-boss.de/service/paymentinformations#PayLater" ><img title="logo_paylater.png" alt="logo_paylater.png" src="/medias/sys_boss/images/h51/hda/8833972895774.png"><span>Ratenkauf</span></a>
+								</li>
+							</ul>
+</section> 
+</div>
+						<div class="col-m-6">
+							<section class="mod-teaser mod-teaser--footer">
+	<span class="util-h-l">SERVICE & VERSAND</span>
+	<ul class="mod-teaser__logos">
+			<li class="has-text">
+									<a href="https://moebel-boss.de/service/shippingcosts"  title="Versandkosten"><img title="LKW50x55px.png" alt="LKW50x55px.png" src="/medias/sys_boss/images/h98/h2b/lkw50x55px.png"><span>Versandkosten</span></a>
+								</li>
+							<li class="has-text">
+									<a target="_blank" href="http://www.dhl.de/de/paket/information/sendungsverfolgung.html" ><img title="DHL" alt="DHL" src="/medias/sys_boss/images/ha3/h0a/8796159082526.png"><span>DHL</span></a>
+								</li>
+							<li class="has-text">
+									<a target="_blank" href="http://www.dpdhl.com/de/verantwortung/umweltschutz.html" ><img title="CO2 neutraler Versand" alt="CO2 neutraler Versand" src="/medias/sys_boss/images/h71/h23/8796158885918.png"><span>CO2 neutraler Versand</span></a>
+								</li>
+							<li class="has-text">
+									<a href="https://moebel-boss.de/service/orderhotline"  title="Servicehotline"><img title="Servicehotline55x55px.png" alt="Servicehotline55x55px.png" src="/medias/sys_boss/images/h81/h09/servicehotline55x55px.png"><span>Servicehotline</span></a>
+								</li>
+							<li class="has-text">
+									<a href="https://moebel-boss.de/store-finder"  title="Mein Markt"><img title="Markt50x55pxneu.png" alt="Markt50x55pxneu.png" src="/medias/sys_boss/images/heb/he4/markt50x55pxneu.png"><span>Mein Markt</span></a>
+								</li>
+							</ul>
+</section> 
+</div>
+					</div>
+				</div>
+			<div class="row">
+					<div class="col-m-6">
+						<section class="mod-footer-categories">
+							<h3>Topkategorien</h3>
+							<ul class="yCmsContentSlot">
+<li class="yCmsComponent">
+<a href="/Wohnen/c/200"  title="Wohnen" >Wohnen</a></li><li class="yCmsComponent">
+<a href="/Flur/Garderoben/c/850"  title="Garderobe" >Garderobe</a></li><li class="yCmsComponent">
+<a href="/Schlafen/Kleiderschr%C3%A4nke/c/340"  title="Schrank" >Schrank</a></li><li class="yCmsComponent">
+<a href="/Schlafen/c/300"  title="Schlafzimmer" >Schlafzimmer</a></li><li class="yCmsComponent">
+<a href="/Wohnen/Esszimmer/Tische/c/291"  title="Tische" >Tische</a></li><li class="yCmsComponent">
+<a href="/Wohnen/Kommoden-%26-Vitrinen/c/260"  title="Sideboard" >Sideboard</a></li><li class="yCmsComponent">
+<a href="/Arbeit/Schreibtische/c/710"  title="Schreibtisch" >Schreibtisch</a></li><li class="yCmsComponent">
+<a href="/Schlafen/Kommoden/c/350"  title="Kommode" >Kommode</a></li></ul></section>
+					</div>
+					<div class="col-m-6">
+						<section class="mod-footer-categories">
+							<h3>Service</h3>
+							<ul class="yCmsContentSlot">
+<li class="yCmsComponent">
+<a href="/service/service"  title="Das nennen wir Service" >Das nennen wir Service</a></li><li class="yCmsComponent">
+<a href="/service/online"  title="Onlineservices & Hilfe" >Onlineservices & Hilfe</a></li><li class="yCmsComponent">
+<a href="/service/orderhotline"  title="Telefonische Bestellung" >Telefonische Bestellung</a></li><li class="yCmsComponent">
+<a href="/service/environmentalism"  title="Umweltschutz" >Umweltschutz</a></li><li class="yCmsComponent">
+<a href="/newsletter"  title="Newsletter" >Newsletter</a></li><li class="yCmsComponent">
+<a href="/my-account/tracking"  title="Auftragsverfolgung" >Auftragsverfolgung</a></li><li class="yCmsComponent">
+<a href="https://moebel-boss.de/company/career"  title="Karriere"  target="_blank">Karriere</a></li></ul></section>
+					</div>
+				</div>
+			<hr />
+		<div class="row">
+			<div class="col-m-6">
+						<div class="content"><p class="info">© SB-Möbel Boss Online Shop GmbH & Co. KG</p><p class="info">* Preise inkl. MwSt und ggf. zzgl. Versandkosten und Montagekosten</br>** Zur einmaligen Einlösung. Pro Person und Bestellung darf nur ein Gutschein eingelöst werden. Nicht kombinierbar mit anderen Aktionen. Nur online einlösbar.</p></div></div>
+					<div class="col-m-6">
+						<div class="mod-footer-navigation">
+							<ul class="yCmsContentSlot">
+<li class="yCmsComponent">
+<a href="/service/contact"  title="Kontakt" >Kontakt</a></li><li class="yCmsComponent">
+<a href="/impressum"  title="Impressum" >Impressum</a></li><li class="yCmsComponent">
+<a href="/termsAndConditions"  title="AGB" >AGB</a></li><li class="yCmsComponent">
+<a href="/privacy"  title="Datenschutz" >Datenschutz</a></li><li class="yCmsComponent">
+<a href="/company/company"  title="Über uns" >Über uns</a></li></ul></div>
+					</div>
+				</div>
+	</div>
+</footer>
+<form name="accessiblityForm">
+		<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value=""/>
+	</form>
+	<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
+
+	<div class="mod-cookie-warning">
+	<div class="container">
+		<p>Wir verwenden Cookies um Ihnen ein optimales Einkaufserlebnis zu gew&auml;hrleisten. Durch die Nutzung unserer Internetseiten stimmen Sie der Verwendung von Cookies zu.</p>
+		<a href="#" class="mod-cookie-warning__close icon-before icon-close_x">Ok, Danke f&uuml;r den Hinweis</a>
+	</div>
+</div><script type="text/javascript">
+		/*<![CDATA[*/
+		
+		var ACC = { config: {} };
+			ACC.config.contextPath = "";
+			ACC.config.encodedContextPath = "";
+			ACC.config.commonResourcePath = "/_ui/responsive/common";
+			ACC.config.themeResourcePath = "/_ui/responsive/theme-boss";
+			ACC.config.siteResourcePath = "/_ui/responsive/site-boss";
+			ACC.config.rootPath = "/_ui/responsive";	
+			ACC.config.CSRFToken = "2e5afdf4-a8e5-488f-a59c-de828c61886d";
+			ACC.pwdStrengthVeryWeak = 'Sehr schwach';
+			ACC.pwdStrengthWeak = 'Schwach';
+			ACC.pwdStrengthMedium = 'Mittel';
+			ACC.pwdStrengthStrong = 'Sicher';
+			ACC.pwdStrengthVeryStrong = 'Sehr sicher';
+			ACC.pwdStrengthUnsafePwd = 'password.strength.unsafepwd';
+			ACC.pwdStrengthTooShortPwd = 'Zu kurz';
+			ACC.pwdStrengthMinCharText = 'Mindestlänge %d Zeichen';
+			ACC.accessibilityLoading = 'Wird geladen... Bitte warten...';
+			ACC.accessibilityStoresLoaded = 'Händler wurden geladen';
+			ACC.config.googleApiKey="AIzaSyC9mTWJvh6nFXzZS76R0wzUWqocO1bL56E";
+			ACC.config.googleApiVersion="3";
+
+			
+			ACC.autocompleteUrl = '/search/autocompleteSecure';
+			
+			
+		/*]]>*/
+	</script>
+	<script type="text/javascript">
+	/*<![CDATA[*/
+	ACC.addons = {};	//JS holder for addons properties
+			
+	
+		ACC.addons.boss2020addon = [];
+		
+		ACC.addons.bosscheckoutaddon = [];
+		
+		ACC.addons.bosspaymentaddon = [];
+		
+	/*]]>*/
+</script>
+<script type="text/javascript" src="/_ui/responsive/common/js/concat/common.min.js?date=20170526"></script>
+<script>
+	var Brandung = {dynamicFolderPath : '/_ui/responsive/theme-boss/js/'}
+</script>
+<script type="text/javascript" src="/_ui/responsive/theme-boss/js/main.js?date=20170526"></script>
+<script type="text/javascript">
+		  (function () { 
+		    var _tsid = 'X6E1B0C624ACE58771C73EE698BD1E72C'; 
+		    _tsConfig = { 
+		      'yOffset': '0', /* offset from page bottom */
+		      'variant': 'custom', /* text, default, small, reviews, custom, custom_reviews */
+		      'customElementId': 'trusted-badge', /* required for variants custom and custom_reviews */
+		      'trustcardDirection': '', /* for custom variants: topRight, topLeft, bottomRight, bottomLeft */
+		      'customBadgeWidth': '90', /* for custom variants: 40 - 90 (in pixels) */
+		      'customBadgeHeight': '90', /* for custom variants: 40 - 90 (in pixels) */
+		      'disableResponsive': 'true', /* deactivate responsive behaviour */
+		      'disableTrustbadge': 'false', /* deactivate trustbadge */
+		      'trustCardTrigger': 'mouseenter' /* set to 'click' if you want the trustcard to be opened on click instead */
+		    };
+		    var _ts = document.createElement('script');
+		    _ts.type = 'text/javascript'; 
+		    _ts.charset = 'utf-8'; 
+		    _ts.async = true; 
+		    _ts.src = '//widgets.trustedshops.com/js/' + _tsid + '.js'; 
+		    var __ts = document.getElementsByTagName('script')[0];
+		    __ts.parentNode.insertBefore(_ts, __ts);
+		  })();
+		</script>
+	</body>
+
+</html>

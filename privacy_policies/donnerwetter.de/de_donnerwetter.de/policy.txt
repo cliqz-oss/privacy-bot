@@ -1,0 +1,332 @@
+Navigation
+
+  * Start
+  * Aktuell
+    * Wetterradar
+    * Unwetter
+    * Deutschland
+    * Blitze
+    * Meldungen
+    * Nowcasting
+    * Regenscanner
+    * Kameras
+    * Satelliten
+  * Wettermagazin
+    * Nachrichten
+    * Specials
+    * Langfristprogn.
+    * Klima
+    * Neue Energien
+    * Wetter-Kalender
+    * Wetter-Lexikon
+    * Signs in the Sky
+  * Gesundheit
+    * Biowetter
+    * Grippe-Wetter
+    * Herz-Kreislauf
+    * Pollenflug
+    * UV/Ozon
+    * Zecken-Wetter
+  * Freizeit
+    * Angel-Wetter
+    * Badeseen
+    * Fußballwetter
+    * Garten/Agrar
+    * Ski &amp; Schnee
+    * Wind
+  * Verkehr/Reise
+    * Airport-Wetter
+    * Straßenwetter
+    * Staus&amp;Verkehr
+    * Kratzprognose
+    * Alpenpasse
+    * Turbulenzen
+  * Service&amp;Tools
+    * WebsiteWetter
+    * Sonne/Mond
+    * Auskunft
+    * Wetter-Bucher
+    * E-Mail-Wetter
+
+  * Startseite
+  * Deutschland
+  * Wetterradar
+  * Unwetter
+  * Aktuell
+    * Blitze
+    * Meldungen
+    * Nowcasting
+    * Regenscanner
+    * Kameras
+    * Satelliten
+  * Wettermagazin
+    * Nachrichten
+    * Specials
+    * Klima
+    * Langfristprogn.
+    * Neue Energien
+    * Wetter-Kalender
+    * Wetter-Lexikon
+    * Signs in the Sky
+  * Gesundheit
+    * Biowetter
+    * Grippe-Wetter
+    * Herz-Kreislauf
+    * Pollenflug
+    * UV/Ozon
+    * Zecken-Wetter
+  * Freizeit
+    * Angel-Wetter
+    * Badeseen
+    * Fußballwetter
+    * Garten/Agrar
+    * Ski &amp; Schnee
+    * Wind
+  * Verkehr/Reise
+    * Airport-Wetter
+    * Straßenwetter
+    * Staus&amp;Verkehr
+    * Kratzprognose
+    * Alpenpasse
+    * Turbulenzen
+  * Service&amp;Tools
+    * WebsiteWetter
+    * Sonne/Mond
+    * Auskunft
+    * Wetter-Bucher
+    * E-Mail-Wetter
+  * Wetterpark
+
+  * Weltwetter
+
+  *   *   *   *   *   *   * 
+
+## Datenschutz, Cookies & Tracking-Technologien
+
+Anzeige
+
+  
+Donnerwetter.de setzt zum Beispiel zur Speicherung von Einstellungen und damit
+zur Optimierung Ihrer Verwendung von Donnerwetter.de sogenannte Cookies ein.
+Cookies sind Textdateien, die auf Ihrem Computer gespeichert werden.
+DarÃ¼berhinaus verwenden einige der auf Donnerwetter.de eingesetzten Dienste
+und Dienstleister eigene Cookies. Unter anderem nutzen wir zur Optimierung
+unserer Webseite den Analysedienst Google Analytics. Weitere Informationen zu
+Google Analytics finden Sie weiter unten. Da die Nutzung von Donnerwetter.de
+fÃ¼r die Besucher kostenlos ist, erfolgt die Finanzierung Ã¼ber Werbung, die
+teilweise nutzungsbasiert angezeigt wird. Auch hierfÃ¼r nutzen unsere
+Werbepartner Cookies. Zu den Werbepartnern gehÃ¶ren unter anderem
+
+* Google
+* Criteo (http://www.criteo.com/DE/privacy-policy): Zweck der Criteo Cookies ist das Targeting/Retargeting der Nutzer unserer Website, um bei ihrer zukÃ¼nftigen Navigation personalisierte Werbeanzeigen anzuzeigen.
+* AdJug (http://www.adjug.de/datenschutz.html)
+* Value brand
+* Switchads
+sowie weitere Werbekunden und -partner, die Ã¼ber diese Werbenetzwerke
+vermittelt werden.
+
+Die meisten Browser sind automatisch so eingestellt, dass Cookies akzeptiert
+werden. Auf Wunsch kÃ¶nnen Sie Ihren Browser jedoch durch Ãnderung Ihrer
+Browser-Einstellungen so konfigurieren, dass Cookies eingeschrÃ¤nkt oder
+vÃ¶llig blockiert werden. Umfassende Informationen dazu, wie man dies auf
+einer Vielzahl von Browsern bewerkstelligen kann, erhalten Sie auf den
+folgenden Internetseiten: youronlinechoices, Network Advertising Initiative
+und/oder Digital Advertising Alliance. Sie finden dort auch Angaben dazu, wie
+Sie Cookies von Ihrem Computer lÃ¶schen kÃ¶nnen sowie allgemeine Informationen
+Ã¼ber Cookies.
+
+FÃ¼r Informationen dazu, wie Sie diese Einstellungen auf dem Browser Ihres
+Handys vornehmen kÃ¶nnen, ziehen Sie bitte die Bedienungsanleitung Ihres
+Mobiltelefons heran.
+
+Die Nutzer kÃ¶nnen ihre Wahl auch Ã¼ber die folgenden Plattformen treffen: IAB
+Opt-Out-Plattform, Network Advertising Initiative Opt-Out-Plattform, Digital
+Advertising Alliance Plattform, die Optionen anbieten, um eine Entscheidung
+fÃ¼r alle Unternehmen, die auf dieser Plattform registriert sind, zu treffen.
+
+Bitte beachten Sie, dass Sie nach einer eventuellen Deaktivierung der Anzeige
+personalisierter Werbeanzeigen weiterhin Werbeanzeigen erhalten werden, die
+jedoch weniger passgenau auf Ihre Interessen/Ihr SurfVerhalten abgestimmt
+sind.
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+(Google). Google Analytics verwendet sog. Cookies, Textdateien, die auf
+Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermoglichen. Die durch den Cookie erzeugten Informationen
+uber Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) wird an
+einen Server von Google in den USA ubertragen und dort gespeichert. Google
+wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um
+Reports uber die Websiteaktivitaten fur die Websitebetreiber zusammenzustellen
+und um weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen zu erbringen. Auch wird Google diese Informationen
+gegebenenfalls an Dritte ubertragen, sofern dies gesetzlich vorgeschrieben
+oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird
+in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung
+bringen. Sie konnen die Installation der Cookies durch eine entsprechende
+Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf
+hin, dass Sie in diesem Fall gegebenenfalls nicht samtliche Funktionen dieser
+Website vollumfanglich nutzen konnen. Durch die Nutzung dieser Website
+erklaren Sie sich mit der Bearbeitung der uber Sie erhobenen Daten durch
+Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten
+Zweck einverstanden.
+
+
+
+Haftungsausschluss
+
+1\. Inhalt des Onlineangebotes  
+Donnerwetter.de ist ein kostenloses Angebot. Die Donnerwetter.de GmbH (im
+folgenden "der Anbieter") und die Autoren ubernehmen keinerlei Gewahr fur die
+Aktualitat, Korrektheit, Vollstandigkeit oder Qualitat der bereitgestellten
+Informationen. Haftungsanspruche, welche sich auf Schaden materieller oder
+ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der
+dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und
+unvollstandiger Informationen verursacht wurden, sind grundsatzlich
+ausgeschlossen, sofern seitens der Autoren oder des Anbieters kein
+nachweislich vorsatzliches oder grob fahrlassiges Verschulden vorliegt.  
+Alle Angebote sind freibleibend und unverbindlich. Der Anbieter behalt es sich
+ausdrucklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte
+Ankundigung zu verandern, zu erganzen, zu loschen oder die Veroffentlichung
+zeitweise oder endgultig einzustellen.
+
+2\. Verweise und Links  
+Bei direkten oder indirekten Verweisen auf fremde Webseiten ("Hyperlinks"),
+die außerhalb des Verantwortungsbereiches des Anbieters liegen, wurde eine
+Haftungsverpflichtung ausschließlich in dem Fall in Kraft treten, in dem der
+Anbieter von den Inhalten Kenntnis hat und es ihm technisch moglich und
+zumutbar ware, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.  
+Der Anbieter erklart hiermit ausdrucklich, dass zum Zeitpunkt der Linksetzung
+keine illegalen Inhalte auf den zu verlinkenden Seiten erkennbar waren. Auf
+die aktuelle und zukunftige Gestaltung, die Inhalte oder die Urheberschaft der
+verlinkten/verknupften Seiten hat der Anbieter keinerlei Einfluss. Deshalb
+distanziert er sich hiermit ausdrucklich von allen Inhalten aller verlinkten
+/verknupften Seiten, die nach der Linksetzung verandert wurden. Diese
+Feststellung gilt fur alle innerhalb des eigenen Internetangebotes gesetzten
+Links und Verweise sowie fur Fremdeintrage in vom Anbieter eingerichteten
+Gastebuchern, Diskussionsforen, Linkverzeichnissen, Mailinglisten und in allen
+anderen Formen von Datenbanken, auf deren Inhalt externe Schreibzugriffe
+moglich sind. Fur illegale, fehlerhafte oder unvollstandige Inhalte und
+insbesondere fur Schaden, die aus der Nutzung oder Nichtnutzung solcherart
+dargebotener Informationen entstehen, haftet allein der Anbieter der Seite,
+auf welche verwiesen wurde, nicht derjenige, der uber Links auf die jeweilige
+Veroffentlichung lediglich verweist.
+
+3\. Urheber- und Kennzeichenrecht  
+Der Anbieter ist bestrebt, in allen Publikationen die Urheberrechte der
+verwendeten Bilder, Grafiken, Tondokumente, Videosequenzen und Texte zu
+beachten, von ihm selbst erstellte Bilder, Grafiken, Tondokumente,
+Videosequenzen und Texte zu nutzen oder auf lizenzfreie Grafiken,
+Tondokumente, Videosequenzen und Texte zuruckzugreifen.  
+Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte
+geschutzten Marken- und Warenzeichen unterliegen uneingeschrankt den
+Bestimmungen des jeweils gultigen Kennzeichenrechts und den Besitzrechten der
+jeweiligen eingetragenen Eigentumer. Allein aufgrund der bloßen Nennung ist
+nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter
+geschutzt sind!  
+Das Copyright fur veroffentlichte, vom Anbieter selbst erstellte Objekte
+bleibt allein beim Anbieter der Seiten. Eine Vervielfaltigung oder Verwendung
+solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen
+elektronischen oder gedruckten Publikationen ist ohne ausdruckliche Zustimmung
+des Anbieters nicht gestattet.
+
+4\. Datenschutz  
+Sofern innerhalb des Internetangebotes die Moglichkeit zur Eingabe
+personlicher oder geschaftlicher Daten (Emailadressen, Namen, Anschriften)
+besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf
+ausdrucklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller
+angebotenen Dienste ist - soweit technisch moglich und zumutbar - auch ohne
+Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines
+Pseudonyms gestattet. Die Nutzung der im Rahmen des Impressums oder
+vergleichbarer Angaben veroffentlichten Kontaktdaten wie Postanschriften,
+Telefon- und Faxnummern sowie Emailadressen durch Dritte zur Übersendung von
+nicht ausdrucklich angeforderten Informationen ist nicht gestattet. Rechtliche
+Schritte gegen die Versender von sogenannten Spam-Mails bei Verstoßen gegen
+dieses Verbot sind ausdrucklich vorbehalten.
+
+Ein Teil unserer Dienste erfordert es, dass wir sog. Cookies einsetzen.
+Cookies sind kleine Datenmengen, die Ihr Internetbrowser auf Ihrem Rechner
+speichert. In Cookies konnen Informationen uber Ihren Besuch auf unserer
+Website gespeichert werden. Die meisten Browser sind standardmaßig so
+eingestellt, dass sie Cookies akzeptieren. Sie konnen jedoch Ihren Browser so
+umkonfigurieren, dass er Cookies ablehnt oder vorher eine Bestatigung von
+Ihnen erfragt. Wenn Sie Cookies ablehnen, kann dies allerdings zur Folge
+haben, dass nicht alle unsere Angebote fur Sie storungsfrei funktionieren.
+
+Wir greifen auf Drittanbieter zuruck, um Anzeigen zu schalten, wenn Sie unsere
+Website besuchen. Diese Unternehmen nutzen moglicherweise Informationen (dies
+schließt nicht Ihren Namen, Ihre Adresse, E-Mail-Adresse oder Telefonnummer
+ein) zu Ihren Besuchen dieser und anderer Websites, damit Anzeigen zu
+Produkten und Diensten geschaltet werden konnen, die Sie interessieren.
+
+5\. Verhalten bei Abmahnungen  
+Im Falle von Namensrecht-/Domainstreitigkeiten bzw. anderen Abmahnungen bitten
+wir Sie, zur Vermeidung unnotiger Rechtsstreitigkeiten und weiteren Kosten,
+uns bereits im Vorfeld zu kontaktieren. Die Kostennote einer anwaltlichen
+Abmahnung ohne vorhergehende Kontaktaufnahme wird im Sinne einer allgemeinen
+Schadensminderungspflicht als unbegrundet zuruckgewiesen. Unberechtigte
+Abmahnungen und/oder Unterlassungserklarungen werden direkt mit negativen
+Feststellungsklagen beantwortet.
+
+6\. Rechtswirksamkeit dieses Haftungsausschlusses  
+Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten,
+von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne
+Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder
+nicht vollstandig entsprechen sollten, bleiben die ubrigen Teile des
+Dokumentes in ihrem Inhalt und ihrer Gultigkeit davon unberuhrt.
+
+
+
+
+
+mehr
+
+## Wetter-Nachrichten - das konnte Sie auch interessieren:
+
+  
+
+Anzeige
+
+## Wetter-Meldungen
+
+  * Kurten18:09 Uhr
+
+26°
+
+  * Lohmar, Rheinland18:08 Uhr
+
+25°
+
+  * Krefeld18:06 Uhr
+
+26°
+
+  * Fellbach (Wurttembe.18:03 Uhr
+
+27°
+
+  * Hammersbach, Hessen18:00 Uhr
+
+25°
+
+  * Wetter melden!
+
+Karte | alle Meldungen
+
+Anzeige
+
+  * Impressum
+  * Wetter kaufen
+  * Werbung
+  * Presse
+  * Kontakt - E-Mail
+  * Klimaneutral surfen auf Donnerwetter.de
+
+(C) Donnerwetter.de GmbH - Der Seiteninhalt ist ausschließlich fÃ¼r den
+privaten Gebrauch bestimmt. Alle Angaben ohne Gewahr, Fehler und Irrtumer
+vorbehalten. Jede weitergehende, kommerzielle oder nicht kommerzielle Nutzung,
+Veroffentlichung, Aushang oder Sendung ist nur mit schriftlicher Zustimmung
+gestattet. Alle Rechte vorbehalten. Nutzungsbedingungen | Datenschutz
+
+  
+  
+

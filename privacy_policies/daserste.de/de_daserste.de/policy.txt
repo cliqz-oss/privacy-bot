@@ -1,0 +1,413 @@
+Zum Inhalt Zur Navigation DasErste.de Zur Suche
+
+ARD Navigation
+
+  * ARD Home
+  * Nachrichten
+  * Sport
+  * Börse
+  * Ratgeber
+  * Wissen
+  * Kultur
+  * Kinder
+  * ARD Intern
+  * Fernsehen
+  * Radio
+  * ARD Mediathek
+
+Suchvorschläge
+
+Ergebnisvorschau
+
+Menü
+
+  * Startseite
+  * Sendungen
+
+    * Sendungen A bis Z
+      * A
+      * B
+      * C
+      * D
+      * E
+      * F
+      * G
+      * H
+      * I
+      * J
+      * K
+      * L
+      * M
+      * N
+      * O
+      * P
+      * Q
+      * R
+      * S
+      * T
+      * U
+      * V
+      * W
+      * X
+      * Y
+      * Z
+      * 0-9
+    * Sendungen nach Rubrik
+      * Film
+      * Reportage & Dokumentation
+      * Comedy & Satire
+      * Soaps & Serien
+      * Krimi
+      * Wissen & Kultur
+      * Nachrichten, Wetter & Sport
+      * Politik & Weltgeschehen
+      * Talk
+      * Kinder
+      * Boulevard & Kochen
+      * Ratgeber & Service
+      * Shows & Unterhaltung
+    * Archiv
+      * A
+      * B
+      * C
+      * D
+      * E
+      * F
+      * G
+      * H
+      * I
+      * J
+      * K
+      * L
+      * M
+      * N
+      * O
+      * P
+      * Q
+      * R
+      * S
+      * T
+      * U
+      * V
+      * W
+      * X
+      * Y
+      * Z
+      * 0-9
+
+schließen
+
+Sendungen
+
+  * TV-Programm
+
+TV-Programm
+
+  * Live
+  * Mediathek
+  * Teletext
+  * Service
+  * Über uns
+
+# Datenschutzerklärung von DasErste.de
+
+Wir freuen uns über Ihr Interesse an unserem Angebot. DasErste.de nimmt den
+Schutz Ihrer Daten sehr ernst und wir möchten, dass Sie sich beim Besuch
+unserer Webseiten sicher fühlen. Hier erfahren Sie, welche Daten wir erheben
+und wie wir sie verwenden.
+
+## Datenerhebung und Datenprotokollierung
+
+Jeder Zugriff auf unsere Webseiten und jeder Abruf von Dateien wird für
+statistische und Sicherungszwecke protokolliert. Außerdem dient die
+Speicherung der Zugriffe der Gewährleistung von Stabilität und
+Betriebssicherheit des Systems und ermöglicht es, DasErste.de gegen eventuelle
+Angriffe von außen zu schützen.
+
+### Daten ohne unmittelbaren Personenbezug dienen internen Zwecken
+
+Ihre IP-Adresse, Browserkennung und Domain, der Name der abgerufenen Datei,
+Datum und Uhrzeit des Abrufs, die übertragene Datenmenge sowie der
+erfolgreiche Abruf werden in Protokolldateien (Logfiles) festgehalten. Diese
+Daten haben keinen direkten Personenbezug und dienen ausschließlich internen
+Zwecken. Zudem wird der Standort ermittelt, der bei eventuellen Geoblocking-
+Vorgaben von Rechteinhabern einzelner Videos herangezogen wird. Sie werden
+keinesfalls an Dritte weitergegeben. Die technische Administration der
+Webseiten und anonyme statistische Erhebungen ermöglichen eine Auswertung der
+Zugriffe auf das Angebot von DasErste.de und werden zur Optimierung der
+Internetpräsenz herangezogen.
+
+## Verwendung von Zählpixeln
+
+Zur Ermittlung dieser statistischen Daten setzt DasErste.de wie auch die
+anderen Gemeinschaftseinrichtungen und Landesrundfunkanstalten der ARD so
+genannte Zählpixel ein, die Daten in anonymisierter Form zu Optimierungs- und
+Studienzwecken sammeln und speichern. Diese Messung wurde unter Beachtung des
+Datenschutzes entwickelt. Ihre Identität bleibt immer geschützt. Sie erhalten
+über das System keine Werbung.
+
+DasErste.de bzw. Landesrundfunkanstalten, die Angebote für DasErste.de
+erstellen, nutzen Technologien der Firma eTracker GmbH und das "Skalierbare
+Zentrale Messverfahren" (SZM) der Firma Infonline. Für die Ermittlung der
+anonymen statistischen Kennwerte werden weiterhin Techniken der Firma AT
+Internet und der sogenannten Sitestat-Zählpixel der Firma comScore und das
+sogenannte AGF-Zählpixel der Firma Nielsen verwendet.
+
+Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen
+entweder einen Cookie mit der Kennung "ivwbox.de" oder eine Signatur, die aus
+verschiedenen automatisch übertragenen Informationen Ihres Computers erstellt
+wird. IP-Adressen werden in dem Verfahren nicht gespeichert, sondern nur in
+anonymisierter Form verarbeitet.
+
+Sie haben die Möglichkeit, der anonymen Erfassung Ihrer Nutzungsvorgänge bei
+INFOnline für das alte Messverfahren (SZM 1.5) sowie das neue Messverfahren
+(SZM 2.0) zu widersprechen. Außerdem können Sie den entsprechenden Cookie
+deaktivieren. Ferner haben Sie die Möglichkeit, der anonymen Erfassung bei AT
+Internet sowie bei Nielsen zu widersprechen. Bitte beachten Sie, dass das Opt-
+out-Cookie von Nielsen eine Gültigkeit von zwei Jahren hat. Der anonymen
+Erfassung Ihrer Nutzungsvorgänge durch comScore können Sie hier widersprechen:
+http://sitestat.com/privacy/index.php?lang=de_DE
+
+### Sola-Plugin
+
+Für die Optimierung der Videoqualität und Erreichbarkeit der Videos/Audios auf
+DasErste.de, Checkeins.de und in der Tatort App werden nicht-personenbezogene
+Daten in Form von Video-Startzeit, technisch verursachte Unterbrechungen und
+Ladezeiten, empfangene Qualität und Netzwerkinformationen Ihres
+Internetanbieters an Auswertungsserver der Firma Akamai (www.akamai.com)
+gesendet. Die Video- und Audioqualitätsmessung setzt keine Cookies.
+
+### Argos
+
+Für die Optimierung der Videoqualität und Erreichbarkeit der Videos/Audios auf
+DasErste.de, Checkeins.de und in der Tatort App werden nicht-personenbezogene
+Daten in Form von Video-Startzeit, technisch verursachte Unterbrechungen und
+Ladezeiten, empfangene Qualität und Netzwerkinformationen Ihres
+Internetanbieters an Auswertungsserver der Firma Institut für Rundfunktechnik
+(www.irt.de) gesendet. Die Video- und Audioqualitätsmessung setzt keine
+Cookies.
+
+## Personenbezogene Daten
+
+Personenbezogene Daten werden nur mit Ihrer ausdrücklichen Einwilligung
+erhoben. Personenbezogene Informationen sind Auskünfte, die Ihre Identität
+offen legen – wie z.B. Ihr vollständiger Name, Anschrift, Telefonnummer oder
+E-Mail-Adresse.
+
+Bei Teilangeboten wie Newsletter, Blogs, Communitys, Gewinnspielen und
+Umfragen sind die genannten Daten zur Nutzung erforderlich. Diese Daten werden
+ausschließlich zweckgebunden erhoben, genutzt und verarbeitet und keinesfalls
+an Dritte weitergegeben oder gar verkauft. Bei Beendigung des Teilangebots
+werden alle personenbezogenen Daten gelöscht. Sie können auch jederzeit die
+Einwilligung in die Speicherung Ihrer Daten bei den Teilangeboten widerrufen,
+die Sie nicht mehr in Anspruch nehmen wollen. Bei Fragen hierzu wenden Sie
+sich bitte an info@DasErste.de.
+
+Wir behalten uns das Recht vor, im Falle von schweren Verstößen gegen unsere
+Nutzungsbestimmungen und unzulässigen Zugriffen bzw. Zugriffsversuchen auf
+unsere Server unter Zuhilfenahme einzelner Datensätze eine Herleitung zu
+personenbezogenen Daten zu veranlassen.
+
+## Einsatz von Cookies
+
+Cookies sind kleine Textdateien, die temporär auf Ihrer Festplatte abgelegt
+werden. Bei DasErste.de werden aus technischen Gründen teilweise Cookies
+eingesetzt, ohne dass wir Sie darauf im Einzelnen hinweisen können. Dabei wird
+Ihre IP-Adresse gespeichert.
+
+Die Cookies ermöglichen Ihnen einen komfortableren Zugriff auf das
+DasErste.de-Angebot. Wir setzen sie z.B. ein, um Ihnen zu ersparen, in
+Formularen Ihre persönlichen Daten – wenn erforderlich – immer wieder neu
+eingeben zu müssen. Wenn Sie nicht möchten, dass wir Ihren Computer wieder
+erkennen, dann können Sie im von Ihnen verwendeten Browser das Speichern von
+Cookies deaktivieren oder sich benachrichtigen lassen, sobald Cookies gesendet
+werden. DasErste.de kann auch ohne Cookies genutzt werden.
+
+Bei den von DasErste.de eingesetzten Messverfahren werden permanente Cookies
+gesetzt. Dem Einsatz dieser Messverfahren können Sie widersprechen; in diesem
+Fall wird ebenfalls ein permanentes Cookie gesetzt, um die Datenverarbeitung
+zu verhindern.
+
+## Sicherheitshinweis
+
+Wir setzen alles daran, Ihre personenbezogenen Daten durch Einsatz geeigneter
+technischer und organisatorischer Maßnahmen vor unbefugtem Zugriff und
+Missbrauch zu schützen. Bitte beachten Sie, dass bei der Kommunikation mittels
+E-Mail die Datensicherheit im Internet nicht gewährleistet werden kann und wir
+bei vertraulichen Informationen den Postweg empfehlen.
+
+## Vertraulichkeit von E-Mails
+
+Wenn Sie uns eine E-Mail senden, wird Ihre E-Mail-Adresse nur für die
+Korrespondenz mit Ihnen verwendet. Auf andere Zwecke würden wir ausdrücklich
+hinweisen und hierfür Ihre Einwilligung erbitten. Programmanfragen leiten wir
+gegebenenfalls an die Redaktionen der zuständigen Landesrundfunkanstalten oder
+Gemeinschaftseinrichtungen der ARD weiter.
+
+## Ihre Rechte (Widerruf, Auskunft, Berichtigung und Löschung)
+
+Ihre Daten werden nur für den jeweiligen Zweck eingesetzt und werden nicht
+verkauft.
+
+Sie haben das Recht, ihre uns erteilte Einwilligung jederzeit zu widerrufen.
+Ein entsprechendes Begehren ist über die auf dieser Website genannten
+Kontaktdaten möglich. Im Fall eines Widerrufs ist jedoch ggf. eine
+personalisierte Nutzung des Angebotes nicht möglich.
+
+Sie haben das Recht, Auskunft darüber zu verlangen, welche Daten (z.B. Name,
+Anschrift etc.) über Sie bei DasErste.de gespeichert sind. Bitte reichen Sie
+Ihre Anfrage schriftlich beim Datenschutzbeauftragten der Rundfunkanstalt
+Ihres Sendegebietes ein und nennen Sie das jeweilige Thema, zu dem Sie Ihre
+Daten übermittelt haben. Die Datenschutzbeauftragten der
+Landesrundfunkanstalten stehen Ihnen auch für weitere Fragen zur Verarbeitung
+ihrer persönlichen Daten bei DasErste.de, zum Datenschutz im Bereich des
+Rundfunks, einschließlich des Rundfunkbeitrags und des Beitragsservice zur
+Verfügung.
+
+Sie haben darüber hinaus, nach Maßgabe der gesetzlichen Bestimmungen, ein
+Recht auf Berichtigung und Löschung Ihrer personenbezogenen Daten. Ein
+entsprechendes Begehren ist über die auf dieser Website genannten Kontaktdaten
+möglich.
+
+## Social Plugins
+
+Um DasErste.de attraktiver und nutzerfreundlicher zu machen, binden wir
+stellenweise Social Plugins von ausgewählten Social Media Plattformen (u. a.
+Facebook, Google+) ein. Hierzu gehören Empfehlungsfunktionen wie der "Gefällt
+mir"-Button von Facebook.
+
+Beim Aufrufen einer Seite mit eingebautem Social Plugin kann ggf. eine
+Datenübermittlung zum Anbieter stattfinden – auch dann, wenn Sie nicht als
+Mitglied bei dem betreffenden sozialen Netzwerk oder Nachrichtendienst
+registriert und eingeloggt sind.
+
+Um eine solche direkte Datenübermittlung zu verhindern, schützt DasErste.de
+Ihre Privatsphäre durch ein zweistufiges Verfahren (Zwei-Klick-Lösung): Social
+Plugins sind zunächst inaktiv. Beim Seitenaufruf mit inaktiven Plugins werden
+keine Daten an die sozialen Netzwerke übermittelt. Erst nach Bestätigung durch
+den Nutzer werden sie aktiviert. Damit wird eine Übermittlung persönlicher
+Daten an Social Media Plattformen nur nach Ihrer expliziten Zustimmung
+zugelassen. Die Aktivierung gilt immer nur für die aktuell aufgerufene Seite
+und ist zeitlich begrenzt (ein Tag).
+
+Darüber hinaus nutzt DasErste.de das Social-Media-Dashboard Falcon Social zur
+Pflege der Social-Media-Angebote des Ersten. Wenn Sie die sozialen Netzwerke
+des Ersten nutzen, erhält der Anbieter die IP-Adresse Ihres Geräts, mit dem
+Sie online sind. Aus dieser IP-Adresse kann der Anbieter noch keine
+Rückschlüsse auf Ihre Person ziehen, aber er weiß z.B., wo Sie sich
+(geographisch) aufhalten. Außerdem kann der Anbieter auf Ihrem Gerät
+sogenannte Cookies setzen, mit denen er Ihr Surfverhalten protokollieren kann.
+
+Für Angebote mit Live-Blog (z.B. Social TV) verwendet DasErste.de den Dienst
+Scribble Live von Scribble Inc. Wenn Sie eine Seite mit Live-Blog aufrufen,
+baut Ihr Browser eine direkte Verbindung mit dem Server des Dienstleisters
+auf. Ihre IP-Adresse und weitere gerätebezogene Informationen werden
+übertragen und gespeichert. Diese Daten werden nicht an Dritte weitergegeben.
+Der Dienstleister hat sich zur Einhaltung der europäischen Datenschutzgesetze
+verpflichtet. Die Live-Blog-Seite setzt zudem temporäre Cookies auf Ihrer
+Festplatte. Cookies und Datenübermittlung dienen ausnahmslos dem Zweck, dass
+Sie die interaktiven Features des Live-Blogs nutzen können.
+
+## Apps
+
+Eine gesonderte Erklärung zum Datenschutz in der Das Erste-App finden Sie
+direkt in dieser Anwendung.
+
+Drucken
+
+Senden
+
+Teilen
+
+  * facebook
+  * Google
+  * twitter
+  * del.icio.us
+
+Empfehlen
+
+Hinweis zum Datenschutz Mit Klick auf "Einverstanden" können Sie diese Seite
+in sozialen Netzwerken weiterempfehlen. Dabei besteht die Möglichkeit, dass
+Daten von Ihrem Computer zum jeweiligen Anbieter sowie Daten des Anbieters auf
+Ihren Computer übertragen werden. Diese Zustimmung wird von Ihnen für 24
+Stunden erteilt.
+
+Einverstanden
+
+## Sprungmarken zur Textstelle
+
+  * Datenerhebung und Datenprotokollierung
+  * Verwendung von Zählpixeln
+  * Personenbezogene Daten
+  * Einsatz von Cookies
+  * Sicherheitshinweis
+  * Vertraulichkeit von E-Mails
+  * Ihre Rechte
+  * Social Plugins
+  * Apps
+
+### Links
+
+  * Kontakt | mehr
+  * Impressum | mehr
+  * Nutzungsbedingungen | mehr
+
+Zum Anfang
+
+### Service
+
+  * Zuschauerredaktion
+  * Soziale Netzwerke
+  * Foren & Blogs
+  * Newsletter
+  * Pressedienst
+  * HbbTV
+  * Das Erste App
+  * mehr
+
+### DasErste.de
+
+  * Startseite
+  * Sendungen
+  * TV-Programm
+  * Live
+  * Mediathek
+  * Teletext
+  * Service
+  * Über uns
+
+### Gemeinsame Programme
+
+  * Das Erste
+  * ONE
+  * tagesschau24
+  * ARD-alpha
+  * 3sat
+  * arte
+  * funk
+  * KiKA
+  * phoenix
+
+### Rundfunkanstalten
+
+  * Bayerischer Rundfunk
+  * Hessischer Rundfunk
+  * Mitteldeutscher Rundfunk
+  * Norddeutscher Rundfunk
+  * Radio Bremen
+  * Rundfunk Berlin-Brandenburg
+  * Saarländischer Rundfunk
+  * Südwestrundfunk
+  * Westdeutscher Rundfunk
+  * Deutsche Welle
+  * Deutschlandradio
+
+  * Impressum
+  * Hilfe
+  * Kontakt
+  * Datenschutzbestimmungen
+
+(C) BR | DasErste.de
+
+Zum Anfang
+

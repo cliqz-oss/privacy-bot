@@ -1,0 +1,556 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- begin spin_special_output(head_start) -->
+
+		<style type="text/css">
+			.wd_featurebox_icon {
+				display: inline;
+			}
+			.wd_featurebox_icon img {
+				vertical-align: middle;
+			}
+			div.wd_featurebox_group div.wd_tabs_wrapper {
+				border: none;
+				border-bottom: 1px solid #E1E1E1;
+				padding: 0 0 5px 0;
+			}
+			div.wd_featurebox_group div.wd_featurebox {
+				border: none;
+				padding: 8px 0 0 0;
+			}
+			div.wd_featurebox_group li.wd_tab {
+				float: none;
+				color: #666666;
+			}
+			div.wd_featurebox_group li.wd_tab-active {
+				border: none;
+				background-color: transparent;
+				color: #000000;
+				font-weight: bold;
+			}
+			div.wd_featurebox_group li.wd_tab-inactive {
+				cursor: auto;
+			}
+		</style>
+	
+		<style type="text/css">
+		.wd_search_form .wd_input_datepicker {
+			margin-right: 2px;
+		}
+		.wd_search_type_checkbox {
+			margin-left: 20px;
+		}
+		</style>
+		<script type="text/javascript" src="js/jquery-webdriver.js"></script>
+<script type="text/javascript" src="js/webdriver.js"></script>
+
+			<script type="text/javascript">
+				function wd_toggle_search_form(link, advanced) {
+					var $ = webDriver.jQuery;
+					var $container = $(link).closest(".wd_search_form_container");
+					var basic_form = $container.find(".wd_search_form_basic");
+					var basic_query = basic_form.find('input[name="query"]');
+					var advanced_form = $container.find(".wd_search_form_advanced");
+					var advanced_query = advanced_form.find('input[name="query"]');
+
+					if (advanced) {
+						advanced_query.val(basic_query.val());
+						advanced_form.show();
+						basic_form.hide();
+					} else {
+						basic_query.val(advanced_query.val());
+						basic_form.show();
+						advanced_form.hide();
+					}
+				}
+
+				function wd_toggle_search_type_checkboxes(radio) {
+					var $ = webDriver.jQuery;
+					var $radio = $(radio);
+					var all = $radio.val() == "All" ? $radio.is(":checked") : !$radio.is(":checked");
+					var $checkboxes = $radio.closest(".wd_form_field").find(".wd_search_type_checkbox");
+					$checkboxes.find('input[type="checkbox"]').prop("disabled", all);
+					$checkboxes.toggle(!all);
+				}
+
+				webDriver.jQuery(function ($) {
+					$('.wd_search_type_radio input[type="radio"]').each(function() {wd_toggle_search_type_checkboxes(this);});
+				});
+			</script>
+		
+<!-- end spin_special_output(head_start) -->
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=1090">
+	<title>DE Media Center | Resources</title>
+	
+ <meta name="keywords" content="MediaRoom" />
+ <meta name="description" content="MediaRoom" />
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:title" content="Mediacenter" />
+ <meta property="og:site_name" content="MediaRoom" />
+ <meta property="og:url" content="https://tripadvisor.mediaroom.com/DE-privacy-policy" />
+ <meta property="og:title" content="Mediacenter" />
+	
+	<link type="text/css" rel="stylesheet" href="css/style.css">
+	<link type="text/css" rel="stylesheet" href="css/jquery.dropdown.min.css">
+	<link type="text/css" rel="stylesheet" href="css/font-awesome.min.css">
+	<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery.dropdown.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/wdcontent.css">
+	<link rel="alternate" href="https://tripadvisor.mediaroom.com/press-releases?pagetemplate=rss" type="application/rss+xml" title="Media Center | Press Releases">	<style>.flag{background-position: 0px -98px;}</style></head>
+
+
+<body class=" wd_pageid_20328 wd_item_page wd_item_32192">
+
+<div class="topbar">
+	<div class=" widthLimit">
+		<a href="https://www.tripadvisor.de"><img src="images/ta_logo.png" alt="Reviews of Hotels, Flights and Vacation Rentals" class="mastheadLogoImage"></a>
+		<div class="headerRight">
+		<a href="https://www.tripadvisor.de" class="homelink">Zurück zu TripAdvisor</a>
+		<a href="#" class="searchMenu fa fa-search" data-jq-dropdown="#searchMenu" data-horizontal-offset="8" data-vertical-offset="14"> </a>
+		</div>
+	</div>
+</div>
+
+<div class="header"></div>
+
+<div class="heroimage widthLimit">
+	<div class="herotext">Mediacenter</div>
+</div>
+
+<div class="mainnav widthLimit">
+	<ul>
+		<li class="mannav-about"><a href="index.php?s=20327">Über TripAdvisor</a></li>
+		<li class="mannav-investor"><a href="http://ir.tripadvisor.com/" target="_blank">Beziehungen zu Investoren</a></li>
+		<li class="mannav-resources"><a href="index.php?s=20328">Ressourcen</a></li>
+		<li class="mannav-contact"><a href="index.php?s=34591">Kontakt</a></li>
+	</ul>
+</div>
+<div class="widthLimit"><img src="images/shadow-mainnav.png" width="1090" height="21"></div>
+
+<div class="contentArea widthLimit">
+
+		<div class="leftNav pad-20">
+	<div class="nav pad-20">
+<p><a href="DE-press-releases" target="_self">Pressemitteilungen</a></p>
+<p><a href="http://blog.tripadvisor.de/" target="_blank">Unser Blog</a></p>
+<p><a href="our-brand" target="_self">Unsere Marke</a></p>
+</div><!--/nav-->
+	</div><!--/leftNav-->
+	
+	<div class="content" ><div id="wd_printable_content">
+<div class="wd_standard-detail">
+<h1 class="detail_header">Datenschutzerklärung</h1>
+<p>TripAdvisor (&quot;TripAdvisor&quot;, &quot;wir&quot;, &quot;unser&quot;, &quot;uns&quot;) ist ein Online-Service, der Benutzern (&quot;Sie&quot;) Empfehlungen f&uuml;r Hotels, Resorts, Gasth&ouml;fe, Urlaub, Reisepakete, Reisef&uuml;hrer, Fl&uuml;ge, Ferienunterk&uuml;nfte und vieles mehr bereitstellt. Unsere Website, mobilen Ressourcen und zugeh&ouml;rigen Anwendungen (zusammen unsere &quot;Website&quot;) sind Teil des TripAdvisor&reg; Mediennetzwerks, das von TripAdvisor LLC betrieben wird und in dessen Eigentum steht.</p>
+
+<p>Durch den Zugriff auf unsere Website und die Nutzung unserer Services erkennen Sie an, dass Sie diese Datenschutzerkl&auml;rung und die darin erl&auml;uterten Praktiken zur Datenerfassung und -verarbeitung gelesen und verstanden haben und willigen in die Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten entsprechend dieser Datenschutzerkl&auml;rung ein.</p>
+
+<p>Diese Datenschutzerkl&auml;rung wurde zuletzt am 31. Oktober 2016&nbsp;aktualisiert. Wir k&ouml;nnen diese Datenschutzerkl&auml;rung von Zeit zu Zeit &auml;ndern, &uuml;berpr&uuml;fen Sie diese deshalb bitte regelm&auml;&szlig;ig, um &uuml;ber Aktualisierungen auf dem Laufenden zu bleiben.</p>
+
+<p>Geltungsbereich</p>
+
+<p>In dieser Datenschutzerkl&auml;rung werden unsere Richtlinie und unsere Praktiken in Bezug auf die Erfassung, Nutzung und Offenlegung von Daten &uuml;ber Sie detailliert beschreiben.</p>
+
+<p>Wir sind uns dar&uuml;ber bewusst, dass Sie bei der Online-Bereitstellung von Daten ein hohes Ma&szlig; an Vertrauen in uns setzen. Wir nehmen die damit verbundenen Anforderungen sehr ernst und stellen mit hoher Priorit&auml;t die Sicherheit und Vertraulichkeit der personenbezogenen Daten sicher, die Sie uns beim Besuch unserer Website oder der Nutzung unserer Services bereitstellen.</p>
+
+<ul>
+	<li style="margin-left: 9pt;">Informationen, die wir von Ihnen erfassen</li>
+	<li style="margin-left: 9pt;">Art und Weise der Nutzung Ihrer Informationen</li>
+	<li style="margin-left: 9pt;">Einheiten, mit denen wir Ihre Informationen teilen</li>
+	<li style="margin-left: 9pt;">Speicherzeitraum Ihrer Informationen</li>
+	<li style="margin-left: 9pt;">Ihre Rechte und Wahlm&ouml;glichkeiten in Bezug auf die Erfassung und Nutzung Ihrer Informationen</li>
+	<li style="margin-left: 9pt;">Art und Weise des Schutzes Ihrer Informationen</li>
+	<li style="margin-left: 9pt;">Schutz der Informationen von Kindern</li>
+	<li style="margin-left: 9pt;">Externe Links</li>
+	<li style="margin-left: 9pt;">Internationale &Uuml;bertragungen</li>
+	<li style="margin-left: 9pt;">&Auml;nderungen an dieser Datenschutzerkl&auml;rung</li>
+	<li style="margin-left: 9pt;">Kontaktm&ouml;glichkeiten</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p id="coll"><strong>Informationen, die wir von Ihnen erfassen</strong></p>
+
+<p><strong>Allgemein.</strong></p>
+
+<p>Wir empfangen und speichern alle Informationen, die Sie auf unserer Website eingeben oder uns auf andere Weise zukommen lassen. Hierzu geh&ouml;ren auch Informationen, mithilfe derer Sie als Einzelperson identifiziert oder direkt kontaktiert werden k&ouml;nnen (&quot;personenbezogene Daten&quot;).</p>
+
+<p>Personenbezogene Daten beinhalten Informationen, die Sie uns bereitstellen, wie Ihren Vor- und Nachnamen, Ihre Telefonnummer, Ihre Post- und E-Mail-Adressen, Ihren Benutzernamen und Ihr Kennwort sowie Abrechnungsinformationen (wie Ihre Kreditkartennummer, den Namen des Karteninhabers und das G&uuml;ltigkeitsdatum der Karte). Au&szlig;erdem fordern wir m&ouml;glicherweise Informationen zu Ihren Reisepl&auml;nen, zu Stil und Pr&auml;ferenzen, unter anderem Anfragen zu Mahlzeiten, Sitzplatzauswahl, Informationen zu Vielflieger-/Hotel-/Autovermietungsprogrammen und Optionen in Bezug auf die Bef&ouml;rderungsklasse, das Gep&auml;ck und die Flugscheinausstellung, an.</p>
+
+<p>Sie k&ouml;nnen ausw&auml;hlen, dass Sie uns diese personenbezogenen Daten nicht bereitstellen, in der Regel sind jedoch bestimmte Informationen &uuml;ber Sie erforderlich, damit Sie von TripAdvisor und dessen Partnern relevante Angebote erhalten und andere Vorteile registrierter Mitglieder in Anspruch nehmen k&ouml;nnen. Beispielsweise k&ouml;nnen nur registrierte Mitglieder Reisebewertungen einstellen, sich an Diskussionsforen beteiligen, Inhalte von TripAdvisor per E-Mail an sich selbst und andere senden, Newsletter f&uuml;r Mitglieder bestellen, auf Inhalte zur Reiseplanung zugreifen und an Umfragen, Gewinnspielen oder Verlosungen teilnehmen. Au&szlig;erdem sind einige Informationen erforderlich, damit Sie uns Fragen stellen oder andere Transaktionen auf unserer Website initiieren k&ouml;nnen.</p>
+
+<p>Weitere Informationen, die wir m&ouml;glicherweise erfassen, sind Details wie Ihre IP-Adresse, Informationen zur Identifikation Ihres Ger&auml;ts und der Browserverlauf der Website, soweit sich diese Informationen auf Sie beziehen.</p>
+
+<p><strong>Informationen &uuml;ber andere.</strong></p>
+
+<p>Sie haben die M&ouml;glichkeit, Kontaktdaten und reisebezogene Informationen f&uuml;r andere Personen &uuml;ber unsere Website bereitzustellen. Wenn Sie &uuml;ber TripAdvisor eine Reservierung f&uuml;r eine andere Person vornehmen, m&uuml;ssen Sie die personenbezogenen Daten der jeweiligen Person &uuml;bermitteln. Sie m&uuml;ssen die Einwilligung anderer Personen einholen, bevor Sie uns deren personenbezogene Daten bereitstellen, weil der Zugriff auf deren Informationen zur Anzeige oder &Auml;nderung nur &uuml;ber Ihr Konto m&ouml;glich ist.</p>
+
+<p><strong>Informationen aus anderen Quellen.</strong></p>
+
+<p>Wir erhalten m&ouml;glicherweise auch regelm&auml;&szlig;ig von Affiliate-Partnern, Gesch&auml;ftspartnern und anderen unabh&auml;ngigen Drittquellen Informationen &uuml;ber Sie und f&uuml;gen diese anderen Informationen &uuml;ber Sie hinzu. Wenn Sie sich beispielsweise von der Website eines unserer Gesch&auml;ftspartner zu TripAdvisor &quot;durchgeklickt&quot; haben und Sie bei diesem Partner registriert sind, erhalten wir m&ouml;glicherweise Informationen &uuml;ber Sie, die Sie diesem Partner bereitgestellt haben, wie Kontaktdaten und demografische Informationen. Ein weiteres Beispiel hierf&uuml;r liegt vor, wenn Sie &uuml;ber unsere Website oder vor der Ankunft auf unserer Website auf externe Services wie Services sozialer Medien zugreifen. In diesem Fall erfassen wir m&ouml;glicherweise Informationen wie Ihren Benutzernamen, Ihr Kennwort und weitere Informationen, die uns &uuml;ber diese Services zur Verf&uuml;gung gestellt werden.</p>
+
+<p>Wir sind eine Partnerschaft mit Facebook eingegangen, um f&uuml;r Mitglieder von Facebook personalisierte Inhalte auf TripAdvisor bereitzustellen. Wenn Sie bei Facebook und TripAdvisor angemeldet sind, wird TripAdvisor f&uuml;r Sie beim Besuch der Website personalisiert, selbst wenn Sie die Website von TripAdvisor zum ersten Mal verwenden. Wir zeigen Ihnen zum Beispiel Orte an, die Ihre Facebook-Freunde besucht haben, sowie Bewertungen, die von diesen auf TripAdvisor eingestellt wurden. Um diese Personalisierung zu erm&ouml;glichen, stellt uns Facebook Informationen bereit, die Sie gem&auml;&szlig; Ihren Privatsph&auml;re-Einstellungen bei Facebook freigegeben haben. Diese Informationen beinhalten m&ouml;glicherweise Ihren Namen, Ihr Profilbild, Ihr Geschlecht, Ihre Freundeliste und andere von Ihnen freigegebene Informationen.</p>
+
+<p>Wenn Sie diese Personalisierung deaktivieren m&ouml;chten, melden Sie sich zun&auml;chst bei Facebook an und gehen dann auf die TripAdvisor Website. Entweder (1) w&auml;hlen Sie auf der Seite&nbsp;<a href="https://www.tripadvisor.de/MemberProfile">Member Profile</a>&nbsp;aus dem Dropdown-Men&uuml; &quot;Your TripAdvisor&quot; die Option &quot;Edit your profile&quot; aus und klicken Sie im Facebook Connect-Statusfeld auf &quot;Disconnect&quot; oder (2) w&auml;hlen Sie auf der Seite&nbsp;<a href="https://www.tripadvisor.de/MemberProfile">Member Profile</a>&nbsp;aus dem Dropdown-Men&uuml; &quot;Your TripAdvisor&quot; die Option &quot;Connected accounts&quot; aus und klicken Sie unter &quot;Facebook Settings&quot; auf die Option &quot;Disconnect&quot;. Sie k&ouml;nnen die Personalisierung auch deaktivieren, indem Sie auf Facebook Ihre App-Einstellungen bearbeiten. Bitte beachten Sie Folgendes: Wenn Sie Facebook-Freunde haben, die ebenfalls TripAdvisor nutzen, erhalten diese auf Facebook m&ouml;glicherweise von uns geteilte Informationen &uuml;ber Sie. Wenn Sie dies verhindern m&ouml;chten, k&ouml;nnen Sie Ihre Privatsph&auml;re-Einstellungen bei Facebook entsprechend bearbeiten.</p>
+
+<p><strong>Automatische Erfassung von Informationen.</strong></p>
+
+<p>Wir erfassen automatisch einige Informationen von Ihrem Computer oder Ger&auml;t, wenn Sie TripAdvisor besuchen. Beispielsweise erfassen wir Sitzungsdaten wie Ihre IP-Adresse, die Webbrowsersoftware und die verweisende Website. Wir erfassen m&ouml;glicherweise auch Informationen zu Ihrer Online-Aktivit&auml;t wie die angezeigten Inhalte, die besuchten Seiten und durchgef&uuml;hrte oder erfolgte Suchen und/oder Reservierungen. Eines unserer Ziele bei dieser automatischen Erfassung von Informationen besteht darin, die Interessen und Pr&auml;ferenzen unserer Benutzer zu erfahren und deren Benutzererfahrung individuell anzupassen.</p>
+
+<p><strong>Zahlungsinformationen.</strong></p>
+
+<p>Wenn Sie &uuml;ber TripAdvisor Reisen bei Drittanbietern reservieren, erfassen wir von Ihnen Zahlungsinformationen wie Ihre Kreditkartennummer, den Namen des Karteninhabers, das G&uuml;ltigkeitsdatum, den Authentifizierungscode und die Rechnungsadresse. Wir &uuml;bertragen diese Informationen auf sichere Weise an den Anbieter der Reisereservierung, damit die Transaktion abgeschlossen werden kann. Bitte beachten Sie, dass Ihre Zahlung, soweit nicht anderweitig angegeben, vom Anbieter und nicht von TripAdvisor verarbeitet wird. Sie stimmen zu, dass Sie die Richtlinien und Verfahren des Anbieters vor der Vornahme einer Reservierung &uuml;ber TripAdvisor lesen und an diese gebunden sind.</p>
+
+<p>Wir bieten Mitgliedern m&ouml;glicherweise die Option, Informationen in Bezug auf das Zahlungsverfahren und die Zahlungsweise auf unserer Website zu speichern. Wenn Sie diese Zahlungsdetails auf TripAdvisor speichern, k&ouml;nnen Sie diese Informationen jederzeit unter den Kontoeinstellungen hinzuf&uuml;gen, l&ouml;schen oder &auml;ndern.</p>
+
+<p><strong>Standortinformationen und weitere Informationen von Ger&auml;ten.</strong></p>
+
+<p>Wenn Sie eine Anwendung auf einem Ger&auml;t nutzen, erfassen und verwenden wir Informationen &uuml;ber Sie generell auf &auml;hnliche Weise und zu &auml;hnlichen Zwecken wie bei der Nutzung der Website von TripAdvisor. Des Weiteren erfassen wir gegebenenfalls Informationen zu Ihrem Standort, wenn Sie Ihr Ger&auml;t &uuml;ber die Privatsph&auml;re-Einstellungen auf diesem Ger&auml;t so eingestellt haben, dass es diese Informationen an die Anwendung sendet, oder wenn Sie Fotos hochgeladen haben, die mit Standortinformationen gekennzeichnet sind. Wir verwenden die von Ihrem Ger&auml;t erfassten Informationen oder Fotos m&ouml;glicherweise dazu, um Ihre Nutzung der Anwendung zu verbessern, indem wir Ihnen relevante Inhalte und kontextabh&auml;ngige Werbung bereitstellen. Beispielsweise nutzen wir Ihren Standort gegebenenfalls dazu, um Ihnen unterwegs Bewertungen von Hotels oder Restaurants in Ihrer Umgebung anzuzeigen. Sie k&ouml;nnen die Privatsph&auml;re-Einstellungen Ihres Ger&auml;ts jederzeit &auml;ndern, um die Standortinformationen k&uuml;nftig nicht mehr mit der Anwendung zu teilen und/oder Ihre Fotos nicht mehr mit den Standortinformationen zu kennzeichnen. Bitte beachten Sie, dass sich das Deaktivieren der Standortangabe auf bestimmte Funktionen unserer App auswirken kann. Wenn Sie Fragen zu den Privatsph&auml;re-Einstellungen Ihres Ger&auml;ts haben, wenden Sie sich bitte an den Hersteller Ihres Ger&auml;ts oder Ihren Mobilfunkbetreiber.</p>
+
+<p id="Cook"><strong>Cookies und andere Internet-Technologien.</strong></p>
+
+<p>Wir erfassen Informationen &uuml;ber Cookies und andere &auml;hnliche Technologien (wie Web-Beacons). Cookies sind kleine Textdateien, die beim Besuch fast aller Websites automatisch auf Ihrem Computer oder Mobilger&auml;t abgelegt werden. Sie werden von Ihrem Internet-Browser gespeichert. Cookies enthalten grundlegende Informationen zu Ihrer Internetnutzung. Ihr Browser sendet diese Cookies jedes Mal zur&uuml;ck an die Website, wenn Sie diese erneut besuchen. Somit wird Ihr Computer oder Mobilger&auml;t wiedererkannt und Ihr Erlebnis auf dieser Website personalisiert und verbessert.</p>
+
+<p>Detailliertere Informationen zu den von uns verwendeten Cookies und &auml;hnlichen Technologien (wie Web-Beacons) finden Sie in unserer&nbsp;<a href="https://www.tripadvisor.de/CookiePolicy">Cookie-Richtlinie</a>&nbsp;und in unserem Tool zur Einwilligung in Cookies.</p>
+
+<p>Auf Websites wie&nbsp;<a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a>&nbsp;und&nbsp;<a href="http://www.youronlinechoices.eu/">www.youronlinechoices.eu</a>&nbsp;k&ouml;nnen Sie au&szlig;erdem mehr &uuml;ber Cookies im Allgemeinen erfahren, unter anderem, wie Sie feststellen k&ouml;nnen, welche Cookies sich auf Ihrem Ger&auml;t befinden, und wie Sie diese verwalten und l&ouml;schen k&ouml;nnen.</p>
+
+<p>Auf TripAdvisor, Websites von dessen Affiliate-Partnern und Apps werden Cookies zu folgenden allgemeinen Zwecken verwendet:</p>
+
+<ul>
+	<li style="margin-left: 9pt;">Um Ihren Browser als vorherigen Besucher wiederzuerkennen und um Browser-Pr&auml;ferenzen, die m&ouml;glicherweise beim Besuch auf unserer Website festgelegt wurden, zu speichern und abzurufen. Wenn Sie sich beispielsweise auf unserer Website registrieren, k&ouml;nnen wir durch die Verwendung von Cookies Ihre Anmeldeinformationen speichern, sodass Sie sich nicht bei jedem Besuch neu bei unserer Website einloggen m&uuml;ssen. Wir k&ouml;nnen auch Ihr Kennwort in einem Cookie speichern, wenn Sie das Kontrollk&auml;stchen &quot;Keep me signed in on this computer unless I sign out&quot; aktiviert haben. Mitglieder-IDs, Kennw&ouml;rter und alle anderen kontobezogenen Daten in diesen Cookies werden dabei aus Sicherheitsgr&uuml;nden verschl&uuml;sselt.</li>
+	<li style="margin-left: 9pt;">Um die Ihnen auf unseren Websites und Apps sowie auf anderen Websites im Internet bereitgestellten Inhalte, Benutzererfahrungen und Werbungen zu personalisieren. Wenn Sie beispielsweise auf eine Webseite zugreifen, wird von uns, unseren Dienstanbietern oder unseren Partnern automatisch ein Cookie platziert, damit Ihr Browser bei der Navigation im Internet erkannt wird und Ihnen Informationen und Werbungen entsprechend Ihren Interessen pr&auml;sentiert werden k&ouml;nnen. Weitere Informationen zu unseren Praktiken der Online-Werbung und Ihren Wahlm&ouml;glichkeiten finden Sie unter&nbsp;Anzeige von Werbung/Ihre Auswahlm&ouml;glichkeiten.</li>
+	<li style="margin-left: 9pt;">Um das Messen und Untersuchen der Effektivit&auml;t von Funktionen und Angeboten, Werbungen und E-Mail-Nachrichten zu unterst&uuml;tzen (festgestellt anhand der E-Mails, die Sie &ouml;ffnen und auf die Sie reagieren).</li>
+</ul>
+
+<p>Bei den meisten Browsern erfahren Sie im Hilfebereich der Symbolleiste, wie Sie verhindern k&ouml;nnen, dass Ihr Browser neue Cookies akzeptiert, wie Sie eine Browserbenachrichtigung beim Erhalt neuer Cookies aktivieren oder wie Sie unwichtige Arten von Cookies deaktivieren k&ouml;nnen. Bitte beachten Sie, dass Sie m&ouml;glicherweise auf viele der auf unseren Websites angebotenen Reise-Tools nicht zugreifen k&ouml;nnen, wenn Sie die Annahme von Cookies ablehnen.</p>
+
+<p>Auf unseren Websites k&ouml;nnen auch Web-Beacons (auch als Clear GIFs, Pixel-Tags oder Web-Bugs bezeichnet) zum Einsatz kommen, bei denen es sich um winzige Grafiken mit einem eindeutigen Bezeichner handelt, die &auml;hnlich wie Cookies funktionieren und im Code einer Webseite platziert werden. Wir verwenden Web-Beacons, um die Muster der Benutzernavigation zwischen verschiedenen Seiten innerhalb unserer Websites zu &uuml;berwachen, um Cookies bereitzustellen oder mit diesen zu kommunizieren, um festzustellen, ob Sie via Online-Werbung auf einer externen Website auf unsere Website gelangt sind, und um die Leistung der Website zu verbessern. Wir k&ouml;nnen auch unseren Dienstanbietern die Verwendung von Web-Beacons erlauben, um festzustellen, welche E-Mails von Empf&auml;ngern ge&ouml;ffnet wurden, und um die Navigation und Aktionen der Besucher auf unserer Website zu verfolgen. Auf diese Weise k&ouml;nnen wir die Effektivit&auml;t unserer Inhalte und anderer Angebote messen.</p>
+
+<p id="Werb"><strong>Anzeige von Werbung/Ihre Auswahlm&ouml;glichkeiten.</strong></p>
+
+<p><em>Informationen, die erfasst werden, um Ihnen relevante Werbung bereitzustellen</em></p>
+
+<p>TripAdvisor m&ouml;chte Ihnen relevante Inhalte und Informationen auf allen unseren Websites bereitstellen.</p>
+
+<p>Zu diesem Zweck erfassen wir m&ouml;glicherweise Informationen zu Ihren reisebezogenen Suchen und anderen Website-Aktivit&auml;ten, etwa ob Sie nach Fl&uuml;gen oder Hotels suchen, und wir verwenden diese Informationen dann, um Ihnen auf unseren Websites oder an anderer Stelle Online-Werbung bereitzustellen, die Ihren Interessen entspricht. Wenn Sie also beispielsweise auf TripAdvisor einen Flug nach Florida suchen, wird Ihnen m&ouml;glicherweise auf TripAdvisor oder einer anderen von Ihnen besuchten Website eine Werbung f&uuml;r ein Florida-Reisepaket angezeigt.</p>
+
+<p>Wir teilen Ihre pers&ouml;nlichen Kontaktdaten (wie E-Mail-Adressen) nur mit Affiliate-Partnern, damit diese Ihnen Werbung bereitstellen k&ouml;nnen. Sie k&ouml;nnen ausw&auml;hlen, dass Sie keine relevante Online-Werbung auf anderen Websites basierend auf Ihren reisebezogenen Suchen auf TripAdvisor erhalten m&ouml;chten, indem Sie&nbsp;<a href="http://www.networkadvertising.org/">hier</a>&nbsp;klicken. Wenn Sie ausw&auml;hlen, dass Sie keine auf Sie abgestimmte Werbung erhalten m&ouml;chten, wird Ihnen weiterhin Online-Werbung angezeigt. Diese ist jedoch allgemeiner und weniger relevant f&uuml;r Sie. Informationen zu unserer Richtlinie f&uuml;r den E-Mail-Kontakt zu Ihnen sind nachfolgend angegeben.</p>
+
+<p><em>Informationen, die von Gesch&auml;ftspartnern und Werbenetzwerken erfasst werden, um Ihnen relevante Werbung bereitzustellen</em></p>
+
+<p>Viele der Werbungen, die auf den Websites von TripAdvisor angezeigt werden, werden von TripAdvisor oder dessen Dienstanbietern bereitgestellt. Wir erlauben jedoch auch Drittparteien, &uuml;ber&nbsp;Cookies und andere Technologien&nbsp;Informationen zu Ihren Online-Aktivit&auml;ten zu erfassen. Zu diesen Drittparteien z&auml;hlen (1) Gesch&auml;ftspartner, die Informationen erfassen, wenn Sie eine von deren Werbungen auf unseren Websites anschauen oder mit diesen interagieren, und (2) Werbenetzwerke, die Informationen zu Ihren Interessen erfassen, wenn Sie eine von deren auf vielen verschiedenen Websites im Internet platzierten Werbungen anschauen oder mit diesen interagieren. Die von diesen Drittparteien erfassten Informationen werden dazu verwendet, um Vorhersagen &uuml;ber Ihre Eigenschaften, Interessen oder Pr&auml;ferenzen zu treffen, und um auf Ihre Interessen abgestimmte Werbungen auf unseren Websites und im gesamten Internet anzuzeigen.</p>
+
+<p>Bitte beachten Sie, dass wir keinen Zugriff auf und keine Kontrolle &uuml;ber Cookies oder andere Technologien haben, die diese Drittparteien zur Erfassung von Informationen &uuml;ber Sie verwenden, und dass die Informationspraktiken dieser Drittparteien nicht von dieser Datenschutzerkl&auml;rung gedeckt sind. Einige dieser Unternehmen sind Mitglieder der&nbsp;<a href="http://www.networkadvertising.org/">Network Advertising Initiative</a>, die es erm&ouml;glicht, &uuml;ber eine einzige Stelle zielgerichtete Werbung von den Mitgliedsunternehmen abzulehnen. Wenn Sie weitere Informationen erhalten m&ouml;chten, klicken Sie bitte&nbsp;<a href="http://www.networkadvertising.org/">hier</a>.</p>
+
+<p><em>Antwort auf DNT-Signale (Do Not Track)</em></p>
+
+<p>Ihr Webbrowser &uuml;bertr&auml;gt m&ouml;glicherweise ein DNT-Signal (Do Not Track) an TripAdvisor und andere Websites. Aufgrund von Unterschieden bei den Standardeinstellungen von Webbrowsern und der Art und Weise, in der Browser DNT-Signale integrieren, ist es f&uuml;r Website-Betreiber manchmal nicht klar, ob Website-Besucher die DNT-Einstellungen selbst ausgew&auml;hlt haben und ob sie sich dar&uuml;ber bewusst sind, dass sie die Einstellung festlegen k&ouml;nnen. TripAdvisor antwortet derzeit nicht auf DNT-Signale. Sobald die Internetbranche diesbez&uuml;gliche Standards vereinbart und TripAdvisor diese Standards anerkannt hat, wird dieser Ansatz m&ouml;glicherweise neu bewertet. Unsere aktuelle Richtlinie insbesondere in Bezug auf Cookies ist unter &quot;Cookies und andere Internet-Technologien&quot; dargelegt.</p>
+
+<p id="use"><strong>Art und Weise der Nutzung Ihrer Informationen</strong></p>
+
+<p><strong>Allgemeine Zwecke</strong></p>
+
+<p>TripAdvisor verwendet die &uuml;ber Sie erfassten Informationen zu den folgenden&nbsp;allgemeinen Zwecken:</p>
+
+<ul>
+	<li>f&uuml;r die Registrierung und zur Verwaltung Ihres Kontos, unter anderem, um Ihnen den Zugriff auf unsere Website und deren Nutzung zu erlauben;</li>
+	<li>f&uuml;r die allgemeine Kommunikation mit Ihnen, unter anderem, um Ihnen Informationen zu TripAdvisor und Einladungen von der TripAdvisor-Community bereitzustellen;</li>
+	<li>um die Ver&ouml;ffentlichung Ihrer Bewertungen, Forenbeitr&auml;ge und anderer Inhalte f&uuml;r die TripAdvisor-Community zu erm&ouml;glichen;</li>
+	<li>um Ihre Buchung von Reisereservierungen zu erm&ouml;glichen;</li>
+	<li>um Ihre Fragen und Kommentare zu beantworten;</li>
+	<li>um das Interesse an unseren Produkten, unseren Services und unserer Website zu messen und diese zu verbessern;</li>
+	<li>um Sie &uuml;ber Sonderangebote und Produkte oder Services von uns oder unseren Partnern zu benachrichtigen, die gem&auml;&szlig; Ihren Marketing-Pr&auml;ferenzen m&ouml;glicherweise f&uuml;r Sie interessant sind, wenn Sie in den Erhalt solcher Nachrichten eingewilligt haben;</li>
+	<li>um Ihre Benutzererfahrung auf TripAdvisor auf sonstige Weise zu personalisieren, unter anderem &uuml;ber die Ihnen angezeigten Werbungen;</li>
+	<li>um Informationen von Ihnen anzufordern, unter anderem durch Umfragen;</li>
+	<li>um Streitigkeiten beizulegen oder Probleme zu beheben;</li>
+	<li>um m&ouml;glicherweise verbotene oder rechtswidrige Aktivit&auml;ten zu verhindern;</li>
+	<li>um unsere Nutzungsbedingungen durchzusetzen und</li>
+	<li>wie Ihnen anderweitig zum Zeitpunkt der Erfassung erl&auml;utert.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Wenn Sie sich als Eigent&uuml;mer oder Verwalter einer Ferienunterkunft angemeldet oder Ihre Ferienunterkunft eingetragen haben, senden wir Ihnen E-Mail-Nachrichten an die E-Mail-Adresse, die Sie uns bereitstellen.</p>
+
+<p><strong>E-Mail-Nachrichten</strong></p>
+
+<p>Wir m&ouml;chten es Ihnen so leicht wie m&ouml;glich machen, reisebezogene Angebote auf unserer Website zu nutzen. Hierzu senden wir Ihnen unter anderem E-Mail-Nachrichten mit Informationen zu Ihren reisebezogenen Interessen, wie sie aus Ihren Marketing-Pr&auml;ferenzen hervorgehen. Wenn Sie beispielsweise gem&auml;&szlig; Ihren Marketing-Pr&auml;ferenzen Marketing-Mitteilungen per E-Mail bevorzugen und auf unserer Website einen Flug nach New York suchen, senden wir Ihnen m&ouml;glicherweise eine E-Mail-Nachricht mit Flugpreisen und Reiseinformationen f&uuml;r New York oder andere Ziele. &Uuml;ber diese E-Mail-Nachrichten erhalten Sie n&uuml;tzliche Informationen zu reisebezogenen Sonderangeboten, die &uuml;ber unsere Websites verf&uuml;gbar sind. Bitte beachten Sie, dass wir Ihnen in jeder von uns gesendeten E-Mail dieser Art die M&ouml;glichkeit bieten, den Erhalt weiterer solcher E-Mail-Nachrichten abzulehnen.</p>
+
+<p>Weitere Informationen hierzu finden Sie im nachfolgenden Abschnitt &quot;Ihre Rechte und Wahlm&ouml;glichkeiten in Bezug auf die Erfassung und Nutzung Ihrer Informationen&quot;.</p>
+
+<p id="shar"><strong>Einheiten, mit denen wir Ihre Informationen teilen</strong></p>
+
+<p>TripAdvisor kann Ihre Informationen mit den folgenden Empf&auml;ngern teilen:</p>
+
+<ul>
+	<li style="margin-left: 9pt;"><u>Zulieferer</u>, unter anderem Hotels, Airlines, Kreuzfahrtanbieter, Autovermietungen oder Anbieter von Aktivit&auml;ten oder Verwalter oder Eigent&uuml;mer von Ferienunterk&uuml;nften, die Ihre Reisereservierungen erf&uuml;llen. Auf TripAdvisor und Websites von dessen Affiliate-Partnern werden alle von Drittanbietern bereitgestellten Produkte und Services als solche beschrieben. Informationen, die wir mit Anbietern teilen, um Reservierungen zu erm&ouml;glichen, werden in &Uuml;bereinstimmung mit den anwendbaren Datenschutzrichtlinien des Anbieters behandelt, wobei Zahlungsinformationen hiervon ausgenommen sind. Wir teilen Zahlungsinformationen nur, wenn dies f&uuml;r Reisereservierungen erforderlich ist, die &uuml;ber TripAdvisor erm&ouml;glicht oder auf TripAdvisor vorgenommen wurden, und wir beschr&auml;nken die Nutzung von Zahlungsinformationen durch Anbieter auf diese Zwecke. Wir fordern Sie dazu auf, die Datenschutzrichtlinien, die Nutzungsbedingungen und andere Richtlinien von Reiseanbietern zur &uuml;berpr&uuml;fen, deren Produkte und Services Sie m&ouml;glicherweise &uuml;ber TripAdvisor kaufen. Bitte beachten Sie, dass diese Zulieferer Sie bei Bedarf ebenfalls kontaktieren k&ouml;nnen, um weitere Informationen zu Ihnen oder Ihren Reisepl&auml;nen zu erhalten, um Ihre Reisereservierungen zu erm&ouml;glichen oder zu anderen Zwecken in &Uuml;bereinstimmung mit den in deren Datenschutzrichtlinien und Nutzungsbedingungen beschriebenen Praktiken.</li>
+	<li style="margin-left: 9pt;"><u>Drittanbieter</u>, die Services oder Funktionen in unserem Auftrag erbringen, unter anderem Gesch&auml;ftsanalytiken, Zahlungsverarbeitung, Kundendienst, Marketing, &Ouml;ffentlichkeitsarbeit, Verteilung von Umfragen, Verlosungsprogramme und Betrugspr&auml;vention. Wir k&ouml;nnen Drittanbieter auch dazu autorisieren, Informationen f&uuml;r uns zu erfassen, unter anderem beispielsweise je nach Bedarf, um Funktionen auf unserer Website zu betreiben oder um die Bereitstellung von auf Ihre Interessen abgestimmter Online-Werbung zu erm&ouml;glichen. Drittanbieter d&uuml;rfen Informationen nur wie zur Durchf&uuml;hrung ihrer Funktionen erforderlich erfassen und haben nur in diesem Umfang hierauf Zugriff. Sie d&uuml;rfen die Informationen zu keinem anderen Zweck teilen oder verwenden.</li>
+	<li style="margin-left: 9pt;"><u>Gesch&auml;ftspartner</u>, mit denen wir m&ouml;glicherweise gemeinsam Produkte oder Services anbieten. Sie sehen, wenn eine Drittpartei an einem von Ihnen angeforderten Produkt oder Service beteiligt ist, denn deren Name wird entweder zusammen mit unserem oder separat angezeigt. Wenn Sie auf diese optionalen Services zugreifen, teilen wir mit diesen Partnern m&ouml;glicherweise Informationen &uuml;ber Sie, unter anderem Ihre personenbezogenen Daten. Wir werden Sie vor der Nutzung des optionalen Services gesondert darauf hinweisen, wenn im Rahmen des optionalen Services personenbezogene Daten an unsere Partner &uuml;bermittelt werden. Bitte beachten Sie, dass wir keine Kontrolle &uuml;ber die Datenschutzpraktiken dieser externen Gesch&auml;ftspartner haben.</li>
+	<li style="margin-left: 9pt;"><u>Websites von Affiliate-Partnern</u>. Wenn Sie von einer anderen Website auf TripAdvisor verwiesen wurden, teilen wir mit dieser verweisenden Website m&ouml;glicherweise Ihre Registrierungsinformationen wie Name, Post- und E-Mail-Adresse, Telefonnummer und Reisepr&auml;ferenzen, soweit dies f&uuml;r die Erbringung einer Leistung des Affiliate-Partners Ihnen gegen&uuml;ber oder f&uuml;r die Abrechnung erforderlich ist.</li>
+	<li style="margin-left: 9pt;"><u>Unternehmen unserer Unternehmensgruppe</u>. Wir teilen Ihre personenbezogenen Daten m&ouml;glicherweise innerhalb der TripAdvisor Mediengruppe sowie mit unserer Muttergesellschaft und nationalen und internationalen Affiliate-Partnern und Websites (unter anderem DaoDao.com). Dadurch k&ouml;nnen wir Ihnen Informationen zu reisebezogenen und anderen Produkten und Services bereitstellen, die gem&auml;&szlig; Ihren Marketing-Pr&auml;ferenzen m&ouml;glicherweise f&uuml;r Sie interessant sind. Insoweit als unsere Muttergesellschaft und Affiliate-Partner Zugriff auf Ihre Informationen haben, befolgen diese Praktiken, die mindestens so restriktiv sind wie die in dieser Datenschutzerkl&auml;rung beschriebenen Praktiken. Sie erf&uuml;llen au&szlig;erdem alle anwendbaren Gesetze zur &Uuml;bertragung von Werbemitteilungen und bieten mindestens die M&ouml;glichkeit, dass Sie in jeder von ihnen gesendeten Werbe-E-Mail den Erhalt zuk&uuml;nftiger E-Mail-Nachrichten ablehnen k&ouml;nnen.</li>
+</ul>
+
+<p>Wir k&ouml;nnen Ihre Informationen auch teilen, wenn wir in unserem alleinigen Ermessen glauben, dass eine solche Offenlegung aus folgenden Gr&uuml;nden erforderlich ist:</p>
+
+<ul>
+	<li style="margin-left: 9pt;">um die Anforderungen rechtm&auml;&szlig;iger und durchsetzbarer Anweisungen zur Vorlage, gerichtlicher Verf&uuml;gungen oder anderer Rechtsverfahren zu erf&uuml;llen; um unsere Rechte nachzuweisen oder auszu&uuml;ben; um uns gegen Anspr&uuml;che zu verteidigen oder wie anderweitig gesetzlich erforderlich. In diesen F&auml;llen behalten wir uns das Recht vor, die uns offenstehenden Einw&auml;nde oder Rechte zu erheben oder hierauf zu verzichten;</li>
+	<li style="margin-left: 9pt;">um tats&auml;chliche oder vermutete rechtswidrige Aktivit&auml;ten zu untersuchen, zu verhindern oder hiergegen Schritte zu unternehmen; um die Rechte, das Eigentum oder die Sicherheit von TripAdvisor, unseren Kunden oder anderen zu sch&uuml;tzen und zu verteidigen und in Verbindung mit unseren&nbsp;Nutzungsbedingungen&nbsp;und anderen Vereinbarungen oder</li>
+	<li style="margin-left: 9pt;">in Verbindung mit einer Unternehmenstransaktion wie einer Abspaltung, Fusion, Verschmelzung oder dem Verkauf von Verm&ouml;genswerten oder im unwahrscheinlichen Fall des Konkurses.</li>
+</ul>
+
+<p style="margin-left:-9pt;">&nbsp;</p>
+
+<p>Wenn Sie ein Profil bei TripAdvisor erstellen, sind bestimmte Informationen in Ihrem Profil allgemein zug&auml;nglich und identifizierbar, indem auf Ihren Bildschirmnamen geklickt wird. Sie haben die M&ouml;glichkeit, Ihr f&uuml;r andere Mitglieder zug&auml;ngliches Profil zu &uuml;berpr&uuml;fen. Wenn Sie au&szlig;erdem an unseren Programmen f&uuml;r die Kommunikation zwischen Mitgliedern teilnehmen (z. B. Netzwerke von Reisenden und private Nachrichten), k&ouml;nnen andere Mitglieder von TripAdvisor Sie &uuml;ber TripAdvisor als Vermittler kontaktieren; Ihre E-Mail-Adresse wird von TripAdvisor jedoch nicht mit anderen Mitgliedern geteilt oder auf sonstige Weise &ouml;ffentlich angezeigt. Alle Mitglieder von TripAdvisor k&ouml;nnen die Funktionen f&uuml;r die Kommunikation zwischen Mitgliedern jederzeit deaktivieren.</p>
+
+<p>In anderen als den oben aufgef&uuml;hrten F&auml;llen werden Sie benachrichtigt, wenn personenbezogene Daten &uuml;ber Sie mit Drittparteien geteilt werden, und Sie erhalten die M&ouml;glichkeit, das Teilen dieser Informationen abzulehnen.</p>
+
+<p>Wir teilen m&ouml;glicherweise auch &uuml;bergreifende oder anonyme Informationen mit Drittparteien wie Inserenten und Investoren. Beispielsweise k&ouml;nnen wir unseren Inserenten die Anzahl der Besucher auf unserer Website oder die beliebtesten Hotels und Urlaubsziele mitteilen. Diese Informationen enthalten keine personenbezogenen Daten und werden nur zur Entwicklung von Inhalten und Services verwendet, die f&uuml;r Sie interessant sein k&ouml;nnen.</p>
+
+<p id="dura"><strong>Speicherzeitraum Ihrer Informationen</strong></p>
+
+<p>Wir speichern m&ouml;glicherweise bestimmte Informationen in Verbindung mit Ihrem Konto in unseren Archiven, unter anderem zu analytischen Zwecken und f&uuml;r eine vollst&auml;ndige Datensatzverwaltung. Die Zeitr&auml;ume, in denen wir Ihre Informationen speichern, h&auml;ngen vom Zweck ab, f&uuml;r den wir sie erfasst haben und verwenden.</p>
+
+<p>Wir speichern Ihre personenbezogenen Daten nicht l&auml;nger, als dies f&uuml;r unsere Gesch&auml;ftszwecke oder zur Erf&uuml;llung gesetzlicher Anforderungen erforderlich ist. Wir behalten m&ouml;glicherweise bestimmte Informationen f&uuml;r einen gewissen Zeitraum ein, auch nachdem Sie Ihr Konto bei uns geschlossen haben. Dies kann zum Beispiel erforderlich sein, um unsere gesetzlichen Verpflichtungen zu erf&uuml;llen oder um Rechte aus&uuml;ben, verteidigen oder nachweisen zu k&ouml;nnen.</p>
+
+<p id="choi"><strong>Ihre Rechte und Wahlm&ouml;glichkeiten in Bezug auf die Erfassung und Nutzung Ihrer Informationen</strong></p>
+
+<p>Sie k&ouml;nnen ausw&auml;hlen, dass Sie uns Ihre personenbezogenen Daten nicht bereitstellen m&ouml;chten, auch wenn diese m&ouml;glicherweise erforderlich sind, um bestimmte auf TripAdvisor angebotene Funktionen nutzen zu k&ouml;nnen.</p>
+
+<ul>
+	<li style="margin-left: 9pt;">Sie k&ouml;nnen von uns Auskunft dar&uuml;ber anfordern, welche personenbezogenen Daten wir &uuml;ber Sie gespeichert haben. Setzen Sie sich dazu bitte &uuml;ber die weiter unten angegebene Adresse mit uns in Verbindung (siehe &quot;Kontakt&quot;). F&uuml;r die Bereitstellung dieser Informationen kann eine Geb&uuml;hr erhoben werden.</li>
+	<li style="margin-left: 9pt;">Wir bem&uuml;hen uns sicherzustellen, dass Ihre personenbezogenen Daten f&uuml;r den Verwendungszweck relevant, genau und vollst&auml;ndig sind.&nbsp;Sie k&ouml;nnen die Informationen, die Sie uns bereitgestellt haben, auch &uuml;berpr&uuml;fen, erg&auml;nzen oder aktualisieren,&nbsp;indem Sie auf unserer Website Ihre Abonnementseite besuchen.</li>
+	<li style="margin-left: 9pt;">Auf die oben beschriebene Weise k&ouml;nnen Sie auch Informationen hinzuf&uuml;gen oder aktualisieren und Ihr Konto schlie&szlig;en. Wenn Sie Ihr Konto bei TripAdvisor schlie&szlig;en, deaktivieren wir Ihr Konto und entfernen Ihre Profilinformationen aus der aktiven Ansicht.</li>
+	<li style="margin-left: 9pt;">Sie k&ouml;nnen Ihr Konto bei TripAdvisor schlie&szlig;en, indem Sie uns &uuml;ber&nbsp;<a href="https://www.tripadvisor.de/GeneralSupport">dieses Formular</a>&nbsp;kontaktieren. Wir senden Ihnen daraufhin eine E-Mail zur Best&auml;tigung Ihrer Anfrage. Bitte beachten Sie, dass Sie sich nach dem Schlie&szlig;en des Kontos nicht mehr anmelden und auf keine Ihrer personenbezogenen Daten zugreifen k&ouml;nnen. Sie k&ouml;nnen jedoch jederzeit ein neues Konto er&ouml;ffnen.</li>
+	<li style="margin-left: 9pt;">Bei der Registrierung als Mitglied von TripAdvisor k&ouml;nnen Sie uns Ihre Marketing-Pr&auml;ferenzen bereitstellen und Sie k&ouml;nnen ausw&auml;hlen, ob Sie von TripAdvisor Marketing-Mitteilungen per E-Mail erhalten m&ouml;chten. Als registriertes Mitglied von TripAdvisor k&ouml;nnen Sie Ihre Auswahlen jederzeit &uuml;ber die E-Mail-Einstellungen auf Ihrer Abonnementseite &auml;ndern.</li>
+	<li style="margin-left: 9pt;">Unabh&auml;ngig davon, ob Sie als Mitglied von TripAdvisor registriert sind oder nicht, erhalten Sie au&szlig;erdem in jeder von uns gesendeten Werbenachricht die M&ouml;glichkeit, den zuk&uuml;nftigen Erhalt solcher Nachrichten abzulehnen.</li>
+	<li style="margin-left: 9pt;">Bitte beachten Sie, dass wir Ihnen m&ouml;glicherweise andere Mitteilungen wie Serviceank&uuml;ndigungen und Verwaltungsnachrichten zu Ihrem Konto bei TripAdvisor senden.</li>
+</ul>
+
+<p style="margin-left:9pt;">&nbsp;</p>
+
+<p id="prot"><strong>Art und Weise des Schutzes Ihrer Informationen</strong></p>
+
+<p>Wir m&ouml;chten, dass Sie sich bei der Nutzung von TripAdvisor sicher f&uuml;hlen, und wir verpflichten uns zum Schutz der von uns erfassten Informationen. Keine Website kann Sicherheit garantieren, aber wir haben geeignete physische, administrative, technische und organisatorische Ma&szlig;nahmen getroffen, um die uns von Ihnen bereitgestellten personenbezogenen Daten vor unberechtigtem oder unrechtm&auml;&szlig;igem Zugriff und unberechtigter oder unrechtm&auml;&szlig;iger Verwendung oder Offenlegung sowie vor versehentlichem Verlust und versehentlicher Besch&auml;digung, &Auml;nderung oder Zerst&ouml;rung zu sch&uuml;tzen. Zum Beispiel d&uuml;rfen nur autorisierte Mitarbeiter auf personenbezogene Daten zugreifen, und dies auch nur f&uuml;r zul&auml;ssige Gesch&auml;ftsfunktionen. Wir verwenden au&szlig;erdem eine Verschl&uuml;sselung bei der &Uuml;bertragung Ihrer personenbezogenen Daten zwischen Ihrem und unserem System und zwischen unserem System und den Systemen der Parteien, mit denen wir vertrauliche Informationen teilen, und wir haben Firewalls und Angriffserkennungssysteme installiert, um zu verhindern, dass nicht autorisierte Personen Zugriff auf Ihre Informationen erhalten.</p>
+
+<p id="kids"><strong>Schutz der Informationen von Kindern</strong></p>
+
+<p>TripAdvisor ist eine an die Allgemeinheit gerichtete Website und bietet keine Services speziell f&uuml;r Kinder an. Falls eine Person, von der wir wissen, dass sie j&uuml;nger als 14 Jahre ist, personenbezogene Daten an uns sendet, l&ouml;schen oder zerst&ouml;ren wir diese Informationen, sobald dies nach vern&uuml;nftigem Ermessen m&ouml;glich ist.</p>
+
+<p id="exte"><strong>Externe Links</strong></p>
+
+<p>Unsere Website enth&auml;lt m&ouml;glicherweise Links auf externe Websites. Wenn Sie &uuml;ber die auf unserer Website bereitgestellten Links auf andere Websites zugreifen, erfassen die Betreiber dieser Websites von Ihnen m&ouml;glicherweise Informationen, die von diesen Betreibern in &Uuml;bereinstimmung mit ihren Datenschutzrichtlinien verwendet werden. Diese k&ouml;nnen von unserer Datenschutzerkl&auml;rung abweichen. Wir empfehlen Ihnen, die auf diesen anderen Websites angegebenen Datenschutzerkl&auml;rungen zu &uuml;berpr&uuml;fen, um Informationen zu deren Verfahren f&uuml;r die Erfassung, Verwendung und Offenlegung personenbezogener Daten zu erhalten.</p>
+
+<p id="visit"><strong>Internationale &Uuml;bertragungen</strong></p>
+
+<p>Einige der externen Unternehmen, Vertreter und Auftragnehmer, die wir mit der Durchf&uuml;hrung von Services in unserem Namen beauftragen, m&uuml;ssen Ihre personenbezogenen Daten zur Erbringung der jeweiligen Services m&ouml;glicherweise an internationale Orte, unter anderem in Gebiete au&szlig;erhalb der USA und Europas, &uuml;bertragen. In einigen Regionen sind die Datenschutzgesetze m&ouml;glicherweise weniger streng als in den USA und in Europa, aber wir haben Ma&szlig;nahmen getroffen, um Ihre personenbezogenen Daten jederzeit in &Uuml;bereinstimmung mit dieser Datenschutzerkl&auml;rung zu sch&uuml;tzen.</p>
+
+<p>Wenn Sie unsere Website an einem Ort au&szlig;erhalb der USA besuchen, beachten Sie bitte, dass Ihre Informationen m&ouml;glicherweise in die USA &uuml;bertragen und dort gespeichert und verarbeitet werden, denn hier befinden sich unsere Server und wird unsere zentrale Datenbank betrieben. Die Datenschutzgesetze und andere Gesetze der USA und anderer L&auml;nder sind m&ouml;glicherweise nicht so umfassend wie die in Ihrem Land. TripAdvisor stellt jedoch ein angemessenes Datenschutzniveau entsprechend der gesetzlichen Vorgaben sicher. Durch die Nutzung unserer Services erkennen Sie an, dass Ihre Informationen m&ouml;glicherweise an unsere Einrichtungen und die Einrichtungen von Drittparteien &uuml;bertragen werden, mit denen wir die Informationen wie in dieser Datenschutzerkl&auml;rung beschrieben, teilen.</p>
+
+<p id="chgs"><strong>&Auml;nderungen an dieser Datenschutzerkl&auml;rung</strong></p>
+
+<p>TripAdvisor kann in der Zukunft &Auml;nderungen an dieser Datenschutzerkl&auml;rung vornehmen. Wir geben unten auf dieser Seite das Datum an, an dem diese Datenschutzerkl&auml;rung zuletzt &uuml;berarbeitet wurde, und alle &Uuml;berarbeitungen treten mit ihrer Einstellung in Kraft. Wir benachrichtigen unsere Mitglieder &uuml;ber wesentliche &Auml;nderungen an dieser Datenschutzerkl&auml;rung, indem wir entweder eine entsprechende Benachrichtigung an die uns von Ihnen angegebene E-Mail-Adresse senden oder indem wir einen entsprechenden Hinweis auf unserer Website einstellen. Rufen Sie diese Datenschutzerkl&auml;rung von Zeit zu Zeit auf, um die jeweils aktuelle Version zu &uuml;berpr&uuml;fen.</p>
+
+<p id="cont"><strong>Kontaktm&ouml;glichkeiten</strong></p>
+
+<p>Wenn Sie Fragen zu dieser Datenschutzerkl&auml;rung haben, setzen Sie sich bitte &uuml;ber die folgende Adresse mit uns in Verbindung:</p>
+
+<p style="margin-left:9pt;"><em>TripAdvisor<br />
+7 Soho Square<br />
+London<br />
+W1D 3QB<br />
+Attn: Privacy Officer/Legal Department<br />
+E-Mail:&nbsp;<a href="mailto:privacy@tripadvisor.com">privacy@tripadvisor.com</a>&nbsp;</em></p>
+
+<p style="margin-left:9pt;">&nbsp;</p>
+
+<p><strong>Anrufaufzeichnung und -nachverfolgung.</strong></p>
+
+<p>Hinweis: Anrufe bei und von TripAdvisor werden gegebenenfalls aufgezeichnet. Wir verwenden die Anrufaufzeichnung, um unseren Kundenservice zu Qualit&auml;ts- und Compliancezwecken zu &uuml;berpr&uuml;fen, um die Korrektheit der von Ihnen bereitgestellten Informationen zu pr&uuml;fen, um Betrug vorzubeugen oder um unsere Mitarbeiter zu schulen. Wir bewahren die Anrufaufzeichnungen so lange wie notwendig auf, um solche Aktivit&auml;ten durchzuf&uuml;hren. Anschlie&szlig;end l&ouml;schen wir sie. Alle pers&ouml;nlichen Informationen, die wir von Ihnen im Verlauf des Gespr&auml;chs erhalten, werden in Einklang mit den Bestimmungen dieser Datenschutzerkl&auml;rung behandelt.</p>
+
+<p>&copy;2016 TripAdvisor LLC. Alle Rechte vorbehalten.</p>
+
+<p>Diese Datenschutzerkl&auml;rung gilt ab dem 31. Oktober 2016&nbsp;.</p>
+
+<p>&nbsp;</p>
+
+</div>
+</div>	</div><!--/content-->
+
+</div><!--/contentArea-->
+
+<div style="clear:both;">&nbsp;</div>
+
+<div class="footer">
+	<div class="widthLimit">
+	<div class="footerLogo-wrapper"><img src="images/logo_small_new.png" alt="" title="" border="0"></div>
+	<div class="flagMenu-wrapper">
+		<div class="flagMenu-input">
+			<a href="#" class="flagMenu" data-jq-dropdown="#flagMenu" data-horizontal-offset="10" data-vertical-offset="-500"> 
+			<div class="flag"></div> Deutschland 
+			<i class="fa fa-chevron-down"></i></a>
+		</div>
+	</div>
+	<div class="wd_featureboxes_footer wd_featureboxes-vertical">
+<div id="wd_featurebox-standard_3531" class="wd_featurebox_container wd_featurebox-standard"><div class="wd_featurebox_title"></div><div class="wd_featurebox"><div><a href="https://www.tripadvisor.de/SiteIndex" target="_blank">Sitemap</a>&nbsp;|&nbsp;<a href="http://info.evidon.com/pub_info/1201?v=1&amp;nt=0" target="_blank">Cookie-Einwilligung</a>&nbsp;|&nbsp;<a href="https://www.tripadvisor.de/ShowUrl-a_partnerKey.1-a_url.http%253A__5F____5F__2F__5F____5F____5F____5F__2F__5F____5F__www__5F____5F__2E__5F____5F__travelbook__5F____5F__2E__5F____5F__de-a_urlKey.3e5f3addf54c7e7bd.html" target="_blank">Travelbook</a>&nbsp;|&nbsp;<span data-modal="help_center" data-options="autoReposition closeOnDocClick closeOnEscape" data-url="/uvpages/helpCenterOverlay.html" data-windowshade=""><a href="https://www.tripadvisorsupport.com/hc/de" target="_blank">Hilfe&nbsp;</a><img alt="" height="10" id="lazyload_105336307_0" src="https://static.tacdn.com/img2/icons/bell.png" style="border:0px;vertical-align:text-top;" width="14" /></span></div>
+
+<div>
+<div>&copy;&nbsp;2017&nbsp;TripAdvisor LLC. Alle Rechte vorbehalten.&nbsp;<a href="https://www.tripadvisor.de/pages/terms.html" target="_blank">Nutzungsbedingungen</a>,&nbsp;<a href="https://www.tripadvisor.de/pages/privacy.html" target="_blank">Datenschutzerkl&auml;rung</a>&nbsp;und&nbsp;<a href="https://www.tripadvisor.de/CookiePolicy" target="_blank">Cookie-Richtlinie</a>&nbsp;von TripAdvisor.</div>
+
+<div>&nbsp;</div>
+
+<div id="PDISCLAIMER">
+<p>TripAdvisor LLC ist weder eine Reiseagentur noch ein Reiseveranstalter und stellt Nutzern der Website keine Geb&uuml;hren in Rechnung. Unsere Partner (Airlines, Reiseanbieter und Reiseagenturen), die Flugpreise, Touren und Reisepakete auf TripAdvisor ver&ouml;ffentlichen, sind dazu verpflichtet, alle Geb&uuml;hren und Aufschl&auml;ge in ihre Listenpreise zu integrieren. Darin enthalten sind die 11.-September-Sicherheitsgeb&uuml;hr, internationale Flughafensteuern und -geb&uuml;hren, bundesstaatliche Verbrauchssteuern, weitere Service- und Bearbeitungsgeb&uuml;hren sowie sonstige Geb&uuml;hren und Aufschl&auml;ge. Wenn Sie bei einem unserer Partner buchen, erkundigen Sie sich auf dessen Website nach allen anfallenden Geb&uuml;hren, die laut US-amerikanischem Verkehrsministerium erforderlich sind. Die Flugpreise werden im Allgemeinen pro Person und in US-Dollar aufgef&uuml;hrt, sofern nicht anders angegeben.</p>
+
+<p>Der Einfachheit halber berechnet TripAdvisor LLC einen Durchschnittspreis f&uuml;r jedes Hotel, der auf den Preisen der verf&uuml;gbaren Zimmer basiert, die wir von unseren Buchungspartnern erhalten. Bei Touren und Sehensw&uuml;rdigkeit wird in der Regel der g&uuml;nstigste verf&uuml;gbare Preis pro Erwachsenem angezeigt. TripAdvisor LLC &uuml;bernimmt keine Preisgarantie f&uuml;r jegliche auf der Seite aufgef&uuml;hrten Pauschalreisen oder Angebote. Dar&uuml;ber hinaus werden die durchschnittlichen Hotelpreise n&auml;chtlich aktualisiert, in der von Ihnen bevorzugten W&auml;hrung angegeben und gem&auml;&szlig; einem standardisierten W&auml;hrungskurs berechnet.Da es sich bei diesen umgerechneten Preisen um Sch&auml;tzungen handelt, &uuml;berpr&uuml;fen Sie bitte auf der Buchungsseite den genauen Betrag und die W&auml;hrung.</p>
+
+<p>TripAdvisor LCC &uuml;bernimmt zudem keinerlei Garantie f&uuml;r die Verf&uuml;gbarkeit der auf unserer Website angezeigten Preise. Listenpreise k&ouml;nnen ggf. einen Aufenthalt von bestimmter L&auml;nge voraussetzen, zu bestimmten Zeiten nicht buchbar sein oder anderweitige Voraussetzungen oder Beschr&auml;nkungen haben.</p>
+</div>
+
+<div>TripAdvisor LLC ist nicht verantwortlich f&uuml;r den Inhalt externer Websites. Steuern und Geb&uuml;hren sind in den Angeboten nicht inbegriffen.</div>
+</div>
+</div></div></div>
+	</div>
+</div><!--/footer-->
+
+
+<div id="searchMenu" class="jq-dropdown jq-dropdown-tip jq-dropdown-anchor-right">
+	<div class="jq-dropdown-panel">
+	<div class="wd_search_form_container"><form name="basic_search" method="get" action="https://tripadvisor.mediaroom.com/index.php?s=20322" class="wd_search_form wd_search_form_basic"><input type="hidden" name="s" value="search_results" /><input type="text" name="query" value="" size="32" placeholder="Keywords..." title="Keywords..." /> <input type="submit" name="submit" value="Search"></form>
+</div>	</div>
+</div><!--/searchMenu-->
+
+
+<div id="flagMenu" class="jq-dropdown jq-dropdown-anchor-right">
+	<div class="jq-dropdown-panel">
+		<div class="pad-20">
+		<ul id="FLAGS_FLY">
+		<li class="america col region">
+		<div class="flag_heading">The Americas</div>
+		<ul>
+			<li class="flag_item "><a id="flag_us_fly" class="flag_link flag_us" hreflang="en" title="United States" href="index.php?s=34281">United States</a></li>
+			<li class="flag_item "><a id="flag_ca_fly" class="flag_link flag_ca" hreflang="en-CA" title="Canada (English)" href="index.php?s=34297">Canada (English)</a></li>
+			<li class="flag_item "><a id="flag_ca_fly" class="flag_link flag_ca" hreflang="fr-CA" title="Canada (French)" href="index.php?s=34301">Canada (Français)</a></li>
+			<li class="flag_item "><a id="flag_br_fly" class="flag_link flag_br" hreflang="pt" title="Brazil" href="index.php?s=34289">Brasil</a></li>
+			<li class="flag_item "><a id="flag_mx_fly" class="flag_link flag_mx" hreflang="es-MX" title="Mexico" href="index.php?s=34305">México</a></li>
+			<li class="flag_item "><a id="flag_ar_fly" class="flag_link flag_ar" hreflang="es-AR" title="Argentina" href="index.php?s=34309">Argentina</a></li>
+			<li class="flag_item "><a id="flag_cl_fly" class="flag_link flag_cl" hreflang="es-CL" title="Chile" href="index.php?s=34313">Chile</a></li>
+			<li class="flag_item "><a id="flag_co_fly" class="flag_link flag_co" hreflang="es-CO" title="Colombia" href="index.php?s=34317">Colombia</a></li>
+			<li class="flag_item "><a id="flag_pe_fly" class="flag_link flag_pe" hreflang="es-PE" title="Peru" href="index.php?s=34321">Perú</a></li>
+			<li class="flag_item "><a id="flag_ve_fly" class="flag_link flag_ve" hreflang="es-VE" title="Venezuela" href="index.php?s=34325">Venezuela</a></li>
+		</ul>
+		</li>
+		<li class="europe col region">
+		<div class="flag_heading">Europe</div>
+		<ul>
+			<li class="flag_item "><a id="flag_gb_fly" class="flag_link flag_gb" hreflang="en-GB" title="United Kingdom" href="index.php?s=34282">United Kingdom</a></li>
+			<li class="flag_item "><a id="flag_it_fly" class="flag_link flag_it" hreflang="it" title="Italy" href="index.php?s=34286">Italia</a></li>
+			<li class="flag_item "><a id="flag_es_fly" class="flag_link flag_es" hreflang="es" title="Spain" href="index.php?s=34287">España</a></li>
+			<li class="flag_item active"><a id="flag_de_fly" class="flag_link flag_de" hreflang="de" title="Germany" href="index.php?s=34449">Deutschland</a></li>
+			<li class="flag_item "><a id="flag_fr_fly" class="flag_link flag_fr" hreflang="fr" title="France" href="index.php?s=34285">France</a></li>
+			<li class="flag_item "><a id="flag_se_fly" class="flag_link flag_se" hreflang="sv" title="Sweden" href="index.php?s=34341">Sverige</a></li>
+			<li class="flag_item "><a id="flag_nl_fly" class="flag_link flag_nl" hreflang="nl" title="The Netherlands" href="index.php?s=34345">Nederland</a></li>
+			<li class="flag_item "><a id="flag_tr_fly" class="flag_link flag_tr" hreflang="tr" title="Turkey" href="index.php?s=34349">Türkiye</a></li>
+			<li class="flag_item "><a id="flag_dk_fly" class="flag_link flag_dk" hreflang="da" title="Denmark" href="index.php?s=34353">Danmark</a></li>
+			<li class="flag_item "><a id="flag_ie_fly" class="flag_link flag_ie" hreflang="en-IE" title="Ireland" href="index.php?s=34357">Ireland</a></li>
+			<li class="flag_item "><a id="flag_cz_fly" class="flag_link flag_cz" hreflang="cs" title="Czech Republic" href="index.php?s=34361">Česká republika</a></li>
+			<li class="flag_item "><a id="flag_at_fly" class="flag_link flag_at" hreflang="de-AT" title="Austria" href="index.php?s=34365">Österreich</a></li>
+			<li class="flag_item "><a id="flag_gr_fly" class="flag_link flag_gr" hreflang="el" title="Greece" href="index.php?s=34369">Ελλάδα</a></li>
+			<li class="flag_item "><a id="flag_fi_fly" class="flag_link flag_fi" hreflang="fi" title="Finland" href="index.php?s=34373">Suomi</a></li>
+		</ul>
+		</li>
+		<li class="europe col1 region">
+		<div class="flag_heading empty">&nbsp;</div>
+		<ul>
+			<li class="flag_item "><a id="flag_hu_fly" class="flag_link flag_hu" hreflang="hu" title="Hungary" href="index.php?s=34377">Magyarország</a></li>
+			<li class="flag_item "><a id="flag_no_fly" class="flag_link flag_no" hreflang="nb" title="Norway" href="index.php?s=34381">Norge</a></li>
+			<li class="flag_item "><a id="flag_pl_fly" class="flag_link flag_pl" hreflang="pl" title="Poland" href="index.php?s=34385">Polska</a></li>
+			<li class="flag_item "><a id="flag_pt_fly" class="flag_link flag_pt" hreflang="pt-PT" title="Portugal" href="index.php?s=34389">Portugal</a></li>
+			<li class="flag_item "><a id="flag_ru_fly" class="flag_link flag_ru" hreflang="ru" title="Russia" href="index.php?s=34288">Россия</a></li>
+			<li class="flag_item "><a id="flag_sk_fly" class="flag_link flag_sk" hreflang="sk" title="Slovakia" href="index.php?s=34393">Slovensko</a></li>
+			<li class="flag_item "><a id="flag_rs_fly" class="flag_link flag_rs" hreflang="sr" title="Serbia" href="index.php?s=34397">Srbija</a></li>
+			<li class="flag_item "><a id="flag_ch_fly" class="flag_link flag_ch" hreflang="de-CH" title="Switzerland" href="index.php?s=34401">Schweiz</a></li>
+			<li class="flag_item "><a id="flag_ch_fly" class="flag_link flag_ch" hreflang="fr-CH" title="Switzerland" href="index.php?s=34405">Suisse</a></li>
+			<li class="flag_item "><a id="flag_ch_fly" class="flag_link flag_ch" hreflang="it-CH" title="Switzerland" href="index.php?s=34409">Svizzera</a></li>
+			<li class="flag_item "><a id="flag_be_fly" class="flag_link flag_be" hreflang="fr-BE" title="Belgium" href="index.php?s=34413">Belgique</a></li>
+			<li class="flag_item "><a id="flag_be_fly" class="flag_link flag_be" hreflang="nl-BE" title="Belgium" href="index.php?s=34417">België</a></li>
+		</ul>
+		</li>
+		<li class="apac col region">
+		<div class="flag_heading">Asia Pacific</div>
+		<ul>
+			<li class="flag_item "><a id="flag_jp_fly" class="flag_link flag_jp" hreflang="ja" title="Japan" href="index.php?s=34291">日本</a></li>
+			<li class="flag_item "><a id="flag_cn_fly" class="flag_link flag_cn" hreflang="zh-Hans" title="China" href="index.php?s=34292">中国</a></li>
+			<li class="flag_item "><a id="flag_cn_fly" class="flag_link flag_cn" hreflang="zh-Hans" title="Chinese International" href="index.php?s=34423">中文国际版</a></li>
+			<li class="flag_item "><a id="flag_in_fly" class="flag_link flag_in" hreflang="en-IN" title="India" href="index.php?s=34290">India</a></li>
+			<li class="flag_item "><a id="flag_au_fly" class="flag_link flag_au" hreflang="en-AU" title="Australia" href="index.php?s=34283">Australia</a></li>
+			<li class="flag_item "><a id="flag_my_fly" class="flag_link flag_my" hreflang="en-MY" title="Malaysia" href="index.php?s=34294">Malaysia</a></li>
+			<li class="flag_item "><a id="flag_nz_fly" class="flag_link flag_nz" hreflang="en-NZ" title="New Zealand" href="index.php?s=34284">New Zealand</a></li>
+			<li class="flag_item "><a id="flag_ph_fly" class="flag_link flag_ph" hreflang="en-PH" title="Philippines" href="index.php?s=34425">Philippines</a></li>
+			<li class="flag_item "><a id="flag_sg_fly" class="flag_link flag_sg" hreflang="en-SG" title="Singapore" href="index.php?s=34293">Singapore</a></li>
+			<li class="flag_item "><a id="flag_id_fly" class="flag_link flag_id" hreflang="id" title="Indonesia" href="index.php?s=34295">Indonesia</a></li>
+			<li class="flag_item "><a id="flag_kr_fly" class="flag_link flag_kr" hreflang="ko" title="South Korea" href="index.php?s=34429">대한민국</a></li>
+			<li class="flag_item "><a id="flag_th_fly" class="flag_link flag_th" hreflang="th" title="Thailand" href="index.php?s=34296">ไทย</a></li>
+			<li class="flag_item "><a id="flag_vn_fly" class="flag_link flag_vn" hreflang="vi" title="Vietnam" href="index.php?s=34433">Việt Nam</a></li>
+			<li class="flag_item "><a id="flag_tw_fly" class="flag_link flag_tw" hreflang="zh-Hant" title="Taiwan" href="index.php?s=34437">台灣</a></li>
+			<li class="flag_item "><a id="flag_hk_fly" class="flag_link flag_hk" hreflang="en-HK" title="Hong Kong" href="index.php?s=34441">Hong Kong</a></li>
+			<li class="flag_item "><a id="flag_hk_fly" class="flag_link flag_hk" hreflang="zh-hk" title="Hong Kong" href="index.php?s=34445">香港</a></li>
+		</ul>
+		</li>
+		<li class="africa col region">
+		<div class="flag_heading">Africa &amp; the Middle East</div>
+		<ul>
+			<li class="flag_item "><a id="flag_ar_intl_fly" class="flag_link flag_ar_intl" hreflang="ar" title="Arabic" href="index.php?s=34578">العربية‬</a></li>
+			<li class="flag_item "><a id="flag_eg_fly" class="flag_link flag_eg" hreflang="ar-EG" title="Egypt" href="index.php?s=34329">مصر</a></li>
+			<li class="flag_item "><a id="flag_za_fly" class="flag_link flag_za" hreflang="en-ZA" title="South Africa" href="index.php?s=34333">South Africa</a></li>
+			<li class="flag_item "><a id="flag_il_fly" class="flag_link flag_il" hreflang="he" title="Israel" href="index.php?s=34337">ישראל</a></li>
+		</ul>
+		</li>
+		</ul>
+		</div>
+	</div>
+</div><!--/searchMenu-->
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.wd_featureboxes_middle .wd_featurebox p.more').each(function(){
+		$(this).parent().parent().prepend(this);
+	});
+	$('.wd_news_releases-teaser .item').each(function(){
+		$(this).children('.item_date').insertAfter($(this).children('.item_name'));
+	});
+});
+</script>
+
+
+
+<!-- begin spin_special_output(body_end) -->
+
+<!-- Piwik Tracking Code -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+
+  _paq.push(["setCustomVariable", 1, "Content Type", "Standard", "page"]);
+
+  _paq.push(["setCustomVariable", 3, "Navigation Page", "DE Resources", "page"]);
+
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+  (function() {
+    var u="//stats.drivetheweb.com/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", 4086]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0];
+    g.type="text/javascript"; g.async=true; g.defer=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript>
+	<img src="https://stats.drivetheweb.com/piwik.php?idsite=4086&rec=1" style="border:0" alt="" />
+</noscript>
+<!-- End Piwik Tracking Code -->
+		
+<!-- end spin_special_output(body_end) -->
+</body>
+</html>

@@ -1,0 +1,700 @@
+  *     * Zum Newsletter
+    * über uns
+  *   * 
+
+  * Konto &amp; Anlegen
+    * Grundlagen
+      * Geldanlage
+      * Aktien
+      * Anleihen
+      * Fonds
+      * Gold
+      * Einlagensicherung
+      * Sichere Banken
+    * Altersvorsorge
+      * Altersvorsorge
+      * Flexible Altersvorsorge
+      * Riester-Rente
+      * Klassische Riester-Rente
+      * Riester-Banksparplan
+      * Riester-Fondssparplan
+    * Bank
+      * Tagesgeld
+      * Festgeld
+      * Wertpapierdepot
+      * Girokonto
+      * Girokonto eröffnen
+      * Girocard
+      * EC-Karte
+      * Dispokredit
+    * Börse
+      * Indexfonds / ETFs
+      * ETF-Sparplan
+      * Fonds
+      * Rentenfonds
+      * Thesaurierende Fonds
+      * MSCI World
+      * Aktien kaufen
+      * Unternehmensanleihen
+      * Gold kaufen
+      * Robo-Advisor
+      * Quellensteuer
+  * Kredit &amp; Bauen
+    * Kredit
+      * Ratenkredit
+      * Ratenkredit umschulden
+      * Restschuldversicherung
+      * Kredit ohne Schufa
+      * Null-Prozent-Finanzierung
+      * Schuldnerberatung
+      * Autokredit
+      * Autokreditrechner
+      * Onlinekredit
+      * Privatkredit
+      * Kleinkredit
+      * Sofortkredit
+      * Geld leihen
+      * Studienkredit
+      * KfW-Studienkredit
+    * Kreditkarte
+      * Kreditkarten
+      * Kostenlose Karten
+      * Prepaid-Kreditkarten
+      * Gold-/Platinkarten
+      * Kreditkarten-Onlinerechner
+      * Kreditkarte ohne Schufa
+    * Baufinanzierung
+      * Baufinanzierung
+      * Baufinanzierung Vergleich
+      * Baukredit
+      * Hypothek
+      * Bauen ohne Eigenkapital
+      * KfW-Programme
+      * Anschlussfinanzierung
+      * Vorfälligkeitsentschädigung
+      * Bereitstellungszinsen
+      * Sondertilgung
+      * Forward-Darlehen
+      * Mieten oder Kaufen
+      * Bausparvertrag
+      * Fehlerhafte Widerrufsbelehrung
+    * Baufinanzierungsrechner
+      * Baufinanzierungsrechner
+      * Darlehensrechner
+      * Finanzierungsrechner
+      * Tilgungsrechner
+      * Baukreditrechner
+      * Hauskreditrechner
+  * Versicherung
+    * Kranken &amp; Pflege
+      * Krankenversicherung Überblick
+      * Gesetzliche Krankenkasse (GKV)
+      * Private Krankenversicherung (PKV)
+      * Freiwillig in die GKV
+      * Rückkehr in die GKV
+      * Zahnzusatzversicherung
+      * Pflegezusatzversicherung
+      * Auslandsreisekrankenversicherung
+      * Krankenversicherung für Studenten
+      * Familienversicherung
+      * Bürgerversicherung
+    * Vorsorge
+      * Lebensversicherung
+      * Risikolebensversicherung
+      * Fondsgebundene Lebensversicherung
+      * Kapitallebensversicherung
+      * Sterbegeldversicherung
+      * Berufsunfähigkeitsversicherung
+      * Erwerbsunfähigkeitsversicherung
+      * Arbeitsunfähigkeitsversicherung
+      * Gesetzliche Rentenversicherung
+      * Erwerbsminderungsrente
+      * Erwerbsunfähigkeitsrente
+      * Unfallversicherung
+      * Direktversicherung
+    * Kfz-Versicherung
+      * Kfz-Versicherung
+      * Unterschiede Teil-/Vollkasko
+      * Oldtimerversicherung
+      * Motorradversicherung
+      * Rollerversicherung
+      * Fahranfänger
+      * Telematik-Tarif
+    * Wohnen, Recht &amp; Urlaub
+      * Sinnvolle Versicherungen
+      * Haftpflichtversicherung
+      * Pferdehaftpflichtversicherrung
+      * Hausratversicherung
+      * Wohngebäudeversicherung
+      * Rechtsschutzversicherung
+      * Verkehrsrechtsschutz
+      * Reiserücktrittsversicherung
+      * Fahrradversicherung
+      * Handyversicherung
+      * Bauherrenhaftpflichtversicherung
+      * Bauleistungsversicherung
+  * Energie &amp; Medien
+    * Strom
+      * Günstige Stromanbieter
+      * Ökostrom
+      * Stromvergleich
+      * Stromanbieter wechseln
+      * Strompreis
+      * Heizstrom
+      * Solarstrom speichern
+    * Heizung
+      * Gaspreis-Vergleich
+      * Gasanbieter wechseln
+      * Energetisch Sanieren
+      * Smart Home
+      * Energielabels von Heizungen
+      * Heizölportal-Vergleich
+      * Heizkosten sparen
+      * Heizöl
+    * Handy
+      * Handytarife
+      * Handytarif-Vergleich
+      * Billig telefonieren
+      * Allnet-Flat
+      * Prepaid-Tarife
+      * LTE-Tarife fürs Smartphone
+      * Billiger ins Ausland telefonieren
+      * Handyvertrag oder Smartphone-Kauf
+      * Günstiges iPhone kaufen
+      * Gebrauchtes Handy kaufen
+      * Gebrauchtes Handy verkaufen
+    * Internet &amp; TV
+      * Internet-Vergleich (DSL, Kabel)
+      * Kombitarife
+      * Sicher im Netz bezahlen
+      * Anti-Viren-Programme
+      * Kündigungsdienste
+      * Datenschutz-Alternativen
+      * LTE für Zuhause
+  * Auto &amp; Reise
+    * Auto &amp; Taxi
+      * Mietwagen
+      * Carsharing
+      * Carsharing oder Privatwagen
+      * Neuwagenkauf im Internet
+      * Gebrauchtwagenkauf
+      * Auto verkaufen an Portale
+      * E-Auto-Prämie
+      * Alternativen zum ADAC
+    * Bahn, Bus, Fahrrad
+      * Günstige Bahn-Tickets
+      * Bahncard
+      * Fahrgastrechte Bahn
+      * Fernbus
+      * Radmitnahme
+      * Dienstfahrrad
+      * Fahrradschutzbriefe
+      * Mobilitäts-Apps
+    * Flug &amp; Unterkunft
+      * Günstige Flüge
+      * Flugsuchmaschinen-Vergleich
+      * Entschädigung bei Flugverspätung
+      * Fluggastrechte
+      * Portale für Fluggastrechte
+      * Pauschalreisen
+      * Privatübernachtungen
+    * Reisetipps
+      * Reiserücktritt
+      * Reiseversicherung
+      * Hotelüberbuchung
+      * Reisemängel reklamieren
+      * Reisepreisminderung wegen Lärm
+      * Mitbringsel aus den Ferien verzollen
+  * Recht &amp; Steuern
+    * Arbeits- &amp; Sozialrecht
+      * Arbeitsvertrag
+      * Probezeit
+      * Überstunden und Bezahlung
+      * Arbeitszeitgesetz
+      * Urlaubsanspruch
+      * Kündigungsfrist
+      * Ordentliche Kündigung
+      * Außerordentliche Kündigung
+      * Betriebsbedingte Kündigung
+      * Abfindung
+      * Bezugsdauer Arbeitslosengeld
+      * Krankengeld
+      * Kindergeld
+      * Kindergeldzuschlag
+      * Elternzeit
+      * Elterngeld
+      * Mutterschutzgesetz
+      * Mutterschaftsgeld
+      * Witwenrente
+    * Familien- &amp; Erbrecht
+      * Düsseldorfer Tabelle
+      * Unterhalt für volljährige Kinder
+      * Elternunterhalt
+      * Ehevertrag
+      * Trennung
+      * Trennungszeit
+      * Trennungsunterhalt
+      * Scheidungskosten absetzen
+      * Versorgungausgleich
+      * Testament
+      * Berliner Testament
+      * Erbschein
+      * Erbfolge
+      * Enterbung
+      * Erbausschlagung
+    * Mietrecht &amp; Sonstiges
+      * Mietvertrag
+      * Mieterhöhung
+      * Mietminderung
+      * Untermiete
+      * Mietvertrag kündigen
+      * Eigenbedarfskündigung
+      * Mietkaution
+      * Mietpreisbremse
+      * VW-Abgas-Skandal
+    * Steuern
+      * Steuererklärung
+      * Elster
+      * Frei-/Pauschbeträge
+      * Werbungskostenpauschale
+      * Werbungskosten absetzen
+      * Reisekosten absetzen
+      * Haushaltsnahe Dienstleistungen
+      * Doppelte Haushaltsführung
+      * Außergewöhnliche Belastungen
+      * Steuervorteile für Eltern
+      * Einzelveranlagung
+      * Freistellungsauftrag
+      * Lohnsteuerhilfevereine
+      * Einkommensteuerrechner
+      * Erbschaftsteuer und Anzeigepflichten
+      * Handwerkerkosten
+      * Kfz-Steuer
+      * Dienstwagenbesteuererung
+      * Abgeltungssteuer
+      * Rentenbesteuerung
+  * Geld zurück
+    * Geld zurück
+      * Spartipps der Woche
+      * Widerruf Baufinanzierung
+      * Widerspruch Lebensversicherung
+      * Lebensversicherung Erstattung
+      * Überschuss Riester-Rente
+      * VW-Abgas-Skandal
+      * Flugstornierung
+      * Flugausfall
+      * Entschädigung bei Flugverspätung
+      * Bahnverspätung
+      * Flugänderung Pauschalreise
+      * Hotelüberbuchung
+      * Reisemängel reklamieren
+      * Reisepreisminderung
+      * Handyrechnung
+      * Gebühren Girokonto
+      * Kaufrecht
+  * Community
+
+StartEnergie & MedienInternet & TVDatenschutz-Alternativen
+
+# Datenschutz-Alternativen
+
+## Bei diesen deutschen Anbietern sind Ihre Daten und E-Mails sicher
+
+  * Zuletzt aktualisiert: 31. Januar 2017 
+  * Von: Daniel Pöhler
+
+Daniel Pöhler bei Google+
+
+  * ,
+  * Dr. Britta Beate Schön
+
+Dr. Britta Beate Schön bei Google+
+
+  * facebook
+  * google+
+  * twitter
+  * drucken
+  * WhatsApp
+
+#### Das Wichtigste in Kürze
+
+  * Der Europäische Gerichtshof (EuGH) hat im Oktober 2015 in einem bahnbrechenden Urteil festgestellt, dass persönliche Daten auf Servern in den Vereinigten Staaten nicht sicher genug sind. Zuvor wurde die USA als „sicherer Hafen“ oder „safe harbor“ für Daten eingestuft. 
+  * Besonders kritisch sieht der EuGH die Möglichkeit der US-Geheimdienste, massenhaft auf alle gespeicherte Daten zugreifen zu können. Dagegen gibt es für Europäer keine Rechtsmittel. 
+  * Ob das im Februar 2016 beschlossene Nachfolge-Abkommen EU-US-Datenschutzschild („EU-US Privacy Shield“) die Anforderungen erfüllt, hat der EuGH noch nicht geprüft. 
+  * Statt amerikanischen Anbietern für E-Mail und Speicherplatz in der Cloud können Sie auf deutsche Alternativen zurückgreifen, die keine US-Server nutzen. 
+  * Eine Liste aller „Safe Harbor“-Unternehmen finden Sie auf der Website des US-Handelsministeriums.
+
+#### So gehen Sie vor
+
+  * E-Mail: Statt beispielsweise Gmail von Google, outlook.com von Microsoft oder Yahoo Mail können Sie die kostenlosen Angebote des Verbunds „E-Mail made in Germany“ nutzen: 1&amp;1, Deutsche Telekom, Freenet, GMX, Strato und Web.de. 
+  * Wer bereit ist, für einen E-Mail-Dienst einen geringen Betrag zu bezahlen, bekommt mehr Datenschutz. Empfehlenswerte Anbieter sind Posteo und mailbox.org. 
+  * Online-Speicher: Statt zum Beispiel Dropbox, Google Drive und Onedrive können Sie auf die Magenta Cloud der Telekom oder Hidrive von Strato ausweichen. 
+  * Chats: Für private Nachrichten eignen sich verschlüsselte Messenger besser als Facebook und Co. Dazu zählen Threema, Telegram und Signal. Auch das populäre Whatsapp verschlüsselt seit April 2016. Allerdings lädt die App nach wie vor Telefonnummern auf Server in den USA hoch. 
+  * Soziale Medien: Sichere Alternativen zu Facebook oder Google+ gibt es kaum. Deshalb sollten Sie genau überlegen, was Sie dort von sich preisgeben.
+
+  * Tipp: Sollen wir Sie rund um das Thema Internet und Medien sowie zu weiteren Themen auf dem Laufenden halten? Abonnieren Sie unseren kostenlosen Newsletter!
+
+Ja, bitte! Bitte geben Sie eine Email Adresse an. Vielen Dank für Ihr
+Interesse!  
+Wir haben Ihnen gerade eine E-Mail zur Bestätigung geschickt.
+
+Bitte bestätigen Sie jetzt Ihre Anmeldung!  
+
+#### Wir haben Ihnen eine E-Mail an Ihre Adresse gesendet.
+
+Schauen Sie gleich in Ihr E-Mail-Programm.
+
+Sie haben keine E-Mail erhalten? Kann es sein, dass die Nachricht im SPAM-
+Ordner Ihres E-Mail-Anbieters gelandet ist?  
+Bitte schauen Sie auch dort einmal nach und fügen die Mail-Adresse von
+Finanztip.de Ihrem Adressbuch hinzu.
+
+Persönliche Daten von Europäern sind in den USA nicht sicher. Das hat der
+Europäische Gerichtshof (EuGH) in seinem wichtigen Urteil vom 6. Oktober 2015
+in der Sache Max Schrems gegen Facebook (Rechtssache C-362/14 - Schrems)
+festgestellt. Daraufhin haben EU und USA ein neues Rahmenwerk namens „EU-US
+Privacy Shield“ verhandelt und am 2. Februar 2016 verkündet. Darin ist
+festgelegt, dass Unternehmen in Selbstverpflichtung die Daten ihrer Kunden
+besser schützen sollen. Außerdem soll es regelmäßige Kontrollen geben und
+Schiedsstellen eingerichtet werden. Ob das neue Rahmenwerk aber vor dem EuGH
+Bestand hat, ist noch unklar. Daher raten wir weiterhin, sensible Daten besser
+nicht auf Servern in den USA zu speichern.
+
+Nach Artikel 8 der EU-Grundrechtecharta hat jede Person das Recht auf Schutz
+ihrer personenbezogenen Daten. Das gilt auch für Daten europäischer Bürger,
+die in die Vereinigten Staaten übermittelt werden, um sie dort zu speichern,
+so der EuGH. Die EU-Kommission hatte sich das im Jahr 2000 ganz anders
+vorgestellt und seinerzeit entschieden, dass die Daten von Europäern durch das
+Safe-Harbor-Abkommen mit Amerika dort ausreichend geschützt seien. Doch dieses
+Abkommen ist ungenügend, urteilten die Richter.
+
+Nach dem EuGH-Urteil entschied das oberste irische Gericht am 20. Oktober,
+dass die dortige Datenschutzbehörde verpflichtet ist, die ursprüngliche
+Beschwerde von Max Schrems zu prüfen. Bislang hatten sich die irischen
+Datenschützer geweigert, der Sache nachzugehen.
+
+NSA kann jederzeit auf Daten zugreifen  
+Tatsächlich waren amerikanische Behörden wie der Geheimdienst NSA rechtlich
+nicht an das Safe-Harbor-Abkommen gebunden. Sie können, etwa aus Gründen
+nationaler Sicherheit, auf sämtliche Daten und E-Mails von EU-Bürgern
+zugreifen – ohne Einschränkung oder Ausnahme. Das verletzt das Grundrecht auf
+Privatsphäre, urteilten die Richter in Luxemburg. Folge: Jeder Europäer kann
+sich an die nationalen Datenschutzbehörden und Gerichte wenden und prüfen
+lassen, ob seine Daten ausreichend geschützt sind, sofern ein Unternehmen
+Daten in die Vereinigten Staaten übermittelt. Das gilt für amerikanische
+Unternehmen, aber auch für viele europäische Firmen, die Daten auf einem
+Server in den USA speichern.
+
+### Welche Anbieter Ihre Daten in die USA übermitteln
+
+Firmen, die Daten in die USA übermitteln, müssen das in ihrer
+Datenschutzerklärung angeben. Darauf weist die Verbraucherzentrale Nordrhein-
+Westfalen hin. Unabhängig davon können Sie von Ihrem Anbieter eine
+entsprechende Auskunft verlangen. Dann muss das Unternehmen Sie informieren,
+in welchem Umfang, zu welchem Zweck und an welchem Ort es personenbezogene
+Daten verarbeitet, so die Auffassung der Verbraucherzentralen. Hierzu hat die
+Verbracherzentrale NRW einen Musterbrief bereitgestellt.
+
+Dieser Aufwand ist in manchen Fällen jedoch gar nicht nötig. Wenn Sie nicht
+wollen, dass US-Behörden auf Ihre Daten zugreifen, dann können Sie einfach auf
+Anbieter umsteigen, die Datenverarbeitung in Deutschland garantieren. Dann
+gelten die hiesigen Datenschutzgesetze. Wir haben besonders vertrauenswürdige
+Dienste zusammengetragen.
+
+### Sichere Kommunikation mit E-Mail-Verschlüsselung
+
+Millionen Deutsche tauschen per E-Mail private Informationen aus und
+verschicken darüber auch Dokumente und Verträge. Dabei ist die elektronische
+Post nicht viel besser geschützt als eine Postkarte. Vielen Nutzern ist es
+schlicht zu kompliziert, ihre Mails selbst zu verschlüsseln.
+
+Die Wahl eines sicheren E-Mail-Anbieters ist deshalb eine der wichtigsten
+Entscheidungen zum Schutz persönlicher Daten. Wollen Sie verhindern, dass US-
+Behörden Zugriff auf Ihre E-Mails erhalten, sollten Sie Dienste von
+amerikanischen Anbietern wie Google (Gmail), Microsoft (Outlook.com, ehemals
+Hotmail), Apple (Icloud) oder Yahoo meiden. Doch selbst wer einen deutschen
+Anbieter nutzt, ist nicht immer auf der sicheren Seite, da E-Mails
+standardmäßig nicht verschlüsselt sind und somit im Datenstrom theoretisch
+mitgelesen werden können.
+
+Kostenlose E-Mail-Anbieter versprechen Privatsphäre  
+Sicherer sind offenbar die kostenlosen Angebote der Initiative „E-Mail made in
+Germany“. Dabei handelt es sich um eine Kooperation von sieben Anbietern.
+Manche von ihnen gehören zum selben Konzern, manche sind Konkurrenten. Das
+erklärte Ziel des Verbundes ist, einen hohen Sicherheits- und
+Datenschutzstandard zu gewährleisten.
+
+Dazu garantieren die beteiligten Unternehmen, dass die Daten ausschließlich in
+Deutschland verarbeitet werden. Außerdem soll die elektronische Post
+vollständig verschlüsselt abgewickelt werden, sofern der Empfänger ebenfalls
+einen Zugang bei einem der teilnehmenden Anbieter nutzt. Bislang haben sich
+sechs Dienste dem Verbund angeschlossen: 1&amp;1, Deutsche Telekom, Freenet,
+GMX, Strato, Web.de und Hornetsecurity.
+
+Mehr Datenschutz mit kostenpflichtigen Angeboten  
+Es gibt kostenpflichtige E-Mail-Anbieter, die mit Verschlüsselung und
+Datenschutz werben. Posteo und mailbox.org haben in Tests der Stiftung
+Warentest (2/2015, 10/2016) hervorragend abgeschnitten. Da sich die Angebote
+nicht über Werbung finanzieren, können sie tendenziell ein höheres
+Datenschutz-Niveau erreichen. Denn werbefinanzierte Dienste verdienen ihr Geld
+damit, den Anzeigenkunden Nutzerdaten zur Verfügung zu stellen, damit sie
+möglichst zielgerichtete Werbung schalten können. Wägen Sie also sorgfältig
+ab, ob Sie einen kostenlosen oder kostenpflichtigen E-Mail-Anbieter
+bevorzugen.
+
+Allerdings kann sich der Austausch verschlüsselter Nachrichten bei einzelnen
+sicheren Anbietern schwieriger gestalten als bei einem Verbund wie „E-Mail
+made in Germany“, weil letzterer die Verschlüsselung untereinander automatisch
+regeln will.
+
+### Diese Cloud-Dienste speichern in Deutschland
+
+Online-Speicher sind komfortabel – besonders, wenn Sie Ihre Dokumente, Bilder
+und Musik auf mehreren Geräten nutzen wollen. Viele Cloud-Dienste speichern
+die Daten allerdings in den USA, wo sie nach dem EuGH-Urteil nicht sicher
+sind. Server in Deutschland betreiben hingegen die Deutsche Telekom, bei der
+Sie in der Magenta Cloud 10 Gigabyte Gratis-Speicher erhalten, sowie Strato
+mit dem kostenpflichtigen Angebot Hidrive. Weitere Informationen über
+Internet-Festplatten erhalten Sie im Ratgeber Online-Speicher.
+
+##  Magenta Cloud (Telekom Mediencenter)  
+Online-Festplatte (Cloud-Speicher)
+
+  * 10 GB kostenloser Speicherplatz für alle
+  * Server in Deutschland
+  * Datenschutz und Sicherheit laut Stiftung Warentest in Ordnung
+  * gute Bewertung der Bedienung durch „Connect“
+  * läuft auf Windows, Mac, Android und iOS
+  * 25 GB Gratis-Speicher für Telekom-Kunden
+  * keine App für Windows Phone
+
+Anbieterbewertung in der Community
+
+Jetzt zum Anbieter
+
+##  Strato Hidrive  
+Online-Festplatte (Cloud-Speicher)
+
+    * 1.000 GB für monatlich 7,50 €
+    * Server in Deutschland
+    * Datenschutz und Sicherheit laut Stiftung Warentest in Ordnung
+    * gute Bewertung der Bedienung durch „Chip“
+    * läuft auf Windows (Desktop/Mobile), Mac, Android, iOS
+    * Vertragsbindung mindestens 12 Monate
+
+Jetzt zum Anbieter
+
+### Nur verschlüsselte Chat-Dienste sind abhörsicher
+
+Viele beliebte Nachrichtenprogramme, auch Messenger genannt, wie Skype,
+Facebook Messenger und iMessage werden von Anbietern in den USA betrieben und
+sind nicht lückenlos verschlüsselt. Alternativ können Sie Messenger-Apps
+nutzen, die eine vollständige sogenannte Ende-zu-Ende-Verschlüsselung
+verwenden. Dabei wird die Nachricht auf Ihrem Handy verschlüsselt und erst
+beim Empfänger wieder entschlüsselt. Damit ist eine Auswertung Ihrer
+Informationen nahezu ausgeschlossen.
+
+Verschlüsselte Messenger sind zum Beispiel Threema, Simsme von der Deutschen
+Post, Surespot, MyEnigma oder die von Edward Snowden empfohlene Open-Source-
+Software Signal. Der Telegram Messenger verschlüsselt vom Nutzer ausgewählte
+Chats. Bei einigen dieser Programme können Sie entscheiden, ob Sie die
+Kontakte aus Ihrem Adressbuch wirklich freigeben wollen oder lieber selbst in
+der App anlegen.
+
+Ein Nachteil der alternativen Messenger: Sie können darüber nur kommunizieren,
+falls Freunde und Familie dieselbe App nutzen. Stellen Sie sich also auf viel
+Überzeugungsarbeit ein, falls Sie etwa vom weitverbreiteten Whatsapp zu einem
+Nachrichtenprogramm wie Threema wechseln wollen.
+
+Whatsapp verschlüsselt jetzt auch  
+Ebenfalls Ende-zu-Ende-verschlüsselt ist seit April 2016 der weltweit
+beliebteste Messenger Whatsapp. Wenn Sie dieses Programm nutzen, kann niemand
+mehr Ihre Nachrichten mitlesen, nicht einmal Whatsapp selbst. Laut den
+Sicherheitsexperten von Heise Security ist die verwendete Verschlüsselung
+„dokumentiert und State-of-the-Art“. Außerdem hält das Fachmedium die Existenz
+einer sogenannte Hintertür, die es Whatsapp ermöglichen würde, trotz
+Verschlüsselung auf Nachrichten zuzugreifen, für unwahrscheinlich.
+
+Allerdings lädt Whatsapp nach wie vor Telefonnummern aus dem Handy-Adressbuch
+auf Server in den USA hoch. Seit Oktober 2016 leitet Whatsapp außerdem
+Nutzerdaten an Facebook weiter, obwohl die Unternehmen dies bei der Übernahme
+durch Facebook im Jahr 2014 eigentlich ausgeschlossen hatten. Der bundesweit
+für Facebook zuständige Hamburger Datenschutzbeauftragte Johannes Caspar hat
+daraufhin von der weiteren Nutzung von WhatsApp abgeraten. Im Januar 2017 hat
+der Verbraucherzentralen-Bundesverband (VZBV) Whatsapp wegen der
+Datenweitergabe an Facebook verklagt.
+
+      * Tipp: Sollen wir Sie rund um das Thema Internet und Medien sowie zu weiteren Themen auf dem Laufenden halten? Abonnieren Sie unseren kostenlosen Newsletter!
+
+Ja, bitte! Bitte geben Sie eine Email Adresse an. Vielen Dank für Ihr
+Interesse!  
+Wir haben Ihnen gerade eine E-Mail zur Bestätigung geschickt.
+
+Bitte bestätigen Sie jetzt Ihre Anmeldung!  
+
+#### Wir haben Ihnen eine E-Mail an Ihre Adresse gesendet.
+
+Schauen Sie gleich in Ihr E-Mail-Programm.
+
+Sie haben keine E-Mail erhalten? Kann es sein, dass die Nachricht im SPAM-
+Ordner Ihres E-Mail-Anbieters gelandet ist?  
+Bitte schauen Sie auch dort einmal nach und fügen die Mail-Adresse von
+Finanztip.de Ihrem Adressbuch hinzu.
+
+### Daten schützen in sozialen Netzwerken
+
+Für soziale Netzwerke aus den USA wie Facebook, Instagram oder Google+ gibt es
+kaum mehr ernst zu nehmende Alternativen mit besserem Datenschutz. So hat
+StudiVZ den Konkurrenzkampf gegen Facebook längst verloren. Lediglich Xing
+schlägt sich gut im Wettbewerb mit dem US-Netzwerk Linkedin.
+
+Um zu verhindern, dass US-Geheimdienste auf Ihre Daten zugreifen, müssten Sie
+aufhören, die entsprechenden Angebote von amerikanischen Firmen zu nutzen. Für
+viele dürfte das nicht in Frage kommen. Überlegen Sie daher gut, welche
+Informationen Sie auf Facebook und Co. von sich preisgeben, und schränken Sie
+den Zugriff auf Ihre Daten ein. Wie das geht, haben wir hier für Sie
+zusammengetragen.
+
+## Sollen wir Sie
+
+rund um das Thema Internet und Medien
+
+sowie zu weiteren Themen auf dem Laufenden halten?
+
+###  Einmal pro Woche die wichtigsten Verbraucher-Tipps - kostenlos und
+werbefrei direkt in Ihr Postfach.
+
+      * Wertvolle Spartipps für Ihr Geld
+      * Urteile, die Sie kennen sollten
+      * Updates zu unseren beliebten Rechnern und Musterschreiben
+      * Unverbindlich und jederzeit kündbar
+
+Jetzt zum Newsletter anmelden Bitte geben Sie eine Email Adresse an.  
+  
+Finanztip-Chefredakteur  
+Hermann-Josef Tenhagen
+
+## Vielen Dank für Ihre Anmeldung
+
+### Bitte bestätigen Sie Ihre E-Mail-Adresse
+
+      1. Schauen Sie gleich in Ihrem Postfach nach. 
+      2. Öffnen Sie die Mail von Finanztip Newsletter. 
+      3. Klicken Sie auf den Bestätigungslink. 
+
+### Schauen Sie bitte auch im Spam-Ordner nach.
+
+Zurück zum Ratgeber
+
+#### Das könnte Sie auch interessieren
+
+      * Prozesskostenhilfe im Scheidungsverfahren
+      * Anwalts- und Gerichtskosten nur eingeschränkt absetzbar 
+      * So finden Sie günstige Bahn-Tickets
+      * So setzen Sie Schulgeld für Privatschulen von der Steuer ab
+
+#### Noch mehr sparen mit Finanztip
+
+      * Den Nachwuchs privat krankenversichern
+      * So funktioniert die Kraftfahrzeugsteuer
+      * Fast alle Haushalte erhalten neue Messgeräte für Strom
+      * Mitentscheiden, wen das Gericht als Betreuer bestellt
+
+      * facebook
+      * google+
+      * twitter
+      * drucken
+      * WhatsApp
+
+#### Finanztip Newsletter
+
+      * Jede Woche die besten Tipps
+      * Absolut kostenlos
+      * 100% werbefrei
+
+#### Kostenlos anmelden
+
+Anmelden
+
+Aktuelle Ausgabe Datenschutz
+
+## Artikel verfasst von
+
+Daniel Pöhler
+
+Finanztip-Experte für Mobilität & Digitales
+
+Daniel Pöhler ist bei Finanztip für Mobilität und digitale Themen
+verantwortlich. Wie die Telekommunikations-Branche tickt, hat er durch seine
+Arbeit bei der Fachzeitung Telecom Handel gelernt. Davor sammelte er
+Erfahrungen bei der Software-Schmiede SAP und beim TV-Hersteller Loewe. Daniel
+Pöhler hat ein Diplom in Betriebswirtschaft von der Universität Bayreuth.
+
+Dr. Britta Beate Schön
+
+Finanztip-Expertin für Recht
+
+Britta Beate Schön ist bei Finanztip für sämtliche Rechtsthemen zuständig. Die
+promovierte Juristin und Rechtsanwältin war als Leiterin der Rechtsabteilung
+bei Finanzdienstleistern wie der Telis Finanz AG und der Interhyp tätig.
+Vorher lehrte und forschte sie in Japan als DAAD-Junior-Professorin für
+deutsches und Europarecht. Ihr Studium absolvierte sie in Münster, Genf,
+Regensburg und Leipzig. Die Autorin erreichen Sie unter
+britta.schoen@finanztip.de.
+
+## Inhaltsverzeichnis
+
+      * Welche Anbieter Ihre Daten in die USA übermitteln
+      * Sichere Kommunikation mit E-Mail-Verschlüsselung
+      * Diese Cloud-Dienste speichern in Deutschland
+      * Nur verschlüsselte Chat-Dienste sind abhörsicher
+      * Daten schützen in sozialen Netzwerken
+
+## Finanztip-Newsletter
+
+Jetzt anmelden und keinen Finanztip mehr verpassen
+
+Bitte bestätigen Sie jetzt Ihre Anmeldung!  
+
+#### Wir haben Ihnen eine E-Mail an Ihre Adresse gesendet.
+
+Schauen Sie gleich in Ihr E-Mail-Programm.
+
+Sie haben keine E-Mail erhalten? Kann es sein, dass die Nachricht im SPAM-
+Ordner Ihres E-Mail-Anbieters gelandet ist?  
+Bitte schauen Sie auch dort einmal nach und fügen die Mail-Adresse von
+Finanztip.de Ihrem Adressbuch hinzu.
+
+Liebe Leserin, lieber Leser, Finanztip.de ist nur mit aktiviertem Javascript
+vollständig nutzbar. In Ihrem Browser wurde Javascript offenbar deaktiviert,
+daher werden einige Inhalte nicht korrekt dargestellt. Davon betroffen sind
+auch die Kennzeichnungen von Affiliate-Links, die momentan für Sie nicht
+sichtbar sind. Mehr über diese Links erfahren Sie in unserem Beitrag
+www.finanztip.de/wie-wir-uns-finanzieren/. Bitte aktivieren Sie Javascript, um
+Finanztip.de vollständig nutzen zu können, oder versuchen Sie es mit einem
+anderen Browser.
+
+      * Datenschutz
+      * Impressum
+      * In den Medien
+      * Kontakt
+      * Newsletter
+      * Presse
+      * Sitemap
+      * Über uns
+
+Feedback
+
+## Feedback
+
+Bitte lassen Sie uns wissen, was Sie über FINANZTIP denken. Jede Art von
+Feedback ist willkommen.
+
+Redaktioneller Fehler
+
+Lob/Kritik
+
+Technisches Problem
+
+Sonstiges
+

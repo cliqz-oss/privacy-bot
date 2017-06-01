@@ -1,0 +1,185 @@
+  * Start
+  * Chat Portal
+    * Jugendschutz
+      * Ratgeber
+      * ICRA-Kennzeichnung
+      * age-de.xml-Label
+    * Chat Anleitung
+    * Chatregeln
+    * Chatiquette
+    * Auszeichnungen
+    * Das Team
+    * User-Ranking
+  * Chat Talk
+
+    * Neuigkeiten
+
+      * Chat mit Handy erreichbarNEU
+      * Vorsicht: Abzocke!
+      * ChatRoom2000 geht online
+
+    * Chat-Events / Actions
+
+      * Was ist ein Chat-Event?
+      * Welche Chat-Events gibt es?
+    * Community und Talks
+
+      * Chat Forum
+      * Umfrage
+      * Aktuelles
+    * Mein Chat &amp; Mehr
+
+      * Chat Login
+      * Emojis
+      * Was sind Chat-Coins?
+      * Chat Anleitung
+      * Chat-Rooms
+    * Flirt, Liebe, Chat
+
+      *     * Interessantes
+
+      * Sei ein Teil von uns
+      * Verlinke uns
+      * Werbe bei uns
+
+  * Chat Forum
+  * Wer ist online?
+  * Mehr
+    * Chat Login
+    * Chatter melden
+    * Fehlermeldungen
+    * Sei dabei
+    * Feedback
+  * 563
+
+563
+
+Rechtssicherheit muss sein
+
+Das ist uns sehr wichtig!
+
+# Datenschutzbestimmungen
+
+Im Folgenden unterrichten wir dich über Art, Umfang und Zwecke der Erhebung
+und Verwendung personenbezogener Daten auf chatroom2000.de. Du kannst diese
+Unterrichtung jederzeit auf unserer Webseite abrufen.
+
+### Datenübermittlung
+
+Dein Internet-Browser übermittelt beim Zugriff auf unsere Webseite aus
+technischen Gründen automatisch Daten an unseren Webserver. Es handelt sich
+dabei unter anderem um Datum und Uhrzeit des Zugriffs, URL der verweisenden
+Webseite, abgerufene Datei, Menge der gesendeten Daten, Browsertyp und
+-version, Betriebssystem sowie deine IP-Adresse. Diese Daten werden im Rahmen
+der Nutzung unseres Angebotes vorübergehend gespeichert. Diese Daten werden zu
+statistischen Zwecken ausgewertet und im Anschluss gelöscht.
+
+### Cookies
+
+Um den Funktionsumfang unseres Internetangebotes vollständig nutzen zu können,
+verwenden wir so genannte „Cookies“. Mit Hilfe dieser „Cookies“ können bei dem
+Aufruf unserer Webseite Daten auf deinem Rechner gespeichert werden. Die
+meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies“.
+Sie werden nach Ende deines Besuchs automatisch gelöscht. Cookies richten auf
+deinem Rechner keinen Schaden an und enthalten keine Viren.
+
+### Speicherung von Daten
+
+chatroom2000.de speichert zu An- und Abmelde-Vorgängen die IP-Adresse, die
+aufgerufene Datei und den gewählten Nicknamen von allen Nutzern. Die
+Mitteilungen in Chaträumen werden aufgezeichnet. Diese Protokolle werden
+genutzt zu Zwecken der Fehlerbehebung, der Optimierung der Software, zur
+Identifikation und Nachverfolgung unzulässiger Zugriffsversuche und zur
+Aufrechterhaltung der Nutzungsbedingungen. Keinesfalls werden diese Daten
+weitergegeben oder genutzt um Persönlichkeitsprofile zu erstellen. Jegliche
+Protokolle werden spätestens 3 Monate nach ihrer Erhebung gelöscht.
+
+Zweck ist es, im Fall von missbräuchlichen Eingriffen der Nutzer in das
+Internetangebot oder bei sonstigen Rechtsverstößen durch die Nutzer, die
+erforderlichen Identifizierungs- und Missbrauchsnachweise zu erbringen. Nach
+Ende dieser Frist werden die Daten vollständig gelöscht, es sei denn, es sind
+konkrete Strafverfolgungs- und Missbrauchsermittlungsverfahren anhängig.
+
+### Löschung
+
+Du hast die Möglichkeit dein Nutzerprofil unter deinen Profileinstellungen
+jederzeit selbst zu löschen. Mit der Löschung werden alle Daten, die du in
+deinem Profil angegeben hast und die wir zu deinem Profil gespeichert haben
+(wie Passwörter, Nachrichten, Bilder etc.) endgültig gelöscht.
+
+Bei Verstößen gegen die Nutzungsbedingungen, sowie bei einer Inaktivität von
+12 Monaten sind wir berechtigt dein Profil zu löschen.
+
+### Google Analytics
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+(„Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf
+deinem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch dich ermöglichen. Die durch den Cookie erzeugten Informationen
+über deine Benutzung dieser Website werden in der Regel an einen Server von
+Google in den USA übertragen und dort gespeichert.  
+Da auf dieser Seite die IP-Anonymisierung aktiviert ist, wird deine IP-Adresse
+von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in
+anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server
+von Google in den USA übertragen und dort gekürzt.  
+Im Auftrag des Betreibers dieser Website wird Google diese Informationen
+benutzen, um deine Nutzung der Website auszuwerten, um Reports über die
+Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und
+der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber
+zu erbringen. Die im Rahmen von Google Analytics von deinem Browser
+übermittelte IP-Adresse wird nicht mit anderen Daten von Google
+zusammengeführt.  
+Du kannst die Speicherung der Cookies durch eine entsprechende Einstellung
+deiner Browser-Software verhindern; wir weisen dich jedoch darauf hin, dass du
+in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website
+vollumfänglich nutzen kannst. Du kannst darüber hinaus die Erfassung der durch
+das Cookie erzeugten und auf deine Nutzung der Website bezogenen Daten (inkl.
+deiner IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google
+verhindern, indem du das unter dem folgenden Link verfügbare Browser-Plugin
+herunterlädst und installierst:  
+http://tools.google.com/dlpage/gaoptout
+
+### Datensicherheit
+
+chatroom2000.de ist um die Sicherheit der Nutzerdaten im Rahmen der geltenden
+Datenschutzgesetze und technischen Möglichkeiten bemüht. Jedoch ist eine
+Community zum Austausch persönlicher und sensibler Daten nicht das richtige
+Medium. Dem Nutzer muss bewusst sein, dass Informationen, die von ihm
+freiwillig auf chatroom2000.de veröffentlicht werden, von anderen Nutzern
+eingesehen werden können.
+
+Außerdem muss dem Nutzer bewusst sein, dass chatroom2000.de keine 100%ige
+Verfügbarkeit des Systems gewährleisten kann. Die dauerhafte Sicherung
+eingestellter Inhalte wie z.b. wichtiger Urlaubsfotos etc. außerhalb von
+chatroom2000.de obliegt daher jedem Nutzer selbst.
+
+#### SUPPORT
+
+  * Kontakt
+  * Impressum
+  * Sitemap
+  * Häufige Fragen
+
+#### RECHTLICHES
+
+  * Jugendschutz
+  * Hinweise für Eltern
+  * Datenschutzbestimmungen
+  * Nutzungsbedingungen
+
+#### PARTNER
+
+  * Chat-Netzwerk
+  * chattestdu.de
+  * myfunchat.de
+
+#### FOLGE UNS
+
+#### Demnächst
+
+© 2017 CHATROOM2000.de
+
+Diese Webseite verwendet Cookies. Wenn du diese Webseite nutzt, akzeptierst du
+die Verwendung von Cookies.Ok, verstanden. Weiterlesen
+

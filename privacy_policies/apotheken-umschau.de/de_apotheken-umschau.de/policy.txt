@@ -1,0 +1,281 @@
+  * Login
+  * Registrieren
+  * Newsletter bestellen
+  *  
+  *  
+  *  
+
+Home
+
+Krankheiten
+
+Symptome
+
+Medikamente
+
+Therapie
+
+Ernahrung
+
+Sport
+
+Psyche
+
+Wohlfuhlen
+
+Videos
+
+Tests
+
+Spiele
+
+Spezials
+
+Seniorenheime und Pflegedienste
+
+#  Datenschutzerklarung
+
+von Wort &amp; Bild Verlag, aktualisiert am 09.02.2017
+
+Wir, die Wort &amp; Bild Verlag Konradshohe GmbH &amp; Co. KG, nehmen den
+Schutz der personenbezogenen Daten der Nutzer unserer Internetangebote sehr
+ernst. Wir haben technische und organisatorische Maßnahmen getroffen, die
+sicherstellen, dass die Vorschriften uber den Datenschutz sowohl von uns als
+auch von externen Dienstleistern beachtet werden.
+
+Im Zuge der Weiterentwicklung unserer Dienste und der Implementierung neuer
+Technologien ist es moglich, dass Änderungen dieser Datenschutzerklarung
+erforderlich werden. Daher empfehlen wir Ihnen, sich diese
+Datenschutzerklarung ab und zu erneut durchzulesen.
+
+Die nachfolgenden Datenschutzhinweise gelten fur unsere Internetangebote
+apotheken-umschau.de, senioren-ratgeber.de, diabetes-ratgeber.net, baby-und-
+familie.de, meine-gesundheitsakademie.de, einschließlich der jeweiligen
+Versionen fur Mobilgerate. Soweit diese Internetangebote zusatzlich als App
+fur eine Verwendung auf Mobilgeraten genutzt werden konnen, finden Sie die
+spezielle Datenschutzerklarung in der jeweiligen App und im Downloadbereich
+des App Store (Apple) bzw. bei Google play.
+
+Allgemeine Datenerhebung und Datenverarbeitung durch Wort &amp; Bild
+
+Wir erheben, verarbeiten oder nutzen personenbezogene Daten von Nutzern nur,
+soweit dies fur die Erbringung unserer Services und Dienstleistungen notwendig
+ist (wie z.B. Aufnahme von Bestellungen, Mitgliedschaften, Versand von
+Newslettern). Daten, die wir von Nutzern im Rahmen unserer
+Interaktionsplattformen (z.B. Forum) erheben, gestatten eine pseudonyme
+Nutzung.
+
+Soweit Nutzer selbst Informationen uber ihre Person in die von uns angebotenen
+Interaktionsplattformen einstellen, weisen wir darauf hin, dass diese
+Informationen grundsatzlich weltweit frei im Internet zuganglich sind und von
+Suchmaschinen aufgefunden werden konnen.
+
+Wir stellen sicher, dass unsere Mitarbeiter sowie die von uns beauftragten
+Experten die von den Nutzern mitgeteilten oder im Rahmen ihrer Tatigkeit
+bekannt gewordenen Informationen streng vertraulich behandeln.
+
+Erhebung und Weitergabe von Daten beim Zugriff auf die Internetangebote von
+Wort &amp; Bild
+
+Beim Start und der Nutzung unserer Internetangebote und Apps werden aktuelle
+Informationen von unseren Servern geladen (z.B. aktuelle News, Öffnungszeiten
+ausgewahlter Apotheken, vom Nutzer erstellte Eintrage in einem Nutzerforum).
+Diese Zugriffe werden in einer Protokolldatei erfasst und dabei folgende Daten
+gespeichert:
+
+  * IP-Adresse des Gerates
+  * Name der abgerufenen URL
+  * Datum und Uhrzeit des Abrufs
+  * ubertragene Datenmenge
+  * Meldung, ob der Abruf erfolgreich war
+  * Verwendeter Webbrowser
+  * Bei den Apps auch den Standort des Mobilgerates, um das Leistungsangebot der App in vollem Umfang nutzen zu konnen (vgl. hierzu die gesonderten Datenschutzbestimmungen in der jeweiligen App).
+
+Bei Storungen der Kommunikation zwischen der Website bzw. der App und dem
+Server konnen zur Fehleranalyse Auswertungen mit gekurzter IP-Adresse
+vorgenommen werden. Die gekurzte IP-Adresse wird so lange gespeichert, wie
+dies zur Fehlerbehebung notwendig ist, maximal wenige Tage. Eine daruber
+hinaus gehende Verarbeitung dieser Daten findet nicht statt. Die Daten werden
+von uns auf besonders geschutzten Servern in Deutschland gespeichert.
+
+Daten, die beim Zugriff auf unsere Internetangebote protokolliert worden sind,
+werden an Dritte nur ubermittelt, soweit wir gesetzlich oder durch
+Gerichtsentscheidung dazu verpflichtet sind oder die Weitergabe zur Rechts-
+oder Strafverfolgung erforderlich ist. Eine Weitergabe zu anderen
+nichtkommerziellen oder zu kommerziellen Zwecken erfolgt nicht.
+
+Cookies
+
+Cookies sind kleine Textdateien, die lokal im Zwischenspeicher des Internet-
+Browsers des Seitenbesuchers gespeichert werden. Sie dienen dazu, das
+Internetangebot insgesamt nutzerfreundlicher und effektiver zu machen. Bei der
+Nutzung unserer Websites werden fur die Dauer der Browser-Sitzung Cookies auf
+Ihrem Computer gespeichert (sog. Session-Cookies). Bei einigen Internet-
+Angeboten werden außerdem Cookies eingesetzt, die uber die Dauer der Browser-
+Sitzung hinaus nach einer vorgegebenen Dauer geloscht werden. Weitere
+Erlauterungen hierzu finden Sie in den nachfolgenden Erlauterungen zu den
+einzelnen Analysediensten.
+
+Die meisten Browser sind so eingestellt, dass sie Cookies automatisch
+akzeptieren. Sie konnen das Speichern von Cookies jedoch deaktivieren oder
+Ihren Browser so einstellen, dass Cookies nur fur die Dauer der jeweiligen
+Verbindung zum Internet gespeichert werden. In diesem Fall konnen eventuell
+nicht alle Funktionen dieser Website genutzt werden.
+
+Informationserhebung zu Marketing- und Optimierungszwecken
+
+eTracker: Mit Technologien der etracker GmbH (http://www.etracker.com) erheben
+und verarbeiten wir Daten zur Optimierung unseres Angebots und zu
+Marketingzwecken . Aus diesen Daten konnen unter einem Pseudonym
+Nutzungsprofile erstellt werden. Hierzu konnen Cookies eingesetzt werden. Die
+Cookies ermoglichen die Wiedererkennung des Internet-Browsers (vgl. unter
+"Cookies"). Die mit den etracker-Technologien erhobenen Daten werden ohne die
+gesondert erteilte Zustimmung des Betroffenen nicht dazu benutzt, den Besucher
+dieser Website personlich zu identifizieren und nicht mit personenbezogenen
+Daten uber den Trager des Pseudonyms zusammengefuhrt.
+
+Opt out: Der Datenerhebung und -speicherung kann jederzeit mit Wirkung fur die
+Zukunft auf http://www.etracker.de/privacy?et=jhbgEg widersprochen werden.
+
+AT Internet: Unsere digitalen Angebote verwenden einen Webanalysedienst der
+Firma AT Internet fur die Auswertung der Daten, die Ihr Internetbrowser beim
+Zugriff auf unsere digitalen Produkte ubermittelt, erganzt wird das
+Erhebungsverfahren durch den Einsatz von Cookies..
+
+Es handelt sich dabei um Datum und Uhrzeit des Seitenaufrufs, Webseiten-
+Adresse der verweisenden Internetseite, abgerufene Datei, den HTTP Antwort-
+Code, Browsertyp und -version, Breite und Hohe des Browserfensters, Farbtiefe,
+Betriebssystem sowie Ihre IP-Adresse. Die IP Adresse wird unmittelbar nach der
+Erhebung durch den Server zur Datenerfassung des Tool-Anbieters und vor der
+weiteren Verarbeitung anonymisiert. Die Daten des Datenerfassungs-Servers
+werden innerhalb 24 Stunden geloscht. Ihre vollstandige IP-Adresse wird
+folglich nicht dauerhaft gespeichert, noch in Verbindung mit anderen
+Nutzungsdaten gebracht. Diese Daten werden getrennt von anderen Daten
+gespeichert, die Sie im Rahmen der Nutzung unseres Angebotes eingeben. Die
+Zuordnung dieser Daten zu einer bestimmten Person ist uns nicht moglich. Sie
+werden ausschließlich zu statistischen Analysezwecken, wie der Verbesserung
+des Angebots, erhoben und verwendet. Die Server des Dienstleisters befinden
+sich in Mitgliedsstaaten der EU.
+
+Mit der Nutzung unserer digitalen Angebote stimmen Sie der zuvor beschriebenen
+Vorgangsweise zur Analyse der Benutzung unserer Website zu. Weitere
+Informationen zum Messverfahren von AT Internet finden Sie auf der Website der
+AT Internet GmbH: www.atinternet.com/de/unternehmen/datenschutz/ressourcen/
+
+Opt-Out: Sie konnen der Datenverarbeitung durch AT Internet unter folgendem
+Link widersprechen: www.xiti.com/de/optout.aspx
+
+INFOnline: Wir nutzen das "Skalierbare Zentrale Messverfahren" (SZM) der Firma
+INFOnline (https://www.infonline.de) fur die Ermittlung statistischer
+Kennwerte zur Nutzung unserer Angebote. Dabei werden anonyme Messwerte
+erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von
+Computersystemen alternativ entweder einen Cookie mit der Kennung "ioam.de",
+"ivwbox.de", ein LocalStorage Objekt oder eine Signatur, die aus verschiedenen
+automatisch ubertragenen Informationen Ihres Browsers erstellt wird. IP-
+Adressen werden nur in anonymisierter Form verarbeitet. Die Reichweitenmessung
+wurde unter der Beachtung des Datenschutzes entwickelt. Ziel der
+Reichweitenmessung ist es, die Nutzungsintensitat und die Anzahl der Nutzer
+einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden einzelne
+Nutzer identifiziert. Ihre Identitat bleibt immer geschutzt. Sie erhalten uber
+das System keine Werbung.
+
+Fur Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung
+der Verbreitung von Werbetragern e.V. (IVW - www.ivw.eu) sind oder an der
+Studie "internet facts" der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF -
+www.agof.de) teilnehmen, werden die Nutzungsstatistiken monatlich von der AGOF
+und der Arbeitsgemeinschaft Media-Analyse e.V. (ag.ma - www.agma-mmc.de),
+sowie der IVW veroffentlicht und konnen unter http://www.agof.de,
+http://www.agma-mmc.de und http://www.ivw.eu eingesehen werden.
+
+Neben der Veroffentlichung von Messdaten uberpruft die IVW das SZM-Verfahren
+regelmaßig im Hinblick auf eine regel- und datenschutzkonforme Nutzung.
+Weitere Informationen zum SZM-Verfahren finden Sie auf der Website der
+INFOnline GmbH (https://www.infonline.de, die das SZM-Verfahren betreibt, der
+Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der
+Datenschutzwebsite der IVW (http://www.ivw.eu).
+
+Opt out: Sie konnen der Datenverarbeitung durch das SZM unter folgendem Link
+widersprechen:  
+http://optout.ioam.de und http://optout.ivwbox.de.
+
+Soziale Netzwerke und Social Media Buttons
+
+In unseren Internetauftritten sind Verweise (Links) zu unseren Webseiten in
+den sozialen Netzwerken von Facebook, Google+ und Twitter enthalten. Der
+Betrieb dieser Seiten erfolgt durch das jeweilige soziale Netzwerk, also
+Facebook, Google+ oder Twitter.
+
+Wenn Sie eines der vorgenannten Angebote aufrufen, baut das soziale Netzwerk
+mit Ihrem Browser unmittelbar eine direkte Verbindung auf. Dadurch erhalt das
+soziale Netzwerk u.a. die Information, dass Sie mit Ihrer IP-Adresse diese
+Webseite besucht haben. Dies geschieht unabhangig davon, ob Sie in dem
+sozialen Netzwerk aktuell eingeloggt oder uberhaupt registriert sind. Sofern
+Sie gleichzeitig in dem jeweiligen sozialen Netzwerk eingeloggt sind, ordnet
+das soziale Netzwerk Ihren Seitenabruf automatisch Ihrem Profil zu. Wenn Sie
+dies nicht wunschen, loggen Sie sich vor dem Klick auf den Verweisbutton zu
+einem sozialen Netzwerk aus.
+
+Daruber hinaus verwenden wir Social Media Buttons von Facebook, Google+ und
+Twitter, damit Sie Inhalte mit Ihren Freunden in den jeweiligen sozialen
+Netzwerken teilen bzw. diese Inhalte empfehlen konnen. Auch in diesen Fallen
+kann das soziale Netzwerk die Informationen uber empfohlene oder geteilte
+Inhalte Ihrem Profil zuordnen. Deshalb werden die Social Media Buttons erst
+aktiviert, wenn Sie Ihre Zustimmung zur Kommunikation mit Facebook, Google+
+oder Twitter erklart haben (sog. 2-Klick-Losung).
+
+Wir weisen darauf hin, dass die im Zusammenhang mit dem Besuch der Seiten auf
+den sozialen Netzwerken und der Verwendung von Social Media Buttons erhobenen
+Daten ausschließlich zwischen Ihrem Browser und den Betreibern der sozialen
+Netzwerke ausgetauscht werden. Wir haben keinerlei Kenntnis vom Inhalt der
+erhobenen und uberlassenen Daten. Deshalb empfehlen wir, die jeweils aktuellen
+Datenschutzhinweise der Betreiber der sozialen Netzwerke zu lesen.
+
+Facebook: https://www.facebook.com/policy.php
+
+Google+: http://www.google.com/intl/de/+/policy/+1button.html
+
+Twitter http://twitter.com/privacy
+
+Links zu Webseiten anderer Anbieter
+
+Unser Online-Angebot enthalt Links zu Webseiten anderer Anbieter. Wir haben
+keinen Einfluss darauf, dass diese Anbieter unsere Datenschutzbestimmungen
+einhalten.
+
+Wort &amp; Bild Verlag Konradshohe GmbH &amp; Co. KG  
+April 2016
+
+  
+
+  
+
+  * Impressum
+  * Datenschutz
+  * Sicherheitstipps
+  * Newsletter
+  * RSS
+  * Kontakt
+  * Archiv
+  * Arzneimittelliste
+
+  * Nutzungsbedingungen
+  * Wissenschaftlicher Beirat
+  * Ethische Grundlagen
+  * Presse-Service
+  * Media-Service
+
+(C) Wort &amp; Bild Verlag Konradshohe GmbH &amp; Co. KG
+
+#### Weitere Online-Angebote des Wort &amp; Bild Verlages
+
+Senioren Ratgeber mit Informationen rund um Krankheiten, gesund alt werden,
+altersgerechtes Wohnen, Pflege und Finanzen  
+Diabetes Ratgeber mit den Schwerpunkten Diabetes Typ 1 und Diabetes Typ 2:
+Symptome, Behandlung und Ernahrung bei Zuckerkrankheit  
+Baby und Familie mit Themen rund um Schwangerschaft, Geburt, Vorsorge,
+Kinderkrankheiten, Homoopathie und Erziehung  
+Meine Gesundheitsakademie E-Learning, das gesund macht: Krankheiten verstehen,
+Therapien lernen, Lebensqualitat gewinnen
+
+Zur mobilen Version
+

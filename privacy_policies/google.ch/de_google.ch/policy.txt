@@ -1,0 +1,860 @@
+DatenschutzerklÃ¤rung â DatenschutzerklÃ¤rung &amp; Nutzungsbedingungen â
+Google
+
+#
+
+##  DatenschutzerklÃ¤rung &amp; Nutzungsbedingungen
+
+Weiter zum Inhalt
+
+  * Ãbersicht
+  * DatenschutzerklÃ¤rung
+  * Nutzungsbedingungen
+  * Technologien und Prinzipien
+  * HÃ¤ufig gestellte Fragen
+  * Mein Konto
+
+  * DatenschutzerklÃ¤rung 
+    * Von uns erhobene Informationen
+    * Wie wir die von uns erhobenen Informationen nutzen
+    * Transparenz und WahlmÃ¶glichkeit
+    * Informationen, die Sie anderen mitteilen
+    * Zugriff auf und Aktualisierung Ihrer personenbezogenen Daten
+    * Von uns weitergegebene Informationen
+    * Datensicherheit
+    * Anwendungsbereich der DatenschutzerklÃ¤rung
+    * Einhaltung von Vorschriften und Zusammenarbeit mit RegulierungsbehÃ¶rden
+    * Ãnderungen
+    * Produktspezifische Praktiken
+    * Weitere hilfreiche Informationen zu Datenschutz und Sicherheit
+  * Rahmen zur Selbstregulierung
+  * Wichtige Begriffe
+  * Partner
+  * Aktualisierungen
+
+# Willkommen bei der DatenschutzerklÃ¤rung von Google
+
+Wenn Sie Google-Dienste verwenden, vertrauen Sie uns Ihre Daten an. In dieser
+DatenschutzerklÃ¤rung erfahren Sie, welche Daten von uns erfasst werden, zu
+welchen Zwecken wir die Daten erfassen und was wir mit den erfassten Daten
+machen. Da dies wichtig ist, sollten Sie sich die Zeit nehmen, die
+DatenschutzerklÃ¤rung sorgfÃ¤ltig zu lesen. Hinweis: Sie finden die Optionen
+zur Verwaltung Ihrer Daten und zum Schutz Ihrer PrivatsphÃ¤re und Sicherheit
+unter Mein Konto.
+
+# DatenschutzerklÃ¤rung
+
+Beispiele ausblenden
+
+Beispiele anzeigen
+
+Beispiele ausblenden
+
+Zuletzt geÃ¤ndert am: 17. April 2017 (archivierte Versionen anzeigen) Die
+verlinkten Beispiele sind unten auf dieser Seite zu finden.
+
+PDF-Version herunterladen
+
+Sie kÃ¶nnen unsere Dienste auf vielfÃ¤ltige Weise nutzen â um Informationen
+zu suchen und zu teilen, um mit anderen zu kommunizieren oder um neue Inhalte
+zu erstellen. Wenn Sie uns Informationen mitteilen, zum Beispiel durch
+Erstellung eines Google-Kontos, kÃ¶nnen wir damit diese Dienste noch weiter
+verbessern â indem wir Ihnen relevantere Suchergebnisse und Werbung
+anzeigen, Ihnen dabei helfen, mit anderen in Kontakt zu treten oder schneller
+und einfacher Inhalte mit anderen zu teilen. Wir mÃ¶chten, dass Sie als Nutzer
+unserer Dienste verstehen, wie wir Informationen nutzen und welche
+MÃ¶glichkeiten Sie haben, um Ihre Daten zu schÃ¼tzen.
+
+In unserer DatenschutzerklÃ¤rung wird erlÃ¤utert:
+
+  * Welche Informationen wir erheben und aus welchem Grund. 
+  * Wie wir diese Informationen nutzen. 
+  * Welche WahlmÃ¶glichkeiten wir anbieten, auch im Hinblick darauf, wie auf Informationen zugegriffen werden kann und wie diese aktualisiert werden kÃ¶nnen.
+
+Wir haben uns um eine mÃ¶glichst einfache Darstellung bemÃ¼ht, wenn Sie jedoch
+mit Begriffen wie Cookies, IP-Adressen, Pixel-Tags und Browsern nicht vertraut
+sind, sollten Sie sich zunÃ¤chst Ã¼ber diese SchlÃ¼sselbegriffe informieren.
+Der Schutz Ihrer Daten ist Google wichtig und daher bitten wir Sie,
+unabhÃ¤ngig davon, ob Sie ein neuer oder langjÃ¤hriger Nutzer von Google sind,
+sich die Zeit zu nehmen, um unsere Praktiken kennenzulernen â und wenn Sie
+dazu Fragen haben sollten, kÃ¶nnen Sie uns kontaktieren.
+
+ZurÃ¼ck nach oben
+
+## Von uns erhobene Informationen
+
+Wir erfassen Informationen, um allen unseren Nutzern bessere Dienste zur
+VerfÃ¼gung zu stellen â von der Feststellung grundlegender Aspekte wie zum
+Beispiel der Sprache, die Sie sprechen, bis hin zu komplexeren Fragen wie zum
+Beispiel der Werbung, die Sie besonders nÃ¼tzlich finden, den Personen, die
+Ihnen online am wichtigsten sind, oder den YouTube-Videos, die Sie interessant
+finden kÃ¶nnten.
+
+Wir erfassen Informationen auf folgende Arten:
+
+  * Daten, die Sie uns mitteilen: Zur Nutzung vieler Google-Dienste mÃ¼ssen Sie beispielsweise zunÃ¤chst ein Google-Konto erstellen. HierfÃ¼r bitten wir Sie um die Angabe personenbezogener Daten. Dies sind etwa Ihr Name, Ihre E-Mail-Adresse, Ihre Telefon- oder Kreditkartennummer, die im Zusammenhang mit Ihrem Konto gespeichert werden. Falls Sie die von uns angebotenen Funktionen zum Teilen von Inhalten in vollem Umfang nutzen mÃ¶chten, fordern wir Sie mÃ¶glicherweise auch dazu auf, ein Ã¶ffentlich einsehbares Google-Profil zu erstellen, das auch Ihren Namen und Ihr Foto beinhalten kann. 
+  * Daten, die wir aufgrund Ihrer Nutzung unserer Dienste erhalten: Wir erfassen Informationen Ã¼ber die von Ihnen genutzten Dienste und die Art Ihrer Nutzung beispielsweise dann, wenn Sie sich ein Video auf YouTube ansehen, eine Website besuchen, auf der unsere Werbedienste verwendet werden, oder wenn Sie unsere Werbung und unsere Inhalte ansehen und damit interagieren. Zu diesen Daten gehÃ¶ren: 
+    * gerÃ¤tebezogene Informationen
+
+Wir erfassen gerÃ¤tespezifische Informationen, beispielsweise das Modell der
+von Ihnen verwendeten Hardware, die Version des Betriebssystems, eindeutige
+GerÃ¤tekennungen und Informationen Ã¼ber das Mobilfunknetz einschlieÃlich
+Ihrer Telefonnummer. Google verknÃ¼pft Ihre GerÃ¤tekennungen oder
+Telefonnummer gegebenenfalls mit Ihrem Google-Konto.
+
+    * Protokolldaten
+
+Wenn Sie unsere Dienste nutzen oder von Google bereitgestellte Inhalte
+aufrufen, erfassen und speichern wir bestimmte Daten in Serverprotokollen.
+Diese Protokolle enthalten unter anderem Folgendes:
+
+      * Einzelheiten zu der Art und Weise, wie Sie unsere Dienste genutzt haben, beispielsweise Ihre Suchanfragen. 
+      * Telefonieprotokollinformationen wie Ihre Telefonnummer, Anrufernummer, Weiterleitungsnummern, Datum und Uhrzeit von Anrufen, Dauer von Anrufen, SMS-Routing-Informationen und Art der Anrufe. 
+      * IP-Adresse. 
+      * Daten zu GerÃ¤teereignissen wie AbstÃ¼rze, SystemaktivitÃ¤t, Hardware-Einstellungen, Browser-Typ, Browser-Sprache, Datum und Uhrzeit Ihrer Anfrage und Referral-URL. 
+      * Cookies, Ã¼ber die Ihr Browser oder Ihr Google-Konto eindeutig identifiziert werden kÃ¶nnen.
+    * Standortbezogene Informationen
+
+Wenn Sie Google-Dienste nutzen, erfassen und verarbeiten wir mÃ¶glicherweise
+Informationen Ã¼ber Ihren tatsÃ¤chlichen Standort. Wir verwenden zur
+Standortbestimmung verschiedene Technologien, wie IP-Adressen, GPS und andere
+Sensoren, die Google beispielsweise Informationen Ã¼ber nahe gelegene GerÃ¤te,
+WLAN-Zugangspunkte oder Mobilfunkmasten bereitstellen.
+
+    * Eindeutige Applikationsnummern
+
+Bestimmte Dienste haben eine eindeutige Anwendungsnummer. Diese Nummer und
+installationsspezifische Daten, wie zum Beispiel Art des Betriebssystems oder
+Anwendungsnummer der Version, werden mÃ¶glicherweise bei der Installation oder
+Deinstallation des entsprechenden Dienstes an Google gesendet oder wenn der
+Dienst zum Beispiel wegen automatischer Updates Kontakt mit unseren Servern
+aufnimmt.
+
+    * Lokale Speicherung
+
+MÃ¶glicherweise erfassen und speichern wir Informationen (einschlieÃlich
+personenbezogener Daten) lokal auf Ihrem GerÃ¤t, indem wir Mechanismen wie
+beispielsweise den Webspeicher Ihres Browsers (einschlieÃlich HTML 5) und
+Anwendungsdaten-Caches nutzen.
+
+    * Cookies und Ã¤hnliche Technologien
+
+Unsere Partner und wir verwenden verschiedene Technologien, um Daten zu
+erfassen und zu speichern, wenn Sie einen Google-Dienst aufrufen. Hierzu
+gehÃ¶ren mÃ¶glicherweise auch Cookies oder Ã¤hnliche Technologien, mit denen
+Ihr Browser oder Ihr GerÃ¤t identifiziert wird. DarÃ¼ber hinaus verwenden wir
+diese Technologien auch zur Erfassung und Speicherung von Daten, wenn Sie mit
+Diensten interagieren, die Teil unseres Angebots fÃ¼r Partner sind, zum
+Beispiel Werbedienste oder auf anderen Websites verfÃ¼gbare Google-Funktionen.
+Unser Produkt Google Analytics unterstÃ¼tzt Unternehmen und Websiteinhaber bei
+der Analyse des Traffics zu ihren Websites und Apps. Bei Verwendung von Google
+Analytics zusammen mit unseren Werbediensten, z. B. solchen, die das
+DoubleClick-Cookie nutzen, werden Google Analytics-Daten vom Google Analytics-
+Kunden oder von Google mithilfe von Google-Technologie mit Daten Ã¼ber Besuche
+auf mehreren Websites verknÃ¼pft.
+
+Die Daten, die wir erfassen, wenn Sie in Ihrem Google-Konto angemeldet sind,
+und die Daten, die wir von Partnern Ã¼ber Sie erhalten, kÃ¶nnen mit Ihrem
+Konto verknÃ¼pft werden. Die mit Ihrem Google-Konto verknÃ¼pften Daten werden
+von Google als personenbezogene Daten behandelt. Weitere Informationen dazu,
+wie Sie die mit Ihrem Google-Konto verknÃ¼pften Daten einsehen, verwalten oder
+lÃ¶schen kÃ¶nnen, finden Sie im Abschnitt Transparenz und WahlmÃ¶glichkeit in
+dieser Richtlinie.
+
+ZurÃ¼ck nach oben
+
+## Wie wir die von uns erhobenen Informationen nutzen
+
+Wir nutzen die im Rahmen unserer Dienste erhobenen Daten zur Bereitstellung,
+zur Wartung, zum Schutz und zur Verbesserung unserer Dienste, zur Entwicklung
+neuer Dienste sowie zum Schutz von Google und unseren Nutzern. Wir verwenden
+diese Daten auÃerdem, um Ihnen maÃgeschneiderte Inhalte anzubieten â
+beispielsweise, um Ihnen relevantere Suchergebnisse und Werbung zur VerfÃ¼gung
+zu stellen.
+
+Wir verwenden den von Ihnen fÃ¼r Ihr Google-Profil angegebenen Namen
+mÃ¶glicherweise fÃ¼r alle von uns angebotenen Dienste, die ein Google-Konto
+erfordern. DarÃ¼ber hinaus ersetzen wir mÃ¶glicherweise Namen, die in der
+Vergangenheit mit Ihrem Google-Konto verknÃ¼pft waren, damit Sie in all
+unseren Diensten einheitlich gefÃ¼hrt werden. Wenn andere Nutzer bereits Ã¼ber
+Ihre E-Mail-Adresse oder andere Sie identifizierende Daten verfÃ¼gen, werden
+wir diesen Nutzern gegebenenfalls die Ã¶ffentlich zugÃ¤nglichen Informationen
+Ihres Google-Profils, wie beispielsweise Ihren Namen und Ihr Foto, anzeigen.
+
+Wenn Sie Ã¼ber ein Google-Konto verfÃ¼gen, zeigen wir in unseren Diensten
+sowie in Anzeigen und anderen kommerziellen Kontexten mÃ¶glicherweise Ihren
+Profilnamen, Ihr Profilbild und die Aktionen an, die Sie auf Google oder in
+Drittanbieteranwendungen ausfÃ¼hren, die mit Ihrem Google-Konto verknÃ¼pft
+sind. Dies gilt beispielsweise fÃ¼r das BetÃ¤tigen von +1-SchaltflÃ¤chen, fÃ¼r
+Bewertungen, die Sie verfassen, und Kommentare, die Sie posten. Wir beachten
+dabei die Freigabe- und Sichtbarkeitseinstellungen, die Sie in Ihrem Google-
+Konto vornehmen.
+
+Wenn Sie Google kontaktieren, zeichnen wir Ihre Kommunikation auf, um Ihnen
+bei der LÃ¶sung eventuell bei Ihnen auftretender Probleme behilflich sein zu
+kÃ¶nnen. Mitteilungen zu Ihrer Nutzung unserer Dienste, einschlieÃlich
+Mitteilungen zu anstehenden VerÃ¤nderungen oder Verbesserungen, Ã¼bermitteln
+wir Ihnen gegebenenfalls unter Verwendung Ihrer E-Mail-Adresse.
+
+Mithilfe von Daten, die Ã¼ber Cookies und andere Technologien wie
+beispielsweise Pixel-Tags erfasst werden, verbessern wir Ihre Nutzererfahrung
+und die QualitÃ¤t unserer Dienste insgesamt. Eines der Produkte, die wir zu
+diesem Zweck in unseren eigenen Diensten verwenden, ist Google Analytics.
+Beispielsweise ermÃ¶glicht uns die Speicherung Ihrer bevorzugten
+Spracheinstellung, unsere Dienste in der von Ihnen bevorzugten Sprache
+anzuzeigen. Wenn wir Ihnen auf Sie zugeschnittene Werbung anzeigen,
+verknÃ¼pfen wir Kennungen aus Cookies oder Ã¤hnlichen Technologien nicht mit
+sensiblen Kategorien, beispielsweise mit Kategorien, die auf Rasse, Religion,
+sexueller Orientierung oder Gesundheit beruhen.
+
+Unsere automatisierten Systeme analysieren Ihre Inhalte (einschlieÃlich
+E-Mails), um Ihnen fÃ¼r Sie relevante Produktfunktionen wie personalisierte
+Suchergebnisse, personalisierte Werbung sowie Spam- und Malwareerkennung
+bereitzustellen.
+
+Unter UmstÃ¤nden verknÃ¼pfen wir personenbezogene Daten aus einem Dienst mit
+Informationen und personenbezogenen Daten aus anderen Google-Diensten. Dadurch
+vereinfachen wir Ihnen beispielsweise das Teilen von Inhalten mit Freunden und
+Bekannten. Je nach Ihren Kontoeinstellungen werden Ihre AktivitÃ¤ten auf
+anderen Websites und in Apps gegebenenfalls mit Ihren personenbezogenen Daten
+verknÃ¼pft, um die Dienste von Google und von Google eingeblendete Werbung zu
+verbessern.
+
+Bevor wir Informationen zu anderen als den in dieser DatenschutzerklÃ¤rung
+aufgefÃ¼hrten Zwecken nutzen, werden wir Sie um Ihre Einwilligung bitten.
+
+Google verarbeitet personenbezogene Daten auf unseren Servern, die sich in
+zahlreichen LÃ¤ndern auf der ganzen Welt befinden. Daher verarbeiten wir Ihre
+personenbezogenen Daten gegebenenfalls auf einem Server, der sich auÃerhalb
+des Landes befindet, in dem Sie leben.
+
+ZurÃ¼ck nach oben
+
+## Transparenz und WahlmÃ¶glichkeit
+
+Jeder hat unterschiedliche Bedenken im Hinblick auf den Datenschutz. Unser
+Ziel ist, Klarheit darÃ¼ber zu schaffen, welche Informationen wir erheben,
+damit Sie sinnvolle Entscheidungen Ã¼ber deren Verwendung treffen kÃ¶nnen. Sie
+kÃ¶nnen beispielsweise:
+
+  * Ihre Google-AktivitÃ¤tseinstellungen Ã¼berprÃ¼fen und aktualisieren, um festzulegen, welche Arten von Daten, z. B. auf YouTube angesehene Videos oder frÃ¼here Suchanfragen, bei der Nutzung von Google-Diensten in Ihrem Konto gespeichert werden sollen. Zudem kÃ¶nnen Sie in diesen Einstellungen festlegen, ob bestimmte AktivitÃ¤ten mithilfe eines Cookies oder Ã¤hnlicher Technologien auf Ihrem GerÃ¤t gespeichert werden, wenn Sie unsere Dienste als abgemeldeter Nutzer verwenden. 
+  * Durch Nutzung des Google-Dashboards bestimmte Arten von Informationen, die mit Ihrem Google-Konto verknÃ¼pft sind, Ã¼berprÃ¼fen und verwalten. 
+  * Mithilfe der Einstellungen fÃ¼r Werbung Ihre Anzeigenvorgaben fÃ¼r Google-Werbung, die Ihnen bei Google und im gesamten Web gezeigt wird, abrufen und bearbeiten, z. B. die Kategorien, die Sie mÃ¶glicherweise interessieren. Sie kÃ¶nnen auf dieser Seite auch bestimmte Google-Werbedienste deaktivieren. 
+  * Anpassen, wie das mit Ihrem Google-Konto verknÃ¼pfte Profil anderen Personen angezeigt wird. 
+  * Ãber Ihr Google-Konto steuern, mit wem Sie Informationen teilen. 
+  * Informationen, die mit Ihrem Google-Konto verknÃ¼pft sind, aus vielen unserer Dienste exportieren. 
+  * Festlegen, ob Ihr Profilname und Ihr Profilbild in geteilten Empfehlungen innerhalb von Anzeigen erscheinen sollen.
+
+Sie kÃ¶nnen Ihren Browser auch so einstellen, dass alle Cookies
+einschlieÃlich der mit unseren Diensten verknÃ¼pften Cookies blockiert werden
+oder dass eine Meldung angezeigt wird, sobald ein Cookie von uns gesetzt wird.
+Bedenken Sie jedoch, dass viele unserer Dienste mÃ¶glicherweise nicht
+ordnungsgemÃ¤Ã funktionieren, wenn Sie Cookies bei sich deaktiviert haben.
+Wir kÃ¶nnen dann beispielsweise Ihre bevorzugte Spracheinstellung nicht
+speichern.
+
+ZurÃ¼ck nach oben
+
+## Informationen, die Sie anderen mitteilen
+
+Viele unserer Dienste erlauben es Ihnen, Informationen mit anderen zu teilen.
+Bedenken Sie, wenn Sie Informationen Ã¶ffentlich mitteilen, dass diese
+Informationen mÃ¶glicherweise von Suchmaschinen, einschlieÃlich Google,
+indexiert werden. Unsere Dienste bieten Ihnen verschiedene MÃ¶glichkeiten,
+Ihre Inhalte zu teilen und zu entfernen.
+
+ZurÃ¼ck nach oben
+
+## Zugriff auf und Aktualisierung Ihrer personenbezogenen Daten
+
+Wann auch immer Sie unsere Dienste nutzen, sind wir bestrebt, Ihnen Zugriff
+auf Ihre personenbezogenen Daten zu geben. Sollten diese Daten fehlerhaft
+sein, bemÃ¼hen wir uns darum, Ihnen MÃ¶glichkeiten zu erÃ¶ffnen, diese schnell
+zu aktualisieren oder zu entfernen â es sei denn, wir mÃ¼ssen diese Daten zu
+berechtigten geschÃ¤ftlichen oder rechtlichen Zwecken aufbewahren. Im Falle
+der Aktualisierung Ihrer personenbezogenen Daten verlangen wir mÃ¶glicherweise
+einen Nachweis Ihrer IdentitÃ¤t, bevor wir Ihre Anfrage umsetzen.
+
+Wir lehnen gegebenenfalls Anfragen ab, die unangemessen oft wiederholt werden,
+die einen unverhÃ¤ltnismÃ¤Ãigen technischen Aufwand erfordern (beispielsweise
+die Entwicklung eines neuen Systems oder die grundlegende Ãnderung einer
+bestehenden Praxis), die den Schutz personenbezogener Daten Dritter gefÃ¤hrden
+oder die nur mit extremen Schwierigkeiten praktisch umsetzbar sind
+(beispielsweise Anfragen zu Daten, die sich in Sicherungssystemen befinden).
+
+Sofern wir den Zugriff auf und die Berichtigung von Daten gewÃ¤hren kÃ¶nnen,
+erfolgt dies grundsÃ¤tzlich kostenlos, auÃer in FÃ¤llen, in denen dies einen
+unverhÃ¤ltnismÃ¤Ãigen Aufwand erfordern wÃ¼rde. Wir sind bestrebt, unsere
+Dienste auf eine Art und Weise bereitzustellen, durch die die Daten vor
+zufÃ¤lliger oder mutwilliger ZerstÃ¶rung geschÃ¼tzt sind. Aus diesem Grund
+lÃ¶schen wir mÃ¶glicherweise verbliebene VervielfÃ¤ltigungsstÃ¼cke von Daten,
+die Sie aus unseren Diensten gelÃ¶scht haben, nicht sofort von unseren aktiven
+Servern und entfernen diese Daten nicht von unseren Sicherungssystemen.
+
+ZurÃ¼ck nach oben
+
+## Von uns weitergegebene Informationen
+
+Wir geben keine personenbezogenen Daten an Unternehmen, Organisationen oder
+Personen auÃerhalb von Google weiter, auÃer in einem der folgenden
+UmstÃ¤nde:
+
+  * Mit Ihrer Einwilligung
+
+Wir geben personenbezogene Daten an Unternehmen, Organisationen oder Personen
+auÃerhalb von Google weiter, wenn wir hierfÃ¼r Ihre Einwilligung erhalten
+haben. FÃ¼r die Weitergabe jeglicher sensibler Kategorien von
+personenbezogenen Daten benÃ¶tigen wir Ihre ausdrÃ¼ckliche Einwilligung.
+
+  * Im Falle von Domain-Administratoren
+
+Wird Ihr Google-Konto fÃ¼r Sie von einem Domain-AdministratorÂ·verwaltet
+(beispielsweise im Falle von Nutzern von G Suite), so haben der Domain-
+Administrator und die Vertriebspartner, die die Kundenbetreuung fÃ¼r Ihre
+Organisation erbringen, Zugriff auf die Informationen Ihres Google-Kontos
+(einschlieÃlich Ihrer E-Mails und anderer Daten). Ihr Domain-Administrator
+verfÃ¼gt gegebenenfalls Ã¼ber die MÃ¶glichkeit:
+
+    * Statistiken betreffend Ihr Konto, wie zum Beispiel Statistiken Ã¼ber die von Ihnen installierten Applikationen, einzusehen. 
+    * das Passwort fÃ¼r Ihr Konto zu Ã¤ndern. 
+    * den Zugriff auf Ihr Konto zu sperren oder zu beenden. 
+    * auf Daten, die als Teil Ihres Kontos gespeichert sind, zuzugreifen oder diese zu speichern. 
+    * Daten Ihres Kontos zu erhalten, um geltende Gesetze, Vorschriften oder geltendes Verfahrensrecht einzuhalten oder um einer vollstreckbaren behÃ¶rdlichen Anordnung nachzukommen. 
+    * Ihre MÃ¶glichkeiten einzuschrÃ¤nken, Daten oder Datenschutzeinstellungen zu lÃ¶schen oder zu bearbeiten.
+
+Weitere Informationen entnehmen Sie bitte der DatenschutzerklÃ¤rung Ihres
+Domain-Administrators.
+
+  * FÃ¼r die Verarbeitung durch andere Stellen
+
+Wir stellen personenbezogene Daten unseren Partnern, anderen
+vertrauenswÃ¼rdigen Unternehmen oder Personen zur VerfÃ¼gung, die diese in
+unserem Auftrag verarbeiten. Dies geschieht auf der Grundlage unserer
+Weisungen und im Einklang mit unserer DatenschutzerklÃ¤rung sowie anderen
+geeigneten Vertraulichkeits- und SicherheitsmaÃnahmen.
+
+  * Aus rechtlichen GrÃ¼nden
+
+Wir werden personenbezogene Daten an Unternehmen, Organisationen oder Personen
+auÃerhalb von Google weitergeben, wenn wir nach Treu und Glauben davon
+ausgehen dÃ¼rfen, dass der Zugriff auf diese Daten oder ihre Nutzung,
+Aufbewahrung oder Weitergabe vernÃ¼nftigerweise notwendig ist, um
+
+    * geltende Gesetze, Vorschriften oder Rechtsverfahren einzuhalten oder einer vollstreckbaren behÃ¶rdlichen Anordnung nachzukommen. 
+    * geltende Nutzungsbedingungen durchzusetzen, einschlieÃlich der Untersuchung mÃ¶glicher VerstÃ¶Ãe. 
+    * Betrug, SicherheitsmÃ¤ngel oder technische Probleme aufzudecken, zu verhindern oder anderweitig zu bekÃ¤mpfen. 
+    * die Rechte, das Eigentum oder die Sicherheit von Google, unserer Nutzer oder der Ãffentlichkeit vor Schaden zu schÃ¼tzen, soweit gesetzlich zulÃ¤ssig oder erforderlich.
+
+Wir geben mÃ¶glicherweise nicht personenbezogene Daten an die Ãffentlichkeit
+und unsere Partner weiter, beispielsweise an Publisher, Werbetreibende oder
+verbundene Websites. So verÃ¶ffentlichen wir zum Beispiel Informationen, um
+Trends bei der allgemeinen Nutzung unserer Dienste aufzuzeigen.
+
+Falls Google an einem Unternehmenszusammenschluss, einem Unternehmenserwerb
+oder einem Verkauf von VermÃ¶gensgegenstÃ¤nden beteiligt ist, werden wir
+weiterhin dafÃ¼r sorgen, die Vertraulichkeit jeglicher personenbezogener Daten
+sicherzustellen und wir werden betroffene Nutzer benachrichtigen, bevor
+personenbezogene Daten Ã¼bermittelt oder Gegenstand einer anderen
+DatenschutzerklÃ¤rung werden.
+
+ZurÃ¼ck nach oben
+
+## Datensicherheit
+
+Wir bemÃ¼hen uns intensiv darum, Google und unsere Nutzer vor unbefugtem
+Zugriff auf oder vor unbefugter VerÃ¤nderung, Weitergabe oder ZerstÃ¶rung von
+Daten zu schÃ¼tzen. Insbesondere:
+
+  * verschlÃ¼sseln wir viele unserer Dienste unter Nutzung von SSL. 
+  * bieten wir Ihnen beim Zugriff auf Ihr Google-Konto ein zweistufiges BestÃ¤tigungsverfahren sowie eine Safe-Browsing-Funktion bei Google Chrome. 
+  * Ã¼berprÃ¼fen wir unsere Praktiken zur Erhebung, Speicherung und Verarbeitung, einschlieÃlich der physischen SicherheitsmaÃnahmen, zum Schutz vor unbefugtem Zugriff auf Systeme. 
+  * beschrÃ¤nken wir den Zugriff auf personenbezogene Daten auf Mitarbeiter und Auftragnehmer von Google, die die Daten zwingend kennen mÃ¼ssen, um diese Daten fÃ¼r uns zu verarbeiten, und die strengen Vertraulichkeitsverpflichtungen unterworfen sind und disziplinarischen MaÃnahmen unterzogen oder gekÃ¼ndigt werden kÃ¶nnen, falls sie diese Verpflichtungen nicht einhalten.
+
+ZurÃ¼ck nach oben
+
+## Anwendungsbereich der DatenschutzerklÃ¤rung
+
+Unsere DatenschutzerklÃ¤rung gilt fÃ¼r alle Dienste, die von Google Inc. und
+den verbundenen Unternehmen angeboten werden, einschlieÃlich YouTube, der
+Dienste, die Google auf Android-GerÃ¤ten bereitgestellt, und der Dienste, die
+auf anderen Webseiten angeboten werden (beispielsweise unsere Werbedienste).
+Diese DatenschutzerklÃ¤rung gilt nicht fÃ¼r Dienste, fÃ¼r die gesonderte
+DatenschutzerklÃ¤rungen gelten, die die vorliegende DatenschutzerklÃ¤rung
+nicht mit umfassen.
+
+Unsere DatenschutzerklÃ¤rung gilt nicht fÃ¼r Dienste, die von anderen
+Unternehmen oder Personen angeboten werden, einschlieÃlich Produkte oder
+Webseiten, die Ihnen in Suchergebnissen angezeigt werden, Webseiten, die
+mÃ¶glicherweise Google-Dienste beinhalten, oder andere mit unseren Diensten
+verlinkte Webseiten. Unsere DatenschutzerklÃ¤rung umfasst nicht den Umgang mit
+Informationen durch andere Unternehmen oder Organisationen, die unsere Dienste
+bewerben und gegebenenfalls Cookies, Pixel-Tags und andere Technologien
+verwenden, um relevante Anzeigen zur VerfÃ¼gung zu stellen und anzubieten.
+
+ZurÃ¼ck nach oben
+
+## Einhaltung von Vorschriften und Zusammenarbeit mit RegulierungsbehÃ¶rden
+
+Wir Ã¼berprÃ¼fen die Einhaltung unserer DatenschutzerklÃ¤rung regelmÃ¤Ãig.
+Wir erfÃ¼llen darÃ¼ber hinaus mehrere Rahmenbedingungen zur Selbstregulierung,
+darunter auch das EU-US Privacy Shield Framework und das Swiss-US Privacy
+Shield Framework. Sobald wir formale schriftliche Beschwerden erhalten, nehmen
+wir mit der Person, die die Beschwerde eingereicht hat, zum Zwecke der
+Bearbeitung der Beschwerde Kontakt auf. Wir arbeiten mit den jeweils
+zustÃ¤ndigen RegulierungsbehÃ¶rden einschlieÃlich der lokalen
+DatenschutzbehÃ¶rden zusammen, um alle Beschwerden bezÃ¼glich der
+Ãbermittlung von personenbezogenen Daten zu bearbeiten, die wir nicht mit
+unseren Nutzern klÃ¤ren kÃ¶nnen.
+
+ZurÃ¼ck nach oben
+
+## Ãnderungen
+
+Unsere DatenschutzerklÃ¤rung kann sich von Zeit zu Zeit Ã¤ndern. Wir werden
+Ihre Rechte nach dieser DatenschutzerklÃ¤rung nicht ohne Ihre ausdrÃ¼ckliche
+Einwilligung einschrÃ¤nken. Alle Ãnderungen der DatenschutzerklÃ¤rung werden
+von uns auf dieser Seite verÃ¶ffentlicht werden. Falls die Ãnderungen
+wesentlich sein sollten, werden wir eine noch deutlichere Benachrichtigung zur
+VerfÃ¼gung stellen (einschlieÃlich, im Falle bestimmter Dienste, einer
+Benachrichtigung per E-Mail Ã¼ber die Ãnderungen der DatenschutzerklÃ¤rung).
+AuÃerdem werden wir Ã¤ltere Versionen dieser DatenschutzerklÃ¤rung zu Ihrer
+Einsicht in einem Archiv aufbewahren.
+
+ZurÃ¼ck nach oben
+
+## Produktspezifische Praktiken
+
+Die folgenden Hinweise erlÃ¤utern gesonderte Datenschutzpraktiken im
+Zusammenhang mit bestimmten Google-Produkten und Diensten, die Sie
+mÃ¶glicherweise nutzen:
+
+  * Chrome und Chrome OS
+  * Play BÃ¼cher
+  * Payments
+  * Fiber
+  * Projekt Fi
+  * G Suite for Education
+
+Weitere Informationen zu einigen der am hÃ¤ufigsten genutzten Google-Dienste
+erhalten Sie im Leitfaden zum Datenschutz in Google-Produkten.
+
+ZurÃ¼ck nach oben
+
+## Weitere hilfreiche Informationen zu Datenschutz und Sicherheit
+
+Weitere hilfreiche Informationen zu Datenschutz und Sicherheit finden Sie auf
+den Seiten zur DatenschutzerklÃ¤rung und zu den Prinzipien von Google,
+darunter:
+
+  * Informationen zu unseren Technologien und Prinzipien mit Details dazu, 
+    * wie wir Cookies verwenden, 
+    * welche Technologien wir fÃ¼r Werbung nutzen und 
+    * wie wir Muster wie zum Beispiel Gesichter erkennen.
+  * eine Seite, auf der erlÃ¤utert wird, welche Daten an Google weitergegeben werden, wenn Sie Websites besuchen, die unsere Werbeprodukte, Analysetools und sozialen Produkte verwenden. 
+  * den PrivatsphÃ¤recheck, mit dem Sie Ihre wichtigsten Datenschutzeinstellungen einfach Ã¼berprÃ¼fen kÃ¶nnen. 
+  * das Sicherheitscenter von Google, das Informationen dazu bietet, wie Sie sicher im Internet surfen kÃ¶nnen.
+
+#### Beispiel
+
+## "Zugriff auf Ihre personenbezogenen Daten"
+
+Zum Beispiel kÃ¶nnen Sie mit Google Dashboard schnell und einfach einige der
+Daten einsehen, die mit Ihrem Google-Konto verknÃ¼pft sind.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Werbung, die Sie besonders nÃ¼tzlich finden"
+
+Wenn Sie beispielsweise hÃ¤ufig Websites und Blogs zum Thema Gartenarbeit
+besuchen, sehen Sie beim Surfen im Web mÃ¶glicherweise entsprechende Anzeigen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Werbedienste"
+
+Wenn Sie zum Beispiel hÃ¤ufig Websites und Blogs zum Thema Gartenarbeit
+besuchen und dort unsere Anzeigen geschaltet werden, sehen Sie beim Surfen im
+Web mÃ¶glicherweise Anzeigen zu diesem Interessengebiet.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "und andere Sensoren"
+
+Ihr GerÃ¤t ist mÃ¶glicherweise mit Sensoren ausgestattet, die Informationen
+zur genaueren Bestimmung Ihres Standorts liefern. Beispielsweise kann mithilfe
+eines Beschleunigungsmessers die Bewegungsgeschwindigkeit und mit einem
+Gyroskop die Bewegungsrichtung festgestellt werden.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "erfassen mÃ¶glicherweise Informationen"
+
+Erfasst werden Informationen wie Nutzungsdaten, Einstellungen, Gmail-
+Nachrichten, Google+ Profil, Fotos, Videos, Browserverlauf, Kartensuchen,
+Dokumente oder andere von Google gehostete Inhalte.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "verknÃ¼pfen wir personenbezogene Daten aus einem Dienst mit Informationen
+und personenbezogenen Daten aus anderen Google-Diensten"
+
+Wenn Sie zum Beispiel in Ihrem Google-Konto angemeldet sind und eine Suche auf
+Google durchfÃ¼hren, erscheinen neben Suchergebnissen aus dem Ã¶ffentlichen
+Web auch Seiten, Fotos und Google+ BeitrÃ¤ge von Freunden.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "mit anderen in Kontakt zu treten"
+
+Zum Beispiel kÃ¶nnten Sie Empfehlungen fÃ¼r Personen auf Google+ erhalten, die
+Sie vielleicht kennen oder mit denen Sie mÃ¶glicherweise in Kontakt treten
+mÃ¶chten. Diese Empfehlungen basieren auf persÃ¶nlichen Verbindungen aus
+anderen Google-Produkten wie Gmail. Und den Personen, die mit Ihnen in
+Verbindung stehen, wird mÃ¶glicherweise Ihr Profil vorgeschlagen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Kreditkartennummer"
+
+Obwohl zurzeit im Rahmen der Registrierung keine Kreditkartennummer
+erforderlich ist, lÃ¤sst sich anhand einer kleinen Kreditkartentransaktion
+bestÃ¤tigen, dass Sie die Altersanforderungen erfÃ¼llen. Dieser Schritt kann
+dann erforderlich werden, wenn Ihr Konto nach der Eingabe eines Geburtsdatums
+deaktiviert wurde, das nicht dem Mindestalter fÃ¼r die Erstellung eines
+Google-Kontos entspricht.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Entwicklung neuer Dienste"
+
+Zum Beispiel wurde die Software fÃ¼r die RechtschreibprÃ¼fung von Google durch
+die Analyse vorangehender Suchen entwickelt, bei denen Nutzer ihre eigene
+Rechtschreibung korrigiert hatten.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "GerÃ¤tekennungen"
+
+Anhand von GerÃ¤tekennungen kann Google feststellen, welches konkrete GerÃ¤t
+Sie fÃ¼r den Zugriff auf unsere Dienste verwenden. Damit kÃ¶nnen wir etwa
+unseren Dienst auf Ihr GerÃ¤t anpassen oder GerÃ¤teprobleme im Zusammenhang
+mit unseren Diensten analysieren.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "gerÃ¤tespezifische Informationen"
+
+Wenn Sie zum Beispiel Google Play Ã¼ber Ihren Desktop-Computer aufrufen, kann
+Google Ihnen anhand dieser Information Entscheidungshilfen zu der Frage geben,
+auf welchen GerÃ¤ten Ihre gekauften Inhalte lauffÃ¤hig sein sollen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "verbessern wir Ihre Nutzererfahrung"
+
+Zum Beispiel kÃ¶nnen wir anhand von Cookies analysieren, wie Nutzer mit
+unseren Diensten interagieren.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "geltendes Verfahrensrecht einzuhalten oder um einer vollstreckbaren
+behÃ¶rdlichen Anordnung nachzukommen"
+
+Wie andere Technologie- und Kommunikationsunternehmen auch erhÃ¤lt Google
+regelmÃ¤Ãig Anfragen von staatlichen BehÃ¶rden und Gerichten auf der ganzen
+Welt, in denen wir zur Herausgabe von Nutzerdaten aufgefordert werden. Unsere
+Rechtsabteilung prÃ¼ft jede einzelne Anfrage unabhÃ¤ngig von ihrer Art.
+HÃ¤ufig werden Anfragen abgelehnt, die zu allgemein gehalten sind oder bei
+denen die korrekte Vorgehensweise nicht beachtet wurde.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Freigabe- und Sichtbarkeitseinstellungen"
+
+Sie kÃ¶nnen zum Beispiel einstellen, dass Ihr Name und Ihr Profilbild nicht in
+Anzeigen erscheinen.âââ¢â¡â â®ââ£
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "mit Daten Ã¼ber Besuche auf mehreren Websites verknÃ¼pft"
+
+Google Analytics basiert auf Erstanbieter-Cookies. Ãber Google Analytics
+generierte Daten kÃ¶nnen vom Google Analytics-Kunden beziehungsweise von
+Google mithilfe von Google-Technologie mit Drittanbieter-Cookies verknÃ¼pft
+werden, die im Zusammenhang mit Besuchen auf anderen Websites stehen,
+beispielsweise wenn ein Werbetreibender seine Google Analytics-Daten zur
+Erstellung relevanterer Anzeigen nutzen oder seinen Traffic genauer
+analysieren mÃ¶chte.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Wartung"
+
+Wir Ã¼berprÃ¼fen beispielsweise fortlaufend, ob unsere Systeme ordnungsgemÃ¤Ã
+funktionieren, sodass Fehler erkannt und behoben werden kÃ¶nnen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "erfassen und verarbeiten wir mÃ¶glicherweise Informationen Ã¼ber Ihren
+tatsÃ¤chlichen Standort"
+
+Google Maps beispielsweise kann die Kartenansicht auf Ihren aktuellen Standort
+zentrieren.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "mÃ¶glicherweise nicht ordnungsgemÃ¤Ã funktionieren"
+
+Wir verwenden beispielsweise ein Cookie namens "lbcs", mit dessen Hilfe sich
+eine groÃe Zahl von Google Docs-Dokumenten in einem einzigen Browser Ã¶ffnen
+lÃ¤sst.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Unsere Partner"
+
+Wir gestatten vertrauenswÃ¼rdigen Unternehmen, Cookies oder Ã¤hnliche
+Technologien zu Werbe- und Forschungszwecken in unseren Diensten zu verwenden.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Telefonnummer"
+
+Wenn Sie zum Beispiel eine Telefonnummer als Wiederherstellungsoption angeben,
+kann Google Ihnen, falls Sie einmal Ihr Passwort vergessen haben, eine SMS mit
+einem Code senden, um das Passwort zurÃ¼ckzusetzen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Schutz von Google und unserer Nutzer"
+
+Wenn Sie zum Beispiel die Sorge haben, dass jemand unautorisiert auf Ihre
+E-Mails zugegriffen hat, kÃ¶nnen Sie unter "Letzte KontoaktivitÃ¤t" in Gmail
+Informationen zu den letzten AktivitÃ¤ten in Ihrem Posteingang einsehen, etwa
+die IP-Adressen, Ã¼ber die auf Ihre E-Mails zugegriffen wurde, und wo und wann
+der Zugriff erfolgt ist.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Schutz"
+
+Zum Beispiel ist ein Grund fÃ¼r die Erfassung und Auswertung von IP-Adressen,
+dass wir dadurch unsere Dienste vor Missbrauch durch automatisierte
+Mechanismen schÃ¼tzen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Bereitstellung"
+
+Beispielsweise werden anhand der IP-Adresse, die Ihrem GerÃ¤t zugewiesen ist,
+die von Ihnen angeforderten Daten zurÃ¼ck an Ihr GerÃ¤t gesendet.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "teilen"
+
+Bei Google+ etwa haben Sie viele verschiedene Optionen zum Teilen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "schneller und einfacher Inhalte mit anderen zu teilen"
+
+Wenn sich jemand bereits in Ihrer Kontaktliste befindet, vervollstÃ¤ndigt
+Google den Namen automatisch, wenn Sie ihn in Gmail als E-Mail-EmpfÃ¤nger
+hinzufÃ¼gen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Personen, die Ihnen online am wichtigsten sind"
+
+Wenn Sie zum Beispiel beim Schreiben einer E-Mail eine Adresse in das Feld
+"EmpfÃ¤nger", "Cc" oder "Bcc" eingeben, schlÃ¤gt Ihnen Gmail Adressen aus
+Ihrer Kontaktliste vor.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "vereinfachen wir Ihnen beispielsweise das Teilen von Inhalten mit Freunden
+und Bekannten"
+
+Wenn Sie zum Beispiel mit jemandem Ã¼ber Gmail kommuniziert haben und diese
+Person zu einem Google Docs-Dokument oder einem Termin in Google Kalender
+hinzufÃ¼gen mÃ¶chten, wird die E-Mail-Adresse automatisch vervollstÃ¤ndigt,
+sobald Sie mit der Eingabe des Namens beginnen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "unsere Werbung und unsere Inhalte ansehen und damit interagieren"
+
+Zum Beispiel teilen wir den Werbetreibenden regelmÃ¤Ãig mit, ob ihre Anzeige
+auf einer Seite geschaltet wurde und ob sich Nutzer diese Anzeige
+wahrscheinlich angesehen haben oder ob sie sich z. B. auf einem Teil der Seite
+befunden hat, den die Nutzer nicht auf den Bildschirm gescrollt haben.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Wir geben mÃ¶glicherweise zusammengefasste"
+
+Wenn viele Nutzer nach etwas Bestimmtem suchen, kann dies Aufschluss Ã¼ber
+herrschende Trends geben.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "WLAN-Zugangspunkte oder Mobilfunkmasten"
+
+Google kann beispielsweise den ungefÃ¤hren Standort Ihres GerÃ¤ts anhand des
+bekannten Standorts nahe gelegener Mobilfunkmasten ermitteln.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "relevantere Suchergebnisse"
+
+Zum Beispiel kÃ¶nnen wir die Suche fÃ¼r Sie relevanter und interessanter
+gestalten, indem wir Fotos, BeitrÃ¤ge und mehr von Ihnen und Ihren Freunden
+anbieten.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "entfernen"
+
+Zum Beispiel kÃ¶nnen Sie Ihre Web- &amp; App-AktivitÃ¤ten, Ihren Blog, eine
+Google-Website, deren Inhaber Sie sind, Ihren YouTube-Kanal, Ihr Google+
+Profil oder Ihr gesamtes Google-Konto lÃ¶schen.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Trends"
+
+Einige dieser Trends finden Sie bei Google Trends und den angesagten YouTube-
+Videos.
+
+Weitere Informationen.
+
+#### Beispiel
+
+## "Ihre AktivitÃ¤ten auf anderen Websites und in Apps"
+
+Die AktivitÃ¤ten, auf die sich die Anfragen beziehen, kÃ¶nnen von Ihrer
+Nutzung von Google-Produkten wie der Chrome-Synchronisierung oder von Ihren
+Besuchen der Websites und Apps von Google-Partnern herrÃ¼hren. Viele Websites
+und Apps arbeiten bei der Verbesserung ihrer Inhalte und Dienste mit Google
+zusammen. Beispielsweise kÃ¶nnen Websites unsere Werbedienste wie AdSense oder
+Analysetools wie Google Analytics verwenden. Diese Produkte geben Daten Ã¼ber
+Ihre AktivitÃ¤ten an Google weiter. Je nach Ihren Kontoeinstellungen und den
+verwendeten Produkten kÃ¶nnen diese Daten mit Ihren personenbezogenen Daten
+verknÃ¼pft werden, zum Beispiel wenn ein Partner Google Analytics in
+Verbindung mit unseren Werbediensten verwendet.
+
+Weitere Informationen.
+
+## Ihre personenbezogenen Daten sind bei uns sicher und geschÃ¼tzt â und Sie
+behalten die Kontrolle darÃ¼ber.
+
+Weitere Informationen zu unserem Engagement fÃ¼r Datenschutz und Sicherheit
+
+### Unsere rechtlichen Richtlinien
+
+  * DatenschutzerklÃ¤rung 
+  * Nutzungsbedingungen
+  * HÃ¤ufig gestellte Fragen
+
+### Weitere Informationen
+
+  * Technologien und Prinzipien
+  * Werbung
+  * So verwendet Google Cookies
+  * Einsatz der Mustererkennung durch Google
+  * Von Google verwendete Standortdaten
+
+  * Verwendung von Kreditkartennummern durch Google Wallet
+  * Funktionsweise von Google Voice
+  * Datennutzung durch Google bei Ihrer Nutzung von Websites oder Apps unserer Partner
+
+### ZusÃ¤tzliche Ressourcen
+
+  * Mein Konto
+  * Google Sicherheitscenter
+  * Leitfaden zum Datenschutz in Google-Produkten
+  * Datenschutz, Sicherheit und Kontrolle
+
+Sprache Ã¤ndern: Afrikaans Bahasa Indonesia Bahasa Melayu CatalÃ ÄeÅ¡tina
+Dansk Deutsch Eesti English English (United Kingdom) EspaÃ±ol EspaÃ±ol
+(LatinoamÃ©rica) Euskara Filipino FranÃ§ais FranÃ§ais (Canada) Galego Hrvatski
+Isizulu Ãslenska Italiano Kiswahili LatvieÅ¡u LietuviÅ³ Magyar Nederlands
+Norsk Polski PortuguÃªs (Brasil) PortuguÃªs (Portugal) RomÃ¢nÄ SlovenÄina
+SlovenÅ¡Äina Suomi Svenska Tiáº¿ng Viá»t TÃ¼rkÃ§e ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸ Ð ÑÑÑÐºÐ¸Ð¹ Ð¡ÑÐ¿ÑÐºÐ¸ Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+â«×¢××¨××ªâ¬ â«Ø§Ø±Ø¯Ùâ¬ â«Ø§ÙØ¹Ø±Ø¨ÙØ©â¬ â«ÙØ§Ø±Ø³Ûâ¬ á
+áá­á à¤®à¤°à¤¾à¤ à¥ à¤¹à¤¿à¤¨à¥à¤¦à¥ à¦¬à¦¾à¦à¦²à¦¾
+àªà«àªàª°àª¾àª¤à« à®¤à®®à®¿à®´à¯ à°¤à±à°²à±à°à± à²à²¨à³à²¨à²¡
+à´®à´²à´¯à´¾à´³à´ à¹à¸à¸¢ íêµ­ì´ ä¸­æ (é¦æ¸¯)
+ä¸­æï¼ç®ä½ä¸­æï¼ ä¸­æï¼ç¹é«ä¸­æï¼ æ¥æ¬èª
+
+  * Google
+  * Ãber Google
+  * Datenschutz
+  * Nutzungsbedingungen
+

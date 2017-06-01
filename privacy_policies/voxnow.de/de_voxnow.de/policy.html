@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie10 lt-ie9"><![endif]-->
+<!--[if IE 9]>
+<html class="no-js lt-ie10"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" ng-app="NowApp" ng-strict-di="">
+<!--<![endif]-->
+<head>
+    <link rel="icon" type="image/ico" href="/favicon.ico">
+
+    <title>tvnow.de</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="audisto-confirm" content="638397406776a31d5b16e700aae47d81b79db02e">
+
+    <meta name="verify-v1" content="D0z7a0wecQ8kCxRgVwls7T7W8aH+GvOL+bwpDyYhddY">
+    <meta name="google-site-verification" content="gdrc1u3GOYLo7BVI3KoqZHu7DHGeuU8tuNbcaXmAvro">
+    <meta name="msvalidate.01" content="6593CA878189EEEF3510F38B05DE90A1">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="fragment" content="!">
+
+    <meta property="og:title" content="tvnow.de">
+    <meta property="og:description" content="">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.static-fra.de/tvnow/styles/54142763.tvnow.css">
+
+    <script src="https://cdn-gl.imrworldwide.com/novms/js/2/ggcmb510.js"></script>
+    <script src="https://cdn.static-fra.de/lib/rtli/rtli-js-tracking/build/RTLiVideotracking.min.js"></script>
+
+    <script src="https://cdn.optimizely.com/js/5069060333.js"></script>
+    <script src="/bugsnag-3.min.js" data-apikey="8a4778e27ca1f592b4524a30afbf2e18">
+    </script>
+
+    <base href="/">
+    
+
+    <script type="text/javascript" src="env.js"></script>
+
+    <script src="https://cdn.static-fra.de/tvnow/app/641a40ff.angular.js"></script>
+
+    <script src="https://cdn.static-fra.de/tvnow/app/d1bd08be.nonangular.js"></script>
+
+    <script src="https://cdn.static-fra.de/tvnow/app/b05c1531.main.js"></script>
+
+    <script language="javascript">
+        var ip_network = "rtl-now.de";
+
+        window.prerenderReady = false;
+        window.setTimeout(function () {
+            window.prerenderReady = true;
+        }, 15000);
+
+        if (bowser.msie) {
+            $('html').addClass('isie');
+        }
+
+        if (bowser.mobile || (bowser.tablet && !bowser.msie)) {
+            var returnurl = window.location.protocol + '//' + window.env.ffc + '/';
+
+            if (window.location.search.indexOf('emailverify') != -1 && window.location.search.indexOf('loyalty') != -1) {
+                returnurl = returnurl + '?emailverify&loyalty';
+            } else if (window.location.search.indexOf('newsletter') != -1) {
+                returnurl = returnurl + '?newsletter';
+            } else if (window.location.search.indexOf('account') != -1) {
+                returnurl = returnurl + 'profile';
+            } else if (window.location.search.indexOf('emailverify') != -1) {
+                returnurl = returnurl + '?emailverify';
+            } else if (window.location.search.indexOf('loyalty') != -1) {
+                returnurl = returnurl + '?loyalty';
+            } else if (window.location.search.indexOf('passwordrecover') != -1) {
+                returnurl = returnurl + 'login' + window.location.search;
+            } else if (window.location.pathname.indexOf('agb') != -1) {
+                returnurl = "http://mobile.tvnow.de/agb";
+            } else if (window.location.pathname.indexOf('impressum') != -1) {
+                returnurl = "http://mobile.tvnow.de/impressum";
+            } else if (window.location.pathname.indexOf('datenschutz') != -1) {
+                returnurl = "http://mobile.tvnow.de/datenschutz";
+            }else{
+                returnurl = "http://mobile.tvnow.de"+window.location.pathname;
+            }
+
+            window.location.replace(returnurl);
+        }
+
+        //elementary Search engine detection.
+        var nowSEDetected = !(window.navigator.userAgent.indexOf('Prerender') === -1 && window.navigator.userAgent.indexOf('Googlebot') === -1);
+
+        // OEWA
+        var nowResearch = 'ivw';
+        if ('at' == document.location.hostname.substr(-2)) {
+            nowResearch = 'oewa';
+        }
+
+        /* <![CDATA[ */
+        if (!nowSEDetected) {
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                            (
+                                    i[r].q = i[r].q || []
+                            ).push(arguments)
+                        }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            (function () {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = 'https://script.ioam.de/iam.js';
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+            })();
+
+            if (nowResearch == 'oewa') {
+                (function () {
+                    var s = document.createElement('script');
+                    s.type = 'text/javascript';
+                    s.async = true;
+                    s.src = '//dispatcher.oewabox.at/oewa.js';
+                    var x = document.getElementsByTagName('script')[0];
+                    x.parentNode.insertBefore(s, x);
+                })();
+            }
+
+            (function () {
+                var protocol = ('http:' === location.protocol ? 'http:' : 'https:');
+                window._adexc = window._adexc || [];
+                window._adexc.push(['/229/505/', 'cm', '_cb', [protocol + '//technical-service.net/cb-pixel.gif?auid={{UUID}}']]);
+                var axd = document.createElement('script');
+                axd.type = 'text/javascript';
+                axd.async = 1;
+                axd.src = protocol + "//dmp.theadex.com/d/229/505/s/adex.js";
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(axd, s);
+            })();
+
+            (function () {
+                var s = document.createElement('script');
+                s.id = 'ipadcontrol';
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = env.adcontrol;
+                s.innerHTML = '$AC.loadConfig({site:"nowtv.de",subsite:"home"});';
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+            })();
+        }
+        /* ]]> */
+    </script>
+    <!-- END Universal Analytics -->
+
+
+</head>
+<body class="now-mid nowtv" resize="">
+
+<script language="javascript">
+    if (window.location.search.webview || window.location.href.indexOf('?webview') > -1) {
+        $('body').addClass('webview');
+        window.isWebview = true;
+    }
+</script>
+<noscript>
+    <div class="nojs">
+        <h2>Willkommen bei TV NOW,</h2>
+
+        <p>
+            das neue TV NOW hÃ¤lt viele neue Funktionen fÃ¼r Sie bereit. Um die Neuerungen nutzen zu kÃ¶nnen, ist es jedoch
+            erforderlich, JavaScript zu aktivieren.<br>
+            Alle Informationen zur Aktivierung von JavaScript erhalten Sie <a href="https://hilfe.tvnow.de/hc/de/articles/206944559"><strong>hier</strong></a>.<br><br>
+            Ihr TV NOW Team
+        </p>
+    </div>
+</noscript>
+<div class="background">
+    <now-search-overlay></now-search-overlay>
+    <now-header></now-header>
+    <div class="now-content-top-spacer now-content-top-spacer-fixed"></div>
+    <div class="now-content center-box">
+        <div class="billboard-wrapper">
+            <div id="billboard" class="now-dom-clean-children" data-adformat="iabbillboard" ng-show="showInPageAd"></div>
+        </div>
+        <div id="wallpaper" class="now-dom-clean-children" data-adformat="wallpaper" ng-show="showInPageAd"></div>
+        <div class="now-content-inner">
+            <nowbreadcrumb></nowbreadcrumb>
+            <div ng-view=""></div>
+        </div>
+        <div class="sky-wrapper">
+            <div id="skyscraper" class="now-dom-clean-children" data-adformat="wideskyscraper" ng-show="showInPageAd"></div>
+        </div>
+    </div>
+
+    <nowfooter></nowfooter>
+    <customheader></customheader>
+    <nowplayer></nowplayer>
+</div>
+<div class="oldbrowser">
+    <h2>Willkommen bei TV NOW,</h2>
+
+    <p>
+        um das neue TV NOW nutzen zu kÃ¶nnen, bitten wir Sie ein Browserupdate vorzunehmen. Alle Informationen dazu
+        erhalten Sie <a href="https://hilfe.tvnow.de/hc/de/articles/203034992-Aktualisierung-des-Browsers"><strong>hier</strong></a>.<br><br>
+        Ihr TV NOW Team
+    </p>
+</div>
+
+<script>
+    if ((bowser.firefox && bowser.version < 4) ||
+            (bowser.msie && bowser.version < 11)) {
+        document.getElementsByClassName('background')[0].style.display = 'none';
+        document.getElementsByClassName('oldbrowser')[0].style.display = 'block';
+    }
+</script>
+
+<!-- Adform Tracking Code BEGIN -->
+<script type="text/javascript">
+    if (!nowSEDetected) {
+        (function () {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = 'https://track.adform.net/serving/scripts/trackpoint/async/';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        })();
+
+        (function () {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = '//s7.addthis.com/js/300/addthis_widget.js#pubid=rtlnow&async=1';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        })();
+    }
+</script>
+<!-- Adform Tracking Code END -->
+
+<!-- Piwik Tracking Code BEGIN -->
+<script type="text/javascript">
+    var _spef = _spef || [];
+    _spef.push(["trackPageView"]);
+    _spef.push(["enableLinkTracking"]);
+    (function () {
+        var u = "//trck.spoteffects.net/analytics/";
+        _spef.push(['setTrackerUrl', u + 'piwik.php']);
+        _spef.push(['setSiteId',484]);
+        var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0];
+        g.type = "text/javascript";
+        g.defer = true;
+        g.async = true;
+        g.src = u + "spef.min.js";
+        s.parentNode.insertBefore(g, s);
+    })();
+</script>
+<!-- Piwik Tracking Code END -->
+
+
+<img class="pixel" id="ivwpixel_internal" width="1" height="1" alt="">
+
+
+<style>#wee9 {
+    position: fixed !important;
+    position: absolute;
+    top: 3px;
+    top: expression((t=document.documentElement.scrollTop?document.documentElement.scrollTop:document.body.scrollTop)+"px");
+    left: -1px;
+    width: 101%;
+    height: 102%;
+    background-color: #ffffff;
+    opacity: .95;
+    filter: alpha(opacity=95);
+    display: block;
+    padding: 20% 0
+}
+
+#wee9 * {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    filter: none;
+    font: bold 14px Verdana, Arial, sans-serif;
+    text-decoration: none
+}
+
+#wee9 ~ * {
+    display: none
+}</style>
+<div id="wee9"></div>
+<script>window.document.getElementById("wee9").parentNode.removeChild(window.document.getElementById("wee9"));</script>
+
+</body>
+</html>
