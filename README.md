@@ -7,12 +7,12 @@ Please join our [Gitter channel](https://gitter.im/munich-cliqz/Lobby) to start 
 Privacy policies are a legal requirement for websites handling users' data. So anyone should be able to access them, read them and understand what it takes (in terms of privacy) to be using a given service. Except no one reads them  :see_no_evil: . User's fault? Probably not. We can list several reasons:
 
 1. A lot of people don't even know what they are.  :question:
-2. They are "legal documents", and it takes a specific set of skills to comprehend them. :scream:
+2. Privacy policies are "legal documents", and it takes a specific set of skills to comprehend them. :scream:
 3. They are long and reading them would be time consuming (the median length is ~2500 words).  :zzz:
 
-In short, they don't seem to be designed for people to read and understand. But still, the content of these policies is very important to anyone's privacy, for this is where you should learn what private data you agree to give away.
+In short, they usually aren't designed for people to read and understand. But still, the content of these policies is very important to anyone's privacy, for this is where you should learn what private data you agree to give away.
 
-*Privacy Bot* is a project which aims at addressing aforementioned issues. If policies are not meant for humans, then maybe we can design a bot to automatically do the heavy lifting for us. The high level goals of the project are to:
+*Privacy Bot* is a project which aims at addressing these aforementioned issues. If privacy policies are not meant for humans, then perhaps we can design a bot to automatically do the heavy lifting for us. The high level goals of the project are to:
 
 1. :squirrel: Discover the privacy policy of any domain.
 2. :floppy_disk: Automatically fetch and store them in a central place (eg: in a github repository, which will give us `diffs` on updates for free).
@@ -49,7 +49,7 @@ $ fetch_policies policy_url_candidates.json
 ```
 
 Keep in mind that the file formats are still a work in progress, and will likely
-evolve in a near future. Feel free to contribute with ideas and improvements!
+evolve in the near future. Feel free to contribute with ideas and improvements!
 
 ## Contributing
 
