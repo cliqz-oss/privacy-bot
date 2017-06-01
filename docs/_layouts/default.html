@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Privacy Bot by cliqz-oss</title>
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="/">
+          <img src="https://raw.githubusercontent.com/cliqz-oss/privacy-bot/master/assets/logo_0.5x.png">
+        </a>
+        <p>Privacy Bot gathers, persists and analyzes privacy policies.</p>
+
+        <h3>Contribution</h3>
+        <a class="contribution" href="/legal">- Legal</a>
+        <a class="contribution" href="/data-analysis">- Data Analysis</a>
+        <a class="contribution" href="/data-mining">- Data Mining</a>
+        <br><br>
+
+        <ul>
+          <li><a href="#">Collected<strong>Privacy Policies</strong></a></li>
+          <li><a href="https://github.com/cliqz-oss/privacy-bot">View On <strong>GitHub</strong></a></li>
+        </ul>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p>This project is maintained by <a href="https://github.com/cliqz-oss/">cliqz-oss</a></p>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+  </body>
+</html>
