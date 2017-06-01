@@ -1,7 +1,7 @@
 #!/bin/bash
 case $1 in
     install)
-            docker image build privacy_bot_docker/ -t privacy-bot
+            docker image build . -t privacy-bot
             ;;
             
     find_policies)
