@@ -14,10 +14,11 @@ import concurrent.futures as futures
 import json
 import os.path
 
-import tldextract
-import docopt
-import langdetect
 from readability.readability import Document
+import docopt
+import html2text
+import langdetect
+import tldextract
 
 from privacy_bot.mining.fetcher import fetch
 
@@ -46,9 +47,6 @@ def fetch_privacy_policy(policy_url):
         return
 
     lowered = content.lower()
-    # if not any(keyword in KEYWORDS for keyword in lowered.split()):
-    #     print('No keyword found')
-    #     return
     if len(lowered) < 1600:
         print('Too short:', len(content))
         return
@@ -56,12 +54,26 @@ def fetch_privacy_policy(policy_url):
     # Extract content
     readability = Document(content)
     title = readability.short_title()
-    clean_content = readability.summary()
-    lang = langdetect.detect(clean_content)
+
+    html_converter = html2text.HTML2Text()
+    html_converter.ignore_links = True
+    html_converter.ignore_emphasis = True
+    html_converter.ignore_images = True
+    html_converter.ignore_tables = True
+    html_converter.skip_internal_links = True
+
+    text = html_converter.handle(content)
+
+    try:
+        lang = langdetect.detect(text)
+    except langdetect.lang_detect_exception.LangDetectException:
+        # Can happen when no feature is found in the text
+        # TODO: use headless fetch in this case
+        lang = ''
 
     return {
-        "raw_content": content,
-        "clean_content": clean_content,
+        "html": content,
+        "text": text,
         "lang": lang,
         "title": title,
         "url": policy_url,
@@ -93,7 +105,7 @@ def main():
 
     with open(metadata_path, 'r') as input_metadata:
         policies_per_domain = json.load(input_metadata)
-        with futures.ThreadPoolExecutor() as pool:
+        with futures.ProcessPoolExecutor() as pool:
             policies = pool.map(fetch_policies_from_domain,
                                 policies_per_domain.values())
             index = defaultdict(list)
@@ -110,15 +122,14 @@ def main():
                     if not os.path.exists(output_dir):
                         os.makedirs(output_dir)
 
-                    # Output raw html
-                    with open(os.path.join(output_dir, 'policy.raw.html'), 'w') as output:
-                        output.write(policy["raw_content"])
+                    content_files = [
+                        ('html',    'policy.html'),
+                        ('text',    'policy.txt')
+                    ]
 
-                    # Output cleaned html
-                    with open(os.path.join(output_dir, 'policy.html'), 'wb') as output:
-                        output.write(policy["clean_content"].encode('utf-8'))
-
-                    # TODO - output a markdown version to display on github
+                    for key, content_path in content_files:
+                        with open(os.path.join(output_dir, content_path), 'wb') as output:
+                            output.write(policy[key].encode('utf-8'))
 
                     # Update index
                     index[domain].append({

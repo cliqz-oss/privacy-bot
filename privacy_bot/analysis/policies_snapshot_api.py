@@ -92,25 +92,26 @@ class Policies:
                     for policy in policy_pages:
                         base_path = file_index[policy['path']]
 
-                        with archive.open(base_path + 'policy.html') as policy_file:
-                            text = policy_file.read().decode('utf-8')
+                        content = {}
+                        content_files = [
+                            ('html',        'policy.html'),
+                            ('text',        'policy.txt'),
+                        ]
 
-                        with archive.open(base_path + 'policy.raw.html') as policy_file:
-                            html = policy_file.read().decode('utf-8')
+                        for key, content_path in content_files:
+                            with archive.open(base_path + content_path) as content_file:
+                                content[key] = content_file.read().decode('utf-8')
 
                         self.tlds.add(policy['tld'])
                         self.languages.add(policy['lang'])
 
                         self.policies[domain] = Policy(
-                            html=html,
-                            text=text,
+                            html=content['html'],
+                            text=content['text'],
                             domain=domain,
                             tld=policy['tld'],
                             lang=policy['lang']
                         )
-
-    def __contains__(self, domain):
-        return domain in self.policies
 
     def __iter__(self):
         return iter(self.policies.values())
@@ -119,11 +120,8 @@ class Policies:
         for policy in self:
             # Filter on domain
             if domain:
-                # Full domain
-                if domain != policy.domain:
-                    continue
-                # Domain without tld
-                if domain != policy.domain[:-(len(policy.tld) + 1)]:
+                if not (domain == policy.domain or
+                        domain == policy.domain[:-(len(policy.tld) + 1)]):
                     continue
 
             # Filter on language
@@ -135,9 +133,6 @@ class Policies:
                 continue
 
             yield policy
-
-    def __getitem__(self, domain):
-        return self.policies[domain]
 
 
 if __name__ == "__main__":
@@ -152,10 +147,6 @@ if __name__ == "__main__":
     print(policies.domains)
     print(policies.tlds)
     print(policies.languages)
-
-    # Access a specific policy
-    print('google.de' in policies)
-    print(policies['google.de'])
 
     # Query policy by: tld, domain, lang
     for policy in policies.query(lang='de'):
