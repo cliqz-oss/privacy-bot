@@ -1,0 +1,704 @@
+{
+    "9gag.com": {
+        "domain": "9gag.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://9gag.com/privacy"
+        ]
+    },
+    "aldi-nord.de": {
+        "domain": "aldi-nord.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://aldi-nord.de/tools/datenschutzhinweis.html"
+        ]
+    },
+    "aldi-sued.de": {
+        "domain": "aldi-sued.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://www.aldi-sued.de/de/datenschutz/"
+        ]
+    },
+    "amazon.de": {
+        "domain": "amazon.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401"
+        ]
+    },
+    "aol.de": {
+        "domain": "aol.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://privacy.aol.de/datenschutzerklarung/"
+        ]
+    },
+    "arbeitsagentur.de": {
+        "domain": "arbeitsagentur.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://www.arbeitsagentur.de/datenschutz"
+        ]
+    },
+    "arcor.de": {
+        "domain": "arcor.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.arcor.de/content/datenschutz/internetauftritt/",
+            "https://arcor.de/content/datenschutz"
+        ]
+    },
+    "ard.de": {
+        "domain": "ard.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://ard.de/home/ard/Datenschutz/77960/index.html",
+            "http://www.ard.de/home/ard/Datenschutz/77960/index.html"
+        ]
+    },
+    "ardmediathek.de/tv": {
+        "domain": "ardmediathek.de/tv",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://ardmediathek.de/tv/-/datenschutz"
+        ]
+    },
+    "autoscout24.de": {
+        "domain": "autoscout24.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://about.autoscout24.com/de-de/au-company-privacy-oba.aspx",
+            "http://about.autoscout24.com/de-de/au-company/au-company-privacy.aspx"
+        ]
+    },
+    "bahn.de": {
+        "domain": "bahn.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://bahn.de/p/view/home/datenschutz/schutz.shtml?dbkanal_007=L01_S01_D001_KIN0001_footer-datenschutz_LZ01",
+            "http://bahn.de/p/view/home/datenschutz/datenschutz.shtml?dbkanal_007=L01_S01_D001_KIN0001_LOGOS_Dekra_LZ01"
+        ]
+    },
+    "bild.de": {
+        "domain": "bild.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://bild.de/community/privacy_settings",
+            "http://www.bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html",
+            "http://bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html"
+        ]
+    },
+    "bs.to": {
+        "domain": "bs.to",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "burning-seri.es": {
+        "domain": "burning-seri.es",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "check24.de": {
+        "domain": "check24.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://check24.de/unternehmen/impressum/#comp1",
+            "https://versicherungen.check24.de/datenschutz-agb/1-klick-kuendigungsservice-kuendigungsgarantie/"
+        ]
+    },
+    "chefkoch.de": {
+        "domain": "chefkoch.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://chefkoch.de/privacy.php"
+        ]
+    },
+    "chip.de": {
+        "domain": "chip.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.chip.de/s_specials/Datenschutz-CHIP-Online_45829526.html"
+        ]
+    },
+    "comdirect.de": {
+        "domain": "comdirect.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://comdirect.de/cms/sicherheit-datenschutz.html"
+        ]
+    },
+    "commerzbank.de": {
+        "domain": "commerzbank.de",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "computerbild.de": {
+        "domain": "computerbild.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://computerbild.de/Datenschutz-919760.html",
+            "http://www.computerbild.de/Datenschutz-919760.html"
+        ]
+    },
+    "csgolounge.com": {
+        "domain": "csgolounge.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://csgolounge.com/legal"
+        ]
+    },
+    "daserste.de": {
+        "domain": "daserste.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://daserste.de/datenschutz"
+        ]
+    },
+    "dasoertliche.de": {
+        "domain": "dasoertliche.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.dasoertliche.de/?cmd=cmd_nav_privacy&la=&buc=&page=0&context=0&action=17&ci="
+        ]
+    },
+    "dastelefonbuch.de": {
+        "domain": "dastelefonbuch.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://www.dastelefonbuch.de/Datenschutz"
+        ]
+    },
+    "de.wikipedia.de": {
+        "domain": "de.wikipedia.de",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "de.yahoo.com": {
+        "domain": "de.yahoo.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://info.yahoo.com/privacy/de/yahoo/cookies/",
+            "https://info.yahoo.com/privacy/us/yahoo/relevantads.html",
+            "https://info.yahoo.com/privacy/de/yahoo/thirdparties/",
+            "http://info.yahoo.com/privacy/de/yahoo/relevantads.html",
+            "https://policies.yahoo.com/ie/de/yahoo/privacy/index.htm"
+        ]
+    },
+    "deutschepost.de": {
+        "domain": "deutschepost.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://deutschepost.de/de/f/footer/datenschutz.html"
+        ]
+    },
+    "dhl.de/de.html": {
+        "domain": "dhl.de/de.html",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://dhl.de/de.html/de/toolbar/footer/datenschutz.html"
+        ]
+    },
+    "dict.cc": {
+        "domain": "dict.cc",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "dropbox.com": {
+        "domain": "dropbox.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://dropbox.com/privacy"
+        ]
+    },
+    "ebay-kleinanzeigen.de": {
+        "domain": "ebay-kleinanzeigen.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://ebay-kleinanzeigen.de/hilfe/artikel/datenschutzerklaerung"
+        ]
+    },
+    "ebay.de": {
+        "domain": "ebay.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://pages.ebay.de/help/policies/privacy-policy.html"
+        ]
+    },
+    "facebook.com": {
+        "domain": "facebook.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://facebook.com/privacy/explanation",
+            "https://facebook.com/about/privacy",
+            "https://facebook.com/allactivity?privacy_source=activity_log_top_menu"
+        ]
+    },
+    "falk.de": {
+        "domain": "falk.de",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "finanzen.net": {
+        "domain": "finanzen.net",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://finanzen.net/datenschutz"
+        ]
+    },
+    "finya.de": {
+        "domain": "finya.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://finya.de/Legal/privacy"
+        ]
+    },
+    "focus.de": {
+        "domain": "focus.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.focus.de/intern/datenschutzerklaerung-datenschutzerklaerung-fuer-die-webseite-www-focus-de_id_6846331.html"
+        ]
+    },
+    "fritz.box": {
+        "domain": "fritz.box",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "gmx.net": {
+        "domain": "gmx.net",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://service.gmx.net/de/cgi/g.fcgi/products/mail/agb/privacy"
+        ]
+    },
+    "goodgamestudios.com": {
+        "domain": "goodgamestudios.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://www.goodgamestudios.com/privacy-policy/"
+        ]
+    },
+    "google.com": {
+        "domain": "google.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.google.de/intl/de/policies/privacy/?fg=1"
+        ]
+    },
+    "google.de": {
+        "domain": "google.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.google.de/intl/de/policies/privacy/?fg=1"
+        ]
+    },
+    "hm.com/entrance.ahtml": {
+        "domain": "hm.com/entrance.ahtml",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "hoerzu.de": {
+        "domain": "hoerzu.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://hoerzu.de/datenschutz"
+        ]
+    },
+    "idealo.de": {
+        "domain": "idealo.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://idealo.de/preisvergleich/Datenschutz.html"
+        ]
+    },
+    "ikea.com": {
+        "domain": "ikea.com",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "immobilienscout24.de": {
+        "domain": "immobilienscout24.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://immobilienscout24.de/lp/Geodatenkodex.html",
+            "https://immobilienscout24.de/agb/datenschutz.html"
+        ]
+    },
+    "immowelt.de": {
+        "domain": "immowelt.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://immowelt.de/immoweltag/datenschutz#einwilligung",
+            "https://immowelt.de/immoweltag/datenschutz",
+            "https://immowelt.de/immoweltag/datenschutz#cookies"
+        ]
+    },
+    "ing-diba.de": {
+        "domain": "ing-diba.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://ing-diba.de/kundenservice/sicherheit/datenschutz/"
+        ]
+    },
+    "jappy.de": {
+        "domain": "jappy.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://jappy.de/infos/PrivacyPolicy"
+        ]
+    },
+    "jetztspielen.de": {
+        "domain": "jetztspielen.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://jetztspielen.de/privacy-policy-kids",
+            "http://jetztspielen.de/datenschutzregelung"
+        ]
+    },
+    "kicker.de": {
+        "domain": "kicker.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://kicker.de/home/513381/datenschutzhinweis.html"
+        ]
+    },
+    "kinox.to": {
+        "domain": "kinox.to",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "kkiste.to": {
+        "domain": "kkiste.to",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "lablue.de": {
+        "domain": "lablue.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://lablue.de/gb.html#ds"
+        ]
+    },
+    "leo.org": {
+        "domain": "leo.org",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://leo.org/pages/about/ende/termsOfUsage_en.html"
+        ]
+    },
+    "lidl.de": {
+        "domain": "lidl.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "datenschutz/s21#cookies"
+        ]
+    },
+    "mediamarkt.de": {
+        "domain": "mediamarkt.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.trustedshops.de/impressum?utm_content=menu_all_dataprotection__trustmark_and_reviews&utm_campaign=trustbadge_maximised"
+        ]
+    },
+    "minecraft.net": {
+        "domain": "minecraft.net",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://go.microsoft.com/fwlink/?linkid=521839"
+        ]
+    },
+    "mobile.de": {
+        "domain": "mobile.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://cms.mobile.de/de/unternehmen/datenschutz/nutzungsbasierte_online_werbung_oba.html",
+            "http://cms.mobile.de/de/unternehmen/datenschutz/datenschutz.html"
+        ]
+    },
+    "movie4k.to": {
+        "domain": "movie4k.to",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "msn.com/de-de": {
+        "domain": "msn.com/de-de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://go.microsoft.com/fwlink/?LinkId=521839"
+        ]
+    },
+    "n-tv.de": {
+        "domain": "n-tv.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.n-tv.de/15745191",
+            "http://www.n-tv.de/14737826 ",
+            "http://datenschutz.ip.de/nutzungsbasierte_onlinewerbung.cfm"
+        ]
+    },
+    "o2online.de": {
+        "domain": "o2online.de",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "ok.ru": {
+        "domain": "ok.ru",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "otto.de": {
+        "domain": "otto.de",
+        "locale": "fr-FR",
+        "privacy_policies": []
+    },
+    "paypal.com/de/webapps/mpp/home": {
+        "domain": "paypal.com/de/webapps/mpp/home",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://www.paypal.com/de/webapps/mpp/ua/privacy-full?locale.x=de_DE"
+        ]
+    },
+    "postbank.de": {
+        "domain": "postbank.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://postbank.de/postbank/popup_datenschutz.html"
+        ]
+    },
+    "prosieben.de": {
+        "domain": "prosieben.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://prosieben.de/service/datenschutz"
+        ]
+    },
+    "rtl.de": {
+        "domain": "rtl.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.rtl.de/cms/service/footer-navigation/datenschutz.html",
+            "http://datenschutz.ip.de/nutzungsbasierte_onlinewerbung.cfm"
+        ]
+    },
+    "rtl2.de": {
+        "domain": "rtl2.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://rtl2.de/allgemein/datenschutz",
+            "http://www.ip-deutschland.de/lp/datenschutzinfo_online-werbung.cfm"
+        ]
+    },
+    "saturn.de": {
+        "domain": "saturn.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "#"
+        ]
+    },
+    "schoener-fernsehen.com": {
+        "domain": "schoener-fernsehen.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "page/privacy_policy"
+        ]
+    },
+    "schulferien.org": {
+        "domain": "schulferien.org",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://schulferien.org/datenschutzhinweis.html"
+        ]
+    },
+    "sky.de": {
+        "domain": "sky.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://sky.de/datenschutz"
+        ]
+    },
+    "spiegel.de": {
+        "domain": "spiegel.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://spiegel.de/dienste/a-639126.html"
+        ]
+    },
+    "spielaffe.de": {
+        "domain": "spielaffe.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.spielaffe.de/Statisch/Datenschutz"
+        ]
+    },
+    "spin.de": {
+        "domain": "spin.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://spin.de/help/1030"
+        ]
+    },
+    "sport1.de": {
+        "domain": "sport1.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://sport1.de/unternehmen/datenschutz/"
+        ]
+    },
+    "sueddeutsche.de": {
+        "domain": "sueddeutsche.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://service.sueddeutsche.de/lesermarkt/service/datenschutz.html"
+        ]
+    },
+    "t-online.de": {
+        "domain": "t-online.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.stroeerdigitalpublishing.de/datenschutz"
+        ]
+    },
+    "tagesschau.de": {
+        "domain": "tagesschau.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://tagesschau.de/datenschutz/",
+            "http://www.tagesschau.de/kontakt_und_hilfe/datenschutz/index.html"
+        ]
+    },
+    "tchibo.de": {
+        "domain": "tchibo.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "./datenschutz-s400007324.html?cs=1&vt=45ef2b7ab653af00d534edee6f76d9bfd774f2b1"
+        ]
+    },
+    "telekom.de": {
+        "domain": "telekom.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://telekom.de/start/datenschutz",
+            "http://www.telekom.de/datenschutz-ganz-einfach"
+        ]
+    },
+    "transfermarkt.de": {
+        "domain": "transfermarkt.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://transfermarkt.de/intern/datenschutz"
+        ]
+    },
+    "tvmovie.de": {
+        "domain": "tvmovie.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://tvmovie.de/datenschutz",
+            "https://www.stroeer.de/digitale-werbung/werbemedien/targeting-data/datenschutz.html"
+        ]
+    },
+    "tvspielfilm.de": {
+        "domain": "tvspielfilm.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.tvspielfilm.de/services/datenschutz/"
+        ]
+    },
+    "twitch.tv": {
+        "domain": "twitch.tv",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://twitch.tv/user/legal?page=privacy_policy"
+        ]
+    },
+    "web.de": {
+        "domain": "web.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://agb.web.de/Datenschutzerklaerung/AGB/"
+        ]
+    },
+    "welt.de": {
+        "domain": "welt.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://www.welt.de/services/article157550705/Datenschutzerklaerung-WELT-DIGITAL.html"
+        ]
+    },
+    "wetter.com": {
+        "domain": "wetter.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://wetter.com/datenschutz/adsb/"
+        ]
+    },
+    "wetter.de": {
+        "domain": "wetter.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://www.wetter.de/cms/datenschutzerklaerung-101243.html",
+            "http://www.ip-deutschland.de/lp/datenschutzinfo_online-werbung.cfm"
+        ]
+    },
+    "wetteronline.de": {
+        "domain": "wetteronline.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://wetteronline.de/datenschutz"
+        ]
+    },
+    "wikipedia.de": {
+        "domain": "wikipedia.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "./imprint"
+        ]
+    },
+    "wikipedia.org": {
+        "domain": "wikipedia.org",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "http://meta.wikimedia.org/wiki/Privacy_policy"
+        ]
+    },
+    "xing.com": {
+        "domain": "xing.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://xing.com/app/user?op=tandc&what=dp",
+            "https://www.xing.com/privacy"
+        ]
+    },
+    "yahoo.com": {
+        "domain": "yahoo.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://info.yahoo.com/privacy/de/yahoo/cookies/",
+            "https://info.yahoo.com/privacy/us/yahoo/relevantads.html",
+            "https://info.yahoo.com/privacy/de/yahoo/thirdparties/",
+            "http://info.yahoo.com/privacy/de/yahoo/relevantads.html",
+            "https://policies.yahoo.com/ie/de/yahoo/privacy/index.htm"
+        ]
+    },
+    "youtube.com": {
+        "domain": "youtube.com",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://www.google.com/intl/en/policies/privacy/"
+        ]
+    },
+    "zalando.de": {
+        "domain": "zalando.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://www.zalando.de/zalando-datenschutz/"
+        ]
+    },
+    "zdf.de": {
+        "domain": "zdf.de",
+        "locale": "fr-FR",
+        "privacy_policies": [
+            "https://zdf.de/zdf-und-datenschutz-100.html"
+        ]
+    }
+}

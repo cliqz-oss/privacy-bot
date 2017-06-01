@@ -1,0 +1,928 @@
+{
+    "9gag.com": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/9gag.com/en_9gag.com",
+            "title": "Privacy Policy - About 9GAG",
+            "tld": "com",
+            "url": "https://9gag.com/privacy"
+        }
+    ],
+    "aldi-nord.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/aldi-nord.de/de_aldi-nord.de",
+            "title": "Datenschutzhinweis von ALDI Nord",
+            "tld": "de",
+            "url": "https://aldi-nord.de/tools/datenschutzhinweis.html"
+        }
+    ],
+    "aldi-sued.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/aldi-sued.de/de_aldi-sued.de",
+            "title": "ALDI S\u00dcD - Datenschutz",
+            "tld": "de",
+            "url": "https://www.aldi-sued.de/de/datenschutz/"
+        }
+    ],
+    "amazon.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/amazon.de/de_amazon.de",
+            "title": "Amazon.de-Datenschutzerkl\u00e4rung",
+            "tld": "de",
+            "url": "https://amazon.de/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=3312401"
+        }
+    ],
+    "aol.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/aol.de/de_aol.de",
+            "title": "Datenschutzerkl\u00e4rung - AOL Privacy DE",
+            "tld": "de",
+            "url": "http://privacy.aol.de/datenschutzerklarung/"
+        }
+    ],
+    "arbeitsagentur.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/arbeitsagentur.de/de_arbeitsagentur.de",
+            "title": "Datenschutz - Bundesagentur f\u00fcr Arbeit",
+            "tld": "de",
+            "url": "https://www.arbeitsagentur.de/datenschutz"
+        }
+    ],
+    "arcor.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/arcor.de/de_arcor.de",
+            "title": "Internetauftritt - Internetauftritt - Arcor Magazin",
+            "tld": "de",
+            "url": "http://www.arcor.de/content/datenschutz/internetauftritt/"
+        },
+        {
+            "lang": "en",
+            "path": "privacy_policies/arcor.de/en_arcor.de",
+            "title": "Datenschutz - Arcor Magazin",
+            "tld": "de",
+            "url": "https://arcor.de/content/datenschutz"
+        }
+    ],
+    "ard.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/ard.de/de_ard.de",
+            "title": "Datenschutz",
+            "tld": "de",
+            "url": "http://ard.de/home/ard/Datenschutz/77960/index.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/ard.de/de_ard.de",
+            "title": "Datenschutz",
+            "tld": "de",
+            "url": "http://www.ard.de/home/ard/Datenschutz/77960/index.html"
+        }
+    ],
+    "ardmediathek.de/tv": [
+        {
+            "lang": "cy",
+            "path": "privacy_policies/ardmediathek.de/tv/cy_ardmediathek.de",
+            "title": "Videos und Audios zum Abruf",
+            "tld": "de",
+            "url": "http://ardmediathek.de/tv/-/datenschutz"
+        }
+    ],
+    "autoscout24.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/autoscout24.de/de_autoscout24.com",
+            "title": "Nutzungsbasierte Online-Werbung",
+            "tld": "com",
+            "url": "http://about.autoscout24.com/de-de/au-company-privacy-oba.aspx"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/autoscout24.de/de_autoscout24.com",
+            "title": "AutoScout24 Datenschutz",
+            "tld": "com",
+            "url": "http://about.autoscout24.com/de-de/au-company/au-company-privacy.aspx"
+        }
+    ],
+    "bahn.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/bahn.de/de_bahn.de",
+            "title": "Datenschutzhinweise f\u00c3\u00bcr bahn.de",
+            "tld": "de",
+            "url": "http://bahn.de/p/view/home/datenschutz/schutz.shtml?dbkanal_007=L01_S01_D001_KIN0001_footer-datenschutz_LZ01"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/bahn.de/de_bahn.de",
+            "title": "Datenschutz auf bahn.de wird gro\u00c3\u009fgeschrieben!",
+            "tld": "de",
+            "url": "http://bahn.de/p/view/home/datenschutz/datenschutz.shtml?dbkanal_007=L01_S01_D001_KIN0001_LOGOS_Dekra_LZ01"
+        }
+    ],
+    "bild.de": [
+        {
+            "lang": "cy",
+            "path": "privacy_policies/bild.de/cy_bild.de",
+            "title": "Anmelden",
+            "tld": "de",
+            "url": "http://bild.de/community/privacy_settings"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/bild.de/de_bild.de",
+            "title": "Datenschutzerkl\u00e4rung BILD KG - Bild.de",
+            "tld": "de",
+            "url": "http://www.bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/bild.de/de_bild.de",
+            "title": "Datenschutzerkl\u00e4rung BILD KG - Bild.de",
+            "tld": "de",
+            "url": "http://bild.de/corporate-site/datenschutz/datenschutz/artikel-datenschutz-2952512.bild.html"
+        }
+    ],
+    "check24.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/check24.de/de_check24.de",
+            "title": "Impressum | CHECK24",
+            "tld": "de",
+            "url": "https://check24.de/unternehmen/impressum/#comp1"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/check24.de/de_check24.de",
+            "title": "CHECK24 1-Klick K\u00fcndigungsservice - K\u00fcndigungsgarantie",
+            "tld": "de",
+            "url": "https://versicherungen.check24.de/datenschutz-agb/1-klick-kuendigungsservice-kuendigungsgarantie/"
+        }
+    ],
+    "chefkoch.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/chefkoch.de/de_chefkoch.de",
+            "title": "Datenschutzhinweise",
+            "tld": "de",
+            "url": "https://chefkoch.de/privacy.php"
+        }
+    ],
+    "chip.de": [
+        {
+            "lang": "nl",
+            "path": "privacy_policies/chip.de/nl_chip.de",
+            "title": "Datenschutz - CHIP Online - CHIP",
+            "tld": "de",
+            "url": "http://www.chip.de/s_specials/Datenschutz-CHIP-Online_45829526.html"
+        }
+    ],
+    "comdirect.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/comdirect.de/de_comdirect.de",
+            "title": "Datenschutz - Sicherheit - Hilfe & Service",
+            "tld": "de",
+            "url": "https://comdirect.de/cms/sicherheit-datenschutz.html"
+        }
+    ],
+    "computerbild.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/computerbild.de/de_computerbild.de",
+            "title": "Datenschutz - COMPUTER BILD",
+            "tld": "de",
+            "url": "https://computerbild.de/Datenschutz-919760.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/computerbild.de/de_computerbild.de",
+            "title": "Datenschutz - COMPUTER BILD",
+            "tld": "de",
+            "url": "http://www.computerbild.de/Datenschutz-919760.html"
+        }
+    ],
+    "csgolounge.com": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/csgolounge.com/en_csgolounge.com",
+            "title": "CSGO Lounge - Privacy, Cookies Policy",
+            "tld": "com",
+            "url": "https://csgolounge.com/legal"
+        }
+    ],
+    "daserste.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/daserste.de/de_daserste.de",
+            "title": "Datenschutzerkl\u00e4rung - ARD | Das Erste",
+            "tld": "de",
+            "url": "http://daserste.de/datenschutz"
+        }
+    ],
+    "dasoertliche.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/dasoertliche.de/de_dasoertliche.de",
+            "title": "Das \u00d6rtliche Telefonbuch mit Telefonnummern, Telefonauskunft mit Stadtplan",
+            "tld": "de",
+            "url": "http://www.dasoertliche.de/?cmd=cmd_nav_privacy&la=&buc=&page=0&context=0&action=17&ci="
+        }
+    ],
+    "dastelefonbuch.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/dastelefonbuch.de/de_dastelefonbuch.de",
+            "title": "Datenschutzhinweis bei Das Telefonbuch",
+            "tld": "de",
+            "url": "https://www.dastelefonbuch.de/Datenschutz"
+        }
+    ],
+    "de.yahoo.com": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/de.yahoo.com/de_yahoo.com",
+            "title": "Yahoo Cookies",
+            "tld": "com",
+            "url": "https://info.yahoo.com/privacy/de/yahoo/cookies/"
+        },
+        {
+            "lang": "en",
+            "path": "privacy_policies/de.yahoo.com/en_yahoo.com",
+            "title": "Why This Ad?",
+            "tld": "com",
+            "url": "https://info.yahoo.com/privacy/us/yahoo/relevantads.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/de.yahoo.com/de_yahoo.com",
+            "title": "Drittanbieter auf Yahoo",
+            "tld": "com",
+            "url": "https://info.yahoo.com/privacy/de/yahoo/thirdparties/"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/de.yahoo.com/de_yahoo.com",
+            "title": "Warum diese Anzeige?",
+            "tld": "com",
+            "url": "http://info.yahoo.com/privacy/de/yahoo/relevantads.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/de.yahoo.com/de_yahoo.com",
+            "title": "Yahoo Datenschutzcenter",
+            "tld": "com",
+            "url": "https://policies.yahoo.com/ie/de/yahoo/privacy/index.htm"
+        }
+    ],
+    "deutschepost.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/deutschepost.de/de_deutschepost.de",
+            "title": "Datenschutz und Cookies | Deutsche Post",
+            "tld": "de",
+            "url": "https://deutschepost.de/de/f/footer/datenschutz.html"
+        }
+    ],
+    "dhl.de/de.html": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/dhl.de/de.html/en_dhl.de",
+            "title": "DHL Privatkunden - Einfach, g\u00c3\u00bcnstig, zuverl\u00c3\u00a4ssig: Ihr Paketversand und Paketempfang mit DHL",
+            "tld": "de",
+            "url": "https://dhl.de/de.html/de/toolbar/footer/datenschutz.html"
+        }
+    ],
+    "dropbox.com": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/dropbox.com/en_dropbox.com",
+            "title": "Dropbox - Terms",
+            "tld": "com",
+            "url": "https://dropbox.com/privacy"
+        }
+    ],
+    "ebay-kleinanzeigen.de": [
+        {
+            "lang": "nl",
+            "path": "privacy_policies/ebay-kleinanzeigen.de/nl_ebay-kleinanzeigen.de",
+            "title": "",
+            "tld": "de",
+            "url": "https://ebay-kleinanzeigen.de/hilfe/artikel/datenschutzerklaerung"
+        }
+    ],
+    "ebay.de": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/ebay.de/en_ebay.de",
+            "title": "Datenschutzerkl\u00e4rung",
+            "tld": "de",
+            "url": "http://pages.ebay.de/help/policies/privacy-policy.html"
+        }
+    ],
+    "facebook.com": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/facebook.com/en_facebook.com",
+            "title": "Data Policy",
+            "tld": "com",
+            "url": "https://facebook.com/privacy/explanation"
+        },
+        {
+            "lang": "en",
+            "path": "privacy_policies/facebook.com/en_facebook.com",
+            "title": "Data Policy",
+            "tld": "com",
+            "url": "https://facebook.com/about/privacy"
+        },
+        {
+            "lang": "en",
+            "path": "privacy_policies/facebook.com/en_facebook.com",
+            "title": "Page Not Found | Facebook",
+            "tld": "com",
+            "url": "https://facebook.com/allactivity?privacy_source=activity_log_top_menu"
+        }
+    ],
+    "finanzen.net": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/finanzen.net/de_finanzen.net",
+            "title": "Datenschutz | finanzen.net",
+            "tld": "net",
+            "url": "https://finanzen.net/datenschutz"
+        }
+    ],
+    "finya.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/finya.de/de_finya.de",
+            "title": "Finya\u00ae - Kostenloses Online-Dating",
+            "tld": "de",
+            "url": "https://finya.de/Legal/privacy"
+        }
+    ],
+    "focus.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/focus.de/de_focus.de",
+            "title": "Datenschutzerkl\u00e4rung: Datenschutzerkl\u00e4rung f\u00fcr die Webseite www.focus.de",
+            "tld": "de",
+            "url": "http://www.focus.de/intern/datenschutzerklaerung-datenschutzerklaerung-fuer-die-webseite-www-focus-de_id_6846331.html"
+        }
+    ],
+    "gmx.net": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/gmx.net/de_gmx.net",
+            "title": "Mail-Produkte (E-Mail, SMS, Fax)",
+            "tld": "net",
+            "url": "https://service.gmx.net/de/cgi/g.fcgi/products/mail/agb/privacy"
+        }
+    ],
+    "goodgamestudios.com": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/goodgamestudios.com/en_goodgamestudios.com",
+            "title": "Privacy Policy | Goodgame Studios",
+            "tld": "com",
+            "url": "https://www.goodgamestudios.com/privacy-policy/"
+        }
+    ],
+    "google.com": [
+        {
+            "lang": "nl",
+            "path": "privacy_policies/google.com/nl_google.de",
+            "title": "Datenschutzerkl\u00c3\u00a4rung & Nutzungsbedingungen",
+            "tld": "de",
+            "url": "http://www.google.de/intl/de/policies/privacy/?fg=1"
+        }
+    ],
+    "google.de": [
+        {
+            "lang": "nl",
+            "path": "privacy_policies/google.de/nl_google.de",
+            "title": "Datenschutzerkl\u00c3\u00a4rung & Nutzungsbedingungen",
+            "tld": "de",
+            "url": "http://www.google.de/intl/de/policies/privacy/?fg=1"
+        }
+    ],
+    "hoerzu.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/hoerzu.de/de_hoerzu.de",
+            "title": "Datenschutz | H\u00d6RZU",
+            "tld": "de",
+            "url": "http://hoerzu.de/datenschutz"
+        }
+    ],
+    "idealo.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/idealo.de/de_idealo.de",
+            "title": "Datenschutzerkl\u00e4rung - idealo internet GmbH",
+            "tld": "de",
+            "url": "https://idealo.de/preisvergleich/Datenschutz.html"
+        }
+    ],
+    "immobilienscout24.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/immobilienscout24.de/de_immobilienscout24.de",
+            "title": "Geodatenkodex",
+            "tld": "de",
+            "url": "https://immobilienscout24.de/lp/Geodatenkodex.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/immobilienscout24.de/de_immobilienscout24.de",
+            "title": "Datenschutz",
+            "tld": "de",
+            "url": "https://immobilienscout24.de/agb/datenschutz.html"
+        }
+    ],
+    "immowelt.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/immowelt.de/de_immowelt.de",
+            "title": "Immobilienportal immowelt.de - Datenschutz",
+            "tld": "de",
+            "url": "https://immowelt.de/immoweltag/datenschutz#einwilligung"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/immowelt.de/de_immowelt.de",
+            "title": "Immobilienportal immowelt.de - Datenschutz",
+            "tld": "de",
+            "url": "https://immowelt.de/immoweltag/datenschutz"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/immowelt.de/de_immowelt.de",
+            "title": "Immobilienportal immowelt.de - Datenschutz",
+            "tld": "de",
+            "url": "https://immowelt.de/immoweltag/datenschutz#cookies"
+        }
+    ],
+    "ing-diba.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/ing-diba.de/de_ing-diba.de",
+            "title": "Datenschutz | Sicherheit | Service + Beratung",
+            "tld": "de",
+            "url": "https://ing-diba.de/kundenservice/sicherheit/datenschutz/"
+        }
+    ],
+    "jappy.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/jappy.de/de_jappy.de",
+            "title": "Information - Jappy",
+            "tld": "de",
+            "url": "http://jappy.de/infos/PrivacyPolicy"
+        }
+    ],
+    "jetztspielen.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/jetztspielen.de/de_jetztspielen.de",
+            "title": "Spiele - Online Spiele Kostenlos Spielen - JetztSpielen.de",
+            "tld": "de",
+            "url": "http://jetztspielen.de/privacy-policy-kids"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/jetztspielen.de/de_jetztspielen.de",
+            "title": "Spiele - Online Spiele Kostenlos Spielen - JetztSpielen.de",
+            "tld": "de",
+            "url": "http://jetztspielen.de/datenschutzregelung"
+        }
+    ],
+    "kicker.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/kicker.de/de_kicker.de",
+            "title": "Datenschutzhinweis - Home - kicker",
+            "tld": "de",
+            "url": "http://kicker.de/home/513381/datenschutzhinweis.html"
+        }
+    ],
+    "lablue.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/lablue.de/de_lablue.de",
+            "title": "Allgemeine Nutzungsbedingungen, Gegenstand der Bedingungen",
+            "tld": "de",
+            "url": "https://lablue.de/gb.html#ds"
+        }
+    ],
+    "mediamarkt.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/mediamarkt.de/de_trustedshops.de",
+            "title": "Impressum und Datenschutz | Trusted Shops",
+            "tld": "de",
+            "url": "http://www.trustedshops.de/impressum?utm_content=menu_all_dataprotection__trustmark_and_reviews&utm_campaign=trustbadge_maximised"
+        }
+    ],
+    "minecraft.net": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/minecraft.net/en_microsoft.com",
+            "title": "Microsoft Privacy Statement",
+            "tld": "com",
+            "url": "http://go.microsoft.com/fwlink/?linkid=521839"
+        }
+    ],
+    "mobile.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/mobile.de/de_mobile.de",
+            "title": "Nutzungsbasierte Online Werbung",
+            "tld": "de",
+            "url": "http://cms.mobile.de/de/unternehmen/datenschutz/nutzungsbasierte_online_werbung_oba.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/mobile.de/de_mobile.de",
+            "title": "mobile.de - Deutschlands gr\u00f6\u00dfter Fahrzeugmarkt",
+            "tld": "de",
+            "url": "http://cms.mobile.de/de/unternehmen/datenschutz/datenschutz.html"
+        }
+    ],
+    "msn.com/de-de": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/msn.com/de-de/en_microsoft.com",
+            "title": "Microsoft Privacy Statement",
+            "tld": "com",
+            "url": "https://go.microsoft.com/fwlink/?LinkId=521839"
+        }
+    ],
+    "n-tv.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/n-tv.de/de_n-tv.de",
+            "title": "Privatsph\u00e4re: Datenschutzerkl\u00e4rung",
+            "tld": "de",
+            "url": "http://www.n-tv.de/15745191"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/n-tv.de/de_n-tv.de",
+            "title": "Nachrichten, aktuelle Schlagzeilen und Videos",
+            "tld": "de",
+            "url": "http://www.n-tv.de/14737826 "
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/n-tv.de/de_ip.de",
+            "title": "Datenschutzinformationen zu nutzungsbasierter Online-Werbung",
+            "tld": "de",
+            "url": "http://datenschutz.ip.de/nutzungsbasierte_onlinewerbung.cfm"
+        }
+    ],
+    "paypal.com/de/webapps/mpp/home": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/paypal.com/de/webapps/mpp/home/de_paypal.com",
+            "title": "PayPal",
+            "tld": "com",
+            "url": "https://www.paypal.com/de/webapps/mpp/ua/privacy-full?locale.x=de_DE"
+        }
+    ],
+    "postbank.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/postbank.de/de_postbank.de",
+            "title": "Datenschutz (popup)",
+            "tld": "de",
+            "url": "https://postbank.de/postbank/popup_datenschutz.html"
+        }
+    ],
+    "prosieben.de": [
+        {
+            "lang": "cy",
+            "path": "privacy_policies/prosieben.de/cy_prosieben.de",
+            "title": "ProSieben.de - Service: Datenschutz",
+            "tld": "de",
+            "url": "https://prosieben.de/service/datenschutz"
+        }
+    ],
+    "rtl.de": [
+        {
+            "lang": "nl",
+            "path": "privacy_policies/rtl.de/nl_rtl.de",
+            "title": "Datenschutz",
+            "tld": "de",
+            "url": "http://www.rtl.de/cms/service/footer-navigation/datenschutz.html"
+        },
+        {
+            "lang": "nl",
+            "path": "privacy_policies/rtl.de/nl_ip.de",
+            "title": "Datenschutzinformationen zu nutzungsbasierter Online-Werbung",
+            "tld": "de",
+            "url": "http://datenschutz.ip.de/nutzungsbasierte_onlinewerbung.cfm"
+        }
+    ],
+    "rtl2.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/rtl2.de/de_rtl2.de",
+            "title": "Datenschutz - RTL 2",
+            "tld": "de",
+            "url": "http://rtl2.de/allgemein/datenschutz"
+        },
+        {
+            "lang": "en",
+            "path": "privacy_policies/rtl2.de/en_ip-deutschland.de",
+            "title": "Datenschutzinfo zu nutzungsbasierter Online-Werbung",
+            "tld": "de",
+            "url": "http://www.ip-deutschland.de/lp/datenschutzinfo_online-werbung.cfm"
+        }
+    ],
+    "schulferien.org": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/schulferien.org/de_schulferien.org",
+            "title": "Datenschutzhinweis",
+            "tld": "org",
+            "url": "https://schulferien.org/datenschutzhinweis.html"
+        }
+    ],
+    "sky.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/sky.de/de_sky.de",
+            "title": "Datenschutz & Cookies",
+            "tld": "de",
+            "url": "http://sky.de/datenschutz"
+        }
+    ],
+    "spiegel.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/spiegel.de/de_spiegel.de",
+            "title": "Allgemeine Nutzungsbedingungen",
+            "tld": "de",
+            "url": "https://spiegel.de/dienste/a-639126.html"
+        }
+    ],
+    "spielaffe.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/spielaffe.de/de_spielaffe.de",
+            "title": "Datenschutzrichtlinien | SpielAffe",
+            "tld": "de",
+            "url": "http://www.spielaffe.de/Statisch/Datenschutz"
+        }
+    ],
+    "spin.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/spin.de/de_spin.de",
+            "title": "Datenschutzregelung/Privacy Policy",
+            "tld": "de",
+            "url": "https://spin.de/help/1030"
+        }
+    ],
+    "sport1.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/sport1.de/de_sport1.de",
+            "title": "Datenschutz | Unternehmen | SPORT1",
+            "tld": "de",
+            "url": "https://sport1.de/unternehmen/datenschutz/"
+        }
+    ],
+    "sueddeutsche.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/sueddeutsche.de/de_sueddeutsche.de",
+            "title": "Datenschutz",
+            "tld": "de",
+            "url": "https://service.sueddeutsche.de/lesermarkt/service/datenschutz.html"
+        }
+    ],
+    "t-online.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/t-online.de/de_stroeerdigitalpublishing.de",
+            "title": "Str\u00f6er Digital Publishing GmbH",
+            "tld": "de",
+            "url": "http://www.stroeerdigitalpublishing.de/datenschutz"
+        }
+    ],
+    "tagesschau.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/tagesschau.de/de_tagesschau.de",
+            "title": "Datenschutz: Datenschutzerkl\u00e4rung von tagesschau.de",
+            "tld": "de",
+            "url": "http://tagesschau.de/datenschutz/"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/tagesschau.de/de_tagesschau.de",
+            "title": "Datenschutz: Datenschutzerkl\u00e4rung von tagesschau.de",
+            "tld": "de",
+            "url": "http://www.tagesschau.de/kontakt_und_hilfe/datenschutz/index.html"
+        }
+    ],
+    "telekom.de": [
+        {
+            "lang": "nl",
+            "path": "privacy_policies/telekom.de/nl_telekom.de",
+            "title": "Datenschutz, Datensicherheit | Telekom",
+            "tld": "de",
+            "url": "https://telekom.de/start/datenschutz"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/telekom.de/de_telekom.de",
+            "title": "Datenschutz ganz einfach | Telekom",
+            "tld": "de",
+            "url": "http://www.telekom.de/datenschutz-ganz-einfach"
+        }
+    ],
+    "tvmovie.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/tvmovie.de/de_tvmovie.de",
+            "title": "Datenschutz",
+            "tld": "de",
+            "url": "http://tvmovie.de/datenschutz"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/tvmovie.de/de_stroeer.de",
+            "title": "Datenschutz",
+            "tld": "de",
+            "url": "https://www.stroeer.de/digitale-werbung/werbemedien/targeting-data/datenschutz.html"
+        }
+    ],
+    "tvspielfilm.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/tvspielfilm.de/de_tvspielfilm.de",
+            "title": "Privacy Policy - TV SPIELFILM",
+            "tld": "de",
+            "url": "http://www.tvspielfilm.de/services/datenschutz/"
+        }
+    ],
+    "twitch.tv": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/twitch.tv/en_twitch.tv",
+            "title": "Privacy Policy - Twitch",
+            "tld": "tv",
+            "url": "https://twitch.tv/user/legal?page=privacy_policy"
+        }
+    ],
+    "web.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/web.de/de_web.de",
+            "title": "WEB.DE - Datenschutzerklaerung AGB",
+            "tld": "de",
+            "url": "https://agb.web.de/Datenschutzerklaerung/AGB/"
+        }
+    ],
+    "welt.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/welt.de/de_welt.de",
+            "title": "WELT: Datenschutzerkl\u00e4rung WELT DIGITAL",
+            "tld": "de",
+            "url": "https://www.welt.de/services/article157550705/Datenschutzerklaerung-WELT-DIGITAL.html"
+        }
+    ],
+    "wetter.com": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/wetter.com/de_wetter.com",
+            "title": "Datenschutz & Cookies",
+            "tld": "com",
+            "url": "https://wetter.com/datenschutz/adsb/"
+        }
+    ],
+    "wetter.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/wetter.de/de_wetter.de",
+            "title": "Datenschutzerkl\u00e4rung - wetter.de",
+            "tld": "de",
+            "url": "http://www.wetter.de/cms/datenschutzerklaerung-101243.html"
+        },
+        {
+            "lang": "en",
+            "path": "privacy_policies/wetter.de/en_ip-deutschland.de",
+            "title": "Datenschutzinfo zu nutzungsbasierter Online-Werbung",
+            "tld": "de",
+            "url": "http://www.ip-deutschland.de/lp/datenschutzinfo_online-werbung.cfm"
+        }
+    ],
+    "wetteronline.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/wetteronline.de/de_wetteronline.de",
+            "title": "Wetter aktuell, Wettervorhersage und Wetterbericht",
+            "tld": "de",
+            "url": "https://wetteronline.de/datenschutz"
+        }
+    ],
+    "wikipedia.org": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/wikipedia.org/en_wikimedia.org",
+            "title": "Privacy policy - Meta",
+            "tld": "org",
+            "url": "http://meta.wikimedia.org/wiki/Privacy_policy"
+        }
+    ],
+    "xing.com": [
+        {
+            "lang": "en",
+            "path": "privacy_policies/xing.com/en_xing.com",
+            "title": "Privacy policy | XING",
+            "tld": "com",
+            "url": "https://xing.com/app/user?op=tandc&what=dp"
+        },
+        {
+            "lang": "en",
+            "path": "privacy_policies/xing.com/en_xing.com",
+            "title": "Privacy policy | XING",
+            "tld": "com",
+            "url": "https://www.xing.com/privacy"
+        }
+    ],
+    "yahoo.com": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/yahoo.com/de_yahoo.com",
+            "title": "Yahoo Cookies",
+            "tld": "com",
+            "url": "https://info.yahoo.com/privacy/de/yahoo/cookies/"
+        },
+        {
+            "lang": "en",
+            "path": "privacy_policies/yahoo.com/en_yahoo.com",
+            "title": "Why This Ad?",
+            "tld": "com",
+            "url": "https://info.yahoo.com/privacy/us/yahoo/relevantads.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/yahoo.com/de_yahoo.com",
+            "title": "Drittanbieter auf Yahoo",
+            "tld": "com",
+            "url": "https://info.yahoo.com/privacy/de/yahoo/thirdparties/"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/yahoo.com/de_yahoo.com",
+            "title": "Warum diese Anzeige?",
+            "tld": "com",
+            "url": "http://info.yahoo.com/privacy/de/yahoo/relevantads.html"
+        },
+        {
+            "lang": "de",
+            "path": "privacy_policies/yahoo.com/de_yahoo.com",
+            "title": "Yahoo Datenschutzcenter",
+            "tld": "com",
+            "url": "https://policies.yahoo.com/ie/de/yahoo/privacy/index.htm"
+        }
+    ],
+    "youtube.com": [
+        {
+            "lang": "fr",
+            "path": "privacy_policies/youtube.com/fr_google.com",
+            "title": "Privacy Policy \u00e2\u0080\u0093 Privacy & Terms \u00e2\u0080\u0093 Google",
+            "tld": "com",
+            "url": "https://www.google.com/intl/en/policies/privacy/"
+        }
+    ],
+    "zalando.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/zalando.de/de_zalando.de",
+            "title": "Datenschutzerkl\u00e4rung | Zalando",
+            "tld": "de",
+            "url": "https://www.zalando.de/zalando-datenschutz/"
+        }
+    ],
+    "zdf.de": [
+        {
+            "lang": "de",
+            "path": "privacy_policies/zdf.de/de_zdf.de",
+            "title": "Datenschutzerkl\u00e4rung - ZDFmediathek",
+            "tld": "de",
+            "url": "https://zdf.de/zdf-und-datenschutz-100.html"
+        }
+    ]
+}

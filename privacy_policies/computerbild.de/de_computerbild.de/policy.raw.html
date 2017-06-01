@@ -1,0 +1,1249 @@
+<!DOCTYPE html>
+<html class="no-js" ng-app="CoBi.Session">
+	<head>
+<script src="//cdn.optimizely.com/js/8091130321.js"></script>
+		
+<title>Datenschutz - COMPUTER BILD</title>
+	<meta charset="windows-1252" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<link rel="shortcut icon" href="http://i.computer-bild.de/favicon.ico" />
+	<meta http-equiv="language" content="DE" />
+	
+		<!-- META ROBOTS; ETC -->
+	<meta name="description" content="" />
+	<meta name="robots" content="NOODP" />
+	<meta name="googlebot" content="NOODP" />
+		<link rel="publisher" href="https://plus.google.com/115305848427030276362/" />
+		<!-- CSS -->
+		<link href="http://i.computer-bild.de/styles/styles11.css?236" rel="stylesheet" type="text/css" />
+<link href="http://i.computer-bild.de/styles/stylesless34.css?236" rel="stylesheet" type="text/css" />
+
+		
+		<!--[if lt IE 9]>
+			<script type="text/javascript">
+				var e = ("abbr,canvas,figure,footer,header,nav,section,time,video").split(',');
+				for (var i = 0; i < e.length; i++) {
+					document.createElement(e[i]);
+				}
+			</script>
+		<![endif]-->
+		
+
+		<!-- JS -->
+<script type="text/javascript">
+	var nmacs_config = {
+		
+			sessionBaseUrl: 'https://www.computerbild.de/forms/session',
+			imageServerUrl: 'http://i.computer-bild.de',
+			avatarImagePath: '/imgs/user/avatar/',
+			loginUrl: 'https://www.computerbild.de/user/login_366835.html',
+			adReloadOnNewssliderClick: true
+				};
+</script><script type="text/javascript" src="http://i.computer-bild.de/assets/js/angular_de-de-0bfe1cd852.min.js"></script>
+<script type="text/javascript" src="http://i.computer-bild.de/assets/js/angular-core-f6714a4168.min.js"></script>
+<script type="text/javascript" src="http://i.computer-bild.de/assets/js/session-656da01621.min.js"></script>
+<script type="text/javascript" src="http://i.computer-bild.de/assets/js/dialogue-c25e7f7ae8.min.js"></script>
+
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>
+<link rel="search" title="COMPUTER BILD-Suche"
+			   type="application/opensearchdescription+xml"
+			   href="http://addons.computerbild.de/opensearch/opensearch.xml" />
+	<script type="text/javascript">
+		// <![CDATA[
+		(function () {
+			if (typeof angular !== 'undefined') {
+				angular.module('CoBi.Config')
+					.constant('IMAGE_SERVER', 'http://i.computer-bild.de')
+					.constant('FORM_VALIDATION', {passwordLength: 8})
+					.constant('BASE_URL', 'http://www.computerbild.de')
+					.constant('LOGIN_URL', 'https://www.computerbild.de/user/login_366835.html')
+					.constant('PASSWORD_MIGRATION_URL', 'https://www.computerbild.de/user/migrate_password_15130645.html')
+					.constant('FORMS_URL', 'https://www.computerbild.de/forms/')
+					.constant('SYSTEM_TYPE', 'production')
+					.constant('ENV', {production: 'production'})
+					.constant('SOCIALMEDIA', {"shareUrlFacebook":"http:\/\/www.facebook.com\/sharer.php?u=http%3A%2F%2Fwww.computerbild.de%2FDatenschutz-919760.html","shareUrlTwitter":"http:\/\/twitter.com\/share?text=&amp;url=http%3A%2F%2Fwww.computerbild.de%2FDatenschutz-919760.html","shareUrlGoogle":"https:\/\/plus.google.com\/share?url=http%3A%2F%2Fwww.computerbild.de%2FDatenschutz-919760.html","shareUrlPinterest":"http:\/\/www.pinterest.com\/pin\/create\/button\/?url=http%3A%2F%2Fwww.computerbild.de%2FDatenschutz-919760.html&amp;media=&amp;description=","shareUrlEmail":"mailto:?subject=COMPUTER%20BILD%20-%20Ihnen%20wurde%20ein%20Artikel%20empfohlen&amp;body=Folgenden%20Artikel%20auf%20www.computerbild.de%20m%C3%B6chte%20ich%20empfehlen%3A%20http%3A%2F%2Fwww.computerbild.de%2FDatenschutz-919760.html","emailToAuthor":"<a href=\"mailto:?subject=COMPUTER%20BILD%20-%20Ihnen%20wurde%20ein%20Artikel%20empfohlen&amp;body=Folgenden%20Artikel%20auf%20www.computerbild.de%20m%C3%B6chte%20ich%20empfehlen%3A%20http%3A%2F%2Fwww.computerbild.de%2FDatenschutz-919760.html\" class=\"mail\" rel=\"nofollow\"><\/a>"})
+					.constant('BASE_URL_SECURE', 'https://www.computerbild.de');
+
+				
+				angular.module('CoBi.Session')
+					.constant('AVATAR_PATH', '/imgs/user/avatar/');
+
+				try {
+					angular.module('CoBi.DeviceDetector')
+						.config(function ($provide, OS, OS_VERSIONS, OS_BITS, OS_PROPERTIES) {
+							var flags = {};
+							flags[OS.MAC] = 16;
+							flags[OS.LINUX] = 32;
+							flags[OS.WINDOWS] = 16128;
+							flags[OS_VERSIONS.WINDOWS_2000] = 256;
+							flags[OS_VERSIONS.WINDOWS_XP] = 512;
+							flags[OS_VERSIONS.WINDOWS_7] = 2048;
+							flags[OS_VERSIONS.WINDOWS_8_1] = 4096;
+							flags[OS_VERSIONS.WINDOWS_8] = 4096;
+							flags[OS_VERSIONS.WINDOWS_10] = 8192;
+							flags[OS_BITS.BIT_32] = 65536;
+							flags[OS_BITS.BIT_64] = 131072;
+							flags[OS_PROPERTIES.PORTABLE] = 262144;
+							$provide.value('osFlags', flags);
+						});
+				} catch (e) {
+				}
+			}
+		})();
+		// ]]>
+	</script>
+<script type="text/javascript">
+	// <![CDATA[
+	(function () {
+		if (typeof angular !== 'undefined') {
+			angular.module('CoBi.Config')
+				.constant('PLATFORM', 'desktop');
+		}
+	})();
+	// ]]>
+</script>
+<script type="text/javascript">
+	// <![CDATA[
+	if (window.adgroupid == undefined) {
+		window.adgroupid = Math.round(Math.random() * 1000);
+	}
+	// ]]>
+</script>
+<script type="text/javascript" src="//ec-ns.sascdn.com/diff/251/pages/computerbild.js"></script>
+<script type="text/javascript">
+	// <![CDATA[
+	sas_loadHandler = function (e) {
+		var element = document.getElementById("sas_" + e.id).parentNode;
+		var advertIdentifierOnBlacklist  = function(advertId) {
+			// AdIds bei denen keine Anzeigenkennung angezeigt werden soll.
+			var noAdvertIdentifier = [3648,3650,3651,18913];
+			for(var i=0; i < noAdvertIdentifier.length; i++){
+				if(noAdvertIdentifier[i] === parseInt(advertId)){
+					return true;
+				}
+			}
+			return false;
+		};
+		// asmi fix for iframe only content
+		try {
+			var adContainer = asmi.sas.gcf(e.id);
+			if (adContainer.children.length == 1){
+				e.hasAd = null != adContainer
+				&& adContainer.hasChildNodes()
+				&& (adContainer.children.length > 1 ? !0 : !1
+				|| adContainer.firstChild.nodeName == 'IFRAME'
+				);
+			}
+		} catch (ex) {}
+
+		if (e.hasAd) {
+			if (!element.className.match(/sasloaded/)
+			&& !advertIdentifierOnBlacklist(e.id)
+			) {
+				element.className = element.className + " sasloaded";
+			}
+			if (5419 === parseInt(e.id)) {
+				var css = element.style;
+				css.marginBottom = '20px';
+			}
+			if (3648 === parseInt(e.id)) {
+				if (typeof e.crea3 !== "undefined" && e.crea3.width !== "undefined") {
+					document.body.style.paddingLeft = e.crea3.width + 'px';
+				}
+			}
+		} else {
+			element.className = element.className.replace(/sasloaded/, '');
+			if (5479 === parseInt(e.id)) {
+				element.className = element.className + " googleloaded sasloaded";
+				var getDomElem = function (id) {
+					return document.getElementById(id).contentDocument || document.frames[id].document;
+				};
+				var i = document.createElement('iframe');
+				i.id = "gadfallback";
+				i.scrolling = 'no';
+				i.frameBorder = 0;
+				i.style.padding = 0;
+				i.height = 88;
+				i.width = 660;
+				i.style.display = 'block';
+				document.getElementById('sas_' + e.id).innerHTML = "";
+				document.getElementById('sas_' + e.id).appendChild(i);
+				i.doc = getDomElem(i.id);
+				i.doc.write(
+					"<!doc" + "type html><ht" + "ml><he" + "ad><ti" + "tle></ti" + "tle></he" + "ad><bo" + "dy style='margin:0;padding:0'>" +
+					"<scr" + "ipt type='text/javascript'>var inDapIF=inDapMgrIf=true;</scr" + "ipt>" +
+					"<scr"+"ipt type=\"text/javascript\">google_ad_channel = '3121333317';google_ad_client = 'ca-pub-4347119884249993';google_ad_type = 'text';google_color_bg = '#FFFFFF';google_color_link = '#3579A7';google_color_text = '#000000';google_color_url = '#3579A7';google_font_face = 'Open Sans, Arial';google_language = 'de';google_max_num_ads = '1';google_override_format = 'true';google_ad_format = '660x88';google_ad_height = '88';google_ad_width = '660';</scr"+"ipt><scr"+"ipt language=\"JavaScript\" type=\"text/javascript\" src=\"//pagead2.googlesyndication.com/pagead/show_ads.js\"></scr"+"ipt>" +
+					"</bo" + "dy></ht" + "ml>"
+				);
+				if (navigator.userAgent.indexOf('MSIE') == -1 && navigator.userAgent.indexOf('Opera') == -1) i.doc.close();
+			}
+		}
+	};
+	var sas_ajax = 1;
+	var CobiSmartAdServer = function (sas_pageid, sas_formatid, sas_target) {
+
+		cobi_abt.trackEvent({event: 'ad_all', formatid: sas_formatid});
+
+		if (typeof SmartAdServerAjax != 'function') {
+			cobi_abt.trackEvent({event: 'ad_blocked', formatid: sas_formatid});
+		} else {
+			cobi_abt.trackEvent({event: 'ad_shown', formatid: sas_formatid});
+			return SmartAdServerAjax(sas_pageid, sas_formatid, sas_target);
+		}
+	};
+	// ]]>
+</script>
+
+		<script type="text/javascript" src="http://i.computer-bild.de/assets/js/cobi_ms-003827bf17.js"></script>
+	<script type="text/javascript">
+		cobi_abt.init({bid:"748588", cid:"919760", primary_node_h:"Home"});
+		cobi_abt.trackPage();
+	</script>
+<script type="text/javascript">
+	// <![CDATA[
+	var disableStr = 'ga-disable-UA-2095403-1';
+
+	// Disable tracking if the opt-out cookie exists.
+	if (document.cookie.indexOf(disableStr + '=true') > -1) {
+		window[disableStr] = true;
+	}
+
+	// Opt-out function
+	function gaOptout() {
+		document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+		window[disableStr] = true;
+		alert('Der Out-Put-Cookie wurde gesetzt.')
+	}
+
+	var currentPath = window.location.pathname + window.location.search;
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2095403-1']);
+		_gaq.push(['_gat._anonymizeIp']);
+		_gaq.push(['_trackPageview', currentPath]);
+	(function() {
+		var ga = document.createElement('script');
+			ga.type = 'text/javascript';
+			ga.async = true;
+			if ('https:' == document.location.protocol) {
+				ga.src = 'https://ssl.google-analytics.com/ga.js';
+			} else {
+				ga.src = 'http://www.google-analytics.com/ga.js';
+			}
+		var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(ga, s);
+	})();
+	// ]]>
+</script>
+<script type="text/javascript">
+	// <![CDATA[
+	// legacy tracking scripts compatibility
+	try {
+		var pageTracker = {
+			_initData: function() { /* was deleted by google */},
+			_trackPageview : function() {
+				var _args = Array.prototype.slice.call(arguments, 0);
+					_args.unshift('_trackPageview');
+				_gaq.push.apply(_gaq, [_args]);
+			},
+			_trackEvent : function() {
+				var _args = Array.prototype.slice.call(arguments, 0);
+					_args.unshift('_trackEvent');
+				_gaq.push.apply(_gaq, [_args]);
+			}
+		};
+	} catch(err) {}
+	function urchinTracker() {
+		try {
+			var _args = Array.prototype.slice.call(arguments, 0);
+				_args.unshift('_trackPageview');
+			_gaq.push.apply(_gaq, [_args]);
+		} catch(err) {}
+	}
+	// ]]>
+</script>
+</head>
+	<body >
+		<script type="text/javascript">(function(a,b,c,d){a='//tags.tiqcdn.com/utag/axelspringer/cbo-computerbild.de/prod/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);})();</script><script type="text/javascript">var utag_data = {page_type : "",page_name : "",cid : "",bid : "",page_publish_date : "",platform : "desktop",tags : [],rating : "",page_category : []}</script>		<password-migration remove="false" redirect="true"></password-migration>
+		<div id="fb-root"></div>
+		<!-- IVW -->
+		<div id="overDiv" style="position:absolute; visibility:hidden;"></div>
+		<div id="superfullsizebanner"><div id="sas_3648"></div>
+	<script type="text/javascript">
+		<!--
+		sas_pageid='10021/(sonstiges)'; // Page
+		sas_formatid=3648;    // Format
+		sas_target=/^https?:\/\/([a-zA-Z\d-]+\.){0,}google\..+$/.test(document.referrer) ? 'referrer=google' : '';    // Targeting
+		CobiSmartAdServer(sas_pageid,sas_formatid,sas_target);
+		//-->
+	</script>
+</div><div id="skyscraper"><div id="skyscrapercontent"><div id="sas_3650"></div>
+	<script type="text/javascript">
+		<!--
+		sas_pageid='10021/(sonstiges)'; // Page
+		sas_formatid=3650;    // Format
+		sas_target=/^https?:\/\/([a-zA-Z\d-]+\.){0,}google\..+$/.test(document.referrer) ? 'referrer=google' : '';    // Targeting
+		CobiSmartAdServer(sas_pageid,sas_formatid,sas_target);
+		//-->
+	</script>
+</div></div><div id="richmedia"><div id="sas_3651"></div>
+	<script type="text/javascript">
+		<!--
+		sas_pageid='10021/(sonstiges)'; // Page
+		sas_formatid=3651;    // Format
+		sas_target=/^https?:\/\/([a-zA-Z\d-]+\.){0,}google\..+$/.test(document.referrer) ? 'referrer=google' : '';    // Targeting
+		CobiSmartAdServer(sas_pageid,sas_formatid,sas_target);
+		//-->
+	</script>
+</div>
+		<div id="page_margins">
+			<div id="page">
+				<!-- IVW Start -->
+<!-- SZM VERSION="2.0" -->
+<script type="text/javascript" id="ivw-einbindung">
+	var iam_data = {
+		"st":"cbo",
+		"cp":"cb-allg-1", // aktuelle IVW-Code
+		"mg":"yes", // migration-mode
+		"sv":"in",
+		
+		"co":"" // comment
+	};
+		iom.c(iam_data);
+	</script>
+<!-- /SZM -->
+<!-- IVW End -->	<header id="cbheader" role="banner" class="">
+		<div class="contentrow">
+			<a id="cblogo" href="http://www.computerbild.de/" title="COMPUTER BILD" onclick="_gaq.push(['_trackEvent','Teaser','Headerlogo']);">COMPUTER BILD</a>			<div class="maincontrol">
+				<nav class="mainnav" id="mainnav">
+	<ul class="firstlevel" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	<li id="menu-65425" class="home"><a href="http://www.computerbild.de" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Start']);"><span itemprop="name">Start</span></a>
+<div class="container"><ul class="subnav level1"><li id="menu-13"><a href="http://www.computerbild.de/news/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Start/News']);"><span itemprop="name">News</span></a></li>
+<li id="menu-14"><a href="http://www.computerbild.de/tests/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Start/Tests']);"><span itemprop="name">Tests</span></a></li>
+<li id="menu-119"><a href="http://www.computerbild.de/tipps/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Start/Tipps']);"><span itemprop="name">Tipps</span></a></li>
+<li id="menu-16506"><a href="http://www.computerbild.de/videos/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Start/Videos']);"><span itemprop="name">Videos</span></a></li>
+<li id="menu-68525"><a href="http://www.computerbild.de/themen/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Start/Themen']);"><span itemprop="name">Themen</span></a></li>
+</ul></div>
+</li>
+<li id="menu-65334"><a href="http://www.computerbild.de/technik/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik']);"><span itemprop="name">Technik</span></a>
+<div class="container"><ul class="subnav level1"><li id="menu-49122" class="heading"><a href="http://www.computerbild.de/technik/computer/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Computer']);"><span itemprop="name">Computer</span></a>
+<ul class="subnav level2"><li id="menu-49123"><a href="http://www.computerbild.de/technik/computer/hardware/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Computer/PC-Hardware']);"><span itemprop="name">PC-Hardware</span></a></li>
+<li id="menu-49126"><a href="http://www.computerbild.de/technik/computer/dsl-wlan/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Computer/DSL &amp; WLAN']);"><span itemprop="name">DSL &amp; WLAN</span></a></li>
+<li id="menu-49127"><a href="http://www.computerbild.de/technik/computer/software/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Computer/Software']);"><span itemprop="name">Software</span></a></li>
+<li id="menu-49130"><a href="http://www.computerbild.de/technik/computer/sicherheit/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Computer/Sicherheit']);"><span itemprop="name">Sicherheit</span></a></li>
+</ul></li>
+<li id="menu-68741" class="heading"><a href="http://www.computerbild.de/cb-special-eHome-8565175.html" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Connected World']);"><span itemprop="name">Connected World</span></a>
+<ul class="subnav level2"><li id="menu-70491"><a href="http://www.ekitchen.de" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Connected World/K&uuml;che: eKitchen']);"><span itemprop="name">K&uuml;che: eKitchen</span></a></li>
+<li id="menu-70493"><a href="http://www.egarden.de" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Connected World/Garten: eGarden']);"><span itemprop="name">Garten: eGarden</span></a></li>
+<li id="menu-70495" class="interspace"><a href="http://www.evivam.de" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Connected World/Sport: eVivam']);"><span itemprop="name">Sport: eVivam</span></a></li>
+</ul></li>
+<li id="menu-73645"><a href="http://www.computerbild.de/cb-job-karriere-bewerbung-lebenslauf-17369919.html" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Job &amp; Karriere']);"><span itemprop="name">Job &amp; Karriere</span></a></li>
+</ul><ul class="subnav level1">
+<li id="menu-49137" class="heading"><a href="http://www.computerbild.de/technik/mobil/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Mobil']);"><span itemprop="name">Mobil</span></a>
+<ul class="subnav level2"><li id="menu-49138"><a href="http://www.computerbild.de/technik/mobil/smartphones/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Mobil/Handy']);"><span itemprop="name">Handy</span></a></li>
+<li id="menu-53399"><a href="http://www.computerbild.de/technik/mobil/tablets/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Mobil/Tablets']);"><span itemprop="name">Tablets</span></a></li>
+<li id="menu-49124"><a href="http://www.computerbild.de/technik/mobil/notebooks/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Mobil/Notebooks']);"><span itemprop="name">Notebooks</span></a></li>
+</ul></li>
+<li id="menu-11" class="heading"><a href="http://www.computerbild.de/avf/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Audio, Video, Foto']);"><span itemprop="name">Audio, Video, Foto</span></a>
+<ul class="subnav level2"><li id="menu-49131"><a href="http://www.computerbild.de/technik/avf/fernseher/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Audio, Video, Foto/Fernseher']);"><span itemprop="name">Fernseher</span></a></li>
+<li id="menu-49135" class="interspace"><a href="http://www.computerbild.de/technik/avf/digitalkameras/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Audio, Video, Foto/Digitalkameras']);"><span itemprop="name">Digitalkameras</span></a></li>
+</ul></li>
+<li id="menu-41880"><a href="http://www.computerbild.de/technik/kaufberatung/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Kaufberatung']);"><span itemprop="name">Kaufberatung</span></a></li>
+<li id="menu-66872"><a href="http://www.computerbild.de/produkte/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Preisvergleich']);"><span itemprop="name">Preisvergleich</span></a></li>
+<li id="menu-69121" class="interspace"><a href="http://www.computerbild.de/bestenlisten/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Technik/Bestenlisten']);"><span itemprop="name">Bestenlisten</span></a></li>
+</ul></div>
+</li>
+<li id="menu-20"><a href="http://www.computerbild.de/downloads/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads']);"><span itemprop="name">Downloads</span></a>
+<div class="container"><ul class="subnav level1"><li id="menu-51421"><a href="http://www.computerbild.de/download/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Beliebte Downloads']);"><span itemprop="name">Beliebte Downloads</span></a></li>
+<li id="menu-51422"><a href="http://www.computerbild.de/download/?order=1" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Neue Downloads']);"><span itemprop="name">Neue Downloads</span></a></li>
+<li id="menu-51423" class="interspace"><a href="http://www.computerbild.de/suche/downloadsuche.html?s_box=1&amp;s_text=" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Download-Suche']);"><span itemprop="name">Download-Suche</span></a></li>
+<li id="menu-51424"><a href="http://www.computerbild.de/download/kategorien/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Download-Kategorien']);"><span itemprop="name">Download-Kategorien</span></a></li>
+<li id="menu-26958" class="interspace"><a href="http://www.computerbild.de/download/specials/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Download-Specials']);"><span itemprop="name">Download-Specials</span></a></li>
+</ul><ul class="subnav level1">
+<li id="menu-16492"><a href="http://www.computerbild.de/download/Sicherheit/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Sicherheit']);"><span itemprop="name">Sicherheit</span></a></li>
+<li id="menu-16496"><a href="http://www.computerbild.de/download/Tuning-System/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Tuning &amp; System']);"><span itemprop="name">Tuning &amp; System</span></a></li>
+<li id="menu-16502"><a href="http://www.computerbild.de/download/Browser/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Browser']);"><span itemprop="name">Browser</span></a></li>
+<li id="menu-16498"><a href="http://www.computerbild.de/download/Grafik-Foto/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Grafik &amp; Foto']);"><span itemprop="name">Grafik &amp; Foto</span></a></li>
+<li id="menu-16504"><a href="http://www.computerbild.de/download/Office/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Office']);"><span itemprop="name">Office</span></a></li>
+<li id="menu-16500"><a href="http://www.computerbild.de/download/Video-TV/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Video &amp; TV']);"><span itemprop="name">Video &amp; TV</span></a></li>
+<li id="menu-16499"><a href="http://www.computerbild.de/download/MP3-Audio/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/MP3 &amp; Audio']);"><span itemprop="name">MP3 &amp; Audio</span></a></li>
+<li id="menu-16493"><a href="http://www.computerbild.de/download/Spiele/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Downloads/Spiele']);"><span itemprop="name">Spiele</span></a></li>
+</ul></div>
+</li>
+<li id="menu-12" class="full"><a href="http://www.computerbild.de/cbs/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele']);"><span itemprop="name">Spiele</span></a>
+<div class="container"><ul class="subnav level1"><li id="menu-49142"><a href="http://www.computerbild.de/spiele/pc/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/PC']);"><span itemprop="name">PC</span></a></li>
+<li id="menu-66621" class="interspace heading"><a href="http://www.computerbild.de/spiele/konsolen/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Konsolen']);"><span itemprop="name">Konsolen</span></a>
+<ul class="subnav level2"><li id="menu-63607"><a href="http://www.computerbild.de/spiele/konsolen/ps4/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Konsolen/PS4']);"><span itemprop="name">PS4</span></a></li>
+<li id="menu-49143"><a href="http://www.computerbild.de/spiele/konsolen/ps3/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Konsolen/PS3']);"><span itemprop="name">PS3</span></a></li>
+<li id="menu-64747"><a href="http://www.computerbild.de/spiele/konsolen/xbox-one/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Konsolen/Xbox One']);"><span itemprop="name">Xbox One</span></a></li>
+<li id="menu-49144"><a href="http://www.computerbild.de/spiele/konsolen/xbox-360/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Konsolen/Xbox 360']);"><span itemprop="name">Xbox 360</span></a></li>
+<li id="menu-53958"><a href="http://www.computerbild.de/spiele/konsolen/wii-u/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Konsolen/Wii U']);"><span itemprop="name">Wii U</span></a></li>
+<li id="menu-72401"><a href="http://www.computerbild.de/cbs-Switch-Konsolen-16615003.html" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Konsolen/Switch']);"><span itemprop="name">Switch</span></a></li>
+</ul></li>
+</ul><ul class="subnav level1">
+<li id="menu-66622" class="heading"><a href="http://www.computerbild.de/spiele/handhelds/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Handhelds']);"><span itemprop="name">Handhelds</span></a>
+<ul class="subnav level2"><li id="menu-53962"><a href="http://www.computerbild.de/spiele/handhelds/ps-vita/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Handhelds/PS Vita']);"><span itemprop="name">PS Vita</span></a></li>
+<li id="menu-66873"><a href="http://www.computerbild.de/spiele/handhelds/ds/3ds/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Handhelds/3DS']);"><span itemprop="name">3DS</span></a></li>
+<li id="menu-49147"><a href="http://www.computerbild.de/spiele/handhelds/ds/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Handhelds/DS']);"><span itemprop="name">DS</span></a></li>
+<li id="menu-66674"><a href="http://www.computerbild.de/spiele/handhelds/apps/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Handhelds/Apps']);"><span itemprop="name">Apps</span></a></li>
+</ul></li>
+<li id="menu-39572" class="interspace"><a href="http://www.computerbild.de/spiele/jetzt-spielen/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Jetzt spielen']);"><span itemprop="name">Jetzt spielen</span></a></li>
+<li id="menu-66869"><a href="http://www.computerbild.de/spiele/tipps/komplettloesungen/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Komplettl&ouml;sungen']);"><span itemprop="name">Komplettl&ouml;sungen</span></a></li>
+<li id="menu-66870"><a href="http://www.computerbild.de/spiele/tipps/cheats/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Spiele/Cheats']);"><span itemprop="name">Cheats</span></a></li>
+</ul></div>
+</li>
+<li id="menu-29681" class="full"><a href="http://www.computerbild.de/specials/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen']);"><span itemprop="name">Aktionen</span></a>
+<div class="container"><ul class="subnav level1"><li id="menu-30884"><a href="http://www.computerbild.de/dsl-speedtest/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/DSL &amp; Speedtest']);"><span itemprop="name">DSL &amp; Speedtest</span></a></li>
+<li id="menu-31337"><a href="http://www.computerbild.de/sicherheitscenter/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Sicherheits-Center']);"><span itemprop="name">Sicherheits-Center</span></a></li>
+<li id="menu-72529"><a href="http://tipps.computerbild.de" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Tipp-Center']);"><span itemprop="name">Tipp-Center</span></a></li>
+<li id="menu-29688" class="interspace"><a href="http://www.computerbild.de/special/streaming-guide/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Filme online']);"><span itemprop="name">Filme online</span></a></li>
+<li id="menu-33100"><a href="http://www.computerbild.de/tarifrechner/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Tarifrechner']);"><span itemprop="name">Tarifrechner</span></a></li>
+</ul><ul class="subnav level1">
+<li id="menu-35228"><a href="http://www.computerbild.de/fotowettbewerb/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Fotowettbewerbe']);"><span itemprop="name">Fotowettbewerbe</span></a></li>
+<li id="menu-39870"><a href="http://www.computerbild.de/wallpaper/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Wallpaper']);"><span itemprop="name">Wallpaper</span></a></li>
+<li id="menu-64676"><a href="http://www.computerbild.de/specials/fotogeschenke/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Fotogeschenke']);"><span itemprop="name">Fotogeschenke</span></a></li>
+<li id="menu-51446"><a href="http://www.computerbild.de/vorteilcenter/cb-Schnaeppchen-Technik-463471.html" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Schn&auml;ppchen']);"><span itemprop="name">Schn&auml;ppchen</span></a></li>
+<li id="menu-66616"><a href="http://www.computerbild.de/connectedsports/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Aktionen/Connected Sports']);"><span itemprop="name">Connected Sports</span></a></li>
+</ul></div>
+</li>
+<li id="menu-66650" class="full"><a href="http://www.computerbild.de/videos/" itemprop="url" onclick="_gaq.push(['_trackEvent','Navigation','Menu','Videos']);"><span itemprop="name">Videos</span></a></li>
+	</ul>
+</nav>
+<script type="text/javascript">
+	// <![CDATA[
+	(function() {
+		var _tree = [9,10,18,28806];
+		for (var _offset in _tree) {
+			if (_tree.hasOwnProperty(_offset)) {
+				var _item = document.getElementById('menu-' + _tree[_offset]);
+				if (_item) {
+					var _class  = _item.getAttribute('class') || '';
+					_class += ' active';
+					_item.setAttribute('class', _class.replace(/^[ ]/g, ''));
+				}
+			}
+		}
+	})();
+	// ]]>
+</script><form id="searchform" class="searchform" method="get"
+						  action="http://www.computerbild.de/suche/">
+						<input type="hidden" name="refcat" id="suche_refcat" value="1" />
+						<input id="suche_text" type="text" name="q" placeholder="Suchbegriff oder Webcode eingeben" />
+						<input id="cbsearch" type="submit" value="Suchen" />
+						<span class="close"></span>
+					</form>			</div>
+		</div>
+
+		<nav class="metanav" id="metanav">
+			<ul>
+	<li><a href="http://gutscheine.computerbild.de" title="Gutscheine">Gutscheine<span class="label">Anzeige</span></a></li>
+<li><a href="http://www.computerbild.de/newsletter.html" title="Newsletter">Newsletter</a></li>
+<li><a href="http://www.computerbild.de/produkte/" title="Preisvergleich">Preisvergleich</a></li>
+<li><a href="https://marketing.computerbild.de/oey19a" title="Abo &amp;amp; Shop" target="_blank" rel="nofollow">Abo &amp; Shop</a></li>
+<li><a href="https://vip-club.computerbild.de?wt_mc=cb_navigationslink" title="VIP-Club" target="_blank" rel="nofollow">VIP-Club</a></li>
+<li><a href="http://www.computerbild.de/app/" title="App">App</a></li>
+<li><a href="http://forum.computerbild.de/" title="Forum">Forum</a></li>
+</ul>
+<ul class="socialmedia">
+		<li class="facebook"><a href="https://www.facebook.com/COMPUTERBILD" target="_blank" onclick="_gaq.push(['_trackEvent','Social','Plattform','Facebook-header']);"></a></li>
+		<li class="twitter"><a href="https://twitter.com/COMPUTERBILD" target="_blank" onclick="_gaq.push(['_trackEvent','Social','Plattform','Twitter-header']);"></a></li>
+		<li class="googleplus"><a href="https://plus.google.com/+COMPUTERBILD/" target="_blank" onclick="_gaq.push(['_trackEvent','Social','Plattform','Google-header']);"></a></li>
+		<li class="youtube"><a href="https://youtube.com/user/computerbildvideo" target="_blank" onclick="_gaq.push(['_trackEvent','Social','Plattform','Youtube-header']);"></a></li>
+	</ul>
+		</nav>
+
+		
+	</header>
+	<nav id="breadcrumb">
+		<div itemscope itemtype="http://schema.org/BreadcrumbList">
+			<a itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" href="http://www.computerbild.de/"><span itemscope itemtype="http://schema.org/Thing" itemprop="item"><span itemprop="name">Home</span><meta itemprop="url" content="http://www.computerbild.de/" /></span><meta itemprop="position" content="1" /></a><span class="seperator">&rsaquo;</span><span><a itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" href="http://www.computerbild.de/cb-Service-2500.html"><span itemscope itemtype="http://schema.org/Thing" itemprop="item"><span itemprop="name">Service</span><meta itemprop="url" content="http://www.computerbild.de/cb-Service-2500.html" /></span><meta itemprop="position" content="2" /></a><span class="seperator">&rsaquo;</span><span><a itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" href="http://www.computerbild.de/AGB-919758.html" class="actual"><span itemscope itemtype="http://schema.org/Thing" itemprop="item"><span itemprop="name">AGB</span><meta itemprop="url" content="http://www.computerbild.de/AGB-919758.html" /></span><meta itemprop="position" content="3" /></a></span></span>		</div>
+	</nav>
+
+<div id="billboard"><div id="sas_5419"></div>
+	<script type="text/javascript">
+		<!--
+		sas_pageid='10021/(sonstiges)'; // Page
+		sas_formatid=5419;    // Format
+		sas_target=/^https?:\/\/([a-zA-Z\d-]+\.){0,}google\..+$/.test(document.referrer) ? 'referrer=google' : '';    // Targeting
+		CobiSmartAdServer(sas_pageid,sas_formatid,sas_target);
+		//-->
+	</script>
+</div>
+				<div id="a0351b6e87274b7f8cf6ec75baec5c8c0"></div>
+
+
+
+				<div id="main" class="clearfix">
+					
+<div id="content_left">
+
+
+
+
+
+
+
+
+<div class="contentPage article">
+  <div class="introBox">
+    <h1 class="title">Datenschutz</h1>
+  </div>
+  <div class="paragraph clearfix">
+<div class="paragraph clearfix"><span class="bold">Datenschutzerklärung der COMPUTER BILD Digital GmbH<br /></span><br />Das Internet-Angebot von COMPUTER BILD, COMPUTER BILD SPIELE und AUDIO VIDEO FOTO BILD wird im Auftrag der Axel Springer SE von der COMPUTER BILD Digital GmbH mit Sitz in Hamburg betrieben.<br /><br /> Die COMPUTER BILD Digital GmbH (im Folgenden CBD genannt) nimmt den Schutz der persönlichen Daten sehr ernst und wird alle personenbezogenen Daten in Übereinstimmung mit dem jeweils geltenden Datenschutzrecht erheben und nutzen.<br /><br /> Die CBD möchte Ihnen anhand dieser Datenschutzerklärung erläutern, welche Daten unbedingt benötigt werden und wie Sie durch Angabe weiterer, freiwilliger Daten Zusatznutzen erlangen können. Ihre Daten werden nur erhoben und gespeichert, wenn Sie uns dazu Ihre Zustimmung gegeben haben.<br /><span class="bold"><br /> § 1 Persönliche Daten<br /></span><br />Wenn Sie sich für ein Gewinnspiel, den Empfang eines E-Mail-Newsletters, für ein Forum, die Community, die Nutzung bestimmter Web-Applikationen oder für den Erwerb von kostenpflichtigen Leistungen registrieren, fragen wir Sie nach einigen persönlichen Angaben. Abgefragt werden jeweils die Daten, die wir&nbsp; benötigen, um Ihnen die entsprechende Anwendung oder Leistung zur Verfügung zu stellen. Je nach Anwendung oder Leistung wird erhoben: E-Mail-Adresse, Name und Vorname, Anschrift, Land, Geburtsdatum, Telefon- oder Mobiltelefonnummer, Anrede. Die notwendigen Datenfelder sind mit einem Stern gekennzeichnet.<br /><span class="bold"><br /> § 2 Verwendung Ihrer notwendigen Daten</span><br /><br /> Die CBD fragt Sie immer dann nach Namen, Adresse und weiteren notwendigen Angaben, wenn Sie z.B. ein Abonnement abschließen, ein Produkt bestellen wollen oder einen interaktiven Dienst in Anspruch nehmen oder sich hierfür registrieren lassen, etwa um einen Newsletter zu bestellen, an einem Gewinnspiel oder dem Forum sowie der Community teilzunehmen oder bezahlbare Inhalte abzurufen. In diesem Fall werden diejenigen personenbezogenen Daten abgefragt, die für den jeweiligen Service und seine Personalisierung nötig sind. Die CBD protokolliert Ihre Einwilligung zur Erhebung und Speicherung der Daten. Sollten Sie Ihre Zustimmung jedoch nicht geben, können wir Ihnen die ausgewählte Anwendung oder Leistung auch nicht zur Verfügung stellen. Mit Ihrem Zugriff auf diese Website werden mögliche Identifizierungsdaten (IP-Adresse) und weitere Angaben (Datum, Uhrzeit, betrachtete Seite) auf unserem Server für Zwecke der Datensicherheit gespeichert. Eine Auswertung der Daten, mit Ausnahme für statistische Zwecke und dann in anonymisierter bzw. pseudonymisierter Form (d.h. auf Domain-Ebene verkürzte IP-Adresse), erfolgt nicht. Alle Ihre personenbezogenen Angaben werden bei der CBD auf einem besonders geschützten Server gespeichert und nur für die Zwecke genutzt, für die Sie sie uns bekannt gegeben haben.<br /><span class="bold"><br /> § 3 Weitergabe personenbezogener Daten</span><br /><br /> Die CBD nutzt Ihre in Ziffer 2 genannten personenbezogenen Informationen nur firmenintern und gibt sie nur an solche Unternehmen weiter, die bei der Erfüllung der mit Ihnen abgeschlossenen Verträge eingeschaltet werden. Ansonsten werden Ihre personenbezogenen Angaben nicht an Dritte weitergegeben, außer wir sind  etwa aufgrund einer gerichtlichen oder behördlichen Anordnung - zur Herausgabe verpflichtet oder Sie haben uns hierzu Ihr ausdrückliches Einverständnis gegeben. So erhalten Sie bei bestimmten Angeboten die Möglichkeit, weiteres Werbematerial anzufordern bzw. der Zusendung von Werbematerial zuzustimmen. Wenn Ihre Daten zu diesem Zweck an Werbepartner übermittelt oder von Dritten verwendet werden sollen, ist das ausdrücklich und deutlich gekennzeichnet und kann allein von Ihnen aktiv bei der Anmeldung über ein so genanntes Double-Opt-In-Verfahren gefordert werden. Dadurch wird sichergestellt, dass Ihre Daten nicht missbräuchlich verwendet werden können. Dieses Einverständnis ist jederzeit und mit Wirkung für die Zukunft widerrufbar. Es genügt dafür ein formloses Schreiben an die COMPUTER BILD Digital GmbH, Axel-Springer-Platz 1, 20350 Hamburg.<br /><br /><span class="bold">§ 4 Art der Datenauswertung</span><br /><br /> Die CBD wird Analysen über das Verhalten der Nutzer auf den Seiten der Portale der CBD durchführen. Dies geschieht vor dem Hintergrund, dass die CBD ihren Dienst ständig verbessern möchte. Diese Auswertungen sind nicht personenbezogen, sondern werden pseudonymisiert durchgeführt. Selbstverständlich teilen wir unseren Werbekunden auch nicht mit, wer, wann, auf welches Angebot geklickt hat, es sei denn, Sie haben uns ausdrücklich zur Weitergabe ermächtigt.<br /><br /> Sie können der pseudonymisierten Verwendung Ihrer Daten zur<br /> Verbesserung unseres Dienstes jederzeit widersprechen. Ihren Widerspruch richten Sie an die in § 7 genannte Adresse.<br /></div><div class="paragraph clearfix"><span class="bold">Datenschutzerklärung zur Nutzung des Messverfahrens der INFOnline GmbH</span><br />Unsere Webseite nutzt das Messverfahren (SZMnG) der INFOnline GmbH (<a href="https://www.infonline.de" target="_blank">https://www.infonline.de</a>) zur Ermittlung statistischer Kennwerte über die Nutzung unserer Angebote. Ziel der Reichweitenmessung ist es, die Nutzungsintensität, die Anzahl der Nutzer einer Webseite und das Surfverhalten statistisch  auf Basis eines einheitlichen Standardverfahrens - zu bestimmen und somit marktweit vergleichbare Werte zu erhalten.<br />&nbsp;<br />Für Web-Angebote, die Mitglied <em>der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V. (IVW  <a href="http://www.ivw.eu" target="_blank">http://www.ivw.eu</a>) </em>sind oder an den Studien der <em>Arbeitsgemeinschaft Online-Forschung e.V. (AGOF - <a href="http://www.agof.de" target="_blank">http://www.agof.de</a>) </em>teilnehmen, werden die Nutzungsstatistiken regelmäßig von der AGOF und der <em>Arbeitsgemeinschaft Media-Analyse e.V. (agma - <a href="http://www.agma-mmc.de" target="_blank">http://www.agma-mmc.de</a>)</em>, sowie der IVW veröffentlicht und können auf den jeweiligen Webseiten eingesehen werden.<br /><span class="bold">&nbsp;</span><br /><span class="bold">1. Datenverarbeitung</span><br />Die INFOnline GmbH erhebt und verarbeitet Daten nach deutschem Datenschutzrecht. Durch technische und organisatorische Maßnahmen wird sichergestellt, dass einzelne Nutzer zu keinem Zeitpunkt identifiziert werden können. Daten, die möglicherweise einen Bezug zu einer bestimmten, identifizierbaren Person haben, werden frühestmöglich anonymisiert.<br /><span class="bold">1.1 Anonymisierung der IP-Adresse</span><br />Im Internet benötigt jedes Gerät zur Übertragung von Daten eine eindeutige Adresse, die sogenannte IPAdresse. Die zumindest kurzzeitige Speicherung der IP-Adresse ist aufgrund der Funktionsweise des Internets technisch erforderlich. Die IP-Adressen werden vor jeglicher Verarbeitung gekürzt und nur anonymisiert weiterverarbeitet. Es erfolgt keine Speicherung oder Verarbeitung der ungekürzten IP-Adressen.<br /><span class="bold">1.2 Geolokalisierung bis zur Ebene der Bundesländer / Regionen</span><br />Eine sogenannte Geolokalisierung, also die Zuordnung eines Webseitenaufrufs zum Ort des Aufrufs, erfolgt ausschließlich auf der Grundlage der anonymisierten IP-Adresse und nur bis zur geographischen Ebene der Bundesländer / Regionen. Aus den so gewonnenen geographischen Informationen kann in keinem Fall ein Rückschluss auf den konkreten Wohnort eines Nutzers gezogen werden.<br /><span class="bold">1.3 Identifikationsnummer des Gerätes</span><br />Die Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen alternativ entweder ein Cookie mit der Kennung ioam.de", ein Local Storage Object oder eine anonyme Signatur, die aus verschiedenen automatisch übertragenen Informationen Ihres Browsers erstellt wird. Die Gültigkeit des Cookies ist auf maximal 1 Jahr beschränkt.<br /><span class="bold">1.4 Anmeldekennung</span><br />Zur Messung von verteilter Nutzung (Nutzung eines Dienstes von verschiedenen Geräten) kann die Nutzerkennung beim Login, falls vorhanden, als anonymisierte Prüfsumme an INFOnline übertragen werden.<br /><span class="bold">2. Löschung</span><br />Die gespeicherten Nutzungsvorgänge werden nach spätestens 7 Monaten gelöscht.<br /><span class="bold">3. Widerspruch</span><br />Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter folgendem Link widersprechen: <span class="bold"><a href="http://optout.ioam.de" target="_blank">http://optout.ioam.de. </a></span>Weitere Informationen zum Datenschutz im Messverfahren finden Sie auf der Webseite der INFOnline GmbH (<a href="https://www.infonline.de" target="_blank">https://www.infonline.de</a>), die das Messverfahren betreibt, der Datenschutzwebseite der AGOF (<a href="http://www.agof.de/datenschutz" target="_blank">http://www.agof.de/datenschutz</a>) und der Datenschutzwebseite der IVW (<a href="http://www.ivw.eu" target="_blank">http://www.ivw.eu</a>).<br /></div><div class="paragraph clearfix">CBD nutzt zudem Google Analytics, einen Webanalysedienst der Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Google). Google Analytics verwendet Cookies (siehe § 6 Verwendung von Cookies), die eine Analyse der Benutzung unserer Webseiten ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Webseite werden an einen Server von Google in den USA übertragen und gespeichert. CBD verwendet Google Analytics mit der Erweiterung _anonymizeIp(), so dass die an Google übertragenen IP-Adressen dort nur gekürzt weiterverarbeitet werden, um eine direkte Personenbeziehbarkeit auszuschließen. Google wird diese Informationen nutzen, um Ihren Besuch der Webseite auszuwerten, um Reports über die Webseitenaktivitäten für CBD zusammenzustellen und um weitere mit der Webseiten-Nutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung bringen. Sie können die Installation des Cookies für Google Analytics durch eine Einstellung Ihrer Browser-Software verhindern; wir weisen Sie darauf hin, dass Sie in diesem Fall gegebenenfalls nicht alle Funktionen der CBD-Webseiten vollumfänglich nutzen können. Der Datenerhebung und speicherung für Google Analytics kann jederzeit mit Wirkung für die Zukunft widersprochen werden - durch Einsatz des Google-Browser-Addons (<a href="http://tools.google.com/dlpage/gaoptout" target="_blank">http://tools.google.com/dlpage/gaoptout</a>) zur Deaktivierung von Google Analytics. Das Browser-Add-on teilt dem JavaScript (ga.js) von Google Analytics mit, dass keine Informationen über den Website-Besuch an Google Analytics übermittelt werden sollen. Weitere Informationen zu Google Inc. und Google Analytics finden Sie unter: www.google.com . Die Datenschutzerklärung von Google finden Sie unter:&nbsp; <a href="http://www.google.com/intl/de/privacypolicy.html#information" target="_blank">www.google.com/intl/de/privacypolicy.html#information</a>.</div><div class="paragraph clearfix">Alternativ zum Browser-Add-On oder innerhalb von Browsern auf mobilen Geräten, <a href="javascript:gaOptout()"> klicken Sie bitte diesen Link</a>, um die Erfassung durch Google Analytics innerhalb dieser Website zukünftig zu verhindern (das Opt Out funktioniert nur in dem Browser und nur für diese Domain). Dabei wird ein Opt-Out-Cookie auf Ihrem Gerät abgelegt. Löschen Sie Ihre Cookies in diesem Browser, müssen Sie diesen Link erneut klicken.</div><div class="paragraph clearfix">Darüber hinaus nutzt CBD Google AdSense, einen Webanzeigendienst von Google, um Werbung (Textanzeigen, Banner etc.) zu schalten. Dabei speichert Ihr Browser unter Umständen ein von Google oder Dritten gesendetes Cookie. Die in dem Cookie gespeicherten Informationen können durch Google oder auch Dritte aufgezeichnet, gesammelt und ausgewertet werden. Darüber hinaus verwendet Google Adsense zur Sammlung von Informationen auch kleine unsichtbare Grafiken, durch deren Verwendung einfache Aktionen wie der Besucherverkehr auf der Webseite aufgezeichnet, gesammelt und ausgewertet werden können. Die durch den Cookie und/oder die Grafiken erzeugten Informationen über Ihre Nutzung dieser Webseite werden an einen Server von Google in den USA übertragen und dort gespeichert. Google benutzt die so erhaltenen Informationen, um eine Auswertung Ihres Nutzungsverhaltens im Hinblick auf AdSense-Anzeigen durchzuführen. Google wird diese Informationen gegebenenfalls auch an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Ihre IP-Adresse wird von Google nicht mit anderen von Google gespeicherten Daten in Verbindung gebracht. Sie können das Speichern von Cookies auf Ihrer Festplatte und die Anzeige der genannten Grafiken verhindern. Sie müssen hierzu in Ihren Browser-Einstellungen die Annahme von Cookies deaktivieren (siehe hierzu auch § 6 Verwendung von Cookies).</div><div class="paragraph clearfix">Auf dieser Website werden durch Tealium, einem Dienst des Anbieters Tealium Inc., 11085 Torreyana Road, San Diego, CA 92121, USA, Daten erhoben und gespeichert, aus denen unter Verwendung von Pseudonymen Nutzungsprofile erstellt werden. Im Auftrag des Betreibers dieser Website wird Tealium diese Informationen benutzen, um Ihre Nutzung der Website automatisiert und in Echtzeit bedarfsgerecht zu gestalten. Hierfür werden beispielsweise folgende Informationen erhoben: gesehene und geklickte Anzeigen, Artikel, Werbung, Besucherzahlen, Thema der Seite etc..</div><div class="paragraph clearfix">CBD verwendet auch das Tag Management System von Tealium, um Teile der Webseiten dynamisch anzupassen. Um diese Funktionalität zu ermöglichen wird ein Cookie namens utag_main angelegt.</div><div class="paragraph clearfix">Die pseudonymisierten Nutzungsprofile werden ohne eine gesondert zu erteilende Einwilligung nicht mit personenbezogenen Daten über den Träger des Pseudonyms zusammengeführt. Auch die von Ihrem Browser übermittelte IP-Adresse wird nicht mit den Nutzungsprofilen zusammengeführt.</div><div class="paragraph clearfix">Zur Erstellung der Nutzungsprofile werden Cookies oder bei mobilen Endgeräten ähnliche Technologien eingesetzt. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden ausschließlich in Deutschland gespeichert. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können.</div><div class="paragraph clearfix">Der Datenerhebung und -speicherung zum Zwecke der Webanalyse können Sie jederzeit mit Wirkung für die Zukunft widersprechen, indem Sie auf diesen <a href="javascript:utag_trackingOptOut()">Opt-Out Link</a> klicken.</div><div class="paragraph clearfix">Die Exactag GmbH sammelt und speichert auf dieser Webseite und deren Unterseiten Daten zu Marketing- und Optimierungszwecken. Aus diesen Daten können anonym Nutzungsprofile erstellt werden. Hierzu können Cookies und eine Technik eingesetzt werden, die sich Fingerprint nennt. Bei Cookies handelt es sich um kleine Textdateien, die lokal im Zwischenspeicher des Internet-Browsers des Seitenbesuchers gespeichert werden. Die Fingerprint-Technologie speichert Umgebungsvariablen des Internet-Browsers in einer Datenbank, ohne eindeutige userbezogene Daten wie eine IP-Adresse zu speichern. Die Cookies und/oder der Fingerprint ermöglichen die Wiedererkennung des Internet- Browsers. Die mit den Exactag-Technologien erhobenen Daten werden ohne die gesondert erteilte Zustimmung des Betroffenen nicht dazu benutzt, den Besucher dieser Website persönlich zu identifizieren, personenbezogene Daten werden grundsätzlich nicht erfasst.<br />Sie können jederzeit der Speicherung Ihrer anonym erfassten Besucherdaten für die Zukunft über diesen <a href="http://exactag.com/de/datenschutz.html" target="_blank">Link</a> widersprechen. Um diesen Ausschluss von der Datenspeicherung zu gewährleisten, wird in Ihrem Browser ein Cookie gesetzt. Dieser Cookie trägt den Namen 'optout' und wird von 'exactag.com' gesetzt. Er darf nicht gelöscht werden, solange der Speicherung der Daten widersprochen wird.</div><div class="paragraph clearfix">Grundsätzlich können Sie unsere Unterseite <a href="http://gutscheine.computerbild.de/">gutscheine.computerbild.de</a> anonym, das heißt ohne Registrierung und ohne Mitteilung von personenbezogenen Daten nutzen. Sobald Sie jedoch einen Gutschein anklicken, um ihn bei einem Händler einzulösen, wird ein Cookie (siehe § 6) gesetzt, um nachzuvollziehen von welcher Seite Sie zu dem Händler gelangen. <br /> <br /></div><div class="MsoNormal"><span class="bold">Nutzung der App "COMPUTER BILD"</span></div><div class="paragraph clearfix">Bei Nutzung der App COMPUTER BILD (IOS und Android) werden zusätzlich folgende Technologien eingesetzt:</div><div class="paragraph clearfix"><span class="bold">adjust</span></div><div class="paragraph clearfix">Mit den eingesetzten Analysetechnologien der adjust GmbH und Exactag GmbH werden zu Marketing- und Optimierungszwecken innerhalb der App Daten gesammelt und gespeichert. Aus diesen Daten können anonym Nutzungsprofile erstellt werden. Hierzu können Cookies und eine Technik eingesetzt werden, die sich Fingerprint nennt. Bei Cookies handelt es sich um kleine Textdateien, die lokal im Zwischenspeicher des Internet-Browsers des App-Nutzers gespeichert werden. Die Fingerprint-Technologie speichert Umgebungsvariablen des Internet-Browsers in einer Datenbank, ohne eindeutige nutzerbezogene Daten wie eine IP-Adresse zu speichern. Die Cookies und/oder der Fingerprint ermöglichen die Wiedererkennung des Internet-Browsers. Die mit den Technologien erhobenen Daten werden ohne die gesondert erteilte Zustimmung des Betroffenen nicht dazu benutzt, den Nutzer dieser App persönlich zu identifizieren, personenbezogene Daten werden grundsätzlich nicht erfasst. Nähere Informationen zur Einhaltung des Datenschutzes durch adjust erhalten Sie hier: <a href="https://www.adjust.com/privacy_policy/">https://www.adjust.com/privacy_policy/</a></div><div class="paragraph clearfix"><span class="bold">appboy</span></div><div class="paragraph clearfix">Der Anbieter setzt zur Analyse der App-Nutzung und zum Versenden von Push-Nachrichten den Webanalysedienst Appboy ein, ein Programm der Appboy, Inc., 265 W. 37th Street, Suite 1212, New York, NY 10018, USA. AppBoy speichert unter einer anonymisierten ID Daten über die Nutzung der App, aber keine personenbezogenen Daten. Nähere Informationen zur Einhaltung des Datenschutzes durch AppBoy erhalten Sie hier: <a href="http://www.appboy.com/privacy">http://www.appboy.com/privacy</a>.</div><div class="paragraph clearfix"><span class="bold">Registrierung zu COMPUTER BILD Digital GmbH (im Folgenden CBD genannt) über Facebook<br /></span><br />Wir bieten Ihnen auch die Möglichkeit einer einfacheren Registrierung zu CBD an. Hierfür können Sie Ihr Nutzer-Konto bei Facebook nutzen. Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In Facebook haben wir diverse Dienste in Form von Spielen, Webseiten (sog. Fan-Seiten) und Anwendungen (sog. Applikationen) integriert. <br /><br />Zu Beginn einer Registrierung für CBD weisen wir Sie mit Worten wie Login mit Facebook auf die Option hin, sich mit Ihren Facebook-Profilangaben zu registrieren. Hierfür ist erforderlich, dass Sie bei Facebook bereits registriert sind oder einen Facebook-Zugang erstellen. Beachten Sie deshalb bitte, dass für die Registrierung zu und die Nutzung von Facebook die Datenschutz- und Nutzungsbedingungen von Facebook gelten. <br /><br /><span class="bold">Login beim sozialen Netzwerk<br /></span>Entscheiden Sie sich für die Registrierung mit Ihrem Facebook-Konto, werden Sie in einem ersten Schritt unmittelbar zu Facebook weiter geleitet. Dort bittet Facebook Sie, Ihre Zugangsdaten anzugeben und sich bei Facebook anzumelden oder zu registrieren. Sind Sie in diesem Moment bereits bei Facebook eingeloggt, wird diese Abfrage zur Anmeldung übersprungen. Wichtig: Wir erfahren dadurch Ihre Zugangsdaten nicht.<br /><br /><span class="bold">Verbindung mit Onlinedienst in sozialem Netzwerk<br /></span>In einem zweiten Schritt verbinden Sie Ihr Profil bei Facebook mit einer Facebook-Applikation der CBD, für die Sie sich gerade registrieren wollen. Zudem zeigt Facebook Ihnen noch einen Link zu den Datenschutz- und Nutzungsbedingungen von CBD an.<br /><br />Welche Ihrer Angaben aus Ihrem Facebook-Profil von CBD abgefragt werden können, erfahren Sie in diesem Schritt ebenfalls. Hierzu gehören zum einen Ihre sog. öffentlichen Information bei Facebook und solche, die Sie öffentlich zugänglich machen oder für die jeweilige Anwendung freigeben. Öffentlich bedeutet im Zusammenhang mit Facebook, dass jeder auch außerhalb von Facebook diese Daten sehen kann. Hierzu zählen Ihr Name, Ihr Profil- und Titelbild, Ihr Geschlecht, Ihre Netzwerke, Ihr Nutzername (Facebook URL) und Ihre Nutzerkennnummer (Facebook ID). Zur Registrierung bei CBD benötigen wir schließlich noch Ihre E-Mail-Adresse, die Sie bei Facebook hinterlegt haben, damit wir mit Ihnen unabhängig von Facebook in Kontakt treten und Ihren Zugang bei dem CBD anlegen können. Sollten Sie nämlich einmal die Verbindung zwischen der Facebook Applikation und Ihrem Profil aufheben, können Sie so über die Funktion Passwort vergessen Ihr CBD-Profil weiter nutzen.<br /><br />Wenn Sie damit einverstanden sind, dass CBD Ihre Facebook-Daten verwenden darf, wie es Ihnen bei Facebook angezeigt wird, stellen Sie die Verbindung in dem sozialen Netzwerk zwischen Ihrem Netzwerk-Profil und dem Onlinedienst in dem Netzwerk her und werden dann wieder zur Registrierung für CBD weiter geleitet. <br /><br />Bitte beachten Sie, dass der Schritt Verbindung mit dem Onlinedienst im Netzwerk übersprungen wird, wenn Sie sich bereits innerhalb des Sozialen Netzwerks mit der jeweiligen Applikation von CBD bei Facebook verbunden haben. <br /><br />CBD hat nun die im Rahmen der Registrierung genannten Daten von Facebook übernommen und damit ein Konto bei CBD für Sie angelegt  Ihr CBD-Konto. Sie können sich nun zukünftig immer über den Button Login mit Facebook bei Ihrem CBD-Konto anmelden.<br /><br /><span class="bold">Zusatzinformationen <br /></span>Haben Sie diese Form der Registrierung abgeschlossen, speichert CBD die Information, dass und über welches soziale Netzwerk Sie sich für die Registrierung bei CBD angemeldet haben. Diese Information wird in Form eines Schlüssels von CBD gespeichert. Ihre Zugangsdaten zu dem jeweiligen sozialen Netzwerk werden dagegen nie von uns gespeichert. <br /><br />Sollten Sie Ihre Angaben, die an den CBD übermittelt wurden, für den Sie sich registriert haben, ändern, müssen Sie diese Änderungen auch bei CBD vornehmen. CBD erhält nicht automatisch Ihre aktualisierten Daten von Ihrem Facebook-Konto und schickt auch keine Ihrer Profilinhalte an Facebook, wenn Sie dem nichtausdrücklich zustimmen (siehe oben Ziffer 2).<br /><br />In keinem Fall werden Daten, die Sie dann für eingeben, an Facebook weitergegeben oder etwaige Angaben in Ihrem Facebook-Profil überschrieben. <br /><br /><span class="bold">Aufhebung der Verbindung <br /></span>Sollten Sie sich einmal entscheiden, Ihr CBD-Konto unabhängig von Facebook nutzen zu wollen, fordern Sie bitte bei CBD ein neues Passwort über die Funktion Passwort vergessen an. <br /><br />Möchten Sie die o.g. Verbindung zu der jeweiligen Applikation innerhalb von Facebook aufheben, melden Sie sich bitte bei Facebook an und stellen dort die erforderlichen Änderungen in Ihrem Profil ein. Wir haben dann keine Berechtigung mehr, Angaben aus Ihrem Facebook-Profil für Sie zu nutzen. Sie müssen deshalb ein eigenes Passwort bei CBD über die Funktion Passwort vergessen anfordern. Möchten Sie, dass wir Ihre Facebook-Daten aus Ihrem CBD-Profil löschen, müssen Sie Ihr gesamtes CBD-Konto kündigen, sodass Sie Ihr CBD-Konto nicht mehr nutzen können. Hierfür schreiben Sie bitte eine E-Mail an <script language="JavaScript">document.write('<a href="' + 'mailto:' + 'datenschutz' + '@' + 'computerbild' + '.' + 'de' + '">' + 'datenschutz' + '@' + 'computerbild' + '.' + 'de' + '</a>');</script> mit dem Betreff CBD-Konto löschen. <br />&#x2003;<br /><span class="bold">CBD in sozialen Netzwerken / weitere Dienste Dritter<br /></span>Sie finden CBD auch in sozialen Online-Netzwerken, die andere Unternehmen im Internet anbieten (z.B. Facebook oder Google). Zudem finden Sie einzelne Funktionen dieser Netzwerke auch in den CBD integriert. Sowohl CBD in sozialen Netzwerken als auch die sozialen Netzwerk-Funktionen in CBD können Sie nur nutzen, wenn Sie auch bei dem jeweiligen sozialen Netzwerk registriert und angemeldet sind. Beachten Sie deshalb, dass für die Nutzung des sozialen Netzwerks die Nutzungs- und Datenschutzbedingungen des jeweiligen Netzwerk-Anbieters gelten. Wie CBD Ihre personenbezogenen Daten in diesem Zusammenhang verarbeitet werden, erklären wir Ihnen im folgenden Text: <br /><br /><span class="bold">a.&nbsp;&nbsp;&nbsp; CBD in sozialen Netzwerken<br /></span><br />CBD bieten wir in folgenden sozialen Netzwerken an:<br /><br /><span class="bold">i.&nbsp;&nbsp;&nbsp; Facebook</span><br />Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In Facebook haben wir CBD in Form Spielen, Webseiten (sog. Fan-Seiten) und Anwendungen (sog. Applikationen) integriert. <br /><br />Nutzen Sie eine dieser CBD-Applikationen auf Facebook, gewährt Facebook uns über eine technische Schnittstelle Zugang zu Ihren sog. öffentlichen Information bei Facebook und solche, die Sie öffentlich zugänglich machen oder für die jeweilige Anwendung freigeben. Öffentlich bedeutet im Zusammenhang mit Facebook, dass jeder auch außerhalb von Facebook diese Daten sehen kann. Hierzu zählen Ihr Name, Ihr Profil- und Titelbild, Ihr Geschlecht, Ihre Netzwerke, Ihr Nutzername (Facebook URL) und Ihre Nutzerkennnummer (Facebook ID). Um einzelne CBD-Applikationen nutzerfreundlicher zu gestalten und damit Sie auch Ihr persönliches Netzwerk innerhalb einer CBD-Applikation nutzen können, nutzen diese auch die Nutzerkennnummern Ihrer Freunde (oder Ihre Freundesliste).&nbsp; Welche Daten Facebook im Einzelnen Diensten innerhalb von Facebook zur Verfügung stellt,&nbsp; erklärt Ihnen Facebook hier: <a href="http://www.facebook.com/about/privacy/your-info-on-other#applications" target="_blank">http://www.facebook.com/about/privacy/your-info-on-other#applications </a> <br /><br />Facebook entscheidet dabei gemäß der Facebook-Datenschutzbestimmungen, welche Daten stets öffentlich zugänglich sind und welche Sie mit Hilfe Ihrer Privatsphäreeinstellungen individuell zugänglich machen können. Lesen Sie zu den Einzelheiten mehr bei Facebook: <a href="http://www.facebook.com/about/privacy/your-info#everyoneinfo" target="_blank">http://www.facebook.com/about/privacy/your-info#everyoneinfo </a> <br /><br />Ob und welche weiteren Informationen aus Ihrem Facebook-Profil CBD benötigt, erfahren Sie, wenn Sie sich für eine CBD-Applikation entscheiden. Dort nennt Facebook Ihnen die Datenkategorien, zu denen die CBD-Applikation Zugang hat.<br /><br />Wenn Sie Ihr Facebook-Profil mit CBD verbunden haben, können Sie auch außerhalb von Facebook Funktionen von Facebook bei CBD nutzen. So können Sie sehen, welche Ihrer Freunde bereits dieselben Inhalte bei CBD gelesen haben oder welche Inhalte sie weiter empfehlen. Nutzen Sie diese Funktionen von Facebook bei CBD, erfährt CBD über die Verbindung auf Facebook, welche Funktion von Facebook Sie benutzt haben.<br /><br />Egal, welche CBD-Applikation Sie bei Facebook nutzen; in jedem Fall verwenden wir die uns zugänglichen Daten nur für den Zweck, Ihnen den jeweiligen Dienst anzubieten. Wenn wir Ihre Daten darüber hinaus verwenden wollen, tun wir dies nur insoweit, wie das Gesetz dies gestattet oder Sie Ihre Zustimmung hierzu erteilt haben. <br /><br />Möchten Sie eine CBD-Applikation auf Facebook nicht mehr verwenden, können Sie dies durch die jeweiligen Einstellungen bei Facebook deutlich machen, z.B. die Verbindung zwischen Ihrem Profil und der Anwendung aufheben. Wir haben dann keinen Zugang mehr zu Ihren allgemeinen Informationen mehr und löschen diese, wenn Sie uns hierüber informieren. Wenden Sie sich hierzu bitte an <script language="JavaScript">document.write('<a href="' + 'mailto:' + 'datenschutz' + '@' + 'computerbild' + '.' + 'de' + '">' + 'datenschutz' + '@' + 'computerbild' + '.' + 'de' + '</a>');</script> mit dem Betreff Löschen meiner Daten in Ihrer Facebook-Applikation.<br /><br /><span class="bold">ii.&nbsp;&nbsp;&nbsp; Google+</span><br />CBD finden Sie auch in dem sozialen Netzwerk Google+, das von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben wird. Dort ist CBD in Form von Spielen, Webseiten (sog. Google+-Seiten) und Anwendungen (sog. Applikationen) integriert.<br /><br />Welche Daten aus Ihrem Google+-Profil CBD sehen kann, können Sie individuell in Ihren Privatsphäreeinstellungen einstellen: <a href="https://www.google.com/settings/privacy?tab=4" target="_blank">https://www.google.com/settings/privacy?tab=4</a> Insbesondere können Sie entscheiden, in welchen Kreis Sie CBD hinzufügen möchten. Einzelheiten entnehmen Sie bitte den Datenschutzinformationen von Google: <a href="http://www.google.de/intl/de/policies/privacy/" target="_blank">http://www.google.de/intl/de/policies/privacy/</a> <br /><br /><span class="bold">iii.&nbsp;&nbsp;&nbsp; Twitter</span><br />CBD hat auch einige Twitter-Konten. Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107). <br /><br />Wenn Sie selber Twitter aktiv nutzen und einen Tweet veröffentlichen,&nbsp; können wir ihn ebenfalls sehen, wenn Sie ihn jedermann zugänglich gemacht haben oder wenn wir Ihnen über Twitter folgen. Ebenfalls können wir Ihre Angaben auf Twitter sehen, wenn CBD Ihren Tweets folgen. Einzelheiten zur Verarbeitung der Daten bei Twitter und den Sichtbarkeitseinstellungen entnehmen Sie bitte den Datenschutzbedingungen von Twitter: <a href="https://twitter.com/privacy" target="_blank">https://twitter.com/privacy </a> <br />&#x2003;<br /><br /><span class="bold">b.&nbsp;&nbsp;&nbsp; Social Plug-Ins</span><br />Innerhalb von CBD finden Sie zum Teil auch sogenannte Social Plug-Ins. Das sind Funktionen des jeweiligen sozialen Netzwerks, über die Sie zum Beispiel Inhalte von CBD mit Ihren Freunden in den sozialen Netzwerken teilen oder diese Inhalte weiter empfehlen können. Social Plug-Ins folgender Anbieter nutzen wir:<br /><br /><span class="bold">i.&nbsp;&nbsp;&nbsp; Facebook</span><br />Facebook ist ein soziales Netzwerk der Facebook Ireland Limited (Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland). In CBD haben wir unterschiedliche Funktionen von Facebook eingebundenen (z.B. Like, Teilen) um die Nutzung von CBD noch nutzerfreundlicher zu gestalten. Facebook-Funktionen sind mit dem Facebook-Logo gekennzeichnet. Abhängig von der Art der Funktion können weitere Angaben hinzukommen (z.B. Like, Empfehlen). <br /><br />Mit dem Like -Button können Sie Ihren Facebook Freunden und Facebook Nutzern Ihre Meinung mitteilen, welche Artikel sie mögen/empfehlen. Haben Sie als Facebook-Nutzer die Recommendations Bar in Facebook zu Ihren Facebook Anwendungen hinzugefügt, veröffentlichen Sie automatisch Ihre Leseaktivität auf Facebook in Ihrem Newsfeed und Ihrer Timeline/Chronik, sobald sich die Recommendations Bar in CBD aufklappt. Auf Facebook erfahren dann die Personen, denen Sie bei Installation der Anwendung die Rechte hierzu gegeben haben, welchen Artikel Sie gerade bei uns lesen oder welche Inhalte Sie bei CBD nutzen. Die einzelnen Einträge sowie die Applikation selber können Sie jederzeit auf Facebook wieder entfernen. <br /><br />Wenn Sie einen CBD-Inhalt nutzen, der einen Facebook-Button enthält, wird von Ihrem Browser bzw. der Anwendung eine direkte Verbindung mit den Facebook-Servern aufgebaut und der Button zur jeweiligen Funktion von dort geladen. Dabei wird die Information an Facebook übermittelt, dass die entsprechende Internetseite bei CBD aufgerufen oder eine bestimmte CBD-Funktion genutzt wurde.<br /><br />Wenn Sie selber aktiv eine Facebook-Funktion verwenden, z.B. auf den Like-Button klicken, ist es möglich, dass Facebook weitere Daten verarbeitet. So kann Facebook z.B. einen Cookie setzen, über den Facebook auf anderen Internetseiten, die ebenfalls Facebook-Buttons eingebunden haben, erkennen kann, dass Sie bereits auf den&nbsp; Button geklickt haben. <br /><br />Sind Sie als Facebook-Nutzer gleichzeitig bei Facebook eingeloggt, ist außerdem die Zuordnung eines Seitenabrufs zu ihrem Profil auf Facebook möglich. Wenn Sie eingebundene Facebook-Buttons anklicken und sich danach bei Facebook einloggen (oder bereits eingeloggt sind), können z.B. die ge-like-ten oder empfohlenen Informationen auf Facebook in Ihrem Profil und Ihrer Chronik/Timeline in Kurzform veröffentlicht werden. Facebook kann so gegebenenfalls weitere Nutzungsdaten erheben und speichern. So können bei Facebook-Nutzerprofile entstehen, die über das hinausgehen, was Sie selbst bei Facebook preisgeben.<br /><br />CBD erfährt zu keinem Zeitpunkt, welche Facebook-Buttons Sie wann verwendet haben, sondern erhält von Facebook ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung der Fanpages von CBD auf Facebook und eine zusammengefasste Statistik zur Verwendung von Facebook-Buttons in Bezug auf CBD.<br /><br />Welche Daten Facebook im Einzelnen zu eigenen Zwecken erhebt, erfahren Sie in der Datenschutzerklärung von Facebook; dort erhalten Sie auch weitere Informa¬tionen zu Datenerhebung und -verarbeitung durch Facebook und zu Ihren darauf bezogenen Rechten, Die Facebook-Datenschutzerklärung ist abrufbar unter <a href="https://www.facebook.com/policy.php" target="_blank">https://www.facebook.com/policy.php</a> , die Information von Facebook zu sog. Social Plugins unter <a href="http://on.fb.me/mAN33b" target="_blank">http://on.fb.me/mAN33b</a> .<br /><br /><span class="bold">ii.&nbsp;&nbsp;&nbsp; Twitter</span><br />Twitter ist ein Microblogging-Dienst des amerikanischen Unternehmens Twitter, Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107). Wenn Sie CBD nutzen, z.B. eine unserer Webseiten aufrufen, die einen Twitter-Button enthält, wird von Ihrem Browser ebenfalls eine direkte Verbindung mit den Servern von Twitter aufgebaut und der Button von dort geladen. Dabei wird die Information an Twitter übermittelt, dass CBD aufgerufen wurde. Auch wenn Sie nicht eingeloggt sind, kann Twitter so gegebenenfalls Nutzungsdaten erheben und auch speichern. <br /><br />Wenn Sie die Twitter-Buttons bei CBD anklicken und über das sich öffnende Twitter-Fenster Informationen twittern, übermitteln Sie die getwitterten Informationen an Twitter. Diese Informationen werden dann in Ihrem Twitter-Nutzerprofil veröffentlicht. <br /><br />Weitere Informationen zur Datenerhebung, Auswertung und Verarbeitung Ihrer Daten durch Twitter sowie Ihren darauf bezogenen Rechte erhalten Sie in der Datenschutzerklärung von Twitter, die unter <a href="http://twitter.com/privacy" target="_blank">http://twitter.com/privacy</a> abrufbar ist.<br /><br /><span class="bold">iii.&nbsp;&nbsp;&nbsp; Google+</span><br />In mehreren CBD-Inhalten ist ein Google+ Button des sozialen Netzwerks Google+ eingebunden. Dieses Soziale Netzwerk wird von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, betrieben. Der Button von Google+ ist an dem Zeichen +1&#x2033; erkennbar.<br /><br />Wenn Sie CBD nutzen, z.B. eine unserer Webseiten aufrufen, die einen Google+ Button enthält, wird von Ihrem Browser eine direkte Verbindung mit den Google-Servern aufgebaut und der Button von dort geladen. Dabei wird die Information an Google Inc. übermittelt, dass die entsprechende Seite bei CBD aufgerufen wurde.<br /><br />Der Inhalt der +1&#x2033;-Schaltfläche&nbsp; wird von Google direkt an Ihren Browser übermittelt und von diesem in die Webseite eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die Google mit der Schaltfläche erhebt. Nach Angabe von Google werden ohne einen Klick auf die Schaltfläche keine personenbezogenen Daten erhoben. Nur bei eingeloggten Mitgliedern des sozialen Netzwerks Google+ werden Daten, unter anderem die IP-Adresse, erhoben und verarbeitet.<br /><br />Wenn Sie Google+-Mitglied sind und nicht möchten, dass Google über unseren Internetauftritt Daten über Sie erhebt, müssen Sie sich vor Ihrem Besuch unseres Internetauftritts bei Google+ ausloggen.<br /><br />Die CBD erfährt zu keinem Zeitpunkt, ob und wann Sie den Google+ Button verwendet haben, sondern erhält von Google ausschließlich eine zusammengefasste, nicht personenbezogene Statistik über die Nutzung des Google+-Buttons.<br /><br />Welche Daten Google im Einzelnen zu eigenen Zwecken erhebt und Informationen über die weitere Verarbeitung und Nutzung der Daten, erfahren Sie in der Datenschutzerklärung von Google unter <a href="http://www.google.com/intl/de/+/policy/+1button.html" target="_blank">http://www.google.com/intl/de/+/policy/+1button.html</a> . <br /><br /><span class="bold">c. weitere Dienste Dritter<br /></span>Auf manchen Internetseiten der CBD integrieren wir ein sog. Widget der Outbrain UK Limited mit Sitz in London. Der Dienst Outbrain dient dazu, unsere Nutzer auf weiterführende Inhalte hinzuweisen, die in einem thematischen Zusammenhang mit dem vom jeweiligen Nutzer gelesenen Inhalt stehen. Wenn der Nutzer kein Opt-out (<a href="http://www.outbrain.com/de/legal/privacy#contact_us">http://www.outbrain.com/de/legal/privacy#contact_us</a>) erklärt hat, erfolgt die Auswahl der im Widget angezeigten Inhalte auch anhand der Inhalte, die der Nutzer aktuell und in der jüngeren Vergangenheit auf der betreffenden Website betrachtet hat. Hierfür verwendet Outbrain unter anderem Cookies (siehe §6 und §11).</div><div class="paragraph clearfix">Die im Widget angezeigten Inhalte werden inhaltlich und technisch von Outbrain gesteuert und ausgeliefert. CBD erhebt und verwendet im Zusammenhang mit dem Outbrain-Widget keine personenbezogenen Daten. Über die Erhebung und Verwendung von Nutzungs- und anderen Daten informiert Outbrain als verantwortliche Stelle in den <a href="http://www.outbrain.com/de/legal/privacy">Datenschutzregelungen </a>von Outbrain. Dort haben Sie überdies die Möglichkeit, der Verwendung von Nutzungs- und anderen Daten für bestimmte Zwecke zu widersprechen (<a href="http://www.outbrain.com/de/legal/privacy#contact_us">Opt-out</a>). Die Empfehlungen von Inhalten im Widget werden danach nicht mehr auf der Grundlage von von Outbrain erfassten Nutzungsdaten gesteuert.<br /><br /><span class="bold">§ 5 Auskunftsrecht</span><br /><br /> Sie können jederzeit Auskunft über die bei uns über Sie gespeicherten Daten bekommen. Bei Bedarf schreiben Sie bitte an Post-Anschrift:<br /> COMPUTER BILD Digital GmbH, Axel-Springer-Platz 1, 20350 Hamburg oder senden Sie eine E-Mail an: <script language="JavaScript">document.write('<a href="' + 'mailto:' + 'datenschutz' + '@' + 'computerbild' + '.' + 'de' + '">' + 'datenschutz' + '@' + 'computerbild' + '.' + 'de ' + '</a>');</script> <br /><br /><span class="bold">§ 6 Verwendung von Cookies </span><br /><br /> Cookies sind kleine Dateien mit Konfigurationsinformationen nach den Vorgaben der Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e. V. (IVW) und wechselnden Werbepartnern. Diese dienen ausschließlich dazu, die Nutzungshäufigkeit und die Anzahl der Nutzer unserer Website zu ermitteln bzw. die Einblendung von Werbebotschaften zu optimieren. Auf bestimmten Seiten werden Anzeigen von Unternehmen oder Agenturen direkt geliefert: hier kommen möglicherweise Cookies zum Einsatz, ohne dass wir Einfluss darauf haben oder Sie darauf hinweisen können; der Hinweis erfolgt dann von dem Werbetreibenden. In einigen Bereichen unseres Angebots werden Cookies verwendet, um Benutzerfunktionen zu realisieren. Personenbezogene Daten können von den Cookies nicht erkannt, gespeichert oder weitergeleitet werden. Die Daten werden also nicht dazu benützt, Sie als Besucher der Website zu identifizieren. Mit Hilfe dieser Cookies können wir lediglich analysieren, wie User unsere Websites nutzen und daraufhin die Inhalte unserer Angebote besser auf die Bedürfnisse der Nutzer abstimmen. <br /> Sie können mit Hilfe eines einfachen Verfahrens in Ihrem Browser Cookies aktivieren oder ganz oder einen Teil von ihnen deaktivieren, wenn Sie die Vorteile nicht nutzen wollen. Bitte beachten Sie hierzu die individuellen Einstellmöglichkeiten Ihres Browsers. <br /><br /> Aus technischen Gründen ist es nicht möglich, Beiträge im Online-Forum der CBD zu schreiben, wenn Sie auf Ihrem Rechner keine Cookies akzeptieren. Sie können diese Cookies allerdings beim Verlassen des Forums jeweils automatisch löschen, indem Sie beim Verlassen des Forums die Schaltfläche "Log out" oben rechts wählen. In diesem Fall müssen Sie beim nächsten Besuch Ihre Zugangsdaten neu eingeben. Wir empfehlen die Option "Log out", wenn andere Personen Zugang zu Ihrem Rechner haben.<br /><br /><span class="bold">§ 7 Löschung von personenbezogenen Daten</span><br /><br /> Sie können jederzeit Ihr Einverständnis gemäß § 13 (2) TMG bezüglich der Erhebung und Speicherung Ihrer personenbezogenen Daten schriftlich oder elektronisch widerrufen. Die Post-Anschrift lautet: COMPUTER BILD Digital GmbH, Axel-Springer-Platz 1, 20350 Hamburg. Alternativ können Sie an uns eine E-Mail senden: <script language="JavaScript">document.write('<a href="' + 'mailto:' + 'datenschutz' + '@' + 'computerbild' + '.' + 'de' + '">' + 'datenschutz' + '@' + 'computerbild' + '.' + 'de' + '</a>');</script>. In diesem Falle wird die CBD Ihre Daten löschen.<br /><br /> Im Falle Ihres Widerrufs der Erhebung und Speicherung und der Verarbeitung Ihrer Daten kann die CBD bestimmte Dienste wie z. B. die Zustellung des Newsletters oder die Teilnahme an Gewinnspielen nicht mehr erbringen.<br /><span class="bold"><br /> § 8 Weitere Hinweise zum Datenschutz</span><br /><br /> Bitte denken Sie daran, dass Sie immer, wenn Sie freiwillig persönliche Informationen online bekannt geben (z.B. in Chatbereichen, per E-Mail, in Foren) diese Informationen von anderen gesammelt und verwendet werden können. Sie könnten also von anderen unerwünschte Nachrichten erhalten, wenn Sie in Bereichen mit öffentlichem Zugriff persönliche Informationen online versenden. Handeln Sie online stets vorsichtig und verantwortungsvoll und achten Sie auf die Geheimhaltung Ihres Passwortes und/oder sonstiger persönlicher Informationen.<br /><br /><span class="bold">§ 9 Erweiterte Datenverwendung</span><br /><br /> Die Einwilligung oder ihre Verweigerung erfolgt durch Klicken auf das entsprechende Feld. Die erteilte oder verweigerte Einwilligung wird protokolliert; ihr Inhalt ist für den Nutzer jederzeit schriftlich abrufbar. <br /> Die COMPUTER BILD Digital GmbH ist nach freiwilliger, ausdrücklicher Einwilligung durch den Nutzer berechtigt, personenbezogene Daten sowie Profildaten und demographische Daten für folgende Zwecke zu erheben, zu verarbeiten (z. B. zu modifizieren, zur Weiterverarbeitung zu speichern, mit anderen Datensätzen zu kombinieren und zu archivieren) und zu nutzen: <br /><br /></div><ul class="editorial_list"><li>Zusendung von Informationen über COMPUTER BILD Digital GmbH,</li><li>Personalisierung und optimalen Ausrichtung dieses Dienstes der COMPUTER BILD Digital GmbH an den Interessen und Vorlieben des Nutzers,</li><li>Werbung und der Marktforschung für die COMPUTER BILD Digital GmbH.</li><li>Die COMPUTER BILD Digital GmbH ist nach Einwilligung des Nutzers nicht verpflichtet, die Nutzungsdaten frühestmöglich, also spätestens unmittelbar nach Ende der jeweiligen Nutzung, zu löschen, sondern ist zur Speicherung berechtigt.</li><li>Ferner ist die COMPUTER BILD Digital GmbH nach Einwilligung durch den Nutzer berechtigt, seine personenbezogenen Daten an Kooperationspartner zum Zwecke der Werbung, der Marktforschung, der Information über Produkte und Dienstleistungen, der Zustellung von Angeboten zum Abschluss von Verträgen für Waren und Dienstleistungen und einer optimal an den Interessen des Nutzers abgestimmten weiteren Information durch einen Newsletter weiterzugeben. <br /><br /></li></ul><div class="paragraph clearfix">Einwilligungen können vom Nutzer jederzeit für die Zukunft widerrufen werden. Dazu kann die Nutzungsvereinbarung über die erweiterte Verwendung gekündigt werden, die Daten werden dann insgesamt bei der COMPUTER BILD Digital GmbH gelöscht. Soweit mit Einverständnis des Nutzers Daten an Kooperationspartner weitergegeben wurden, werden diese umgehend benachrichtigt und zur Löschung aufgefordert. Es besteht auch die Möglichkeit, die Nutzungsvereinbarung aufrecht zu erhalten und nur die Einwilligung in die weitergehende Verwertung der Daten für die Zukunft zu widerrufen. <br />Sämtliche Einwilligungen und Einverständniserklärungen erstrecken sich nicht auf telefonische Informationen, Angebote und Werbekontrollen.<br /><br /><span class="bold">§ 10 Änderungsvorbehalt</span><br /><br /> Die CBD behält sich das Recht vor, jederzeit diese Erklärung zum Datenschutz unter Beachtung der rechtlichen Vorgaben zu aktualisieren. Wir informieren auf unseren Webseiten über Aktualisierungen und bitten Sie um die Erteilung etwaig erforderlicher Einwilligungen.<br /></div>
+
+
+
+
+
+
+
+
+  <script type="text/javascript"><!--
+function optOut() {
+blockCall = new Image();
+blockCall.src = 'http://eu.nuggad.net/block';
+}
+function optIn() {
+blockCall = new Image();
+blockCall.src = 'http://eu.nuggad.net/unblock';
+}
+//-->
+</script>
+
+<div class="paragraph clearfix"><span class="bold">§ 11 Steuerung von Werbeeinblendungen</span><br/><br/>Auf dieser Website werden mit der Technologie der nugg.ad AG (www.nugg.ad) Daten zur Steuerung von Werbeeinblendungen gemessen. Hierzu werden Cookies eingesetzt. Bei Cookies handelt es sich um kleine Textdateien, die lokal im Zwischenspeicher des Internetbrowsers des Seitenbesuchers gespeichert werden. Die Cookies erm&ouml;glichen die Wiedererkennung des Internetbrowsers.<br />
+Sollten Sie w&uuml;nschen, dass f&uuml;r den genannten Zweck keine Informationen im Zusammenhang mit Ihrer Nutzung unseres Online-Angebots an nugg.ad &uuml;bermittelt werden, klicken Sie bitte <a href="#" onClick="optOut(); alert('Einstellung gespeichert'); return false;">hier</a>.<br /><br />
+Sollten Sie die &Uuml;bermittlung der Informationen an nugg.ad wieder zulassen wollen, so klicken Sie bitte <a href="#" onClick="optIn(); alert('Einstellung gespeichert'); return false;">hier</a>.<br /><br />
+Bitte beachten Sie! Das Cookie darf nicht gel&ouml;scht werden, solange der Aufzeichnung von Me&szlig;daten widersprochen wird. Sollten Sie alle Ihre Cookies im Browser l&ouml;schen, m&uuml;ssen Sie den Vorgang wiederholen.<br/><br/>
+Weitere Informationen zur nutzungsbasierten Onlinewerbung und verwendeten Diensten finden Sie hier: <a href="http://www.computerbild.de/Nutzungsbasierte-Online-Werbung-7647715.html" target="_blank">Nutzungsbasierte Onlinewerbung</a> </div>
+
+
+
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+      <div id="teaser_right">
+
+		
+			
+
+
+
+
+
+
+		
+			
+<section class="teaserblock teaserlist tabcontent" data-effect="true">
+			<header>
+			<p class="headline">Aktuelle News</p>
+		</header>
+	
+			<ul class="tabs">
+			<li class="active"><i>News</i></li><li ><i>Tests</i></li><li ><i>Tipps</i></li><li ><i>Videos</i></li>		</ul>
+		<div class="block">			<div class="contentblock show hslice"  data-vr-zone="Tab-Teaser-News-RS" id="webslice_888000" >
+			<a class="teaser" href="http://www.computerbild.de/artikel/cbs-News-Switch-Nintendo-Konsole-ueberlebt-Sturz-300-Meter-18196329.html"  data-vr-contentbox="tab-news-item-1">
+			
+			<div class="pictureblock">
+				<img alt="Switch: Falltest &copy;&nbsp;Youtube.com" title="Switch: Falltest &copy;&nbsp;Youtube.com" src="http://i.computer-bild.de/imgs/9/4/0/0/9/5/3/e074633eddc3f44d.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Nintendo Switch:</b> Sturz aus 300 Metern überlebt
+			</div>
+			
+		</a><a class="teaser videomark" href="http://www.computerbild.de/artikel/cb-News-PC-Hardware-Prime-Air-Amazon-Drohne-Fallschirm-14380881.html"  data-vr-contentbox="tab-news-item-2">
+			
+			<div class="pictureblock">
+				<img alt="Amazon Prime-Air-Drohne &copy;&nbsp;Amazon" title="Amazon Prime-Air-Drohne &copy;&nbsp;Amazon" src="http://i.computer-bild.de/imgs/7/5/1/6/0/0/3/d4031814f0684920.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Amazon Prime Air:</b> Fallschirm-Lieferung in Planung
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/cb-News-Handy-Windows-10-Mobile-Nachfolger-18191637.html"  data-vr-contentbox="tab-news-item-3">
+			
+			<div class="pictureblock">
+				<img alt="Windows 10 Mobile: Nachfolger in Sicht &copy;&nbsp;Microsoft" title="Windows 10 Mobile: Nachfolger in Sicht &copy;&nbsp;Microsoft" src="http://i.computer-bild.de/imgs/9/3/9/7/4/6/5/3fab52924a5df558.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Windows 10 Mobile:</b> Nachfolger in Arbeit
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/cb-Tests-Handy-Smartphone-Preis-Leistungs-Sieger-9938985.html"  data-vr-contentbox="tab-news-item-4">
+			
+			<div class="pictureblock">
+				<img alt="Smartphone Preis-Leistung &copy;&nbsp;Apple, LG, Huawei, Motorola, ©istock.com/eugenesergeev" title="Smartphone Preis-Leistung &copy;&nbsp;Apple, LG, Huawei, Motorola, ©istock.com/eugenesergeev" src="http://i.computer-bild.de/imgs/5/6/5/1/4/3/5/4640f0211e7a651f.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Preis-Leistungs-Sieger:</b> Super-Smartphones für wenig Geld
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/avf-News-Audio-Amazon-Aktuelle-Technik-Schnaeppchen-Lautsprecher-18187903.html"  data-vr-contentbox="tab-news-item-5">
+			
+			<div class="pictureblock">
+				<img alt="Amazon-Schnäppchen &copy;&nbsp;Amazon, Sony" title="Amazon-Schnäppchen &copy;&nbsp;Amazon, Sony" src="http://i.computer-bild.de/imgs/9/3/9/6/4/8/9/8749fca910c03be0.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Amazon:</b> Aktuelle Technik-Schnäppchen
+			</div>
+			
+		</a><a class="teaser videomark" href="http://www.computerbild.de/artikel/cb-Test-Handy-HTC-U-11-Test-17477727.html"  data-vr-contentbox="tab-news-item-6">
+			
+			<div class="pictureblock">
+				<img alt="HTC U: Praxis-Test &copy;&nbsp;COMPUTER BILD" title="HTC U: Praxis-Test &copy;&nbsp;COMPUTER BILD" src="http://i.computer-bild.de/imgs/8/9/5/7/5/6/1/e6dc5c171625d85a.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>HTC U11 im Test:</b> Konkurrenz für S8 und iPhone?
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/avf-News-Audio-Video-Foto-Rock-am-Ring-Live-Stream-18182739.html"  data-vr-contentbox="tab-news-item-7">
+			
+			<div class="pictureblock">
+				<img alt=" &copy;&nbsp;Rock am Ring, ARTE" title=" &copy;&nbsp;Rock am Ring, ARTE" src="http://i.computer-bild.de/imgs/9/3/9/3/9/3/5/d8681b7bb50d9431.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Rock am Ring im Live-Stream:</b> So verpassen Sie nichts!
+			</div>
+			
+		</a>                        <span class="entry-title" style="display:none;">Aktuelle News</span>
+                        <a rel="feedurl" href="http://addons.computerbild.de/webslice/cb-news.html" style="display:none;"></a>		</div>
+			<div class="contentblock"  data-vr-zone="Tab-Teaser-Tests-RS"  >
+			<a class="teaser" href="http://www.computerbild.de/artikel/cb-Tests-Handy-Smartphone-Preis-Leistungs-Sieger-9938985.html"  data-vr-contentbox="tab-tests-item-1">
+			
+			<div class="pictureblock">
+				<img alt="Smartphone Preis-Leistung &copy;&nbsp;Apple, LG, Huawei, Motorola, ©istock.com/eugenesergeev" title="Smartphone Preis-Leistung &copy;&nbsp;Apple, LG, Huawei, Motorola, ©istock.com/eugenesergeev" src="http://i.computer-bild.de/imgs/5/6/5/1/4/3/5/4640f0211e7a651f.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Preis-Leistungs-Sieger:</b> Super-Smartphones für wenig Geld
+			</div>
+			
+		</a><a class="teaser videomark" href="http://www.computerbild.de/artikel/cb-Test-Handy-HTC-U-11-Test-17477727.html"  data-vr-contentbox="tab-tests-item-2">
+			
+			<div class="pictureblock">
+				<img alt="HTC U: Praxis-Test &copy;&nbsp;COMPUTER BILD" title="HTC U: Praxis-Test &copy;&nbsp;COMPUTER BILD" src="http://i.computer-bild.de/imgs/8/9/5/7/5/6/1/e6dc5c171625d85a.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>HTC U11 im Test:</b> Konkurrenz für S8 und iPhone?
+			</div>
+			
+		</a><a class="teaser videomark" href="http://www.computerbild.de/artikel/cb-Tests-Software-Microsoft-Edge-Browser-11250388.html"  data-vr-contentbox="tab-tests-item-3">
+			
+			<div class="pictureblock">
+				<img alt="Microsoft Browser Edge &copy;&nbsp;Microsoft, 2mmedia-Fotolia.com" title="Microsoft Browser Edge &copy;&nbsp;Microsoft, 2mmedia-Fotolia.com" src="http://i.computer-bild.de/imgs/6/2/6/3/4/0/8/4ba1f199e965767e.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Microsoft Edge:</b> Neue Funktionen im Anmarsch
+			</div>
+			
+		</a><a class="teaser videomark" href="http://www.computerbild.de/artikel/cb-Tests-Tablets-Asus-Zenpad-S3-10-LTE-Test-Review-16828909.html"  data-vr-contentbox="tab-tests-item-4">
+			
+			<div class="pictureblock">
+				<img alt="Asus Zenpad 3S 10 LTE &copy;&nbsp;COMPUTER BILD" title="Asus Zenpad 3S 10 LTE &copy;&nbsp;COMPUTER BILD" src="http://i.computer-bild.de/imgs/8/7/1/3/6/3/5/3d2643faaebb96e6.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Asus Zenpad S3 10:</b> Edel-Tablet mit LTE im Test
+			</div>
+			
+		</a><a class="teaser videomark" href="http://www.computerbild.de/artikel/cb-Tests-Handy-Samsung-Galaxy-J7-2016-Volltest-17965737.html"  data-vr-contentbox="tab-tests-item-5">
+			
+			<div class="pictureblock">
+				<img alt="Samsung Galaxy J7 (2016) im Test &copy;&nbsp;COMPUTER BILD" title="Samsung Galaxy J7 (2016) im Test &copy;&nbsp;COMPUTER BILD" src="http://i.computer-bild.de/imgs/9/2/6/8/2/3/5/80277034034ac1bb.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Samsung Galaxy J7 im Test:</b> Groß, günstig, vernünftig
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/avf-Tests-Fernseher-Panasonic-TX-65EZW1004-Test-16966491.html"  data-vr-contentbox="tab-tests-item-6">
+			
+			<div class="pictureblock">
+				<img alt="OLED-TV Panasonic EZW1004 &copy;&nbsp;Panasonic" title="OLED-TV Panasonic EZW1004 &copy;&nbsp;Panasonic" src="http://i.computer-bild.de/imgs/8/7/2/0/0/2/3/e94159a4b02e2d7d.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>OLED-TV im Test:</b> Panasonic TX-65EZW1004
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/cbs-Test-PC-The-Long-Journey-Home-16222151.html"  data-vr-contentbox="tab-tests-item-7">
+			
+			<div class="pictureblock">
+				<img alt="The Long Journey Home &copy;&nbsp;Daedelic Entertainment" title="The Long Journey Home &copy;&nbsp;Daedelic Entertainment" src="http://i.computer-bild.de/imgs/8/3/6/3/5/0/9/82d2c3749958e8be.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>The Long Journey Home im Test:</b> Irrflug durchs All
+			</div>
+			
+		</a>		</div>
+			<div class="contentblock"  data-vr-zone="Tab-Teaser-Tipps-RS"  >
+			<a class="teaser" href="http://www.computerbild.de/artikel/cb-Tipps-Software-Windows-WLAN-Passwort-anzeigen-aendern-16796307.html"  data-vr-contentbox="tab-tipps-item-1">
+			
+			<div class="pictureblock">
+				<img alt=" &copy;&nbsp;Fotolia--Sashkin-Digital security concept - key in keyhole" title=" &copy;&nbsp;Fotolia--Sashkin-Digital security concept - key in keyhole" src="http://i.computer-bild.de/imgs/8/7/0/2/5/7/5/d48c7d2cdbed1329.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Windows:</b> WLAN-Passwort auslesen und ändern
+			</div>
+			
+		</a><a class="teaser videomark" href="http://www.computerbild.de/artikel/cb-Tipps-Software-Tipp-des-Tages-Programme-gratis-herunterladen-11741695.html"  data-vr-contentbox="tab-tipps-item-2">
+			
+			<div class="pictureblock">
+				<img alt="Software-Tipp des Tages &copy;&nbsp;nikolarakic - Fotolia.com, COMPUTER BILD" title="Software-Tipp des Tages &copy;&nbsp;nikolarakic - Fotolia.com, COMPUTER BILD" src="http://i.computer-bild.de/imgs/6/4/5/2/5/4/4/8f05ff7c55d7d5e0.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Gratis laden:</b> Software-Tipp des Tages
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/cbs-News-PC-PlayerUnknowns-Battlegrounds-Tipps-Infos-18022285.html"  data-vr-contentbox="tab-tipps-item-3">
+			
+			<div class="pictureblock">
+				<img alt="PlayerUnknowns Battlegrounds &copy;&nbsp;Bluehole" title="PlayerUnknowns Battlegrounds &copy;&nbsp;Bluehole" src="http://i.computer-bild.de/imgs/9/3/0/3/4/5/7/b54cb803f22f5f8c.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>PlayerUnknowns Battlegrounds:</b> Tipps & Infos
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/cb-News-Internet-Autobanken-im-Test-Guenstige-Kredite-18189321.html"  data-vr-contentbox="tab-tipps-item-4">
+			
+			<div class="pictureblock">
+				<img alt="Kredit für neues Auto &copy;&nbsp;industrieblick  Fotolia.com" title="Kredit für neues Auto &copy;&nbsp;industrieblick  Fotolia.com" src="http://i.computer-bild.de/imgs/9/3/9/6/9/1/5/4eaa84e316e0cc52.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Autobanken im Test:</b> Günstige Kredite
+			</div>
+			
+		</a><a class="teaser videomark" href="http://www.computerbild.de/artikel/avf-Tipps-Video-House-of-Cards-Staffel-5-11085067.html"  data-vr-contentbox="tab-tipps-item-5">
+			
+			<div class="pictureblock">
+				<img alt="House of Cards &copy;&nbsp;Netflix" title="House of Cards &copy;&nbsp;Netflix" src="http://i.computer-bild.de/imgs/6/1/8/6/2/7/7/211a4afac5e7777a.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>House of Cards:</b> Staffel 5 startet heute in Deutschland!
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/cb-Tipps-Software-Firefox-Tabs-einfaerben-mit-Bordmitteln-17673153.html"  data-vr-contentbox="tab-tipps-item-6">
+			
+			<div class="pictureblock">
+				<img alt=" &copy;&nbsp;Mozilla, stockphoto-graf - Fotolia.com" title=" &copy;&nbsp;Mozilla, stockphoto-graf - Fotolia.com" src="http://i.computer-bild.de/imgs/9/0/9/6/9/9/5/1749f07c215b4d4d.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Firefox knallbunt:</b> So färben Sie die Tabs ein!
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/artikel/cb-Downloads-Sicherheit-Software-Sicherheitsluecke-Update-10250983.html"  data-vr-contentbox="tab-tipps-item-7">
+			
+			<div class="pictureblock">
+				<img alt="Exploits Windows Security Sicherheit Java Adobe &copy;&nbsp;Microsoft, Andrey Popov - Fotolia.com" title="Exploits Windows Security Sicherheit Java Adobe &copy;&nbsp;Microsoft, Andrey Popov - Fotolia.com" src="http://i.computer-bild.de/imgs/5/8/5/5/2/0/0/5829a99df7072b2e.jpg"/>
+				
+			</div>
+			<div class="textblock">
+				<b>Update-Pflicht:</b> Diese Programme sind gefährdet!
+			</div>
+			
+		</a>		</div>
+			<div class="contentblock"  data-vr-zone="Tab-Teaser-Videos-RS"  >
+			<a class="teaser" href="http://www.computerbild.de/videos/cb-News-PC-Hardware-Saturn-vs.-Media-Markt-Wer-hat-mehr-Schnaeppchen-18192717.html"  data-vr-contentbox="tab-videos-item-1">
+			
+			<div class="pictureblock">
+				<img alt=" &copy;&nbsp;Media Markt, Saturn, Chris Ryan/gettyimages" title=" &copy;&nbsp;Media Markt, Saturn, Chris Ryan/gettyimages" src="http://i.computer-bild.de/imgs/9/3/9/7/7/5/7/4046191e2c34111d.jpg"/>
+				<div class="overlayvideo"></div>
+			</div>
+			<div class="textblock">
+				<b>Saturn vs. Media Markt:</b> Wer hat mehr Schnäppchen?
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/videos/cb-News-PC-Hardware-Saturn-Die-aktuellen-Angebote-im-Check-18191687.html"  data-vr-contentbox="tab-videos-item-2">
+			
+			<div class="pictureblock">
+				<img alt=" &copy;&nbsp;Saturn, Halfpoint  Fotolia.com" title=" &copy;&nbsp;Saturn, Halfpoint  Fotolia.com" src="http://i.computer-bild.de/imgs/9/3/9/7/4/8/9/f36dfc2051116b63.jpg"/>
+				<div class="overlayvideo"></div>
+			</div>
+			<div class="textblock">
+				<b>Saturn:</b> Die aktuellen Angebote im Check
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/videos/cb-Tests-Notebooks-Netbooks-Lenovo-ThinkPad-X1-Edel-federleicht-und-richtig-teuer-18185327.html"  data-vr-contentbox="tab-videos-item-3">
+			
+			<div class="pictureblock">
+				<img alt=" &copy;&nbsp;Computer Bild" title=" &copy;&nbsp;Computer Bild" src="http://i.computer-bild.de/imgs/9/3/9/4/6/4/5/5c1c5d7b331f927e.jpg"/>
+				<div class="overlayvideo"></div>
+			</div>
+			<div class="textblock">
+				<b>Lenovo ThinkPad X1:</b> Edel, federleicht  und sauteuer
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/videos/cbs-News-PC-Schwarz-braun-ist-die-Haselnuss-18183901.html"  data-vr-contentbox="tab-videos-item-4">
+			
+			<div class="pictureblock">
+				<img alt="Daisy &copy;&nbsp;Deep Silver" title="Daisy &copy;&nbsp;Deep Silver" src="http://i.computer-bild.de/imgs/9/3/9/4/2/5/9/0888abccdab37efd.jpg"/>
+				<div class="overlayvideo"></div>
+			</div>
+			<div class="textblock">
+				<b>Agents of Mayhem:</b> Chaotenhatz in Seoul
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/videos/avf-Tests-Digitalkameras-Panasonic-Lumix-GH5-Systemkamera-fuer-Videoprofis-18184985.html"  data-vr-contentbox="tab-videos-item-5">
+			
+			<div class="pictureblock">
+				<img alt=" &copy;&nbsp;Computerbild" title=" &copy;&nbsp;Computerbild" src="http://i.computer-bild.de/imgs/9/3/9/4/5/4/5/f021a8cef55b52b8.jpg"/>
+				<div class="overlayvideo"></div>
+			</div>
+			<div class="textblock">
+				<b>Lumix GH5:</b> Profikamera für Anspruchsvolle
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/videos/cb-News-Internet-Win-Optimizer-15-18183047.html"  data-vr-contentbox="tab-videos-item-6">
+			
+			<div class="pictureblock">
+				<img alt=" &copy;&nbsp;Ashampoo" title=" &copy;&nbsp;Ashampoo" src="http://i.computer-bild.de/imgs/9/3/9/4/0/4/9/67e05a178498339b.jpg"/>
+				<div class="overlayvideo"></div>
+			</div>
+			<div class="textblock">
+				<b>WinOptimizer 15:</b> So optimieren Sie Windows 10!
+			</div>
+			
+		</a><a class="teaser" href="http://www.computerbild.de/videos/cb-News-Internet-Autoverkauf-online-Abracar-so-funktioniert-es-18189029.html"  data-vr-contentbox="tab-videos-item-7">
+			
+			<div class="pictureblock">
+				<img alt="Frau am Steuer &copy;&nbsp;Abracar" title="Frau am Steuer &copy;&nbsp;Abracar" src="http://i.computer-bild.de/imgs/9/3/9/6/8/4/7/df9a6d85f972cfa9.jpg"/>
+				<div class="overlayvideo"></div>
+			</div>
+			<div class="textblock">
+				<b>Autoverkauf online:</b> So funktioniert Abracar
+			</div>
+			
+		</a>		</div>
+		</div>	</section>		
+				<div class="teaser_rr automatischer _7441178">
+		<div class="header clearfix">
+			<p class="headLine">Kurztipps aus der Redaktion</p>
+			
+		</div>
+		<div class="content">
+			<div class="textBlock">
+				
+				<ul>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Amazon-Kindle-eBook-Reader-Artikel-per-Mail-empfangen-10014150.html">Mit dem eBook-Reader PDFs lesen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Android-YouTube-Videos-PVSTAR-10519581.html">YouTube-Videos im Hintergrund abspielen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Ratgeber-Kurse-Internet-Wordpress-Plug-ins-8975590.html">Die besten Wordpress-Plug-ins</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Mit-Skydrive-auch-auf-PC-Dateien-ausserhalb-der-Cloud-zugreifen-8824145.html">Mit Skydrive alle Dateien abrufen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-OS-X-Mountain-Lion-Lautstaerke-feiner-einstellen-7858324.html">Lautstärke fein regulieren</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Ratgeber-Wissen-Urheberrecht-Creative-Commons-7737762.html">Alle Infos zu Creative Commons</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-So-wird-Google-zu-Ihrer-Mail-Zentrale-7692981.html">GMail als Schaltzentrale</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Aktuell-Internet-IPv6-Protokoll-IPv4-Wissen-7547896.html">Die neuen Internet-Adressen im Überblick</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Ratgeber-Handy-iPhone-iPad-So-fuegen-Sie-Emoticons-in-Ihre-Dokumente-ein-7552019.html">Emoticons auf iPhone/iPad aktivieren</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-PDF-fuer-den-Versand-perfektionieren-7512703.html">PDFs optimieren</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-iPhone-iPad-Webclip-mit-schoenem-Icon-versehen-7500000.html">Webclip auf iPhone/iPad verschönern</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Notebook-Stromfresser-entlarven-7472783.html">Notebook-Stromfresser entlarven </a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Alte-Treiber-deinstallieren-7472685.html">Treiber von alten Laufwerken löschen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Zustand-des-Akkus-pruefen-7472397.html">Zustand des Akkus prüfen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Google-Karten-offline-nutzen-7472368.html">Google Maps mit Android offline nutzen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Akku-Warnung-hinauszoegern-7471705.html">Akku-Warnung hinauszögern</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-iTunes-WLAN-Synchronisation-7407817.html">iOS-Geräte per WLAN mit iTunes abgleichen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Einzelne-Seiten-im-Querformat-anlegen-7436904.html">Einzelne Seiten im Querformat anlegen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Mehrere-Outlook-Ordner-durchsuchen-7434663.html">Mehrere Outlook-Ordner durchsuchen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Taktfrequenz-Android-ermitteln-7434820.html">Android-Geräte: Taktfrequenz ermitteln</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Neue-Explorer-Favoriten-anlegen-7434359.html">Neue Explorer-Favoriten anlegen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Google-Docs-Funktionen-7433934.html">Dokumente mit Google online verwalten</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Internetsuche-als-Nachrichtenticker-7433787.html">Internetsuche als Nachrichtenticker</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Menueleiste-Internet-Explorer-zurueckholen-7424307.html">Internet Explorer 9: Menüleiste zurückholen</a>
+							
+							</li>
+							<li><a href="http://www.computerbild.de/artikel/cb-Tipps-Userfragen-Excel-Werte-als-Balken-in-der-Nachbarzelle-anzeigen-7424248.html">Balken in der Nachbarzelle anzeigen </a>
+							
+							</li></ul>			</div>
+		</div>
+		
+			<div class="linkBlock clearfix">
+				<div class="linkText">
+					<a href="http://www.computerbild.de/tipps/kurztipps/">Alle Kurztipps im Überblick</a> 
+				</div>
+			</div>
+			
+	</div>
+			
+
+      </div>
+
+      <div id="ie_clearing">&nbsp;</div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="footer">
+		<footer>
+			<nav class="footernav">
+				<a href="http://www.computerbild.de/Kontakt-919444.html" title="Kontakt">Kontakt</a>
+            <a href="http://www.computerbild.de/jobs/" title="Jobs">Jobs</a>
+            <a href="http://www.computerbild.de/Impressum-1375166.html" title="Impressum">Impressum</a>
+            <a href="http://www.computerbild.de/AGB-919758.html" title="AGB">AGB</a>
+            <a href="http://www.computerbild.de/Widerrufsbelehrungen-10179595.html" title="Widerrufsbelehrung">Widerrufsbelehrung</a>
+            <a href="http://www.computerbild.de/Datenschutz-919760.html" title="Datenschutz">Datenschutz</a>
+            <a href="http://www.computerbild.de/artikel/cbs-Spieletricks-Jusprog-einrichten-Tipps-8227820.html" title="Jugendschutz">Jugendschutz</a>
+            <a href="http://www.computerbild.de/Nutzungsbasierte-Online-Werbung-7647715.html" title="Nutzungsbasierte Online-Werbung">Nutzungsbasierte Online-Werbung</a>
+            <a href="https://marketing.computerbild.de/o81mjr" title="Abo-Service" target="_blank" rel="nofollow">Abo-Service</a>
+            <a href="http://www.mediaimpact.de/portrait/COMPUTERBILD.DE-COMPUTER-BILD-Digital_25501764.html" title="Mediadaten" target="_blank" rel="nofollow">Mediadaten</a>
+<a id="displayCopyright" href="javascript:void(0);">Bildnachweise</a>
+			</nav>
+						<p id="printFooter">© COMPUTER BILD www.computerbild.de</p>
+		</footer>
+	</div>
+<form style="display: none;">
+			<input id="cb-redirect-url" login-url type="hidden" name="redirect" value="http://www.computerbild.de/Datenschutz-919760.html" />
+		</form>	<div id="jsFunc" style="display:none;">
+		<script type="text/javascript" src="http://i.computer-bild.de/assets/js/cobi-jquery-542ab02e4d.js"></script>
+<script type="text/javascript" src="http://i.computer-bild.de/assets/js/cobi-jquery-076102e1d4.min.js"></script>
+<script type="text/javascript" src="http://i.computer-bild.de/assets/js/cobi-lib-ee372fda54.js"></script>
+<script type="text/javascript" src="http://i.computer-bild.de/assets/js/cobi-596069cabf.js"></script>
+<script type="text/javascript" src="http://i.computer-bild.de/assets/js/cobi-redesign-77e7645435.js"></script>
+<script type="text/javascript" src="http://i.computer-bild.de/js/deploy/cobi.js?236"></script>
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+<script type="text/javascript">
+	// <![CDATA[
+	var _vrq = _vrq || [];
+	_vrq.push(['id', 462]);
+	_vrq.push(['automate', false]);
+	_vrq.push(['track', function () {
+	}]);
+	(function (d, a) {
+		var s = d.createElement(a),
+			x = d.getElementsByTagName(a)[0];
+		s.async = true;
+		s.src = '//a.visualrevenue.com/vrs.js';
+		x.parentNode.insertBefore(s, x);
+	})(document, 'script');
+	// ]]>
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->			<div id="inlineJs">
+							</div>
+			<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NDB7L7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDB7L7');</script>
+<!-- End Google Tag Manager -->
+<div class="templates" data-src="login">
+	<section data-type="loggedOut">
+		<ul class="menulogin">
+				<li><a href="#" id="login_link">Login</a></li>
+			</ul>	</section>
+	<section data-type="loggedIn">
+		<form action="https://www.computerbild.de/user/login_366835.html" method="post" id="login_form">
+				<input type="hidden" name="action" value="logout" />
+				<input type="hidden" name="userAction" value="logout" />
+			</form>
+			<ul class="menulogin switch">
+				<li class="username">
+					<p>##loginname##</p>
+					<span class="pictureblock">
+					</span>
+					<ul>
+						<li>
+							<a href="https://www.computerbild.de/user/stammdaten_13329.html">Profil bearbeiten</a>
+						</li>
+						<li class="heading">
+							<a href="/newsletter.html">Abonnierte Newsletter</a>
+						</li>
+						<li class="heading">
+							<a href="#" onclick="Nmacs.Authentification.logout(); false;" ref="nofollow">Abmelden</a>
+						</li>
+
+					</ul>
+				</li>
+			</ul>
+	</section>
+</div>
+
+<script type="text/javascript">
+	// <[!CDATA[
+	(function ($window) {
+		$window.Nmacs = $window.Nmacs || {};
+
+		$window.Nmacs.Authentification = (function () {
+			/**
+			 *
+			 * @private
+			 */
+			var _getLoginForm = function () {
+				var $metanav = $('#metanav');
+				var $templates = $('div.templates[data-src="login"]');
+
+				Nmacs.Session.verify(
+					function (user) {
+						var html = $('section[data-type="loggedIn"]', $templates).html();
+						$metanav.append(
+							html.replace('##loginname##', user.loginName)
+						);
+
+						$('.switch .username', $metanav).on('click', function(){
+							$(this).toggleClass('active');
+						});
+						$('.menulogin .pictureblock').avatar();
+					},
+					function () {
+						$metanav.append($('section[data-type="loggedOut"]', $templates).html());
+					},
+					false
+				);
+			};
+
+			_getLoginForm();
+
+			// Export öffentlicher Methoden.
+			return {
+				logout: function () {
+					Nmacs.Session.logoutMethod();
+					$('#login_form').submit();
+				}
+			}
+		})();
+	})(window);
+	// ]]>
+</script>
+		<script type="text/javascript">
+			<!--
+				var suggestUri = '/suche/suggest.php';
+	$(document).ready(function() {
+		$('#suche_text, .suchForm input[name=q], #download_search_action, #download_search_action_bottom')
+			.catcomplete({
+				source: suggestUri,
+				minLength: 2,
+				delay: 150,
+				select: function(event, ui) {
+					$(this).val(ui.item.label);
+					$(this).closest("form").submit();
+				}
+			})
+			.attr('autocomplete', 'off');
+		if (typeof(catcompleteDisabled) != "undefined") {
+			if (catcompleteDisabled == true) {
+				$( "#suche_text" ).catcomplete( "option", "disabled", true );
+			}
+		}
+		new CbCopyright(document.getElementById('displayCopyright'), 'imageCopyright');
+	});
+				$(document).ready(function () {
+					$('body').on('click', '#login_link, #login_button, #409loginlink', function() {
+						$.cookie('redirect-url', $('#cb-redirect-url').val(), { path: '/' });
+						location.href = 'https://www.computerbild.de/user/login_366835.html';
+					});
+					if ($('#loginform').find('#redirect').length && $.cookie('redirect-url').length) {
+						$('#redirect').val($.cookie('redirect-url'));
+						$.removeCookie('redirect-url', { path: '/' });
+					}
+				});
+						// -->
+		</script>
+		<div id="ac_search" class="suggested"></div>
+		<script type="text/javascript">
+	// <![CDATA[
+	cobi_abt.trackEvent({event:'Teaser_Billboard_Blocktest_All'});
+	if (typeof SmartAdServer !== 'function') {
+		cobi_abt.trackEvent({event:'Teaser_Billboard_Blocktest_Busdev'});
+		$('#a0351b6e87274b7f8cf6ec75baec5c8c0').html(
+			'<div> \
+				<a style="display: block; text-align: center;" \
+					title="[Link auf http://www.ekitchen.de/kuechengeraete/thermomix/?utm_source=COBI&amp;utm_medium=Billboard-DI&amp;utm_campaign=Thermomix]" \
+					href="http://www.ekitchen.de/kuechengeraete/thermomix/?utm_source=COBI&utm_medium=Billboard-DI&utm_campaign=Thermomix" \
+					target="_blank" \
+				> \
+					<img alt=""\
+						 title=" &copy;&nbsp;eKitchen"\
+						 src="http://i.computer-bild.de/imgs/1/9/5/thermomix_bb_062016-cb7cc187ddec71fd.jpg"\
+						 height="250"\
+						 width="1000"\
+					/> \
+				</a> \
+			</div>'
+		).css('margin-bottom', '20px');
+	} else {
+		cobi_abt.trackEvent({event:'Teaser_Billboard_Blocktest_Asmi'});
+	}
+	// ]]>
+</script>
+<script type="text/javascript">
+	// <![CDATA[
+	cobi_abt.trackEvent({event:'Teaser_Rectangle_Blocktest_All'});
+	if (typeof SmartAdServer != 'function') {
+		cobi_abt.trackEvent({event:'Teaser_Rectangle_Blocktest_Busdev'});
+		$('#rectangleAdTeaser1').html(
+			'<div> \
+				<a  onclick="cobi_abt.trackEvent({event:\'Teaser_Rectangle_Blocktest_Link\'}, true);" \
+					style="display: block; text-align: center;" \
+					title="[Link auf http://bit.ly/1Mk3gy3]" \
+					href="http://bit.ly/1Mk3gy3" \
+					target="_blank" \
+				> \
+					<img alt="K&uuml;chengadgets"\
+						 title="K&amp;uuml;chengadgets &copy;&nbsp;Computer Bild"\
+						 src="http://i.computer-bild.de/imgs/1/9/5/amazon_rectangle-9314e7be3c6b1aed.jpg"\
+						 height="250"\
+						 width="300"\
+					/> \
+				</a> \
+			</div>'
+		);
+	} else {
+		cobi_abt.trackEvent({event:'Teaser_Rectangle_Blocktest_Asmi'});
+	}
+	// ]]>
+</script>
+
+			</div>
+
+<script type="text/javascript">
+   document.cookie="newsletter-layer=layer:nexthop;path=/";
+</script>
+
+<script type="text/javascript">
+	if (typeof SmartAdServer !== "function") {
+		document.write("<img src=\"http://i.computer-bild.de/i/ab/at2014070702.gif?r=" + Math.floor((Math.random() * 100000) + 1) + "\" />");
+	} else {
+		document.write("<img src=\"http://i.computer-bild.de/i/ab/at2014070701.gif?r=" + Math.floor((Math.random() * 100000) + 1) + "\" />");
+	}
+</script>
+
+
+
+<div id="cookienotifier" class="clearfix" style="display: none;">
+	<b>Hinweis:</b> Durch die Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu.
+	<div class="button">
+		<span id="cookienotifier-accept">OK</span>
+		<a href="/Datenschutz-919760.html">Mehr Infos</a>	</div>
+</div>
+
+<script type="text/javascript">(function ($) {if (document.cookie.indexOf('cbcn=1') == -1) {var notifier = $('#cookienotifier');if (notifier && notifier.length > 0) {var domain = '.computerbild.de';var cookie = 'cbcn=1;path=/;domain=' + domain;notifier.show();$('#cookienotifier-accept', notifier).click(function () {notifier.hide();var d = new Date();d.setFullYear(d.getFullYear() + 2);document.cookie = cookie + ';expires=' + d.toGMTString();});document.cookie = cookie;}}})(jQuery);</script>
+
+
+
+  </div>
+</div>
+
+
+
+<div style="position:absolute; left:-10px; top:-10px; visibility:hidden;">
+			<script type="text/javascript"><!--
+			var r2sz = screen.width+'x'+screen.height+'x'+screen.colorDepth;
+			var con = navigator.cookieEnabled ? 1 : 0;
+			document.write('<img id="rholive1" src="http://r1.computerbild.de/images/pic.gif?m=cobi;b=748588;c=919760;tit=Datenschutz;url=http%3A%2F%2Fwww.computerbild.de%2FDatenschutz-919760.html;sep=%7C;tce=%7C;tid=28806;tn=AGB;tp=9%7C10%7C18;tc=9%7C10%7C18%7C28806;tpn=CoBi-Navigation%7CHome%7CService;random=' + Math.random() + ';r=' + escape(document.referrer) + ';json=1;con='+con+';sz='+r2sz+';cs=1" width="1" height="1" alt="" />');
+			//-->
+		</script>
+		<noscript>
+			<img id="rholive1" src="http://r1.computerbild.de/images/pic.gif?m=cobi;b=748588;c=919760;tit=Datenschutz;url=http%3A%2F%2Fwww.computerbild.de%2FDatenschutz-919760.html;sep=%7C;tce=%7C;tid=28806;tn=AGB;tp=9%7C10%7C18;tc=9%7C10%7C18%7C28806;tpn=CoBi-Navigation%7CHome%7CService;random=1709300073;r=;;cs=1" width="1" height="1" alt="" />
+		</noscript>
+</div>
+
+<div id="imageCopyright" style="display: none;"></div>
+<script type="text/javascript">
+	// <![CDATA[
+	var entryPageToRecord = "/";
+	(function($) {
+		var activateMouseflow = function () {
+			var mf = document.createElement("script");
+				mf.type = "text/javascript";
+				mf.async = true;
+				mf.src = "//cdn.mouseflow.com/projects/8e484db0-9a9d-436e-8bb4-a40b168952a0.js";
+			document.getElementsByTagName("head")[0].appendChild(mf);
+		};
+		var mfEntryPageCookie = $.cookie('mf_entrypage');
+		if (mfEntryPageCookie === null) {
+			$.cookie('mf_entrypage', document.location.pathname);
+			mfEntryPageCookie = document.location.pathname;
+		}
+		if (mfEntryPageCookie == entryPageToRecord) {
+			activateMouseflow();
+		}
+	})(jQuery);
+	// ]]>
+</script>
+
+
+
+</body>
+</html>
