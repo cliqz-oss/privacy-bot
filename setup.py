@@ -15,8 +15,8 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'find_policies  = privacy_bot.find_policies:main',
-            'fetch_policies = privacy_bot.fetch_policies:main'
+            'find_policies  = privacy_bot.mining.find_policies:main',
+            'fetch_policies = privacy_bot.mining.fetch_policies:main'
         ]
     },
     install_requires=[
