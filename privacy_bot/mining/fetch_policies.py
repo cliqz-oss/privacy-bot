@@ -52,12 +52,8 @@ def fetch_privacy_policy(policy_url):
         return
 
     # Extract content
-    html_raw = content
-
     readability = Document(content)
-    html_clean = readability.summary()
     title = readability.short_title()
-    lang = langdetect.detect(html_clean)
 
     html_converter = html2text.HTML2Text()
     html_converter.ignore_links = True
@@ -66,14 +62,18 @@ def fetch_privacy_policy(policy_url):
     html_converter.ignore_tables = True
     html_converter.skip_internal_links = True
 
-    text_clean = html_converter.handle(html_clean)
-    text_raw = html_converter.handle(content)
+    text = html_converter.handle(content)
+
+    try:
+        lang = langdetect.detect(text)
+    except langdetect.lang_detect_exception.LangDetectException:
+        # Can happen when no feature is found in the text
+        # TODO: use headless fetch in this case
+        lang = ''
 
     return {
-        "html_raw": html_raw,
-        "html_clean": html_clean,
-        "text_raw": text_raw,
-        "text_clean": text_clean,
+        "html": content,
+        "text": text,
         "lang": lang,
         "title": title,
         "url": policy_url,
@@ -123,10 +123,8 @@ def main():
                         os.makedirs(output_dir)
 
                     content_files = [
-                        ('html_raw',    'policy.raw.html'),
-                        ('html_clean',  'policy.html'),
-                        ('text_raw',    'policy.raw.txt'),
-                        ('text_clean',  'policy.txt')
+                        ('html',    'policy.html'),
+                        ('text',    'policy.txt')
                     ]
 
                     for key, content_path in content_files:

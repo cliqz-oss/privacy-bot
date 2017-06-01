@@ -28,9 +28,7 @@ def _get_latest_release():
 
 Policy = namedtuple('Policy', [
     'html',
-    'html_clean',
     'text',
-    'text_clean',
     'domain',
     'lang',
     'tld'
@@ -96,10 +94,8 @@ class Policies:
 
                         content = {}
                         content_files = [
-                            ('html',        'policy.raw.html'),
-                            ('html_clean',  'policy.html'),
-                            ('text',        'policy.raw.txt'),
-                            ('text_clean',  'policy.txt')
+                            ('html',        'policy.html'),
+                            ('text',        'policy.txt'),
                         ]
 
                         for key, content_path in content_files:
@@ -112,15 +108,10 @@ class Policies:
                         self.policies[domain] = Policy(
                             html=content['html'],
                             text=content['text'],
-                            html_clean=content['html_clean'],
-                            text_clean=content['text_clean'],
                             domain=domain,
                             tld=policy['tld'],
                             lang=policy['lang']
                         )
-
-    def __contains__(self, domain):
-        return domain in self.policies
 
     def __iter__(self):
         return iter(self.policies.values())
@@ -129,11 +120,8 @@ class Policies:
         for policy in self:
             # Filter on domain
             if domain:
-                # Full domain
-                if domain != policy.domain:
-                    continue
-                # Domain without tld
-                if domain != policy.domain[:-(len(policy.tld) + 1)]:
+                if not (domain == policy.domain or
+                        domain == policy.domain[:-(len(policy.tld) + 1)]):
                     continue
 
             # Filter on language
@@ -145,9 +133,6 @@ class Policies:
                 continue
 
             yield policy
-
-    def __getitem__(self, domain):
-        return self.policies[domain]
 
 
 if __name__ == "__main__":
@@ -162,10 +147,6 @@ if __name__ == "__main__":
     print(policies.domains)
     print(policies.tlds)
     print(policies.languages)
-
-    # Access a specific policy
-    print('google.de' in policies)
-    print(policies['google.de'])
 
     # Query policy by: tld, domain, lang
     for policy in policies.query(lang='de'):
