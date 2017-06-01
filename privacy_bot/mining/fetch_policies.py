@@ -122,23 +122,16 @@ def main():
                     if not os.path.exists(output_dir):
                         os.makedirs(output_dir)
 
-                    # Output raw html
-                    with open(os.path.join(output_dir, 'policy.raw.html'), 'wb') as output:
-                        output.write(policy["html_raw"].encode('utf-8'))
+                    content_files = [
+                        ('html_raw',    'policy.raw.html'),
+                        ('html_clean',  'policy.html'),
+                        ('text_raw',    'policy.raw.txt'),
+                        ('text_clean',  'policy.txt')
+                    ]
 
-                    # Output clean html
-                    with open(os.path.join(output_dir, 'policy.html'), 'wb') as output:
-                        output.write(policy["html_clean"].encode('utf-8'))
-
-                    # Output raw text
-                    with open(os.path.join(output_dir, 'policy.raw.txt'), 'wb') as output:
-                        output.write(policy["text_raw"].encode('utf-8'))
-
-                    # Output clean text
-                    with open(os.path.join(output_dir, 'policy.txt'), 'wb') as output:
-                        output.write(policy["text_clean"].encode('utf-8'))
-
-                    # TODO - output a markdown version to display on github
+                    for key, content_path in content_files:
+                        with open(os.path.join(output_dir, content_path), 'wb') as output:
+                            output.write(policy[key].encode('utf-8'))
 
                     # Update index
                     index[domain].append({
