@@ -35,7 +35,10 @@ package in 'developer mode' using `pip`, in a virtual environment. You also need
 ```sh
 $ pip install -e .
 ```
+## Prerequisites
+You'll need pandoc: http://pandoc.org/installing.html
 
+## Usage
 There are two entry points, used respectively for:
 1. Automagically discovering privacy policies given a list of domains
 2. Fetching privacy policies given the output of the first entry point (a list of
