@@ -1,0 +1,385 @@
+PONS.com - Datenschutzerklarung  
+
+PONS nimmt den Schutz Ihrer personenbezogenen Daten sehr ernst. Die
+nachfolgende ErklÃ¤rung informiert Sie darÃ¼ber, wie wir Ihre Daten verwenden
+und dabei den Datenschutz gewÃ¤hrleisten.
+
+Gegenstand
+
+Gegenstand dieser ErklÃ¤rung ist die Erhebung, Verarbeitung und Nutzung
+("Verwendung") personenbezogener Daten ("Daten"), die wir, die PONS GmbH
+("PONS"), erheben, wenn Sie unsere Angebote unter der URL http://www.pons.com
+oder http://www.pons.de oder http://mobile.pons.com nutzen.
+
+Verantwortliche Stelle, Kontaktadresse
+
+Verantwortliche Stelle im Sinne des Datenschutzrechts ist die PONS GmbH.
+
+Falls Sie Fragen zu der Verwendung Ihrer Daten haben oder von den hierin
+beschriebenen Rechtsbehelfen Gebrauch machen wollen, senden Sie uns bitte eine
+E-Mail.
+
+Keine Einwilligung durch Nutzung
+
+MaÃgeblich fÃ¼r die Verwendung Ihrer Daten sind die jeweils geltenden
+gesetzlichen Bestimmungen, insbesondere das Bundesdatenschutzgesetz und das
+Telemediengesetz. Soweit wir Daten fÃ¼r einen Zweck nutzen, der nach diesen
+Bestimmungen Ihre Einwilligung erfordert, werden wir Sie jeweils um Ihre
+ausdrÃ¼ckliche Einwilligung bitten. Sie kÃ¶nnen die einmal gegebene
+Einwilligung jederzeit mit Wirkung fÃ¼r die Zukunft widerrufen und/oder
+kÃ¼nftigen Verwendungen Ihrer Daten widersprechen. Die bloÃe Registrierung,
+Nutzung der Dienste oder Kenntnisnahme von dieser ErklÃ¤rung ersetzt Ihre
+ausdrÃ¼ckliche EinwilligungserklÃ¤rung nicht.
+
+Verwendung Ihrer Daten
+
+Im Folgenden werden die MÃ¶glichkeiten der Verwendung Ihrer Daten kurz
+skizziert. Bitte beachten Sie, dass nicht alle Daten tatsÃ¤chlich fÃ¼r alle
+Zwecke verwendet werden und dass fÃ¼r einzelne Dienste ggf. durch besondere
+DatenschutzerklÃ¤rungen ergÃ¤nzende Informationen gegeben werden.
+
+Erheben von Daten
+
+PONS erhebt Daten, wenn Sie ein PONS-Nutzerkonto ("Account") einrichten oder
+wenn Sie Dienste besuchen oder nutzen: Wenn Sie einen Account einrichten,
+bitten wir Sie um bestimmte Angaben zu Ihrer Person. Von diesen sind nur
+diejenigen Angaben als Pflichtangaben vorgesehen, die wir fÃ¼r das
+VertragsverhÃ¤ltnis bzw. die DurchfÃ¼hrung der Dienste benÃ¶tigen. Wenn Sie
+die PONS Angebote besuchen oder nutzen, erhebt und speichert PONS automatisch
+in den Server-Logs technische Informationen, die Ihr Browser uns Ã¼bermittelt.
+Dabei handelt es sich insbesondere um die IP-Adresse Ihres Computers sowie
+Daten, die PONS auf sogenannten Cookies (vgl. Abschnitt "Cookies") abgelegt
+hat.
+
+Verarbeitung und Nutzung von Daten
+
+PONS verwendet die erhobenen Daten fÃ¼r vier grundlegende Zwecke, wobei nicht
+alle Daten tatsÃ¤chlich fÃ¼r alle Zwecke benutzt werden:
+
+Die in Ihrem Account gespeicherten Daten zu Ihrer Person und Adresse
+(Bestandsdaten) verwendet PONS zur BegrÃ¼ndung und Verwaltung des
+NutzungsverhÃ¤ltnisses.
+
+Die Daten zu Ihrer Nutzung der einzelnen PONS Angebote (Nutzungsdaten)
+verwenden wir zur technischen Abwicklung dieser Service-Nutzung.
+
+AuÃerdem werten wir ggf. Nutzungsprofile unter einem Pseudonym (das nicht mit
+den Daten in Ihrem Account zusammengefÃ¼hrt werden kann) zur Werbung,
+Marktforschung und Verbesserung der PONS Angebote aus, soweit Sie nicht von
+Ihrem gesetzlichen Recht Gebrauch gemacht haben, dieser Nutzung Ihrer Daten zu
+widersprechen. Solche Nutzungsprofile werden mittels sogenannter Cookies
+generiert. Sie kÃ¶nnen diese Nutzung ganz einfach ausschlieÃen, indem Sie
+Ihren Browser so einstellen, dass dieser keine Cookies akzeptiert. Vergleichen
+Sie dazu bitten den Abschnitt "Cookies".
+
+DarÃ¼ber hinaus erhebt, verarbeitet und nutzt PONS Ihre personenbezogenen
+Daten fÃ¼r folgende Zwecke:
+
+a) Bestellungen:
+
+Im Rahmen der Bestellprozesse in unserem Online-Shop unter www.pons.de werden
+die zur Abwicklung Ihrer Bestellung erforderlichen Angaben, d.h. Ihr Vor- und
+Nachname, Ihre Rechnungs- und ggfs. hiervon abweichende Lieferanschrift, Ihre
+E-Mail-Adresse sowie die Bestell- und Zahlungsinformationen, wie z.B. Ihre
+Kreditkartendaten, erhoben und zur Abwicklung Ihrer Bestellung, z.B. zur
+Auslieferung der Waren und zur Zahlungsabwicklung, verarbeitet und genutzt.
+MÃ¶chten Sie etwaige Vorzugskonditionen, wie beispielsweise fÃ¼r Lehrer/innen,
+Referendar/innen oder SchÃ¼ler/innen, in Anspruch nehmen, benÃ¶tigen wir von
+Ihnen einen Nachweis Ã¼ber den jeweiligen Status.
+
+Zu den vorstehenden Zwecken Ã¼bermitteln wir die Daten auch an Dritte, wie
+z.B. Kreditkartenunternehmen und Lieferdienste.
+
+DarÃ¼ber hinaus kÃ¶nnen Sie uns im Rahmen der Bestellprozesse in unserem
+Onlineshop weitere Angaben, wie z.B. Ihre Firma, Ihre Kundennummer, Telefax-
+und Telefonnummer oder Ihr Geburtsdatum machen und uns auch mitteilen, wie Sie
+auf uns bzw. unser jeweiliges Angebot aufmerksam geworden sind.
+
+b) Kontaktaufnahme und Bewerbungen:
+
+Wenn Sie uns kontaktieren, z.B. per E-Mail, erheben, verarbeiten und nutzen
+wir die von Ihnen freiwillig mitgeteilten Daten, soweit dies zur Beantwortung
+Ihrer Kontaktanfrage erforderlich ist. Entsprechendes gilt fÃ¼r Bewerbungen.
+
+c) Verwendung von Facebook Social Plugins
+
+Unser Internetauftritt verwendet Social Plugins ("Plugins") des sozialen
+Netzwerkes facebook.com, welches von der Facebook Inc., 1601 S. California
+Ave, Palo Alto, CA 94304, USA betrieben wird ("Facebook"). Die Plugins sind
+mit einem Facebook Logo oder dem Zusatz "Facebook Social Plugin"
+gekennzeichnet.
+
+Wenn Sie eine Webseite unseres Internetauftritts aufrufen, die ein solches
+Plugin enthÃ¤lt, baut Ihr Browser eine direkte Verbindung mit den Servern von
+Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an Ihren Browser
+Ã¼bermittelt und von diesem in die Webseite eingebunden.
+
+Durch die Einbindung der Plugins erhÃ¤lt Facebook die Information, dass Sie
+die entsprechende Seite unseres Internetauftritts aufgerufen haben. Sind Sie
+bei Facebook eingeloggt, kann Facebook den Besuch Ihrem Facebook-Konto
+zuordnen. Wenn Sie mit den Plugins interagieren, zum Beispiel den "GefÃ¤llt
+mir" Button betÃ¤tigen oder einen Kommentar abgeben, wird die entsprechende
+Information von Ihrem Browser direkt an Facebook Ã¼bermittelt und dort
+gespeichert.
+
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Facebook sowie Ihre diesbezÃ¼glichen Rechte und
+EinstellungsmÃ¶glichkeiten zum Schutz Ihrer PrivatssphÃ¤re entnehmen Sie bitte
+den Datenschutzhinweisen von Facebook.
+
+Facebook Fan Box: Die PONS GmbH unterhÃ¤lt auf www.pons.de eine sog. Facebook
+Fan-Box. Wenn Sie bei Facebook angemeldet sind und Sie erklÃ¤rt haben, dass
+Ihnen die Website www.pons.com oder eine Ihrer Subdomains gefÃ¤llt, kÃ¶nnen
+andere Besucher der Website ggf. Ihr Bild und Ihren Namen sehen.
+
+d) DatenschutzerklÃ¤rung fÃ¼r die Nutzung von Twitter
+
+Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese
+Funktionen werden angeboten durch die Twitter Inc., Twitter, Inc. 1355 Market
+St, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter
+und der Funktion "Re-Tweet" werden die von Ihnen besuchten Webseiten mit Ihrem
+Twitter-Account verknÃ¼pft und anderen Nutzern bekannt gegeben. Dabei werden
+auch Daten an Twitter Ã¼bertragen.
+
+Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom
+Inhalt der Ã¼bermittelten Daten sowie deren Nutzung durch Twitter erhalten.
+Weitere Informationen hierzu finden Sie in der DatenschutzerklÃ¤rung von
+Twitter.
+
+e) Serverlogdaten:
+
+Wenn Sie unsere Internetseiten unter www.pons.com besuchen, werden die IP-
+Adresse des von Ihnen verwendeten Rechners, Datum und Uhrzeit Ihres Besuchs,
+die Namen der von Ihnen aufgerufenen Dateien, die Ã¼bertragene Datenmenge, Typ
+und Betriebssystem des von Ihnen verwendeten Webbrowsers sowie die anfragende
+Domain temporÃ¤r in einer Protokolldatei gespeichert. Die Speicherung dieser
+sog. Serverlogdaten ist aus technischen GrÃ¼nden und zur Sicherstellung der
+Systemsicherheit unbedingt erforderlich. Diese Daten werden ausschlieÃlich zu
+statistischen Zwecken und zur Verbesserung der QualitÃ¤t unseres
+Internetauftritts anonymisiert ausgewertet. VerknÃ¼pfungen der Serverlogdaten
+mit den personenbezogenen Daten von bestimmten natÃ¼rlichen Personen erfolgen
+nicht.
+
+f) Newsletter und Werbemailings
+
+Newsletterabonnenten/Benutzer, die unseren Newsletter oder Werbe-E-Mails nicht
+mehr lÃ¤nger erhalten wollen, klicken bitte auf den Link, der zu diesem Zweck
+in jedem der von uns gesendeten Newsletter/Werbe-E-Mails enthalten ist. Eine
+Weitergabe Ihrer Daten an Dritte erfolgt nur, sofern dies zur ErfÃ¼llung des
+Newsletterdienstes erforderlich ist.
+
+Werbung
+
+Nur soweit Sie dem ausdrÃ¼cklich zugestimmt haben (vgl. Abschnitt "keine
+Einwilligung durch Nutzung") verwendet PONS Ihre Daten auch personenbezogen
+(d.h. nicht anonym oder unter dem vorgenannten Pseudonym), um unsere Inhalte
+einschlieÃlich der Werbeangebote auf Ihre ganz persÃ¶nlichen Interessen
+auszurichten und/oder Sie Ã¼ber spezielle Angebote oder neue Angebote und
+Produkte zu unterrichten.
+
+DatenÃ¼bermittlung an Dritte
+
+PONS Ã¼bermittelt Ihre personenbezogenen Daten nicht an Dritte, auÃer wenn
+Sie der Ãbermittlung zugestimmt haben (vgl. Abschnitt "keine Einwilligung
+durch Nutzung") oder die Ãbermittlung zur DurchfÃ¼hrung oder Abrechnung der
+PONS Angebote notwendig ist, insbesondere, wenn Sie durch die PONS Angebote
+Waren oder Dienstleistungen eines selbstÃ¤ndigen Partnerunternehmens in
+Anspruch nehmen oder ein ErfÃ¼llungsgehilfe fÃ¼r die Abwicklung des PONS
+Services diese Daten benÃ¶tigt (solche ErfÃ¼llungsgehilfen sind, soweit Ihnen
+nicht ausdrÃ¼cklich etwas anderes mitgeteilt wird, nur insoweit zur Verwendung
+berechtigt, als dies fÃ¼r den Service notwendig ist).
+
+Nach MaÃgabe der anwendbaren Gesetze kÃ¶nnen auÃerdem staatliche Stellen von
+uns ggf. AuskÃ¼nfte oder Daten zur ErfÃ¼llung ihrer gesetzlichen Aufgaben,
+z.B. zum Zwecke der Strafverfolgung, verlangen.
+
+VerÃ¶ffentlichungen in Ã¶ffentlichen Bereichen unserer Angebote
+
+Ãffentliche Bereiche unserer Angebote sind solche, die der Ãffentlichkeit
+zugÃ¤nglich sind und von Suchmaschinen indexiert werden kÃ¶nnen.
+
+Sie haben die MÃ¶glichkeit, Ã¼ber Ãffentliche Bereiche wie PONS Foren
+Informationen oder Inhalte zu verÃ¶ffentlichen oder auszutauschen.
+
+Soweit Sie Probleme damit haben, personenbezogene Daten, die Sie in einem
+Ãffentlichen Bereich verÃ¶ffentlicht haben, wieder zu lÃ¶schen oder zu
+Ã¼berarbeiten, wenden Sie sich bitte an unseren  Kundenservice: Telefon: 0711
+89462 111, Montag-Freitag 09:00 Uhr - 12:00 Uhr.
+
+LÃ¶schen von Daten
+
+Soweit Ihre Daten nicht mehr fÃ¼r die vorgenannten Zwecke erforderlich sind,
+werden diese gelÃ¶scht. Bitte beachten Sie, dass Daten, die Sie in Ihrem
+Account lÃ¶schen, ggf. zunÃ¤chst nur gesperrt und dann erst mit zeitlicher
+VerzÃ¶gerung endgÃ¼ltig gelÃ¶scht werden, um versehentlichen LÃ¶schungen oder
+evtl. vorsÃ¤tzlichen SchÃ¤digungen aus technischen GrÃ¼nden und rechtlichen
+GrÃ¼nden vorzubeugen.
+
+Cookies
+
+Cookies sind Dateien, die auf der Festplatte Ihres Computers abgelegt werden
+und der Erleichterung der Navigation dienen. Sie vermeiden, dass bei jeder
+Nutzung alle erforderlichen Daten neu eingegeben werden mÃ¼ssen. Cookies
+erleichtern die Nutzung der PONS Angebote. Sie kÃ¶nnen das Speichern von
+Cookies auf Ihrer Festplatte verhindern, indem Sie in Ihren Browser-
+Einstellungen "keine Cookies akzeptieren" wÃ¤hlen. Sie kÃ¶nnen Ihren Browser
+auch so einstellen, dass dieser Sie vor dem Setzen von Cookies fragt, ob Sie
+einverstanden sind. SchlieÃlich kÃ¶nnen Sie auch einmal gesetzte Cookies
+jederzeit wieder lÃ¶schen. Wie all das im Einzelnen funktioniert, entnehmen
+Sie bitte der Anleitung Ihres Browser-Herstellers. Wenn Sie keine Cookies
+akzeptieren, kann dies im Einzelfall zu FunktionseinschrÃ¤nkungen der PONS
+Angebote fÃ¼hren. PONS verwendet Cookies auch, um Nutzungsprofile unter einem
+Pseudonym anzulegen und auszuwerten (siehe Abschnitt "Verarbeitung und Nutzung
+von Daten"). Sie kÃ¶nnen dies ganz einfach verhindern, indem Sie solche
+Cookies nicht akzeptieren oder lÃ¶schen. Wie das im Einzelnen funktioniert,
+entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers.
+
+Soweit Sie Cookies akzeptieren, legt PONS Daten innerhalb der Cookies auf
+Ihrer Festplatte ab und ruft diese Informationen bei spÃ¤teren Nutzungen
+wieder ab. PONS benutzt sogenannte Ein-Pixel-Bilder, um auf PONS-Cookies
+innerhalb unseres Netzwerkes zuzugreifen. Unsere Werbepartner haben nicht das
+Recht, Informationen aus von PONS abgelegten Cookies abzurufen. Unsere
+Werbepartner kÃ¶nnen aber eigene Cookies auf Ihrer Festplatte ablegen. FÃ¼r
+solche Cookies ist PONS rechtlich nicht verantwortlich. Vergleichen Sie hierzu
+ggf. die DatenschutzerklÃ¤rung des Werbepartners.
+
+PONS verwendet zur Anzeige von Werbung AdDefend, einen Dienst der AdDefend
+GmbH, Borselstrasse 3, 22765 Hamburg. Dieser Dienst nutzt Cookies, um
+festzustellen, ob Sie eine Webseite schon einmal besucht haben. Sie kÃ¶nnen
+der Verwendung dieser Cookies durch AdDefend jederzeit widersprechen, indem
+Sie eine E-Mail an privacy@addefend.com senden.
+
+Einsatz von Google
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+("Google"). Google Analytics verwendet sog. "Cookies", Textdateien, die auf
+Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermÃ¶glichen.
+
+Die durch den Cookie erzeugten Informationen Ã¼ber Ihre Benutzung dieser
+Website werden in der Regel an einen Server von Google in den USA Ã¼bertragen
+und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf
+dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von
+Mitgliedstaaten der EuropÃ¤ischen Union oder in anderen Vertragsstaaten des
+Abkommens Ã¼ber den EuropÃ¤ischen Wirtschaftsraum zuvor gekÃ¼rzt. Nur in
+AusnahmefÃ¤llen wird die volle IP-Adresse an einen Server von Google in den
+USA Ã¼bertragen und dort gekÃ¼rzt. Im Auftrag des Betreibers dieser Website
+wird Google diese Informationen benutzen, um Ihre Nutzung der Website
+auszuwerten, um Reports Ã¼ber die WebsiteaktivitÃ¤ten zusammenzustellen und um
+weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen gegenÃ¼ber dem Websitebetreiber zu erbringen. Die im Rahmen
+von Google Analytics von Ihrem Browser Ã¼bermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengefÃ¼hrt.
+
+Sie kÃ¶nnen die Speicherung der Cookies durch eine entsprechende Einstellung
+Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie
+in diesem Fall gegebenenfalls nicht sÃ¤mtliche Funktionen dieser Website
+vollumfÃ¤nglich werden nutzen kÃ¶nnen. Sie kÃ¶nnen darÃ¼ber hinaus die
+Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website
+bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung
+dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link
+(http://tools.google.com/dlpage/gaoptout?hl=de) verfÃ¼gbare Browser-Plugin
+herunterladen und installieren.
+
+NÃ¤here Informationen hierzu finden Sie unter
+http://tools.google.com/dlpage/gaoptout?hl=de  bzw. unter
+http://www.google.com/intl/de/analytics/privacyoverview.html (allgemeine
+Informationen zu Google Analytics und Datenschutz).
+
+Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um den
+Code "gat._anonymizeIp();" erweitert wurde, um eine anonymisierte Erfassung
+von IP-Adressen (sog. IP-Masking) zu gewÃ¤hrleisten.
+
+Messung der IVW und AGOF
+
+Das Skalierbare Zentrale Messsystem (SZM) dient der Ermittlung statistischer
+Kennwerte zur Nutzung einer Internetseite oder App sowie zur Ermittlung von
+anonymen Nutzungsprofilen. Dabei werden ausschlieÃlich anonyme Messwerte
+erhoben. Ziel der Messung ist es, die Nutzung von Webseiten statistisch
+auszuwerten. Erfasst wird dadurch die Eignung und LeistungsfÃ¤higkeit eines
+Internetangebots als WerbetrÃ¤ger. Diese Informationen werden in der
+Marktforschung und Mediaplanung verwendet. Zu keinem Zeitpunkt werden einzelne
+Nutzer identifiziert. IP-Adressen werden vor jeder Verarbeitung gekÃ¼rzt, so
+dass die Identifizierung eines individuellen Websitebesuchers nicht mÃ¶glich
+ist. Die SZM-Messung ist auch nicht mit Werbeeinblendungen oder einer
+Kontaktaufnahme mit dem Internetnutzer verbunden.
+
+Im Interesse eines individuellen Informations-Managements ist es uns wichtig,
+gleichwohl allen Internetnutzern die MÃ¶glichkeit zu geben, der SZM-Messung
+durch das Setzen eines Opt-Out-Cookies zu widersprechen.
+
+Wenn Sie einen Opt-Out-Cookie setzen mÃ¶chten, klicken Sie bitte  hier.
+
+Bearbeitung oder LÃ¶schung von persÃ¶nlichen Daten Ihres Accounts
+
+Sie haben das Recht, die zu Ihrer Person gespeicherten persÃ¶nlichen Daten und
+Einstellungen Ihres Accounts jederzeit einzusehen und diese zu korrigieren, zu
+ergÃ¤nzen oder zu lÃ¶schen (vgl. Abschnitt "Verantwortliche Stelle,
+Kontaktadresse").
+
+Links
+
+Sofern wir auf unseren Internetseiten unter www.pons.com mit Hilfe von Links
+auf Internetseiten verweisen, die nicht von uns betrieben werden, sind wir
+fÃ¼r die Einhaltung von Datenschutzbestimmungen auf diesen Internetseiten
+nicht verantwortlich.
+
+Sicherheit
+
+PONS ist bemÃ¼ht, Ihre Daten vor unbefugtem Zugriff, Verlust, Missbrauch, oder
+ZerstÃ¶rung zu schÃ¼tzen. Ihre persÃ¶nlichen Daten sind nur solchen
+Mitarbeitern zugÃ¤nglich, welche notwendigerweise Einsicht in Ihre Daten haben
+mÃ¼ssen, um ihre TÃ¤tigkeit ordnungsgemÃ¤Ã ausÃ¼ben und Ihnen die PONS
+Angebote und Produkte bestmÃ¶glich anbieten zu kÃ¶nnen. AuÃerdem ergreift
+PONS zum Schutz Ihrer persÃ¶nlichen Daten verfahrenstechnische und
+elektronische SchutzmaÃnahmen.
+
+Ãnderungen dieser DatenschutzerklÃ¤rung
+
+PONS wird diese DatenschutzerklÃ¤rung ggf. entsprechend kÃ¼nftigen Ãnderungen
+in der Verwendung personenbezogener Daten anpassen. Sie sollten daher bei
+Ihren Besuchen unserer Internetseiten unter www.pons.de unsere
+DatenschutzerklÃ¤rung regelmÃ¤Ãig durchsehen.
+
+Personenbezogene Daten, die zwischen Ihnen und uns Ã¼ber unsere Internetseiten
+unter www.pons.de ausgetauscht werden, werden grundsÃ¤tzlich Ã¼ber
+verschlÃ¼sselte Verbindungen Ã¼bertragen, die dem aktuellen Stand der Technik
+entsprechen. Zudem treffen wir technische und organisatorische
+Sicherheitsvorkehrungen, um Ihre durch uns verwalteten personenbezogenen Daten
+gegen zufÃ¤llige oder vorsÃ¤tzliche Manipulationen, Verlust, ZerstÃ¶rung oder
+gegen den Zugriff unberechtigter Personen zu schÃ¼tzen. Unsere
+Datenverarbeitung und unsere SicherheitsmaÃnahmen werden entsprechend der
+technologischen Entwicklung fortlaufend verbessert. Bitte beachten Sie jedoch,
+dass bei einer Kommunikation per E-Mail die vollstÃ¤ndige Datensicherheit von
+uns nicht gewÃ¤hrleistet werden kann, so dass wir Ihnen bei vertraulichen
+Informationen den Postweg empfehlen.
+
+Unsere BeschÃ¤ftigten sind selbstverstÃ¤ndlich nach Â§ 5 BDSG auf das
+Datengeheimnis verpflichtet.
+
+Aufbewahrung von Daten
+
+Ihre Daten werden selbstverstÃ¤ndlich nur solange aufbewahrt, wie dies fÃ¼r
+die Erbringung unserer Leistungen erforderlich ist bzw. eine Aufbewahrung
+erlaubt ist.
+
+Auskunft und Widerruf von Einwilligungen
+
+Wir erteilen Ihnen jederzeit gern unentgeltlich und unverzÃ¼glich Auskunft
+Ã¼ber die zu Ihrer Person gespeicherten Daten. Auch wenn Sie die Berichtigung,
+Sperrung oder LÃ¶schung Ihrer Daten wÃ¼nschen oder im Falle von Fragen oder
+Anregungen zum Thema Datenschutz stehen wir Ihnen gern zur VerfÃ¼gung. Ggfs.
+erteilte Einwilligungen zur Erhebung, Verarbeitung und/oder Nutzung Ihrer
+personenbezogenen Daten kÃ¶nnen Sie jederzeit mit Wirkung fÃ¼r die Zukunft
+widerrufen. Bitte wenden Sie sich in allen diesen FÃ¤llen an die PONS GmbH,
+StockachstraÃe 11, 70190 Stuttgart.
+
+Zuletzt geÃ¤ndert: Mittwoch, 04. April 2017
+
+
+
+  
+  
+  
+[Schließen]
+

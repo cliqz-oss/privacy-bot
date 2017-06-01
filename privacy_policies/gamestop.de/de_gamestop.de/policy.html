@@ -1,0 +1,765 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns#">
+    <head>
+        <title>Datenschutzrichtlinien</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"dce5d3bafd","applicationID":"2329446","transactionName":"NlUDN0FUXUVZWhdRWw8fLDVwGmNEV1QMe1sPRBMMX1lWRBdqE11XCFEN","queueTime":0,"applicationTime":14,"agent":"","atts":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1">
+        <meta name="description" />
+        <meta name="keywords" />
+        <link rel="icon" href='/Views/Locale/content/favicon.ico' />
+        <link href="/Content/coreStyles?v=eaD7AU3x215IqIeSADLLcogjgMuGU1yJUMVL-roLwlE1" rel="stylesheet"/>
+
+
+                                                                
+<link href="/Locale/Styles?v=V6lV1D4rOuFobjJKgGaPtWIORrSa8hcMd5O02zlZ4Zw1" rel="stylesheet"/>
+
+
+<style type="text/css">
+	*[data-showonly] { display: none; }
+	*[data-showonly=de] { display: initial; }
+</style>
+
+
+
+
+    <meta name="com.silverpop.brandeddomains" content="www.gamestop.at,www.ebgames.ca,www.gamestop.ch,www.gamestop.de,www.gamestop.dk,www.gamestop.fi,www.gamestop.ie,www.gamestop.it,www.gamestop.no,www.gamestop.se,www.gamestop.co.uk" />
+
+    </head>
+
+        <body>
+    
+        <div class="navBarMessage">
+            <p class="errorMessage"><span></span></p>
+        </div>
+
+        <div class="navBar">
+            <div class="navBarUp">
+                <div class="navBarIn">
+                        <a class="navLogo" href='/Home/Index'></a>
+                            <div class="cart" id="cartTarget"></div>
+                    <div class="navBarOv">
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="headBar">
+
+            <div class="head1">
+                <a href='/Home/Index'><img alt="Datenschutzrichtlinien" src='/Views/Locale/Content/Images/logo.png'/></a>
+            </div>
+            
+                <div class='loyaltyProfileBox'></div>
+            <div class="quickSearch" id="quickSearchDisplay">
+                
+<form name="quickInputContainer" class="quickInputContainer" action="/SearchResult/QuickSearch"   onsubmit="return ewt.trackFormSubmit({name:'search',type:'form',form:this});" >
+    <p>Suche</p>
+    <input type="text" name="q" class="quickSearchInput" data-autocomplete-source='/QuickSearch/LoadAutocomplete' min-length='3' delay='1000' />
+
+    <a href="#" onclick="document.quickInputContainer.submit();" class="bigButton"><span><em>&nbsp;</em></span></a>
+    <div class="qSpinner"></div>
+    <br class="clearingElement" />
+</form>
+
+<p class="added">Findest Du nicht das was Du suchst? Probier es mit der <a href="/AdvancedSearch/Index">Erweiterte Suche</a></p>
+            </div>    
+
+
+        </div>
+
+
+<div class="platformBar"> 
+    <div class="platMenuMobile"><a href="#">Plattform</a></div>
+    <ul id="menu">
+            <li class='Playstation4'>
+                <a href="/PS4/Index" class="platButton">PS4</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=89"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='Playstation3'>
+                <a href="/PS3/Index" class="platButton">PS3</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=67"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='XboxOne'>
+                <a href="/Xbox%20One/Index" class="platButton">Xbox One</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=90"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='Xbox360'>
+                <a href="/Xbox%20360/Index" class="platButton">Xbox 360</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=65"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='Switch red'>
+                <a href="/Switch/Index" class="platButton">Switch</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=99"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='WiiU'>
+                <a href="/Wii%20U/Index" class="platButton">Wii U</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=82"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='Wii'>
+                <a href="/Wii/Index" class="platButton">Wii</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=66"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='Nintendo3DS'>
+                <a href="/3DS/Index" class="platButton">3DS</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=79"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='PSVita'>
+                <a href="/PS%20Vita/Index" class="platButton">PS Vita</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=80"><span>Alles anzeigen</span></a>
+            </li>
+            <li class='PC'>
+                <a href="/PC/Index" class="platButton">PC</a>
+                <a class="medButton mobBut" href="/SearchResult/QuickSearchHeaderPlatform?platform=68"><span>Alles anzeigen</span></a>
+            </li>
+        <li class="zingpopculture">
+<a class="platButton" href="/zing-pop-culture">ZiNG Pop Culture</a>
+<div class="platformPopup" style="display:none;">
+    <div class="platformPopupBody"> 
+        <div class="platformPopupColumn">
+          <h3>Fan-Artikel</h3>
+            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" height="75px" width="170px" viewBox="0 0 595.3 268.5" style="enable-background:new 0 0 595.3 268.5; margin-top:5px;" xml:space="preserve">
+            <style type="text/css">
+                .st0{fill:#50b848;}
+            </style>
+            <path class="st0" d="M400.7,41.8c0.1,0.1,0.3,0.1,0.5,0.1l0.4-0.1l1.3-1.1c1.7-1.2,2.9-2.5,3.7-3.9c0.7-1.4,0.9-2.8,0.4-4.3
+                c-0.1-0.3-0.3-0.7-0.6-1.3c-0.3-0.6-0.6-1.2-1-1.9c-0.4-0.7-0.8-1.4-1.3-2.1s-1-1.3-1.5-1.9s-1-1-1.5-1.3s-1-0.4-1.4-0.3
+                c0,0-0.2,0.1-0.4,0.3c-0.3,0.2-0.6,0.3-0.9,0.5c-0.4,0.2-0.6,0.3-0.6,0.4c-0.2,0.2-0.3,0.7-0.3,1.5s0.1,1.6,0.3,2.7
+                c0.2,1,0.4,2.1,0.6,3.3c0.3,1.2,0.5,2.3,0.8,3.4c0.3,1.1,0.5,2.1,0.8,3s0.4,1.5,0.6,1.9c0,0.1,0.1,0.2,0.2,0.5
+                C400.5,41.5,400.6,41.7,400.7,41.8 M398.1,53.1l-0.3-0.9l-0.3-0.8c-0.1-0.3-0.3-0.7-0.5-1.4c-0.2-0.6-0.5-1.5-0.9-2.6l-1.5-4.3
+                c-0.2-0.6-0.4-1.1-0.5-1.6c-0.2-0.5-0.3-0.9-0.4-1.1l-0.2-0.7c-0.1-0.3-0.3-0.8-0.5-1.6c-0.2-0.7-0.4-1.5-0.6-2.5
+                c-0.2-0.9-0.4-1.9-0.7-2.9c-0.3-1-0.5-2-0.7-2.9s-0.4-1.7-0.6-2.5c-0.2-0.7-0.3-1.3-0.4-1.6c0-0.1,0.1-0.3,0.1-0.6
+                c0-0.2,0.1-0.5,0.2-0.7s0.2-0.4,0.3-0.6c0.1-0.2,0.3-0.3,0.6-0.4c0.3-0.1,0.6-0.1,0.8-0.1c0.3,0,0.5,0.1,0.7,0.2s0.4,0.2,0.6,0.2
+                c0.2,0.1,0.4,0.1,0.7,0c0.5-0.2,0.9-0.4,1.3-0.8c0.4-0.3,0.8-0.7,1.1-1.1c0.4-0.4,0.8-0.7,1.3-1.1c0.4-0.3,0.9-0.6,1.5-0.8
+                c1.2-0.4,2.4-0.6,3.4-0.5c1.1,0.1,2,0.4,2.9,0.9s1.7,1.1,2.4,1.8c0.7,0.7,1.3,1.5,1.9,2.3c0.5,0.8,1,1.6,1.4,2.4s0.6,1.5,0.9,2.1
+                c0.5,1.3,0.5,2.7,0,4.1c-0.4,1.4-1.1,2.8-2.1,4.2s-2.2,2.6-3.5,3.9c-1.4,1.2-2.7,2.3-4.1,3.3l-0.2,1.6l0.9,2.8
+                c0.3,0.9,0.7,1.8,1.1,2.8c0.4,0.9,0.9,1.8,1.6,2.7c-0.1,0.3-0.2,0.7-0.4,1.1c-0.2,0.4-0.7,0.7-1.4,1c-1,0.3-1.8,0.4-2.4,0.2
+                s-1.2-0.5-1.7-0.9s-0.9-0.9-1.2-1.5C398.6,54.2,398.3,53.6,398.1,53.1"/>
+            <path class="st0" d="M421,31.5c0,0.5,0,1,0,1.5s0.1,1.1,0.1,1.6c0.2,1.3,0.4,2.6,0.8,3.9c0.4,1.3,0.8,2.6,1.4,3.7
+                c0.6,1.1,1.2,2,1.9,2.6c0.7,0.7,1.5,0.9,2.3,0.8c0.8-0.1,1.6-0.4,2.2-1c0.6-0.5,1.2-1.2,1.7-2s0.9-1.7,1.2-2.6
+                c0.3-1,0.6-1.9,0.8-2.8c0.2-0.9,0.3-1.7,0.4-2.5s0.1-1.4,0-1.9c0-0.3-0.2-0.8-0.3-1.6c-0.2-0.8-0.4-1.7-0.7-2.6c-0.3-1-0.6-2-1-3.1
+                s-0.8-2-1.3-2.9s-1-1.6-1.6-2.1s-1.2-0.7-1.9-0.7c-0.8,0.1-1.4,0.2-1.8,0.5c-0.5,0.2-0.9,0.5-1.2,0.8c-0.3,0.3-0.6,0.6-0.8,0.9
+                c-0.2,0.3-0.4,0.6-0.5,0.9l-0.1,0.2c-0.2,0.4-0.4,1-0.6,1.9c-0.2,0.8-0.4,1.7-0.5,2.5c-0.1,0.9-0.3,1.7-0.3,2.4
+                C421.1,30.8,421,31.3,421,31.5 M414.5,37.9l-0.3-2.3c-0.2-2-0.2-4.1,0-6.2c0.3-2.1,0.8-4.2,1.8-6c0.9-1.9,2.2-3.5,3.9-4.8
+                c1.6-1.3,3.8-2.2,6.3-2.6h0.3c1.4-0.2,2.6,0,3.8,0.4c1.2,0.4,2.2,1.1,3.2,1.9c0.9,0.8,1.8,1.8,2.6,3c0.8,1.1,1.4,2.3,2,3.4
+                c0.5,1.2,1,2.4,1.3,3.5c0.3,1.2,0.6,2.2,0.7,3.1c0.1,1,0.1,2.1,0,3.4c-0.1,1.2-0.4,2.5-0.8,3.7c-0.4,1.3-1,2.5-1.6,3.7
+                c-0.7,1.2-1.5,2.3-2.5,3.3s-2.2,1.8-3.5,2.5c-1.4,0.7-2.9,1.1-4.6,1.3l-0.4,0.1c-1.3,0.1-2.6-0.2-4-0.9c-1.3-0.7-2.6-1.7-3.7-2.9
+                s-2.1-2.4-2.9-3.8C415.1,40.3,414.6,39,414.5,37.9"/>
+            <path class="st0" d="M448.9,34.7c0.1,0.1,0.2,0.2,0.4,0.3h0.4l1.6-0.4c2.1-0.4,3.7-1,5-1.9c1.2-0.9,2-2.2,2.1-3.8c0-0.3,0-0.8,0-1.4
+                s-0.1-1.4-0.1-2.1c-0.1-0.8-0.2-1.6-0.3-2.5c-0.2-0.8-0.4-1.6-0.6-2.4c-0.2-0.7-0.5-1.3-0.9-1.8c-0.3-0.5-0.7-0.8-1.2-0.9
+                c0,0-0.2,0-0.5,0.1c-0.3,0-0.7,0.1-1,0.1c-0.4,0-0.6,0.1-0.7,0.1c-0.3,0.1-0.6,0.5-0.9,1.2s-0.6,1.5-0.9,2.5s-0.6,2.1-0.8,3.3
+                c-0.3,1.2-0.5,2.3-0.7,3.4s-0.4,2.1-0.6,3c-0.2,0.9-0.2,1.5-0.3,1.9c0,0.1,0,0.3,0,0.5C448.9,34.3,448.9,34.5,448.9,34.7
+                 M441.8,43.9l0.1-0.9l0.1-0.8c0-0.3,0.1-0.8,0.1-1.4c0.1-0.6,0.1-1.6,0.3-2.7l0.5-4.5c0.1-0.6,0.1-1.2,0.2-1.7s0.1-0.9,0.2-1.2
+                l0.1-0.7c0-0.3,0.1-0.9,0.3-1.6c0.1-0.7,0.3-1.6,0.5-2.5s0.4-1.9,0.6-2.9s0.4-2,0.6-2.9s0.4-1.8,0.5-2.5s0.3-1.3,0.3-1.6
+                c0.1-0.1,0.2-0.2,0.4-0.4c0.1-0.2,0.3-0.4,0.4-0.6c0.2-0.2,0.3-0.3,0.6-0.4c0.2-0.1,0.4-0.2,0.7-0.1c0.3,0,0.6,0.1,0.8,0.3
+                c0.2,0.1,0.4,0.3,0.5,0.5c0.2,0.2,0.3,0.4,0.5,0.5s0.4,0.2,0.6,0.3c0.5,0.1,1,0,1.5-0.1s1-0.3,1.5-0.5s1-0.3,1.6-0.5
+                c0.5-0.1,1.1-0.2,1.7-0.1c1.3,0.1,2.4,0.5,3.3,1s1.7,1.2,2.2,2c0.6,0.8,1.1,1.7,1.4,2.6c0.3,1,0.6,1.9,0.7,2.9s0.2,1.9,0.2,2.8
+                s0,1.7-0.1,2.3c-0.1,1.4-0.7,2.7-1.7,3.8c-1,1.1-2.2,2.1-3.7,2.9c-1.5,0.8-3.1,1.5-4.8,2c-1.8,0.5-3.5,0.9-5.1,1.2l-0.8,1.4
+                l-0.3,2.9c-0.1,1-0.2,2-0.2,3c-0.1,1,0.1,2.1,0.3,3.1c-0.2,0.3-0.5,0.6-0.9,0.9c-0.4,0.3-0.9,0.4-1.6,0.3c-1-0.1-1.8-0.4-2.3-0.8
+                c-0.5-0.4-0.9-0.9-1.1-1.5c-0.3-0.6-0.4-1.2-0.4-1.8C441.8,45,441.7,44.4,441.8,43.9"/>
+            <path class="st0" d="M486.2,60.3c-0.6-0.1-1.3-0.5-2.3-0.9c-1.6-0.8-3-1.8-4.1-2.9c-1.1-1.2-1.9-2.6-2.3-4.4
+                c-0.4-1.7-0.4-3.8,0.1-6.2c0.4-2.4,1.4-5.2,2.9-8.4l0.1-0.2c0.7-1.6,1.7-3.1,2.9-4.5c1.2-1.5,2.6-2.7,4.2-3.7s3.3-1.7,5.2-2
+                c1.9-0.4,3.9-0.2,6.1,0.4c0.6,0.2,1.3,0.5,1.9,0.8c1.1,0.5,2,1.1,2.8,1.9s1.4,1.6,1.9,2.5c0.5,0.9,0.8,1.8,1,2.7
+                c0.1,0.9,0.1,1.8-0.1,2.7c0,0.2-0.1,0.6-0.4,1.3l-3.4,1.4l-0.9-0.3c0.1-0.4,0.2-0.8,0.3-1.1c0.1-0.3,0.2-0.6,0.3-0.8
+                c0.2-0.5,0.4-1.1,0.6-1.9c0.1-0.4,0.1-0.9,0-1.5c-0.1-0.5-0.2-1-0.5-1.6c-0.2-0.5-0.6-1-1-1.4c-0.4-0.4-0.9-0.8-1.5-1.1
+                c-0.1,0-0.2-0.1-0.3-0.1c-0.1-0.1-0.3-0.1-0.6-0.2c-0.9-0.3-1.7-0.3-2.6,0c-0.9,0.2-1.7,0.7-2.6,1.3s-1.7,1.4-2.5,2.3
+                c-0.8,0.9-1.6,1.9-2.4,3s-1.5,2.2-2.1,3.4c-0.7,1.2-1.3,2.3-1.8,3.4c-0.6,1.3-1,2.5-1.3,3.7c-0.2,1.1-0.4,2.1-0.5,2.8v0.4
+                c-0.2,1.3-0.1,2.5,0.3,3.7c0.4,1.1,1.4,2.1,2.8,2.8l0.3,0.2c-0.1,0-0.1-0.1-0.1-0.1c0.1,0,0.2,0,0.4,0.1c1.1,0.3,2.1,0.4,2.8,0.3
+                c0.8-0.1,1.4-0.4,1.9-0.8c0.5-0.4,1-0.9,1.4-1.4s0.8-1,1.3-1.4v-0.1c0.1-0.1,0.1-0.2,0.1-0.3l1-2c0.3-0.7,0.7-1.3,1-1.8
+                c0.3-0.4,0.7-0.6,1.4-0.5c0.6,0,1.2,0.1,1.7,0.3c-0.1,0.7-0.3,1.5-0.6,2.3c-0.3,0.8-0.6,1.6-1,2.4c-0.5,1-1.1,2-1.8,2.9
+                c-0.7,0.9-1.6,1.6-2.6,2.2c-1,0.6-2.1,0.9-3.4,1.1C489.3,60.9,487.8,60.8,486.2,60.3"/>
+            <path class="st0" d="M503.9,52.2c1.6-2.1,3.4-3.9,5.3-5.5s3.9-3.2,6.1-4.8c0.3-0.2,0.6-0.4,0.9-0.6c0.3-0.2,0.7-0.2,1.1,0l1.4,1.1
+                c0.7,0.6,1.3,1.2,1.7,1.8s0.4,1.2,0,1.8c-0.1,0.1-0.2,0.2-0.4,0.3s-0.3,0.2-0.3,0.3l-10.2,9l-1.8,2.3l-0.4,0.6l-0.7,0.9
+                c-0.4,0.6-0.9,1.2-1.4,1.9s-0.8,1.4-1,2.2c-0.2,0.7-0.3,1.5-0.1,2.2c0.2,0.7,0.6,1.4,1.4,2.1c0.9,0.7,1.7,1,2.6,1.1
+                c0.9,0,1.7-0.1,2.5-0.5c0.8-0.3,1.5-0.8,2.2-1.3s1.2-1,1.6-1.4c1-0.9,1.8-1.7,2.5-2.4c0.6-0.7,1.3-1.5,2-2.3l3.1-3.8
+                c0.4-0.5,0.7-0.9,1-1.3c0.3-0.4,0.6-0.8,0.9-1.2c0.3-0.4,0.5-0.8,0.8-1.3s0.6-1,1-1.5l2-3.7c0,0,0.1-0.1,0.2-0.3
+                c0.1-0.2,0.2-0.3,0.2-0.3l0.5-0.6l2.1,1.1l0.3,0.3c0.2,0.1,0.2,0.3,0.2,0.5c-0.1,0.5-0.3,1.1-0.6,1.8c-0.3,0.6-0.6,1.2-0.9,1.9
+                c-0.3,0.6-0.6,1.2-1,1.7c-0.3,0.5-0.6,1-0.9,1.3L518.6,67c-0.7,0.9-1.7,1.8-2.9,2.6c-1.2,0.8-2.6,1.5-4,1.9c-1.5,0.4-3,0.5-4.6,0.3
+                s-3.2-0.9-4.6-2.1c-1.2-1-2.1-2-2.7-3s-0.9-2.1-0.9-3.1c-0.1-1,0.1-2,0.4-3s0.7-2,1.2-2.9s1.1-1.8,1.7-2.6s1.1-1.5,1.7-2.1
+                L503.9,52.2z"/>
+            <path class="st0" d="M528.8,62.1l6.9-4.7c0.2-0.2,0.5-0.3,0.8-0.4c0.3-0.1,0.5-0.2,0.8-0.2s0.5,0,0.8,0.1s0.6,0.4,0.9,0.7
+                c0.4,0.5,0.8,1,1.2,1.5s0.6,1,0.8,1.5s0.3,0.9,0.2,1.3c0,0.4-0.2,0.8-0.6,1.1l-1.3,0.7l-16.7,11.7c-0.1,0.1-0.2,0.3-0.5,0.6
+                c-0.3,0.3-0.6,0.7-0.9,1.1c-0.4,0.4-0.7,0.8-1,1.2c-0.3,0.4-0.6,0.7-0.7,1c-0.2,0.3-0.3,0.6-0.4,0.8c-0.1,0.2-0.2,0.3-0.2,0.4
+                s0.1,0.3,0.1,0.4c0.1,0.1,0.2,0.3,0.5,0.6l0.2,0.2c0.2,0.2,0.4,0.4,0.6,0.8c0.2,0.3,0.4,0.6,0.5,0.8l3.6,4.8c0.1,0.2,0.2,0.4,0,0.5
+                c-0.1,0.1-0.2,0.3-0.4,0.4c-0.4,0.4-0.9,0.2-1.5-0.3c-1-0.8-1.9-1.7-2.7-2.4c-0.8-0.8-1.7-1.6-2.8-2.4c-0.6-0.5-1.3-0.9-1.9-1.1
+                c-0.7-0.3-1.2-0.7-1.7-1.3c-0.4-0.4-0.5-1.1-0.2-1.8c0.2-0.8,0.7-1.6,1.3-2.7c0.6-1,1.5-2.1,2.5-3.3c1-1.2,2.2-2.4,3.4-3.7
+                c1.2-1.3,2.6-2.6,4-3.9C525.9,64.7,527.3,63.4,528.8,62.1"/>
+            <path class="st0" d="M549.3,78.5l0.1-0.6c-0.1-0.3-0.4-0.8-0.7-1.4c-0.4-0.7-0.7-1.4-1-2.1s-0.5-1.4-0.7-2.1c-0.1-0.6,0-1,0.3-1.2
+                s0.5-0.2,0.7-0.2s0.5,0.3,1,0.6c1.2,1.5,2.2,2.9,3.1,4.2c0.8,1.3,1.7,2.7,2.5,4.2l1.7,3l1.8,3.2c0.4,0.7,0.8,1.4,1.1,1.9
+                c0.3,0.6,0.5,1,0.7,1.2c0,0.1,0.1,0.4,0.3,0.7c0.2,0.3,0.3,0.7,0.5,1.1s0.3,0.8,0.3,1.1c0.1,0.3,0,0.6-0.2,0.7
+                c-0.4,0.2-0.8,0.1-1.2-0.2c-0.4-0.3-0.9-0.8-1.4-1.4s-1-1.3-1.5-2c-0.5-0.8-1-1.5-1.4-2.2c-0.5-0.7-0.9-1.4-1.3-1.9
+                c-0.4-0.6-0.7-0.9-1-1.1l-0.4-0.3L542.4,89c-2.6,1.5-5,2.9-7.3,4.4s-4.7,2.9-7.2,4.4l-1.4,0.8c-0.1-0.1-0.3-0.3-0.6-0.7
+                c-0.3-0.4-0.5-0.7-0.6-0.9l0,0c-0.5-0.8-0.6-1.6-0.4-2.3c0.2-0.7,0.5-1.3,0.9-1.9c0.5-0.5,1-1,1.5-1.4c0.6-0.4,1-0.7,1.3-0.8
+                c2.4-1.6,4.6-3,6.8-4.4c2.1-1.4,4.4-2.7,6.6-4c1-0.6,2.1-1.2,3.2-1.8C546.4,80,547.7,79.3,549.3,78.5"/>
+            <path class="st0" d="M544.9,100.9c2.5-0.8,5-1.4,7.4-1.7c2.5-0.3,5-0.6,7.7-0.8c0.4,0,0.7,0,1.1,0c0.3,0,0.7,0.2,1,0.6l0.6,1.7
+                c0.3,0.9,0.4,1.7,0.5,2.4c0,0.8-0.3,1.2-1,1.5c-0.1,0-0.3,0.1-0.5,0.1s-0.4,0-0.4,0.1l-13.4,2.1l-2.8,0.9l-0.7,0.2l-1.1,0.4
+                c-0.7,0.2-1.4,0.5-2.2,0.9s-1.4,0.8-2,1.3s-1,1.1-1.3,1.8c-0.3,0.7-0.3,1.5,0.1,2.5c0.4,1.1,0.9,1.8,1.6,2.3
+                c0.7,0.5,1.5,0.8,2.4,0.9s1.7,0.1,2.6,0c0.9-0.1,1.6-0.2,2.1-0.3c1.3-0.2,2.5-0.5,3.4-0.7c0.9-0.3,1.9-0.6,2.9-0.9l4.6-1.6
+                c0.6-0.2,1.1-0.4,1.5-0.5c0.4-0.2,0.9-0.4,1.3-0.5c0.5-0.2,0.9-0.4,1.4-0.6s1-0.5,1.6-0.8l3.6-2c0,0,0.1,0,0.3-0.1s0.3-0.1,0.4-0.1
+                l0.8-0.2l1.2,2.1l0.1,0.4c0.1,0.2,0,0.4-0.1,0.5c-0.4,0.4-0.9,0.8-1.4,1.2c-0.6,0.4-1.1,0.8-1.7,1.1c-0.6,0.3-1.2,0.7-1.8,0.9
+                c-0.6,0.3-1,0.5-1.4,0.6l-13.9,4.7c-1.1,0.4-2.4,0.6-3.8,0.6c-1.5,0.1-3-0.1-4.4-0.6c-1.5-0.4-2.8-1.2-4.1-2.2
+                c-1.2-1.1-2.2-2.5-2.8-4.3c-0.5-1.5-0.7-2.8-0.6-4c0.1-1.2,0.4-2.2,0.9-3.1s1.1-1.7,1.9-2.4c0.8-0.7,1.7-1.3,2.6-1.8
+                c0.9-0.5,1.9-0.9,2.8-1.3c0.9-0.4,1.8-0.7,2.5-0.9L544.9,100.9z"/>
+            <path class="st0" d="M553.3,130.7h-0.2c-0.3,0-0.4,0.2-0.3,0.5v0.4c0.1,1,0.4,1.9,0.9,2.8c0.5,0.9,1,1.6,1.7,2.3
+                c0.6,0.7,1.3,1.2,2.1,1.5c0.7,0.4,1.4,0.5,2,0.4c1.9-0.2,3.7-0.8,5.4-1.9c1.7-1.1,3.3-2.3,4.8-3.7v-0.4c-0.1-0.1-0.1-0.3-0.2-0.6
+                c0-0.2-0.1-0.5-0.1-0.7c-0.1-0.2-0.1-0.4-0.2-0.6c0-0.2-0.1-0.2-0.1-0.2c0-0.1-0.3-0.2-0.9-0.3c-0.5-0.1-1.2-0.1-2.1-0.1
+                c-0.8,0-1.8-0.1-2.8-0.1s-2,0-3,0.1s-1.8,0.1-2.7,0.1c-0.8,0-1.4,0.1-1.9,0.1L553.3,130.7z M549.4,131.8v-0.1c0-0.2,0-0.3-0.1-0.4
+                c0-0.1-0.2-0.2-0.3-0.4l-3.2,0.3c-1.2,0.1-2.3,0.3-3.4,0.6c-1.1,0.2-2.3,0.4-3.4,0.6c-0.4,0-0.7-0.2-1-0.6c-0.3-0.4-0.4-0.9-0.5-1.4
+                c-0.1-0.6,0-1.2,0.1-1.7c0.1-0.6,0.3-1.1,0.6-1.5s0.6-0.8,1-1.1c0.4-0.3,0.8-0.5,1.3-0.5h0.1l28.5-1.7c0.3,0,0.7,0,1.1,0
+                c0.4,0,0.8,0.1,1.1,0.3c0.3,0.1,0.6,0.4,0.9,0.7c0.3,0.3,0.4,0.8,0.5,1.3v0.2c0,0-0.1,0.2-0.2,0.4c-0.1,0.2-0.3,0.5-0.5,0.8
+                s-0.3,0.5-0.3,0.5c0,0.1,0,0.2,0,0.3c0,0.4,0.1,0.7,0.3,1.1c0.2,0.4,0.4,0.9,0.6,1.3c0.2,0.4,0.4,0.9,0.6,1.3
+                c0.2,0.5,0.3,0.9,0.4,1.4c0.1,0.8,0.1,1.6,0.1,2.2c0,0.6-0.1,1.2-0.3,1.7s-0.4,1-0.6,1.5c-0.3,0.5-0.6,0.9-1,1.4
+                c-0.2,0.2-0.6,0.4-1.2,0.7c-0.6,0.3-1.2,0.7-1.9,1c-0.6,0.4-1.3,0.7-1.8,1c-0.6,0.3-1,0.5-1.2,0.6c-0.7,0.4-1.3,0.7-1.7,0.9
+                s-0.9,0.3-1.5,0.4c-1.1,0.1-2.1,0-2.9-0.5c-0.9-0.4-1.7-1-2.4-1.8s-1.4-1.6-2.1-2.7c-0.7-1-1.4-2-2.1-3c0,0-0.2-0.2-0.3-0.6
+                c-0.2-0.3-0.3-0.5-0.4-0.5h-0.1c-0.1,0-0.3,0.3-0.7,1s-0.8,1.4-1.2,2.3c-0.4,0.9-0.9,1.7-1.3,2.6c-0.4,0.8-0.7,1.4-0.9,1.8
+                c-0.9,1.4-1.9,2.5-2.9,3.3c-1.1,0.8-2.3,1.3-3.6,1.4l-2,0.1c-0.2-0.3-0.4-0.7-0.7-1.1c-0.3-0.4-0.5-0.9-0.7-1.3
+                c-0.2-0.4-0.5-0.9-0.7-1.3c-0.2-0.4-0.3-0.7-0.4-0.9c0-0.2-0.1-0.3-0.1-0.4c0-0.5,0.1-0.8,0.3-0.9c0.3-0.1,0.5-0.3,0.7-0.4l5.7-2.6
+                c0.5-0.3,1.1-0.6,1.8-1.1s1.4-1,2.1-1.7c0.6-0.6,1.2-1.4,1.6-2.2C549.3,133.7,549.5,132.8,549.4,131.8"/>
+            <path class="st0" d="M539.4,150.8c3-0.8,5.8-1.3,8.5-1.4c2.7-0.1,5.6,0.1,8.5,0.4c1.3,0.1,2.6,0.3,3.9,0.6c1.2,0.2,2.4,0.5,3.7,0.8
+                c0.4,0.1,0.8,0.1,1.2,0.2c0.4,0.1,0.9,0.1,1.4,0.2c0.7,0.1,1.5,0.2,2.2,0.5c0.7,0.2,1.4,0.6,2,1s1.1,0.9,1.5,1.6
+                c0.4,0.7,0.7,1.5,0.8,2.4c0.1,0.4,0.1,1,0.1,1.8s0.1,1.6,0.1,2.4c0,0.8,0,1.5,0.1,2.2c0,0.6,0,1,0,1.2v0.3c0,0.1,0,0.3,0,0.4
+                c0,0.1,0,0.3,0,0.5l-0.1,0.4c0,0.3-0.1,0.7-0.1,1.3s-0.1,1.1-0.2,1.7c-0.1,0.6-0.3,1.1-0.5,1.5s-0.5,0.6-0.8,0.6
+                c-0.2,0-0.4-0.4-0.7-1c-0.2-0.7-0.4-1.4-0.6-2.3c-0.2-0.8-0.3-1.7-0.5-2.5c-0.1-0.8-0.2-1.4-0.2-1.7c0-0.1,0-0.3,0-0.7s0-0.7,0-1.1
+                c0-0.4,0-0.8-0.1-1.1c0-0.4,0-0.6,0-0.7c0,0-0.1-0.1-0.1-0.2c0-0.1-0.1-0.2-0.1-0.2c-0.1,0-0.4-0.1-0.8-0.3
+                c-0.4-0.2-0.7-0.3-0.9-0.3c-0.1,0-0.4-0.1-1-0.2c-0.6-0.1-1.3-0.3-2.1-0.5s-1.6-0.4-2.4-0.6c-0.8-0.2-1.4-0.3-1.9-0.4h-0.2h-0.2
+                l-0.3,0.4c0.2,0.9,0.3,1.7,0.3,2.4s0,1.4-0.1,2.1l-0.2,1.6l-0.1,0.6c0,0.2-0.1,0.4-0.1,0.7s-0.1,0.6-0.1,0.8l-0.1,0.5
+                c-0.2,0.4-0.4,0.7-0.6,0.9c-0.2,0.2-0.5,0.4-0.7,0.5c-0.5-0.7-0.8-1.5-1.1-2.3c-0.2-0.9-0.4-1.8-0.5-2.8s-0.1-2-0.1-3s0-2-0.1-2.9
+                l-0.7-0.1l-5.8-0.7l-0.4-0.1c-0.1,0-0.4,0-0.9,0s-1,0-1.5,0.1c-0.6,0-1.1,0-1.7,0.1c-0.6,0-1,0.1-1.3,0.1c-0.1,0-0.2,0-0.5,0.1
+                s-0.5,0.1-0.6,0.1l-0.6,0.3l-1.2,10.8c-0.1,0.5-0.2,0.8-0.5,0.9c-0.3,0.1-0.6,0.2-0.8,0.2c-0.3,0-0.6-0.3-0.8-0.8s-0.3-1.1-0.4-1.9
+                c-0.1-0.8-0.1-1.6-0.1-2.5s0-1.8,0-2.7c0-0.8,0-1.6,0-2.3s0-1.2-0.1-1.6c0-0.1-0.1-0.3-0.1-0.7c-0.1-0.4-0.2-0.8-0.2-1.2
+                c-0.1-0.4-0.2-0.8-0.2-1.2c-0.1-0.4-0.1-0.6-0.1-0.6c0-0.3,0-0.5,0-0.6c0.1-0.6,0.3-1.1,0.8-1.4C538.6,151.1,539,150.9,539.4,150.8"
+                />
+            <path class="st0" d="M511.5,146h-47.9c0,13.8-11.2,24.9-25,24.9s-24.9-11.2-24.9-25s11.2-24.9,24.9-24.9c1,0,1.9,0.1,2.9,0.2
+                c0.3,0,0.6,0.1,0.9,0.1c0.7,0.1,1.3,0.2,2,0.4c0.3,0.1,0.6,0.2,0.9,0.2c0.7,0.2,1.3,0.4,1.9,0.6c0.3,0.1,0.5,0.2,0.7,0.3
+                c0.8,0.3,1.6,0.7,2.4,1.1c0,0,0.1,0,0.1,0.1c0.9,0.5,1.7,1,2.5,1.5c0,0,0.1,0,0.1,0.1c0.7,0.5,1.4,1.1,2.1,1.7
+                c0.1,0.1,0.2,0.2,0.3,0.3c0.6,0.5,1.2,1.1,1.7,1.7c0.1,0.1,0.2,0.2,0.3,0.3c0.6,0.7,1.2,1.4,1.7,2.2l39.3-27.5
+                c-13.2-18.8-35-31.1-59.7-31.1c-25.4,0-47.7,13-60.8,32.6c0-10.2,0-20.4,0-30.8h-48v60.2L277,82.3c-9.8-9.8-25.7-9.8-36,0.5
+                c-4.8,4.8-7.3,11.1-7.5,17.3l0,0c0,0.2,0,0.4,0,0.6l0,0c0,39.4,0,78.9,0,118.3h48c0-20,0-39.9,0-59.9l52.8,52.8
+                c9.8,9.9,26,10.2,36,0.2c4.7-4.7,7.1-10.6,7.5-16.5h0.1c0-3.1,0-6.1,0-9.2c11.5,17.3,30.2,29.5,51.9,32.1
+                c14.4,0.8,21.3-1.6,28.8-4.7c-1.2,2.3-2.2,4.2-3.2,5.7l35,34.8c0,0,4.3-5.6,6-7.8c1.4-1.9,5.4-7.5,8.9-17.7
+                c3.3-9.7,6.3-23.5,6.3-42.1V148l0,0C511.4,147.2,511.5,146.6,511.5,146"/>
+            <path class="st0" d="M201.7,124.9c-13.6,0-24,10.9-24,23.9v22.6c-27.4,0-49.2,0-67.8,0l52.9-52.9c9.9-9.9,9.8-25.7-0.4-36
+                c-5.7-5.7-13.4-7.3-20.8-7.3H50.1c-13,0-23.9,10.4-23.9,23.6c0,13.6,10.9,24,23.9,24h36.3l-53,53c-9.9,9.8-10.2,26-0.2,36
+                c4.7,4.7,10.6,7.1,16.5,7.5v0.1h128.7l46.9,34.4v-105C225.3,135.8,214.9,124.9,201.7,124.9"/>
+            <path class="st0" d="M200.5,69.8c-13.8,0-25,11.2-24.9,25c0,13.8,11.2,25,24.9,25c13.8,0,25-11.2,25-25
+                C225.5,80.9,214.3,69.8,200.5,69.8"/>
+            </svg>
+        </div>
+
+        <div class="platformPopupColumn">
+          <h3>Franchise</h3>
+          <p><a href="/SearchResult/QuickSearch?q=Assassins+Creed&platform=92&inTitle=true">Assassin's Creed</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Attack+on+Titan&platform=92&inTitle=true">Attack on Titan</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Batman&platform=92&inTitle=true">Batman</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Call+of+Duty&platform=92&inTitle=true">Call of Duty</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Dragonball+Z&platform=92&inTitle=true">Dragonball Z</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Game+of+Thrones&platform=92&inTitle=true">Game of Thrones</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Harry+Potter&platform=92&inTitle=true">Harry Potter</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Mega+Man&platform=92&inTitle=true">Mega Man</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Metal+Gear&platform=92&inTitle=true">Metal Gear Solid</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Minecraft&platform=92&inTitle=true">Minecraft</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Naruto&platform=92&inTitle=true">Naruto</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=One+Piece&platform=92&inTitle=true">One Piece</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Pok%C3%A9mon&platform=92&inTitle=true">Pokémon</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Sonic&platform=92&inTitle=true">Sonic - The Hedgehog</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Star+Wars&platform=92&inTitle=true">Star Wars</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Street+Fighter&platform=92&inTitle=true">Street Fighter</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Superman&platform=92&inTitle=true">Superman</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Super+Mario&platform=92&inTitle=true">Super Mario</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Big+Bang+Theory&platform=92&inTitle=true">The Big Bang Theory</a></p>
+          <p><a href="/SearchResult/QuickSearch?q=Zelda&platform=92&inTitle=true">The Legend of Zelda</a></p>
+          <p class="popButton"> <a href="/SearchResult/QuickSearchHeaderPlatform?platform=92" class="medButton"><span>Alle anzeigen</span></a></p>
+        </div>
+        
+        <div class="platformPopupColumn">
+          <h3>Genre</h3>
+          <p><a href="/SearchResult/QuickSearchHeaderPlatform?platform=92&rootGenre=272">Accessories</a></p>
+          <p><a href="/SearchResult/QuickSearchHeaderPlatform?platform=92&rootGenre=301">Elektronik</a></p>
+          <p><a href="/SearchResult/QuickSearchHeaderPlatform?platform=92&rootGenre=281">Figuren</a></p>
+          <p><a href="/SearchResult/QuickSearchHeaderPlatform?platform=92&rootGenre=293">Gesellschaftsspiele</a></p>
+          <p><a href="/SearchResult/QuickSearchHeaderPlatform?platform=92&rootGenre=266">Kleidung</a></p>
+          <p><a href="/SearchResult/QuickSearchHeaderPlatform?platform=92&rootGenre=292">Lösungsbücher</a></p>
+          <p><a href="/SearchResult/QuickSearchHeaderPlatform?platform=92&rootGenre=289">Replika</a></p>
+          <p><a href="/SearchResult/QuickSearchHeaderPlatform?platform=92&rootGenre=298">Tassen & Gläser</a></p>
+          <p class="popButton"> <a href="/SearchResult/QuickSearchHeaderPlatform?platform=92" class="medButton"><span>Alle anzeigen</span></a></p>
+          <h3>Aktionen</h3>
+          <p><a href="/SearchResult/QuickSearch?platform=92&promotions=true">Sonderangebote</a></p>      
+          <p><a href="/SearchResult/QuickSearch?strokenPrice=Preissturz&variantType=1&platform=92&typeSorting=7&sDirection=Descending">Preisstürze</a></p>
+        </div>
+        
+    </div>
+</div>
+</li>
+
+<li class="used">
+<a class="platButton" href="/gebraucht-geprueft">Gebraucht</a>
+</li>
+
+<li class="tradein">
+<a class="platButton" href="/trade-in">Trade-in</a>
+</li>
+
+<li class="Other">
+<a class="platButton" href='#'>Weitere</a>
+<div class="platformPopup" style="display:none; width:191px;">
+  <div class="platformPopupBody">
+    <div class="platformPopupColumn">
+      <h3>Weitere</h3>
+      <p><a href="/at-play">@Play Zubehör</a></p>
+      <p><a href="/skylanders">Skylanders</a></p>
+      <p><a href="/DS">Nintendo DS</a></p>
+      <p><a href="/PSP">PSP</a></p>
+      <p><a href="/PS2">Playstation 2</a></p>
+      <p><a href="/SearchResult/QuickSearch/?q=Headset&variantType=1">Headsets</a></p>
+      <p><a href="/prepaid">Prepaid Karten</a></p>
+      <p><a href="/SearchResult/QuickSearch?variantType=4">DLC</a></p>
+    </div>
+  </div>
+</div>
+</li>
+    </ul>
+</div>
+
+        <div class="mainBody">
+            
+            <input id="topbutton" type="hidden" value="TOP" />
+
+              <div id="cookie-bar" style="display:none;">
+
+
+
+
+
+<div id="cookieBar2">
+	<div class="cookieBarIn">
+		<p>Um dir das beste Erlebnis auf unserer Webseite zu ermöglichen, verwenden wir Cookies. Wenn du auf unserer Seite weitersurfst, gehen wir davon aus, dass du Cookies akzeptierst. | <a href="/datenschutz">Mehr Infos</a>. <a href="#" id="closeCookieBar2" class="closeBtn dark"></a></p>
+	</div>
+</div>
+              </div>
+
+            <div class="mainContainer">
+                
+
+
+<div>
+    <h3>Datenschutz</h3>
+
+<script type="text/javascript">
+<!--
+window.location = "/Help?section=Privacy"
+//-->
+</script>
+</div>
+
+
+            </div>
+            <div style="display:none;">
+                <input type="hidden" id="closeRopisDialog" value='schließen' />
+                <div id="RopisPopup">
+                    <p class="ropisTitlePop" style="display:none">Abholen im Store</p>
+<p>Wir bieten dir jetzt die wunderbare Möglichkeit Spiele auch online zu reservieren, um sie dann wie gewohnt zum Release in deiner Lieblings-Filiale abzuholen.</p>
+<br />
+<p style="font-size: 0.8em; color: #333;"><strong>SO FUNKTIONIERT'S:</strong></p>
+<p>1. Um dein Produkt online zu reservieren musst du eingeloggt sein. Noch nicht eingeloggt? <a href="/Account/LogOn?logAction=register" target="_blank">Klicke hier</a></p>
+<br />
+<p>2. Lege das gewünschte Produkt in den Warenkorb.</p>
+<br />
+<p>3. Nachdem du im Warenkorb gelandest bist klickst du einfach auf <span style="color:#ef3124">ONLINE RESERVIEREN UND ZUM RELEASE IN DER FILIALE ABHOLEN</span>.</p>
+<br />
+<p>4. Fülle nun die nötigen Felder aus und wähle deine Filiale für die Reservierung.</p>
+<br />
+<hr />
+<p style="font-size: 0.8em; color: #333;"><strong>WAS DU BEACHTEN MUSST:</strong></p>
+<p>Für die Reservierung mit einer Abholung zum Release in der Filiale wird eine Reservierungsgebühr in Höhe von mindestens 5,- EUR fällig. Diese Reservierungsgebühr wird bei Abholung mit dem Kaufbetrag des Produktes verrechnet. Der Kaufvertrag kommt erst bei Abholung in der Filiale zustande. Die Reservierung kann jederzeit in der Filiale storniert werden und die Reservierungsgebühr wird entsprechend ausgezahlt. Eine Stornierung der Reservierung ist online nicht möglich.</p>
+                </div>
+
+                <div id="DigitalAndPCPopup">
+                    <p class="digitalAndPCTitlePop" style="display:none">Digital version Informations</p>
+<h4>Digitales Produkt</h4>
+<p>Dies ist ein digitales Produkt, welches in Form eines Steam-Keys geliefert wird. Dieser Steam-Key wird dir nach erfolgreicher Bestellung innerhalb von 12h unter "Online Bestellungen" in der "Meine Einkäufe und Punkte" Sektion deines GameStop+ Online Profils angezeigt.</p>
+<br />
+<h4>Hinweis:</h4>
+<p>Mit dem Kauf eines digitalen Produktes stimmst du der Ausführung des Kaufvertrages vor Ablauf der Widerrufsfrist ausdrücklich zu, wodurch das Widerrufsrecht erlischt. Ein digitales Produkt ist somit nach Bereitstellung des digitalen Codes im GameStop+ Profil gemäß unserer AGB vom Widerrufsrecht ausgeschlossen.</p>
+                </div>
+
+                <div id="DigitalAndDLCPopup">
+                    <p class="digitalAndDLCTitlePop" style="display:none">Dein DLC Code</p>
+<h4>Digitales Produkt</h4>
+<p>Dies ist ein digitales Produkt, welches in Form eines digitalen Codes geliefert wird. Dieser digitale Code wird dir nach erfolgreicher Bestellung innerhalb von 12h unter "Online Bestellungen" in der "Meine Einkäufe und Punkte" Sektion deines GameStop+ Online Profils angezeigt.</p>
+<br />
+<h4>Hinweis:</h4>
+<p>Mit dem Kauf eines digitalen Produktes stimmst du der Ausführung des Kaufvertrages vor Ablauf der Widerrufsfrist ausdrücklich zu, wodurch das Widerrufsrecht erlischt. Ein digitales Produkt ist somit nach Bereitstellung des digitalen Codes im GameStop+ Profil gemäß unserer AGB vom Widerrufsrecht ausgeschlossen.</p>
+                </div>
+            </div>
+            <div class="clearing"></div>
+            <div class="mainFooter">
+
+
+<div class="footerContainer">
+
+
+    <div class="mainFooterSep left">
+    
+    	<div class="footerCol visible">
+        	<div id="contactBox">
+                <h4>Kontakt</h4>
+                <p><a class="tel" href="tel:004983319292333">+49 8331 92 92 333</a></p>
+                <p class="more">Werktags von 09:00 - 17:00 Uhr (Zum Ortstarif)</p>
+                <p class="more">Oder nutze das <a href="/kontaktformular">Kontaktformular</a></p>
+            </div>
+        </div>
+        <div class="footerCol visible">
+        	<form id="storeLocatoreForm" method="POST" action="/StoreLocator/Search">
+                <h4>Finde deinen Store</h4>
+                <input type="hidden" id="productId" name="productId" value="">
+                <input type="text" id="productAvailabilityHome" name="productAvailabilityHome" placeholder="PLZ oder Ort">
+                <input class="inputButton" onclick="openStoreLocator()" type="submit" value="Los">
+            </form>
+        </div>
+        <div class="footerCol visible">
+            <h4>Folge uns auf</h4>
+            <a class="icon-social" target="_blank" href="http://www.facebook.com/GameStopDACH">
+                <svg version="1.1" id="icon-facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.54 75.54"><defs></defs><title>Facebook</title><rect class="a" width="75.54" height="75.54"></rect><path class="b" d="M229.25,355.54V326.29h9.82l1.47-11.4H229.25v-7.28c0-3.3.92-5.55,5.65-5.55h6v-10.2a80.79,80.79,0,0,0-8.8-.45c-8.7,0-14.66,5.31-14.66,15.07v8.41h-9.84v11.4h9.84v29.25h11.77Z" transform="translate(-177.13 -280)"></path></svg>
+            </a>
+            <a class="icon-social" target="_blank" href="http://www.twitter.com/GameStopDACH">
+                <svg version="1.1" id="icon-twitter" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.54 75.54"><defs></defs><title>Twitter</title><rect class="a" width="75.54" height="75.54"></rect><path class="b" d="M336.67,302.5a20.19,20.19,0,0,1-5.8,1.59,10.13,10.13,0,0,0,4.44-5.59A20.22,20.22,0,0,1,328.9,301a10.11,10.11,0,0,0-17.21,9.21,28.67,28.67,0,0,1-20.82-10.55A10.11,10.11,0,0,0,294,313.1a10.06,10.06,0,0,1-4.57-1.26s0,0.08,0,.13a10.11,10.11,0,0,0,8.1,9.9A10.12,10.12,0,0,1,293,322a10.11,10.11,0,0,0,9.43,7,20.26,20.26,0,0,1-12.54,4.32,20.49,20.49,0,0,1-2.41-.14,28.59,28.59,0,0,0,15.48,4.54c18.58,0,28.74-15.39,28.74-28.74q0-.66,0-1.31A20.52,20.52,0,0,0,336.67,302.5Z" transform="translate(-273.66 -280)"></path></svg>
+            </a>
+            <a class="icon-social" target="_blank" href="http://www.youtube.com/GamestopDeutschland">
+                <svg version="1.1" id="icon-youtube" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 75.54 75.54"><defs></defs><title>YouTube</title><rect class="a" width="75.54" height="75.54"></rect><path class="b" d="M519.54,315.75a1.27,1.27,0,0,0-.88.43v6a1.27,1.27,0,0,0,.88.44c0.51,0,.77-0.44.77-1.32v-4.17C520.31,316.2,520.05,315.75,519.54,315.75Z" transform="translate(-468.98 -280)"></path><path class="b" d="M526,315.75q-0.89,0-.89,1.36V318h1.77V317.1C526.9,316.2,526.61,315.75,526,315.75Z" transform="translate(-468.98 -280)"></path><path class="b" d="M530.86,311.92A6.28,6.28,0,0,0,529.7,309a4.19,4.19,0,0,0-2.93-1.23c-4.09-.29-10.23-0.29-10.23-0.29h0s-6.14,0-10.23.29a4.19,4.19,0,0,0-2.93,1.23,6.28,6.28,0,0,0-1.16,2.89,43.8,43.8,0,0,0-.29,4.71v2.21a43.79,43.79,0,0,0,.29,4.71,6.28,6.28,0,0,0,1.16,2.89,5,5,0,0,0,3.22,1.24c2.34,0.22,9.94.29,9.94,0.29s6.14,0,10.23-.3a4.19,4.19,0,0,0,2.93-1.23,6.28,6.28,0,0,0,1.16-2.89,43.88,43.88,0,0,0,.29-4.71v-2.21A43.89,43.89,0,0,0,530.86,311.92Zm-22.5,12.14h-2V312.77H504.3v-1.85h6.18v1.85h-2.12v11.28Zm7,0h-1.77V323a2.84,2.84,0,0,1-2,1.2,1.09,1.09,0,0,1-1.14-.73,5,5,0,0,1-.16-1.45v-7.73H512v7.2a5.39,5.39,0,0,0,0,.69,0.41,0.41,0,0,0,.41.41,1.56,1.56,0,0,0,1.12-.83v-7.48h1.77v9.78Zm6.73-2.94a7.82,7.82,0,0,1-.18,2,1.4,1.4,0,0,1-1.42,1.1,2.41,2.41,0,0,1-1.83-1.08v0.95h-1.77V310.92h1.77v4.29a2.4,2.4,0,0,1,1.83-1.06,1.4,1.4,0,0,1,1.42,1.1,7.55,7.55,0,0,1,.18,2v3.9Zm6.59-1.63h-3.54v1.73c0,0.91.3,1.36,0.9,1.36a0.76,0.76,0,0,0,.79-0.71,11.25,11.25,0,0,0,0-1.2h1.81v0.26c0,0.57,0,1,0,1.14a2.52,2.52,0,0,1-.41,1.06,2.45,2.45,0,0,1-2.14,1.06,2.54,2.54,0,0,1-2.15-1,3.78,3.78,0,0,1-.57-2.3v-3.43a3.81,3.81,0,0,1,.55-2.3,2.52,2.52,0,0,1,2.12-1,2.46,2.46,0,0,1,2.09,1,3.85,3.85,0,0,1,.55,2.3v2Z" transform="translate(-468.98 -280)"></path><path class="b" d="M486.55,318.71v5.37h-2v-5.37a32.78,32.78,0,0,0-1.21-4.2c-0.42-1.23-.86-2.47-1.27-3.7h2.09l1.41,5.21,1.35-5.21h2Zm6.75,4.5a2.66,2.66,0,0,1-4.18,0,3.83,3.83,0,0,1-.56-2.32v-3.46a3.84,3.84,0,0,1,.56-2.33,2.66,2.66,0,0,1,4.18,0,3.88,3.88,0,0,1,.56,2.33v3.46A3.87,3.87,0,0,1,493.3,323.2Zm-1.24-6.15c0-.91-0.28-1.37-0.85-1.37s-0.85.46-.85,1.37v4.16c0,0.91.28,1.37,0.85,1.37s0.85-.46.85-1.37v-4.16Zm6.53,7V323a2.88,2.88,0,0,1-2,1.21,1.1,1.1,0,0,1-1.15-.73,5,5,0,0,1-.16-1.47v-7.82H497v7.28a4.23,4.23,0,0,0,0,.7,0.41,0.41,0,0,0,.42.42,1.57,1.57,0,0,0,1.13-.84v-7.56h1.79v9.89h-1.79Z" transform="translate(-468.98 -280)"></path></svg>
+            </a>
+        </div>
+
+    </div>
+
+    <div class="mainFooterSep right">
+
+        <div class="footerCol">
+            <h4>Produkte</h4>
+            <ul>
+                <li><a href="/SearchResult/QuickSearch">Games</a></li>
+                <li><a href="/SearchResult/QuickSearch?rootGenre=170&genre=192">Konsolen</a></li>
+                <li><a href="/SearchResult/QuickSearch?rootGenre=170&genre=191">Zubehör</a></li>
+                <li><a href="/zing-pop-culture">Fan-Artikel</a></li>
+                <li><a href="/gebraucht-geprueft">Gebrauchte</a></li>
+                <li><a href="/vorbestellen">Vorbestellen</a></li>
+                <li><a href="/dlc">Digitale Downloads</a></li>
+                <li><a href="/steam">Steam</a></li>
+                <li><a href="/xbox-live">Xbox Live</a></li>
+                <li><a href="/psn">PlayStation Network</a></li>
+                <li><a href="/prepaid?nav=OnlineGames">Browser-Games</a></li>
+                <li><a href="/netflix">Netflix</a></li>
+                <li><a href="/itunes">iTunes</a></li>
+            </ul>
+        </div>
+        <div class="footerCol">
+            <h4>Angebote</h4>
+            <ul>
+                <li><a href='/AboutUs/Index'>GameStop+</a></li>
+                <li><a href="/trade-in">Trade-in</a></li>
+                <li><a href="/gebraucht-geprueft">Gebraucht Geprüft</a></li>
+                <li><a href="/game-informer">Game informer digital</a></li>
+                <li><a href="/9.99er">9.99er</a></li>
+                <li><a href="/eintauschliste">Eintauschliste</a></li>
+                <li><a href="/game-protection">GameProtection</a></li>
+                <li><a href="/console-protection">ConsoleProtection</a></li>
+                <li><a href="/gutscheinkarte">Gutscheinkarte</a></li>
+                <li><a href="/newsletter">Newsletter</a></li>
+            </ul>
+        </div>
+        <div class="footerCol">
+            <h4>Services</h4>
+            <ul>
+                <li><a href='/Help/Index?section=Shipment'>Versand</a></li>
+                <li><a href='/Help/Index?section=Payment'>Zahlungsart</a></li>
+                <li><a href='/Help/Index?section=Return'>Retoure</a></li>
+                <li><a href='/Help/Index?section=Support'>Support</a></li>
+                <li><a href='/Help/Index?section=FAQ'>FAQ</a></li>
+                <li><a href="/code">Code einlösen</a></li>
+            </ul>
+
+        </div>
+        <div class="footerCol">
+            <h4>Zahlarten</h4>
+            <ul>
+                <li class="payment-card"><img title="Zahlen mit Giropay" src="//www.gamestop.de/Views/Locale/Content/Images/LogosPayment/Giropay.svg" alt="Maestro"></li>
+                <li class="payment-card"><img title="Zahlen per PayPal" src="//www.gamestop.de/Views/Locale/Content/Images/LogosPayment/PayPal.svg" alt="PayPal"></li>
+                <li class="payment-card"><img title="Zahlen mit Kreditkarte" src="//www.gamestop.de/Views/Locale/Content/Images/LogosPayment/Visa.svg" alt="Visa"></li>
+                <li class="payment-card"><img title="Zahlen mit Kreditkarte" src="//www.gamestop.de/Views/Locale/Content/Images/LogosPayment/Mastercard.svg" alt="Mastercard"></li>
+                <li class="payment-card"><img title="Zahlen mit GameStop Gutscheinkarte" src="//www.gamestop.de/Views/Locale/Content/Images/LogosPayment/GameStopGiftCard.svg" alt="GameStop Gutscheinkarte"></li>
+                <li class="payment-card"><img title="Zahlen mit GameStop+ Kundenkarte" src="//www.gamestop.de/Views/Locale/Content/Images/LogosPayment/GameStopPlus.svg" alt="GameStop+ Kundenkarte"></li>
+            </ul>
+        </div>
+        <div class="footerCol visible">
+            <h4>Jobs</h4>
+            <p><a href="/jobs">Stellenanzeigen</a></p>
+        </div>
+        
+            <div class="trustBadge visible">
+                <div id="EcommTrustbadge"></div>
+            </div>
+
+    </div>
+
+    <div class="footerFooter">
+
+        <div class="footerSep visible">
+            <img alt="GameStop.de: Power to the Players" src="//www.gamestop.de/Views/Locale/Content/Images/logo-small-white.png">
+        </div>
+        <div class="footerSep visible">
+            <ul>
+                <li><a href="http://www.ebgames.com.au" title="GameStop Australia" target="_blank">Australien</a></li>
+                <li><a href="http://www.ebgames.dk/" title="EB Games Danmark" target="_blank">Dänemark</a></li>
+                <li><a href="http://www.gamestop.de/" title="GameStop Deutschland" target="_blank">Deutschland</a></li>
+                <li><a href="http://www.gamestop.fi/" title="GameStop Finland" target="_blank">Finnland</a></li>
+                <li><a href="http://www.micromania.fr/" title="Micromania France" target="_blank">Frankreich</a></li>
+                <li><a href="http://www.gamestop.it/" title="GameStop Italia" target="_blank">Italien</a></li>
+                <li><a href="http://www.gamestop.ie/" title="GameStop Irland" target="_blank">Irland</a></li>
+                <li><a href="http://www.ebgames.ca/" title="EB Games Canada" target="_blank">Kanada</a></li>
+                <li><a href="http://www.ebgames.co.nz/" title="EB Games New Zealand" target="_blank">Neuseeland</a></li>
+                <li><a href="http://www.ebgames.no/" title="EB Games Norge" target="_blank">Norwegen</a></li>
+                <li><a href="http://www.gamestop.at/" title="GameStop &Ouml;sterreich" target="_blank">Österreich</a></li>
+                <li><a href="http://www.gamestop.se/" title="EB Games Sverige" target="_blank">Schweden</a></li>
+                <li><a href="http://www.gamestop.ch/" title="GameStop Schweiz" target="_blank">Schweiz</a></li>
+                <li><a href="http://www.gamestop.co.uk/" title="GameStop UK" target="_blank">UK</a></li>
+                <li><a href="http://www.gamestop.com/" title="GameStop USA" target="_blank">USA</a></li>
+            </ul>
+            <ul>
+                <li><a href="/jobs">Jobs & Karriere</a></li>
+                <li><a href='/Help/Index?section=Impressum'>Impressum</a></li>
+                <li><a href="http://news.gamestop.com/" target="_blank">GameStop Corporate</a></li>
+                <li><a href="http://news.gamestop.com/phoenix.zhtml?c=130125&p=irol-irhome" target="_blank">Investor Relations</a></li>
+                <li><a href='/Help/Index?section=Terms'>AGB's</a></li>
+                <li><a href='/Help/Index?section=Privacy'>Datenschutz</a></li>
+                <li><a href='/Help/Index?section=TermsLoyalty'>GameStop+ Teilnahmebedingungen</a></li>
+            </ul>
+        </div>
+        <div class="footerSep visible">
+        	<p>&copy; 2017 GameStop Deutschland GmbH</p>
+				<p>Fraunhoferstr. 84 | D-87700 Memmingen | Telefon +49 8331 9292 0 | Telefax +49 8331 9292 4100 | E-Mail: service(at)gamestop.de</p>
+				<p>Vertretungsberechtigter Geschäftsführer: Harald Grünbaum | Registergericht: Amtsgericht Memmingen | Registernummer: HRB 12653 </p>
+
+        </div>
+
+    </div>
+
+</div>
+
+            </div>
+        </div>
+
+            <script src="https://www.sc.pages04.net/lp/static/js/iMAWebCookie.js?4820a7c-1351bf22ce7-beb2abcbc80381a2c00685eab367e4a7&amp;h=www.pages04.net" async type="text/javascript"></script>
+
+
+            <script src="https://cdn.optimizely.com/js/7617645764.js" async type="text/javascript"></script>
+
+        <script src="/Scripts/jQueryScripts?v=BHVjF4Ds91nkSIDGq4HJu4kBdrz-bnrIIThmNJ_9vFw1"></script>
+
+        <script src="/Scripts/coreScripts?v=k2WhYEd5ZmLvsCxZaD9P2eOhHmS_cO1s15B2Ek7_e5Q1"></script>
+
+
+        <script type="text/javascript">
+            var currentPlatformId = "";
+
+                
+                if (getCookie('cookieauth') != null)
+                {                       
+                    values = getCookie('cookieauth');
+                    parms = values.split('|');
+                    if (parms[1] == "1")
+                        $("#cookie-bar").show();
+                }
+                
+            
+            $(".navBarOv").load("/StatusBar?r=" + Math.random(), function() {});
+
+            $(".cart").load("/Cart/UpdateCart?r=" + Math.random() * 99999 + "&currentUrl=" + document.URL);
+
+            if ($(window).innerWidth() > 959) {$("#menu").load("/Platform/_HeaderBarPlatforms" + currentPlatformId);}
+
+                     $(".loyaltyProfileBox").load("/LoyaltyProfileBox/Index?r=" + Math.random());
+ 
+            if (_gaq == undefined) {
+                var _gaq = _gaq || [];
+            }
+
+            var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+            _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+            _gaq.push(['_setAccount', 'UA-11617099-1']);
+            _gaq.push(['_gat._anonymizeIp']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = '//stats.g.doubleclick.net/dc.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+
+
+            if (_gaq == undefined)
+            {
+                var _gaq = _gaq || [];
+            }
+            var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+            _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+            _gaq.push(['_setAccount', 'UA-11617099-1']);
+            _gaq.push(['_gat._anonymizeIp']);
+            _gaq.push(['_trackPageview']);
+            jQuery.extend(jQuery.validator.messages, {
+                required: "Pfilchtfeld",
+                remote: "Please fix this field.",
+                email: "Die E-Mail Adresse ist ungültig. Bitte überprüfe Deine Eingabe",
+                url: "Please enter a valid URL.",
+                date: "Bitte gib ein gültiges Datum ein.",
+                dateISO: "Bitte gib ein gültiges Datum ein.",
+                number: "Bitte gib eine gültige Nummer ein.",
+                digits: "Bitte nur Ziffern eingeben.",
+                creditcard: "Bitte gib eine gültige Kreditkartennummer ein.",
+                equalTo: "Bitte nochmals eingeben",
+                accept: "Please enter a value with a valid extension.",
+                maxlength: jQuery.validator.format("Bitte gib nicht mehr als {0} Zeichen ein."),
+                minlength: jQuery.validator.format("Bitte gib mehr als {0} Zeichen ein."),
+                rangelength: jQuery.validator.format("Die Eingabe darf zwischen {0} und {1} Zeichen lang sein."),
+                range: jQuery.validator.format("Die Eingabe darf zwischen {0} und {1} Zeichen lang sein."),
+                max: jQuery.validator.format("Bitte gib maximal {0} Zeichen ein."),
+                min: jQuery.validator.format("Bitte gib mindestens {0} Zeichen ein.")
+            });
+        </script>   
+ 
+        
+
+
+<script src="/Locale/Scripts?v=uBuJ8YAbVFnzz78oc6My-Q5IpORNOZEFBFz_s0mlKiA1"></script>
+
+
+<script type="text/javascript">
+
+    function getCountryCode() { return "de"; }
+    function isEcommActive() { return true; }
+
+		
+		(function () {
+			var _tsid = 'X9DF53FFAECD9EC243B9894E784F90B96';
+			_tsConfig = {
+				'yOffset': '120',
+				'variant': 'reviews', /* text, default, small, reviews, custom, custom_reviews */
+				'customElementId': 'EcommTrustbadge',
+				'customCheckoutElementId': 'EcommTrustedShopsCheckout',
+				'trustcardDirection': 'topLeft',
+				'customBadgeWidth': '150',
+				'customBadgeHeight': '120',
+				'disableResponsive': 'false',
+				'disableTrustbadge': 'false',
+				'trustCardTrigger': 'mouseenter'
+			};
+			var _ts = document.createElement('script');
+			_ts.type = 'text/javascript';
+			_ts.charset = 'utf-8';
+			_ts.async = true;
+			_ts.src = '//widgets.trustedshops.com/js/' + _tsid + '.js';
+			var __ts = document.getElementsByTagName('script')[0];
+			__ts.parentNode.insertBefore(_ts, __ts);
+		})();
+		
+
+    $(document).ready(function () {
+
+		$("img").unveil(100, function () {
+            $(this).load(function () {
+                this.style.opacity = 1;
+            });
+        });	
+		
+        var slider_home = $('#slider').bxSlider({
+            auto: true,
+            pause: 5000,
+            autoHover: true,
+            randomStart: true,
+            speed: 800
+        });
+		
+        var banner_carousel = $('.bannerCarouselWindow > div').bxSlider({
+            slideWidth: 300,
+            minSlides: 1,
+            maxSlides: 3,
+            slideMargin: 30,
+            hideControlOnEnd: true,
+            infiniteLoop: false,
+            pager: false
+        });
+
+        var offer_carousel = $('.offerCarouselWindow > div').bxSlider({
+            slideWidth: 180,
+            minSlides: 2,
+            maxSlides: 5,
+            slideMargin: 15,
+            hideControlOnEnd: true,
+            infiniteLoop: false,
+            pager: false
+        });
+
+        var products_carousel = $('.productsCarouselWindow > div').bxSlider({
+            slideWidth: 140,
+            minSlides: 1,
+            maxSlides: 6,
+            slideMargin: 24,
+            hideControlOnEnd: true,
+            infiniteLoop: false,
+            pager: false
+        });        
+
+        var intro_slider = $('#intro').bxSlider({
+            pagerCustom: '#intro-pager',
+            autoStart: false,
+            speed: 1000
+        });	
+		
+		var gallery = $('#gallery').bxSlider({
+            mode: 'fade',
+            adaptiveHeight: true,
+            touchEnabled: false,
+            pagerCustom: '#gallery-pager',
+            controls: false,
+            autoStart: false
+
+        });
+        
+        $('#promoPage[data-sku]').add('#promoPage[data-sku-de]').getGameInfo({
+			eCom: true,
+			Currency: "€",
+			txtOpenMap: "Im Store finden",
+			txtAddToCart: "Bestellen"
+		});
+		
+		$('#promoPage').add('#channelPage').sectionNav();
+		$('div[data-expiry]').add(('div[data-schedule]')).expiryAndSchedule();
+		$('.fullback').parallax();
+		$('[data-loyalty]').loyaltyGate();
+		$(".toggleFeature").toggleFeature();
+		$(".tooltip").tooltipFeature();
+        $(".listTradeIn").searchList();
+		$('.filterList').filterList();
+        $('.subNav').subNav();
+        $('div.winBox form').validateWinForm();
+        $('#newsletter').newsletterForm();
+		
+		// Go To slide:
+		if (getQueryString('showslide').length > 0) {
+            var pos = parseFloat(getQueryString('showslide'))-1;
+            slider_home.goToSlide(pos);
+            slider_home.stopAuto();
+			offer_carousel.goToSlide(pos);
+			console.log("Slider position: " + slider_home.getCurrentSlide());
+			console.log("Carousel position: " + offer_carousel.getCurrentSlide());
+            return false;
+        }
+
+	});
+</script>
+
+<text>
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=abarc"></script>
+</text>    </body>
+</html>

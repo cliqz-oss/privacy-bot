@@ -1,0 +1,723 @@
+80539 München  Standort ändern
+
+Bitte tragen Sie eine gültige Postleitzahl ein
+
+Baumärkte
+
+Möbel & Einrichtung
+
+Elektromärkte
+
+Discounter
+
+Supermärkte
+
+Drogerien
+
+Biomärkte
+
+Getränkemärkte
+
+Fast Food
+
+Kaufhäuser
+
+Spielzeug & Baby
+
+Günstige Mode
+
+Mode
+
+Optiker
+
+Schuhgeschäfte
+
+Sportgeschäfte
+
+Sonderposten
+
+Werkstatt & Auto
+
+Garten & Pflanzen
+
+Banken
+
+Uhren & Schmuck
+
+Apotheken
+
+Buchhandlungen
+
+Zoohandlung
+
+Bäcker
+
+Sanitätshäuser
+
+Foto & Fotobedarf
+
+Parfümerien & Beauty
+
+Tankstellen
+
+Weitere Geschäfte
+
+Wischen Sie nach links, um weitere Kategorien zu sehen
+
+Baumärkte
+
+Möbel & Einrichtung
+
+Elektromärkte
+
+Discounter
+
+Supermärkte
+
+Drogerien
+
+Biomärkte
+
+Getränkemärkte
+
+Fast Food
+
+Kaufhäuser
+
+Spielzeug & Baby
+
+Günstige Mode
+
+Mode
+
+Optiker
+
+Schuhgeschäfte
+
+Sportgeschäfte
+
+Sonderposten
+
+Werkstatt & Auto
+
+Garten & Pflanzen
+
+Banken
+
+Uhren & Schmuck
+
+Apotheken
+
+Buchhandlungen
+
+Zoohandlung
+
+Bäcker
+
+Sanitätshäuser
+
+Foto & Fotobedarf
+
+Parfümerien & Beauty
+
+Tankstellen
+
+Weitere Geschäfte
+
+kaufDA Berlin  /
+
+# Datenschutz
+
+  
+
+## Datenschutzerklärung der Bonial International GmbH
+
+  
+  
+
+Die Bonial International GmbH nimmt den Schutz und Sicherheit Ihrer
+persönlichen Daten sehr ernst. Darum garantieren wir Ihnen die Sicherheit und
+den Schutz aller persönlichen Daten und die Einhaltung aller Bestimmungen des
+Bundesdatenschutzgesetzes (BDSG) und des Telemediengesetzes (TMG). Mit dieser
+Datenschutzerklärung möchte Bonial International die Nutzer näher informieren.
+Diese Datenschutzerklärung gilt für alle von uns angebotenen und betriebenen
+Dienste und Leistungen, insbesondere für unsere Webseite www.kaufda.de sowie
+entsprechende auf mobilen Endgeräten oder auf Plattformen unserer Kunden
+(siehe auch unter Abschnitt C. „Bonial Services“) oder anderen Plattformen
+angepasste Angebot und Präsenzen (nachfolgend insgesamt „Onlineangebote“ oder
+„Dienste“).
+
+  
+  
+
+### A. Allgemeines
+
+  
+
+### A.1. Unternehmenszweck
+
+Über die Onlineangebote können Verbraucher bzw. Nutzer zentral aktuelle
+Angebote der Geschäfte in ihrer Umgebung finden. Dadurch wird das Einkaufen
+vor Ort erleichtert. Die Nutzer können sich auch für einen Newsletter von
+Bonial registrieren, um immer aktuell über neue Angebote informiert zu sein.
+
+  
+
+### A.2. Grundsatz der anonymen Datenerhebung
+
+Sie können unsere Onlineangebote ohne Preisgabe Ihrer Identität besuchen.  
+Der Zugriff auf unsere Onlineangebote wird durch unseren Server in einem so
+genannten Logfile protokolliert. Dies erfolgt zu statistischen Zwecken und
+soweit dies für Sicherheitszwecke erforderlich ist. Dabei werden Daten wie IP-
+Adresse des zugreifenden Rechners, der Remote Host, die Uhrzeit und Datum der
+Serveranfrage, der http-Antwort-Code, der Status, die übertragene Datenmenge,
+die Internetseite, von der Sie auf die angeforderte Seite gekommen sind, sowie
+Produkt- und Versionsinformationen des verwendeten Browsers und
+Betriebssystems gespeichert.  
+Wir speichern Ihre IP-Adresse nur in gekürzter (anonymisierter) Form und
+verwenden sie nur zur Sessionerkennung, für die Geolokalisierung bis auf
+Stadt-Ebene und für die Abwehr von Attacken.  
+Im Übrigen werden personenbezogene Daten im Zusammenhang mit der Nutzung
+unserer Onlineangebote nur dann gespeichert, wenn Sie diese von sich aus
+angeben, z.B. im Rahmen einer Registrierung, eines Gewinnspiels, einer Anfrage
+an uns oder einer Bewerbung.
+
+  
+
+### A.3. Cookies
+
+Auf unseren Onlineangeboten verwenden wir so genannte Cookies. Dies sind
+kleine Textdateien, die Ihnen die Nutzung verschiedener Services unserer
+Onlinedienste erleichtern soll. Die Cookies werden entweder im Arbeitsspeicher
+Ihres Computers oder auf dessen Festplatte gespeichert. Durch sie kann u.a.
+festgestellt werden, ob Sie eine Webseite schon einmal besucht haben.
+Üblicherweise verwenden wir so genannte Session-Cookies, die mit Verlassen
+unserer Onlineangebote automatisch gelöscht werden. Es werden daneben auch
+Cookies mit einer längeren Speicherdauer verwendet.  
+  
+Folgende Arten von Cookies werden eingesetzt:  
+
+  
+
+  * Session Cookie (Lebensdauer: eine Session): JSESSIONID, BIGipServer (Load Balancing), Visual Website Optimizer
+  * Langzeit-Cookie (Lebensdauer: bis zu 24 Monaten): first_visit_id, Opt-out-Cookie (bei Widerspruch gegen Tracking), Opt-in-Cookie, Visual Website Optimizer, Google Analytics, Nugg.ad, smartadserver
+  * Cookies unserer Werbepartner
+
+  
+
+Cookies lassen sich mit allen Internetbrowsern steuern. Die meisten Browser
+sind so eingestellt, dass alle Cookies akzeptiert werden, ohne die Benutzer zu
+fragen. Sie können Ihren Browser so einstellen, dass er keine Cookies
+akzeptiert. Hierdurch könnte allerdings der Funktionsumfang unserer
+Onlineangebote eingeschränkt werden.
+
+  
+
+### A.4. Keine Weitergabe an Dritte
+
+Bonial wird personenbezogene Daten nur im Rahmen der Erbringung der Services
+erheben, bearbeiten und benutzen. Bonial wird Ihre personenbezogenen Daten
+insbesondere Ihre E-Mail-Adresse ohne Ihre Einwilligung nicht an Dritte
+übermitteln, es sei denn Bonial ist zu einer solchen Weitergabe aus
+rechtlichen Gründen (z.B. durch Gesetz oder Urteil) oder zur Verfolgung
+rechtswidriger insbesondere betrügerischer Handlungen des Nutzers verpflichtet
+oder gesetzlich dazu berechtigt.
+
+  
+
+### A.5. Auskünfte, Anfragen und Anregungen
+
+Sie haben jederzeit das Recht auf Auskunft über die bezüglich Ihrer Person
+gespeicherten Daten, deren Herkunft und Empfänger sowie den Zweck der
+Datenverarbeitung.  
+Nehmen Sie bitte hierzu über datenschutz@kaufda.de Kontakt mit uns auf.  
+Hierhin können Sie auch Ihre Anfragen, Löschung- oder Berichtigungsbegehren
+bezüglich Ihrer Daten senden. Bei der Kommunikation per E-Mail können wir
+jedoch keine vollständige Datensicherheit garantieren. Wir empfehlen für
+vertrauliche Informationen den Postweg unter der Adresse Bonial International
+GmbH, Warschauer Str. 70a, 10243 Berlin zu nutzen.
+
+  
+  
+
+## B. Besonderheiten für stationäre Endgeräte
+
+  
+  
+
+### B.1. Newsletter
+
+Zur Registrierung für den Newsletter Service speichert die Bonial Ihre E-Mail-
+Adresse. Sie können bei der Bestellung eines Newsletters konkrete
+Suchkriterien definieren (Gewünschter Ort, Branche, Einzelhändler, Produkte).
+Personalisierte Nutzungsprofile werden nicht erstellt.  
+Der Newsletter wird jeweils zugestellt, wenn bzw. sobald der gewählte Prospekt
+auf den Onlineangeboten verfügbar ist. Der Nutzer kann die Zusendung dieser
+Newsletter abbestellen, indem er den in jedem Newsletter enthaltenen
+„abmelden“-Link anklickt. Alternativ kann er auch eine E-Mail an
+abmelden@kaufda.de senden, mit der Bitte, den Newsletterversand zu beenden und
+seine Daten zu löschen, oder er kann sich schriftlich an Bonial International
+GmbH, Warschauer Str. 70a, 10243 Berlin wenden.
+
+  
+
+### B.2. Webanalysedienste / Reichweitenmessung
+
+B.2.1 Google  
+  
+Google Analytics  
+
+Wir benutzen Google Analytics, einen Webanalysedienst der Google Inc.
+(„Google"). Google Analytics verwendet sog. „Cookies", Textdateien, die auf
+Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
+über Ihre Benutzung dieser Website werden in der Regel an einen Server von
+Google in den USA übertragen und dort gespeichert. Die Google Trackingcodes
+dieser Website verwenden die Funktion „_anonymizeIp()“, somit wird Ihre IP-
+Adresse innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt,
+um eine direkte Personenbeziehbarkeit auszuschließen. Nur in Ausnahmefällen
+wird die volle IP-Adresse an einen Server von Google in den USA übertragen und
+dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese
+Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports
+über die Websiteaktivitäten zusammenzustellen und um weitere mit der
+Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber
+dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von
+Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google
+zusammengeführt. Sie können die Speicherung der Cookies durch eine
+entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie
+jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche
+Funktionen dieser Website vollumfänglich werden nutzen können. Sie können
+darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre
+Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie
+die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem
+folgenden Link verfügbare Browser-Plugin herunterladen und installieren. Die
+Webanalyse bleibt solange deaktiviert, wie das Add-On von Google nicht
+seinerseits deaktiviert bzw. gelöscht wird. Daher löschen Sie bitte das Add-On
+nicht, solange die Webanalyse nicht gewollt ist. Das Add-On ist pro Browser
+und Rechner gesetzt. Falls Sie diese Website also mit unterschiedlichen
+Browsern aufrufen, müssen Sie das Add-On gesondert hinzufügen.  
+  
+Google Adwords  
+Wir nutzen nutzen als AdWords-Kunde ferner das Google Conversion Tracking,
+einen Analysedienst der Google Inc. (1600 Amphitheatre Parkway, Mountain View,
+CA 94043, USA; „Google“). Dabei wird von Google Adwords ein Cookie auf Ihrem
+Rechner gesetzt („Conversion Cookie“), sofern Sie über eine Google-Anzeige auf
+unsere Webseite gelangt sind. Diese Cookies verlieren nach 30 Tagen ihre
+Gültigkeit und dienen nicht der persönlichen Identifizierung. Besuchen Sie
+bestimmte Seiten von uns und das Cookie ist noch nicht abgelaufen, können wir
+und Google erkennen, dass jemand auf die Anzeige geklickt hat und so zu
+unserer Seite weitergeleitet wurde. Jeder AdWords-Kunde erhält ein anderes
+Cookie. Cookies können somit nicht über die Webseiten von AdWords-Kunden
+nachverfolgt werden. Die mithilfe des Conversion-Cookies eingeholten
+Informationen dienen dazu, Conversion-Statistiken für AdWords-Kunden zu
+erstellen, die sich für Conversion-Tracking entschieden haben. Die AdWords-
+Kunden erfahren die Gesamtanzahl der Nutzer, die auf ihre Anzeige geklickt
+haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite
+weitergeleitet wurden. Sie erhalten jedoch keine Informationen, mit denen sich
+Nutzer persönlich identifizieren lassen. Wenn Sie nicht an dem Tracking-
+Verfahren teilnehmen möchten, können Sie auch das hierfür erforderliche Setzen
+eines Cookies ablehnen – etwa per Browser-Einstellung, die das automatische
+Setzen von Cookies generell deaktiviert. Sie können Cookies für Conversion-
+Tracking auch deaktivieren, indem Sie Ihren Browser so einstellen, dass
+Cookies von der Domain „googleadservices.com“ blockiert werden.  
+  
+Wenn Sie über ein mobiles Endgerät (z.B. Smartphone oder Tablet) unsere
+Onlineangebote besuchen, können Sie über diesen Link dem Einsatz von Google
+Analytics für die Zukunft widersprechen. Durch die Aktivierung des Links
+setzen wir in Ihrem Browser ein Cookie, welches uns signalisiert, den Einsatz
+von Google Analytics für Ihr Endgerät zu unterbinden. Bitte beachten Sie, dass
+der Widerspruch erneut von Ihnen durchgeführt werden muss, sofern Sie die
+Cookies in Ihrem Browser entfernen.  
+  
+Durch die Nutzung unserer Onlineangebote erklären Sie sich mit der Bearbeitung
+der über Sie erhobenen Daten durch Google in der hier beschriebenen Art und
+Weise und zu dem zuvor benannten Zweck einverstanden. Wir weisen darauf hin,
+dass Google eigene Datenschutz-Richtlinien hat, die von unseren unabhängig
+sind. Wir übernehmen keine Verantwortung oder Haftung für diese Richtlinien
+und Verfahren. Bitte informieren Sie sich vor der Nutzung unserer Webseite
+über die Datenschutzbestimmungen von Google. Weitere Informationen zu Google
+und deren Analysediensten finden Sie unter: http://www.google.com. Die
+Datenschutzerklärung von Google finden Sie unter:
+http://www.google.com/intl/de/privacypolicy.html#information.  
+  
+Google Maps  
+Wir nutzen Funktionen von Google Maps API, ein Dienst der von der Google Inc.,
+1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google“) betrieben
+wird. Dieser Dienst ist für die Funktionsfähigkeit und die vollständige
+Bereitstellung unserer Services unerlässlich. Der Einsatz von Google Maps
+dient Bonial dazu, Angebote der Geschäfte entsprechend ihrer Umgebung
+auffindbar zu machen und geographische Informationen visuell darzustellen.
+Wenn Sie eine unserer Seiten, welche Google Maps enthalten, aufrufen, wird
+bereits beim Seitenaufbau eine Verbindung zu den Servern von Google
+hergestellt. Diese erfahren dabei neben Ihrer IP-Adresse auch, auf welcher
+unserer Seiten Sie sich gerade befinden. Darüber hinaus können auch noch
+weitere personenbezogene Daten, wie z. B. Ihr Standort beim Aufruf solcher
+Seiten an Google übermittelt werden.  
+  
+Die Nutzungsbedingungen von Google finden Sie hier:
+https://www.google.com/intl/de_US/help/terms_maps.html. Die Google Privacy
+Policy (Datenschutzbestimmungen) finden Sie hier:
+http://www.google.com/privacypolicy.html. Dort können Sie im Datenschutzcenter
+auch Ihre persönlichen Datenschutz-Einstellungen verändern. Ausführliche
+Anleitungen zur Verwaltung der eigenen Daten im Zusammenhang mit Google-
+Produkten finden Sie auf der von Google betriebenen Seite
+http://www.dataliberation.org/.  
+  
+Sie haben die Möglichkeit, den Service von Google Maps auf einfache Art und
+Weise zu deaktivieren und somit den Datentransfer an Google zu verhindern:
+Deaktivieren Sie dazu JavaScript in Ihrem Browser. Wir weisen Sie jedoch
+darauf hin, dass Sie in diesem Fall unsere Services nicht vollumfänglich
+nutzen können. Durch die Nutzung unserer Onlineangebote und das
+Nichtdeaktivieren der JavaScript-Funktion erklären Sie sich mit der Erfassung,
+Bearbeitung sowie der Nutzung der automatisch erhobenen sowie der von Ihnen
+eingegeben Daten durch Google, einer seiner Vertreter oder Drittanbieter
+einverstanden.
+
+  
+B.2.2 Optimizely  
+  
+
+Wir setzen Optimizely, ein Webanalysedienst der Optimizely, Inc. 631 Howard
+Street, Suite 100, San Frankcisco, CA 94105, USA („Optimizely“) ein.
+Optimizely verwendet Cookies (vgl. oben Ziffer A.3.), die eine Analyse Ihrer
+Nutzung unserer Onlinedienste ermöglichen. Die so erzeugten Informationen
+werden in der Regel an einen Server von Optimizely in den USA übertragen und
+dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser
+Website, wird Deine IP-Adresse von Optimizely jedoch innerhalb von
+Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahme
+fällen wird die volle IP-Adresse an einen Server von Optimizely in den USA
+übertragen und dort gekürzt. Mehr Informationen darüber, wie Optimizely Ihre
+Daten verarbeitet, finden Sie hier: https:optimizely.com/privacy.  
+  
+Sie können der Speicherung der Cookies durch eine entsprechende Einstellung
+Ihrer Browser-Software verhindern (vgl. oben Ziffer A.3). Sie können darüber
+hinaus das Optimizely-Tracking jederzeit deaktivieren, indem Sie der Anleitung
+auf http:optimizely.com/opt_out folgen.
+
+  
+B.2.3 Criteo  
+  
+
+Auf unseren Onlineangeboten werden durch die Technologie von Criteo (Criteo
+GmbH, Unterer Anger 3, 80331 München) Informationen über das Surfverhalten der
+Webseitenbesucher zu Marketingzwecken in rein anonymisierter Form gesammelt
+und hierfür Cookies gesetzt. Criteo kann so das Surfverhalten analysieren und
+anschließend gezielte Produktempfehlungen als passendes Werbebanner anzeigen,
+wenn andere Webseiten besucht werden. In keinem Fall können die anonymisierten
+Daten dazu verwendet werden, den Besucher der Website persönlich zu
+identifizieren. Die von Criteo gesammelten Daten werden lediglich zur
+Verbesserung des Werbeangebots genutzt. Auf jedem eingeblendeten Banner
+befindet sich rechts unten ein kleines "i" (für Information), was sich bei
+Mouse-Over öffnet und beim Klick auf eine Seite führt, auf der die Systematik
+erklärt und ein Opt-Out angeboten wird. Beim Klick auf Opt-Out wird ein "Opt-
+Out"-Cookie gesetzt, was die Anzeige dieser Banner künftig unterbindet. Eine
+andere Verwendung oder Weitergabe an Dritte erfolgt nicht.  
+  
+Sie können sich bei Criteo unter
+http://www.criteo.com/de/datenschutzrichtlinient näher informieren und der
+anonymen Analyse Ihres Surfverhaltens widersprechen.
+
+  
+
+### B.3. Remarketing
+
+Google Display Netzwerk  
+
+Diese Webseite nutzt das Remarketing mit Google Analytics. Wenn Sie unsere
+Website besucht haben und sich für ein bestimmtes Angebot interessiert haben,
+erlaubt uns der Einsatz dieser Technologie, außerhalb unserer Seite auf
+Seiten, die Werbeformate des GDN (Google Display Netzwerk) nutzen, passend zu
+Ihren Interessen entsprechenden Werbung auszuliefern. Hierzu werden
+ausschließlich pseudonymisierte Nutzerprofile bei uns erstellt. Die
+Einblendung der Werbung erfolgt mittels Einsatzes von Cookies. Was Cookies
+sind, haben wir Ihnen bereits zuvor erläutert.  
+  
+Natürlich haben Sie die Möglichkeit, der Nutzung Ihrer pseudonymisierten Daten
+zu widersprechen. Dies können Sie tun, indem Sie die Deaktivierungsseite für
+DoubleClick aufrufen oder die Verwendung von Cookies von Drittanbieters
+deaktivieren, indem Sie die Deaktivierungsseite der Netzwerkwerbeinitiative
+aufrufen. Bitte beachten Sie, dass dies nur für Mitglieder der
+Netzwerkwerbeinitiative gilt. Eine Übersicht der aktuellen Mitglieder finden
+Sie hier.
+
+  
+
+### B.4. Nutzungsbasierte Online Werbung
+
+Informationen zu nutzungsbasierter Online-Werbung  
+
+An dieser Stelle möchten wir Sie umfassend zum Thema nutzungsbasierte Online-
+Werbung informieren. Das Internet-Angebot bzw. die Website, von der aus Sie
+gerade verlinkt worden sind, wird vom Werbevermarkter Axel Springer Media
+Impact vermarktet. Die Werbung auf den von Axel Springer Media Impact
+vermarkteten Websites wird durch die anonyme Erhebung und Verarbeitung Ihres
+Nutzungsverhaltens für Sie optimiert und auf prognostizierte Interessen
+ausgerichtet. Dadurch profitieren Sie als Nutzer, indem Sie Werbung erhalten,
+die eher zu Ihren Interessensgebieten passt und dadurch, dass insgesamt
+weniger zufällig gestreute Werbung ausgeliefert wird. Zur Erfassung Ihres
+Nutzungsverhaltens wird ein Cookie auf Ihrem Rechner gespeichert. Cookies sind
+kleine Textdateien, die auf der Festplatte Ihres Computers abgelegt werden und
+die Wiedererkennung ermöglichen, aber keine persönliche Identifikation Ihrer
+Person zulassen.  
+  
+Für die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung
+zuständig sind folgende Unternehmen im Auftrag von Axel Springer Media Impact:
+
+  
+
+  * nugg.ad AG predictive behavioral targeting: http://mtm.nuggad.net/
+  * Smart Adserver: http://smartadserver.de/privacy-policy
+  * Yieldlab: http://www.yieldlab.de/privacy/
+  * Emetriq: https://www.emetriq.com/opt-out/
+  * Xplosion: https://www.xplosion.de/opt-out.php
+  * Ad Audience: http://www.adaudience.de/datenschutz/
+  * Contact Impact: http://www.adrolays.com/de/opt-out
+  * Amazon: http://www.amazon.de/gp/dra/info
+  * Criteo: http://www.criteo.com/de/privacy/
+  * 1plusx: http://1plusx.com/privacy-policy/
+
+  
+Welche Daten werden erfasst?  
+
+Erfasst werden Informationen über Ihre Aktivitäten auf den von Axel Springer
+Media Impact vermarkteten Websites (z.B. Surfverhalten, besuchte Unterseiten
+der Internet-Angebote, geklickte Werbebanner, etc.). Da nach geltender
+Rechtslage nicht völlig ausgeschlossen werden kann, dass die erhobenen Daten
+einen mittelbaren Personenbezug zulassen, werden sämtliche Nutzungsdaten unter
+Verwendung eines Pseudonyms gespeichert, so dass eine persönliche
+Identifikation ausgeschlossen ist. Gegebenenfalls werden diese Daten in
+Zusammenhang mit anonymen Daten aus Online-Fragebögen, verwendet. Die aus
+technischen Gründen übermittelte IP Adresse Ihres Rechners wird dabei von
+einem unabhängigen Dritten vollständig anonymisiert und nicht für die
+gesteuerte Einblendung von Werbung verwendet.  
+  
+Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten möchten,
+können Sie auf folgenden Links widersprechen und die Datenerhebung
+deaktivieren:
+
+  
+
+  * http://mtm.nuggad.net/
+  * http://smartadserver.com/privacy-policya>
+  * http://www.yieldlab.de/privacy/>
+  * https://www.emetriq.com/opt-out/
+  * https://www.xplosion.de/opt-out.php
+  * http://www.adaudience.de/datenschutz/
+  * http://www.adrolays.com/de/opt-out
+  * http://www.amazon.de/gp/dra/info
+  * http://www.criteo.com/de/privacy/
+  * http://1plusx.com/privacy-policy/
+
+  
+
+Generell können Sie das Speichern von Cookies auf Ihrer Festplatte verhindern,
+indem Sie in Ihren Browser-Einstellungen "keine Cookies akzeptieren" wählen.
+Sie können Ihren Browser auch so einstellen, dass dieser Sie vor dem Setzen
+von Cookies fragt, ob Sie einverstanden sind. Schließlich können Sie auch
+einmal gesetzte Cookies jederzeit wieder löschen. Wie all das im Einzelnen
+funktioniert, entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers.
+Wenn Sie keine Cookies akzeptieren, kann dies im Einzelfall zu
+Funktionseinschränkungen unserer Onlinedienste führen. Bitte beachten Sie,
+dass Sie für den Fall einer Cookie-Löschung auch den Opt Out Link erneut
+aktivieren müssen.  
+  
+Als Unternehmen haben wir uns zudem freiwillig der Selbstregulierung des
+Deutschen Datenschutzrats Online-Werbung (DDOW) unterworfen. Den für uns
+gültigen Selbstregulierungskodex können Sie unter folgendem Link einsehen:
+http://www.meine-cookies.org/ddow.html
+
+  
+
+### B.5. Facebook Custom Audiences
+
+Auf unseren Onlineangeboten setzen wir Kommunikationstools des sozialen
+Netzwerkes Facebook ein, insbesondere das Produkt Custom Audiences und Website
+Custom Audiences. Grundsätzlich wird dabei eine nicht-reversible und nicht-
+personenbezogene Prüfsumme (Hash-Wert) aus Ihren Nutzungsdaten generiert, die
+an Facebook zu Analyse- und Marketingzwecken übermittelt werden kann. Für das
+Produkt Website Custom Audiences wird der Facebook Cookie angesprochen.  
+  
+Weitere Informationen über Zweck und Umfang der Datenerhebung und die weitere
+Verarbeitung und Nutzung der Daten durch Facebook sowie Ihre
+Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte
+den Datenschutzrichtlinien von Facebook, welche u.a. auf
+https://www.facebook.com/ads/website_custom_audiences/ und
+https://www.facebook.com/privacy/explanation zu finden sind. Wenn Sie der
+Nutzung von Facebook Website Custom Audiences widersprechen möchten, können
+Sie dies unter https://www.facebook.com/ads/website_custom_audiences/ tun.
+Wenn Sie der Nutzung von Facebook Custom Audiences widersprechen möchten,
+melden Sie sich bitte von unseren Webservices ab.
+
+  
+
+### B.6. Login
+
+B.6.1. Facebook Nutzer-Login  
+  
+
+Unsere Onlineangebote verwenden die „Connect″-Funktion des sozialen Netzwerkes
+Facebook, welches von der Facebook Ireland Limited, 4 Grand Canal Square,
+Dublin 2, Irland („Facebook“) betrieben wird. Hierdurch haben Sie die
+Möglichkeit, sich mit den Zugangsdaten Ihres Facebook-Kontos bei uns zu
+registrieren oder anzumelden (sog. Facebook-Connect Funktion). Wenn Sie von
+dieser Möglichkeit des Nutzer-Logins über Facebook-Connect Gebrauch machen,
+werden von Facebook folgende Daten an uns übermittelt:
+
+  
+
+  * E-Mail-Adresse.
+  * Geschlecht.
+  * Altersspanne.
+  * Jegliche Informationen, die Du bei Facebook als „öffentlich“ kennzeichnest.
+
+  
+
+Diese Daten nutzen wir zum Zwecke der Registrierung auf unseren
+Onlineangeboten und um unsere Angebote verbessern, optimaler auf Sie abstimmen
+zu können und Ihnen möglichst relevante Inhalte und Werbung anzuzeigen.
+Umgekehrt können auch Daten von uns an Facebook übertragen werden. Die Nutzung
+von Facebook-Connect unterliegt den Datenschutzbestimmungen von Facebook.
+Weitere Informationen zu Facebook-Connect und den Privatsphäre-Einstellungen
+entnehmen Sie bitte der Datenschutzrichtlinie von Facebook: https://de-
+de.facebook.com/about/privacy/.
+
+  
+B.6.2. Google Nutzer-Login  
+  
+
+Unsere Onlineangebote verwenden die „Google Sign-In″-Schaltfläche des sozialen
+Netzwerkes Google Plus, welches von der Google Inc., 1600 Amphitheatre
+Parkway, Mountain View, CA 94043, USA („Google“) betrieben wird. Hierdurch
+haben Sie die Möglichkeit, sich mit den Zugangsdaten Ihres Google Plus-Kontos
+bei uns zu registrieren oder anzumelden (sog. Google Sign-In button). Wenn Sie
+von dieser Möglichkeit des Nutzer-Logins über den Google Sign-In button
+Gebrauch machen, werden von Google Plus folgende Daten an uns übermittelt:
+
+  
+
+  * E-Mail-Adresse.
+  * Geschlecht.
+  * Altersspanne.
+
+  
+
+Diese Daten nutzen wir zum Zwecke der Registrierung auf unseren
+Onlineangeboten und um unsere Angebote verbessern, optimaler auf Sie abstimmen
+zu können und Ihnen möglichst relevante Inhalte und Werbung anzuzeigen.
+Umgekehrt können auch Daten von uns an Google übertragen werden. Die Nutzung
+von Google Sign-In unterliegt den Datenschutzbestimmungen von Google, die Sie
+hier abrufen können: https://www.google.com/intl/de/policies/privacy/.
+
+  
+  
+
+### B.7. Nutzung des Messverfahrens der INFOnline GmbH
+
+Unsere Onlinedienste nutzen das Messverfahren („SZMnG“) der INFOnline GmbH
+(https://www.infonline.de) zur Ermittlung statistischer Kennwerte über die
+Nutzung unserer Angebote. Ziel der Reichweitenmessung ist es, die
+Nutzungsintensität, die Anzahl der Nutzer einer Webseite und das Surfverhalten
+statistisch – auf Basis eines einheitlichen Standardverfahrens - zu bestimmen
+und somit marktweit vergleichbare Werte zu erhalten.  
+  
+Für Web-Angebote, die Mitglied der Informationsgemeinschaft zur Feststellung
+der Verbreitung von Werbeträgern e.V. (IVW – http://www.ivw.eu) sind oder an
+den Studien der Arbeitsgemeinschaft Online-Forschung e.V. (AGOF -
+http://www.agof.de) teilnehmen, werden die Nutzungsstatistiken regelmäßig von
+der AGOF und der Arbeitsgemeinschaft Media-Analyse e.V. (agma -
+http://www.agma-mmc.de), sowie der IVW veröffentlicht und können auf den
+jeweiligen Webseiten eingesehen werden.
+
+  
+B.7.1. Datenverarbeitung  
+  
+
+Die INFOnline GmbH erhebt und verarbeitet Daten nach deutschem
+Datenschutzrecht. Durch technische und organisatorische Maßnahmen wird
+sichergestellt, dass einzelne Nutzer zu keinem Zeitpunkt identifiziert werden
+können. Daten, die möglicherweise einen Bezug zu einer bestimmten,
+identifizierbaren Person haben, werden frühestmöglich anonymisiert.  
+  
+B.7.1.1 Anonymisierung der IP-Adresse  
+Im Internet benötigt jedes Gerät zur Übertragung von Daten eine eindeutige
+Adresse, die sogenannte IPAdresse. Die zumindest kurzzeitige Speicherung der
+IP-Adresse ist aufgrund der Funktionsweise des Internets technisch
+erforderlich. Die IP-Adressen werden vor jeglicher Verarbeitung gekürzt und
+nur anonymisiert weiterverarbeitet. Es erfolgt keine Speicherung oder
+Verarbeitung der ungekürzten IP-Adressen.  
+  
+B.7.1.2 Geolokalisierung bis zur Ebene der Bundesländer / Regionen  
+Eine sogenannte Geolokalisierung, also die Zuordnung eines Webseitenaufrufs
+zum Ort des Aufrufs, erfolgt ausschließlich auf der Grundlage der
+anonymisierten IP-Adresse und nur bis zur geographischen Ebene der
+Bundesländer / Regionen. Aus den so gewonnenen geographischen Informationen
+kann in keinem Fall ein Rückschluss auf den konkreten Wohnort eines Nutzers
+gezogen werden.  
+  
+B.7.1.3 Identifikationsnummer des Gerätes  
+Die Reichweitenmessung verwendet zur Wiedererkennung von Computersystemen
+alternativ entweder ein Cookie mit der Kennung „ioam.de", ein „Local Storage
+Object“ oder eine anonyme Signatur, die aus verschiedenen automatisch
+übertragenen Informationen Ihres Browsers erstellt wird. Die Gültigkeit des
+Cookies ist auf maximal 1 Jahr beschränkt.  
+  
+B.7.1.4 Anmeldekennung  
+Zur Messung von verteilter Nutzung (Nutzung eines Dienstes von verschiedenen
+Geräten) kann die Nutzerkennung beim Login, falls vorhanden, als anonymisierte
+Prüfsumme an INFOnline übertragen werden.
+
+  
+B.7.2. Löschung  
+  
+
+Die gespeicherten Nutzungsvorgänge werden nach spätestens 7 Monaten gelöscht.
+
+  
+B.7.3. Widerspruch  
+  
+
+Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter folgendem
+Link widersprechen: http://optout.ioam.de  
+  
+Weitere Informationen zum Datenschutz im Messverfahren finden Sie auf der
+Webseite der INFOnline GmbH (https://www.infonline.de), die das Messverfahren
+betreibt, der Datenschutzwebseite der AGOF (http://www.agof.de/datenschutz)
+und der Datenschutzwebseite der IVW (http://www.ivw.eu).
+
+  
+  
+
+## C. Bonial Services /Bonial Connect
+
+  
+  
+
+Bonial betreibt einen Service für Kunden (Einzelhandelsunternehmen, Hersteller
+von Endkundenprodukten und Dienstleister) und bietet über bestimmte
+Softwarelösungen die Möglichkeit, Personen zu erreichen, die sich online oder
+über mobile Endgeräte über die (lokalen) Angebote der Vertragspartner
+informieren wollen. Im Rahmen dieser Services bindet Bonial über Bonial
+Connect, ein von Bonial entwickeltes Widget, auf Geheiß ihrer Kunden
+Geschäftsinformationen und Werbemittel (Prospektübersichten und
+Prospektansichten) auf den Kundenwebsites ein.
+
+  
+
+### C.1 Cookies
+
+Bonial Connect verwendet Cookies. Für nähere Informationen und der
+Möglichkeit, den Browser so einzustellen, dass keine Cookies gespeichert
+werden, s.o. unter A.3 Cookies.
+
+  
+
+### C.2 Google Analytics
+
+Bonial Connect benutzt Google Analytics. Für nähere Informationen und der
+Möglichkeit, der Datenerfassung durch Google zu verhindern, s.o. unter B.2.1.
+Google Analytics.
+
+  
+

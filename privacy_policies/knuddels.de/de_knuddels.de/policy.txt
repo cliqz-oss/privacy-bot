@@ -1,0 +1,173 @@
+# Datenschutzrichtlinien
+
+Sofern Knuddels.de Deine personenbezogenen Daten erhebt und verwendet,
+geschieht dies ausschließlich im Rahmen der und im Einklang mit den
+Bestimmungen des Datenschutzrechts der Bundesrepublik Deutschland. Nachfolgend
+informieren wir Dich über die Art, den Umfang und den Zweck der Erhebung und
+der Verwendung personenbezogener Daten.
+
+### Personenbezogene Daten
+
+Was personenbezogene Daten sind, ist in § 3 Abs. 1 des
+Bundesdatenschutzgesetzes (BDSG) definiert. Danach handelt es sich um
+Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten
+oder bestimmbaren natürlichen Person.
+
+### Datenerhebung bei der Registrierung
+
+Bei der Registrierung auf Knuddels.de fragen wir Dich weder nach Deinem vollen
+Namen, noch nach Deiner Adresse, Deiner Telefonnummer oder Deiner
+Bankverbindung. Solche Daten musst Du für die Nutzung von Knuddels.de nicht
+angeben.
+
+Wenn Du Dich bei Knuddels.de anmeldest, wirst Du nur nach Deiner
+E-Mailadresse, Deinem Geschlecht und Deinem Alter gefragt. Es handelt sich bei
+diesen Daten um so genannte Bestandsdaten. Auf Anordnung der zuständigen
+Stellen dürfen wir im Einzelfall Auskunft über diese Bestandsdaten erteilen,
+soweit dies für Zwecke der Strafverfolgung, zur Gefahrenabwehr, zur Erfüllung
+der gesetzlichen Aufgaben der Verfassungsschutzbehörden oder des Militärischen
+Abschirmdienstes oder zur Durchsetzung der Rechte am geistigen Eigentum
+erforderlich ist.
+
+Diese Daten werden zusammen mit dem Datum und der Uhrzeit Deiner Anmeldung,
+die ebenfalls Bestandsdaten sind, in Deinem Profil gespeichert. Wenn ein
+anderer Nutzer von Knuddels.de Dein Profil aufruft, was jederzeit während der
+Nutzung möglich ist, kann er also Dein Alter, Dein Geschlecht und das Datum
+bzw. die Uhrzeit Deiner Anmeldung einsehen. Deine E-Mailadresse kann er jedoch
+nicht einsehen, weil voreingestellt ist, dass Deine E-Mailadresse von anderen
+Nutzern nicht eingesehen werden kann.
+
+Deine E-Mailadresse kann daher nur von Knuddels.de eingesehen werden, wenn Du
+keine andere Einstellung vornimmst. Auch ehrenamtliche Helfer von Knuddels.de
+(Admins und Moderatoren) können grundsätzlich Deine E-Mailadresse nicht sehen.
+Sie können lediglich einen anonymisierten Hash-Wert sehen. Eine Ausnahme
+besteht nur für Helfer, die die Einhaltung der Jugendschutzvorgaben von
+Knuddels.de überwachen.
+
+Knuddels.de nutzt Deine E-Mailadresse, um Dir Dein Passwort, wenn Du es einmal
+vergessen hast, zuzusenden. Außerdem erhältst Du über Deine E-Mailadresse
+einen Newsletter, wenn Du diesen abonniert hast. Knuddels.de gibt Deine
+E-Mailadresse nicht an Dritte weiter, soweit Knuddels.de hierzu nicht
+rechtlich verpflichtet ist.
+
+Werbenachrichten werden von Knuddels.de zudem nicht an Deine E-Mailadresse
+geschickt. Personalien, wie Dein vollständiger Name und Deine Adresse fragen
+wir nicht ab. Du nutzt Knuddels.de nicht mit deinem echten Namen, sondern
+einem frei ausgedachten Nicknamen, einem Pseudonym. Die richtigen Namen
+unserer Nutzer kennen wir daher nicht.
+
+### Altersverifikation
+
+Wenn Du möchtest, kannst Du das von Dir in Deinem Profil angegebene Alter
+mittels des Befehls „/verify“ verifizieren. Dazu musst Du Deine
+Personalausweisnummer in ein Eingabefeld eingeben, welches bei der Nutzung der
+obigen Funktion angezeigt wird. Die von Dir eingegebene Nummer wird
+automatisiert daraufhin überprüft, ob es sich nachvollziehbar um eine echte
+Personalausweisnummer handelt. Zudem wird automatisiert ermittelt, welches
+Alter sich aus der angegebenen Nummer ergibt. Nach Abschluss dieses Vorgangs
+wird die von Dir eingegebene Nummer nicht gespeichert. Wir können also nicht
+nachvollziehen, welche Nummer für welchen Knuddels.de-Account eingegeben
+wurde. Eine Weitergabe Deiner Personalausweisnummer an Dritte erfolgt zudem
+nicht.
+
+### Profilfotos
+
+Als Nutzer von Knuddels.de kannst Du ein oder mehrere Profilfotos hochladen,
+wenn Du anderen Nutzern zeigen möchtest, wie Du aussiehst. Diese Fotos kannst
+Du jederzeit, wenn Du Dich mit Deinem Benutzernamen und Deinem Passwort
+einloggst, wieder aus Deinem Profil löschen. Nach Löschung ist das Foto dann
+nicht mehr für andere Nutzer sichtbar. Das Foto ist dann nur noch zu
+administrativen Zwecken und Zwecken des Jugendschutzes für die Administration
+einsehbar.
+
+### Datenerhebung bei Seitenaufruf
+
+Dein Internet-Browser (z.B. Internet Explorer, Google Chrome, Firefox etc.)
+übermittelt beim Zugriff auf Knuddels.de aus technischen Gründen automatisch
+Daten an unseren Webserver. Bei diesen Daten handelt sich unter anderem um
+Datum und Uhrzeit des Zugriffs, die URL der verweisenden Webseite, die Menge
+der gesendeten Daten, den Browsertyp und –version sowie das Betriebssystem.
+Diese Daten werden getrennt von anderen Daten, die Du im Rahmen der Nutzung
+von Knuddels.de eingibst, gespeichert. Eine Zuordnung dieser Daten zu einer
+bestimmten Person oder einem bestimmten Account ist Knuddels.de nicht möglich.
+Diese Daten werden zu statistischen Zwecken ausgewertet und im Anschluss
+gelöscht.
+
+### Nutzungsdaten
+
+Wir erheben und verwenden personenbezogene Daten von Dir, soweit dies
+erforderlich ist, um die Inanspruchnahme unseres Internetangebotes zu
+ermöglichen (Nutzungsdaten). Dazu gehören insbesondere Angaben zu Beginn und
+Ende sowie des Umfangs der Nutzung von Knuddels.de sowie Deine IP-Adresse. Die
+Angaben zum Ende Deiner letzten Nutzung des Chats von Knuddels.de sowie die
+Gesamtzeit der Dauer Deiner Nutzung des Chats von Knuddels.de werden für
+andere Nutzer sichtbar in Deinem Profil gespeichert.
+
+Für Zwecke der Werbung, der Marktforschung und zur bedarfsgerechten Gestaltung
+unseres Internetangebotes dürfen wir bei Verwendung von Pseudonymen
+Nutzungsprofile erstellen. Du hast das Recht, dieser Verwendung Deiner Daten
+zu widersprechen. Die Nutzungsprofile dürfen wir nicht mit Daten über den
+Träger des Pseudonyms zusammenführen.
+
+### Cookies
+
+Um die Nutzung von Knuddels.de für Dich komfortabler zu machen, verwenden wir
+so genannte „Cookies“. Mit Hilfe dieser „Cookies“ können bei dem Besuch von
+Knuddels.de Daten auf Deinem Rechner gespeichert werden. Du hast die
+Möglichkeit, das Speichern von Cookies auf Deinem Rechner durch entsprechende
+Einstellungen in Deinem Browser zu verhindern. Hierdurch kann allerdings der
+Funktionsumfang von Knuddels.de eingeschränkt werden.
+
+### Mobilfunknummer
+
+Um Sonderleistungen bei Knuddels.de zu erhalten und diese zu bezahlen, kannst
+Du, ebenso wie zur Absicherung deines Accounts mittels TAN-Abrufs, Deine
+Mobilfunknummer bei Knuddels.de registrieren. Diese Nummer wird bei
+Knuddels.de in Zusammenhang mit Deinem Account gespeichert. Für andere Nutzer
+ist diese Nummer nicht einsehbar. Wenn Du über Dein Mobiltelefon Zahlungen für
+Sonderleistungen von Knuddels.de vornehmen willst, übermitteln wir diese an
+einen Dienstleistungspartner, der die monatlichen Abrechnungen vornimmt.
+
+Auf Anordnung der zuständigen Stellen dürfen wir im Einzelfall Auskunft über
+diese Daten (Bestandsdaten) erteilen, soweit dies für Zwecke der
+Strafverfolgung, zur Gefahrenabwehr, zur Erfüllung der gesetzlichen Aufgaben
+der Verfassungsschutzbehörden oder des Militärischen Abschirmdienstes oder zur
+Durchsetzung der Rechte am geistigen Eigentum erforderlich ist.
+
+### Google Analytics
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+(„Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf
+Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
+über Ihre Benutzung dieser Website werden in der Regel an einen Server von
+Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung
+der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google
+jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor
+gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von
+Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers
+dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der
+Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen
+und um weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen
+von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengeführt. Sie können die Speicherung der
+Cookies durch eine entsprechende Einstellung Ihrer Browser-Software
+verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
+gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden
+nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie
+erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-
+Adresse) an Google sowie die Verarbeitung dieser Daten durch Google
+verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin
+herunterladen und installieren (download).
+
+### Auskunft
+
+Auskunft über Deine Daten, die Knuddels gespeichert hat, erhältst Du, wenn Du
+Dich mit dem Nicknamen, über dessen Daten Du Auskünfte einholen willst, in den
+Chat einloggst und über das interne Nachrichtensystem von Knuddels Dein
+Auskunftsersuchen an den Nicknamen "Datenabfrage" richtest. Zu Deiner Anfrage
+erhältst Du dann ebenfalls über das Nachrichtensystem von Knuddels
+Rückantwort.
+

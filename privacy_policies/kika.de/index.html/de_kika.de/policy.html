@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html class="view-l">
+<head>
+    <title>Seite nicht gefunden</title>
+    <meta charset="utf-8"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="pragma" content="no-cache"/>
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta http-equiv="expires" content="Thu, 01 Jan 1980 00:00:00 GMT"/>
+    <meta name="author" content=""/>
+    <meta name="description" content=""/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <link rel="shortcut icon" type="image/x-icon" href="/resources/img/favicon.ico"/>
+    <link rel="apple-touch-icon" href="/resources/img/apple-touch-icon.png"/>
+    <link rel="stylesheet" type="text/css" href="/resources/css/print.css" media="print"/>
+    <link rel="stylesheet" href="/resources/player/css/kika/player.css" type="text/css"/>
+    <link rel="stylesheet" type="text/css" href="/resources/css/previewControl.css"/>
+<link rel="stylesheet" type="text/css" href="/resources/css/style.css"/>
+    <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/resources/css/ie8.css"/><![endif]-->
+    <noscript>
+        <link rel="stylesheet" type="text/css" href="/resources/css/style.css"/>
+    </noscript>
+
+
+    <script type="text/javascript">
+        var div = document.createElement("div");
+        div.innerHTML = "<!--[if lt IE 10]><i></i><![endif]-->";
+        var isIeLessThan10 = (div.getElementsByTagName("i").length == 1);
+
+        // max selectors in IE < 10 > http://blesscss.com
+        var path = "/resources/css/style-dev.css";
+        if (isIeLessThan10) {
+            path = "/resources/css/style.css";
+        }
+        var cssPathXS = path;
+        var cssPathS = path;
+        var cssPathM = path;
+        var cssPathL = path;
+        var cssPathXL = path;
+    </script>
+    <script type="text/javascript" src="/resources/js/loader-constricted-min.js"></script>
+</head>
+<body id="page-404" class="page-404">
+<div id="content">
+    <div class="wrapper" role="main"
+         data-ctrl-layoutable="{'id':'sectionlayout','action':{'xs':['disable'],'s':['disable'],'default':['equalHeight']},'refreshOnAdded':'true'}">
+        <div class="section sectionA sectionTransparent">
+            <div class="con">
+                <div class="modCon">
+                    <div class="mod modA">
+                        <div class="boxCon">
+                            <div class="box">
+                                <div class="mediaCon">
+                                    <a href="http://www.kika.de/">
+                                        <img src="/resources/img/kika/svg/logo.svg" width="120"/>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section sectionA">
+            <div class="con conInline">
+                <h2 class="conHeadline">Fehler <span class="page-error">404</span>: Seite nicht gefunden</h2>
+
+                <div class="modCon">
+                    <div class="mod modA">
+                        <div class="boxCon">
+                            <div class="box">
+                                <div class="mediaCon">
+                                    <img src="/resources/img/kika/svg/kikale-404.svg"/>
+                                </div>
+                            </div>
+                            <div class="box viewB">
+                                <div class="teaser">
+                                    <h1 class="headline">Wir können die Seite nicht finden!</h1>
+
+                                    <p class="teasertext">Vielleicht hast du dich vertippt?<br/>
+                                        Du kannst jetzt zur <a href="http://www.kika.de/">Startseite gehen</a>.<br/>
+                                        Oder probiere es mit der Suche:</p>
+
+
+                                    <div role="search" class="searchBox ">
+                                        <div class="searchFormWrapper">
+                                            <form class="searchForm" method="get" action="/suche/suche104.html"
+                                                  data-ctrl-search="{'id':'search404'}">
+                                                <input class="searchInput" type="text" value="Suche" name="q"
+                                                       data-ctrl-search404-input="{'action':{'default':['switchValue']}}"/>
+                                                <a class="searchSubmit" href="#"
+                                                   data-ctrl-search404-trigger="{'action':{'default':['submit']}}">
+                                                    SUCHEN </a>
+                                            </form>
+                                        </div>
+                                        <div class="searchAutosuggest" data-ctrl-search404-suggesttarget="{}">
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section sectionTransparent">
+            <p class="state">&copy; KiKA 2017</p>
+        </div>
+
+
+    </div>
+</div>
+
+<script type="text/javascript">
+    // test defer loading
+    /*
+     function downloadJSAtOnload() {
+     var element = document.createElement("script");
+     element.src = "/resources/js/min/test-min.js";
+     document.body.appendChild(element);
+     }
+     if (window.addEventListener)
+     window.addEventListener("load", downloadJSAtOnload, false);
+     else if (window.attachEvent)
+     window.attachEvent("onload", downloadJSAtOnload);
+     else window.onload = downloadJSAtOnload;
+     */
+</script>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        window.setTimeout(function () {
+            var ak_stat = "kika";
+            var ak_mobi = "mobkika";
+
+            function isStringDetected(value) {
+                var regexp = new RegExp(value, "gi");
+                return (regexp.test(navigator.appVersion) || regexp.test(navigator.userAgent)) ? true : false;
+            }
+
+            function isTablet() {
+                if (isStringDetected("iPad|Windows NT|Kindle|PlayBook") || (isStringDetected("Android") && !isStringDetected("Mobile"))) {
+                    return true;
+                }
+                return false;
+            }
+
+            /* SZMnG-Tag Responsiv-Weiche */
+            jQuery.ajaxSetup({ cache: true });
+            jQuery.getScript("https://script.ioam.de/iam.js").done(function () {
+                var isMobil = typeof orientation != 'undefined' ? true : false;
+                if (isTablet()) {
+                    isMobil = false;
+                } // Tablets zählen stationär
+                if (!isMobil) {
+                    var iam_data = {
+                        "st": ak_stat,
+                        "cp": "kika/Online/Text_Bild"
+                    };
+                } else {
+                    var iam_data = {"st": ak_mobi,
+                        "cp": "kika/Mobile/Text_Bild"
+                    };
+                }
+                iom.c(iam_data, 1);
+            });
+        }, 1);
+    });
+</script>
+<div class="inv">
+    <!-- Begin comScore Inline Tag 1.1302.13 (var comScorePixelUrl is necessary for KIKA.de-->
+    <script type="text/javascript">
+        // <![CDATA[
+        var comscorePixelUrl = "http://de.sitestat.com/mdr/kika/s?name=Fehlerseite&ns_http_status=404";
+        function udm_(e){var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+        udm_(comscorePixelUrl);
+        // ]]>
+    </script>
+    <noscript>
+        <p><img src="http://de.sitestat.com/mdr/kika/s?name=Fehlerseite&ns_http_status=4xx" width="1" height="1" alt="*" id="comScorePixel"/></p>
+    </noscript>
+    <!-- End comScore Inline Tag -->
+    <script type="text/javascript" src="/resources/js/technical.min.js"></script>
+</div>
+
+</body>
+</html>

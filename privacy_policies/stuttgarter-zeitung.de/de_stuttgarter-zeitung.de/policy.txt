@@ -1,0 +1,608 @@
+Datenschutzerklärung aktuelle Nachrichten auf stuttgarter-zeitung.de
+
+  * Stellen
+  * Immo
+  * Sonderthemen
+  * weitere Anzeigen
+    *       1. Trauerportal
+      2. Bekanntschaften
+      3. Reisemarkt
+      * Anzeige aufgeben
+
+  * Abo
+    *       1. Gedruckt lesen
+      2. Digital lesen
+      3. Kinderzeitung
+      4. Online-Leserservice
+      5. Onlinearchiv
+  * ePaper
+
+  *  
+    * Sie sind angemeldet als   Meine Daten Passwort ändern
+
+abmelden
+
+  * Login
+
+* * *
+
+  * Stuttgart
+    *       1. Übersicht Stuttgart
+      2. Stuttgart
+      3. Stadtbezirke
+        * Übersicht Stadtbezirke
+        * Stuttgart-Mitte
+        * Stuttgart-Nord
+        * Stuttgart-Ost
+        * Stuttgart-Süd
+        * Stuttgart-West
+        * Bad Cannstatt
+        * Birkach
+        * Botnang
+        * Degerloch
+        * Feuerbach
+        * Hedelfingen
+        * Möhringen
+        * Mühlhausen
+        * Münster
+        * Obertürkheim
+        * Plieningen
+        * Sillenbuch
+        * Stammheim
+        * Untertürkheim
+        * Vaihingen
+        * Wangen
+        * Weilimdorf
+        * Zuffenhausen
+      4. Stuttgart 21
+      5. Polizeibericht
+      * Mercedes-Benz
+    *     * Themen
+      1. Stadtkind Stuttgart
+      2. Baustellen in Stuttgart
+      3. Stuttgart früher
+      4. Stuttgarter Frühlingsfest
+
+      5. Von Zeit zu Zeit
+
+  * Region
+    *       1. Übersicht Region
+      2. Landkreis Böblingen
+      3. Landkreis Esslingen
+      4. Landkreis Göppingen
+      5. Landkreis Ludwigsburg
+      6. Rems-Murr-Kreis
+        * Übersicht Rems-Murr-Kreis
+        * Spukgeschichten
+      7. Polizeibericht
+      * Mercedes-Benz
+    *     * Themen
+      1. Reportage
+      2. Kolumne Ludwigsburg
+
+  * BW
+    *       1. Übersicht BW
+      2. Polizeibericht
+      * Mercedes-Benz
+    *     * Themen
+      1. BW Atlas
+
+  * Politik
+  * Wirtschaft
+    *       1. Übersicht Wirtschaft
+      2. Wirtschaftsinfos
+      3. Moneyspecial
+    *     *   * Sport
+    *       1. Übersicht Sport
+      2. VfB Stuttgart
+      3. Stuttgarter Kickers
+      4. Fußball
+      5. Sportmeldungen
+      6. Formel 1
+      7. FuPa Stuttgart
+    *     * Themen
+      1. Bundesliga
+      2. Handball
+
+  * Panorama
+    *       1. Übersicht Panorama
+      2. PetContent
+    *     *   * Kultur
+    *       1. Übersicht Kultur
+      2. Kinokritiken
+      * Veranstaltungskalender
+    *     * Themen
+      1. kopfhoerer.fm
+      2. Killer & Co.
+
+  * Wissen
+    *       1. Übersicht Wissen
+      2. Kinderwissen
+      * Technikwelt Foto & Film
+    *     * Themen
+      1. Angeklickt
+      2. Technikkolumne
+      3. Storytelling
+
+  * Reise
+    *       1. Übersicht Reise
+      2. Leserreisen
+      * Fernweh Escapes
+    *     *   * Genuss & Leben
+    *       1. Übersicht Genuss & Leben
+      2. Essen & Trinken
+      3. Veranstaltungen
+      4. Wohnen & Bauen
+      5. Beruf & Karriere
+      6. Auto & Motor
+      * Genuss & Wein
+      * Themenwelt Gesundheit
+      * Themenwelt Lifestyle
+    *     * Themen
+      1. Kolumne Kinderkram
+
+  *     *       1. Kolumnen
+      2. Reportage
+      3. Videos
+      4. Meine StZ
+      5. Hilfe für den Nachbarn
+      6. Leserfotos
+      7. Themen
+      8. Zeitung in der Schule
+      9. Kinderzeitung
+      10. Von Zeit zu Zeit
+      11. Wirtschaftszeitung
+      * Sonderthemen
+      * bemobile
+      * Kauf vor Ort
+
+Suche
+
+01.06.2017
+
+  *   * Kontakt / Impressum | 
+  * # Datenschutzerklärung
+
+Datenschutzerklärung
+
+Willkommen auf unserer Webseite. Wir (www.stuttgarter-zeitung.de) nehmen den
+Schutz Ihrer persönlichen Daten sehr ernst. Wir erheben und verwenden Ihre
+personenbezogenen Daten ausschließlich im Rahmen der jeweils geltenden
+datenschutzrechtlichen Bestimmungen.
+
+Unsere Mitarbeiter und Beauftragten werden auf die Einhaltung der
+datenschutzrechtlichen Bestimmungen nach den gesetzlichen Vorgaben
+verpflichtet.
+
+Im Folgenden unterrichten wir Sie über Art, Umfang und Zwecke der Erhebung und
+Verwendung personenbezogener Daten. Sie können diese Unterrichtung jederzeit
+in der auf unserer Webseite abrufen. Diese Unterrichtung bezieht sich auf die
+Nutzung des Dienstes mittels Diese Unterrichtung bezieht sich auf die Nutzung
+des Dienstes mittels PC, Smartphone, Tablet sowie alle weiteren
+internetfähigen Endgeräte.
+
+### DATENVERARBEITUNG AUF DIESER INTERNETSEITE
+
+Anonyme Datenerhebung und -verwendung
+
+Soweit in den folgenden Abschnitten nicht anderweitig dargestellt, werden bei
+Nutzung unserer Webseiten grundsätzlich keine personenbezogenen Daten erhoben,
+verarbeitet oder genutzt.
+
+www.stuttgarter-zeitung.de erhebt und speichert automatisch in ihren Server
+Log Files Informationen, die Ihr Browser an uns übermittelt. Dies sind:
+
+  * Browsertyp/ -version/ -einstellungen
+  * verwendetes Betriebssystem
+  * Referrer URL (die zuvor besuchte Seite sowie Datum nebst Uhrzeit und Dauer des Besuchs)
+  * Hostname des zugreifenden Rechners (IP Adresse)
+  * ggf. Hersteller und Typenbezeichnung des Smartphones, Tablets oder sonstigen mobilen Endgerätes
+  * Datum und Uhrzeit der Serveranfrage
+
+Diese Informationen werden von uns anonymisiert statistisch ausgewertet und
+ausschließlich dazu verwendet, die Attraktivität, Inhalte und Funktionalitäten
+unserer Webseite zu verbessern.
+
+Erhebung und Verwendung personenbezogener Daten
+
+Wie oben erläutert, ist es für die Nutzung unserer Website generell nicht
+erforderlich, personenbezogene Daten anzugeben. Einige Bereiche erfordern
+allerdings die Angabe von personenbezogenen Daten, z.B. bei der Registrierung
+zur Nutzung der Kommentarfunktion. Der Begriff der personenbezogenen Daten ist
+im Bundesdatenschutzgesetz definiert. Danach sind dies Einzelangaben über
+persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren
+natürlichen Person. Darunter fallen also beispielsweise Ihr bürgerlicher Name,
+Ihre Anschrift, Ihre Telefonnummer oder Ihr Geburtsdatum.
+
+Kontakt
+
+Personenbezogene Daten (z.B. Name, E-Mail-Adresse) werden auf dieser Webseite
+nur dann erhoben, wenn Sie uns diese von sich aus mitteilen, beispielsweise
+wenn Sie mit uns in Kontakt treten, z.B. wenn Sie diese Daten in einem
+Eingabefeld auf unserer Webseite eingeben oder per E-Mail an uns senden. Um
+einige Dienste in Anspruch nehmen zu können, ist es in manchen Fällen
+erforderlich, personenbezogene Daten wie z.B. Name, E-Mail-Adresse, Anschrift
+und Telefonnummer usw. zu erheben.
+
+Ihre personenbezogenen Daten werden nur zum Kontakt oder zu dem Zweck
+verwendet, für den Sie uns diese Daten bereitgestellt haben, z.B. zur
+Bearbeitung Ihrer Anfragen, technische Administration der Website und
+Kundenverwaltung.
+
+Eine Mitteilung dieser Angaben erfolgt ausdrücklich auf freiwilliger Basis und
+mit Ihrer Einwilligung. Soweit es sich hierbei um Angaben zu
+Kommunikationskanälen (beispielsweise E-Mail-Adresse, Telefonnummer) handelt,
+willigen Sie außerdem ein, dass wir Sie ggf. auch über diesen
+Kommunikationskanal kontaktieren, um Ihr Anliegen zu beantworten
+
+Ihre Post- und E-Mail-Adresse nutzen wir ggf., um Ihnen Informationen zu
+unseren Produkten und Dienstleistungen zukommen zu lassen. Zum Zwecke der
+Information über neue Produkte und andere Sie evtl. interessierende Leistungen
+unseres Hauses nutzen wir Ihre Daten nur, soweit Sie dazu im gesetzlich
+erforderlichen Umfang zuvor Ihre Einwilligung erteilt haben oder dies im
+Rahmen gesetzlicher Regelungen zulässig ist.
+
+Dem Erhalt von Werbung aus unserem Hause können Sie jederzeit für die Zukunft
+widersprechen, indem Sie uns dies über die unten stehenden Kontaktdaten
+mitteilen, ohne dass Ihnen hierfür andere als die Übermittlungskosten nach den
+Basistarifen entstehen. Erteilte Einwilligungserklärungen können Sie ebenfalls
+über die unten genannten Kontaktdaten widerrufen.
+
+Nutzer-Registrierung
+
+Für die Nutzer-Registrierung werden personenbezogene Daten zum Zweck der
+Identifikation und/oder Nutzung von Diensten und/oder zur Abwicklung
+bargeldlosen Zahlungsverkehrs benötigt. Folgende Informationen können
+abgefragt werden: Vor- und Zuname, Geburtsdatum, Anschrift, Telefonnummer,
+E-Mail-Adresse, Bankverbindung.
+
+E-Mail-Newsletter
+
+Sie erhalten von uns einen Newsletter zu Nachrichten und aktuellen
+Mitteilungen aus unserer Redaktion, wenn Sie diesen Newsletter explizit
+bestellen. Um sicher zu gehen, dass Sie auch tatsächlich Informationen von uns
+erhalten wollen, verwenden wir das sogenannte Double-Opt-In-Verfahren. Nach
+erfolgter Anmeldung erhalten Sie dazu per Mail einen Link, über den Sie den
+Newsletter-Dienst aktivieren. Selbstverständlich haben Sie die Möglichkeit,
+sich jederzeit vom Newsletter abzumelden und die von Ihnen erteilte
+Einwilligung für die Zukunft zu widerrufen. Hierzu klicken Sie bitte auf die
+entsprechende Schaltfläche ganz unten im zugesandten Newsletter, um sich vom
+Newsletter abzumelden. Alternativ können Sie auch per Mail an
+newsletter@stuttgarter-zeitung.de oder schriftlich an Stuttgarter Zeitung
+Verlagsgesellschaft mbH, Plieninger Straße 150, 70567 Stuttgart (bitte geben
+Sie hierzu Ihre vollständigen Daten an, damit wir Ihr Anliegen bearbeiten
+können) der weiteren Verwendung Ihrer E-Mail-Adresse widersprechen.
+
+WhatsApp Newsletter
+
+Zur Erbringung des WhatsApp-Newsletters nutzen wir den Dienst der
+Whappodo.com! GmbH. Im Auftrag der Stuttgarter Zeitung als Betreiber der
+Webseite wird die Whappodo.com! GmbH Ihre Telefonnummer nutzen, um Ihnen den
+WhatsApp-Newsletter-Dienst zu erbringen. Des Weiteren kann die Whappodo.com!
+GmbH weitere bei WhatsApp hinterlegte personenbezogene Daten erheben,
+insbesondere den bei WhatsApp hinterlegten Vor- und Nachnamen, das Endgerät,
+Profilbild und Nachrichten/Bilder, welche Sie über WhatsApp an uns senden.
+
+Weitere Informationen sowie die Datenschutzerklärung der Whappodo.com! GmbH
+finden Sie hier.
+
+Zur Erbringung des WhatsApp-Newsletter-Dienstes nutzt die Whappodo.com! GmbH
+den Messenger Dienst WhatsApp. WhatsApp erhebt für die Erbringung des
+WhatsApp-Newsletter-Dienstes eigenständig Daten. Zweck und Umfang der
+Datenerhebung durch WhatsApp sowie die dortige weitere Verarbeitung und
+Nutzung Ihrer Daten wie auch Ihre diesbezügliche Rechte und
+Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte
+den Datenschutzhinweisen von WhatsApp. Die Datenschutzhinweise von WhatsApp
+finden Sie hier.
+
+Wenn Sie sich für unseren WhatsApp-Newsletter angemeldet haben, speichern wir
+ausschließlich Ihre Mobiltelefonnummer. Die Mobiltelefonnummer wird für die
+Zustellung der WhatsApp-Benachrichtigung verwendet. Wir geben Ihre
+Mobiltelefonnummer nicht an Dritte weiter. Ihre Mobiltelefonnummer ist für
+andere Abonnenten unseres Newsletters nicht sichtbar und diese können Ihnen
+auch keine WhatsApp-Nachrichten senden, da es sich hier nicht um eine Gruppe,
+sondern um eine Broadcast-Liste handelt.
+
+Wir senden von Montag bis Sonntag am Nachmittag gegen 17 Uhr eine Nachricht
+mit ca. vier bis fünf Links. Bei besonderen Anlässen (z.B.z.B. sportliche,
+weltpolitische Ereignisse) können zusätzliche Nachrichten verschickt werden.
+
+Zum Abbestellen des WhatsApp-Newsletters senden Sie einfach eine Nachricht mit
+dem Wort "Stop" oder löschen Sie einfach unsere aus Ihren Kontakten. Daraufhin
+erhalten Sie keine weiteren Nachrichten mehr von uns. Sie können auch einfach
+pausieren - etwa während Ihres Urlaubs. Dann schicken Sie eine WhatsApp mit
+dem Wort "Pause" an uns. Der Newsletter setzt dann so lange aus, bis Sie
+wieder "Start" schreiben.
+
+### WEITERGABE IHRER PERSONENBEZOGENEN DATEN
+
+Wir geben Ihre personenbezogenen Daten ausschließlich dann an eine andere
+Stelle weiter, wenn
+
+  * eine Weitergabe ohne Ihre Einwilligung rechtmäßig ist oder, soweit dies nicht der Fall ist, Sie der Übermittlung über die Vertragsabwicklung hinaus ausdrücklich zugestimmt haben,
+  * die Übermittlung zur Durchführung der Angebote oder Services, die Sie in Anspruch nehmen wollen, notwendig ist oder
+  * ein Unterauftragnehmer oder Erfüllungsgehilfe, der im Rahmen der Erbringung der Angebote oder Dienste eingesetzt wird, diese Daten benötigt. Solche Hilfspersonen sind, soweit Ihnen nicht ausdrücklich etwas anderes mitgeteilt wird, nur insoweit zur Verwendung der Daten berechtigt, als dies für die Erbringung des Angebots oder Services erforderlich ist (soweit unsere Dienstleister mit Ihren personenbezogenen Daten in Berührung kommen, stellen wir sicher, dass diese die Vorschriften der Datenschutzgesetze in gleicher Weise einhalten) oder
+  * eine vollstreckbare behördliche oder gerichtliche Anordnung vorliegt oder
+  * dies nötig ist, um eine missbräuchliche Verwendung unserer Angebote oder Services, insbesondere einer Nutzung unter Verstoß gegen die Allgemeinen Geschäftsbedingungen des Verlages oder besondere Nutzungsbedingungen, in gesetzlich zulässiger Weise zu unterbinden.
+
+### INFORMATIONEN ZU NUTZUNGSBASIERTER ONLINE-WERBUNG
+
+Um Werbung für Sie anhand Ihrer Nutzungsinteressen zu optimieren, haben wir es
+folgenden Unternehmen gestattet, Nutzungsdaten zu erheben: Zuständig für die
+Datenerhebung ist: OMS Vermarktungs GmbH & Co. KG Zollhof 4 40221
+Düsseldorfwww.oms.eu/cms/nutzungsbasierte-online-werbung.html
+
+Mehr Informationen zu nutzungsbasierter Online-Werbung und die Möglichkeiten
+ihrer Deaktivierung finden Sie auch unter: www.meine-cookies.org.
+
+Zur Erhöhung der Attraktivität, Inhalt und Funktionalität der Webseite
+arbeitet OMS mit weiteren, nachfolgend aufgelisteten Dienstleistern zusammen:
+
+Taboola Inc., London (Oneustonsq, 40 Melton Street, 13th Floor, London, NW1
+2FD)  
+Wir setzen auf unserer Webseite Taboola ein. Die Verwendung der Technologie
+der Taboola Europe Limited ermöglicht es, Ihnen zu Ihren persönlichen
+Interessen passende Inhalte zu empfehlen und so unser Angebot individuell für
+Sie zu gestalten. Taboola ermittelt über Cookies, welche Webseiten Sie häufig
+besuchen und wie Sie sich auf unserer Webseite bewegen. Hierzu werden
+gerätebezogene Daten sowie Protokolldaten erhoben und Nutzungsprofile bei
+Verwendung von Pseudonymen erzeugt. Diese Nutzungsprofile werden nicht mit
+Daten über den Träger des Pseudonyms zusammengeführt und lassen keine
+Rückschlüsse auf Ihre persönlichen Daten zu. Ihre IP-Adresse zum Beispiel wird
+dabei gekürzt an Taboola übertragen. Nähere Informationen zu Taboola finden
+Sie unter www.taboola.com/privacy-policy. Eine Möglichkeit zur Deaktivierung
+des Dienstes finden sie auf der Webseite der Digital Advertising Alliance
+unter http://www.aboutads.info/choices/. Sie können die Speicherung von
+Cookies auch durch eine entsprechende Einstellung in Ihrer Browser-Software
+verhindern.
+
+Brightcove Inc., Boston  
+Brightcove ist ein führender globaler Anbieter von Clouddiensten für Videos.
+Die Brightcove-Technologien werden unter anderem eingesetzt, um Ihnen auf Ihre
+persönlichen Interessen ausgerichtete Videos zu empfehlen und die Zugriffe der
+Nutzer auf den bereitgestellten Vi-deocontent zu analysieren, um so die
+Attraktivität und Funktionalität der Webseite zu ver-bessern. Hierzu verwendet
+Brightcove Cookies und erhebt gerätebezogene Daten (z.B.
+Browserinformationen), unter anderem auch die IP-Adressen der Nutzer, die auf
+den bereit-gestellten Videocontent zugreifen. Diese werden unmittelbar nach
+Abruf pseudonymisiert und nicht personalisiert gespeichert. Personenbezogene
+Daten der Nutzer werden von Brightcove grundsätzlich nicht gespeichert.
+Sollten Sie Videos über E-Mail mit Ihren Freunden teilen, werden die so von
+Ihnen mitgeteilten und gespeicherten E-Mail-Adressen automatisch wieder
+gelöscht.  
+Nähere Informationen zu Brightcove und die Möglichkeit zur Deaktivierung des
+Einsatzes von Brightcove finden Sie unter  
+http://support.brightcove.com/en/video-cloud/docs/video-cloud-player-cookies  
+http://support.brightcove.com/en/video-cloud/docs/disabling-video-cloud-
+cookies-user-basis
+
+Alternativ können Sie ebenso die Anbieter übergreifende Webseite
+http://www.meine-cookies-org nutzen. Dort können Sie ferner auswählen, ob Sie
+Cookies des jeweiligen Anbieters zulassen wollen oder nicht. Wie dies im
+Einzelnen funktioniert, entnehmen Sie bitte den dortigen Hinweisen und
+Anweisungen.
+
+### COOKIES/WEBANALYSEDIENSTE
+
+Comscore
+
+Auf dieser Website nutzen wir Comscore, ein Produkt der Comscore Inc., das
+dazu dient, die Besuche auf unserer Website zu messen und zu analysieren. Wir
+nutzen Ihre zuvor anonymisierte IP-Adresse in der Absicht, Daten zu sammeln,
+unter anderem über den Internetverkehr, über Ihren Browser und Ihren Computer.
+Ein Rückschluss, um Sie persönlich zu identifizieren, ist wegen der
+anonymisierten IP-Adresse nicht mehr möglich. Darüber hinaus werden auch
+Cookies vergeben. Ein Cookie ist eine kleine Datei, die auf Ihrem Computer
+gespeichert wird, sobald Sie eine Website besuchen. Wenn Sie die Website
+erneut besuchen, zeigt der Cookie an, dass es sich um einen wiederholten
+Besuch handelt. Der Cookie enthält ausschließlich eine einmalige Nummer. Der
+Cookie enthält keine persönlichen Angaben. Der Cookie ist nicht geeignet, Sie
+auf den Websites Dritter zu identifizieren, einschließlich der Websites von
+Comscore. Sie können Ihren Browser so konfigurieren, dass die Annahme von
+Cookies prinzipiell verweigert wird oder Sie vorab informiert werden, wenn ein
+Cookie gespeichert wird. Weitere Informationen dazu finden Sie in der
+Bedienungsanleitung Ihres Internet-Browsers. Wir nutzen den Service von
+Comscore mit dem Ziel, die Effizienz unserer Website zu steigern.
+
+Google Analytics
+
+www.stuttgarter-zeitung.de benutzt Google Analytics, einen Webanalysedienst
+der Google Inc. (“Google”). Google Analytics verwendet sog. “Cookies”,
+Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse
+der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie
+erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel
+an einen Server von Google in den USA übertragen und dort gespeichert. Da
+www.stuttgarter-zeitung.de die IP-Anonymisierung auf dieser Webseite aktiviert
+hat, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der
+Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum zuvor gekürzt. Sie können die Erfassung durch
+Google Analytics verhindern, indem Sie auf den folgenden Link klicken. Es wird
+ein Opt-Out-Cookie gesetzt, das die zukünftige Erfassung Ihrer Daten beim
+Besuch dieser Website verhindert: Google Analytics deaktivieren
+
+Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in
+den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website
+wird Google diese Informationen benutzen, um Ihre Nutzung der Website
+auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um
+weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen
+von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengeführt. Sie können die Speicherung der
+Cookies durch eine entsprechende Einstellung Ihrer Browser-Software
+verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
+gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden
+nutzen können.
+
+Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf
+Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google
+sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das
+unter dem folgenden Link verfügbare Browser-Plugin herunterladen und
+installieren https://tools.google.com/dlpage/gaoptout?hl=de. Angesichts der
+Diskussion um den Einsatz von Analysetools mit vollständigen IP-Adressen
+möchten wir darauf hinweisen, dass diese Website Google Analytics mit der
+Erweiterung “_anonymizeIp()” verwendet und daher IP-Adressen nur gekürzt
+weiterverarbeitet werden, um eine direkte Personenbeziehbarkeit
+auszuschließen.
+
+Wir nutzen Google Analytics zudem dazu, Daten aus AdWords und dem Double-
+Click-Cookie zu statistischen Zwecken auszuwerten. Sollten Sie dies nicht
+wünschen, können Sie dies über den Anzeigenvorgaben-Manager
+(http://www.google.com/settings/ads/onweb/?hl=de) deaktivieren.
+
+Des Weiteren nutzt diese Seite die Google Analytics-Berichte zur Leistung nach
+demografischen Merkmalen und Interessen, welche demografische Merkmale wie das
+Alter und das Geschlecht in einem Cookie speichern. Diese Daten sind nicht auf
+eine bestimmte Person zurückzuführen und können jederzeit über die
+Anzeigeneinstellungen (https://www.google.com/settings/u/0/ads/authenticated)
+deaktiviert werden.
+
+Chartbeat
+
+Für Echtzeitdaten nutzen wir das Analyse-Tool Chartbeat, welches u.a. auch auf
+die Verwendung von Cookies setzt. Der Cookie enthält keine persönlichen
+Angaben. Der Cookie ist nicht geeignet, Sie auf den Websites Dritter zu
+identifizieren, einschließlich der Websites von Chartbeat. Sie können Ihren
+Browser so konfigurieren, dass die Annahme von Cookies prinzipiell verweigert
+wird oder Sie vorab informiert werden, wenn ein Cookie gespeichert wird.
+Weitere Informationen dazu finden Sie in der Bedienungsanleitung Ihres
+Internet-Browsers. Chartbeat ist ein Service der Chartbeat Inc. 826 Broadway,
+6th Floor, New York, NY 10003, USA. Jegliche Auswertung erfolgt anonymisiert.
+Weitere Informationen zu Chartbeat: http://chartbeat.com/about/
+
+### VERWENDUNG VON SOCIAL-PLUGINS VON FACEBOOK, GOOGLE+ UND TWITTER
+
+Das Angebot von www.stuttgarter-zeitung.de verwendet Social-Plugins der
+Anbieter
+
+  * Facebook (Betreiber: Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA)
+  * Twitter (Betreiber: Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA)
+  * Google+ (Betreiber: Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA)
+
+Diese Plugins erfassen normalerweise standardmäßig Daten von Ihnen und
+übermitteln diese an die Server des jeweiligen Anbieters.
+
+Um den Schutz Ihrer Privatsphäre zu gewährleisten, haben wir technische
+Maßnahmen ergriffen, die gewährleisten, dass Ihre Daten nicht ohne Ihre
+Zustimmung von den Anbietern des jeweiligen Plugins erfasst werden können. Bei
+Aufruf einer Seite, auf denen die Plugins eingebunden sind, sind diese
+zunächst deaktiviert. Erst mit einem Klick auf das jeweilige Symbol werden die
+Plugins aktiviert und Sie geben damit Ihre Zustimmung, dass Ihre Daten an den
+jeweiligen Anbieter übertragen werden.
+
+Die Plugins erfassen nach Aktivierung auch personenbezogene Daten wie Ihre IP-
+Adresse und senden diese an die Server des jeweiligen Anbieters, wo diese
+gespeichert werden. Außerdem setzen aktivierte Social Plugins beim Aufruf der
+betreffenden Webseite ein Cookie mit einer eindeutigen Kennung. Dadurch können
+die Anbieter auch Profile über Ihr Nutzungsverhalten erstellen. Dies geschieht
+auch dann, wenn Sie nicht Mitglied bei dem sozialen Netzwerk des jeweiligen
+Anbieters sind. Sollten Sie Mitglied bei dem sozialen Netzwerk des Anbieters
+sein und sind Sie während Ihres Besuchs auf dieser Website bei dem sozialen
+Netzwerk eingeloggt, können Ihre Daten und Informationen über den Besuch auf
+dieser Webseite mit Ihrem Profil auf dem sozialen Netzwerk verknüpft werden.
+Auf den genauen Umfang der von Ihnen erhobenen Daten durch den jeweiligen
+Anbieter haben wir keinen Einfluss. Nähere Informationen über den Umfang, die
+Art und den Zweck der Datenverarbeitung und über Rechte und
+Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte
+den Datenschutzhinweisen des jeweiligen Anbieters des sozialen Netzwerks.
+Diese sind unter den folgenden Adressen abrufbar:
+
+Facebook: http://www.facebook.com/policy.php  
+Twitter: http://twitter.com/privacy/  
+Google+: http://www.google.com/intl/de/privacy/
+
+### DATENSCHUTZERKLÄRUNG ZUR NUTZUNG DES SKALIERBAREN ZENTRALEN MESSVERFAHRENS
+
+Unsere Website nutzt das „Skalierbare Zentrale Messverfahren“ (SZM) der Fa.
+INFOnline ( https://www.infonline.de) für die Ermittlung statistischer
+Kennwerte zur Nutzung unserer Angebo-te. Dabei werden anonyme Messwerte
+erhoben. Die SZM-Reichweitenmessung verwendet zur Wiedererkennung von
+Computersystemen alternativ entweder einen Cookie mit der Kennung „ivwbox.de“
+oder eine Signatur, die aus verschiedenen automatisch übertragenen
+Informationen Ihres Computers erstellt wird. IP-Adressen werden in dem
+Verfahren nicht gespeichert und nur in anonymisierter Form verarbeitet. Die
+Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt.
+Ziel der Reichweitenmessung ist es, die Nutzungsintensität und die Anzahl der
+Nutzer einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden
+einzelne Nutzer identifiziert. Ihre Identität bleibt immer geschützt. Sie
+erhalten über das System keine Werbung. Für Web-Angebote, die Mitglied der
+Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern
+e.V. (IVW – www.ivw.eu) sind oder an der Studie „internet facts“ der Arbeits-
+gemeinschaft Online-Forschung e.V. (AGOF – www.agof.de) teilnehmen, werden die
+Nutzungsstatistiken monatlich von der AGOF und der Arbeitsgemeinschaft Media-
+Analyse e.V. (ag.ma - www.agma-mmc.de), sowie der IVW veröffentlicht und
+können unterhttp://www.agof.de, http://www.agma-mmc.de und http://www.ivw.eu
+eingesehen werden. Neben der Veröffentlichung von Messdaten überprüft die IVW
+das SZM-Verfahren regelmäßig im Hinblick auf eine regel- und
+datenschutzkonforme Nutzung. Weitere Informationen zum SZM-Verfahren finden
+Sie auf der Website der INFOnline GmbH ( https://www.infonline.de), die das
+SZM-Verfahren betreibt, der Datenschutzwebsite der AGOF (
+http://www.agof.de/datenschutz) und der Datenschutzwebsite der IVW (
+http://www.ivw.eu). Sie können der Datenverarbeitung durch das SZM unter
+folgendem Link widersprechen: http://optout.ivwbox.de
+
+### SICHERHEIT
+
+Wir haben umfangreiche technische und betriebliche Schutzvorkehrungen
+getroffen, um Ihre Daten vor zufälligen oder vorsätzlichen Manipulationen,
+Verlust, Zerstörung oder dem Zugriff unberechtigter Personen zu schützen.
+Unsere Sicherheitsverfahren werden regelmäßig überprüft und dem
+technologischen Fortschritt angepasst.
+
+### IHRE RECHTE
+
+Widerrufsrecht
+
+Sie haben das Recht, eine durch Sie erteilte Einwilligung in die Erhebung und
+Verwendung personenbezogener Daten mit Wirkung für die Zukunft jederzeit zu
+widerrufen.
+
+Auskunftsrecht
+
+Sie haben das Recht, Auskunft über die zu Ihrer Person oder zu Ihrem Pseudonym
+gespeicherten Daten zu verlangen. Auf Ihr Verlangen kann die Auskunft auch
+elektronisch erteilt werden.
+
+Recht auf Korrektur, Löschung, oder Sperrung
+
+Sie haben das Recht, die Korrektur, Löschung oder Sperrung der zu Ihnen
+gespeicherten personenbezogenen Daten zu verlangen. Sollten gesetzliche
+Vorschriften eine Löschung nicht zulassen, werden Ihre Daten stattdessen
+gesperrt, so dass sie nur noch zum Zwecke der zwingenden gesetzlichen
+Vorschriften zugänglich sind.
+
+Zur Wahrnehmung Ihrer vorstehenden Rechte auf Widerruf, Auskunft, Korrektur,
+Löschung oder Sperrung Ihrer personenbezogenen Daten, wenden Sie sich bitte
+per Post an die Adresse Stuttgarter Zeitung Verlagsgesellschaft mbH,
+Plieninger Straße 150, 70567 Stuttgart (Pressehaus) oder per E-Mail an
+info@sir.zgs.de. Die Inanspruchnahme Ihrer vorstehenden Rechte ist für Sie
+kostenlos.
+
+### WEITERE INFORMATIONEN
+
+Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit Rede und
+Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Wenn
+Sie Fragen haben, die Ihnen diese Datenschutzerklärung nicht beantworten
+konnte oder wenn Sie zu einem Punkt vertiefte Informationen wünschen, wenden
+Sie sich bitte jederzeit an uns unter info@sir.zgs.de
+
+Die Datenschutzerklärung für Abonnements und Services der digitalen und
+gedruckten Ausgabe der Stuttgarter Zeitung finden Sie in der StZ Leserwelt.
+
+  * Kontakt|
+  * Impressum|
+  * Datenschutzerklärung|
+  * AGB|
+  * Nutzungsbasierte Onlinewerbung|
+  * Mediadaten
+
+© STUTTGARTER-ZEITUNG.DE zum Seitenanfang
+
+### stuttgarter-zeitung.de wurde gerade aktualisiert
+
+Wollen Sie die Seite neu laden?
+
+Neu laden  
+schließen  
+Täglich StZ-News via WhatsApp  
+Jetzt anmelden Diesen Hinweis künftig nicht mehr zeigen.
+

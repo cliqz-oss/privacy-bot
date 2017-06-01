@@ -1,0 +1,176 @@
+enter your search terms here enter search  
+  
+SettingsSettings
+
+  * Privacy
+    * How we protect you
+    * Q&amp;A;
+    * Our privacy policy
+  * Settings
+  * Support
+  * CommunityCommunity
+
+Facebook  
+Twitter  
+Blog  
+  
+  * About Us About Us
+
+How we're different  
+Our history  
+Our people  
+Company  
+Press center  
+  
+  * Add StartPage
+    * Add to Browser
+    * Homepage
+    * Mobile Device
+  * Language Language
+
+Dansk Deutsch  
+English English UK  
+Español Français  
+Italiano Nederlands  
+Norsk Polski  
+Portugues Suomi  
+Svenska Turkçe  
+中文 日本語  
+繁體中文 한글  
+  
+  * Share
+  * Theme Theme
+
+Air  
+Night  
+White  
+Black  
+  
+
+PRIVACY
+
+  * How we protect you
+  * Q&amp;A;
+  * Our privacy policy
+
+* SETTINGS
+* SUPPORT
+
+COMMUNITY
+
+  * Facebook
+  * Twitter
+  * Blog
+
+ABOUT
+
+  * How we're different
+  * Our history
+  * Our people
+  * Company
+  * Press center
+
+ADD STARTPAGE
+
+  * Add to Browser
+  * Homepage
+  * Mobile Device
+
+* SHARE
+
+  
+  
+  
+  
+  
+  
+
+# Make homepage
+
+### Start every Web-browsing session off right with the wholesome goodness of
+Ixquick Metasearch.  
+  
+
+###
+
+###
+
+Set StartPage by Ixquick As Your Home Page
+
+1 Click on Chrome's menu:
+
+2 Choose Settings.
+
+3 Under On startup, choose Open a specific page or set of pages, and click on
+Set pages.
+
+4 Enter https://www.ixquick.com, then OK.
+
+Set StartPage by Ixquick As Your Home Page
+
+1 Drag with your mouse our logo below to the Homepage icon on the top-right
+corner of your browser.
+
+2 Press "Yes" in the pop-up.
+
+Set StartPage by Ixquick As Your Home Page
+
+1 Click the down arrow to the right of the Home icon, just under the URL bar
+on the left.
+
+2 In the popup, choose Add or change home page...
+
+3 Choose Use this webpage as your only home page (or another option), and
+click Yes.
+
+Set StartPage by Ixquick As Your Home Page
+
+1 In the Safari menu, choose Preferences...
+
+2 Choose General at the top left of the popup.
+
+3 Just under Homepage:, Enter https://www.ixquick.com:
+
+Set StartPage by Ixquick As Your Home Page
+
+1 Click the three-dot icon in the top right:
+
+2 Choose Settings.
+
+3 Under Open with, choose A specific page or pages.
+
+4 Choose Custom, enter www.ixquick.com, and click the + button to the right.
+
+Set StartPage by Ixquick As Your Home PageSorry, the home page for this
+browser cannot be configured automatically. But you can almost certainly
+configure it manually. If you do that, then the URL to put in at the home page
+setting is
+
+Set StartPage by Ixquick As Your Home Page
+
+1 Open Preferences/Settings.
+
+2 Within Basic, under On startup, choose Open a specific page or set of pages.
+
+3 Next to that, click Set pages and enter https://www.ixquick.com/eng/
+
+4 Click OK.
+
+Set StartPage by Ixquick As Your Home Page
+
+1 In the menu, click on Vivaldi &gt; Settings.
+
+1 In the menu, click on Vivaldi &gt; Preferences.
+
+2 Click on the section 'Startup'.
+
+3 Under Homepage, insert: http://www.startpage.com
+
+4 Click on 'Save'.
+
+5 Under 'Startup with', click on the 'Homepage' radio button.  
+  
+(C) 2017 StartPage
+
+StartMail Privacy Policy
+

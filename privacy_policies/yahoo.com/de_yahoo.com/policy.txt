@@ -1,0 +1,111 @@
+  * ⌂Start
+  * Mail
+  * Nachrichten
+  * Sport
+  * Finanzen
+  * Stars
+  * Style
+  * Movies
+  * Wetter
+  * Flickr
+  * Mobile
+  * Weitere⋁
+
+    * Clever
+    * Messenger
+    * Groups
+
+Yahoo Settings  
+  
+  * 👤 Anmelden
+  * ✉ Mail
+  * ⚙ Hilfe
+
+    * Account-Info
+    * Hilfe
+
+  * AGB
+  * Datenschutzcenter
+
+    * Themen
+    * Produkte
+    * Einstellungen
+
+  * Urheberrecht
+
+# Yahoo Cookies
+
+Beim Besuch unserer Websites, der Nutzung unserer Produkte oder dem Besuch von
+Websites, auf denen Yahoo Werbung, Inhalte oder Analysewerkzeuge bereitstellt,
+ggf. Cookies und Geräte-Identifizierungsmerkmale nutzen. Ein Cookie ist eine
+kleine Datei, die mit dem Zweck auf einem Computer gespeichert wird, den
+entsprechenden Browser bei Interaktionen auf Websites zu identifizieren.
+Geräte-Identifizierungsmerkmale werden aus verfügbaren Systemelementen
+zusammengestellt. Dazu gehören: IP-Adresse, Daten des Benutzeragenten
+(Browserversion, Typ und Version des Betriebssystems) und vom Gerät erzeugte
+Identifizierungsmerkmale wie: Apple ID for Advertisers, Apple ID for Vendors,
+Google Android ID und Google Play Store Ad ID. Cookies und ähnliche Techniken
+können genutzt werden, um Elemente wie Identifizierungsmerkmale und
+Nutzereinstellungen zu speichern und Yahoo Nutzer zu identifizieren und zu
+erkennen. Eine Website kann Cookies in einen Browser setzen, dessen
+Einstellungen dies gestatten. Ein Browser gestattet einer Website nur Zugriff
+auf die Cookies, die von dieser Website gesetzt wurden, nicht auf die Cookies
+anderer Websites.
+
+## Yahoo Richtlinien fur die Verwendung von Cookies und ahnlichen Technologien
+
+Yahoo verwendet Cookies und ahnliche Technologien fur unterschiedliche Zwecke,
+wie beispielsweise:
+
+  * Fur den Zugriff auf Ihre Account-Informationen bei der Anmeldung, damit wir Ihnen personalisierte Inhalte anbieten konnen, oder um die Website zu erfassen, die Sie zuletzt innerhalb der Yahoo Produkte und Dienste besucht haben. 
+    * Die von Yahoo uber Ihre Aktivitaten und Ihre Interessen erfassten Daten werden auf Yahoo Servern verwaltet und mit Yahoo Cookies und ahnlichen Technologien verknupft. Mehr uber die Datenspeicherungsrichtlinien von Yahoo erfahren Sie hier.
+  * Behalten Sie Ihre Einstellungen und Identität bei, wenn Sie Produkte und Dienstleistungen von Yahoo nutzen.
+    * Bei der Anmeldung in Ihrem Yahoo Account wird auf dem genutzten Computer/Gerät ein Cookie oder ein Geräte-Identifizierungsmerkmal (ID) gesetzt, das mit Daten über Ihre Interessen verknüpft wird. So kann Yahoo bei der Anmeldung auf unterschiedlichen Geräten Bezug auf Ihre Interessen, Aktivitäten, Präferenzen und vorige Nutzung von Yahoo nehmen. Dies bedeutet, dass Ihre Browsing-Gewohnheiten und weitere Aktivitäten auf Ihrem Computer bei der Arbeit, in der Bibliothek und auf anderen Geräten Ihre Erfahrung mit Yahoo beeinflussen können, wenn Sie Ihren Computer zuhause oder ein anderes Gerät benutzen. Dies setzt voraus, dass Sie angemeldet sind.
+  * Fur die Anzeige von Werbeanzeigen und Inhalten, die auf Ihre jeweiligen Interessen zugeschnitten sind. 
+    * Yahoo sammelt und verwaltet Informationen uber Ihre Interessen, basierend auf Ihren Surfgewohnheiten beim Besuch von Websites der Yahoo Konzerngruppe, Websites innerhalb des Netzwerks von Yahoo sowie anderen Websites von Yahoo Partnern.
+    * Yahoo verwendet moglicherweise Ein-Pixel-Bilder, um Informationen uber Ihre Surfgewohnheiten beim Besuch von Websites der Yahoo Konzerngruppe sowie anderen, nicht zu Yahoo gehorenden Websites zu sammeln und zu verwalten.
+  * Zur Generierung von allgemeinen Daten fur den internen Gebrauch und fur Kundenanalysen. 
+    * Yahoo Analytics ist ein System zur Sammlung von Daten über die Besucher der Websites unserer Kunden und die Nutzung der Dienstleistungen und Apps unserer Kunden.
+  * Zur Verwaltung personlich identifizierbarer sowie anonymer Informationen. 
+    * Wenn Sie mit Ihrem Yahoo Account angemeldet sind, verknupft Yahoo Ihre Interessen und Aktivitaten mit Ihrem Yahoo Account. Bei diesem Prozess werden Ihre personenbezogenen Daten sowie die Informationen uber Ihre Surfgewohnheiten getrennt behandelt.
+    * Bei registrierten Yahoo Nutzern, die sich aber nicht angemeldet haben, speichert Yahoo Daten über Interessen mittels einer Browser-Cookie-ID. Diese Cookie-ID ist eine verschlüsselte, nicht rückführbare („one-way secret hashed”) Form eines Cookies von Yahoo, welches getrennt von den Daten ihres Yahoo Accounts ist und Alter (in Jahren), Geschlecht und Standort umfasst, die beim Einrichten des Yahoo Accounts angegeben wurden. Ihre Geräte-ID und sonstige Identifikationsmerkmale können für jedes Gerät, mit dem Sie sich anmelden, mit dieser Cookie ID verknüpft werden. Zudem können Ihre Geräte oder Cookie-IDs mit anderen Geräten in Verbindung gebracht werden, die sich an einem ähnlichen Standort befinden, beispielsweise im gleichen Haushalt. Dieses Cookie wird weder von Yahoo noch von Drittparteien dazu genutzt, Sie persönlich zu identifizieren.
+  * Fur Marktforschungszwecke, um die Inhalte, die Produkte und die Dienste von Yahoo weiter zu verbessern.
+  * Fur die Weiterentwicklung von Sicherheitsmaßnahmen, beispielsweise jener, sich nach einer bestimmten Zeit erneut bei Yahoo Produkten oder Diensten anmelden zu mussen.
+  * Um mogliche betrugerische Handlungen zu erkennen.
+
+## Einstellungen von Cookies und ahnlichen Technologien
+
+  * Über unseren Ad Interest Manager konnen Sie sehen und/oder anpassen, welche Interessen Ihrem Browser zugeordnet wurden. Diese dienen uns dazu, Ihnen personalisierte Anzeigen und Inhalte bereitzustellen. Im Ad Interest Manager konnen Sie sich von einer oder mehreren Interessenkategorien oder von interessenbasierter Werbung und interessensbasierten Inhalten von Yahoo abmelden. 
+    * Yahoo bietet Ihnen die Moglichkeit, sich dauerhaft abzumelden. Sie mussen sich aber zunachst bei Yahoo anmelden, bevor Sie die entsprechenden Einstellungen vornehmen konnen.
+  * Sie konnen Ihren Browser so konfigurieren, dass er alle Cookies akzeptiert, alle Cookies ablehnt oder Sie benachrichtigt, wenn ein Cookie platziert wird. Da jeder Browser unterschiedlich konfiguriert sein kann, gehen Sie zum Hilfe-Menu, um herauszufinden, wie Sie die Cookie-Einstellungen andern konnen.
+  * Die meisten Betriebssysteme von Mobilgeräten geben Ihnen in den Geräteeinstellungen die Möglichkeit, das Tracking von Werbung zu beschränken, das mit bestimmten Geräte-IDs verbunden ist, die sie uns ggf. mitteilen. Auch wenn Sie diese Möglichkeit nutzen, können wir bestimmte andere Daten, die wir von Geräten und Apps beziehen, für den Zweck von Schutz vor Betrug, Sicherheit, Analysen, Produktverbesserung und Zuordnung verwenden. Weitere Informationen finden Sie in der Hilfe des Betriebssystems Ihres Mobilgerätes.
+  * Sobald Sie sich auf Ihrem Gerat bei Yahoo angemeldet haben, kann Yahoo Ihr System wiedererkennen, um Ihnen unabhangig von Ihren Gerateeinstellungen personalisierte Inhalte bereitzustellen (selbst wenn Sie abgemeldet sind). Die Datenschutzeinstellungen auf Ihrem Gerat geben Ihnen moglicherweise nicht die vollstandige Kontrolle uber den Schutz Ihrer Daten, doch mithilfe des Ad Interest Manager konnen Sie Yahoo Zielgruppenwerbung und Personalisierung steuern. Wenn Sie sich von der Yahoo Personalisierung abmelden mochten, navigieren Sie zum Ad Interest Manager, um die Einstellungen direkt bei Yahoo vorzunehmen.
+  * Der Adobe Flash Player ist eine Anwendung und ein Web-Tool, die bzw. das eine schnelle Entwicklung dynamischer Inhalte ermoglicht. Flash (und andere Anwendungen) verwenden ahnliche Technologien wie Browser-Cookies, um Einstellungen, Praferenzen und Nutzungsgewohnheiten zu speichern, werden aber uber eine andere als die von Ihrem Web-Browser bereitgestellte Schnittstelle verwaltet. 
+    * Yahoo setzt Adobe Flash Cookies gemaß den Richtlinien des Interactive Agency Bureau ein. Yahoo setzt Adobe Flash Cookies dann ein, wenn wir Flash fur die Bereitstellung bestimmter Inhalte, beispielsweise Video-Clips oder Animationen, verwenden. Über die Adobe Website konnen Sie direkt auf Ihre Flash-Verwaltungstools zugreifen. Yahoo verwendet keine Flash Cookies fur interessenbasierte Anzeigen.
+  * Wenn Sie alle Cookies ablehnen, konnen Sie Yahoo Produkte und Dienste, bei denen Sie sich anmelden mussen, nicht nutzen und konnen moglicherweise auch nicht von all unseren Angeboten umfassend profitieren.
+  * Auf der Seite der Network Advertising Initiative oder der Digital Advertising Alliance finden Sie weitere Unternehmen, die eine Abmeldung ermoglichen, sowie weitere Tools, mit denen Sie Ihre Abmeldungen verwalten konnen.
+
+## Cookies von anderen Unternehmen auf Yahoo
+
+  * Nicht nur Yahoo, sondern auch bestimmten Drittanbietern ist es gestattet, uber Websites der Yahoo Konzerngruppe Cookies und ahnliche Technologien an Ihren Rechner zu senden und auf diese zuzugreifen. Die Nutzung von Cookies dieser Unternehmen unterliegt deren eigenen Datenschutzrichtlinien, nicht der Yahoo Datenschutzerklarung.
+
+## OPT-OUT
+
+Sie mochten keine interessenbasierte Werbung erhalten? Sie konnen sich vom
+Erhalt interessenbasierter Werbung auf Yahoo abmelden.
+
+## RELEVANTE ANZEIGEN
+
+Indem Ihnen Inhalte und Werbeeinblendungen angezeigt werden, die auf Ihre
+Interessen zugeschnitten sind, bietet Yahoo Ihnen eine uberzeugende Online-
+Erfahrung.Weitere Informationen zu relevanten Anzeigen. Legen Sie selbst Ihre
+Interessenkategorien fest oder melden Sie sich vom Erhalt interessenbasierter
+Werbung auf Yahoo in unserem Yahoo Ad Interest Manager ab.  
+
+
+## Yahoo Datenschutz
+
+Datenschutzbestimmungen und Cookie-Richtlinien Unter unseren Referenzlinks
+finden Sie detaillierte Datenschutzhinweise fur zahlreiche Yahoo Produkte und
+Dienste. Klicken Sie hier.
+

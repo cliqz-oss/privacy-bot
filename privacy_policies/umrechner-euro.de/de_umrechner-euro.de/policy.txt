@@ -1,0 +1,83 @@
+Toggle navigation
+
+  * Startseite
+    * Deutsch
+    * English
+    * Français
+  * Umrechnungstabellen
+    * Afrika
+    * Asien
+    * Australien
+    * Europa
+    * Mittelamerika
+    * Nordamerika
+    * Südamerika
+    * Alphabetisch nach Landern
+    * Alphabetisch nach Wahrungen
+  * Wahrungsrechner
+    * Wahrungsrechner
+    * Euro-Wahrungsumrechnung nach Landern
+    * Schweizer Franken-Wahrungsrechner
+    * Euro Umrechner
+    * Devisenrechner
+    * Land und Währung
+  * Wechselkurse
+    * Wechselkurse
+    * Dollarkurs
+    * Kurse weiterer Wahrungen
+    * Wahrungspaare einzeln
+    * Wechselkursrechner
+    * Historische Wechselkurse
+  * Services
+    * Widgets fur Homepage
+    * Banner zum Einbinden
+    * Fur Reiseburos
+    * Geschaftsreisen
+    * Banknoten der Welt
+    * Fur Werbepartner
+  * Aktuelles
+
+  
+
+  * Startseite &gt;
+  * Datenschutz
+
+# Datenschutz
+
+„Diese Website benutzt Google Analytics, einen Webanalysedienst der Google
+Inc. („Google").  
+Google Analytics verwendet sog. „Cookies", Textdateien, die auf Ihrem Computer
+gespeichert  
+werden und die eine Analyse der Benutzung der Website durch Sie ermoglichen.  
+  
+Die durch den Cookie erzeugten Informationen uber Ihre Benutzung dieser
+Website (einschließlich  
+Ihrer IP- Adresse) wird an einen Server von Google in den USA ubertragen und
+dort gespeichert.  
+  
+Google wird diese Informationen benutzen, um Ihre Nutzung der Website
+auszuwerten, um Reports  
+uber die Websiteaktivitaten fur die Websitebetreiber zusammenzustellen und um
+weitere mit der  
+Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu
+erbringen. Auch wird Google  
+diese Informationen gegebenenfalls an Dritte ubertragen, sofern dies
+gesetzlich vorgeschrieben oder  
+soweit Dritte diese Daten im Auftrag von Google verarbeiten.  
+  
+Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in
+Verbindung bringen.  
+Sie konnen die Installation der Cookies durch eine entsprechende Einstellung
+Ihrer Browser Software  
+verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
+gegebenenfalls nicht samtliche  
+Funktionen dieser Website vollumfanglich nutzen konnen. Durch die Nutzung
+dieser Website erklaren  
+Sie sich mit der Bearbeitung der uber Sie erhobenen Daten durch Google in der
+zuvor beschriebenen  
+Art und Weise und zu dem zuvor benannten Zweck einverstanden."
+
+(C) 2017 umrechner-euro.de
+
+Über umrechner-euro Kontakt Datenschutz Impressum
+

@@ -1,0 +1,126 @@
+##### Netzwerk
+
+  * Filb.de
+  * PokéWiki
+
+##### Meine Werkzeuge
+
+  * Benutzerkonto erstellen
+  * Anmelden
+
+Aktivieren
+
+##### Menü
+
+Menü
+
+###### Navigation
+
+  * Hauptseite
+  * PokéWiki-Portal
+  * Pokémon
+  * Videospiele
+  * Anime
+  * Sammelkartenspiel
+  * Manga
+  * Aktuelle News
+
+###### PokéWiki
+
+  * Letzte Änderungen
+  * Zufälliger Artikel
+  * Allg. Diskussion
+  * Ausgezeichnete Artikel
+  * Projekte
+  * Wer ist online?
+  * Missionsbrett
+  * To-do-Liste
+
+###### Hilfen
+
+  * Hilfe
+  * Autorenportal
+  * Regeln
+  * Fragen
+  * PokéWiki-Forum
+  * Über PokéWiki
+
+###### Werkzeuge
+
+  * Links auf diese Seite
+  * Änderungen an verlinkten Seiten
+  * Spezialseiten
+  * Druckversion
+  * Permanenter Link
+  * Seiten­informationen
+
+##### Namensräume
+
+  * Projektseite
+  * Diskussion
+
+####  Varianten
+
+##### Ansichten
+
+  * Lesen
+  * Quelltext anzeigen
+  * Versionsgeschichte
+
+##### Mehr
+
+###  Suche
+
+# PokéWiki:Datenschutz
+
+Aus PokéWiki
+
+Wechseln zu: Navigation, Suche
+
+## Anonyme Datenerhebung
+
+Sie können unsere Webseiten grundsätzlich besuchen, ohne uns mitzuteilen, wer
+Sie sind. In den Server-Logdateien werden lediglich Informationen gespeichert,
+die Ihr Browser übermittelt. Diese sind: Browsertyp und -version, das
+verwendete Betriebssystem, die Referrer-URL (die zuvor besuchte Seite), der
+Hostname des zugreifenden Rechners (IP-Adresse) und die Uhrzeit der
+Serveranfrage. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird
+nicht vorgenommen. Sie bleiben als einzelner Nutzer hierbei anonym.
+
+## Erhebung und Verarbeitung personenbezogener Daten
+
+Personenbezogene Daten werden nur erhoben, wenn Sie diese freiwillig von sich
+aus, zum Beispiel bei einer Registrierung eines Benutzerkontos, eingeben. Ihre
+personenbezogenen Daten werden jedoch in keinster Weise weiterverarbeitet.
+Personenbezogene Daten sind gemäß der Definition des §3 Abs. 1 BDSG
+„Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten
+oder bestimmbaren natürlichen Person (Betroffener)“. Dazu gehört zum Beispiel
+auch Ihre E-Mail-Adresse. Diese Daten können u.U. auf sogenannten Profilseiten
+angezeigt werden, die Sie aber jederzeit selbst anpassen bzw. bearbeiten
+können. Bei der Registrierung und Verwendung eines Benutzerkontos wird aus
+Sicherheitsgründen die IP-Adresse gespeichert. Diese wird ausschließlich dazu
+verwendet, eventuelle „Störenfriede“ zeitweise von unseren Diensten
+auszuschließen.
+
+## Auskunftsrecht
+
+Sie haben jederzeit das Recht auf Auskunft über die bezüglich Ihrer Person
+gespeicherten Daten. Auskunft über die gespeicherten Daten erhalten Sie per
+E-Mail.
+
+Abgerufen von
+„https://www.pokewiki.de/index.php?title=PokéWiki:Datenschutz&amp;oldid=1023159“
+
+  *   * 
+
+Diese Seite mit Freunden teilen:
+
+  * Diese Seite wurde zuletzt am 28. April 2014 um 08:33 Uhr geändert.
+  * Der Inhalt ist verfügbar unter der Lizenz Creative Commons „Namensnennung, Weitergabe unter gleichen Bedingungen“, sofern nicht anders angegeben.
+
+  * Datenschutz
+  * Über PokéWiki
+  * Haftungsausschluss
+
+  *[Aktivieren]: Standardmäßig wird der Facebook-Button nicht geladen, um den Datenschutz zu erhöhen. Bitte klicke hier, wenn du ihn nutzen möchtest. Nach der dritten Aktivierung wird der Button bei dir standardmäßig angezeigt.
+

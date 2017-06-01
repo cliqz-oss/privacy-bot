@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link href="/css/ooo.css" rel="stylesheet" type="text/css">
+
+<title>Apache OpenOffice - Privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-98607986-1']);
+    _gaq.push(['_setDomainName', 'openoffice.org']);
+    _gaq.push (['_gat._anonymizeIp']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+ 
+<script type="text/javascript">
+/*!
+ * Entourage 1.1.2 - Automatic Download Tracking for Asynchronous Google Analytics
+ *
+ * Copyright (c) 2011 by Tian Valdemar Davis (http://techoctave.com/c7)
+ * Licensed under the MIT (http://en.wikipedia.org/wiki/MIT_License) license.
+ *
+ * Learn More: http://techoctave.com/c7/posts/58-entourage-js-automatic-download-tracking-for-asynchronous-google-analytics
+ * 
+ * 2012-04-24 Mod by robweir to whitelist additional file extensions as used in AOO project
+ * 2012-04-25 Mod by robweir to remove trailing "/download" from SourceForge file names, a hack we can hopefully remove someday
+ */
+
+/*jshint strict:false */
+
+(function() {
+var entourage = new (function() {
+	var version = "1.1.2";
+	var whitelist = /\.pdf$|\.zip$|\.gz$|\.gz\/download$|\.bz2$|\.bz2\/download$|\.od*|\.doc*|\.xls*|\.ppt*|\.exe$|\.exe\/download$|\.dmg$|\.dmg\/download$|\.mov$|\.avi$|\.mp3$/i;
+	
+	//Get true FileName from link pathname
+	var getFileName = function(pathname) {
+		//Remove the anchor at the end (if one exists)
+		pathname = pathname.substring(0, (pathname.indexOf("#") === -1) ? pathname.length : pathname.indexOf("#"));
+
+		//Removes the query after the file pathname (if one exists)
+		pathname = pathname.substring(0, (pathname.indexOf("?") === -1) ? pathname.length : pathname.indexOf("?"));
+      
+        //Remove trailing /download
+		if (/\/download$/.test(pathname))
+			pathname = pathname.substring(0, pathname.length-"/download".length);
+
+		//Removes everything before the last slash in the path
+		pathname = pathname.substring(pathname.lastIndexOf("/") + 1, pathname.length);
+
+		return pathname;
+	};
+
+	var autograph = function() {
+		var fileName, associate;
+
+		//Get the file name
+		fileName = getFileName(this.pathname); //The link object is now available in "this"
+
+		//Add file to the Google Analytics Queue
+		associate = '/download/' + fileName;
+		
+		//Track download using Asynchronous Google Analytics
+		_gaq.push(['_trackPageview', associate]);
+    };
+
+	var initialize = function() {
+		var links = document.links;
+		
+		for (var i = 0, l = links.length; i < l; i++) {
+			//Compare the fileType to the whitelist
+			var match = links[i].pathname.match(whitelist);
+			
+			//If the link is for a file download . . .
+			if (typeof match !== "undefined" && match !== null) {
+				//Call Entourage whenever the link is clicked
+				links[i].onclick = autograph;
+			}
+		}
+    };
+
+	return {
+		version: version,
+		initialize: initialize
+	};
+})(); //Entourage.js
+
+//Add entourage to the global namespace
+window.entourage = entourage;
+
+//Execute entourage onload - ensuring links are present in the DOM
+window.onload = entourage.initialize;
+})();
+</script>
+
+
+</head>
+<body>
+  <div id="bannera">
+  <div id="languagesdiv">
+  	Language:
+  	<select id="selectlanguage" onchange="javascript:location.href=location.protocol+'//'+location.host+'/'+this.value;">
+  	<!-- Asturian --><option value="ast">Asturianu (ast)</option>
+	<!-- Catalan --><option value="ca">CatalÃ  (ca)</option>
+  	<!-- Czech --><option value="cs">ÄeÅ¡tina (cs)</option>
+  	<!-- Danish --><option value="da">Dansk (da)</option>
+  	<!-- German --><option value="de">Deutsch (de)</option>
+  	<!-- English [British]<option value="en-gb">English [British] (en-gb)</option> -->
+  	<!-- English [US] --><option value="?redirect=soft" selected="selected">English (en)</option>
+  	<!-- Spanish --><option value="es">EspaÃ±ol (es)</option>
+  	<!-- Basque --><option value="eu">Euskara (eu)</option>
+  	<!-- Finnish --><option value="fi">Suomi (fi)</option>
+  	<!-- French --><option value="fr">FranÃ§ais (fr)</option>
+  	<!-- Scottish --><option value="gd">GÃ idhlig (gd)</option>
+  	<!-- Galician --><option value="gl">Galego (gl)</option>
+  	<!-- Italian --><option value="it">Italiano (it)</option>
+  	<!-- Lithuanian --><option value="lt">LietuviÅ³ (lt)</option>
+  	<!-- Hungarian --><option value="hu">Magyar (hu)</option>
+  	<!-- Dutch --><option value="nl">Nederlands (nl)</option>
+  	<!-- Norwegian --><option value="no">Norsk (no)</option>
+	<!-- Polish --><option value="pl">Polski (pl)</option>
+  	<!-- Portuguese [Brazilian] --><option value="pt-br">PortuguÃªs [do Brasil] (pt-br)</option>
+  	<!-- Portuguese [European] --><option value="pt">PortuguÃªs [Europeu] (pt)</option>
+  	<!-- Slovak --><option value="sk">slovenÄina (sk)</option>
+  	<!-- Slovenian --><option value="sl">slovenÅ¡Äina (sl)</option>
+  	<!-- Swidish --><option value="sv">Svenska (sv)</option>
+  	<!-- Turkish  --><option value="tr">TÃ¼rkÃ§e (tr)</option>
+  	<!-- Vietnamese --><option value="vi">Tiáº¿ng Viá»t (vi)</option>
+  	<!-- Greek --><option value="el">ÎÎ»Î»Î·Î½Î¹ÎºÎ¬ (el)</option>
+  	<!-- Bulgarian --><option value="bg">Ð±ÑÐ»Ð³Ð°ÑÑÐºÐ¸ ÐµÐ·Ð¸Ðº (bg)</option>
+  	<!-- Russian --><option value="ru">Ð ÑÑÑÐºÐ¸Ð¹ (ru)</option>
+  	<!-- Serbian [Cyrillic] --><option value="sr">CÑÐ¿ÑÐºÐ¸ [ÑÐ¸ÑÐ¸Ð»Ð¸ÑÐ¾Ð¼] (sr)</option>
+ 	<!-- Arabic <option value="ar">Ø§ÙØ¹Ø±Ø¨ÙØ© (ar)</option> -->
+  	<!-- Hebrew --><option value="he">×¢××¨××ª (he)</option>
+  	<!-- Hindi --><option value="hi">à¤¹à¤¿à¤¨à¥à¤¦à¥ (hi)</option>
+  	<!-- Khmer --><option value="km">áá¶áá¶ááááá (km)</option>
+  	<!-- Tamil --><option value="ta">à®¤à®®à®¿à®´à¯ (ta)</option>
+  	<!-- Thai --><option value="th">à¸ à¸²à¸©à¸²à¹à¸à¸¢ (th)</option>
+  	<!-- Chinese [simplified] --><option value="zh-cn">ç®ä½ä¸­æ (zh-cn)</option>
+  	<!-- Chinese [traditional] --><option value="zh-tw">æ­£é«ä¸­æ (zh-tw)</option>
+  	<!-- Japanese --><option value="ja">æ¥æ¬èª (ja)</option>
+  	<!-- Korean --><option value="ko">íêµ­ì´ (ko)</option>
+	</select>
+	<script>
+	  var lang = "en";
+	  var dropdown = document.getElementById('selectlanguage');
+	  var options = dropdown.options;
+	  for( var i = 0; i < dropdown.options.length; i++ ) {
+	    if( dropdown.options[ i ].value == lang ) {
+	      dropdown.selectedIndex = i;
+	      break;
+	    }
+	  }
+	</script>
+  </div>
+  <div id="bannerleft"><a title="Apache OpenOffice" href="/"><img id="ooo-logo" alt="Apache OpenOffice" src="/images/AOO_logos/AOO4_website_logo.png"/></a></div>
+    <div id="bannerright">        
+      <div id="searchdiv">
+	<form id="cse-search-box-header" action="https://www.google.com/search" method="get">
+	  <div>
+	    <input type="hidden" name="domains" value="https://www.openoffice.org"/>
+	    <input type="hidden" name="sitesearch" value="https://www.openoffice.org"/>
+	  </div>
+	  <div class="topsrchbox">
+	    <input name="resultsPerPage" value="40" type="hidden"/> 
+	    <input name="q" id="query" type="text" title="search query"/>
+	    <input name="Button" value="search" type="submit" class="topsrchbutton"/>
+	  </div>
+	</form>
+      </div>
+    </div>
+    <div id="bannercenter"><br/>The Free and Open Productivity Suite</div>
+  </div>
+  <div id="announce"><a href="https://s.apache.org/JiCT" title="Apache OpenOffice 4.1.3 released">Apache OpenOffice 4.1.3 released</a></div>
+
+  <div id="topbara">
+    <div id="topnava"><style type="text/css">
+/* The following code is added by mdx_elementid.py
+   It was originally lifted from http://subversion.apache.org/style/site.css */
+/*
+ * Hide class="elementid-permalink", except when an enclosing heading
+ * has the :hover property.
+ */
+.headerlink, .elementid-permalink {
+  visibility: hidden;
+}
+h2:hover > .headerlink, h3:hover > .headerlink, h1:hover > .headerlink, h6:hover > .headerlink, h4:hover > .headerlink, h5:hover > .headerlink, dt:hover > .elementid-permalink { visibility: visible }</style>
+<ul>
+<li><a href="/product/index.html" title="Apache OpenOffice product description">Product</a></li>
+<li><a href="/download/index.html" title="Download OpenOffice">Download</a></li>
+<li><a href="/support/index.html" title="Find Support for OpenOffice">Support</a></li>
+<li><a href="https://blogs.apache.org/ooo/" title="Apache OpenOffice Blog">Blog</a></li>
+<li><a href="/extensions/index.html" title="Extensions and Templates for OpenOffice">Extend</a></li>
+<li><a href="https://openoffice.apache.org/get-involved.html" title="Get involved in Apache OpenOffice">Develop</a></li>
+<li><a href="/projects/accepted.html" title="Apache OpenOffice development focus areas">Focus Areas</a></li>
+<li><a href="/projects/native-lang.html" title="Apache OpenOffice in your Native Language">Native Language</a></li>
+</ul></div>
+
+    <div id="breadcrumbsa"><a href="/">home</a></div>
+  </div>
+  <div id="clear"></div>
+  
+  
+  <div id="content">
+    
+    <h1 class="title">Apache OpenOffice - Privacy</h1>
+    <style type="text/css">
+/* The following code is added by mdx_elementid.py
+   It was originally lifted from http://subversion.apache.org/style/site.css */
+/*
+ * Hide class="elementid-permalink", except when an enclosing heading
+ * has the :hover property.
+ */
+.headerlink, .elementid-permalink {
+  visibility: hidden;
+}
+h2:hover > .headerlink, h3:hover > .headerlink, h1:hover > .headerlink, h6:hover > .headerlink, h4:hover > .headerlink, h5:hover > .headerlink, dt:hover > .elementid-permalink { visibility: visible }</style>
+<p>Information about your use of this website is collected using server access
+logs and a tracking cookie. The collected information consists of the
+following:</p>
+<ol>
+<li>The IP address from which you access the website;</li>
+<li>The type of browser and operating system you use to access our site;</li>
+<li>The date and time you access our site;</li>
+<li>The pages you visit; and</li>
+<li>The addresses of pages from where you followed a link to our site.</li>
+</ol>
+<p>Part of this information is gathered using a tracking cookie set by the 
+<a href="http://www.google.com/analytics/">Google Analytics</a> service and handled by 
+Google as described in their <a href="http://www.google.com/privacy.html">privacy policy</a>
+. See your browser documentation for instructions on how to disable the
+cookie if you prefer not to share this data with Google.</p>
+<p>We use the gathered information to help us make our site more useful to
+visitors and to better understand how and when our site is used. We do not
+track or collect personally identifiable information or associate gathered
+data with any personally identifying information from other sources.</p>
+<p>By using this website, you consent to the collection of this data in the
+manner and for the purpose described above.</p>
+  </div>
+  <div id="footera">
+    <div id="poweredbya">
+      <p>
+        <a href="https://www.apache.org/">
+		<img src="/images/asf_logo_small.png" alt="Apache Software Foundation" height="76" width="188"/>
+        </a>
+      </p>
+    </div>
+    <div id="copyrighta">
+      <p style="text-align:center;">
+        <a href="/license.html">Copyright &amp; License</a> |
+        <a href="/privacy.html">Privacy</a> |
+        <a href="/contact_us.html">Contact Us</a> |
+        <a href="/donations.html">Donate</a> |
+        <a href="https://www.apache.org/foundation/thanks.html">Thanks</a>
+      </p>
+      <p>
+        Apache and the Apache feather logo are trademarks of The Apache Software Foundation.
+        OpenOffice, OpenOffice.org and the seagull logo are registered trademarks of The Apache Software Foundation.
+        Other names appearing on the site may be trademarks of their respective owners.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>

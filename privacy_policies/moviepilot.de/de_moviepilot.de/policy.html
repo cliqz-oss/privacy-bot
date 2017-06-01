@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html lang='de' xmlns:og='http://ogp.me/ns#'>
+<head prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# moviepilotde: http://ogp.me/ns/fb/moviepilotde# article: http://ogp.me/ns/article# video: http://ogp.me/ns/video#'>
+<title></title>
+
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta content='2017-06-01 18:31:37 +0200' http-equiv='Updated-At'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d98e7f3c62","applicationID":"117257","transactionName":"cl1YREAMWQ9TSklCB1ZXRR9BC1oU","queueTime":0,"applicationTime":61,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwUHV1BACQIHVlRV"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta content='app-id=1154442123, affiliate-data=at=1001lbg8&amp;ct=website_smartapp' name='apple-itunes-app'>
+<meta content='noodp, noydir' name='robots'>
+<meta content='107783155908908' property='fb:app_id'>
+<meta content='16927090734' property='fb:pages'>
+<meta content='moviepilot.de' property='og:site_name'>
+<link href='https://plus.google.com/110559197475610890644/' rel='publisher'>
+<link href='/favicon.ico' rel='shortcut icon' type='image/x-icon'>
+<link href='/apple-touch-icon.png' rel='apple-touch-icon'>
+<link href='/apple-touch-icon-57x57.png' rel='apple-touch-icon' sizes='57x57'>
+<link href='/apple-touch-icon-72x72.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='/apple-touch-icon-76x76.png' rel='apple-touch-icon' sizes='76x76'>
+<link href='/apple-touch-icon-114x114.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='/apple-touch-icon-120x120.png' rel='apple-touch-icon' sizes='120x120'>
+<link href='/apple-touch-icon-144x144.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='/apple-touch-icon-152x152.png' rel='apple-touch-icon' sizes='152x152'>
+
+<meta content='initial-scale=1.0, user-scalable=yes' name='viewport'>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="7NlzRg0S0Khy80FLGOLa5E80H8DJdvuITgJU1GG2+S/cyxia8ijO6SM/tlksOtwCLFwZ1yaDVeiumkABF/RXLA==" />
+<link rel="stylesheet" media="screen" href="/assets/v1/moviepilot-0af8f11ad1c6d4cc029b250b8e69e5ee6e4f0da3ddef2bdf89b44750aa7a5f49.css" />
+<link rel="stylesheet" media="screen" href="/stylesheets/moviepilot/my_ad_integration.min.css" />
+<script>
+  (function() {
+    if ((typeof performance !== "undefined" && performance !== null ? performance.now : void 0) != null) {
+      window.measure_core_js = performance.now();
+    }
+  
+  }).call(this);
+</script>
+<script src="/assets/v1/core-0680c679fa2dbeb9967490da8ee0afcddbc6de26e1403e247eea7cb17fa4d10b.js" data-ng="false"></script>
+<script>
+  (function() {
+    if ((typeof performance !== "undefined" && performance !== null ? performance.now : void 0) != null) {
+      Application.UserMetrics.sendValue('pageload', 'core_js', performance.now() - window.measure_core_js);
+    }
+  
+  }).call(this);
+</script>
+<script async defer src='https://apis.google.com/js/platform.js'></script>
+<script>
+  window.twttr = (function() {
+    var t;
+    t = window.twttr || {
+      _e: [],
+      ready: function(f) {
+        t._e.push(f);
+      }
+    };
+    return t;
+  })();
+</script>
+<script async defer id='twitter-wjs' src='https://platform.twitter.com/widgets.js'></script>
+<script async defer id='facebook-jssdk' src='https://connect.facebook.net/de_DE/sdk.js'></script>
+
+<script src="/assets/v1/deferred-desktop-71946682170ff01ae1a23c40017cec8f9767a495f1aca22e3bc40fd8f9be2e2c.js" async="async" defer="defer"></script>
+<script>
+//<![CDATA[
+Application.UserMetrics.start('advertising', 'amazon')
+//]]>
+</script><script src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script>
+  try {
+    amznads.getAds('3289');
+  } catch (e) {}
+</script>
+<script>
+  var key = 'amznslots';
+  var values = amznads.getTokens();
+</script>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('advertising', 'amazon', true)
+//]]>
+</script>
+<script>
+/* 20170601182223 */ !function(e,t,o){function n(e,i){var t=D(e);if(!t)return t;if(""!=i)for(var o=0;o<i.length;o++)"^"==i.charAt(o)&&(t=t.parentNode),"<"==i.charAt(o)&&(t=t.previousElementSibling),">"==i.charAt(o)&&(t=t.nextElementSibling),"y"==i.charAt(o)&&(t=t.firstChild);return t}function h(e,i){var t=i.getBoundingClientRect(),o=e.clientX-t.left,n=e.clientY-t.top;return{x:o,y:n}}function r(e){for(var i=0,t=0;e;)i+=e.offsetLeft+e.clientLeft,t+=e.offsetTop+e.clientTop,e=e.offsetParent;return{x:i,y:t}}function d(e,i){var t=0,o=0,n=r(i);return(e.pageX||e.pageY)&&(t=e.pageX,o=e.pageY),(e.clientX||e.clientY)&&(t=e.clientX+document.body.scrollLeft+document.documentElement.scrollLeft,o=e.clientY+document.body.scrollTop+document.documentElement.scrollTop),t-=n.x,o-=n.y,{x:t,y:o}}function a(e,i){return i.getBoundingClientRect?h(e,i):d(e,i)}function f(e,i){e.addEventListener?e.addEventListener("click",i,!0):e.attachEvent&&e.attachEvent("onclick",function(){return i.call(e,window.event)})}function l(i,t){var o=0,n=50,h=!1,r=e.setInterval(function(){i()&&(e.clearInterval(r),t(h)),o++>n&&(e.clearInterval(r),h=!0,t(h))},10)}function b(e){var i=e.toLowerCase();if(0===i.indexOf("msie")&&0===i.indexOf("trident"))return!1;var t=/(?:msie|rv:)\s?([\d\.]+)/.exec(i);return!!(t&&parseInt(t[1],10)>=10)}function v(i){try{var t;if(e.webkitRequestFileSystem)e.webkitRequestFileSystem(e.TEMPORARY,1,function(){t=!1},function(e){t=!0});else if(e.indexedDB&&/Firefox/.test(e.navigator.userAgent)){var o;try{o=e.indexedDB.open("test")}catch(e){t=!0}"undefined"==typeof t&&l(function(){return"done"===o.readyState},function(e){e||(t=!o.result)})}else if(b(e.navigator.userAgent)){t=!1;try{e.indexedDB||(t=!0)}catch(e){t=!0}}else if(e.localStorage&&/Safari/.test(e.navigator.userAgent)){try{e.localStorage.setItem("test",1)}catch(e){t=!0}"undefined"==typeof t&&(t=!1,e.localStorage.removeItem("test"))}l(function(){return"undefined"!=typeof t},function(e){i(t)})}catch(e){}}function g(e){if(e.uabpdl&&!e.uabInject){e.uabInject=!0,e.uabPc={},e.uabAv={},e.uabAvt={};var i=[];window.uabpnewinject=!0,window.addEventListener&&!uabpMobile&&window.addEventListener("scroll",function(e){var t=i.SKYRight,o=document.querySelector("#content");o&&t&&(o.getBoundingClientRect().top<57?(t.style.setProperty("position","fixed"),t.style.setProperty("top","57px")):(t.style.setProperty("position","absolute"),t.style.setProperty("top",null)))}),window.addEventListener&&!uabpMobile&&window.addEventListener("scroll",function(e){var t=i.SKYLeftWrapper,o=document.querySelector("#content");o&&t&&(o.getBoundingClientRect().top<57?(t.style.setProperty("position","fixed"),t.style.setProperty("top","57px")):(t.style.setProperty("position","absolute"),t.style.setProperty("top",null)))});var t=!0;if(e.uabpnewinject)for(var o=document.styleSheets,n=o.length-1;0!=n;n--)try{if(o[n].cssRules){t=!1;var h=o[n];try{setTimeout(u(h,i),500)}catch(e){}break}}catch(e){}if(!e.uabpnewinject||t){var h=L("style");h.type="text/css",A(h,'#KOjBDqQU {position: fixed; left: 0; top: 0px; right: 0; bottom: 0; background-color: #000000;cursor: pointer;}#KOjBDqQU img {width: 100%;height: 100%;}.zNvRVOIS {text-align: center;position: relative;margin-bottom: 4px;}.zNvRVOIS {padding-bottom: 3.1px;}.zNvRVOIS img {cursor: pointer;max-width: 1000px;}.zNvRVOIS:before {content: "Anzeige";color: #979797;display: block;margin-bottom: 2px;font: bold 10px/10px "Helvetica Neue Condensed", Helvetica, sans-serif;}#JGLvZTmg {margin-top: 20px;margin-bottom: 20px;}#JGLvZTmg img {cursor: pointer;}.bczxbtJib {margin-left: 8.1px;}.bczxbtJib {margin-bottom: 5px;bottom: 4px;}.bczxbtJib img {cursor: pointer;}.bczxbtJib:before {content: "Anzeige";color: #979797;display: block;margin-bottom: 2px;font: bold 10px/10px "Helvetica Neue Condensed", Helvetica, sans-serif;}#tyKmQTVcKf {float: right;}#tyKmQTVcKf img {cursor: pointer;max-width: 300px;}#htRXoUR {width: 300px;margin-left: -303px;position: absolute;}#htRXoUR img {cursor: pointer;}#JqNbBex {margin-left: 1003px;position: absolute;}#JqNbBex img {cursor: pointer;}.MsiQhN {}amXWvfGwL {}amXWvfGwL img {cursor: pointer;}vwyDtfQpgK {}vwyDtfQpgK img {cursor: pointer;}@media print {#htRXoUR,.MsiQhN,amXWvfGwL,vwyDtfQpgK,#KOjBDqQU,.zNvRVOIS,#JGLvZTmg,.bczxbtJib,#tyKmQTVcKf,#JqNbBex{display:none;}} .uabpHid {display:none;}'),E(Y,h),setTimeout(p(i),0)}}}function u(i,t){var o=function(e,i){if(i<0)return o(e,i+26);for(var t="",n=0;n<e.length;n++){var h=e[n];if(h.match(/[a-z]/i)){var r=e.charCodeAt(n);r>=65&&r<=90?h=String.fromCharCode((r-65+i)%26+65):r>=97&&r<=122&&(h=String.fromCharCode((r-97+i)%26+97))}t+=h}return t};window[o("fmdsqfEtqqf",-12)]=i;for(var n='#KOjBDqQU {position: fixed; left: 0; top: 0px; right: 0; bottom: 0; background-color: #000000;cursor: pointer;}#KOjBDqQU img {width: 100%;height: 100%;}.zNvRVOIS {text-align: center;position: relative;margin-bottom: 4px;}.zNvRVOIS {padding-bottom: 3.1px;}.zNvRVOIS img {cursor: pointer;max-width: 1000px;}.zNvRVOIS:before {content: "Anzeige";color: #979797;display: block;margin-bottom: 2px;font: bold 10px/10px "Helvetica Neue Condensed", Helvetica, sans-serif;}#JGLvZTmg {margin-top: 20px;margin-bottom: 20px;}#JGLvZTmg img {cursor: pointer;}.bczxbtJib {margin-left: 8.1px;}.bczxbtJib {margin-bottom: 5px;bottom: 4px;}.bczxbtJib img {cursor: pointer;}.bczxbtJib:before {content: "Anzeige";color: #979797;display: block;margin-bottom: 2px;font: bold 10px/10px "Helvetica Neue Condensed", Helvetica, sans-serif;}#tyKmQTVcKf {float: right;}#tyKmQTVcKf img {cursor: pointer;max-width: 300px;}#htRXoUR {width: 300px;margin-left: -303px;position: absolute;}#htRXoUR img {cursor: pointer;}#JqNbBex {margin-left: 1003px;position: absolute;}#JqNbBex img {cursor: pointer;}.MsiQhN {}amXWvfGwL {}amXWvfGwL img {cursor: pointer;}vwyDtfQpgK {}vwyDtfQpgK img {cursor: pointer;}@media print {#htRXoUR,.MsiQhN,amXWvfGwL,vwyDtfQpgK,#KOjBDqQU,.zNvRVOIS,#JGLvZTmg,.bczxbtJib,#tyKmQTVcKf,#JqNbBex{display:none;}} .uabpHid {display:none;}'.replace(new RegExp(atob("fVxzK30="),"g"),function(e){return"}}"}),h=n.replace(new RegExp(e.atob("fVtefV0="),"g"),function(e){return e[0]+"randomString"+e[1]}).split("randomString"),r=0;r<h.length;r++)window[o("fmdsqfEtqqf",-12)][o("uzeqdfDgxq",-12)](h[r],window[o("fmdsqfEtqqf",-12)].cssRules.length);setTimeout(p(t),0)}function p(e){var i=[];s(e,i),c(e,i),m()}function s(i,t){var o=n("#ads-outer","");if(o){var h=L("div");t.SKYLeftWrapper=h,i.SKYLeftWrapper=h,T(h,"htRXoUR"),o.nextSibling?z(o.nextSibling,h):E(o.parentNode,h),e.uabpd4.w[3377]=h}var o=n("#ads-outer","");if(o){var h=L("div");t.SKYRightWrapper=h,i.SKYRightWrapper=h,B(h,"MsiQhN "),o.nextSibling?z(o.nextSibling,h):E(o.parentNode,h),e.uabpd4.w[2836]=h}var o=n("#banner--vdt","");if(o){var h=L("div");t.WrapperFakeBannerVdt=h,i.WrapperFakeBannerVdt=h,o.nextSibling?z(o.nextSibling,h):E(o.parentNode,h),e.uabpd4.w[2840]=h}var o=n("#js--advertising--configuration","");if(o){var h=L("div");t.WrapperFakeJSAdvertising=h,i.WrapperFakeJSAdvertising=h,o.nextSibling?z(o.nextSibling,h):E(o.parentNode,h),e.uabpd4.w[2839]=h;var r=L("div");A(r,"<span> </span>"),O(r.childNodes,function(e,i){z(h,i)})}}function c(i,t){e.uabpPtl=6,e.uabpPl=0;var o=n("#page","");o?C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+";g;i5:376ih;7d98:4488e35;<g<<3;935d3<;;657::;7g9i62iloo25332<82glhvhbgxiwbjherwhbrevwbpdvvhqbmdsdqblghhbjdudjhbgdwhl1msj",-3),function(){w();var t=this;if(!(t.height<2)){var n=o,h=L("div");i.BACK=h,T(h,"KOjBDqQU");var r=t;f(r,function(i,t){if(!e.uabPc[3394]){i.preventDefault(),i.stopPropagation();var t=a(i,this),o=[M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+";h656h:5ig3:8hee8fgg6<5eh<ifg378hh8d<e:6e<437948e:2iloo2<:27:2mxolbfkhivbmdkubrevw1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"59e9395:<3;df5648;;d9id<e<83h94e8:h:i48<h698g6ef<32iloo2<:27:2}dkohqbzdkobwdjbpdqwhobudkphqbodwhlqbrihq1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"e5h<54:d4;8d89he::dih<8877:737ee<gef5d5d45e55d53g32iloo25332<82odwhlqbndehoq1msj",-3)],n=o[Math.floor(3*t.x/this.offsetWidth)];I(e,n,0==i.button&&i.ctrlKey?"_blank":"_self")}}),E(h,t),z(n.firstChild,h),e.uabpd4.a[3394]=h,X(h,3394,M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"i;e6487hfef;955eidh<<7i636g66if7i7e3gfg5i4<:6e<3932iloo25332<82dnwhb}dkohqblghhb}heud1msj",-3))}},w):w();var h=n("#ads-outer","");h?C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"6gd4<hh<g9fd4hiffh6679d:<eghg9hg;dg<i;5485<g5<89592iloo28<4243332sdnhwbhkh1msj",-3),function(){w();var t=this;if(!(t.height<2)){var o=h,n=L("div");i.BILL=n,B(n,"zNvRVOIS ");var r=t;f(r,function(i,t){if(!e.uabPc[2535]){i.preventDefault(),i.stopPropagation();var t=a(i,this),o=[M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"<8g67f3ee:77i588:93346edh;h853e8h6;9:7ih4ig7<ded552iloo243924842ilupdbmdsdqbwrixb|hwlbsidqgbydpslubndoebndoe1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"4;f:e5g67hdf<;egg9<<f:i973d6f;<3h;3ih54<8eh3h798he2iloo243924842klqblfkbjdudjh1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"<77<537:<:6;e9ed7fh;e8i384g9i9i8;ihhe7i7fd9<f;i;7;2iloo25332<82hlqhb}dxqbmxvwl}budkphqbohkuhubwdjbxpihogbidqbndiihh1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"475d:9ei<:9<:869dhg5df:h878:97fg73:<;d3:3369<6hd;i2iloo248325442remhnwbhkhbvdjhqbpdqwhobremhnw1msj",-3)],n=o[Math.floor(4*t.x/this.offsetWidth)];I(e,n,0==i.button&&i.ctrlKey?"_blank":"_self")}}),E(n,t),z(o,n),e.uabpd4.a[2535]=n;var d=L("div");A(d,"<div> </div>"),O(d.childNodes,function(e,i){z(n,i)}),X(n,2535,M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"d<g874;55d:f883i453g47;9<:i99f6;i7f3e93h735hhideff2iloo25342<92qdhjhobdnwhbrsdbvdjhqblkqhqbqdhjho1msj",-3))}},w):w();var r=n("aside > .advertisement--medium-rectangle","");r?C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"68697536g68e:9<799<3gd465h73884fedd78e7ghg;9g6:;f52iloo25342<92}dkqbxuzdogblkqhqbremhnwbkdihqbodwhlqbudkphqb}lhkwbpdvvhq1msj",-3),function(){w();var t=this;if(!(t.height<2)){var o=r,n=L("div");i.MRBottomArticle=n,T(n,"JGLvZTmg"),B(n,"ZJrOSSsjJ ");var h=t;f(h,function(i,t){if(!e.uabPc[2569]){i.preventDefault(),i.stopPropagation();var t=a(i,this),o=[M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"<37ihdifdghe9:5eef34eh6:6768;g:93i93e:f7h<6d<ed8432iloo2<:27:2urfnbidqbjherwhbndehoqbmdsdqblkqhq1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"4de9:g6d86;i<i;6;6<67h;73g3<<f79dd:7g3:7f64<;779:32iloo243:24832wxprubhiihnw1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"d:7f5gdg65g<ii6:5i96h86:9:ge666i97eif4;83d35e7f:<52iloo28<4243332ohlpbixvvbvhjhoqbrkqhbklq1msj",-3)],n=o[Math.floor(3*t.y/this.offsetHeight)];I(e,n,0==i.button&&i.ctrlKey?"_blank":"_self")}}),E(n,t),z(o,n),e.uabpd4.a[2569]=n;var d=L("div");A(d,"<div> </div>"),O(d.childNodes,function(e,i){z(n,i)}),X(n,2569,M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"4h8744h9h4e4g6ieg:iggfh4i<g8<69g8476658;3ed:3efh8h2iloo243:24832eoxphbkdihqbidoobpdjhqbrevwb}dkq1msj",-3))}},w):w();var d=n("#ad-rectangle1-outer","^");if(d?C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+":;d766d6;e4ff3<96;4g;<459::9d:h78;:8h7f33:d;:7e46e2iloo247<25432xvdbgxiwbwrgbndqqbvhjhoq1msj",-3),function(){w();var t=this;if(!(t.height<2)){var o=d,n=L("div");i.MRTopHomeAndArticle=n,T(n,"jLDECyskrv"),B(n,"bczxbtJib ");var h=t;f(h,function(i,t){if(!e.uabPc[2539]){i.preventDefault(),i.stopPropagation();var t=a(i,this),o=[M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"7ig7iid8<9;d93<i3689h8666id8igh64:5g;4he99d;74;;842iloo248324<<2rihqblfk1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"6:iiig<747gh8h44h43d4g9::<<<<;<9h3<67d75;efi4fgge:2iloo248324<<2yhuerwb}dkq1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"4<d96753<4g758f<e4;87if73h<7id8g;5dd7<igi<d63:65732iloo28<3243342de}xjbmhpdqgbwhuplqbklq1msj",-3)],n=o[Math.floor(3*t.y/this.offsetHeight)];I(e,n,0==i.button&&i.ctrlKey?"_blank":"_self")}}),E(n,t),z(o,n),e.uabpd4.a[2539]=n;var r=L("div");A(r,"<div> </div>"),O(r.childNodes,function(e,i){z(n,i)}),X(n,2539,M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"hh9hf:8gif5fe5ei8;7d<75;6666449;589:d5heh9:<eh73:h2iloo248425332|runbfoxebixvvbudpshbeoxphburfnbkddu1msj",-3))}},w):w(),document.body.offsetWidth>=1345){var l=t.SKYLeftWrapper;l?C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"78ei97f9e587:97f5;<fhheif786:he5:3378:7<ii5e;4h;d42iloo248325442qdfkwbudkphqbpdxuhub{hql{b|xsslh1msj",-3),function(){w();var t=this;if(!(t.height<2)){var o=l,n=L("div");i.SKYLeft=n,T(n,"tyKmQTVcKf");var h=t;f(h,function(i,t){if(!e.uabPc[3378]){i.preventDefault(),i.stopPropagation();var t=a(i,this),o=[M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+";g9g656:78e:h<f7;9g;7i3g9e9ff737839688e4f39:83i:f92iloo248325442ndvvhbdvshnw1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"hf46e9d57559id<eh:f8e;473<4;h445g55ig6hie8;4;g54dh2iloo243:24832mxolbgrpbehlbvddwbihghubydwhubylvdbjdeh1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"i774h7h5e9d<9;5f99d6i:5533:786<f9e<i64;:47:73;938d2iloo2<;27;2gdehlbylvdbohkuhu1msj",-3)],n=o[Math.floor(3*t.y/this.offsetHeight)];I(e,n,0==i.button&&i.ctrlKey?"_blank":"_self")}}),E(n,t),E(o,n),e.uabpd4.a[3378]=n,X(n,3378,M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"g4ff<66hf<<h;97f9h9d45<ig7:8;4ih87i6i94<h6g737i3fg2iloo25342<92rihqb|runbxqvhubkddubhiihnwbidooblqvhoq1msj",-3))}},w):w()}else w();var b=t.SKYRightWrapper;b?C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"<he78g3377<g5644i<g8834587383;4:g94939;h378fedd83h2iloo2<;27;2pdjhqbkhuubvdjhqbde}xjb}dkohqblvodpbfkhivbyhuerw1msj",-3),function(){w();var t=this;if(!(t.height<2)){var o=b,n=L("div");i.SKYRight=n,T(n,"JqNbBex");var h=t;f(h,function(i,t){if(!e.uabPc[2536]){i.preventDefault(),i.stopPropagation();var t=a(i,this),o=[M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"98eg5;:f8655<h5eed8;i:i5d5id8g35d78:6:;7;44de<e4fh2iloo243:24832mhpdqgbvddw1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"i5gg9hf96ghf5hf48:33h99385:87ifi4f4g;<g7i:;<ei:97d2iloo2<;27;2hlqhbndiihhbxuzdogbeoxphbilupdbqdhjho1msj",-3),M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"eh8<egi89h;355764h;;;g76;h89<h<g;:d;754:89de4h5g6:2iloo248425332remhnwblfk1msj",-3)],n=o[Math.floor(3*t.y/this.offsetHeight)];I(e,n,0==i.button&&i.ctrlKey?"_blank":"_self")}}),E(n,t),E(o,n),e.uabpd4.a[2536]=n,X(n,2536,M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"5;7ef;3<fefh8fhf5<5g3<<i:f8549g:fh555h48;7:56349;62iloo28<3243342glhvhbde}xjbjdudjhbsdnhwbudxshqbihghubudkphqbvdxqdbihghu1msj",-3))}},w):w(),m()}function m(){}function w(){e.uabpPl++,e.uabpPl>=e.uabpPtl&&q()}function q(){var i=function(i){if(null!==i.data&&"object"==typeof i.data)try{var t=i.data,o=document.createElement("a");if(o.href=i.origin,window.location.hostname!=o.hostname&&"assets.cdn.moviepilot.de"!=o.hostname)return;if("cc"==t.c)O(J(t.d+" > *"),function(e,i){P(i)});else if("cs"==t.c){var n=L("style");n.type="text/css",A(n,t.d),E(Y,n)}else if("pc"==t.c)e.uabPc[t.d]=!0;else if("ac"==t.c){var h=D(t.d.slc),n=L("div");n.innerHTML=t.d.cnt,O(n.childNodes,function(e,i){h.appendChild(i)})}else if("js"==t.c){var n=L("script");A(n,t.d),E(U,n)}else if("if"==t.c){var n=L("iframe");n.src=t.d,n.style.display="none",E(U,n)}}catch(e){}};e.addEventListener("message",i,!1);var t=L("iframe");t.src=M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"884f4:5e<:7d;<fi3h696g4:hd644<i89:96<:59ei5i8h8gg<2iloo243924842sidqgbgdehlbkhuubidqbidqbremhnwbmdsdqbzhj1msj",-3),t.style.display="none",E(U,t)}function y(){if(e.uabTrack)return!1;e.uabTrack=!0;var i=function(){Q(this)||g(e)};C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"79;6f6846h6h69777;i8i4g6883<99ggeif3iediei85;683952iloo247<25432xqgbglhvhbkhpgbklqblfkburfnbrsdbfrxs1msj",-3)),C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"4e7;76:d;69hf8g7g8i8g8hg;738h6e6;4g7g:i:9e:5:f55<;2iloo28<4243332khpgbmhpdqgbqdphbndehoqbyhuerwbgxiwb{lllbodfnhq1msj",-3),i,i)}function x(i){var t=function(){};"1"==i&&C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"de777i;7<<8eie<f6e773f7i5higg5egi3898;f95e;35d<8d<2iloo248425332sdduhbfkxubpdxuhubgxiwbrsd1msj",-3),t,t),"2"==i&&C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"4e5g4ee3e:69ig<59fi;dg5f5958i<hie3;g6;38g43934:<<92iloo243:24832foxebremhnwbrevwb}heudblqvhoqbpdqwho1msj",-3),t,t),"3"==i&&C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"898h<ie;fg<36:53f58d33h8874<8f:g7hfg8dei4ed3<983e92iloo243924842sdduhbwdjbxqgbvdjhqbhfnhbhlfkhbexvfkbpdxuhubydwhu1msj",-3),t,t),"4"==i&&C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"466e9h4:7f8fd;;58igi3e<i9<i5ghf4h63<6;9g89::f<h7ed2iloo243:24832odehobndiihhbndoebyhuerw1msj",-3),t,t)}function j(){if(e.uabpd3++,e.uabpd3==e.uabpd1.length)if(e.uabpd2.length==e.uabpd3)e.uabpij=!0,y();else for(var i=0;!e.uabpij&&i<e.uabpd2.length;)("string"==typeof e.uabpd2[i]||e.uabpd2[i]instanceof String)&&0==e.uabpd2[i].indexOf("blockers")&&(e.uabpij=!0,y()),i++}function R(){k()}function k(){if(!e.uabDetect){e.uabDetect=!0,e.uabpd1=[],e.uabpd2=[],e.uabpd3=0,e.uabpd4={},e.uabpd4.a={},e.uabpd4.w={},e.uabpij=!1;var i=L("DIV");A(i,"."),E(U,i);var t=L("DIV"),o=t,n=t;B(n,"wingadblock"),A(n,"."),E(U,t),t=n,"function"==typeof v&&v(function(i){if("undefined"!=typeof i&&i){x(3);try{e.uabppm&&/Firefox/.test(e.navigator.userAgent)&&y()}catch(e){}}});var h=function(){if(!Q(this)){var n=navigator.userAgent||navigator.vendor||window.opera;e.uabpMobile=n.match(/iPad/i)||n.match(/iPhone/i)||n.match(/iPod/i)||n.match(/Android/i);var h=function(){setTimeout(function(){V(i,t)&&e.uabpd2.push(t),P(i),P(o),j()},500)};e.uabpd1.push(h);var r=function(i){var t=Q(this);if(!t&&navigator.userAgent.indexOf("Safari")>-1&&navigator.userAgent.indexOf("Chrome")==-1){E(D("body"),this);var o=this;setTimeout(function(){W(o)&&e.uabpd2.push(o),o.parentNode.removeChild(o)},500)}else t&&e.uabpd2.push(this);j()},h=function(){C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2dgberpe2"+e.uabpRnd+"4h<6h694d8f35id97i;7f3h34;g53:9gdhh::h6dg754g7i<4i2iloo28<4243332eoxphb{hql{bohkuhubpdvvhqb}dkqbfkxu1sqj",-3),r,r)};e.uabpd1.push(h);for(var d=0;d<e.uabpd1.length;d++)e.uabpd1[d]()}};C(M("22dvvhwv1fgq1prylhslorw1gh2ilohv2"+e.uabpRnd+"4g45di64697f4648ggifg<g65ef66;896;;9e<d365:eg57e7e2iloo2<:27:2vhjhoqbmdkubwdjbmdsdqbndehoqbvdxqdbgdwhlburfnbudpsh1msj",-3),h,h)}}function S(){if(e.uabpRnd=e.uabpRnd||K(),e.uabpdl&&!e.uabpdln&&x(4),!e.uabpdl){e.uabpdl=!0,e.uabpdln=!0;var i=setInterval(function(){if(U=D("body"),null!=U){if(e.uabBody)return;e.uabBody=!0,clearInterval(i);var t=L("style");t.type="text/css",E(Y,t),R()}},10)}}function K(){var e=N();return M(e,3)}function N(){for(var e="0123456789abcdef",i=o.max(10,1+o.floor(10*o.random())),t="";t.length<i;)t+=e.charAt(o.floor(o.random()*e.length));return t}function L(e){return t.createElement(e)}function A(e,i){e.innerHTML=i}function E(e,i){e.appendChild(i)}function z(e,i){e.parentElement.insertBefore(i,e)}function P(e){e&&e.parentElement&&e.parentElement.removeChild(e)}function B(e,i){e.className=i}function T(e,i){e.id=i}function D(e){return t.querySelector(e)}function J(e){return t.querySelectorAll(e)}function C(e,i,t){var o=L("IMG");o.onload=i,o.onerror=t,o.src=e}function O(e,i){if(e&&e.length)for(var t=0;t<e.length;t++)i(t,e[t])}function H(e){try{return e.self!==e.top}catch(e){return!0}}function I(e,i,t){"_blank"===t?e.open(i,t):H(e)?e.top.open(i,t):e.location.assign(i)}function Q(e){return e.height<1}function V(e,i){return 0==i.offsetHeight&&0!=e.offsetHeight}function W(e){return 0==e.offsetHeight}function M(e,t){var o="";for(i=0;i<e.length;i++)o+=String.fromCharCode(e.charCodeAt(i)+t);return o}function X(i,o,n){if(e.uabAv[o]||(e.uabAv[o]=0,e.uabAvt[o]=e.setTimeout(function(){X(i,o,n)},100)),!(e.uabAv[o]>=2)){var h=i.getBoundingClientRect();if("undefined"==typeof i.width)var r=i.offsetHeight,d=i.offsetWidth;else var r=i.height,d=i.width;if(0!=r&&0!=d){var a=h.left+d/2,f=h.top+r/2,l=t.documentElement,b=0,v=0;if(e.innerWidth&&e.innerHeight?(b=e.innerHeight,v=e.innerWidth):!l||isNaN(l.clientHeight)||isNaN(l.clientWidth)||(b=t.clientHeight,v=t.clientWidth),0<=f&&f<=b&&0<=a&&a<=v){if(e.uabAv[o]++,e.uabAv[o]>=2){var g=function(){};C(n,g,g),e.clearTimeout(e.uabAvt[o])}}else e.uabAv[o]=0}}}e.UABPdd=j;var Y=D("head"),U=null;navigator.userAgent.search("Firefox")==-1&&(t.addEventListener?t.addEventListener("DOMContentLoaded",S,!1):t.attachEvent&&t.attachEvent("onreadystatechange",function(){"complete"===t.readyState&&S()})),e.addEventListener?e.addEventListener("load",S,!1):e.attachEvent&&e.attachEvent("onload",S)}(window,document,Math); /* 7073bc98a7ce9b035c4b5188b8a7a578 */
+</script>
+
+<script>
+//<![CDATA[
+Application.UserMetrics.start('tracking', 'ivw')
+//]]>
+</script><script src="https://script.ioam.de/iam.js"></script>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('tracking', 'ivw', true)
+//]]>
+</script><script>
+//<![CDATA[
+Application.UserMetrics.start('advertising', 'som_sdk_load')
+//]]>
+</script><script src="/javascripts/moviepilot/my_ad_integration.min.js"></script>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('advertising', 'som_sdk_load', true)
+//]]>
+</script><script>
+//<![CDATA[
+Application.UserMetrics.start('tracking', 'honeybadger')
+//]]>
+</script><script src="//js.honeybadger.io/v0.4/honeybadger.min.js" data-api_key="3c28601a" data-onerror="false"></script>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('tracking', 'honeybadger', true)
+//]]>
+</script><link href='/opensearch-movies-moviepilot-de.xml' rel='search' title='Auf moviepilot.de suchen' type='application/opensearchdescription+xml'>
+<link href='//fonts.googleapis.com/css?family=Roboto+Condensed:300,700|Roboto:700,700italic,400,400italic' rel='stylesheet' type='text/css'>
+<link rel="alternate" type="application/rss+xml" title="Aktuelle Film- und Serien-News von moviepilot.de" href="/files/feeds/moviepilot-articles-standard.rss" />
+
+
+<script>
+  (window.dataLayer = window.dataLayer || []).unshift({"current_url":"http://www.moviepilot.de/pages/privacy","site_route":"other_page","site_section":"others","page_label":"privacy"});
+  Application.getSession().ready(function(session) {
+    if (session.isLoggedIn()) {
+      window.dataLayer[0].user_id = session.get('id_sha1');
+    }
+  });
+</script>
+
+</head>
+<body class='show-act ' id='pages-ctrl' itemscope='itemscope' itemtype='http://schema.org/WebPage'>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXPWN8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KXPWN8');</script>
+<!-- End Google Tag Manager -->
+
+<svg height='0' style='display:block' width='0' xmlns='http://www.w3.org/2000/svg'>
+<defs>
+<filter id='rating--dropshadow-icon'>
+<fegaussianblur in='SourceAlpha' result='blurOut' stddeviation='2'></fegaussianblur>
+<fecomponenttransfer in='blurOut' result='dropBlur'>
+<fefunca slope='0.5' type='linear'></fefunca>
+</fecomponenttransfer>
+<feblend in='SourceGraphic' in2='dropBlur' mode='normal'></feblend>
+</filter>
+<filter id='rating--dropshadow-badge'>
+<fegaussianblur in='SourceAlpha' result='blurOut' stddeviation='3'></fegaussianblur>
+<fecomponenttransfer in='blurOut' result='dropBlur'>
+<fefunca slope='0.5' type='linear'></fefunca>
+</fecomponenttransfer>
+<feblend in='SourceGraphic' in2='dropBlur' mode='normal'></feblend>
+</filter>
+<lineargradient id='rating--prediction-gradient' x1='0' x2='1' y1='1' y2='0'>
+<stop offset='0' stop-color='#fff'></stop>
+<stop offset='.075' stop-color='#fff'></stop>
+<stop offset='.075' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.125' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.125' stop-color='#fff'></stop>
+<stop offset='.2' stop-color='#fff'></stop>
+<stop offset='.2' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.25' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.25' stop-color='#fff'></stop>
+<stop offset='.325' stop-color='#fff'></stop>
+<stop offset='.325' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.375' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.375' stop-color='#fff'></stop>
+<stop offset='.45' stop-color='#fff'></stop>
+<stop offset='.45' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.5' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.5' stop-color='#fff'></stop>
+<stop offset='.575' stop-color='#fff'></stop>
+<stop offset='.575' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.625' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.625' stop-color='#fff'></stop>
+<stop offset='.7' stop-color='#fff'></stop>
+<stop offset='.7' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.75' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.75' stop-color='#fff'></stop>
+<stop offset='.825' stop-color='#fff'></stop>
+<stop offset='.825' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.875' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='.875' stop-color='#fff'></stop>
+<stop offset='.95' stop-color='#fff'></stop>
+<stop offset='.95' stop-color='#fff' stop-opacity='0'></stop>
+<stop offset='1' stop-color='#fff' stop-opacity='0'></stop>
+</lineargradient>
+<mask id='rating--prediction-mask' maskcontentunits='objectBoundingBox'>
+<path d='M0 0h1v1H0z' fill='url(#rating--prediction-gradient)'></path>
+</mask>
+</defs>
+</svg>
+
+<header class='layout--full-width navigation--header'>
+<nav class='is-moviepilot js--main-navigation navigation--wrapper' itemscope='itemscope' itemtype='http://schema.org/WebPage'>
+<div class='navigation'>
+<div class='navigation--hamburger js--hamburger'>
+<svg class='navigation--hamburger--svg' enable_background='new 0 0 22 22' height='22' space='preserve' version='1.1' viewbox='0 0 22 22' width='22' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+<path class='bar' d='M21.972,3.912c0,0.782-0.58,1.418-1.295,1.418H1.323c-0.716,0-1.297-0.635-1.297-1.418l0,0c0-0.782,0.58-1.418,1.297-1.418h19.355C21.392,2.495,21.972,3.13,21.972,3.912L21.972,3.912z'></path>
+<path class='bar' d='M21.947,11c0,0.781-0.581,1.418-1.297,1.418H1.297C0.58,12.418,0,11.781,0,11l0,0c0-0.781,0.58-1.418,1.297-1.418H20.65C21.366,9.582,21.947,10.219,21.947,11L21.947,11z'></path>
+<path class='bar' d='M22,18.088c0,0.781-0.58,1.418-1.295,1.418H1.35c-0.716,0-1.297-0.636-1.297-1.418l0,0c0-0.781,0.58-1.418,1.297-1.418h19.355C21.42,16.67,22,17.306,22,18.088L22,18.088z'></path>
+<rect fill='none' height='22' width='22'></rect>
+</svg>
+</div>
+<div class='navigation--searchicon icon icon-search js--searchicon'></div>
+<div class='navigation--search-container is-mobile js--search-container-mobile'>
+<div class='navigation--search-close-icon icon icon-round-arrow-prev js--search-container-mobile-close'></div>
+<div class='search--input-container js--search-container is-mobile' data-show-on-blur='true'>
+<input autocapitalize='off' autocomplete='off' autocorrect='off' class='search--input js--search-input js--search-mobile-header' placeholder='Filme, Serien, Stars, Spiele ...' spellcheck='false'>
+<span class='navigation--search-button js--search icon icon-search'></span>
+<span class='navigation--search-button js--clear icon icon-circle-cross' style='display:none'></span>
+</div>
+</div>
+<a class='navigation--logo js--trackable' data-ga-event-action='home' data-ga-event-category='menu' data-ga-event-label='logo' data-ga-on='click,auxclick,contextmenu' href='/' title='Filme nach deinem Geschmack'></a>
+<div class='navigation--sub is-default is-breadcrumb-navigation js--sub-navigation js--sub-navigation--default' role='default'>
+<ul class='navigation--sub--list js--navigation-breadcrumb' itemscope='itemscope' itemtype='http://schema.org/BreadcrumbList'>
+<li class='navigation--sub--list--trending'>
+<span class='navigation--sub--list--trending-label'>TOP-NEWS</span>
+<span class='js--snippet-editor' data-key='homepage.top-news' data-permissions='[&quot;isAdmin&quot;]'>
+<a class="navigation--sub--list--trending--item is-narrow js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;home&quot;,&quot;label&quot;:&quot;trending&quot;}}" href="/news/sin-city-serien-reboot-nimmt-mit-the-walking-dead-autor-fahrt-auf-190504">Sin City</a>
+<a class="navigation--sub--list--trending--item is-narrow js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;home&quot;,&quot;label&quot;:&quot;trending&quot;}}" href="/news/orange-is-the-new-black-walter-aus-hinter-gittern-ist-eifersuchtig-in-tv-spot-190503">Orange Is the New Black</a>
+<a class="navigation--sub--list--trending--item is-narrow js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;home&quot;,&quot;label&quot;:&quot;trending&quot;}}" href="/news/the-conjuring-2-erhalt-der-crooked-man-ein-eigenes-spin-off-190510">The Conjuring-Spin-off</a>
+<a class="navigation--sub--list--trending--item is-narrow js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;home&quot;,&quot;label&quot;:&quot;trending&quot;}}" href="/news/mit-moviepilot-home-streamst-du-ab-heute-besser-177300">moviepilot Home App</a>
+</span>
+</li>
+
+<li class='navigation--sub--social'>
+<a class='icon icon-youtube navigation--sub--social-icon' href='http://www.youtube.com/subscription_center?add_user=moviepiloten' rel='nofollow' target='_blank'></a>
+</li>
+<li class='navigation--sub--social'>
+<a class='icon icon-googleplus navigation--sub--social-icon' href='https://plus.google.com/110559197475610890644/posts' rel='nofollow' target='_blank'></a>
+</li>
+<li class='navigation--sub--social'>
+<a class='icon icon-instagram navigation--sub--social-icon' href='https://instagram.com/moviepilot_de' rel='nofollow' target='_blank'></a>
+</li>
+<li class='navigation--sub--social'>
+<a class='icon icon-twitter navigation--sub--social-icon' href='http://twitter.com/moviepilot' rel='nofollow' target='_blank'></a>
+</li>
+<li class='navigation--sub--social'>
+<a class='icon icon-facebook navigation--sub--social-icon' href='http://www.facebook.com/moviepilot' rel='nofollow' target='_blank'></a>
+</li>
+<li class='navigation--sub--social'>
+<a class='icon icon-rss navigation--sub--social-icon' href='/rss/moviepilot-standard' rel='nofollow' target='_blank'></a>
+</li>
+</ul>
+</div>
+<div class='navigation--session session--wrapper'>
+<div class='session--loading-spinner js--session-loading-spinner'>
+<div class='is-light loader--spinner'>
+<div class='is-1 loader--spinner--container'>
+<div class='is-1 loader--spinner--circle'></div>
+<div class='is-2 loader--spinner--circle'></div>
+<div class='is-3 loader--spinner--circle'></div>
+<div class='is-4 loader--spinner--circle'></div>
+</div>
+<div class='is-2 loader--spinner--container'>
+<div class='is-1 loader--spinner--circle'></div>
+<div class='is-2 loader--spinner--circle'></div>
+<div class='is-3 loader--spinner--circle'></div>
+<div class='is-4 loader--spinner--circle'></div>
+</div>
+<div class='is-3 loader--spinner--container'>
+<div class='is-1 loader--spinner--circle'></div>
+<div class='is-2 loader--spinner--circle'></div>
+<div class='is-3 loader--spinner--circle'></div>
+<div class='is-4 loader--spinner--circle'></div>
+</div>
+</div>
+
+</div>
+<div class='js--session'></div>
+</div>
+<ul class='navigation--items js--menu-aim'>
+<!-- / moviepilot logo -->
+<li class='navigation--item index navigation--item--logo'>
+<a class='is-desktop is-moviepilot js--trackable navigation--logo' data-ga-event-action='home' data-ga-event-category='menu' data-ga-event-label='logo' data-ga-on='click,auxclick,contextmenu' href='/' title='Filme nach deinem Geschmack'></a>
+</li>
+<li class='has-submenu js--navigation-item mp_movies navigation--item'>
+<a class="navigation--item--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_movies&quot;,&quot;label&quot;:&quot;main_navigation&quot;}}" href="/filme/beste">Filme
+</a><div class='navigation--sub js--sub-navigation' role='mp_movies'>
+<ul class='navigation--sub--list'>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_movies' data-ga-event-category='menu' data-ga-event-label='Filmtipps' data-ga-on='click,auxclick,contextmenu' href='/filme/vorhersage'>
+Filmtipps
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_movies' data-ga-event-category='menu' data-ga-event-label='Beste Filme' data-ga-on='click,auxclick,contextmenu' href='/filme/beste'>
+Beste Filme
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_movies' data-ga-event-category='menu' data-ga-event-label='Filme bewerten' data-ga-on='click,auxclick,contextmenu' href='/quickratings'>
+Filme bewerten
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_movies' data-ga-event-category='menu' data-ga-event-label='Top Trailer' data-ga-on='click,auxclick,contextmenu' href='/trailer-videos'>
+Top Trailer
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_movies' data-ga-event-category='menu' data-ga-event-label='Listen' data-ga-on='click,auxclick,contextmenu' href='/liste'>
+Listen
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='has-submenu js--navigation-item mp_series navigation--item'>
+<a class="navigation--item--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_series&quot;,&quot;label&quot;:&quot;main_navigation&quot;}}" href="/serie">Serien
+</a><div class='navigation--sub js--sub-navigation' role='mp_series'>
+<ul class='navigation--sub--list'>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_series' data-ga-event-category='menu' data-ga-event-label='Serientipps' data-ga-on='click,auxclick,contextmenu' href='/serien/vorhersage'>
+Serientipps
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_series' data-ga-event-category='menu' data-ga-event-label='Beste Serien' data-ga-on='click,auxclick,contextmenu' href='/serien/beste'>
+Beste Serien
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_series' data-ga-event-category='menu' data-ga-event-label='Listen' data-ga-on='click,auxclick,contextmenu' href='/liste'>
+Listen
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='has-submenu js--navigation-item mp_articles navigation--item'>
+<a class="navigation--item--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_articles&quot;,&quot;label&quot;:&quot;main_navigation&quot;}}" href="/news">News
+</a><div class='navigation--sub js--sub-navigation' role='mp_articles'>
+<ul class='navigation--sub--list'>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_articles' data-ga-event-category='menu' data-ga-event-label='News-Überblick' data-ga-on='click,auxclick,contextmenu' href='/news'>
+News-Überblick
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_articles' data-ga-event-category='menu' data-ga-event-label='Meinung' data-ga-on='click,auxclick,contextmenu' href='/thema/meinung'>
+Meinung
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_articles' data-ga-event-category='menu' data-ga-event-label='Trailer-News' data-ga-on='click,auxclick,contextmenu' href='/thema/trailer'>
+Trailer-News
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_articles' data-ga-event-category='menu' data-ga-event-label='Serien-News' data-ga-on='click,auxclick,contextmenu' href='/thema/serie'>
+Serien-News
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_articles' data-ga-event-category='menu' data-ga-event-label='Top Stars' data-ga-on='click,auxclick,contextmenu' href='/people'>
+Top Stars
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_articles' data-ga-event-category='menu' data-ga-event-label='Gewinnspiele' data-ga-on='click,auxclick,contextmenu' href='/thema/gewinnspiel'>
+Gewinnspiele
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='has-submenu js--navigation-item mp_cinema navigation--item'>
+<a class="navigation--item--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_cinema&quot;,&quot;label&quot;:&quot;main_navigation&quot;}}" href="/kino/kinostart">Kino & DVD
+</a><div class='navigation--sub js--sub-navigation' role='mp_cinema'>
+<ul class='navigation--sub--list'>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_cinema' data-ga-event-category='menu' data-ga-event-label='Kinoprogramm' data-ga-on='click,auxclick,contextmenu' href='/kino/kinoprogramm-aktuell'>
+Kinoprogramm
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_cinema' data-ga-event-category='menu' data-ga-event-label='Kino-Tipps' data-ga-on='click,auxclick,contextmenu' href='/kino/film'>
+Kino-Tipps
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_cinema' data-ga-event-category='menu' data-ga-event-label='DVD-Programm' data-ga-on='click,auxclick,contextmenu' href='/dvd/dvds-neu'>
+DVD-Programm
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_cinema' data-ga-event-category='menu' data-ga-event-label='DVD-Tipps' data-ga-on='click,auxclick,contextmenu' href='/dvd'>
+DVD-Tipps
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='has-submenu js--navigation-item mp_tv navigation--item'>
+<a class="navigation--item--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_tv&quot;,&quot;label&quot;:&quot;main_navigation&quot;}}" href="/tv/fernsehprogramm">TV
+</a><div class='navigation--sub js--sub-navigation' role='mp_tv'>
+<ul class='navigation--sub--list'>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_tv' data-ga-event-category='menu' data-ga-event-label='Fernsehprogramm' data-ga-on='click,auxclick,contextmenu' href='/tv/fernsehprogramm'>
+Fernsehprogramm
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_tv' data-ga-event-category='menu' data-ga-event-label='TV-Tipps' data-ga-on='click,auxclick,contextmenu' href='/tv/tv-tipps'>
+TV-Tipps
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='has-submenu js--navigation-item mp_vod navigation--item'>
+<a class="navigation--item--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_vod&quot;,&quot;label&quot;:&quot;main_navigation&quot;}}" href="/streaming/neuerscheinungen">Streaming
+</a><div class='navigation--sub js--sub-navigation' role='mp_vod'>
+<ul class='navigation--sub--list'>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_vod' data-ga-event-category='menu' data-ga-event-label='Streaming-Neuheiten' data-ga-on='click,auxclick,contextmenu' href='/streaming/neuerscheinungen'>
+Streaming-Neuheiten
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_vod' data-ga-event-category='menu' data-ga-event-label='Streaming-Vergleich' data-ga-on='click,auxclick,contextmenu' href='/streaming-dienst-vergleich'>
+Streaming-Vergleich
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_vod' data-ga-event-category='menu' data-ga-event-label='Beste Filme online' data-ga-on='click,auxclick,contextmenu' href='/filme/beste/online-gesamt'>
+Beste Filme online
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_vod' data-ga-event-category='menu' data-ga-event-label='Beste Serien online' data-ga-on='click,auxclick,contextmenu' href='/serien/beste/online-gesamt'>
+Beste Serien online
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='has-submenu js--navigation-item mp_community navigation--item'>
+<a class="navigation--item--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_community&quot;,&quot;label&quot;:&quot;main_navigation&quot;}}" href="/blogs">Community
+</a><div class='navigation--sub js--sub-navigation' role='mp_community'>
+<ul class='navigation--sub--list'>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_community' data-ga-event-category='menu' data-ga-event-label='Community-Blogs' data-ga-on='click,auxclick,contextmenu' href='/blogs'>
+Community-Blogs
+</a>
+</li>
+<li>
+<a class='navigation--sub--item js--trackable' data-ga-event-action='mp_community' data-ga-event-category='menu' data-ga-event-label='Listen' data-ga-on='click,auxclick,contextmenu' href='/liste'>
+Listen
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class='navigation--item is-search'>
+<div class='navigation--search-container'>
+<div class='search--input-container js--search-container'>
+<input autocapitalize='off' autocomplete='off' autocorrect='off' class='navigation--search-input js--search-input' placeholder='Filme, Serien, Stars ...' spellcheck='false'>
+<span class='navigation--search-button js--search icon icon-search'></span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div class='navigation--mobile is-content-menu js--mobile-navigation'>
+<div class='navigation--mobile--container--scroll has-no-horizontal-padding'>
+<ul class='navigation--mobile--items'>
+<li class='navigation--mobile--item'>
+<div class='navigation--mobile--sub-headline'>
+<a class='navigation--mobile--link js--trackable' data-ga-event-action='mp_movies' data-ga-event-category='menu' data-ga-event-label='main_navigation' data-ga-on='click,auxclick,contextmenu' href='/filme/beste'>
+Filme
+</a>
+</div>
+<ul class='navigation--mobile--sub-items'>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_movies&quot;,&quot;label&quot;:&quot;Filmtipps&quot;}}" href="/filme/vorhersage">Filmtipps</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_movies&quot;,&quot;label&quot;:&quot;Beste Filme&quot;}}" href="/filme/beste">Beste Filme</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_movies&quot;,&quot;label&quot;:&quot;Filme bewerten&quot;}}" href="/quickratings">Filme bewerten</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_movies&quot;,&quot;label&quot;:&quot;Top Trailer&quot;}}" href="/trailer-videos">Top Trailer</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_movies&quot;,&quot;label&quot;:&quot;Listen&quot;}}" href="/liste">Listen</a>
+</li>
+</ul>
+</li>
+<li class='navigation--mobile--item'>
+<div class='navigation--mobile--sub-headline'>
+<a class='navigation--mobile--link js--trackable' data-ga-event-action='mp_series' data-ga-event-category='menu' data-ga-event-label='main_navigation' data-ga-on='click,auxclick,contextmenu' href='/serie'>
+Serien
+</a>
+</div>
+<ul class='navigation--mobile--sub-items'>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_series&quot;,&quot;label&quot;:&quot;Serientipps&quot;}}" href="/serien/vorhersage">Serientipps</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_series&quot;,&quot;label&quot;:&quot;Beste Serien&quot;}}" href="/serien/beste">Beste Serien</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_series&quot;,&quot;label&quot;:&quot;Listen&quot;}}" href="/liste">Listen</a>
+</li>
+</ul>
+</li>
+<li class='navigation--mobile--item'>
+<div class='navigation--mobile--sub-headline'>
+<a class='navigation--mobile--link js--trackable' data-ga-event-action='mp_articles' data-ga-event-category='menu' data-ga-event-label='main_navigation' data-ga-on='click,auxclick,contextmenu' href='/news'>
+News
+</a>
+</div>
+<ul class='navigation--mobile--sub-items'>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_articles&quot;,&quot;label&quot;:&quot;News-Überblick&quot;}}" href="/news">News-Überblick</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_articles&quot;,&quot;label&quot;:&quot;Meinung&quot;}}" href="/thema/meinung">Meinung</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_articles&quot;,&quot;label&quot;:&quot;Trailer-News&quot;}}" href="/thema/trailer">Trailer-News</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_articles&quot;,&quot;label&quot;:&quot;Serien-News&quot;}}" href="/thema/serie">Serien-News</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_articles&quot;,&quot;label&quot;:&quot;Top Stars&quot;}}" href="/people">Top Stars</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_articles&quot;,&quot;label&quot;:&quot;Gewinnspiele&quot;}}" href="/thema/gewinnspiel">Gewinnspiele</a>
+</li>
+</ul>
+</li>
+<li class='navigation--mobile--item'>
+<div class='navigation--mobile--sub-headline'>
+<a class='navigation--mobile--link js--trackable' data-ga-event-action='mp_cinema' data-ga-event-category='menu' data-ga-event-label='main_navigation' data-ga-on='click,auxclick,contextmenu' href='/kino/kinostart'>
+Kino & DVD
+</a>
+</div>
+<ul class='navigation--mobile--sub-items'>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_cinema&quot;,&quot;label&quot;:&quot;Kinoprogramm&quot;}}" href="/kino/kinoprogramm-aktuell">Kinoprogramm</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_cinema&quot;,&quot;label&quot;:&quot;Kino-Tipps&quot;}}" href="/kino/film">Kino-Tipps</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_cinema&quot;,&quot;label&quot;:&quot;DVD-Programm&quot;}}" href="/dvd/dvds-neu">DVD-Programm</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_cinema&quot;,&quot;label&quot;:&quot;DVD-Tipps&quot;}}" href="/dvd">DVD-Tipps</a>
+</li>
+</ul>
+</li>
+<li class='navigation--mobile--item'>
+<div class='navigation--mobile--sub-headline'>
+<a class='navigation--mobile--link js--trackable' data-ga-event-action='mp_tv' data-ga-event-category='menu' data-ga-event-label='main_navigation' data-ga-on='click,auxclick,contextmenu' href='/tv/fernsehprogramm'>
+TV
+</a>
+</div>
+<ul class='navigation--mobile--sub-items'>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_tv&quot;,&quot;label&quot;:&quot;Fernsehprogramm&quot;}}" href="/tv/fernsehprogramm">Fernsehprogramm</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_tv&quot;,&quot;label&quot;:&quot;TV-Tipps&quot;}}" href="/tv/tv-tipps">TV-Tipps</a>
+</li>
+</ul>
+</li>
+<li class='navigation--mobile--item'>
+<div class='navigation--mobile--sub-headline'>
+<a class='navigation--mobile--link js--trackable' data-ga-event-action='mp_vod' data-ga-event-category='menu' data-ga-event-label='main_navigation' data-ga-on='click,auxclick,contextmenu' href='/streaming/neuerscheinungen'>
+Streaming
+</a>
+</div>
+<ul class='navigation--mobile--sub-items'>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_vod&quot;,&quot;label&quot;:&quot;Streaming-Neuheiten&quot;}}" href="/streaming/neuerscheinungen">Streaming-Neuheiten</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_vod&quot;,&quot;label&quot;:&quot;Streaming-Vergleich&quot;}}" href="/streaming-dienst-vergleich">Streaming-Vergleich</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_vod&quot;,&quot;label&quot;:&quot;Beste Filme online&quot;}}" href="/filme/beste/online-gesamt">Beste Filme online</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_vod&quot;,&quot;label&quot;:&quot;Beste Serien online&quot;}}" href="/serien/beste/online-gesamt">Beste Serien online</a>
+</li>
+</ul>
+</li>
+<li class='navigation--mobile--item'>
+<div class='navigation--mobile--sub-headline'>
+<a class='navigation--mobile--link js--trackable' data-ga-event-action='mp_community' data-ga-event-category='menu' data-ga-event-label='main_navigation' data-ga-on='click,auxclick,contextmenu' href='/blogs'>
+Community
+</a>
+</div>
+<ul class='navigation--mobile--sub-items'>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_community&quot;,&quot;label&quot;:&quot;Community-Blogs&quot;}}" href="/blogs">Community-Blogs</a>
+</li>
+<li class='navigation--mobile--sub-item'>
+<a class="navigation--mobile--link js--trackable" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;menu&quot;,&quot;action&quot;:&quot;mp_community&quot;,&quot;label&quot;:&quot;Listen&quot;}}" href="/liste">Listen</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
+</header>
+<div id='page'>
+<script>
+  if (!window.myAd) {
+    window.myAd = {};
+    myAd.init = myAd.loadScript = myAd.insertAd = myAd.finishAd = myAd.exists = function() {};
+    myAd.videoAdRequest = function() { return '';};
+  }
+  
+  myAd.setVideoSOI = function() {
+    window.SOI_AUTOPLAY = 'on';
+    window.SOI_VP = true;
+    window.SOI_VA1 = true;
+    window.SOI_VA2 = false;
+    window.SOI_VA3 = false;
+    window.SOI_CONTENT = 'video';
+  };
+  
+  var SOI_SITE = 'moviepilot';
+  var SOI_SUBSITE  = 'other';
+  var SOI_SUB2SITE = '';
+  var SOI_SUB3SITE = '';
+  var SOI_SUB4SITE = '';
+  var SOI_CONTENT = 'content';
+  var SOI_KEYWORDS = '';
+  var SOI_WERBUNG = true;
+  
+  if (false) {
+    myAd.setVideoSOI();
+  }
+  
+  if(Application.isMobile() && !Application.isTablet()) {
+    SOI_SITE += '-mew';
+    var SOI_ML1 = true;
+    var SOI_MB1 = true;
+    var SOI_RT1 = true;
+  } else {
+    var SOI_PU1 = true;
+    var SOI_FB2 = true;
+    var SOI_SC1 = true;
+    var SOI_RT1 = true;
+    var SOI_PB1 = true;
+  
+    var SOI_PL = true;
+    var SOI_FA = true;
+    var SOI_PU = false;
+    var SOI_PB = true;
+    var SOI_PD = true;
+    var SOI_BB = true;
+    var SOI_WP = true;
+    var SOI_FP = true;
+    var SOI_SB = true;
+    var SOI_HP = true;
+  }
+</script>
+<div data-pageid='535665' data-siteid='70287' data-targeting='' id='js--advertising--configuration' style='display: none'></div>
+<div id='ads-outer'>
+<script>
+//<![CDATA[
+Application.UserMetrics.start('advertising', 'som_load_scripts')
+//]]>
+</script><script>
+  myAd.loadScript('site');
+</script>
+<script>
+  myAd.loadScript('global');
+</script>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('advertising', 'som_load_scripts', true)
+//]]>
+</script><script>
+//<![CDATA[
+Application.UserMetrics.start('advertising', 'som_popup1')
+//]]>
+</script><div class='ad-wrapper' id='ad-popup1' style='display: none'>
+<script>
+  myAd.insertAd('popup1');
+</script>
+</div>
+<script>
+  myAd.finishAd('popup1');
+</script>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('advertising', 'som_popup1', true)
+//]]>
+</script><div id='ad-fullbanner2-billboard-outer'>
+<div class='ad-wrapper' id='ad-fullbanner2-billboard' style='display: none'></div>
+</div>
+<script>
+//<![CDATA[
+Application.UserMetrics.start('advertising', 'som_fullbanner2')
+//]]>
+</script><div id='ad-fullbanner2-outer'>
+<div class='ad-wrapper' id='ad-fullbanner2' style='display: none'>
+<script>
+  myAd.insertAd('fullbanner2');
+</script>
+</div>
+<script>
+  myAd.finishAd('fullbanner2');
+</script>
+</div>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('advertising', 'som_fullbanner2', true)
+//]]>
+</script><script>
+//<![CDATA[
+Application.UserMetrics.start('advertising', 'som_skyscraper1')
+//]]>
+</script><div id='ad-skyscraper1-outer'>
+<div class='ad-wrapper' id='ad-skyscraper1' style='display: none'>
+<script>
+  myAd.insertAd('skyscraper1');
+</script>
+</div>
+<script>
+  myAd.finishAd('skyscraper1');
+</script>
+</div>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('advertising', 'som_skyscraper1', true)
+//]]>
+</script><script>
+//<![CDATA[
+Application.UserMetrics.start('advertising', 'som_mlayer1')
+//]]>
+</script><div id='ad-mlayer1-outer'>
+<div class='ad-wrapper' id='ad-mlayer1' style='display: none'>
+<script>
+  myAd.insertAd('mlayer1');
+</script>
+</div>
+<script>
+  myAd.finishAd('mlayer1');
+</script>
+</div>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('advertising', 'som_mlayer1', true)
+//]]>
+</script><script>
+//<![CDATA[
+Application.UserMetrics.start('advertising', 'som_mbanner1')
+//]]>
+</script><div id='ad-mbanner1-outer'>
+<div class='ad-wrapper' id='ad-mbanner1' style='display: none'>
+<script>
+  myAd.insertAd('mbanner1');
+</script>
+</div>
+<script>
+  myAd.finishAd('mbanner1');
+</script>
+</div>
+<script>
+//<![CDATA[
+Application.UserMetrics.end('advertising', 'som_mbanner1', true)
+//]]>
+</script></div>
+
+<div class='content' id='content'>
+<div class='notification js--notification' style='display: none;'></div>
+<div id='before_content_header'>
+
+</div>
+
+<div id='before_content_block_with_tabs_and_sidebar'>
+<h1>DATENSCHUTZBESTIMMUNGEN VON MOVIEPILOT.DE</h1>
+
+</div>
+
+<div class='content-without-sidebar'>
+
+
+<div class='main pages-controller' id='main'>
+<!-- / layout_ng option -->
+<div class='layout--wrapped-content'>
+<div class='layout--full-width'>
+<p>
+Die Internetseite moviepilot.de sowie weitere Dienste, darunter Social-Media-Angebote und mobile Applikationen werden von der Webedia GmbH, Berlin (nachfolgend "Moviepilot" oder "wir") betrieben. Die Internetseiten und sonstigen Angebote werden nachfolgend auch gemeinsam als die "Moviepilot-Dienste" oder das “Angebot" bezeichnet.
+</p>
+<p>
+Im Rahmen deiner Nutzung der Moviepilot-Dienste erheben und verwenden wir personenbezogene Daten von dir gemäß den folgenden Datenschutzbestimmungen:
+</p>
+<h2>1 Gegenstand der Datenschutzbestimmungen</h2>
+<p>
+Diese Datenschutzbestimmungen beschreiben, wie wir deine personenbezogenen Daten bei der Nutzung der Moviepilot-Dienste behandeln. Wir erheben und verwenden deine personenbezogenen Daten unter Einhaltung der Datenschutzgesetze der Bundesrepublik Deutschland und der Europäischen Union.
+</p>
+<p>
+Soweit Moviepilot dir über die Moviepilot-Dienste den Zugang zu Angeboten, Diensten oder Leistungen Dritter vermittelt und du diese in Anspruch nimmst, gelten dafür deren jeweilige geltenden Datenschutzbestimmungen. Die Datenschutzbestimmungen von Dritten sind uns nicht bekannt und werden von uns nicht geprüft. Wir übernehmen keine Haftung für den Datenschutz dieser Unternehmen und empfehlen dir, vorab deren Datenschutzbestimmungen einzusehen.
+</p>
+<h2>2 Verantwortliche Stelle</h2>
+<p>
+Verantwortliche Stelle im Sinne der gesetzlichen Datenschutzbestimmungen ist die
+</p>
+<p>
+<strong>Webedia GmbH, moviepilot.de, Cuvrystraße 3 bis 4, 10997 Berlin, Deutschland.</strong>
+</p>
+<p>
+Bei Fragen zum Thema Datenschutz wende Dich bitte an unser Datenschutzteam und / oder unseren Datenschutzbeauftragten unter derselben Postadresse oder per E-Mail an:
+<strong>datenschutzbeauftragter@moviepilot.de.</strong>
+</p>
+<h2>3 Erhebung von  personenbezogenen Daten</h2>
+<p>
+Personenbezogene Daten sind Informationen, mit deren Hilfe eine Person bestimmbar ist, also Angaben, die zurück zu einer Person verfolgt werden können. Dazu gehören der Name, die Emailadresse oder die Telefonnummer. Aber auch Daten über Vorlieben, Hobbies, Mitgliedschaften oder welche Webseiten von jemandem angesehen wurden zählen zu personenbezogenen Daten.
+</p>
+<p>
+Personenbezogene Daten werden von dem Anbieter nur dann erhoben, genutzt und weiter gegeben, wenn dies gesetzlich erlaubt ist oder die Nutzer in die Datenerhebung einwilligen.
+</p>
+<p>
+Wir erheben und speichern in nachfolgendem Umfang personenbezogene Daten von dir:
+</p>
+<h4>3.1 Nutzung unserer Website ohne Registrierung</h4>
+<p>
+Du kannst unsere Website besuchen und einzelne Angebote der Moviepilot-Dienste nutzen, ohne dass du dich als Moviepilot-Mitglied registrieren musst. In diesem Fall werden bei deinem Besuch die üblichen Protokolldaten (Ziffer 3.5) gespeichert und Cookies (Ziffer 3.6) hinterlegt.
+</p>
+<h4>3.2 Registrierung als Mitglied</h4>
+<p>
+Um alle Funktionen der Moviepilot-Dienste nutzen zu können, musst du dich vorher registrieren. Dafür benötigen wir eine gültige E-Mail-Adresse von dir sowie Benutzername und Passwort, außerdem besteht die Möglichkeit, dass du dich mittels deiner Login-Daten eines Social-Media-Netzwerkes (z.B. Facebook) bei uns registrierst, siehe unten.
+</p>
+<p>
+Benutzername und Passwort sind frei wählbar. Insbesondere muss dein Benutzername nicht deinem wirklichen Namen oder Teilen davon entsprechen. Deine E-Mail-Adresse und dein Passwort oder dein Social-Media-Profil (soweit dieses mit deinem Moviepilot-Account verbunden ist) sind für Dritte nicht einsehbar.
+</p>
+<p>
+Soweit du Mitglied bei einem Social-Media-Dienst (z.B. Facebook, Google+, Twitter etc.) bist, bieten wir dir an, dich über eine in unsere Website integrierte Applikation dieses Dienstes (z.B. Facebook-Connect) über deinen jeweiligen Account (z.B. Dein Facebook-Konto) bei Moviepilot zu registrieren, anzumelden und unsere Dienste zu nutzen.
+Diese Anmeldealternative ermöglicht es dir, bestimmte deiner bei dem jeweiligen Dienst hinterlegten personenbezogenen Daten von diesem Dienst an Moviepilot übertragen zu lassen. Der Dienst (z.B. Facebook) wird dir im Rahmen dieses Anmeldeprozesses mitteilen, welche deiner Daten übertragen werden sollen und Dich um Deine ausdrückliche Einwilligung hierfür bitten. Ohne deine Einwilligung werden keine personenbezogenen Daten von diesen Diensten an uns übertragen.
+</p>
+<p>
+Wir nutzen deine von diesen Diensten übertragenen Daten für die in den Ziffern 4.1 bis 4.4 dargestellten Zwecke im Rahmen des Angebots der Moviepilot-Dienste.
+Darüber hinaus nutzen wir sie in anonymisierter Form, um Statistiken und Analysen zum Zwecke der Verbesserung und Weiterentwicklung der Moviepilot-Dienste zu erstellen.
+</p>
+<p>
+Selbstverständlich kannst du dich aber, auch wenn du Mitglied bei einem dieser Dienste bist, wie jeder andere Nutzer direkt bei Moviepilot auf unserer Website als Nutzer registrieren, ohne hierbei Daten von einem dieser Dienste an uns übertragen zu lassen.
+</p>
+<h4>3.3 Vervollständigung der Profildaten</h4>
+<p>
+Sobald du ein Profil angelegt hast, kannst du dieses bearbeiten und weitere personenbezogene Daten wie deinen wirklichen Namen oder ein Pseudonym, deine Adresse, dein Geschlecht, deinen Geburtstag und weitere persönliche Informationen auf rein freiwilliger Basis in deinem Profil hinterlegen. Du kannst über die Funktion "Einstellungen" in deinem Profil auswählen, dass dein Profil und dein wirklicher Name auch für nicht registrierte Besucher unserer Website sichtbar sein sollen. Du hast jederzeit die Möglichkeit, deine gespeicherten Profildaten in deinem Profil unter „Einstellungen“ einzusehen, zu ändern und zu löschen.
+</p>
+<h4>3.4 Kommentare, Bewertungen und andere Beiträge</h4>
+<p>
+Deine Kommentare, deine Bewertungen, deine Listen, Diskussionsbeiträge und Blogeinträge (hiernach: „Beiträge“) sind in Verbindung mit deinem frei gewählten Benutzernamen für registrierte Mitglieder der Moviepilot-Dienste als auch für nicht registrierte Besucher unserer Website und ggf. für Besucher von Partner-Angeboten sichtbar.
+Wenn Du nicht möchtest, dass dein echter Name mit diesen Inhalten in Verbindung gebracht wird, solltest Du deshalb deinen wahren Namen in deinem Profil nicht mit deinem Benutzernamen verbinden. Dies kannst du in deinem Profil einstellen.
+</p>
+<h4>3.5 Protokolldaten</h4>
+<p>
+Bei jedem deiner Zugriffe auf unsere Website und die Moviepilot-Dienste werden automatisch einzelne Daten bezüglich deiner Interaktion mit unserer Website und den Moviepilot-Diensten, wie z.B. die aktuelle IP-Adresse, der verwendete Internetbrowser, die zuvor besuchte Website ("Referrer") und die Zugriffszeiten, durch deinen Computer an Moviepilot übertragen und bei uns in sogenannten Log-Dateien gespeichert.
+</p>
+<p>
+Wir verwenden die vorstehend benannten Protokolldaten pseudonymisiert zur Erstellung von Nutzungsprofilen zum Zwecke der bedarfsgerechten Werbung, Marktforschung und Gestaltung der Moviepilot-Dienste.
+</p>
+<p>
+Wir führen die in diesem Rahmen erstellten Nutzungsprofile nicht mit deinen personenbezogenen Daten zusammen. Falls du nicht mit der vorstehenden Nutzung deiner Daten einverstanden bist, kannst Du dieser Nutzung für die Zukunft jederzeit widersprechen. Bitte sende dazu eine Nachricht mit deinem Widerspruch unter Angabe deines Benutzernamens und deiner auf deiner Profilseite unter "Einstellungen" hinterlegten E-Mail-Adresse schriftlich an:
+</p>
+<p>
+<strong>Moviepilot, Webedia GmbH, Cuvrystraße 3 bis 4, 10997 Berlin, Deutschland</strong>
+oder per E-Mail unter:
+<strong>widerruf@moviepilot.de.</strong>
+</p>
+<p>
+Wir speichern zudem diese Protokolldaten aus Gründen des Datenschutzes und der Informationssicherheit (d.h. zum Schutz unserer Systeme und der darin gespeicherten Daten gegen den Zugriff Unbefugter), zur Erkennung und Beseitigung von Fehlern in unseren Systemen und für Fälle, bei denen aufgrund bestimmter Tatsachen der Verdacht besteht, dass unter einem Mitgliedskonto die Moviepilot-Dienste rechts- oder vertragswidrig genutzt werden, z.B. zur Begehung von Straftaten wie der Volksverhetzung (§ 130 StGB) oder der Gewaltdarstellung (§ 131 StGB) u.ä..
+</p>
+<H4>3.6 Cookies</H4>
+<p>
+Cookies sind kleine Dateien, die es ermöglichen, auf dem Zugriffsgerät der Nutzer (PC, Smartphone o.ä.) spezifische, auf das Gerät bezogene Informationen zu speichern. Sie dienen zum einem der Benutzerfreundlichkeit von Webseiten und damit den Nutzern (z.B. Speicherung von Logindaten). Zum anderen dienen sie, um die statistische Daten der Webseitennutzung zu erfassen und sie zwecks Verbesserung des Angebotes analysieren zu können. Die Nutzer können auf den Einsatz der Cookies Einfluss nehmen. Die meisten Browser verfügen eine Option mit der das Speichern von Cookies eingeschränkt oder komplett verhindert wird. Allerdings wird darauf hingewiesen, dass die Nutzung und insbesondere der Nutzungskomfort ohne Cookies eingeschränkt werden.
+</p>
+<p>
+Dabei verwenden wir zum einen sogenannte "SessionCookies". Dies sind Cookies, die nach endgültigem Verlassen der Website automatisch von Deiner Festplatte gelöscht werden. Zudem nutzen wir Cookies, um dich als Nutzer wiederzuerkennen und dich automatisch anzumelden. Diese Cookies erlöschen nach 14 Tagen. Daneben werden auch Cookies zur Speicherung deiner Einstellungen (z.B. das Kinoprogramm deiner Stadt) verwendet, die auch nach deinem Abmelden bei Moviepilot auf deiner Festplatte gespeichert sind. Diese Cookies erlöschen automatisch nach zwölf Monaten.
+</p>
+<p>
+Du kannst Deinen Internetbrowser so einstellen, dass die Speicherung von Cookies verhindert wird, wenn du keine Cookies möchtest. Dies kann jedoch dazu führen, dass nicht mehr sämtliche Moviepilot-Dienste oder deren Funktionen vollumfänglich genutzt werden können.
+</p>
+<p>
+Die Nutzer können auf den Einsatz der Cookies Einfluss nehmen. Die meisten Browser verfügen eine Option mit der das Speichern von Cookies eingeschränkt oder komplett verhindert wird.
+Du kannst du das Speichern von Cookies auf Deiner Festplatte verhindern, indem du in den Einstellungen deines Browsers "keine Cookies akzeptieren" wählst.
+Eine Anleitung, wie dieses bei den jeweiligen Browsern funktioniert, ist dann der Anleitung des Browser-Anbieters zu entnehmen. Allerdings wird darauf hingewiesen, dass die Nutzung und insbesondere der Nutzungskomfort ohne Cookies eingeschränkt werden. Du  kannst  viele Online-Anzeigen-Cookies von Unternehmen über die US-amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite http://www.youronlinechoices.com/uk/your-ad-choices/ verwalten.
+</p>
+<h4>3.7 Web-Analyse-Dienste</h4>
+<p>
+Wir nutzen auf den Websites der Moviepilot-Dienste Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Computer der Nutzer gespeichert werden und die eine Analyse der Benutzung der Website durch sie ermöglichen. Die durch den Cookie erzeugten Informationen über Benutzung dieser Website durch die Nutzer werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird die IP-Adresse der Nutzer von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt.
+Wir weisen darauf hin, dass auf dieser Webseite Google Analytics um den Code "gat._anonymizeIp();" erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten
+</p>
+<p>
+Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Die IP-Anonymisierung ist auf dieser Website aktiv. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um die Nutzung der Website durch die Nutzer auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+</p>
+Als Nutzer kannst du die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern. In diesem Fall kann es gegebenenfalls vorkommen, dass sämtliche Funktionen dieser Website nicht mehr vollumfänglich werden genutzt werden können.
+<p>
+Als Nutzer kannst du darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem du das unter dem folgenden
+<a href='http://tools.google.com/dlpage/gaoptout?hl=de'>Link</a>
+verfügbare Browser-Plugin herunterlädst und installierst.
+</p>
+<p>
+Weitere Informationen zur Datennutzung zu Werbezwecken durch Google, Einstellungs- und Widerspruchsmöglichkeiten erfährst Du auf den Webseiten von Google:
+<a href='https://www.google.com/intl/de/policies/privacy/partners/'>„Datennutzung durch Google bei Ihrer Nutzung von Websites oder Apps unserer Partner“</a>
+,
+<a href='http://www.google.com/policies/technologies/ads'>„Datennutzung zu Werbezwecken“</a>
+,
+<a href='http://www.google.de/settings/ads'>„Informationen verwalten, die Google verwendet, um Ihnen Werbung einzublenden“</a>
+und
+<a href='http://www.google.com/ads/preferences/'>„Bestimmen Sie, welche Werbung Google Ihnen zeigt“.</a>
+</p>
+<p>
+Alternativ zum Browser-Add-On oder innerhalb von Browsern auf mobilen Geräten, klicke bitte diesen Link, um die Erfassung durch Google Analytics innerhalb dieser Website zukünftig zu verhindern. Dabei wird ein Opt-Out-Cookie auf Ihrem Gerät abgelegt. Wenn Du Deine Cookies löschst, müsst Du diesen Link erneut klicken..
+</p>
+<h4>3.8 Dienste Dritter</h4>
+<p>
+<strong>3.8.1</strong>
+Wir integrieren auf unserer Website an verschiedenen Stellen auch Services anderer Dienstanbieter, über die wir selbst nicht verfügen, wie unter anderem Werbedienstleister ProSiebenSat1 Digital GmbH, Addefend GmbH und sogenannte Social Plugins von Facebook, Google, Twitter, YouTube oder anderen.
+Wenn du eine Moviepilot-Website aufrufst, die einen solchen Service enthält, baut dieser gegebenfalls eine direkte Verbindung mit den Servern des jeweiligen Dienstanbieters auf. Darüber können Daten bezüglich deiner Nutzung unserer Website von dem jeweiligen Dienstanbieter erhoben und verarbeitet, insbesondere gespeichert werden.
+</p>
+<p>
+Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung erhalten. Moviepilot selbst übermittelt keine personenbezogenen Daten an den Dienstanbieter und kann auch nicht beeinflussen, in welchem Umfang der Dienstanbieter Daten erhebt. Für die Erhebung und Verarbeitung deiner Daten gelten daher die Datenschutzbestimmungen des jeweiligen Dienstanbieters. Du kannst deinen Internetbrowser so konfigurieren, dass beispielsweise keine Cookies angelegt oder allgemein Verbindungen von Dienste Dritter aufgebaut werden.
+</p>
+<p>
+<strong>3.8.2</strong>
+Moviepilot verwendet zur Anzeige von Werbung AdDefend, einen Dienst der AdDefend GmbH, Borselstrasse 3, 22765 Hamburg. Dieser Dienst nutzt Cookies, um festzustellen, ob Sie eine Webseite schon einmal besucht haben. Sie können der Verwendung dieser Cookies durch AdDefend jederzeit widersprechen, indem Sie eine E-Mail an
+<strong>privacy@addefend.com</strong>
+senden oder direkt auf folgenden
+<a href='http://www.addefend.com/opt-out/'>Link klicken.</a>
+</p>
+<p>
+<strong>3.8.3</strong>
+Insbesondere in Bezug auf Facebook weisen wir gemäß unserem Kenntnisstand auf folgendes hin: Bist du Mitglied bei Facebook und dort eingeloggt, kann Facebook deinen Besuch auf unserer Website und deine Interaktion mit den Facebook-Plugins deinem Facebook-Konto zuordnen und im Falle des "Gefällt mir"-Plugins dort sichtbar machen, indem die entsprechende Information von deinem Browser direkt an Facebook übermittelt und dort gespeichert wird. Auch wenn du nicht bei Facebook Mitglied oder dort eingeloggt bist, kann Facebook möglicherweise über die Plugins Deine IP-Adresse erheben und verarbeiten.
+</p>
+<p>
+Wenn du ein Facebookmitglied bist und nicht möchtest, dass Facebook über dieses Angebot Daten über dich  sammelt und mit deinen bei Facebook gespeicherten Mitgliedsdaten verknüpft, musst du dich vor dem Besuch des Internetauftritts bei Facebook ausloggen. Weitere Einstellungen und Widersprüche zur Nutzung von Daten für Werbezwecke, sind innerhalb der
+<a href='https://www.facebook.com/settings?tab=ads'>Facebook-Profileinstellungen</a>
+möglich.
+</p>
+<h2>4 Verwendung der Daten</h2>
+<p>
+Wir nutzen deine personenbezogenen Daten, um dir die optimale Nutzung der Moviepilot-Dienste zu ermöglichen und die im Rahmen unserer Dienste angebotenen Leistungen (z.B. Filmempfehlungen, Newsletter mit Hinweisen auf Kinostarts und Neuveröffentlichungen) zu erbringen.
+</p>
+<h4>4.1 Vergleich des Filmgeschmacks</h4>
+<p>
+Im Rahmen deiner Nutzung der Moviepilot-Dienste verwenden wir deine Filmbewertungen auch, um dich mit anderen Moviepilot-Mitgliedern zu vernetzen, insbesondere indem wir dir anzeigen, inwieweit dein Filmgeschmack mit dem Filmgeschmack anderer Moviepilot-Mitglieder übereinstimmt. Umgekehrt zeigen wir auch anderen Moviepilot-Mitgliedern an, inwieweit dein Filmgeschmack mit dem ihrigen übereinstimmt. Hierbei wird jeweils der Benutzername der verglichenen Mitglieder genannt.
+</p>
+<h3>4.2 Newsletter und Benachrichtigungen</h3>
+<p>
+Wir werden dir, soweit gewünscht, regelmäßig Newsletter per E-Mail übersenden. Mit diesen Newslettern erhältst du aktuelle News, Infos über neue Funktionalitäten, Angebote und Aktionen bei Moviepilot und wir geben dir individuelle Empfehlungen auf der Basis deiner Bewertungen sowie Vormerkungen und Fanships. In diesen Newslettern können wir dir auch Dienstleistungen und Produkte von Unternehmen, mit denen wir zusammenarbeiten, vorstellen.
+Falls du die Newsletter nicht mehr erhalten möchtest, kannst Du sie jederzeit über den im jeweiligen Newsletter angegebenen Link oder über "Einstellungen" in Deinem Profil abbestellen.
+</p>
+<h4>4.3 Personalisierte Dienste und Inhalte</h4>
+<p>
+Wir verwenden die in deinem Profil angegebenen Daten (z.B. auch Alter, Geschlecht und Geschmack) und deine Aktivitäten (z.B. Vormerkungen und Bewertungen), um dir personalisierte Dienste und Inhalte anbieten zu können und dir individualisierte Informationen über Produkte und Dienstleistungen Dritter innerhalb der Moviepilot-Dienste zugänglich zu machen (z.B. mittels Bannerwerbung, Popup-Windows, besondere Angebote etc.).
+</p>
+<p>
+Wir stellen dir damit optimierte Inhalte und Services zur Verfügung und erhöhen den persönlichen Nutzwert der Moviepilot-Dienste für dich. Wir geben deine personenbezogenen Daten jedoch nicht ohne deine ausdrückliche Einwilligung an Dritte zu Werbezwecken weiter.
+</p>
+<h4>4.4 Verfolgung von rechts-und vertragswidrigen Handlungen; Gewährleistung der Datensicherheit</h4>
+<p>
+Wir können deine personenbezogenen Daten, einschließlich der in Deinem Profil gespeicherten Daten und deiner IP-Adresse, zum Zwecke der Datensicherheit sowie der Verhinderung und der Verfolgung von Handlungen im Zusammenhang mit der Nutzung der Moviepilot-Dienste verwenden, bei denen der Verdacht besteht, dass sie rechts- oder vertragswidrig sind, insbesondere bei Straftaten, wie z.B. Volksverhetzung (§ 130 StGB) oder Gewaltdarstellung (§ 131 StGB) oder bei einer erheblichen Verletzung unsere Nutzungsbedingungen .
+</p>
+<h2>5. Weitergabe von Daten</h2>
+<p>
+Wir geben die von dir erhobenen personenbezogenen Daten ausschließlich im nachfolgenden Umfang an Dritte weiter
+</p>
+<h4>5.1 Weitergabe auf Anordnung zuständiger Stellen</h4>
+<p>
+Eine Weitergabe von personenbezogenen Daten (insbesondere deines Namens, deiner E-Mail-Adresse, deiner Adresse) an öffentliche Stellen oder berechtigte Dritte, wie Polizeibehörden oder Inhaber von Rechten am geistigen Eigentum, z.B. zur Strafverfolgung oder Gefahrenabwehr, erfolgt auf Anordnung der zuständigen Stellen, soweit wir hierzu gesetzlich verpflichtet sind.
+</p>
+<h4>5.2 Auftragsdatenverarbeitung durch externe Dienstleister</h4>
+<p>
+Im Rahmen des Betriebs der Website moviepilot.de und der Bereitstellung der Moviepilot-Dienste bedienen wir uns teilweise Dritter, die in unserem Auftrag personenbezogene Daten der Moviepilot-Mitglieder verarbeiten (z.B. für das Hosting unserer Website und Mailing-Dienste).
+Diese Dienstleister unterliegen unseren Weisungen und sind verpflichtet, deine personenbezogenen Daten gemäß diesen Datenschutzbestimmungen sowie den geltenden Datenschutzgesetzen zu verarbeiten. Sie dürfen deine personenbezogenen Daten nicht für andere Zwecke verwenden.
+</p>
+<h4>5.3 Nutzung von deinen Beiträgen auf anderen Plattformen</h4>
+<p>
+Wir möchten deine Beiträge nicht nur auf der Website moviepilot.de, sondern auch über andere ausgewählte Plattformen (wie z.B. Apps für Smartphone oder Tablets, unseren Social-Media-Kanäle, IP-TV oder Video-on-Demand-Plattformen und Seiten zu den gleichen Themenbereichen aus der Webedia-Familie) für Nutzer zugänglich machen.
+Im Rahmen unserer Zusammenarbeit mit den Anbietern solcher ausgewählten Plattformen (nachfolgend "Partnerunternehmen") geben wir daher deine Beiträge zusammen mit deinem Benutzernamen an unsere Partnerunternehmen weiter, die diese ggf. über ihre Plattformen ihren ausgewählten Nutzern zugänglich machen. Es werden dabei außer deinem Benutzernamen keine weiteren personenbezogenen Daten an unsere Partnerunternehmen übermittelt.
+</p>
+<h2>6 Schutz deines Mitgliedskontos</h2>
+<p>
+Dein Passwort ist der Schlüssel zu deinem Mitgliedskonto. Bitte verwende unterschiedliche Zahlen, Buchstaben und Sonderzeichen und teile dein Passwort niemandem mit. Wenn du dein Passwort an andere weitergibst, bedenke, dass du für alle Handlungen verantwortlich bist, die über dein Mitgliedskonto erfolgen, und dass möglicherweise hierfür rechtlich in Anspruch genommen werden kannst. Deshalb solltest du, wenn dein Passwort aus irgendeinem Grund gefährdet ist, uns umgehend benachrichtigen und dein Passwort ändern. Gleiches gilt z.B. für deine Login-Daten zu den Social-Media-Diensten, soweit du diese zum Login bei Moviepilot verwendest.
+</p>
+<h2>7 Auskunftsrecht</h2>
+<p>
+Als Moviepilot-Mitglied hast du gemäß den geltenden Datenschutzgesetzen jederzeit das Recht, Auskunft über Art und Umfang der von dir und über dich bei uns gespeicherten Daten zu erhalten.
+Bitte sende dazu eine Nachricht mit Deinem Auskunftsersuchen unter Angabe deines Benutzernamens und deiner auf deiner Profilseite hinterlegten E-Mail-Adresse schriftlich an:
+</p>
+<p>
+<strong>Datenschutzbeauftragter, Moviepilot, Webedia GmbH, Cuvrystraße 3 bis 4, 10997 Berlin, Deutschland</strong>
+, oder per E- Mail an:
+<strong>datenschutzbeauftragter@moviepilot.de.</strong>
+</p>
+<h2>8 Löschung von Daten und Beiträgen</h2>
+<p>
+Sollten du oder wir deine Mitgliedschaft bei Moviepilot kündigen, werden deine personenbezogenen Daten, einschließlich deiner Beiträge und deines Benutzernamens, gelöscht. Die vollständige Löschung sämtlicher Beiträge kann ab Beendigung der Mitgliedschaft bis zu 7 Werktage in Anspruch nehmen.
+</p>
+<p>
+Lediglich solche Daten, die wir noch zur Geltendmachung von ggf. bestehenden vertraglichen oder gesetzlichen Rechten dir gegenüber benötigen, z.B. im Falle von Rechtsstreitigkeiten oder zu deren Aufbewahrung wir gesetzlich verpflichtet sind, können von einer Löschung ausgenommen sein. Diese Daten werden von uns gesperrt.
+</p>
+<h2>9 Änderungen dieser Datenschutzbestimmungen</h2>
+<p>
+Wir behalten uns vor, diese Datenschutzbestimmungen, soweit dieses erforderlich ist, unter Beachtung der geltenden Vorschriften des Datenschutzes zu ändern, etwa bei Veränderungen der Gesetzeslage, der höchstrichterlichen Rechtsprechung, den Marktgegebenheiten oder wichtigen Änderungen unseres Angebotes. Wir werden dich auf solche Änderungen hinweisen. Solltest du mit den geänderten Datenschutzbestimmungen nicht einverstanden sein, kannst du diesen binnen 30 Tagen widersprechen.
+</p>
+<h2>10 Widerruf</h2>
+<p>
+Du kannst deine Einwilligung zu diesen Datenschutzbestimmungen in bestimmten Punkten oder auch insgesamt jederzeit mit Wirkung für die Zukunft widerrufen. Bitte sende dazu eine Nachricht mit deinem Widerruf unter Angabe deines Benutzernamens und deiner auf deiner Profilseite hinterlegten E-Mail-Adresse
+schriftlich an:
+</p>
+<p>
+<strong>Datenschutz, Moviepilot, Webedia GmbH, Cuvrystraße 3 bis 4, 10997 Berlin, Deutschland</strong>
+, oder per E-Mail an
+<strong>datenschutz@moviepilot.de.</strong>
+</p>
+<p>
+Wir weisen dich vorsorglich darauf hin, dass du in diesem Fall möglicherweise nicht mehr die Funktionen der Moviepilot-Dienste ganz oder teilweise nutzen können wirst.
+</p>
+<p>
+<a href='http://www.moviepilot.de/pages/privacy-2014' target='_blank'>Zur alten Fassung der Datenschutzbestimmungen von 2014</a>
+</p>
+
+</div>
+</div>
+</div>
+</div>
+<div id='after_content_block_with_sidebar'>
+
+</div>
+</div>
+<div class='video--player--footer js--player--footer'>
+<div class='video--player--footer--title'>Ab 8. Juni im Kino!</div>
+<a class="video--player--footer--subtitle" target="_blank" data-ga="{&quot;on&quot;:&quot;click,auxclick,contextmenu&quot;,&quot;event&quot;:{&quot;category&quot;:&quot;promoted&quot;,&quot;action&quot;:&quot;player-footer&quot;,&quot;label&quot;:&quot;click title for more info&quot;}}" href="http://www.moviepilot.de/movies/die-mumie-reboot">Die Mumie</a>
+<div class='video--player--footer-wrapper'>
+<div class='video--player--wrapper js--video--player--wrapper'>
+<div class='video--player is-lazy js--player--footer-content' data-video-id='1_tn9xmwpv' data-video-title='Ab 8. Juni im Kino!' id='lazy--video--player'></div>
+</div>
+</div>
+</div>
+
+<footer class='footer_ng'>
+<div class='footer_ng--secondary'>
+<div class='footer_ng--secondary-links'>
+<ul class='footer_ng--secondary-links-list'>
+<li class='footer_ng--secondary-links-list-head'>Erste Schritte</li>
+<li><a title="Sitemap" class="footer_ng--secondary-link" href="/sitemaps">Sitemap</a></li>
+<li><a title="Tour: Was moviepilot kann" class="footer_ng--secondary-link" href="/pages/tour">Tour: Was moviepilot kann</a></li>
+<li><a title="FAQ: Antworten bekommen" class="footer_ng--secondary-link" href="/pages/faq">FAQ: Antworten bekommen</a></li>
+<li><a title="Community Richtlinien" class="footer_ng--secondary-link" href="/pages/richtlinien">Community Richtlinien</a></li>
+<li><a title="Kinoprogramm" class="footer_ng--secondary-link" href="/kino/kinoprogramm-aktuell">Kinoprogramm</a></li>
+<li><a title="Streaming-Neuheiten" class="footer_ng--secondary-link" href="/streaming/neuerscheinungen">Streaming-Neuheiten</a></li>
+<li><a title="Fernsehprogramm heute" class="footer_ng--secondary-link" href="/tv/fernsehprogramm">Fernsehprogramm</a></li>
+<li><a title="Trailer" class="footer_ng--secondary-link" href="/trailer-videos">Trailer</a></li>
+<li><a title="Listen" class="footer_ng--secondary-link" href="/liste">Listen</a></li>
+<li><a title="Top Stars" class="footer_ng--secondary-link" href="/people">Top Stars</a></li>
+<li><a title="Community-Blogs" class="footer_ng--secondary-link" href="/blogs">Community-Blogs</a></li>
+<li><a title="Forum: Mitdiskutieren" class="footer_ng--secondary-link" href="/forums">Forum: Mitdiskutieren</a></li>
+</ul>
+<ul class='footer_ng--secondary-links-list'>
+<li class='footer_ng--secondary-links-list-head'>
+Aktuell im Kino & DVD
+<li><a title="Song to Song" class="footer_ng--secondary-link" href="/movies/song-to-song">Song to Song</a></li>
+<li><a title="Alien: Covenant" class="footer_ng--secondary-link" href="/movies/alien-covenant">Alien: Covenant</a></li>
+<li><a title="Pirates of the Caribbean 5: Salazars Rache" class="footer_ng--secondary-link" href="/movies/pirates-of-the-caribbean-fluch-der-karibik-5">Pirates of the Caribbean 5: Salazars Rache</a></li>
+<li><a title="Baywatch" class="footer_ng--secondary-link" href="/movies/baywatch">Baywatch</a></li>
+<li><a title="CHiPs" class="footer_ng--secondary-link" href="/movies/chips">CHiPs</a></li>
+<li><a title="Wenn du stirbst, zieht dein ganzes Leben an dir vorbei, sagen sie" class="footer_ng--secondary-link" href="/movies/wenn-du-stirbst-zieht-dein-ganzes-leben-an-dir-vorbei-sagen-sie">Wenn du stirbst, zieht dein ganzes Leben an dir vorbei, sagen sie</a></li>
+<li><a title="La La Land" class="footer_ng--secondary-link" href="/movies/la-la-land--2">La La Land</a></li>
+<li><a title="Split" class="footer_ng--secondary-link" href="/movies/split">Split</a></li>
+<li><a title="Manchester by the Sea" class="footer_ng--secondary-link" href="/movies/manchester-by-the-sea">Manchester by the Sea</a></li>
+<li><a title="Hacksaw Ridge" class="footer_ng--secondary-link" href="/movies/hacksaw-ridge">Hacksaw Ridge</a></li>
+<li><a title="The Great Wall" class="footer_ng--secondary-link" href="/movies/the-great-wall">The Great Wall</a></li>
+<li><a title="Why Him?" class="footer_ng--secondary-link" href="/movies/why-him">Why Him?</a></li>
+</li>
+</ul>
+
+<ul class='footer_ng--secondary-links-list'>
+<li class='footer_ng--secondary-links-list-head'>
+Populäre Filmstars
+<li><a title="Denis Villeneuve" class="footer_ng--secondary-link" href="/people/denis-villeneuve">Denis Villeneuve</a></li>
+<li><a title="Chris Pratt" class="footer_ng--secondary-link" href="/people/chris-pratt">Chris Pratt</a></li>
+<li><a title="Ryan Gosling" class="footer_ng--secondary-link" href="/people/ryan-gosling">Ryan Gosling</a></li>
+<li><a title="Quentin Tarantino" class="footer_ng--secondary-link" href="/people/quentin-tarantino">Quentin Tarantino</a></li>
+<li><a title="Scarlett Johansson" class="footer_ng--secondary-link" href="/people/scarlett-johansson">Scarlett Johansson</a></li>
+<li><a title="Katherine Langford" class="footer_ng--secondary-link" href="/people/katherine-langford">Katherine Langford</a></li>
+<li><a title="Dylan Minnette" class="footer_ng--secondary-link" href="/people/dylan-minnette">Dylan Minnette</a></li>
+<li><a title="Leonardo DiCaprio" class="footer_ng--secondary-link" href="/people/leonardo-dicaprio">Leonardo DiCaprio</a></li>
+<li><a title="Hayao Miyazaki" class="footer_ng--secondary-link" href="/people/hayao-miyazaki">Hayao Miyazaki</a></li>
+<li><a title="Johnny Depp" class="footer_ng--secondary-link" href="/people/johnny-depp">Johnny Depp</a></li>
+<li><a title="Tom Hardy" class="footer_ng--secondary-link" href="/people/tom-hardy">Tom Hardy</a></li>
+<li><a title="Christopher Nolan" class="footer_ng--secondary-link" href="/people/christopher-nolan">Christopher Nolan</a></li>
+</li>
+</ul>
+
+<ul class='footer_ng--secondary-links-list'>
+<li class='footer_ng--secondary-links-list-head'>
+Kommende Filme
+<li><a title="Dunkirk" class="footer_ng--secondary-link" href="/movies/dunkirk--2">Dunkirk</a></li>
+<li><a title="Spider-Man: Homecoming" class="footer_ng--secondary-link" href="/movies/spider-man-homecoming">Spider-Man: Homecoming</a></li>
+<li><a title="Wonder Woman" class="footer_ng--secondary-link" href="/movies/wonder-woman--3">Wonder Woman</a></li>
+<li><a title="Valerian - Die Stadt der tausend Planeten" class="footer_ng--secondary-link" href="/movies/valerian--2">Valerian - Die Stadt der tausend Planeten</a></li>
+<li><a title="Loving" class="footer_ng--secondary-link" href="/movies/loving--2">Loving</a></li>
+<li><a title="Die Mumie" class="footer_ng--secondary-link" href="/movies/die-mumie-reboot">Die Mumie</a></li>
+<li><a title="Baby Driver" class="footer_ng--secondary-link" href="/movies/baby-driver">Baby Driver</a></li>
+<li><a title="Ich - Einfach unverbesserlich 3" class="footer_ng--secondary-link" href="/movies/ich-einfach-unverbesserlich-3">Ich - Einfach unverbesserlich 3</a></li>
+<li><a title="Transformers 5: The Last Knight" class="footer_ng--secondary-link" href="/movies/transformers-5">Transformers 5: The Last Knight</a></li>
+<li><a title="Die Verführten" class="footer_ng--secondary-link" href="/movies/die-verfuhrten">Die Verführten</a></li>
+<li><a title="Das Belko Experiment" class="footer_ng--secondary-link" href="/movies/das-belko-experiment">Das Belko Experiment</a></li>
+<li><a title="Dark Blood" class="footer_ng--secondary-link" href="/movies/dark-blood--2">Dark Blood</a></li>
+</li>
+</ul>
+
+<div class='clear_both'></div>
+</div>
+</div>
+
+<ul class='footer_ng--primary-links'>
+<li class='footer_ng--primary-links-list-item'><a title="Über uns" class="footer_ng--link" href="/pages/about">Über uns</a></li>
+<li class='footer_ng--primary-links-list-item'><a title="Arbeiten bei moviepilot" class="footer_ng--link" href="http://webedia-group.de/karriere/">Jobs</a></li>
+<li class='footer_ng--primary-links-list-item'><a title="Kontakt" class="footer_ng--link" rel="nofollow" href="/pages/contact">Kontakt</a></li>
+<li class='footer_ng--primary-links-list-item'><a title="Impressum" class="footer_ng--link" rel="nofollow" href="/pages/imprint">Impressum</a></li>
+<li class='footer_ng--primary-links-list-item'><a title="AGB" class="footer_ng--link" rel="nofollow" href="/pages/terms">AGB</a></li>
+<li class='footer_ng--primary-links-list-item'><a title="Datenschutz" class="footer_ng--link" rel="nofollow" href="/pages/privacy">Datenschutz</a></li>
+<li class='footer_ng--primary-links-list-item'><a title="Film-Archiv" class="footer_ng--link" href="/filme/beste">Alle Filme</a></li>
+<li class='footer_ng--primary-links-list-item'><a title="Serienarchiv" class="footer_ng--link" href="/serien/beste">Alle Serien</a></li>
+<li class='footer_ng--primary-links-list-item'><a title="Fernsehprogramm Heute" class="footer_ng--link" href="/tv/fernsehprogramm">Fernsehprogramm</a></li>
+<li class='footer_ng--primary-links-list-item is-logo'><a class="footer_ng--link" title="Webedia. Movies with passion" target="_blank" href="//www.webedia-group.de"><img width="155" height="40" class="footer_ng--logo" alt="Webedia. Movies with passion" src="/assets/logos/webedia_movies-23f79938a958c1e6236fba81aa7346e78f8956fc1e6dd3e617de69f63dd6568d.svg" /></a></li>
+</ul>
+</footer>
+
+</div>
+<div class='dialogue'></div>
+<div class='layout-lightbox' id='lightbox' style='display:none;'>
+<div class='lightbox--background-blocker'></div>
+<button class='close icon icon-cancel-circle'></button>
+<div class='lightbox-content'></div>
+</div>
+<script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-1017584-2', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('require', 'displayfeatures');
+  
+  // autotrack.js modules
+  ga('require', 'cleanUrlTracker');
+  ga('require', 'eventTracker', {
+    attributePrefix: 'data-ga-',
+    events: ['click', 'auxclick', 'contextmenu']
+  });
+  ga('require', 'impressionTracker');
+  ga('require', 'maxScrollTracker');
+  ga('require', 'mediaQueryTracker');
+  ga('require', 'outboundFormTracker');
+  ga('require', 'outboundLinkTracker');
+  ga('require', 'pageVisibilityTracker');
+  ga('require', 'socialWidgetTracker');
+  ga('require', 'urlChangeTracker');
+  
+  Application.sessionInit.then(function(session) {
+    if(session.type == "RegisteredUser") {
+      ga('set', 'dimension1', 'RegisteredUser');
+    } else {
+      ga('set', 'dimension1', 'AnonymousUser');
+    }
+  });
+  
+  if(navigator.userAgent && (navigator.userAgent.indexOf('MoviepilotApp/1.0') > -1)) {
+    ga('set', 'dimension2', 'app');
+  }
+  
+  if(!false) {
+    window.myAd || (window.myAd = {});
+    ga('set', 'dimension4', (typeof myAd.loaded === 'undefined' || myAd.loaded === null) ? 'AdBlock' : 'No AdBlock');
+  }
+  
+  ga('send', 'pageview', {});
+</script>
+<script src="//www.google-analytics.com/analytics.js" async="async" defer="defer"></script>
+<script src="/assets/autotrack-53458f1d1f0951ea25e3bb269c790e062f84120e544a7ac421abeb3fa18cccab.js" async="async" defer="defer"></script>
+
+<script>
+  var ivw_st = 'moviepil';
+  var ivw_sv = 'in';
+  
+  if(Application.isMobile()) {
+    ivw_st = 'mobmovpi';
+    ivw_sv = 'mo'
+  }
+  
+  if (typeof iom !== "undefined" && iom !== null) {
+    iom.c({
+      "st":ivw_st,
+      "sv": dataLayer[0].site_route == 'homepage' ? "ke" : ivw_sv,
+      "mg":"yes",
+      "cp":dataLayer[0].site_route,
+      "oc":dataLayer[0].site_route
+    }, 1);
+  }
+</script>
+
+<div class='bottom-drawer--wrapper js--bottom-drawer js--experiment--default js--experiment--variation' data-aspect-ratio='48.0' data-experiment='bottom-drawer-design' data-link='http://www.moviepilot.de/news/baywatch-das-sagen-die-kritiker-zum-strandspass-mit-dwayne-johnson-190483' data-poster='&lt;img class=&#39;bottom-drawer--poster--image&#39; sizes=&#39;(min-width: 768px) 170px, 120px&#39; src=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit//0/Kritiker+sagen+zu+Baywatch.jpg&#39; srcset=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/320/154/Kritiker+sagen+zu+Baywatch.jpg 320w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/480/230/Kritiker+sagen+zu+Baywatch.jpg 480w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/640/307/Kritiker+sagen+zu+Baywatch.jpg 640w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/768/369/Kritiker+sagen+zu+Baywatch.jpg 768w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1080/518/Kritiker+sagen+zu+Baywatch.jpg 1080w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1280/614/Kritiker+sagen+zu+Baywatch.jpg 1280w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1440/691/Kritiker+sagen+zu+Baywatch.jpg 1440w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1600/768/Kritiker+sagen+zu+Baywatch.jpg 1600w&#39;&gt;
+' data-segment='0' data-segmentation-ratio='1' data-title='Baywatch - Das sagen die Kritiker zum Strandspaß mit Dwayne Johnson'></div>
+<div class='bottom-drawer--wrapper js--bottom-drawer js--experiment--variation' data-aspect-ratio='48.0' data-experiment='bottom-drawer-design' data-link='http://www.moviepilot.de/news/baywatch-das-sagen-die-kritiker-zum-strandspass-mit-dwayne-johnson-190483' data-poster='&lt;img class=&#39;bottom-drawer--poster--image&#39; sizes=&#39;(min-width: 768px) 170px, 120px&#39; src=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit//0/Kritiker+sagen+zu+Baywatch.jpg&#39; srcset=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/320/154/Kritiker+sagen+zu+Baywatch.jpg 320w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/480/230/Kritiker+sagen+zu+Baywatch.jpg 480w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/640/307/Kritiker+sagen+zu+Baywatch.jpg 640w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/768/369/Kritiker+sagen+zu+Baywatch.jpg 768w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1080/518/Kritiker+sagen+zu+Baywatch.jpg 1080w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1280/614/Kritiker+sagen+zu+Baywatch.jpg 1280w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1440/691/Kritiker+sagen+zu+Baywatch.jpg 1440w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1600/768/Kritiker+sagen+zu+Baywatch.jpg 1600w&#39;&gt;
+' data-segment='1' data-segmentation-ratio='1' data-title='Baywatch - Das sagen die Kritiker zum Strandspaß mit Dwayne Johnson'></div>
+<div class='bottom-drawer--wrapper js--bottom-drawer js--experiment--variation' data-aspect-ratio='48.0' data-experiment='bottom-drawer-design' data-link='http://www.moviepilot.de/news/baywatch-das-sagen-die-kritiker-zum-strandspass-mit-dwayne-johnson-190483' data-poster='&lt;img class=&#39;bottom-drawer--poster--image&#39; sizes=&#39;(min-width: 768px) 170px, 140px&#39; src=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit//0/Kritiker+sagen+zu+Baywatch.jpg&#39; srcset=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/320/154/Kritiker+sagen+zu+Baywatch.jpg 320w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/480/230/Kritiker+sagen+zu+Baywatch.jpg 480w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/640/307/Kritiker+sagen+zu+Baywatch.jpg 640w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/768/369/Kritiker+sagen+zu+Baywatch.jpg 768w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1080/518/Kritiker+sagen+zu+Baywatch.jpg 1080w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1280/614/Kritiker+sagen+zu+Baywatch.jpg 1280w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1440/691/Kritiker+sagen+zu+Baywatch.jpg 1440w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1600/768/Kritiker+sagen+zu+Baywatch.jpg 1600w&#39;&gt;
+' data-segment='2' data-segmentation-ratio='1' data-title='Baywatch - Das sagen die Kritiker zum Strandspaß mit Dwayne Johnson'></div>
+<div class='bottom-drawer--wrapper js--bottom-drawer js--experiment--variation' data-aspect-ratio='48.0' data-experiment='bottom-drawer-design' data-link='http://www.moviepilot.de/news/baywatch-das-sagen-die-kritiker-zum-strandspass-mit-dwayne-johnson-190483' data-poster='&lt;img class=&#39;bottom-drawer--poster--image&#39; sizes=&#39;(min-width: 768px) 170px, 140px&#39; src=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit//0/Kritiker+sagen+zu+Baywatch.jpg&#39; srcset=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/320/154/Kritiker+sagen+zu+Baywatch.jpg 320w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/480/230/Kritiker+sagen+zu+Baywatch.jpg 480w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/640/307/Kritiker+sagen+zu+Baywatch.jpg 640w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/768/369/Kritiker+sagen+zu+Baywatch.jpg 768w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1080/518/Kritiker+sagen+zu+Baywatch.jpg 1080w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1280/614/Kritiker+sagen+zu+Baywatch.jpg 1280w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1440/691/Kritiker+sagen+zu+Baywatch.jpg 1440w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1600/768/Kritiker+sagen+zu+Baywatch.jpg 1600w&#39;&gt;
+' data-segment='3' data-segmentation-ratio='1' data-title='Baywatch - Das sagen die Kritiker zum Strandspaß mit Dwayne Johnson'></div>
+<div class='bottom-drawer--wrapper js--bottom-drawer js--experiment--variation' data-aspect-ratio='48.0' data-experiment='bottom-drawer-design' data-link='http://www.moviepilot.de/news/baywatch-das-sagen-die-kritiker-zum-strandspass-mit-dwayne-johnson-190483' data-poster='&lt;img class=&#39;bottom-drawer--poster--image&#39; sizes=&#39;(min-width: 768px) 170px, 140px&#39; src=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit//0/Kritiker+sagen+zu+Baywatch.jpg&#39; srcset=&#39;https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/320/154/Kritiker+sagen+zu+Baywatch.jpg 320w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/480/230/Kritiker+sagen+zu+Baywatch.jpg 480w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/640/307/Kritiker+sagen+zu+Baywatch.jpg 640w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/768/369/Kritiker+sagen+zu+Baywatch.jpg 768w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1080/518/Kritiker+sagen+zu+Baywatch.jpg 1080w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1280/614/Kritiker+sagen+zu+Baywatch.jpg 1280w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1440/691/Kritiker+sagen+zu+Baywatch.jpg 1440w,https://assets.cdn.moviepilot.de/files/827f1c4ed54af5376762f983b50d6fcdcab4381b16a9d36b0d0e8a2126b7/limit/1600/768/Kritiker+sagen+zu+Baywatch.jpg 1600w&#39;&gt;
+' data-segment='4' data-segmentation-ratio='1' data-title='Baywatch - Das sagen die Kritiker zum Strandspaß mit Dwayne Johnson'></div>
+
+</body>
+</html>

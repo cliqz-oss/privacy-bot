@@ -1,0 +1,2303 @@
+Menü
+
+  * Haushalt & Wohnen 
+    * Haushalt & Wohnen
+
+    * Wäsche 
+      * Wäsche
+
+      * Waschmaschinen 
+        * Waschmaschinen
+
+        * Frontlader
+        * Toplader
+        * Kompakt-Waschmaschinen
+        * Zubehör für Waschmaschinen
+        * Einbau-Waschmaschinen
+      * Trockner 
+        * Trockner
+
+        * Wärmepumpentrockner
+        * Kondenstrockner
+        * Ablufttrockner
+        * Zubehör für Trockner
+      * Waschtrockner 
+        * Waschtrockner
+
+        * Freistehende Waschtrockner
+        * Einbau-Waschtrockner
+        * Zubehör für Waschtrockner
+      * Wäscheschleudern
+    * Backen & Kochen 
+      * Backen & Kochen
+
+      * Herde & Backöfen 
+        * Herde & Backöfen
+
+        * Elektro-Standherde
+        * Einbaubacköfen
+        * Zubehör für Herde & Backöfen
+        * Gas-Standherde
+        * Einbauherdsets
+        * Herde mit autarken Kochfeldern
+        * Minibacköfen
+      * Kochfelder 
+        * Kochfelder
+
+        * Induktions-Kochfelder
+        * Glaskeramik-Kochfelder
+        * Gas-Kochfelder
+        * Masse-Kochfelder
+        * Zubehör für Kochfelder
+        * Kochfelder mit integriertem Dunstabzug
+      * Mikrowellen 
+        * Mikrowellen
+
+        * Mikrowellen Solo
+        * Mikrowellen mit Grill
+        * Mikrowellen mit Heißluft
+        * Einbau-Mikrowellen
+        * Zubehör für Mikrowellen
+      * Dunstabzugshauben 
+        * Dunstabzugshauben
+
+        * Kopffreihauben
+        * Flachschirmhauben
+        * Wandhauben
+        * Deckenhauben
+        * Inselhauben
+        * Zwischenbauhauben
+        * Unterbauhauben
+        * Lüfterbausteine
+        * Zubehör für Dunstabzugshauben
+      * Dampfgarer 
+        * Dampfgarer
+
+        * Einbau-Dampfgarer
+        * Mikrowellen mit Dampfgarfunktion
+        * Backöfen mit Dampfgarfunktion
+    * Wohnen & Dekoration 
+      * Wohnen & Dekoration
+
+      * Batterien
+      * Uhren
+      * Wetterbeobachtung
+    * Haushaltswaren 
+      * Haushaltswaren
+
+      * Pfannen & Woks 
+        * Pfannen & Woks
+
+        * Einzelpfannen
+        * Pfannen-Sets
+        * Woks
+        * Deckel
+        * Bräter
+        * Spezial-Pfannen
+      * Bar & Wein 
+        * Bar & Wein
+
+        * Karaffen & Dekanter
+        * Cocktailzubereitung
+        * Korkenzieher & Flaschenöffner
+        * Flaschen- & Vakuumierverschlüsse
+        * Zubehör für Bar & Wein
+      * Geschirr 
+        * Geschirr
+
+        * Kaffee- & Teekannen
+        * Serviergeschirr
+        * Tassen & Untertassen
+      * Trinkflaschen & Thermoskannen 
+        * Trinkflaschen & Thermoskannen
+
+        * Thermoskannen
+        * Thermosflaschen & Trinkflaschen
+        * Trinkbecher
+      * mehr
+    * Geschirrspüler 
+      * Geschirrspüler
+
+      * Einbau-Geschirrspüler 
+        * Einbau-Geschirrspüler
+
+        * Teilintegrierbare Geschirrspüler
+        * Vollintegrierbare Geschirrspüler
+        * Unterbaugeschirrspüler
+      * Freistehende Geschirrspüler 
+        * Freistehende Geschirrspüler
+
+        * Standgeschirrspüler
+        * Kompaktgeschirrspüler
+      * Zubehör für Geschirrspüler
+    * Kühlen & Gefrieren 
+      * Kühlen & Gefrieren
+
+      * Kühlschränke 
+        * Kühlschränke
+
+        * Freistehende Kühlschränke
+        * Unterbau-Kühlschränke
+        * Tisch-Kühlschränke
+        * Einbaukühlschränke
+      * Kühl-Gefrierkombinationen 
+        * Kühl-Gefrierkombinationen
+
+        * Freistehende Kühl-Gefrierkombination
+        * Einbau Kühl-Gefrierkombination
+      * Gefriergeräte 
+        * Gefriergeräte
+
+        * Einbau-Gefrierschränke
+        * Unterbau-Gefrierschränke
+        * Gefrierschränke
+        * Gefriertruhen
+      * Weinlagerung 
+        * Weinlagerung
+
+        * Einbau-Weinkühlschränke
+        * Weinkühlschränke
+      * mehr
+    * Kaffee & Tee 
+      * Kaffee & Tee
+
+      * Kaffeevollautomaten 
+        * Kaffeevollautomaten
+
+        * Kaffeevollautomat ohne Milchlösung
+        * Kaffeevollautomat mit Milchaufschäumdüse
+        * Kaffeevollautomat mit externem Michbehälter
+        * Kaffeevollautomat mit integriertem Milchbehälter
+      * Kapselmaschinen 
+        * Kapselmaschinen
+
+        * Nespresso
+        * Dolce Gusto
+        * Sonstiges
+      * Padmaschinen
+      * Siebträger
+      * mehr
+    * Küchenkleingeräte 
+      * Küchenkleingeräte
+
+      * Allesschneider
+      * Brotbackautomaten
+      * Mixen & Zerkleinern 
+        * Mixen & Zerkleinern
+
+        * Handmixer
+        * Stabmixer
+        * Zerkleinerer
+        * Standmixer
+      * Multifunktionskocher
+      * mehr
+    * Babywelt 
+      * Babywelt
+
+      * Babyphone
+      * Ernährung & Stillen 
+        * Ernährung & Stillen
+
+        * Babykostwärmer & Zubereitung
+        * Babygeschirr
+        * Desinfektionsgeräte
+      * Fieberthermometer
+      * Babywaagen
+      * mehr
+    * Staubsauger & Reiniger 
+      * Staubsauger & Reiniger
+
+      * Fenstersauger
+      * Zubehör 
+        * Zubehör
+
+        * Staubbeutel
+        * Filter
+        * Bürsten & Düsen
+        * Sonstiges
+      * Bodenstaubsauger 
+        * Bodenstaubsauger
+
+        * Staubsauger mit Beutel
+        * Staubsauger ohne Beutel
+      * Saugroboter 
+        * Saugroboter
+
+        * Staubsaug-Roboter
+        * Staub-Wisch-Roboter
+        * Nass-Wisch-Roboter
+      * mehr
+    * Heizen & Klima 
+      * Heizen & Klima
+
+      * Heizgeräte 
+        * Heizgeräte
+
+        * Heizlüfter
+        * Heizstrahler
+        * Konvektoren
+      * Radiatoren 
+        * Radiatoren
+
+        * Elektroradiatoren
+        * Ölradiatoren
+      * Raumluft 
+        * Raumluft
+
+        * Luftwäscher
+        * Luftreiniger
+        * Luftbefeuchter
+        * Luftentfeuchter
+      * Klimageräte 
+        * Klimageräte
+
+        * Klimagerät Mobil
+        * Klimagerät Split
+      * mehr
+    * Lampen & Leuchten 
+      * Lampen & Leuchten
+
+      * Außenleuchten
+      * Innenleuchten
+      * Deko & Party
+      * Solarleuchten
+      * mehr
+    * Outdoor & Garten 
+      * Outdoor & Garten
+
+      * Grillgeräte 
+        * Grillgeräte
+
+        * Elektrogrill
+        * Tischgrill
+        * Gasgrill
+        * Holzkohlegrill
+        * Paninigrill & Kontaktgrill
+        * Zubehör
+      * Rasenmähroboter
+      * Heizstrahler & Heizpilze
+      * Werkzeuge
+      * mehr
+    * Reisezubehör 
+      * Reisezubehör
+
+      * Gesundheit und Komfort
+      * Kabel und Adapter
+    * Haustechnik & Sicherheit 
+      * Haustechnik & Sicherheit
+
+      * Alarmanlagen & Alarmmelder
+      * Haustechnik Zubehör
+      * Rauchmelder
+      * Überwachungskameras
+      * mehr
+    * Bügeln & Nähen 
+      * Bügeln & Nähen
+
+      * Bügeleisen
+      * Bügelsysteme
+      * Bügeltische
+      * Zubehör 
+        * Zubehör
+
+        * Zubehör Bügeln
+        * Zubehör Nähen
+      * mehr
+    * Küchen 
+      * Küchen
+
+      * Warmwassergeräte & Durchlauferhitzer
+      * Küchenzeilen & Küchenmodule
+  * Körperpflege & Fitness 
+    * Körperpflege & Fitness
+
+    * Körperpflege & Wellness 
+      * Körperpflege & Wellness
+
+      * Massage 
+        * Massage
+
+        * Massageauflage
+        * Fußmassage
+        * EMS
+        * Handmassagegeräte
+        * Massagekissen
+      * Heizkissen & Heizdecken 
+        * Heizkissen & Heizdecken
+
+        * Heizkissen
+        * Heizdecken
+        * Beheizte Unterbetten
+        * Fußwärmer
+      * Gesichtsbräuner
+      * Kosmetikprodukte 
+        * Kosmetikprodukte
+
+        * Kosmetikspiegel
+        * Fußbäder
+        * Gesichtssauna
+        * Sonstiges
+        * Gesichtsreinigungsbürsten & Pflege
+      * mehr
+    * Rasierer & Haarentfernung 
+      * Rasierer & Haarentfernung
+
+      * Herrenrasierer 
+        * Herrenrasierer
+
+        * Rasierer
+        * Elektrorasierer
+        * Bartschneider
+        * Körperrasierer
+        * Nasen- & Ohrhaartrimmer
+      * Damenrasierer 
+        * Damenrasierer
+
+        * Damenrasierer
+        * Haarentfernung
+        * Epilierer
+        * IPL
+      * Haarschneider
+      * Zubehör 
+        * Zubehör
+
+        * Scherköpfe
+        * Reinigung & Pflege
+        * Sonstiges Zubehör Haarentfernung
+    * Haarstyling & Haartrockner 
+      * Haarstyling & Haartrockner
+
+      * Haartrockner
+      * Glätteisen
+      * Warmluft- & Stylingbürsten
+      * Trockenhauben
+      * mehr
+    * Mund- & Zahnpflege 
+      * Mund- & Zahnpflege
+
+      * Mundduschen
+      * Zahnbürsten 
+        * Zahnbürsten
+
+        * Elektrische Zahnbürsten
+        * Schallzahnbürsten
+        * Elektrische Kinderzahnbürsten
+        * Aufsteckbürsten
+      * Zubehör
+      * Mundpflegecenter
+    * Messgeräte & Waagen 
+      * Messgeräte & Waagen
+
+      * Körperwaagen
+      * Blutdruckmessgeräte 
+        * Blutdruckmessgeräte
+
+        * Oberarmmessgeräte
+        * Handgelenkmessgeräte
+      * Blutzuckermessgeräte
+      * Fieberthermometer 
+        * Fieberthermometer
+
+        * Digitalthermometer
+        * Infrarot Thermometer
+        * Ohrthermometer
+      * mehr
+    * E-Bikes 
+      * E-Bikes
+
+      * Pedelec
+      * S-Pedelec
+      * Zubehör 
+        * Zubehör
+
+        * Fahrradaufbewahrung
+        * Fahrradbeleuchtung & Reflektoren
+        * Fahrradhelme, Protektoren & Sicherheitswesten
+        * Fahrradöl & -pflegemittel
+        * Fahrradreifen & Schläuche
+        * Fahrradschloss
+        * Fahrradtaschen, -körbe und -koffer
+        * Luftpumpen
+        * Schutzbleche
+        * Video & Action-Cam Fahrradhalterungen
+      * Elektroroller
+    * Babywelt 
+      * Babywelt
+
+      * Babyphone
+      * Ernährung & Stillen 
+        * Ernährung & Stillen
+
+        * Babykostwärmer & Zubereitung
+        * Babygeschirr
+        * Desinfektionsgeräte
+      * Fieberthermometer
+      * Babywaagen
+      * mehr
+    * Self Balancing Scooter & E-Boards 
+      * Self Balancing Scooter & E-Boards
+
+      * E-Boards
+      * Self Balancing Scooter
+  * TV & Audio 
+    * TV & Audio
+
+    * Fernseher 
+      * Fernseher
+
+      * 3D-Fernseher
+      * LED- & LCD-Fernseher
+      * TV-Festplatten
+      * TV-Karten
+      * mehr
+    * TV- & Multimediamöbel 
+      * TV- & Multimediamöbel
+
+      * Decken- & Wandhalterungen
+      * Stand- & Tischfüße
+      * Multimedia-Möbel
+      * Heimkino Leinwände
+      * mehr
+    * Heimkino Systeme 
+      * Heimkino Systeme
+
+      * 2.1 Systeme
+      * 5.1 Systeme
+      * Soundbars
+      * Heimkino Kompaktanlagen
+      * Soundbase
+    * DVD-Player & Blu-ray-Playe 
+      * DVD-Player & Blu-ray-Playe
+
+      * 3D-Blu-ray-Player
+      * Blu-ray-Player
+      * DVD-Player
+      * Blu-ray-Recorder
+      * mehr
+    * Beamer 
+      * Beamer
+
+      * 3D-Beamer
+      * Full HD-Beamer
+      * HD ready-Beamer
+      * Mini-Beamer
+      * mehr
+    * HiFi Komponenten & Anlagen 
+      * HiFi Komponenten & Anlagen
+
+      * AV-Receiver
+      * Netzwerk-Player
+      * HiFi-Tuner
+      * Vollverstärker
+      * mehr
+    * Lautsprecher 
+      * Lautsprecher
+
+      * Regallautsprecher
+      * Standlautsprecher
+      * Lautsprecher-Sets
+      * Subwoofer
+      * mehr
+    * SAT, Kabel & DVB-T 
+      * SAT, Kabel & DVB-T
+
+      * SAT Receiver Single
+      * SAT Receiver Twin
+      * Kabel Receiver
+      * DVB-T
+      * mehr
+    * Mp3-Player & Mp4-Player 
+      * Mp3-Player & Mp4-Player
+
+      * Mp3-Player & Mp4-Player
+      * App-Zubehör
+      * CD-Player & Discmans
+      * Taschen, Cover & Cases
+      * mehr
+    * Docking-Stations 
+      * Docking-Stations
+
+      * Airplay Docking-Stations
+      * Wireless WiFi
+      * Bluetooth Docking-Stations
+      * Klinkenstecker Docking-Stations
+      * Android Docking-Stations
+    * Radios 
+      * Radios
+
+      * Internetradios
+      * Radiowecker & Uhrenradios
+      * Weltempfänger
+      * Radiorecorder
+      * mehr
+    * Kopfhörer 
+      * Kopfhörer
+
+      * Bluetooth-Kopfhörer
+      * Funk-Kopfhörer
+      * HiFi-Kopfhörer
+      * In-Ear-Kopfhörer
+      * mehr
+    * DJ Equipment & Musikinstrumente 
+      * DJ Equipment & Musikinstrumente
+
+      * DJ CD-Player
+      * Plattenspieler
+      * Kopfhörer
+      * Studio-/PA-Monitore
+      * mehr
+    * Car Hifi 
+      * Car Hifi
+
+      * Autoradios & Moniceiver
+      * Auto Lautsprecher
+      * Adapter & Kabel
+      * Verstärker
+    * Apple & Zubehör 
+      * Apple & Zubehör
+
+      * Halterungen & Ständer
+      * Headsets & Kopfhörer
+      * Ladekabel & Ladestationen
+      * Spezialzubehör
+      * mehr
+    * Tragbare Lautsprecher 
+      * Tragbare Lautsprecher
+
+      * Airplay
+      * Bluetooth-Lautsprecher
+      * Kabelgebundene Lautsprecher
+      * Outdoor-Lautsprecher
+  * Computer & Büro 
+    * Computer & Büro
+
+    * Notebooks & Zubehör 
+      * Notebooks & Zubehör
+
+      * Ultrabooks
+      * 2in1 Convertibles
+      * Netbooks
+      * Chromebooks
+      * mehr
+    * PCs & Zubehör 
+      * PCs & Zubehör
+
+      * PCs
+      * All-in-One-PCs
+      * Überspannungsschutz
+      * Gaming-PCs
+      * mehr
+    * Gaming & Gaming-Zubehör 
+      * Gaming & Gaming-Zubehör
+
+      * Gaming-Notebooks
+      * Gaming-PCs
+      * Gaming-Monitore
+      * Überspannungsschutz
+      * mehr
+    * Tablets & Zubehör 
+      * Tablets & Zubehör
+
+      * Tablets
+      * 2in1 Convertibles
+      * Gaming-Tablets & -Pads
+      * Powerbanks & -packs
+      * mehr
+    * Komponenten 
+      * Komponenten
+
+      * Sonstige Komponenten & Zubehör 
+        * Sonstige Komponenten & Zubehör
+
+        * Kühler für PCs
+      * Netzteile
+      * Soundkarten 
+        * Soundkarten
+
+        * Interne Soundkarten
+        * Externe Soundkarten
+      * RAM 
+        * RAM
+
+        * PC-RAM
+        * Notebook-RAM
+    * Monitore 
+      * Monitore
+
+      * PC Monitore 19 - 22,2 Zoll
+      * Monitorhalterung
+      * Gaming-Monitore
+      * PC Monitore 22,3 bis 26 Zoll
+      * PC Monitore ab 26 Zoll
+    * Drucker & Scanner 
+      * Drucker & Scanner
+
+      * Laserdrucker
+      * Multifunktionsdrucker
+      * Druckerpatronen HP
+      * Druckerpatronen Epson
+      * mehr
+    * eBook-Reader 
+      * eBook-Reader
+
+      * LED Leselampen
+      * Pflege & Schutz
+      * Taschen, Cover & Cases
+      * Ladekabel & Ladegeräte
+      * eBook-Reader
+    * Software 
+      * Software
+
+      * Backup & Brennen
+      * Betriebssysteme
+      * Finanzen & Steuern
+      * Multimedia
+      * mehr
+    * Netzwerk 
+      * Netzwerk
+
+      * Modem-Router & WLAN-Router
+      * Multimediaplayer
+      * Powerline, Dlan & Ethernet-Adapter
+      * Netzwerk-Festplatten & Cloud-Speicher
+      * mehr
+    * Telefone 
+      * Telefone
+
+    * Büroausstattung 
+      * Büroausstattung
+
+      * Aktenvernichter
+      * Beschriftungsgeräte
+      * Büromaterial & Ordner 
+        * Büromaterial & Ordner
+
+        * Druckerpapier
+        * Schreibwaren
+      * Kassensysteme & Kassensoftware
+      * mehr
+    * Speichermedien 
+      * Speichermedien
+
+      * USB-Sticks
+      * Externe Festplatten
+      * DVD & CD Rohlinge
+      * Interne Festplatten
+      * mehr
+    * Apple & Zubehör 
+      * Apple & Zubehör
+
+      * App-fähiges Zubehör
+      * Powerbank
+      * Halterungen & Ständer
+      * Speichermedien
+      * mehr
+  * Film & Musik 
+    * Film & Musik
+
+    * Filme & Serien 
+      * Filme & Serien
+
+      * 3D Blu-ray 
+        * 3D Blu-ray
+
+        * Steelbooks
+        * Film Boxen & Film Specials
+        * Abenteuer- & Actionfilme
+        * Krimi & Thriller
+        * Science Fiction & Fantasy
+        * Komödien
+        * Drama
+        * Horrorfilme
+        * Animations- & Kinderfilme
+        * Disney Filme
+        * Dokus, Reise- & Sportfilme
+      * Blu-ray 
+        * Blu-ray
+
+        * Abenteuer- & Actionfilme
+        * Animations- & Kinderfilme
+        * Anime Filme
+        * Disney Filme
+        * Dokus, Reise- & Sportfilme
+        * Drama
+        * Erotikfilme
+        * Film Boxen & Film Specials
+        * Horrorfilme
+        * Komödien
+        * Krimi & Thriller
+        * Science Fiction & Fantasy
+        * Steelbooks
+        * TV-Serien
+      * 4K Ultra HD Blu-ray 
+        * 4K Ultra HD Blu-ray
+
+        * Abenteuer- & Actionfilme
+        * Animations- & Kinderfilme
+        * Drama
+        * Science Fiction & Fantasy
+      * DVD 
+        * DVD
+
+        * Abenteuer- & Actionfilme
+        * Animations- & Kinderfilme
+        * Anime Filme
+        * Disney Filme
+        * Dokus, Reise- & Sportfilme
+        * Drama
+        * Erotikfilme
+        * Film Boxen & Film Specials
+        * Horrorfilme
+        * Komödien
+        * Krimi & Thriller
+        * Science Fiction & Fantasy
+        * Steelbooks
+        * TV-Serien
+    * Musik-DVD & Blu-ray 
+      * Musik-DVD & Blu-ray
+
+    * Musik & Hörbücher 
+      * Musik & Hörbücher
+
+      * Rock & Pop CDs
+      * Hardrock & Metal CDs
+      * Dance & Electro CDs
+      * Hip Hop & R&amp;B; CDs
+      * mehr
+  * Foto & Camcorder 
+    * Foto & Camcorder
+
+    * Camcorder & Camcorder Zubehör 
+      * Camcorder & Camcorder Zubehör
+
+      * Camcorder
+      * Action-Camcorder
+      * Camcorder Reinigung & Schutz
+      * Zubehör
+      * mehr
+    * Kameras 
+      * Kameras
+
+      * Digitalkameras
+      * Systemkameras
+      * Spiegelreflexkameras
+      * Bridgekameras
+      * mehr
+    * Objektive & Blitzgeräte 
+      * Objektive & Blitzgeräte
+
+      * Ringblitze, Aufsteckblitze & Blitzgeräte
+      * Zoom-Objektive
+      * Telezoom-Objektive
+      * Festbrennweiten-Objektive
+      * mehr
+    * Foto & Kamera-Stative 
+      * Foto & Kamera-Stative
+
+      * Mini & Tischstative
+      * Einbein Stative
+      * Dreibein Stative
+      * Videostativ, Stabilisierer & Gimbal
+      * Stativ-Zubehör
+    * Taschen & Rucksäcke 
+      * Taschen & Rucksäcke
+
+      * Camcorder-Taschen
+      * Digitalkamera-Taschen
+      * Systemkamera-Taschen
+      * Spiegelreflexkamera-Taschen
+      * mehr
+    * Ferngläser & Mikroskope 
+      * Ferngläser & Mikroskope
+
+      * Ferngläser & Nachtsichtgeräte
+      * Spektive
+      * Lupen & Mikroskope
+      * Entfernungsmesser
+    * Fotodrucker & Scanner 
+      * Fotodrucker & Scanner
+
+      * Fotodrucker
+      * Fotoscanner
+      * Dia- & Filmscanner
+      * Fotopapier & Patronen
+      * Foto Zubehör
+    * Bilderrahmen & Alben 
+      * Bilderrahmen & Alben
+
+      * Digitale Bilderrahmen
+      * Speicherkarten für digitale Bilderahmen
+      * Foto-Alben & Rahmen
+    * Speicherkarten 
+      * Speicherkarten
+
+      * Speicherkarten
+      * CF Speicherkarten
+      * SD/SDHC Speicherkarten
+      * Micro SDHC Speicherkarten
+      * Speicherkarten-Zubehör
+    * Outdoor 
+      * Outdoor
+
+      * Action Cam
+      * Action-Cam-Taschen
+      * Action Cam Zubehör
+      * Unterwassergehäuse
+    * Selfie Welt 
+      * Selfie Welt
+
+      * Selfie Kameras
+      * Selfie Zubehör
+    * Foto-Zubehör 
+      * Foto-Zubehör
+
+      * Fernauslöser
+      * Studio Equipment
+      * Akkus, Ladegeräte & Batterien
+      * Pflege & Schutz
+      * mehr
+    * Drohnen & Drohnenersatzteile 
+      * Drohnen & Drohnenersatzteile
+
+      * Drohnen
+      * Drohnenersatzteile
+  * Handy & Navigation 
+    * Handy & Navigation
+
+    * Smartphones & Handys 
+      * Smartphones & Handys
+
+      * Smartphones
+      * Seniorenhandys
+      * Handys
+      * Outdoor-Handys
+    * Wearables 
+      * Wearables
+
+      * Sportuhren
+      * Fitnesstracker
+      * Wearables Zubehör 
+        * Wearables Zubehör
+
+        * Armbänder & Accessoires für Wearable
+        * Brustgurte für Wearables
+        * Fitness-Sensoren
+        * Waagen
+        * Ladekabel & Ladestation für Wearables
+        * Akku & Batterie für Wearables
+        * Apple Watch Originalzubehör
+      * Virtual Reality-Brille
+      * Smartwatches
+    * Smartphone- & Handy-Zubehör 
+      * Smartphone- & Handy-Zubehör
+
+      * App-fähiges Zubehör
+      * Apple iPhone Zubehör 
+        * Apple iPhone Zubehör
+
+        * iPhone Cases & Covers
+        * iPhone Ladekabel
+        * iPhone Displayschutz
+      * Akkus & Powerbanks 
+        * Akkus & Powerbanks
+
+        * Handy Akkus
+        * Powerbanks
+      * Sportarmbänder
+      * mehr
+    * Navigationsgeräte 
+      * Navigationsgeräte
+
+      * PKW- & LKW-Navigation
+      * Motorrad-Navigation
+      * Fahrrad Navigation
+      * GPS-Geräte
+      * mehr
+  * Gaming & Spielzeug 
+    * Gaming & Spielzeug
+
+    * Games Vorbesteller 
+      * Games Vorbesteller
+
+    * Action-Spielzeug 
+      * Action-Spielzeug
+
+      * Ferngesteuerte Fahrzeuge 
+        * Ferngesteuerte Fahrzeuge
+
+        * Autos
+        * Monstertrucks
+        * Flugzeuge
+        * Boote
+      * Drohnen & Helikopter 
+        * Drohnen & Helikopter
+
+        * Drohnen
+        * Helikopter
+        * Zubehör Drohnen & Helikopter
+      * Schiffe & Boot 
+        * Schiffe & Boot
+
+        * Ferngesteuerte Boote
+      * Roboter
+      * App gesteuertes Spielzeug 
+        * App gesteuertes Spielzeug
+
+        * Spiel-Apps
+        * App gesteuerte Fahrzeuge
+        * Zubehör App Spielzeug
+    * Sony PS4 
+      * Sony PS4
+
+      * PS4 Konsolen
+      * PS4 Spiele
+      * PS4 Controller & Zubehör
+      * PlayStation VR
+    * Sony PS3 
+      * Sony PS3
+
+      * PS3 Konsolen
+      * PS3 Spiele
+      * PS3 Controller & Zubehör
+    * Bücher 
+      * Bücher
+
+      * Literatur für Gamer
+    * Sony PS Vita 
+      * Sony PS Vita
+
+      * PS Vita Spiele
+      * PS Vita Zubehör
+    * Microsoft Xbox 
+      * Microsoft Xbox
+
+      * Xbox One Konsolen
+      * Xbox One Spiele
+      * Xbox One Controller & Zubehör
+      * Xbox 360 Spiele
+      * Xbox 360 Controller, Headsets & Zubehör
+    * Nintendo 3DS 
+      * Nintendo 3DS
+
+      * Nintendo 3DS Konsolen
+      * Nintendo 3DS Spiele
+      * Nintendo 3DS Taschen & Zubehör
+    * Zubehör & Kommunikation 
+      * Zubehör & Kommunikation
+
+      * Überspannungsschutz
+      * Ersatzteile
+      * Akkus
+      * Walkie-Talkies
+    * Nintendo DS 
+      * Nintendo DS
+
+      * Nintendo DS Konsolen
+      * Nintendo DS Spiele
+      * Nintendo DS Taschen & Zubehör
+    * Nintendo Switch 
+      * Nintendo Switch
+
+      * Nintendo Switch Konsolen
+      * Nintendo Switch Spiele
+      * Nintendo Switch Zubehör
+    * Nintendo Wii 
+      * Nintendo Wii
+
+      * Wii Konsolen
+      * Wii Spiele
+      * Wii Ladegeräte & Zubehör
+    * Nintendo Wii U 
+      * Nintendo Wii U
+
+      * Wii U Konsolen
+      * Wii U Spiele
+      * Wii U Remote Plus, Headsets & Zubehör
+    * PCs & Notebooks 
+      * PCs & Notebooks
+
+      * Gaming-PCs
+      * Gaming-Notebooks
+      * Gaming-Monitore
+      * PC Games
+      * mehr
+    * Spielfiguren 
+      * Spielfiguren
+
+      * Skylanders Spielfiguren
+      * Disney Infinity Spielfiguren
+      * amiibo Spielfiguren
+      * LEGO Dimensions
+    * Fanartikel 
+      * Fanartikel
+
+      * Nintendo
+      * Gesellschaftsspiele
+      * Minecraft
+    * Virtual Reality 
+      * Virtual Reality
+
+Mein redcoon
+
+  * Mein Konto 
+
+  * This is our javascript message
+
+  * Cookie Fehler
+
+Produkte
+
+Haushalt & Wohnen
+
+  * Wäsche
+  * Waschmaschinen 
+  * Trockner 
+  * Waschtrockner 
+  * Wäscheschleudern 
+
+  * Backen & Kochen
+  * Herde & Backöfen 
+  * Kochfelder 
+  * Mikrowellen 
+  * Dunstabzugshauben 
+  * Dampfgarer 
+
+  * Wohnen & Dekoration
+  * Batterien 
+  * Uhren 
+  * Wetterbeobachtung 
+
+  * Haushaltswaren
+  * Pfannen & Woks 
+  * Bar & Wein 
+  * Geschirr 
+  * Trinkflaschen & Thermoskannen 
+  * mehr 
+
+  * Geschirrspüler
+  * Einbau-Geschirrspüler 
+  * Freistehende Geschirrspüler 
+  * Zubehör für Geschirrspüler 
+
+  * Kühlen & Gefrieren
+  * Kühlschränke 
+  * Kühl-Gefrierkombinationen 
+  * Gefriergeräte 
+  * Weinlagerung 
+  * mehr 
+
+  * Kaffee & Tee
+  * Kaffeevollautomaten 
+  * Kapselmaschinen 
+  * Padmaschinen 
+  * Siebträger 
+  * mehr 
+
+  * Küchenkleingeräte
+  * Allesschneider 
+  * Brotbackautomaten 
+  * Mixen & Zerkleinern 
+  * Multifunktionskocher 
+  * mehr 
+
+  * Babywelt
+  * Babyphone 
+  * Ernährung & Stillen 
+  * Fieberthermometer 
+  * Babywaagen 
+  * mehr 
+
+  * Staubsauger & Reiniger
+  * Fenstersauger 
+  * Zubehör 
+  * Bodenstaubsauger 
+  * Saugroboter 
+  * mehr 
+
+  * Heizen & Klima
+  * Heizgeräte 
+  * Radiatoren 
+  * Raumluft 
+  * Klimageräte 
+  * mehr 
+
+  * Lampen & Leuchten
+  * Außenleuchten 
+  * Innenleuchten 
+  * Deko & Party 
+  * Solarleuchten 
+  * mehr 
+
+  * Outdoor & Garten
+  * Grillgeräte 
+  * Rasenmähroboter 
+  * Heizstrahler & Heizpilze 
+  * Werkzeuge 
+  * mehr 
+
+  * Reisezubehör
+  * Gesundheit und Komfort 
+  * Kabel und Adapter 
+
+  * Haustechnik & Sicherheit
+  * Alarmanlagen & Alarmmelder 
+  * Haustechnik Zubehör 
+  * Rauchmelder 
+  * Überwachungskameras 
+  * mehr 
+
+  * Bügeln & Nähen
+  * Bügeleisen 
+  * Bügelsysteme 
+  * Bügeltische 
+  * Zubehör 
+  * mehr 
+
+  * Küchen
+  * Warmwassergeräte & Durchlauferhitzer 
+  * Küchenzeilen & Küchenmodule 
+
+Körperpflege & Fitness
+
+  * Körperpflege & Wellness
+  * Massage 
+  * Heizkissen & Heizdecken 
+  * Gesichtsbräuner 
+  * Kosmetikprodukte 
+  * mehr 
+
+  * Rasierer & Haarentfernung
+  * Herrenrasierer 
+  * Damenrasierer 
+  * Haarschneider 
+  * Zubehör 
+
+  * Haarstyling & Haartrockner
+  * Haartrockner 
+  * Glätteisen 
+  * Warmluft- & Stylingbürsten 
+  * Trockenhauben 
+  * mehr 
+
+  * Mund- & Zahnpflege
+  * Mundduschen 
+  * Zahnbürsten 
+  * Zubehör 
+  * Mundpflegecenter 
+
+  * Messgeräte & Waagen
+  * Körperwaagen 
+  * Blutdruckmessgeräte 
+  * Blutzuckermessgeräte 
+  * Fieberthermometer 
+  * mehr 
+
+  * E-Bikes
+  * Pedelec 
+  * S-Pedelec 
+  * Zubehör 
+  * Elektroroller 
+
+  * Babywelt
+  * Babyphone 
+  * Ernährung & Stillen 
+  * Fieberthermometer 
+  * Babywaagen 
+  * mehr 
+
+  * Self Balancing Scooter & E-Boards
+  * E-Boards 
+  * Self Balancing Scooter 
+
+TV & Audio
+
+  * Fernseher
+  * 3D-Fernseher 
+  * LED- & LCD-Fernseher 
+  * TV-Festplatten 
+  * TV-Karten 
+  * mehr 
+
+  * TV- & Multimediamöbel
+  * Decken- & Wandhalterungen 
+  * Stand- & Tischfüße 
+  * Multimedia-Möbel 
+  * Heimkino Leinwände 
+  * mehr 
+
+  * Heimkino Systeme
+  * 2.1 Systeme 
+  * 5.1 Systeme 
+  * Soundbars 
+  * Heimkino Kompaktanlagen 
+  * Soundbase 
+
+  * DVD-Player & Blu-ray-Playe
+  * 3D-Blu-ray-Player 
+  * Blu-ray-Player 
+  * DVD-Player 
+  * Blu-ray-Recorder 
+  * mehr 
+
+  * Beamer
+  * 3D-Beamer 
+  * Full HD-Beamer 
+  * HD ready-Beamer 
+  * Mini-Beamer 
+  * mehr 
+
+  * HiFi Komponenten & Anlagen
+  * AV-Receiver 
+  * Netzwerk-Player 
+  * HiFi-Tuner 
+  * Vollverstärker 
+  * mehr 
+
+  * Lautsprecher
+  * Regallautsprecher 
+  * Standlautsprecher 
+  * Lautsprecher-Sets 
+  * Subwoofer 
+  * mehr 
+
+  * SAT, Kabel & DVB-T
+  * SAT Receiver Single 
+  * SAT Receiver Twin 
+  * Kabel Receiver 
+  * DVB-T 
+  * mehr 
+
+  * Mp3-Player & Mp4-Player
+  * Mp3-Player & Mp4-Player 
+  * App-Zubehör 
+  * CD-Player & Discmans 
+  * Taschen, Cover & Cases 
+  * mehr 
+
+  * Docking-Stations
+  * Airplay Docking-Stations 
+  * Wireless WiFi 
+  * Bluetooth Docking-Stations 
+  * Klinkenstecker Docking-Stations 
+  * Android Docking-Stations 
+
+  * Radios
+  * Internetradios 
+  * Radiowecker & Uhrenradios 
+  * Weltempfänger 
+  * Radiorecorder 
+  * mehr 
+
+  * Kopfhörer
+  * Bluetooth-Kopfhörer 
+  * Funk-Kopfhörer 
+  * HiFi-Kopfhörer 
+  * In-Ear-Kopfhörer 
+  * mehr 
+
+  * DJ Equipment & Musikinstrumente
+  * DJ CD-Player 
+  * Plattenspieler 
+  * Kopfhörer 
+  * Studio-/PA-Monitore 
+  * mehr 
+
+  * Car Hifi
+  * Autoradios & Moniceiver 
+  * Auto Lautsprecher 
+  * Adapter & Kabel 
+  * Verstärker 
+
+  * Apple & Zubehör
+  * Halterungen & Ständer 
+  * Headsets & Kopfhörer 
+  * Ladekabel & Ladestationen 
+  * Spezialzubehör 
+  * mehr 
+
+  * Tragbare Lautsprecher
+  * Airplay 
+  * Bluetooth-Lautsprecher 
+  * Kabelgebundene Lautsprecher 
+  * Outdoor-Lautsprecher 
+
+Computer & Büro
+
+  * Notebooks & Zubehör
+  * Ultrabooks 
+  * 2in1 Convertibles 
+  * Netbooks 
+  * Chromebooks 
+  * mehr 
+
+  * PCs & Zubehör
+  * PCs 
+  * All-in-One-PCs 
+  * Überspannungsschutz 
+  * Gaming-PCs 
+  * mehr 
+
+  * Gaming & Gaming-Zubehör
+  * Gaming-Notebooks 
+  * Gaming-PCs 
+  * Gaming-Monitore 
+  * Überspannungsschutz 
+  * mehr 
+
+  * Tablets & Zubehör
+  * Tablets 
+  * 2in1 Convertibles 
+  * Gaming-Tablets & -Pads 
+  * Powerbanks & -packs 
+  * mehr 
+
+  * Komponenten
+  * Sonstige Komponenten & Zubehör 
+  * Netzteile 
+  * Soundkarten 
+  * RAM 
+
+  * Monitore
+  * PC Monitore 19 - 22,2 Zoll 
+  * Monitorhalterung 
+  * Gaming-Monitore 
+  * PC Monitore 22,3 bis 26 Zoll 
+  * PC Monitore ab 26 Zoll 
+
+  * Drucker & Scanner
+  * Laserdrucker 
+  * Multifunktionsdrucker 
+  * Druckerpatronen HP 
+  * Druckerpatronen Epson 
+  * mehr 
+
+  * eBook-Reader
+  * LED Leselampen 
+  * Pflege & Schutz 
+  * Taschen, Cover & Cases 
+  * Ladekabel & Ladegeräte 
+  * eBook-Reader 
+
+  * Software
+  * Backup & Brennen 
+  * Betriebssysteme 
+  * Finanzen & Steuern 
+  * Multimedia 
+  * mehr 
+
+  * Netzwerk
+  * Modem-Router & WLAN-Router 
+  * Multimediaplayer 
+  * Powerline, Dlan & Ethernet-Adapter 
+  * Netzwerk-Festplatten & Cloud-Speicher 
+  * mehr 
+
+  * Telefone
+
+  * Büroausstattung
+  * Aktenvernichter 
+  * Beschriftungsgeräte 
+  * Büromaterial & Ordner 
+  * Kassensysteme & Kassensoftware 
+  * mehr 
+
+  * Speichermedien
+  * USB-Sticks 
+  * Externe Festplatten 
+  * DVD & CD Rohlinge 
+  * Interne Festplatten 
+  * mehr 
+
+  * Apple & Zubehör
+  * App-fähiges Zubehör 
+  * Powerbank 
+  * Halterungen & Ständer 
+  * Speichermedien 
+  * mehr 
+
+Film & Musik
+
+  * Filme & Serien
+  * 3D Blu-ray 
+  * Blu-ray 
+  * 4K Ultra HD Blu-ray 
+  * DVD 
+
+  * Musik-DVD & Blu-ray
+
+  * Musik & Hörbücher
+  * Rock & Pop CDs 
+  * Hardrock & Metal CDs 
+  * Dance & Electro CDs 
+  * Hip Hop & R&amp;B; CDs 
+  * mehr 
+
+Foto & Camcorder
+
+  * Camcorder & Camcorder Zubehör
+  * Camcorder 
+  * Action-Camcorder 
+  * Camcorder Reinigung & Schutz 
+  * Zubehör 
+  * mehr 
+
+  * Kameras
+  * Digitalkameras 
+  * Systemkameras 
+  * Spiegelreflexkameras 
+  * Bridgekameras 
+  * mehr 
+
+  * Objektive & Blitzgeräte
+  * Ringblitze, Aufsteckblitze & Blitzgeräte 
+  * Zoom-Objektive 
+  * Telezoom-Objektive 
+  * Festbrennweiten-Objektive 
+  * mehr 
+
+  * Foto & Kamera-Stative
+  * Mini & Tischstative 
+  * Einbein Stative 
+  * Dreibein Stative 
+  * Videostativ, Stabilisierer & Gimbal 
+  * Stativ-Zubehör 
+
+  * Taschen & Rucksäcke
+  * Camcorder-Taschen 
+  * Digitalkamera-Taschen 
+  * Systemkamera-Taschen 
+  * Spiegelreflexkamera-Taschen 
+  * mehr 
+
+  * Ferngläser & Mikroskope
+  * Ferngläser & Nachtsichtgeräte 
+  * Spektive 
+  * Lupen & Mikroskope 
+  * Entfernungsmesser 
+
+  * Fotodrucker & Scanner
+  * Fotodrucker 
+  * Fotoscanner 
+  * Dia- & Filmscanner 
+  * Fotopapier & Patronen 
+  * Foto Zubehör 
+
+  * Bilderrahmen & Alben
+  * Digitale Bilderrahmen 
+  * Speicherkarten für digitale Bilderahmen 
+  * Foto-Alben & Rahmen 
+
+  * Speicherkarten
+  * Speicherkarten 
+  * CF Speicherkarten 
+  * SD/SDHC Speicherkarten 
+  * Micro SDHC Speicherkarten 
+  * Speicherkarten-Zubehör 
+
+  * Outdoor
+  * Action Cam 
+  * Action-Cam-Taschen 
+  * Action Cam Zubehör 
+  * Unterwassergehäuse 
+
+  * Selfie Welt
+  * Selfie Kameras 
+  * Selfie Zubehör 
+
+  * Foto-Zubehör
+  * Fernauslöser 
+  * Studio Equipment 
+  * Akkus, Ladegeräte & Batterien 
+  * Pflege & Schutz 
+  * mehr 
+
+  * Drohnen & Drohnenersatzteile
+  * Drohnen 
+  * Drohnenersatzteile 
+
+Handy & Navigation
+
+  * Smartphones & Handys
+  * Smartphones 
+  * Seniorenhandys 
+  * Handys 
+  * Outdoor-Handys 
+
+  * Wearables
+  * Sportuhren 
+  * Fitnesstracker 
+  * Wearables Zubehör 
+  * Virtual Reality-Brille 
+  * Smartwatches 
+
+  * Smartphone- & Handy-Zubehör
+  * App-fähiges Zubehör 
+  * Apple iPhone Zubehör 
+  * Akkus & Powerbanks 
+  * Sportarmbänder 
+  * mehr 
+
+  * Navigationsgeräte
+  * PKW- & LKW-Navigation 
+  * Motorrad-Navigation 
+  * Fahrrad Navigation 
+  * GPS-Geräte 
+  * mehr 
+
+Gaming & Spielzeug
+
+  * Games Vorbesteller
+
+  * Action-Spielzeug
+  * Ferngesteuerte Fahrzeuge 
+  * Drohnen & Helikopter 
+  * Schiffe & Boot 
+  * Roboter 
+  * App gesteuertes Spielzeug 
+
+  * Sony PS4
+  * PS4 Konsolen 
+  * PS4 Spiele 
+  * PS4 Controller & Zubehör 
+  * PlayStation VR 
+
+  * Sony PS3
+  * PS3 Konsolen 
+  * PS3 Spiele 
+  * PS3 Controller & Zubehör 
+
+  * Bücher
+  * Literatur für Gamer 
+
+  * Sony PS Vita
+  * PS Vita Spiele 
+  * PS Vita Zubehör 
+
+  * Microsoft Xbox
+  * Xbox One Konsolen 
+  * Xbox One Spiele 
+  * Xbox One Controller & Zubehör 
+  * Xbox 360 Spiele 
+  * Xbox 360 Controller, Headsets & Zubehör 
+
+  * Nintendo 3DS
+  * Nintendo 3DS Konsolen 
+  * Nintendo 3DS Spiele 
+  * Nintendo 3DS Taschen & Zubehör 
+
+  * Zubehör & Kommunikation
+  * Überspannungsschutz 
+  * Ersatzteile 
+  * Akkus 
+  * Walkie-Talkies 
+
+  * Nintendo DS
+  * Nintendo DS Konsolen 
+  * Nintendo DS Spiele 
+  * Nintendo DS Taschen & Zubehör 
+
+  * Nintendo Switch
+  * Nintendo Switch Konsolen 
+  * Nintendo Switch Spiele 
+  * Nintendo Switch Zubehör 
+
+  * Nintendo Wii
+  * Wii Konsolen 
+  * Wii Spiele 
+  * Wii Ladegeräte & Zubehör 
+
+  * Nintendo Wii U
+  * Wii U Konsolen 
+  * Wii U Spiele 
+  * Wii U Remote Plus, Headsets & Zubehör 
+
+  * PCs & Notebooks
+  * Gaming-PCs 
+  * Gaming-Notebooks 
+  * Gaming-Monitore 
+  * PC Games 
+  * mehr 
+
+  * Spielfiguren
+  * Skylanders Spielfiguren 
+  * Disney Infinity Spielfiguren 
+  * amiibo Spielfiguren 
+  * LEGO Dimensions 
+
+  * Fanartikel
+  * Nintendo 
+  * Gesellschaftsspiele 
+  * Minecraft 
+
+  * Virtual Reality
+
+Startseite Datenschutz
+
+# Datenschutz und Sicherheit
+
+Speichern und Drucken als PDF
+
+Datenschutzbeauftragter der redcoon GmbH ist Herr Dietmar Böhlke. Nach dem
+Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskunft über
+Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder
+Löschung dieser Daten. Sie können jederzeit unter datenschutz@redcoon.de oder
+über die Telefonnummer 08 00 / 671 671 0 Auskünfte über die von redcoon
+gespeicherten Daten erhalten.
+
+Folgende Dokumente haben wir für Sie als PDF-Dokumente zur Verfügung gestellt:
+
+Öffentliches Verfahrensverzeichnis für Jedermann gemäß § 4e BDSG
+
+## Personenbezogene Daten
+
+Personenbezogene Daten sind Informationen, die dazu genutzt werden können,
+Ihre Identität zu erfahren. Darunter fallen Informationen wie Ihr Name,
+Adresse, Postanschrift, Geburtsdatum und Telefonnummer. Informationen, die
+nicht mit Ihrer Identität in Verbindung gebracht werden (wie zum Beispiel
+Anzahl der Nutzer der Site), fallen nicht darunter. Das Geburtsdatum wird
+bezüglich der Sicherheit für den Kauf von Waren mit Altersbeschränkung
+benötigt.
+
+## Erhebung und Verwendung personenbezogener Daten
+
+Die Datenschutzpraxis von redcoon steht im Einklang mit dem
+Bundesdatenschutzgesetz (BDSG) sowie dem Telemediengesetz (TMG). redcoon wird
+Ihre persönlichen Daten ausschließlich zur Abwicklung der Bestellung erfragen
+und verwenden, es sei denn, Sie möchten gerne zusätzliche Serviceleistungen in
+Anspruch nehmen. Um Ihre Bestellung abwickeln und ausliefern zu können, gibt
+redcoon Ihre Daten nur an den jeweils mit der Auslieferung beauftragten
+Lieferdienst weiter. Es wird sichergestellt, dass sämtliche erhobenen Daten
+ausschließlich in gesetzlich zulässiger Weise erhoben, gespeichert, verwendet
+und verarbeitet werden.
+
+Sie können Ihre Einwilligung zur Erhebung und Verwendung Ihrer
+personenbezogener Daten jederzeit für die Zukunft widerrufen. Erklären Sie
+diesen Widerruf bitte über unsere Telefonnummer 08 00 / 671 671 0 oder
+schriftlich an datenschutz@redcoon.de bzw. an redcoon GmbH, Keltenstraße 2,
+63741 Aschaffenburg.
+
+Damit Sie im Shop bestellen können und Ihre Bestellung bearbeitet werden kann,
+benötigt redcoon Ihren Vornamen, Ihren Nachnamen,  
+Ihre E-Mail-Adresse, Ihre Rechnungs- und – falls abweichend – Ihre
+Lieferanschrift (Straße, Postleitzahl, Ort), Ihre Telefonnummer sowie ein
+Passwort, unter dem Sie sich im redcoon Shop anmelden. Bei Bestellungen im
+redcoon Shop müssen Sie dann künftig Ihre Daten nach dem Log-In nicht noch mal
+eingeben. Sie können sie aber jederzeit ändern und auch eine abweichende
+Lieferadresse angeben. Unmittelbar nach Ihrer Registrierung erhalten Sie eine
+Bestätigung hierzu per E-Mail. Als Benutzername fungiert Ihre E-Mail-Adresse.
+E-Mail-Adresse und Telefonnummer benötigt redcoon ferner zur schnellen
+Kontaktaufnahme mit Ihnen bei Nachfragen und Auskünften im Zusammenhang mit
+Ihrer Bestellung. Bei Vorkasse benötigt redcoon keine zusätzlichen, als die
+genannten Daten.
+
+So kann redcoon Ihren Auftrag ausführen und Sie über Ihren Bestellstatus auf
+dem Laufenden halten.
+
+Wenn Sie sich registrieren oder eine Bestellung aufgeben, erheben, verarbeiten
+und nutzen wir die von Ihnen zur Verfügung gestellten personenbezogenen Daten
+im Rahmen der anwendbaren Datenschutzgesetze.
+
+Wir speichern und nutzen Ihre Daten, wenn Sie mit uns per Telefon, E-Mail oder
+über unser Kontakt-Formular in Verbindung treten oder uns anderweitig
+Informationen zukommen lassen möchten und uns dafür Ihre Daten übermitteln.
+
+Darüber hinaus speichern und nutzen wir personenbezogene Daten und technische
+Informationen, soweit dies erforderlich ist, um Missbrauch oder sonstiges
+rechtswidriges Verhalten auf unserer Website zu verhindern oder zu verfolgen,
+z. B. zur Aufrechterhaltung der Datensicherheit bei Angriffen auf unsere IT-
+Systeme. Schließlich speichern und nutzen wir Ihre Daten, soweit wir dazu
+rechtlich verpflichtet sind, etwa aufgrund behördlicher oder gerichtlicher
+Anordnung, und für die Wahrnehmung unserer Rechte und Ansprüche sowie zur
+Rechtsverteidigung.
+
+### Bonitätsauskunft
+
+Sofern wir in Vorleistung treten, holen wir zur Wahrung unserer berechtigten
+Interessen ggf. eine Bonitätsauskunft auf der Basis mathematisch-statistischer
+Verfahren bei der SCHUFA Holding AG, Kormoranweg 5, 65201 Wiesbaden ein. Ihre
+schutzwürdigen Belange werden gemäß zu den gesetzlichen Bestimmungen
+berücksichtigt.
+
+Wir speichern den Vertragstext und senden Ihnen die Bestelldaten und unsere
+AGB per E-Mail zu. Die AGB können Sie jederzeit auch hier einsehen.
+
+### Retargeting
+
+Wir wollen den redcoon Shop stetig verbessern und individuell auf die
+Interessen unserer Kunden eingehen. Diese Website verwendet daher die
+Retargeting-Technologie, mit welcher auf den externen Websites unserer Partner
+Ihr Nutzungsverhalten zum Zwecke nutzerbasierter Online-Werbung anonym erhoben
+und verarbeitet wird. Sie als Nutzer profitieren, indem Sie Werbung erhalten,
+die eher zu Ihren Interessensgebieten passt und dadurch, dass insgesamt
+weniger zufällig gestreute Werbung ausgeliefert wird. Zur Erfassung Ihres
+Nutzungsverhaltens wird ein Cookie auf Ihrem Rechner gespeichert. Siehe hierzu
+"Was sind Cookies".
+
+Erfasst werden Informationen über Ihre Aktivitäten auf dieser Website (z.B.
+Surfverhalten, besuchte Unterseiten der Internet-Angebote etc.). Da nach
+geltender Rechtslage nicht völlig ausgeschlossen werden kann, dass die
+erhobenen Daten einen mittelbaren Personenbezug zulassen, werden sämtliche
+Nutzungsdaten unter Verwendung eines Pseudonyms gespeichert, so dass eine
+persönliche Identifikation ausgeschlossen ist. Die aus technischen Gründen
+übermittelte IP-Adresse Ihres Rechners wird dabei nicht gespeichert und nicht
+zur gesteuerten Einblendung von Werbung verwendet.
+
+Wenn Sie der entsprechenden Datenerhebung nicht mehr zustimmen wollen, können
+Sie über den Opt-Out-Link widersprechen und die Datenerhebung deaktivieren.
+Diese Deaktivierung wird in den Cookies gespeichert. Bitte beachten Sie daher,
+dass Sie für den Fall einer Cookie-Löschung auch den Opt-Out-Link erneut
+aktivieren müssen.
+
+### Personalisierte Informationen und Angebote
+
+Wir wollen den redcoon Shop stetig verbessern und individuell auf die
+Interessen unserer Kunden eingehen. Hierfür arbeiten wir mit externen
+Dienstleistern zusammen, deren Tracking Tools wir einsetzen, um unsere Online-
+Angebote zu steuern und zu verbessern, mit dem Zweck die Nutzung unserer
+Online-Angebote und die Wirksamkeit unserer Online-Werbung zu messen. Dies
+hilft uns zu verstehen, welche Seiten für die Nutzer unserer Dienste besonders
+attraktiv sind, welche Produkte unsere Kunden am meisten interessieren und
+welche individuellen Angebote wir unseren Website-Nutzern jeweils machen
+sollten. Die in diesem Rahmen erhobenen und verwendeten Daten werden stets
+anonym erhoben und mit einem Pseudonym (z.B. einer zufälligen
+Identifikationsnummer) gespeichert und werden nicht mit personenbezogenen
+Daten über Sie (z.B Name, Adresse etc.) zusammengeführt, so dass eine
+persönliche Identifikation ausgeschlossen ist. Die aus technischen Gründen
+übermittelte IP-Adresse Ihres Rechners wird dabei nicht gespeichert und nicht
+zur gesteuerten Einblendung von Werbung verwendet. Soweit die externen
+Dienstleister Zugriff auf die Daten erhalten, erfolgt dies ausschließlich in
+unserem Auftrag und unter unserer Kontrolle. Zur Erfassung Ihres
+Nutzungsverhaltens wird ein Cookie auf Ihrem Rechner gespeichert. Erfasst
+werden Informationen über Ihre Aktivitäten auf dieser Website (z.B.
+Surfverhalten, besuchte Unterseiten der Internet-Angebote etc.). Siehe hierzu
+"Was sind Cookies". Wenn Sie der entsprechenden Datenerhebung nicht mehr
+zustimmen wollen, können Sie über den Opt-Out-Link widersprechen und die
+Datenerhebung deaktivieren. Der Link setzt den Opt-Out Cookie und leitet Sie
+anschließend automatisch auf unsere Startseite weiter. Diese Deaktivierung
+wird in den Cookies gespeichert. Bitte beachten Sie daher, dass Sie für den
+Fall einer Cookie-Löschung auch den Opt-Out-Link erneut aktivieren müssen.
+
+### Conversion Tracking mit dem "Besucheraktions-Pixel" von Facebook
+
+Wir setzen innerhalb unseres Internetauftritts den "Besucheraktions-Pixel" der
+Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook")
+ein, um die Wirksamkeit von Online-Marketing-Maßnahmen messen zu können. Mit
+dessen Hilfe können wir die Aktionen von Nutzern nachverfolgen, nachdem diese
+eine Facebook-Werbeanzeige gesehen und/oder angeklickt und daraufhin eine
+Bestellung getätigt haben. So können wir die Wirksamkeit der Facebook-
+Werbeanzeigen für statistische und Marktforschungszwecke erfassen. Die so
+erfassten Daten sind für uns anonym, das heißt, wir können weder
+personenbezogene Daten einzelner Nutzer sehen, noch diese mit sonstigen
+Informationen zu einem Nutzer zusammenführen.  
+Diese Daten werden jedoch von Facebook gespeichert und verarbeitet. Facebook
+kann dadurch das Verhalten von Nutzern nachvollziehen, die auf eine
+Werbeanzeige im Mitgliederbereich von Facebook geklickt haben und auf unsere
+Webseite weitergeleitet wurden. Durch den Einsatz von Cookies, also
+Textdateien, die auf Ihrem Computer gespeichert werden, kann Facebook diesen
+Nutzer im Mitgliederbereich von Facebook anschließend wiedererkennen und die
+Effizienz von Werbeanzeigen optimieren, z.B. auf Zielgruppen ausgerichtete
+Werbeanzeigen anbieten, entsprechend der Datenverwendungsrichtlinie von
+Facebook. Dies betrifft nur Nutzer, die einen Account bei Facebook haben und
+im Mitgliederbereich von Facebook eingeloggt sind. Nutzer, welche keine
+Mitglieder bei Facebook sind, sind von dieser Datenverarbeitung nicht
+betroffen.  
+Sie können dieser Datenverarbeitung unter folgendem Link widersprechen:  
+http://www.aboutads.info/choices/
+
+### Criteo und Sociomantic Datenschutzhinweis
+
+Diese Website nutzt die Technologien von „Criteo“ (Criteo SA, 32 Rue Blanche,
+75009 Frankreich) und „Sociomantic“ (sociomantic labs GmbH, Paul-Lincke-Ufer
+39/40, 10999 Berlin, Deutschland), um Informationen über das Surfverhalten der
+Webseitenbesucher zu Marketing- und Optimierungszwecken zu sammeln und zu
+speichern. Hierfür werden in rein anonymisierter Form sog. Cookies gesetzt,
+also Textdateien, die auf Ihrem Computer gespeichert werden, die aber keine
+personenbezogenen Informationen enthalten.
+
+Criteo und Sociomantic können das Surfverhalten analysieren und anschließend
+gezielte Produktempfehlungen als passendes Werbebanner anzeigen, wenn andere
+Webseiten besucht werden. In keinem Fall können die anonymisierten Daten dazu
+verwendet werden, den Besucher der Website persönlich zu identifizieren. Die
+von Criteo und Sociomantic gesammelten Daten werden lediglich zur Verbesserung
+des Werbeangebots genutzt. Eine andere Verwendung oder Weitergabe an Dritte
+erfolgt nicht. Weitere Informationen zu den Technologien von Criteo und
+Sociomantic erhalten Sie in der Criteo Datenschutzrichtlinie sowie in der
+Sociomantic Datenschutzrichtlinie. Sie können die Speicherung und Verwendung
+von Informationen durch die Dienste von Criteo und Sociomantic verhindern,
+indem Sie auf die vorstehenden Links klicken und dort jeweils den Regler bei
+„Opt-Out“ auf „ON“ stellen. Wählen Sie „ON“, wird in Ihrem Browser ein neues
+Cookie (Opt-Out-Cookie) gesetzt. Dieses Cookie signalisiert den Diensten von
+Criteo und Sociomantic, dass keine Daten über Ihr Nutzungsverhalten mehr
+erhoben und verarbeitet werden dürfen. Sie haben die Möglichkeit, diese
+Funktion wieder zu aktivieren, indem Sie den Regler auf „OFF“ stellen.
+Beachten Sie bitte, dass diese Einstellung für jeden von Ihnen verwendeten
+Browser vorgenommen werden muss. Werden alle Cookies in Ihrem Browser
+gelöscht, so ist hiervon auch das Opt-Out-Cookie betroffen.
+
+### Krux Digital
+
+Auf dieser Website werden mit der Technologie von "krux" (Krux Digital Inc.,
+181 South Park, # 2, San Francisco, CA 94107, USA) Messdaten zur gesteuerten
+Auslieferung von Werbeeinblendungen erhoben.  
+Die Datenerhebung geschieht durch das Setzen von Cookies, also Textdateien,
+die auf Ihrem Computer gespeichert werden, und kann demografische, verhaltens-
+und nutzerbasierte Informationen umfassen. Diese Daten reflektieren die
+Interaktion des Nutzers mit der Website, um eine grobe Schätzung aufzustellen,
+welche Werbung Sie möglicherweise am meisten interessiert. So werden anonyme
+Nutzergruppen gebildet, die folgende Segmente umfassen können: Geographie,
+Geschlecht, Alter, Interesse oder Kaufabsicht. Die so erfassten Daten sind für
+uns anonym und es kann keine Verknüpfung zu Ihren personenbezogenen
+Informationen erfolgen.  
+Sie können diese Aufzeichnung von Messdaten durch krux verhindern, indem Sie
+auf folgenden Link klicken: Customer Opt-Out Krux (in Englisch), um ein Opt-
+Out-Cookie zu setzen. Beachten Sie bitte, dass diese Einstellung für jeden von
+Ihnen verwendeten Browser vorgenommen werden muss. Werden alle Cookies in
+Ihrem Browser gelöscht, so ist hiervon auch das Opt-Out-Cookie betroffen.
+
+### Optimierung unseres Webshops
+
+Darüber hinaus setzen wir auch sessionübergreifende Cookies ein, die nach
+Schließen des Internetbrowsers bestehen bleiben. Diese dienen dazu, unser
+Angebot nutzerfreundlich und effektiver zu machen. Dank dieser Dateien ist es
+beispielsweise möglich, dass Sie speziell auf Ihre Interessen abgestimmte
+Informationen auf der Seite angezeigt bekommen. Der ausschließliche Zweck
+besteht also darin, unser Angebot Ihren Kundenwünschen bestmöglich anzupassen
+und Ihnen das Surfen bei uns so komfortabel wie möglich zu gestalten. Hierbei
+werden keinerlei personenbezogene Daten über den Website Besucher gesammelt.
+Wenn Sie von diesem Angebot kein Gebrauch machen möchten, können Sie hier die
+Software von Maxymiser deaktivieren (auf Englisch). Mehrere Informationen zum
+Thema "Maxymiser Cookies" finden Sie auf der Webseite
+www.maxymiser.com/cookies (auf English).
+
+## Newsletter und Infos
+
+Wenn Sie Informationsmaterial, Newsletter oder Broschüren bestellen, werden
+Sie von redcoon u. U. nach Ihrem Namen und nach anderen persönlichen
+Informationen, zumindest jedoch nach Ihrer E-Mail-Adresse gefragt. Es
+unterliegt Ihrer freien Entscheidung, ob Sie diese Daten bekannt geben. Ihre
+Angaben speichert redcoon auf besonders geschützten Servern in Deutschland.
+Der Zugriff darauf ist nur wenigen besonders befugten Personen möglich, die
+mit der technischen, kaufmännischen oder redaktionellen Betreuung der Server
+befasst sind. Wenn Sie die Leistungen nicht mehr beziehen möchten, genügt ein
+Klick auf den Abmeldelink, der sich am Ende jedes Newsletters befindet. Bei
+Anmeldung zum Newsletter wird Ihre E-Mail-Adresse mit Ihrer Einwilligung für
+eigene Werbezwecke genutzt, bis Sie sich vom Newsletter wieder abmelden. Die
+Abmeldung ist jederzeit möglich. Alternativ schreiben Sie redcoon eine E-Mail
+newsletter@redcoon.de oder rufen Sie an: 06021 / 8 671 671.
+
+In Verbindung mit Ihrem Zugriff werden auf den Servern von redcoon u. U. Daten
+für Sicherungszwecke gespeichert, die möglicherweise eine Identifizierung
+zulassen (zum Beispiel IP-Adresse, Datum, Uhrzeit und betrachtete Seiten). Die
+IP-Adresse wird nicht zur Identifizierung des Nutzers verwendet und es werden
+weder direkt personenbezogene noch pseudonymisierte Nutzerprofile erstellt.
+Die statistische Auswertung anonymisierter Datensätze bleibt vorbehalten.
+
+## Wie schützen wir Ihre Informationen?
+
+Wir benutzen ein sicheres Übertragungsverfahren – die sogenannte "Secure
+Socket Layer"-(SSL-)Übertragung, um Kundendaten zu verarbeiten. Durch die
+Umwandlung in einen Code werden Ihre persönlichen Daten wie Name oder Adresse
+durch unsere Sicherheitsserver-Software verschlüsselt. Auf diese Weise können
+diese Daten bei der Übertragung im Internet nicht von Unbefugten gelesen
+werden. Die meisten neueren Browser unterstützen bereits diese sichere
+Übertragungstechnik.
+
+Google Analytics
+
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
+("Google"). Google Analytics verwendet sog. Cookies, Textdateien, die auf
+Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der
+Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen
+über Ihre Benutzung dieser Website werden in der Regel an einen Server von
+Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung
+der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google
+jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor
+gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von
+Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers
+dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der
+Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen
+und um weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen
+von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengeführt.
+
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung
+Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie
+in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website
+vollumfänglich werden nutzen können.  
+Wenn Sie die Erfassung der Daten durch Google Analytics verhindern wollen,
+können Sie über den Opt-Out-Link (die Deaktivierung erfolgt im Hintergrund, es
+öffnet sich kein neues Fenster) widersprechen und die Datenerhebung
+deaktivieren. Diese Deaktivierung wird in den Cookies gespeichert. Bitte
+beachten Sie, dass diese Einstellung verloren geht, wenn Sie das Cookie
+löschen.  
+Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf
+Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google
+sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das
+verfügbare Browser-Plugin herunterladen und installieren.
+
+Deaktivierung per Browser-Plugin (nur für PC/Mac):  
+Browser-Add-on zur Deaktivierung von Google Analytics
+
+Deaktivierung per Opt-Out-Link (PC/Mac &amp; Mobile):  
+Opt-Out-Link zur Deaktivierung von Google Analytics
+
+(die Deaktivierung erfolgt im Hintergrund, es öffnet sich kein neues Fenster)
+
+## DoubleClick for Publishers
+
+Diese Website benutzt den Adserver DoubleClick for Publishers der Google Inc.
+("Google"), um Ihnen für Sie relevante Anzeigen darzustellen. Dazu verwendet
+Google sog. Cookies, Textdateien, die auf Ihrem Computer gespeichert werden
+und die eine Analyse der Benutzung der Website ermöglicht, die aber keine
+personenbezogenen Informationen enthalten.
+
+Diese Cookies verwenden eine Ihrem Browser zugeordnete pseudonyme
+Identifikationsnummer, die der Prüfung von Einblendung und Aufruf von Anzeigen
+dient. Dies ermöglicht Google und seinen Partner-Sites die Schaltung von
+Anzeigen, basierend auf dem vorherigen Besuch von redcoon-Seiten oder anderen
+Websites. Die Informationen, die durch diese Cookies erzeugt werden, werden an
+einen Server von Google in den USA übertragen und dort gespeichert. Diese
+Informationen können von Google an Vertragspartner von Google weitergegeben
+werden.
+
+Sie können die Installation der Cookies durch eine entsprechende Einstellung
+Ihrer Browser Software verhindern; redcoon weist Sie jedoch darauf hin, dass
+Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website
+voll umfänglich nutzen können. Durch die Nutzung dieser Website erklären Sie
+sich mit der Bearbeitung der über sie erhobenen Daten durch Google in der
+zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck
+einverstanden.
+
+Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf
+Ihre Nutzung der Website bezogenen Daten an Google sowie die Verarbeitung
+dieser Daten durch Google verhindern, indem Sie das verfügbare Browser-Plugin
+herunterladen und installieren.
+
+Deaktivierung per Browser-Plugin:  
+Browser-Add-on zur Deaktivierung von Google Adserver DoubleClick for
+Publishers
+
+## AT Internet
+
+Die redcoon GmbH setzt eine Lösung von AT Internet zur Analyse und Auswertung
+der Nutzung der Website ein. Ziel ist es, die Website so zu gestalten, dass
+sie optimal auf Ihre Bedürfnisse angepasst ist. Sowohl die
+Benutzerfreundlichkeit als auch die Qualität des Web-Angebots soll stetig
+verbessert werden, um Ihnen die für Sie interessanten Produkte und
+Informationen zeitnah und kundenfreundlich zu präsentieren. Dazu ist es
+erforderlich, das Nutzerverhalten auf der Website statistisch zu erfassen und
+zu analysieren. Dabei werden unter anderem Cookies eingesetzt.
+
+Das Analyse-Tool ist technisch so ausgestaltet, dass es nicht möglich ist,
+anhand der zur Verfügung stehenden Informationen einen Rückschluss auf Sie als
+Person zu ziehen oder ein personenbezogenes Nutzerprofil zu erstellen. Im Zuge
+des Erhebungs- und Verarbeitungsprozesses nutzt AT Internet auch die IP-
+Adresse unserer Online-Nutzer. Um diese Daten zu schützen, werden sie in
+anonymisierter Form für einen begrenzten Zeitraum (6 Monate) gespeichert, so
+dass alle statistischen Analysen ohne einen Bezug zu Ihrer Person erfolgen. AT
+Internet veröffentlicht keinerlei personenbezogenen statistischen Daten. Die
+mit AT-Internet erhobenen Daten werden ohne die gesondert und ausdrücklich
+erteilte Zustimmung des Betroffenen nicht dazu benutzt, den Besucher dieser
+Website persönlich zu identifizieren und zu keiner Zeit mit personenbezogenen
+Daten über den Besucher zusammengeführt.
+
+redcoon wertet die Daten insbesondere für folgende Zwecke aus:
+
+  * Durchführung von Performance- oder Rentabilitäts-Vergleichen unserer Websites,
+  * Zählung von Besuchern,
+  * Tracking der Kenntnisnahme von bspw. auf der Website geschalteter Online-Werbung, Partner- und Affiliate-Programmen, Rich-Media-Inhalten oder besonderen Kampagnen,
+  * Messung der für Sie besonders attraktiven Bereiche der Website,
+  * Auswertung der Herkunft der Online-Nutzer zur lokalen Optimierung unseres Angebots.
+
+Sollten Sie dem Tracking Ihres Besuches nicht zustimmen, lesen Sie bitte in
+den auf der AT Internet Website eingesetzten Datenschutzbestimmungen und
+folgen Sie bitte den Anweisungen.
+
+Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf
+Ihre Nutzung der Website bezogenen Daten verhindern, indem Sie unter dem
+folgenden Link die Option "Opt-Out" wählen: AT Internet Opt-Out. Bitte
+beachten Sie, dass diese Einstellung verloren geht, wenn Sie das Cookie
+löschen.
+
+## Refined Ads
+
+Die redcoon GmbH nutzt Refined Ads, um Transaktionsdaten statistisch
+aufbereiten zu können. Wir geben Ihre Daten nicht an Dritte weiter. Redcoon
+GmbH nutzt im Rahmen des Einsatzes von Refined Ads den Revenue-Tracking-Code,
+so werden bei jedem Aufruf des Revenue-Tracking-Codes oder des Revenue-
+Tracking-Pixels Daten an Refined Ads übertragen und gespeichert. Derzeit
+werden folgende Daten übergeben:
+
+  * Aktueller Timestamp,
+  * „Ziel URL” und „Referrer URL”,
+  * Inhalt der Cookies,
+  * Version, Sprache, Name des Browsers, die von Ihrem Browser übertragen werden,
+  * Informationen, wie z. B. Lead-Type, Wert,
+  * interne RefinedAds-ID.
+
+Alle diese Daten sind nicht bestimmten Personen zuordenbar, mithin also
+allesamt keine personenbezogenen Daten. Eine Zusammenführung dieser Daten mit
+anderen Datenquellen wird nicht vorgenommen.
+
+Allein redcoon GmbH hat Zugriff auf Teile dieser ebengenannten Daten, die
+Refined Ads erhebt. Sie haben jederzeit die Möglichkeit der Speicherung von
+Cookies durch Refined Ads für die Zukunft zu widersprechen. Zur technischen
+Umsetzung dieses Ausschlusses wird in Ihrem Browser ein Cookie mit dem Namen
+“rfa-opt-out” von der Domain “refinedads.com” gesetzt. Solange dieses Cookie
+existiert, also von Ihnen nicht gelöscht wird oder anderweitig verloren geht,
+wird von Refined Ads kein weiteres Cookie in Ihrem Browser gespeichert. Bitte
+beachten Sie: Ein Cookie Opt-Out kann aus technischen Gründen immer nur für
+den gerade aktuell verwendeten Browser erfolgen. Nutzen Sie weitere Browser,
+so müssen Sie diesen Cookie Opt-Out aus technischen Gründen für jeden dieser
+Browser einzeln vornehmen.
+
+Um der Speicherung von Cookies durch Refined Ads für diesen Browser zu
+widersprechen, deaktvieren Sie den Cookie per Opt-Out von Refined Ads.
+
+## Was sind Cookies?
+
+Cookies sind kleine Informationseinheiten, die redcoon benötigt, um Sie
+während Ihres Online-Besuchs im redcoon Shop als Nutzer identifizieren zu
+können und Ihnen so einen reibungslosen Einkauf zu ermöglichen. So wird
+hierüber zum Beispiel die Funktion des „Warenkorbs“ und dessen „Merkfunktion“
+gesteuert. Cookies werden von Ihrem Browser nur während der aktuellen Sitzung
+auf der Festplatte gespeichert, brauchen nur minimalen Speicherplatz und
+beeinträchtigen Ihren Rechner nicht. Cookies enthalten keine
+personenspezifischen Informationen. Die meisten der von uns verwendeten
+Cookies werden nach Ende der Browser-Sitzung wieder von Ihrer Festplatte
+gelöscht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Rechner
+und ermöglichen uns, Ihren Rechner bei Ihrem nächsten Besuch wieder zu
+erkennen (sog. dauerhafte Cookies).
+
+Die meisten Browser akzeptieren Cookies standardmäßig. In den
+Sicherheitseinstellungen können Sie temporäre und gespeicherte Cookies
+unabhängig voneinander zulassen oder verbieten. Sie können auch einmal
+gesetzte Cookies jederzeit wieder löschen. Wenn Sie Cookies deaktivieren,
+stehen Ihnen unter Umständen bestimmte Features auf der Website von redcoon
+nicht zur Verfügung, und einige Webseiten werden möglicherweise nicht richtig
+angezeigt.
+
+Ohne Ihre ausdrückliche Zustimmung wird redcoon die in den von redcoon
+verwendeten Cookies gespeicherten Daten nicht mit Ihren persönlichen Daten
+(Name, Adresse usw.) verknüpfen. Um unseren Warenkorb nutzen zu können, müssen
+die [temporären/permanenten] Cookies zugelassen werden!
+
+## Aktivierung von Cookies
+
+### Mozilla Firefox
+
+Rufen Sie unter Extras &gt; Einstellungen  die Menükarte Datenschutz  auf.
+Wählen Sie unter Chronik &gt; „Firefox wird eine Chronik:“  die Option
+„anlegen“ . Wenn Sie statt „anlegen“ lieber die Option „nach
+benutzerdefinierten Einstellungen anlegen“ aktivieren möchten, vergewissern
+Sie sich ob hier der Haken bei „Cookies akzeptieren“ gesetzt ist. Bestätigen
+Sie mit OK . Laden Sie die Ansicht neu über „Ansicht“, „Neu laden“  bzw.
+[Strg] + [R] .
+
+### Microsoft Internet Explorer
+
+Wählen Sie unter Extras &gt; Internetoptionen  die Menükarte Datenschutz .
+Öffnen Sie unter Einstellungen  die Menükarte Erweitert . Hier muss der Punkt
+Cookies von Erstanbietern auf „Annehmen“  stehen. Ist dies nicht der Fall
+aktivieren Sie den Punkt „Automatische Cookiebehandlung aufheben“  unter
+Cookies und aktivieren Sie den Punkt „Annehmen“  unter „Cookies von
+Erstanbietern“ . Bestätigen Sie zweimal mit OK . Laden Sie die Ansicht neu
+über „Ansicht“ , „Aktualisieren“  bzw. [F5] .
+
+### Opera
+
+Öffnen Sie unter der Menükarte „Menü“ &gt; „Einstellungen“  den Punkt
+„Einstellungen“ . Wählen Sie hier die Menükarte „Erweitert“ . Rufen Sie links
+„Cookies“  auf und setzen Sie hier den Punkt „Cookies annehmen“ . Bestätigen
+Sie mit OK . Laden Sie die Ansicht neu über „Aktualisieren“  bzw. [F5] .
+
+### Google Chrome
+
+Öffnen Sie im oberen rechten Bereich das Kontextmenü über das
+„Schraubenschlüssel-Symbol“  den Punkt „Optionen“ . Rufen Sie die Menükarte
+„Details“  auf. Öffnen Sie das Menü „Content Einstellungen“  unter
+„Datenschutz“ . Aktivieren Sie den Punkt „Speicherung lokaler Daten zulassen“
+unter den Funktionen „Cookies“ . Schließen  Sie beide Fenster. Laden Sie die
+Ansicht neu über „Aktualisieren“  bzw. [F5] .
+
+### Apple Safari
+
+Wählen Sie unter „Safari“  das Menü „Einstellungen“  bzw. [cmd] + [,] . Öffnen
+Sie die Menükarte „Sicherheit“ . Aktivieren Sie den Punkt „Immer“  unter
+„Cookies akzepieren“ . Schließen  Sie das Menü. Laden Sie die Ansicht neu über
+„Darstellung“ &gt; „Seite neu laden“  bzw. [cmd] + [R] .
+
+## Verwendung von Social Plugins von Facebook und Google+
+
+Auf unserer Website werden sogenannte Social Plugins ("Plugins") der sozialen
+Netzwerke Facebook und Google+ verwendet. Diese Dienste werden von den
+Unternehmen Facebook Inc. und Google Inc. angeboten ("Anbieter"). Facebook
+wird betrieben von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA
+94304, USA ("Facebook"). Google+ wird betrieben von der Google Inc., 1600
+Amphitheatre  
+Parkway, Mountain View, CA 94043, USA ("Google").  
+Eine Übersicht über die Plugins und deren Aussehen finden Sie hier (Seiten
+jeweils in Englisch):  
+Social Plugins (Facebook) bzw. Plugins (Google+)
+
+Wenn Sie eine Seite unseres Webshops aufrufen, die ein solches Plugin enthält,
+baut Ihr Browser eine direkte Verbindung zu den Servern von Google oder
+Facebook auf. Der Inhalt des Plugins wird vom jeweiligen Anbieter direkt an
+Ihren Browser übermittelt und in die Seite eingebunden. Durch die Einbindung
+der Plugins erhalten die Anbieter die Information, dass Ihr Browser die
+entsprechende  
+Seite unseres Webshops aufgerufen hat, auch wenn Sie kein Profil bei dem
+entsprechenden sozialen Netzwerk besitzen oder gerade nicht eingeloggt sind.
+Diese Information (einschließlich Ihrer IP-Adresse) wird von Ihrem Browser
+direkt an einen Server des jeweiligen Anbieters in die USA übermittelt und
+dort gespeichert.
+
+Sind Sie bei einem der sozialen Netzwerke eingeloggt, können die Anbieter den
+Besuch unserer Website Ihrem Profil auf Facebook bzw. Google+ unmittelbar
+zuordnen. Wenn Sie mit den Plugins interagieren, zum Beispiel den "Gefällt
+mir"- oder den "+1"-Button betätigen, wird die entsprechende Information
+ebenfalls direkt an einen Server der Anbieter übermittelt und dort
+gespeichert. Die Informationen werden außerdem in dem sozialen Netzwerk
+veröffentlicht und dort Ihren Kontakten angezeigt.
+
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch die Anbieter sowie Ihre diesbezüglichen Rechte und
+Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte
+den Datenschutzhinweisen der Anbieter.
+
+  * Datenschutzhinweise von Facebook 
+  * Datenschutzhinweise von Google 
+
+Wenn Sie nicht möchten, dass Google oder Facebook die über unseren Webauftritt
+gesammelten Daten unmittelbar Ihrem Profil in dem jeweiligen sozialen Netzwerk
+zuordnen, müssen Sie sich vor Ihrem Besuch unserer Website bei dem
+entsprechenden Netzwerk ausloggen.
+
+Sie können das Laden der Plugins auch mit Add-Ons für Ihren Browser komplett
+verhindern, z.B. die Facebook-Plugins mit dem "Facebook Blocker", den Sie hier
+(Seite in Englisch) finden.
+
+## Die Zukunft Ihrer personenbezogenen Daten bei redcoon
+
+redcoon stellt Ihre persönlichen Daten Dritten nicht zur Verfügung. Sie können
+Ihre persönlichen Daten jederzeit einsehen und ändern. Sie können jederzeit
+unter datenschutz@redcoon.de oder über die Telefonnummer 08 00 / 671 671 0
+Auskünfte über die von redcoon gespeicherten Daten erhalten. redcoon wird
+darüber hinaus nicht mehr benötigte Daten je nach den Vorgaben von Gesetzen
+und Behörden löschen oder sperren.
+
+Wie bei allen Internetanbietern erfolgt auch im redcoon Shop eine
+kontinuierliche Auswertung der Abrufe der Internet-Seiten und der Domäne Ihres
+Internet-Providers zur Verbesserung unserer Angebote. Hierzu wird redcoon Ihre
+persönlichen Nutzungsdaten zur Erstellung von Statistiken anonymisieren.
+
+© Dezember 2016 redcoon GmbH
+
+Es werden mindestens 3 Zeichen benötigt.
+
+Wonach suchen Sie?
+
+### Newsletter abonnieren
+
+E-mail
+
+Jetzt anmelden
+
+##### Vielen Dank!
+
+Die E-Mail Adresse wurde erfolgreich dem Newsletter hinzugefügt.
+
+##### Sorry
+
+Schnelle Logistikabwicklung
+
+Versand morgen
+
+Kostenlose Rücksendung
+
+14 Tage kostenlose Rücksendung
+
+Einfach und sicher bezahlen
+
+Zahlen Sie einfach per PayPal oder Kreditkarte
+
+0800/671 671 0
+
+Mo. - Fr.: 8:00 - 19:00 Uhr, Sa.: 8:00 - 16:00 Uhr
+
+Live-Chat
+
+Mo. - Fr.: 8:00 - 19:00 Uhr
+
+Meine Daten
+
+  * Anmelden/Mein Konto
+  * Warenkorb
+  *  
+
+Bestellungen
+
+  * Versandkosten
+  * Zahlmethoden
+  * FAQ (Hilfe)
+  *  
+
+Service
+
+  * Info-Center
+  * Kontakt
+  *  
+  *  
+  *  
+  *  
+  *  
+
+Unternehmen
+
+  * Presse
+  * Jobs
+  * Allgemeine Geschäftsbedingungen
+  * Datenschutz
+  * Widerrufsbelehrung
+  * Impressum
+  *  
+
+Zertifizierte Sicherheit
+
+### Kreditkarte
+
+  * Unmittelbare Versandabwicklung nach Bestellung. 
+  * Risikofrei mit Verified by Visa und MasterCard Secure Code. 
+  * Ihre Daten werden nur für den Bezahlvorgang von der Wirecard AG erfasst und gespeichert. 
+
+### Paypal
+
+  * Unmittelbare Versandabwicklung nach Bezahlung. 
+  * Schnelle, sichere und automatische Abwicklung Ihrer Bezahlung. 
+  * Kostenloses PayPal-Konto oder Registrierung notwendig. 
+  * Verschiedene Zahlungsarten über PayPal. 
+
+### Vorkasse
+
+Zahlung per Vorkasse
+
+  * Überweisung per Vorkasse von Ihrem Konto. 
+  * Die Kontoinformationen erfahren Sie am Ende des Bestellvorgangs. 
+
+Alle Preise inkl. MwSt., zzgl. Versandkosten, soweit nicht anders angegeben.
+Lieferung innerhalb Deutschlands.  
+Änderungen und Irrtümer vorbehalten. Abbildungen ähnlich. Nur solange der
+Vorrat reicht. UVP = unverbindliche Preisempfehlung des Herstellers  
+* Versand erfolgt bei Bestellungen vor 18.00 Uhr und nur für lagernde Ware (Großgeräte bzw. Speditionsware ausgenommen), die per Paypal oder Kreditkarte bezahlt werden, noch heute. Sonntags und an gesetzlichen Feiertagen findet in unseren Logistikzentren keine Versandabwicklung statt. Samstags findet die Versandabwicklung nur bedingt statt. Bitte beachten Sie zudem die Auslieferungsbedingungen der einzelnen Versanddienstleister.
+
+Produkte vergleichen  0
+
+Produkte vergleichen (0)
+
+### Maximale Anzahl von Artikel erreicht
+
+Sie haben das Maximum von vier Artikeln auf der Vergleichsliste erreicht.
+Bitte entfernen Sie mindestens einen Artikel, um einen weiteren hinzuzufügen.
+

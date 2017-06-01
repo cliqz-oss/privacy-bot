@@ -1,0 +1,2232 @@
+<!DOCTYPE html>
+<html xml:lang="de" lang="de">
+    <head>
+        <title>Datenschutz</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Meta Description" />
+<meta name="keywords" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQEVlFVGwcJUVdTBQI="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="HandheldFriendly" content="true" />
+<meta property="fb:page_id" content="155441151152631" />
+<meta name="viewport" content="width=1022">
+<link rel="icon" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/imgs/favicon/57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/imgs/favicon/57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/imgs/favicon/72x72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/imgs/favicon/114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/imgs/favicon/120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/imgs/favicon/144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/imgs/favicon/152x152.png" />
+    <link rel="canonical" href="https://www.kartenmacherei.de/datenschutz/" />
+                        <link rel="alternate" hreflang="de-de" href="https://www.kartenmacherei.de/datenschutz/" />
+                    <link rel="alternate" hreflang="de-at" href="https://www.kartenmacherei.at/datenschutz/" />
+                    <link rel="alternate" hreflang="de-ch" href="https://www.kartenmacherei.ch/datenschutz/" />
+            
+<script src="//cdn.optimizely.com/js/2650570179.js"></script>
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.kartenmacherei.de/js/blank.html';
+    var BLANK_IMG = 'https://www.kartenmacherei.de/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+
+<script type="text/javascript">
+    var AI_RESOLUTIONS = [1024,768,460];
+    var _devicePixelRatio = ('devicePixelRatio' in window ? devicePixelRatio : 1);
+    var _screenWidth = Math.max(screen.width,screen.height);
+    if (_devicePixelRatio != 1) {
+        _screenWidth = Math.ceil(_screenWidth * _devicePixelRatio);
+    }
+    var _resolution = AI_RESOLUTIONS[0];
+    for (var i=0; i<AI_RESOLUTIONS.length; i++) {
+        if (_screenWidth <= AI_RESOLUTIONS[i]) {
+            _resolution = AI_RESOLUTIONS[i];
+        }
+    }
+            if (_resolution != AI_RESOLUTIONS[0]) {
+        document.cookie='resolution='+_resolution+'; path=/';
+    }
+</script>
+
+<link type="text/css" rel="stylesheet" href="https://www.kartenmacherei.de/skin/m/1494304179/skin/frontend/default/Kam_fury/css/styles.css,/skin/frontend/base/default/css/widgets.css,/skin/frontend/default/Kam_fury/css/std.css,/skin/frontend/default/Kam_fury/shadowbox/shadowbox.css,/skin/frontend/default/Kam_fury/css/jquery.mCustomScrollbar.css,/skin/frontend/default/Kam_fury/css/font-awesome.min.css,/skin/frontend/default/Kam_fury/css/jquery.sidr.light.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.kartenmacherei.de/skin/m/1494304179/skin/frontend/default/default/css/symmetrics/trustedrating.css" media="all" />
+<script type="text/javascript" src="https://www.kartenmacherei.de/skin/m/1494304178/js/prototype/prototype.js,/js/lib/ccard.js,/js/Kam/prototype/validation.js,/js/scriptaculous/builder.js,/js/scriptaculous/effects.js,/js/scriptaculous/dragdrop.js,/js/scriptaculous/controls.js,/js/scriptaculous/slider.js,/js/varien/js.js,/js/varien/form.js,/js/Kam/jquery.js,/js/Kam/detect.js,/js/varien/menu.js,/js/mage/translate.js,/js/mage/cookies.js,/js/Kam/shadowbox/shadowbox.js" ></script>
+<script type="text/javascript" src="https://www.kartenmacherei.de/skin/m/1494304178/js/Kam/jquery.tools.min.js,/js/Kam/jquery-ui.min.js,/js/Kam/jquery.mCustomScrollbar.min.js,/js/Kam/jquery.mousewheel.min.js,/js/Kam/kam.js,/js/Kam/preselection.js,/js/Kam/customer-satisfaction-bar.js,/js/Kam/jquery.slick.min.js,/js/Kam/jquery.touchwipe.1.1.1.js,/js/Kam/jquery.jpanelmenu.min.js,/js/Kam/mobile.js,/js/aoestatic/jquery.cookie.js,/js/aoestatic/common.js,/js/aoestatic/jstorage.min.js" ></script>
+<link type="text/css" rel="stylesheet" href="https://www.kartenmacherei.de/skin/m/1494304179/skin/frontend/default/default/css/print.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/css/mobile.css" media="only screen and (min-device-width: 0px) and (max-device-width:1030px)" />
+<link type="text/css" rel="stylesheet" href="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/css/mediaqueries.css" data-mobile-css />
+<!--[if lt IE 8]>
+<link type="text/css" rel="stylesheet" href="https://www.kartenmacherei.de/skin/m/1494304179/skin/frontend/default/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.kartenmacherei.de/skin/m/1494304178/js/lib/ds-sleight.js,/skin/frontend/base/default/js/ie6.js" ></script>
+<![endif]-->
+<script type="text/javascript">var Translator = new Translate({"Please select an option.":"Bitte w\u00e4hlen Sie eine Option.","This is a required field.":"Dies ist ein Pflichtfeld.","Please enter a valid number in this field.":"Bitte geben Sie eine g\u00fcltige Nummer in dieses Feld ein.","Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.":"Bitte verwenden Sie in diesem Feld nur Zahlen. Vermeiden Sie Leerzeichen oder andere Sonderzeichen wie Kommas etc.","Please use letters only (a-z) in this field.":"Bitte nur Buchstaben (a-z) in diesem Feld benutzen.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Bitte benutzen Sie nur Buchstaben (a-z), Ziffern (0-9) oder Unterstriche (_) in diesem Feld, das erste Zeichen sollte ein Buchstabe sein.","Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Bitte nur Buchstaben (a-z) oder Zahlen (0-9) in diesem Feld verwenden. Es sind keine Leerzeichen oder andere Zeichen erlaubt.","Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.":"Bitte nur Buchstaben (a-z), Zahlen (0-9) oder Leerzeichen und # in diesem Feld verwenden.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Bitte geben Sie eine g\u00fcltige Telefonnummer ein. Zum Beispiel (123) 456-7890 oder 123-456-7890.","Please enter a valid date.":"Bitte geben Sie ein g\u00fcltiges Datum ein.","Please enter a valid email address. For example johndoe@domain.com.":"Bitte geben Sie eine g\u00fcltige E-Mail Adresse ein. Zum Beispiel johndoe@domain.de.","Please enter 6 or more characters.":"Bitte geben Sie 6 oder mehr Zeichen ein.","Please make sure your passwords match.":"Bitte stellen Sie sicher, da\u00df Ihre Passw\u00f6rter \u00fcbereinstimmen.","Please enter a valid URL. http:\/\/ is required":"Bitte geben Sie eine g\u00fcltige URL ein. http:\/\/ wird ben\u00f6tigt","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Bitte geben Sie eine g\u00fcltige URL ein. Zum Beispiel http:\/\/www.beispiel.de oder www.beispiel.de","Please enter a valid social security number. For example 123-45-6789.":"Bitte geben Sie eine g\u00fcltige Sozialversicherungsnummer ein. Zum Beispiel 123-45-6789.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Bitte geben Sie eine g\u00fcltige Postleitzahl ein. Zum Beispiel 21335.","Please enter a valid zip code.":"Bitte geben Sie eine g\u00fcltige Postleitzahl ein.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Bitte benutzen Sie dieses Datumsformat: tt\/mm\/jjjj. Zum Beispiel 17\/03\/2006 f\u00fcr den 17. M\u00e4rz 2006.","Please enter a valid $ amount. For example $100.00.":"Bitte geben Sie einen g\u00fcltigen Betrag ein. Zum Beispiel 100,00 \u20ac.","Please select one of the above options.":"Bitte w\u00e4hlen Sie eine der oberen Optionen.","Please select one of the options.":"Bitte w\u00e4hlen Sie eine der Optionen.","Please select State\/Province.":"Bitte Land\/Bundesland w\u00e4hlen.","Please enter valid password.":"Bitte geben Sie ein g\u00fcltiges Passwort ein.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Bitte geben Sie 6 oder mehr Zeichen ein. Leerzeichen am Anfang oder Ende der Zeichenkette werden entfernt.","Please use letters only (a-z or A-Z) in this field.":"Bitte verwenden Sie nur die Zeichen (a-z oder A-Z) in diesem Feld.","Please enter a number greater than 0 in this field.":"Bitte geben Sie eine Zahl gr\u00f6\u00dfer 0 in dieses Feld ein.","Please enter a valid credit card number.":"Bitte geben Sie eine g\u00fcltige Kreditkartennummer ein.","Please wait, loading...":"Bitte warten, wird geladen...","Please choose to register or to checkout as a guest":"Bitte registrieren Sie sich, oder gehen Sie als Gast zur Kasse","Error: Passwords do not match":"Fehler: Passw\u00f6rter stimmen nicht \u00fcberein","Please specify shipping method.":"Bitte bestimmen Sie die Versandart.","Please specify payment method.":"Bitte bestimmen Sie die Bezahlmethode.","Credit card number doesn't match credit card type":"Die Kreditkartennummer passt nicht zur Art der Kreditkarte","Card type does not match credit card number":"Kartentyp konnte der Kreditkarten-Nummer nicht zugeordnet werden.","Please enter a valid credit card verification number.":"Bitte tragen Sie eine g\u00fcltige Kreditkarten-Pr\u00fcfnummer ein.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%":"Bitte tragen Sie eine g\u00fcltige CSS-H\u00f6he ein wie z.B. 100px, 77pt, 20em, .5ex oder auch 50%","Maximum length exceeded.":"Maximale Anzahl von Zeichen \u00fcberschritten.","Your session has been expired, you will be relogged in now.":"Ihre Sitzung ist abgelaufen, Sie werden nun wieder neu eingeloggt.","Incorrect credit card expiration date":"Ung\u00fcltiges Verfallsdatum der Kreditkarte","This date is a required value.":"Das Datum ist eine ben\u00f6tigte Angabe."});</script><script type="text/javascript">
+Translator.add({"Quantity of products":"Menge","Go now to the classic view our website.":"Sie wechseln nun auf die klassische Ansicht unserer Website.","Of course, you can continue to use our shop without any restrictions.":"Selbstverst\u00e4ndlich k\u00f6nnen Sie unseren Shop weiterhin ohne Einschr\u00e4nkungen nutzen.","Back":"zur\u00fcck","Filter options":"Filterm\u00f6glichkeiten","Clear all filters":"Alle Filter l\u00f6schen","Mobile view":"Mobile","Classic view":"Klassische Ansicht","Sayings, Quotes and Text":"Spr\u00fcche, Zitate und Text","Customer reviews on eKomi":"Kundenbewertungen bei eKomi","Matching Tools":"Passende Extras","Show All":"Alle Anzeigen","You use a":"Sie verwenden einen","outdated browser":"veralteten Browser","- for an optimal user experience, we recommend you upgrade your browser.":"- f\u00fcr ein optimales Nutzungserlebnis empfehlen wir Ihnen, Ihren Browser zu aktualisieren.","Change selection and check":"Auswahl \u00e4ndern und pr\u00fcfen","If you change the order quantity to the number of names and addresses that you can enter in our design tool will be changed. Please check <br\/> and confirm  your data again in our design tool. <br\/> Thank you.":"Wenn Sie die Bestellmenge \u00e4ndern, ver\u00e4ndert sich auch die Anzahl der Namen bzw. Adressen die Sie in unserem Gestaltungstool eingeben k\u00f6nnen. Bitte pr\u00fcfen<br\/>und best\u00e4tigen Sie deshalb Ihre Eingabe erneut in unserem Gestaltungstool.<br\/>Vielen Dank.","If you select the finishing &quot;%s&quot; the colors of the card can be changed <br\/>. Please check and confirm once again why the card in our <br\/> design tool. Thank you very much":"Bei Auswahl der Veredelung &quot;%s&quot; k\u00f6nnen sich die Farben der Karte<br\/>\u00e4ndern. Bitte pr\u00fcfen und best\u00e4tigen Sie deshalb erneut die Karte in unserem<br\/>Gestaltungstool. Vielen Dank","If you want to add a tag to your card, please customize it in our design tool.":"Wenn Sie einen Anh\u00e4nger zu Ihrer Karte hinzuf\u00fcgen m\u00f6chte, m\u00fcssen Sie diesen<br\/>bitte in unserem Gestaltungstool anpassen.","If you want to change the punching, the preview of your card changes. <br\/> Please check and confirm your card again in our design tool. <br\/> Thank you.":"Wenn Sie die Stanzung \u00e4ndern m\u00f6chten, \u00e4ndert sich die Vorschau Ihrer Karte.<br\/>Bitte pr\u00fcfen und best\u00e4tigen Sie deshalb Ihre Karte erneut in unserem Gestaltungstool.<br\/>Vielen Dank.","If you want to remove the tag, it will no longer be part of your card. Please check and confirm your card again in our design tool.":"Wenn Sie den Anh\u00e4nger entfernen m\u00f6chten, wird er nicht mehr Bestandteil<br\/>Ihrer Karte sein. Bitte pr\u00fcfen und best\u00e4tigen Sie deshalb Ihre Karte erneut<br\/>in unserem Gestaltungstool.","Reject change":"\u00c4nderung verwerfen","Removing the finishing &quot;%s&quot; can change the colors of the card<br\/>. Please check and confirm once again why the card in our <br\/> design tool. Thank you very much":"Bei Entfernen der Veredelung &quot;%s&quot; k\u00f6nnen sich die Farben der Karte<br\/>\u00e4ndern. Bitte pr\u00fcfen und best\u00e4tigen Sie deshalb erneut die Karte in unserem<br\/>Gestaltungstool. Vielen Dank","The refinement &quot;partial lacquer&quot; available currently only for our paper <br\/> &quot;Matt Feinstpapier&quot; offer":"Die Veredelung &quot;partieller Lack&quot; k\u00f6nnen wir Ihnen aktuell nur f\u00fcr unsere Papiersorte<br\/>&quot;mattes Feinstpapier&quot; anbieten","The refinement &quot;partial lacquer&quot; available currently only for our paper <br\/> &quot;Matt Feinstpapier&quot; offer. Adding the finishing &quot;partial lacquer&quot; can change <br\/> the colors of the card. Please check and confirm therefore <br\/> again the card in our design tool. Thank you very much":"Die Veredelung &quot;partieller Lack&quot; k\u00f6nnen wir Ihnen aktuell nur f\u00fcr unsere Papiersorte<br\/>&quot;mattes Feinstpapier&quot; anbieten. Bei Hinzuf\u00fcgen der Veredelung &quot;partieller Lack&quot;<br\/>k\u00f6nnen sich die Farben der Karte \u00e4ndern. Bitte pr\u00fcfen und best\u00e4tigen Sie deshalb<br\/>erneut die Karte in unserem Gestaltungstool. Vielen Dank","The refinement &quot;partial lacquer&quot; available currently only for our paper <br\/> &quot;Matt Feinstpapier&quot; offer. Removing the finishing &quot;partial lacquer&quot; can change <br\/> the colors of the card. Please check and confirm therefore <br\/> again the card in our design tool. Thank you very much":"Die Veredelung &quot;partieller Lack&quot; k\u00f6nnen wir Ihnen aktuell nur f\u00fcr unsere Papiersorte<br\/>&quot;mattes Feinstpapier&quot; anbieten. Bei Entfernen der Veredelung &quot;partieller Lack&quot;<br\/>k\u00f6nnen sich die Farben der Karte \u00e4ndern. Bitte pr\u00fcfen und best\u00e4tigen Sie deshalb<br\/>erneut die Karte in unserem Gestaltungstool. Vielen Dank","Please note that you have to enter the street and street number in separate fields.":"Bitte beachten Sie: Stra\u00dfe und Hausnummer m\u00fcssen als getrennte Felder eingegeben werden.","Please note: you are using an address with a German Packstation which can be edited only on the German website. If you have any questions please contact our support.":"Bitte beachten Sie: hierbei handelt es sich um eine Adresse mit einer deutschen Packstation. Diese Adresse kann nur auf der deutschen Webseite bearbeitet werden. Bei Fragen wenden Sie sich bitte an unseren Service.","Please enter a correct zip code.":"Bitte geben Sie eine korrekte Postleitzahl ein.","Please enter a valid phone number containing only numbers (0-9), \"-\", \"\/\", \"(\", \")\" and spaces. For example (123) 456-7890 or 123-456-7890.":"Bitte geben Sie eine g\u00fcltige Telefonnummer ein.","The printing option &quot;high quality&quot; is currently only availably for a selected number<br\/>of papers like &quot;Mattes Feinstpapier&quot;.":"The printing option &quot;high quality&quot; is currently only availably for a selected number<br\/>of papers like &quot;Mattes Feinstpapier&quot;.","No change":"Keine \u00c4nderung","Accept change":"\u00c4nderung \u00fcbernehmen","Apply Filters":"Filter anwenden","The shipping method for free sample shipping will not be available if you order more than one wooden block. If you have different sample cards you can also choose to order only one wooden block in total.":"Wenn Sie von dem Holzfu\u00df mehr als 1 St\u00fcck bestellen, ver\u00e4ndert sich die Versandart von kostenlosem Musterversand zu Standardversand. Falls Sie verschiedene Kartendesigns als Muster gew\u00e4hlt haben, k\u00f6nnen Sie optional nur einen Holzfu\u00df dazubestellen.","Change shopping cart":"Warenkorb bearbeiten","Continue with standard shipping":"Mit Standardversand bestellen","This card has already been ordered and cannot be ordered again. Please restart our design tool or reorder the card in your customer account.":"Diese Karte wurde bereits bestellt und kann nicht mehr bearbeitet werden. Bitte starten Sie eine neue Kartengestaltung oder bestellen Sie die Karte im Kundenkonto nach.","Undo changes":"\u00c4nderungen r\u00fcckg\u00e4ngig","Check and Confirm":"Pr\u00fcfen und best\u00e4tigen","An error has occurred. Please try again later.":"Es ist ein Fehler aufgetreten. Bitte versuchen Sie es sp\u00e4ter erneut.","To Cart":"Zum Warenkorb"});
+
+removeCartItemCallback = null;
+jQuery(document).ready(function(){
+    jQuery('#refreshListDialog').overlay({
+        top: 'center',
+        speed: 0,
+        closeOnClick: false
+    });
+        
+    jQuery('#messageOverlay').overlay({
+        top: 'center',
+        speed: 0,
+        mask: {
+            color: '#000000',
+            opacity: 0.3,
+            loadSpeed: 0,
+            closeSpeed: 0 // this is needed so that we can open a second overlay right after the first
+        },
+        onBeforeClose: function(event){
+            // show scrollbars again
+            jQuery('body').css('overflow', 'visible');
+        }
+    });
+});
+function addItemToWishlist(productId, element)
+{
+    jQuery('#refreshListDialog').overlay().load();
+    var overlay = element.parents('.cat_overlay').first();
+    
+    jQuery.ajax({
+        cache: false,
+        url: '/ajaxwishlist/ajax/add/',
+        type: 'POST',
+        data: {
+            product: productId,
+            color: colorId,
+            format: formatId,
+            paper: paperId,
+            quantity: quantity,
+            lacquer: lacquer,
+            diecut: diecut,
+            woodenBlock: woodenBlockId,
+            printingQuality: printingQualityId,
+            woodenFrame: woodenFrameId,
+            doorFrame: doorFrameId
+        },
+        dataType: 'json',
+        success: function(data){
+            if ((typeof data !== 'object') || data.error) {
+                //alert('Es ist ein Fehler beim Hinzufügen auf den Merkzettel aufgetreten.');
+                showWishlistResponse('add_error');
+                jQuery('#refreshListDialog').overlay().close();
+            }
+            else {
+                var code = data.code;
+                showWishlistResponse('add_'+code);
+                updateWishlistAndCartCount(data.count, -1);
+            }
+            jQuery('#refreshListDialog').overlay().close();
+        },
+        error: function(){
+            showWishlistResponse('add_error');
+            jQuery('#refreshListDialog').overlay().close();
+        }
+    });
+
+    return false;
+}
+
+function confirmRemoveWishlistItem(itemId, showResponseDialog)
+{
+    if (typeof showResponseDialog == 'undefined') {
+        showResponseDialog = true;
+    }
+    var text = '<div>Sind Sie sicher, dass Sie dieses Produkt von Ihrem Merkzettel entfernen wollen?</div>'+
+               '<button type="button" class="default-btn button2" style="margin-right:20px;" onclick="return removeWishlistItem('+itemId+','+showResponseDialog+');"><img src="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/images/opc-ajax-loader.gif" style="display:none;" id="message_overlay_button_indicator"/> Ja</button>'+
+               '<button type="button" class="default-btn button4" onclick="return closeMessageOverlay();">Nein</button>';
+    hostReachable(function (data) {
+        if (data.error) {
+            showMessageOverlay('heart-wishlist.svg', text, false, 'update_error');
+        } else {
+            showMessageOverlay('heart-wishlist.svg', text);
+        }
+    }, function () {
+        showMessageOverlay('heart-wishlist.svg', text, false, 'update_error');
+    });
+    return false;
+}
+
+function removeWishlistItem(itemId, showResponseDialog)
+{
+    var buttonObj = jQuery('#message_overlay_button_indicator').parents('button');
+    if (buttonObj.hasClass('disabled')) {
+        return;
+    }
+    buttonObj.addClass('disabled');
+
+    jQuery('#message_overlay_button_indicator').show();
+    jQuery.ajax({
+        cache: false,
+        url: '/ajaxwishlist/ajax/remove/',
+        type: 'POST',
+        data: {
+            item: itemId
+        },
+        dataType: 'json',
+        success: function(data){
+            if ((typeof data !== 'object') || data.error) {
+                showWishlistResponse('update_error');
+            }
+            else {
+                var code = data.code;
+                if (showResponseDialog) {
+                    showWishlistResponse('remove_'+code);
+                }
+                else {
+                    //closeMessageOverlay();
+                    window.location.reload();
+                }
+                updateWishlistAndCartCount(data.wishlistCount, data.cartCount);
+                jQuery('#head_overlay_wishlist_item_' + itemId).remove();
+                jQuery('#wishlist_item_' + itemId).remove();
+            }
+        },
+        error: function(){
+            showWishlistResponse('update_error');
+        }
+    });
+
+    return false;
+}
+
+function confirmRemoveCartItem(itemId, showResponseDialog, callback)
+{
+    if (typeof showResponseDialog == 'undefined') {
+        showResponseDialog = true;
+    }
+    if (typeof callback == 'undefined') {
+        callback = null;
+    }
+    removeCartItemCallback = callback;
+    var text = '<div>Soll dieser Artikel wirklich aus Ihrem Warenkorb entfernt werden?</div>'+
+               '<button type="button" class="default-btn button2" style="margin-right:20px;" onclick="return removeCartItem('+itemId+','+showResponseDialog+');"><img src="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/images/opc-ajax-loader.gif" style="display:none;" id="message_overlay_button_indicator"/> Ja</button>'+
+               '<button type="button" class="default-btn button4" onclick="return closeMessageOverlay();">Nein</button>';
+    hostReachable(function (data) {
+        if (data.error) {
+            showMessageOverlay('cart.svg', text, false, 'update_error');
+        } else {
+            showMessageOverlay('cart.svg', text);
+        }
+    }, function () {
+        showMessageOverlay('cart.svg', text, false, 'update_error');
+    });
+    return false;
+}
+
+function removeCartItem(itemId, showResponseDialog)
+{
+    var buttonObj = jQuery('#message_overlay_button_indicator').parents('button');
+    if (buttonObj.hasClass('disabled')) {
+        return;
+    }
+    buttonObj.addClass('disabled');
+
+    jQuery('#message_overlay_button_indicator').show();
+    jQuery.ajax({
+        cache: false,
+        url: '/customcheckout/ajax/remove/',
+        type: 'POST',
+        data: {
+            id: itemId
+        },
+        dataType: 'json',
+        success: function(data){
+            if ((typeof data !== 'object') || data.error) {
+                showCartResponse('update_error');
+            }
+            else {
+                var code = data.code;
+                if (showResponseDialog) {
+                    showCartResponse('remove_'+code);
+                }
+                updateWishlistAndCartCount(data.wishlistCount, data.cartCount);
+                jQuery('#head_overlay_shopping_cart_item_' + itemId).remove();
+                jQuery('#shopping_cart_item_' + itemId).remove();
+                jQuery('#shopping-cart-totals-table').html(data.totals);
+                if (removeCartItemCallback != null) {
+                    window['removeCartItemCallback']();
+                }
+                else if (!showResponseDialog) {
+                    closeMessageOverlay();
+                }
+            }
+        },
+        error: function(){
+            showCartResponse('update_error');
+        }
+    });
+
+    return false;
+}
+
+function updateWishlistAndCartCount(wishlistCount, cartCount)
+{
+    if (wishlistCount >= 0) {
+        if (wishlistCount == 0) {
+            wishlistCount = '';
+        }
+        // update wishlist count in filter
+        jQuery('#filterWishlist').html(wishlistCount);
+        // update wishlist count in header
+        jQuery('#headerWishlist').html(wishlistCount);
+        // update wishlist count in fury header
+        jQuery('#header-wishlist-total').html(wishlistCount);
+    }
+    if (cartCount >= 0) {
+        if (cartCount == 0) {
+            cartCount = '';
+        }
+        // update cart count in filter
+        jQuery('#filterCart').html(cartCount);
+        // update cart count in header
+        jQuery('#headerCart').html(cartCount);
+        // update cart count in fury header
+        jQuery('#header-cart-total').html(cartCount);
+    }
+}
+
+function showWishlistResponse(code, text)
+{
+    if (typeof text == 'undefined') {
+        text = '';
+    }
+    switch (code) {
+        case 'add_ok':
+            text = '<div class="highlight">Ihre Karte wurde auf dem Merkzettel gespeichert.</div>'+
+                   '<button type="button" class="default-btn" style="margin-right:20px;" onclick="return closeMessageOverlay();">Bearbeiten fortsetzen</button>'+
+                   '<button type="button" class="default-btn" onclick="setLocation(\'https://www.kartenmacherei.de/wishlist/\'); return false;">Zum Merkzettel</button>';
+            break;
+        case 'added_to_wishlist_ok':
+            text = '<div class="highlight">Ihre Karte wurde auf dem Merkzettel gespeichert.</div>'+
+                '<button type="button" class="default-btn" style="margin-right:20px;" onclick="return closeMessageOverlay();">Bearbeiten fortsetzen</button>'+
+                '<button type="button" class="default-btn" onclick="setLocation(\'https://www.kartenmacherei.de/wishlist/\'); return false;">Zum Merkzettel</button>';
+            break;
+        case 'add_ok_session':
+            text = '<div style="padding-bottom:5px;">Um eine Karte auf dem Merkzettel zu speichern, müssen Sie sich in Ihr Kundenkonto einloggen bzw. ein neues Kundenkonto unverbindlich eröffnen.</div>';
+            showLoginDialog(text);
+            return;
+        case 'add_error':
+            text = 'Es ist ein Fehler beim Hinzufügen auf den Merkzettel aufgetreten.';
+            break;
+        case 'login_ok':
+        case 'login_already_logged_in':
+            text = '<div class="highlight">Ihre Karte wurde auf dem Merkzettel gespeichert</div>'+
+                   '<button type="button" class="default-btn" style="margin-right:20px;" onclick="return closeMessageOverlay();">Bearbeiten fortsetzen</button>'+
+                   '<button type="button" class="default-btn" onclick="setLocation(\'https://www.kartenmacherei.de/wishlist/\'); return false;">Zum Merkzettel</button>';
+            break;
+        case 'login_error':
+            if (text == '') {
+                text = 'Es ist ein Fehler beim Login aufgetreten.';
+            }
+            text = '<div class="highlight">Sie konnten nicht eingeloggt werden.</div>'+
+                   '<div>' + text + '</div>'+
+                   '<button type="button" class="default-btn" onclick="showLoginDialog(); return false;">Zurück</button>';
+            break;
+        case 'register_ok':
+            text = '<div class="highlight">Vielen Dank für Ihre Anmeldung.</div>'+
+                   '<div>Wir wünschen Ihnen viel Freude beim Einkaufen.</div>'+
+                   '<button type="button" class="default-btn" style="margin-right:20px;" onclick="return closeMessageOverlay();">Weiter einkaufen</button>'+
+                   '<button type="button" class="default-btn" onclick="setLocation(\'https://www.kartenmacherei.de/wishlist/\'); return false;">Zum Merkzettel</button>';
+            break;
+        case 'register_error':
+            if (text == '') {
+                text = 'Es ist ein Fehler beim Hinzufügen auf den Merkzettel aufgetreten.';
+            }
+            text = '<div class="highlight">Bei Ihrer Anmeldung ist ein Fehler aufgetreten.</div>'+
+                   '<div>' + text + '</div>'+
+                   '<button type="button" class="default-btn" onclick="showLoginDialog(); return false;">Zurück</button>';
+            break;
+        case 'remove_ok':
+            text = '<div class="highlight">Das Produkt wurde von Ihrem Merkzettel entfernt.</div>'+
+                   '<button type="button" class="default-btn" style="margin-right:20px;" onclick="return closeMessageOverlay();">Weiter einkaufen</button>'+
+                   '<button type="button" class="default-btn" onclick="setLocation(\'https://www.kartenmacherei.de/wishlist/\'); return false;">Zum Merkzettel</button>';
+            break;
+        default:
+            text = '<div>Ein Fehler ist aufgetreten.</div>'+
+                   '<button type="button" class="default-btn" onclick="return closeMessageOverlay();">Ok</button>';
+    }
+    showMessageOverlay('heart.png', text, false, code);
+}
+
+function showCartResponse(code, text)
+{
+    if (typeof text == 'undefined') {
+        text = '';
+    }
+    switch (code) {
+        case 'remove_ok':
+            text = '<div class="highlight">Das Produkt wurde aus Ihrem Warenkorb entfernt.</div>'+
+                   '<button type="button" class="default-btn" style="margin-right:20px;" onclick="return closeMessageOverlay();">Weiter einkaufen</button>'+
+                   '<button type="button" class="default-btn" onclick="setLocation(\'https://www.kartenmacherei.de/checkout/cart/\'); return false;">Zum Warenkorb</button>';
+            break;
+        default:
+            text = '<div>Ein Fehler ist aufgetreten.</div>'+
+                   '<button type="button" class="default-btn" onclick="return closeMessageOverlay();">Ok</button>';
+    }
+    showMessageOverlay('cart.png', text, false, code);
+}
+
+function showLoginDialog(textOnSuccess)
+{
+    var text = '<div><img src="/skin/frontend/default/Kam_fury/images/opc-ajax-loader_big.gif" width="35" height="35"/></div>';
+    showMessageOverlay('heart.png', text);
+
+    jQuery.ajax({
+        cache: false,
+        url: '/ajaxwishlist/ajax/getLoginDialog/',
+        type: 'GET',
+        dataType: 'html',
+        success: function(data){
+            if (typeof textOnSuccess != 'undefined') {
+                data = textOnSuccess + data;
+            }
+            showMessageOverlay('heart.png', data, true);
+        },
+        error: function(){
+            showMessageOverlay('heart.png', 'Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.');
+        }
+    });
+}
+
+jQuery.fn.centerVertical = function(parent)
+{
+    if (this.css('position') == 'absolute') {
+        if (parent) {
+            parent = this.parent();
+        }
+        else {
+            parent = window;
+        }
+        this.css('top', Math.max(0, ((jQuery(parent).height() - this.outerHeight()) / 2) + jQuery(parent).scrollTop()) + 'px');
+        //this.css('left', Math.max(0, ((jQuery(parent).width() - this.outerWidth()) / 2) + jQuery(parent).scrollLeft()) + 'px');
+    }
+    else if (this.css('position') == 'fixed') {
+        this.css('top', Math.max(0, (jQuery(window).height() - this.outerHeight()) / 2) + 'px');
+    }
+    return this;
+}
+
+function showMessageOverlay(icon, message, centerVertical, code)
+{
+        if (typeof code !== 'undefined') {
+        jQuery('#messageOverlay').attr('rel', code);
+    } else {
+        jQuery('#messageOverlay').removeAttr('rel');
+    }
+    jQuery('#messageOverlay').css('position', 'absolute');
+    jQuery('body').css('overflow', 'hidden');
+    jQuery('#messageOverlay .messageOverlayText').html(message);
+    jQuery('#messageOverlay .messageOverlayIcon').css('background-image', 'url(/skin/frontend/default/Kam_fury/imgs/message_overlay/'+icon+')');
+    if (!jQuery('#messageOverlay').overlay().isOpened()) {
+       jQuery('#messageOverlay').overlay({ 'fixed' : false }).load();
+    }
+    else if (centerVertical) {
+        jQuery('#messageOverlay').centerVertical();
+    }
+}
+
+function closeMessageOverlay()
+{
+    jQuery('body').css('overflow', 'visible');
+    jQuery('#messageOverlay').overlay().close();
+    return false;
+}
+
+function selectPrintingQualityAndPaper(caller, newPaperId)
+{
+    // printing quality should be selected and paper is in conflict
+    if (caller == 'printingQuality') {
+        var paperId = jQuery('.inputPaperStyle option[data-sku="P01"]').val();
+        jQuery('.inputPaperStyle').val(paperId);
+        jQuery('.inputPaperStyle').change();
+        jQuery('.sbSelectorPaper').html(jQuery(".sbOptionsPaper li a[rel='"+paperId+"']").html());
+
+        selectedPrintingQualityOption('PQ01');
+    }
+    // paper should be changed and printing quality is in conflict
+    else if (caller == 'paper') {
+        selectedPrintingQualityOption('PQ00');
+
+        jQuery('.inputPaperStyle').val(newPaperId);
+        jQuery('.inputPaperStyle').change();
+        jQuery('.sbSelectorPaper').html(jQuery(".sbOptionsPaper li a[rel='"+newPaperId+"']").html());
+    }
+
+    return closeMessageOverlay();
+}
+
+function showPrintingQualityDialog(caller, newPaperId)
+{
+    var text = '<div>The printing option &quot;high quality&quot; is currently only availably for a selected number<br/>of papers like &quot;Mattes Feinstpapier&quot;.</div>'+
+        '<button type="button" class="default-btn" style="margin-right:20px;" onclick="return closeMessageOverlay();">Keine Änderung</button>'+
+        '<button type="button" class="button button4" onclick="return selectPrintingQualityAndPaper(\''+caller+'\', \''+newPaperId+'\');">Änderung übernehmen</button>';
+    showMessageOverlay('lacquer.svg', text);
+}
+
+function selectLacquerAndPaperCheckout(cartItemId, newLacquerSku)
+{
+    if (useJSConfiFor('cart', cartItemId, newLacquerSku)) {
+        return selectLacquerAndPaperCheckoutJS(cartItemId, newLacquerSku);
+    }
+    var color = jQuery('.super-attribute-select-cardcolor[rel="'+cartItemId+'"]').val();
+    var format = jQuery('.super-attribute-select-cardformat[rel="'+cartItemId+'"]').val();
+    var paper = jQuery('.inputPaperStyle[rel="'+cartItemId+'"] option:selected').attr('value');
+    var quantity = jQuery('.qty[rel="'+cartItemId+'"]').val();
+    var cID = jQuery('.inputConfigurationId[rel="'+cartItemId+'"]').val();
+        var selectedUserId = 0;
+    var mode = 'view';
+    var callbackURL = 'https://www.kartenmacherei.de/amfGateway/';
+    var selectedProductId;
+    if (typeof selectedCartProductId != 'undefined') {
+        selectedProductId = selectedCartProductId[cartItemId];
+    }
+    else {
+        selectedProductId = jQuery('.inputProductId[rel="'+cartItemId+'"]').val();
+    }
+    var diecutOption = jQuery('.inputDiecutOption[rel="'+cartItemId+'"] option:selected');
+    var diecutId = ((diecutOption.length == 1) ? diecutOption.attr('value') : 0);
+    var diecutSku = ((diecutOption.length == 1) ? diecutOption.attr('rel') : '');
+    var tagSku = '';
+    if (typeof cartTagSku != 'undefined') {
+        tagSku = cartTagSku[cartItemId];
+    }
+
+    closeMessageOverlay();
+    setVariablesForConfigurator(color, format, paper, quantity, cID, selectedUserId, mode, callbackURL, selectedProductId, newLacquerSku, diecutId, diecutSku, '', tagSku);
+    return false;
+}
+
+function selectLacquerAndPaperCheckoutJS(cartItemId, newLacquerSku)
+{
+    var color = jQuery('.super-attribute-select-cardcolor[rel="'+cartItemId+'"]').val();
+    var format = jQuery('.super-attribute-select-cardformat[rel="'+cartItemId+'"]').val();
+    var paper = jQuery('.inputPaperStyle[rel="'+cartItemId+'"] option:selected').attr('value');
+    var quantity = jQuery('.qty[rel="'+cartItemId+'"]').val();
+    var cID = jQuery('.inputConfigurationId[rel="'+cartItemId+'"]').val();
+    var productId;
+    if (typeof selectedCartProductId != 'undefined') {
+        productId = selectedCartProductId[cartItemId];
+    }
+    else {
+        productId = jQuery('.inputProductId[rel="'+cartItemId+'"]').val();
+    }
+    var lacquerSku = newLacquerSku;
+    var diecutOption = jQuery('.inputDiecutOption[rel="'+cartItemId+'"] option:selected');
+    var diecutId = ((diecutOption.length == 1) ? diecutOption.attr('value') : 0);
+    var diecutSku = ((diecutOption.length == 1) ? diecutOption.attr('rel') : '');
+    var tagSku = '';
+    if (typeof cartTagSku != 'undefined') {
+        tagSku = cartTagSku[cartItemId];
+    }
+
+    var colorSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('colorSku');
+    var formatSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('formatSku');
+    var productSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('productSku');
+
+    //closeMessageOverlay();
+    var params = {
+        'color' :         color,
+        'format' :        format,
+        'colorSku' :      colorSku,
+        'formatSku':      formatSku,
+        'paper' :         paper,
+        'quantity' :      quantity,
+        'cID' :           cID,
+        'productId':      productId,
+        'productSku' :    productSku ,
+        'lacquerSku':     lacquerSku,
+        'isLacSelected' : 0,
+        'diecutId' :      diecutId,
+        'diecutSku' :     diecutSku,
+        'tagSku' :        tagSku,
+        'view' :          'cart',
+        'locale' :        SHOP_LOCALE,
+        'quote_item_id':  cartItemId
+    }
+    var hash = selectedCartHash[cartItemId];
+    openJsConfigurator(params, hash);
+
+    return false;
+}
+
+function showLacquerDialogCheckout(cartItemId, oldLacquerSku, newLacquerSku)
+{
+    var oldLacquerTitle = jQuery('#shopping_cart_item_'+cartItemId+' input[data-sku="'+oldLacquerSku+'"]').data('title');
+    var newLacquerTitle = jQuery('#shopping_cart_item_'+cartItemId+' input[data-sku="'+newLacquerSku+'"]').data('title');
+
+    var text;
+    if (newLacquerSku) {
+        text = '<div>' + Translator.translate('If you select the finishing &quot;%s&quot; the colors of the card can be changed <br/>. Please check and confirm once again why the card in our <br/> design tool. Thank you very much', newLacquerTitle) + '</div>';
+    } else {
+        text = '<div>' + Translator.translate('Removing the finishing &quot;%s&quot; can change the colors of the card<br/>. Please check and confirm once again why the card in our <br/> design tool. Thank you very much', oldLacquerTitle) + '</div>';
+    }
+    text = text + '<button type="button" class="button button2" style="margin-right:20px;" onclick="return closeMessageOverlay();">Änderung verwerfen</button>'+
+        '<button type="button" class="button button4" onclick="return selectLacquerAndPaperCheckout('+cartItemId+', \''+newLacquerSku+'\');">Auswahl ändern und prüfen</button>';
+    hostReachable(function (data) {
+        if (data.error) {
+            showMessageOverlay('' + newLacquerSku + '.svg', text, false, 'update_error');
+        } else {
+            showMessageOverlay('' + newLacquerSku + '.svg', text);
+        }
+    }, function () {
+        showMessageOverlay('' + newLacquerSku + '.svg', text, false, 'update_error');
+    });
+}
+
+function selectDiecutCheckout(cartItemId, diecutId, diecutLabel)
+{
+    if (useJSConfiFor('cart', cartItemId)) {
+        return selectDiecutCheckoutJS(cartItemId, diecutId, diecutLabel);
+    }
+    var color = jQuery('.super-attribute-select-cardcolor[rel="'+cartItemId+'"]').val();
+    var format = jQuery('.super-attribute-select-cardformat[rel="'+cartItemId+'"]').val();
+    var paper;
+    if (typeof selectedCartPaperId != 'undefined') {
+        paper = selectedCartPaperId[cartItemId];
+    }
+    else {
+        paper = jQuery('.inputPaperOption[rel="'+cartItemId+'"]').val();
+    }
+    var quantity = jQuery('.qty[rel="'+cartItemId+'"]').val();
+    var cID = jQuery('.inputConfigurationId[rel="'+cartItemId+'"]').val();
+        var selectedUserId = 0;
+    var mode = 'view';
+    var callbackURL = 'https://www.kartenmacherei.de/amfGateway/';
+    var selectedProductId;
+    if (typeof selectedCartProductId != 'undefined') {
+        selectedProductId = selectedCartProductId[cartItemId];
+    }
+    else {
+        selectedProductId = jQuery('.inputProductId[rel="'+cartItemId+'"]').val();
+    }
+    var lacquerId;
+    if (typeof selectedCartLacquerId != 'undefined') {
+        lacquerId = selectedCartLacquerId[cartItemId];
+    }
+    else {
+        lacquerId = jQuery('.inputFinishingOption[rel="'+cartItemId+'"]').val();
+    }
+    var lacquerSku = jQuery('.inputFinishingOption[rel="'+cartItemId+'"] option[value="'+lacquerId+'"]').attr('rel');
+    var tagSku = '';
+    if (typeof cartTagSku != 'undefined') {
+        tagSku = cartTagSku[cartItemId];
+    }
+
+    closeMessageOverlay();
+    setVariablesForConfigurator(color, format, paper, quantity, cID, selectedUserId, mode, callbackURL, selectedProductId, lacquerSku, diecutId, diecutLabel, '', tagSku);
+    return false;
+}
+
+function selectDiecutCheckoutJS(cartItemId, diecutId, diecutSku)
+{
+    var color = jQuery('.super-attribute-select-cardcolor[rel="'+cartItemId+'"]').val();
+    var format = jQuery('.super-attribute-select-cardformat[rel="'+cartItemId+'"]').val();
+    var paper;
+    if (typeof selectedCartPaperId != 'undefined') {
+        paper = selectedCartPaperId[cartItemId];
+    } else {
+        paper = jQuery('.inputPaperOption[rel="'+cartItemId+'"]').val();
+    }
+    var quantity = jQuery('.qty[rel="'+cartItemId+'"]').val();
+    var cID = jQuery('.inputConfigurationId[rel="'+cartItemId+'"]').val();
+
+    var productId;
+    if (typeof selectedCartProductId != 'undefined') {
+        productId = selectedCartProductId[cartItemId];
+    } else {
+        productId = jQuery('.inputProductId[rel="'+cartItemId+'"]').val();
+    }
+    var lacquerId;
+    if (typeof selectedCartLacquerId != 'undefined' && typeof selectedCartLacquerId[cartItemId] != 'undefined') {
+        lacquerId = selectedCartLacquerId[cartItemId];
+    }
+    else {
+        lacquerId = jQuery('.inputFinishingOption[rel="'+cartItemId+'"]').val();
+    }
+    var lacquerSku = jQuery('.inputFinishingOption[rel="'+cartItemId+'"] option[value="'+lacquerId+'"]').attr('rel');
+    var tagSku = '';
+    if (typeof cartTagSku != 'undefined') {
+        tagSku = cartTagSku[cartItemId];
+    }
+
+    colorSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('colorSku');
+    formatSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('formatSku');
+    productSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('productSku');
+
+    //closeMessageOverlay();
+    var params = {
+        'color' :         color,
+        'format' :        format,
+        'colorSku' :      colorSku,
+        'formatSku':      formatSku,
+        'paper' :         paper,
+        'quantity' :      quantity,
+        'cID' :           cID,
+        'productId':      productId,
+        'productSku' :    productSku ,
+        'lacquerSku':     lacquerSku,
+        'isLacSelected' : 0,
+        'diecutId' :      diecutId,
+        'diecutSku' :     diecutSku,
+        'tagSku' :        tagSku,
+        'view' :          'cart',
+        'locale' :        SHOP_LOCALE,
+        'quote_item_id':  cartItemId
+    }
+    var hash = selectedCartHash[cartItemId];
+    openJsConfigurator(params, hash);
+
+    return false;
+}
+
+function showDiecutDialogCheckout(cartItemId, diecutId, diecutLabel)
+{
+    var text;
+    if (diecutLabel == 'D50') {
+        text = '<div>Wenn Sie den Anhänger entfernen möchten, wird er nicht mehr Bestandteil<br/>Ihrer Karte sein. Bitte prüfen und bestätigen Sie deshalb Ihre Karte erneut<br/>in unserem Gestaltungstool.</div>';
+    }
+    else if (diecutLabel == 'D53') {
+        text = '<div>Wenn Sie einen Anhänger zu Ihrer Karte hinzufügen möchte, müssen Sie diesen<br/>bitte in unserem Gestaltungstool anpassen.</div>';
+    }
+    else {
+        text = '<div>Wenn Sie die Stanzung ändern möchten, ändert sich die Vorschau Ihrer Karte.<br/>Bitte prüfen und bestätigen Sie deshalb Ihre Karte erneut in unserem Gestaltungstool.<br/>Vielen Dank.</div>';
+    }
+    text += '<button type="button" class="button button2" style="margin-right:20px;" onclick="return closeMessageOverlay();">Änderung verwerfen</button>'+
+        '<button type="button" class="button button4" onclick="return selectDiecutCheckout('+cartItemId+', \''+diecutId+'\', \''+diecutLabel+'\');">Auswahl ändern und prüfen</button>';
+
+    var icon;
+    if (diecutLabel == '') {
+        icon = 'diecut_D01'+'.svg';
+    }
+    else {
+        icon = 'diecut_'+diecutLabel+'.svg';
+    }
+    hostReachable(function (data) {
+        if (data.error) {
+            showMessageOverlay(icon, text, false, 'update_error');
+        } else {
+            showMessageOverlay(icon, text);
+        }
+    }, function () {
+        showMessageOverlay(icon, text, false, 'update_error');
+    });
+}
+
+function selectQuantityCheckout(cartItemId, quantity)
+{
+    if (useJSConfiFor('cart', cartItemId)) {
+        return selectQuantityCheckoutJS(cartItemId, quantity);
+    }
+
+    var color = jQuery('.super-attribute-select-cardcolor[rel="'+cartItemId+'"]').val();
+    var format = jQuery('.super-attribute-select-cardformat[rel="'+cartItemId+'"]').val();
+    var paper = selectedCartPaperId[cartItemId];
+    var cID = jQuery('.inputConfigurationId[rel="'+cartItemId+'"]').val();
+        var selectedUserId = 0;
+    var mode = 'view';
+    var callbackURL = 'https://www.kartenmacherei.de/amfGateway/';
+    var selectedProductId = selectedCartProductId[cartItemId];
+    var lacquerId;
+    if (typeof selectedCartLacquerId != 'undefined') {
+        lacquerId = selectedCartLacquerId[cartItemId];
+    }
+    else {
+        lacquerId = jQuery('.inputFinishingOption[rel="'+cartItemId+'"]').val();
+    }
+    var lacquerSku = jQuery('.inputFinishingOption[rel="'+cartItemId+'"] option[value="'+lacquerId+'"]').attr('rel');
+    var diecutOption = jQuery('.inputDiecutOption[rel="'+cartItemId+'"] option:selected');
+    var diecutId = diecutOption.attr('value');
+    var diecutSku = diecutOption.attr('rel');
+    var tagSku = '';
+    if (typeof cartTagSku != 'undefined') {
+        tagSku = cartTagSku[cartItemId];
+    }
+
+    closeMessageOverlay();
+    setVariablesForConfigurator(color, format, paper, quantity, cID, selectedUserId, mode, callbackURL, selectedProductId, lacquerSku, diecutId, diecutSku, '', tagSku);
+    return false;
+}
+
+function selectQuantityCheckoutJS(cartItemId, quantity)
+{
+    var color = jQuery('.super-attribute-select-cardcolor[rel="'+cartItemId+'"]').val();
+    var format = jQuery('.super-attribute-select-cardformat[rel="'+cartItemId+'"]').val();
+    var paper;
+    if (typeof selectedCartPaperId != 'undefined') {
+        paper = selectedCartPaperId[cartItemId];
+    } else {
+        paper = jQuery('.inputPaperOption[rel="'+cartItemId+'"]').val();
+    }
+    var cID = jQuery('.inputConfigurationId[rel="'+cartItemId+'"]').val();
+    var selectedProductId;
+    if (typeof selectedCartProductId != 'undefined') {
+        productId = selectedCartProductId[cartItemId];
+    } else {
+        productId = jQuery('.inputProductId[rel="'+cartItemId+'"]').val();
+    }
+    var lacquerId;
+    if (typeof selectedCartLacquerId != 'undefined') {
+        lacquerId = selectedCartLacquerId[cartItemId];
+    }
+    else {
+        lacquerId = jQuery('.inputFinishingOption[rel="'+cartItemId+'"]').val();
+    }
+    var lacquerSku = jQuery('.inputFinishingOption[rel="'+cartItemId+'"] option[value="'+lacquerId+'"]').attr('rel');
+    var diecutOption = jQuery('.inputDiecutOption[rel="'+cartItemId+'"] option:selected');
+    var diecutId = diecutOption.attr('value');
+    var diecutSku = diecutOption.attr('rel');
+    var tagSku = '';
+    if (typeof cartTagSku != 'undefined') {
+        tagSku = cartTagSku[cartItemId];
+    }
+
+    colorSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('colorSku');
+    formatSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('formatSku');
+    productSku = jQuery('#shopping_cart_item_' + cartItemId + ' .actions').data('productSku');
+
+    //closeMessageOverlay();
+    var params = {
+        'color' :         color,
+        'format' :        format,
+        'colorSku' :      colorSku,
+        'formatSku':      formatSku,
+        'paper' :         paper,
+        'quantity' :      quantity,
+        'cID' :           cID,
+        'productId':      productId,
+        'productSku' :    productSku ,
+        'lacquerSku':     lacquerSku,
+        'isLacSelected' : 0,
+        'diecutId' :      diecutId,
+        'diecutSku' :     diecutSku,
+        'tagSku' :        tagSku,
+        'view' :          'cart',
+        'locale' :        SHOP_LOCALE,
+        'quote_item_id':  cartItemId
+    }
+    var hash = selectedCartHash[cartItemId];
+    openJsConfigurator(params, hash);
+
+    return false;
+}
+
+function showQuantityDialogCheckout(cartItemId, quantity)
+{
+    var text = '<div class="message-holder">Wenn Sie die Bestellmenge ändern, verändert sich auch die Anzahl der Namen bzw. Adressen die Sie in unserem Gestaltungstool eingeben können. Bitte prüfen<br/>und bestätigen Sie deshalb Ihre Eingabe erneut in unserem Gestaltungstool.<br/>Vielen Dank.</div>'+
+        '<button type="button" class="button button2" style="margin-right:20px;" onclick="return closeMessageOverlay();">Änderung verwerfen</button>'+
+        '<button type="button" class="button button4" onclick="return selectQuantityCheckout('+cartItemId+', '+quantity+');">Auswahl ändern und prüfen</button>';
+
+    var icon = 'cart.svg';
+    showMessageOverlay(icon, text);
+}
+
+function showElefundsDescription()
+{
+    var text = '<div>Dank unserer Kooperation mit elefunds, spenden Sie einen beliebigen Betrag an<br>die Hilfsorganisation Ihrer Wahl. Nach Eingang Ihrer Zahlung reichen wir die Spenden<br>direkt an elefunds weiter. Elefunds verwaltet diese Spendengelder treuhänderisch,<br>bis die jeweilige Organisation diese Gelder abruft. Elefunds garantiert dabei, dass<br>100% der von Ihnen gespendeten Summe an die Hilfsorganisationen ausgezahlt wird.</div>'+
+           '<button type="button" class="default-btn" onclick="return closeMessageOverlay();">Schließen</button>';
+    showMessageOverlay('handshake.png', text);
+    return false;
+}
+
+function showElefundsReceiptNotice()
+{
+    var text = '<div>Der Spendenbetrag wird im Namen der elefunds Stiftung gUg vereinnahmt, die<br>Ihre Spende zu 100% weiterleitet. Die Rechnung ersetzt keine Spendenbescheinigung<br/> im Sinne des Steuerrechts, diese erhalten Sie auf Wunsch separat per Email.<br/> Bitte beachten Sie, dass wir zur Abwicklung Ihre Rechnungsadresse sowie<br/> Email-Adresse an die elefunds gUg weiter geben.<br/>Angeforderte Spendenquittungen werden ab Beginn des Folgejahres direkt<br/>von elefunds versendet.</div>'+
+           '<button type="button" class="default-btn" onclick="return closeMessageOverlay();">Schließen</button>';
+    showMessageOverlay('handshake.png', text);
+    return false;
+}
+
+function sendToFriend(productId, categoryId)
+{
+    jQuery('#refreshListDialog').overlay().load();
+    var text = '<div><img src="/skin/frontend/default/Kam_fury/images/opc-ajax-loader_big.gif" width="35" height="35"/></div>';
+    showMessageOverlay('handshake.png', text);
+    urlAdd = 'id/' + productId + '/';
+    if (categoryId) {
+        urlAdd += 'cat_id/' + categoryId + '/';
+    }
+    jQuery.ajax({
+        cache: false,
+        url: '/kartenmacherei/sendfriend/getSendFriendDialog/' + urlAdd,
+        type: 'GET',
+        dataType: 'html',
+        success: function(data) {
+            if (typeof textOnSuccess != 'undefined') {
+                data = textOnSuccess + data;
+            }
+            showMessageOverlay('handshake.png', data, true);
+        },
+        error: function(){
+            showMessageOverlay('handshake.png', 'Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.');
+        }
+    });
+
+    return false;
+}
+function moveCustomerData(redirect, toStore, hash)
+{
+    var buttonObj = jQuery('#message_overlay_button_indicator_yes').parents('button');
+    if (buttonObj.hasClass('disabled')) {
+        return;
+    }
+    buttonObj.addClass('disabled');
+    jQuery('#message_overlay_button_indicator_not_now').parents('button').addClass('disabled');
+    jQuery('#message_overlay_button_indicator_no').parents('button').addClass('disabled');
+    jQuery('#message_overlay_button_indicator_yes').show();
+
+    jQuery.ajax({
+        cache: false,
+        url: '/kartenmacherei/ajax/moveCustomerData/',
+        type: 'POST',
+        data: {
+            to: toStore,             h: hash         },
+        success: function(data) {
+            if (!data || data.error) {
+                alert('Die Kundendaten konnten nicht umgezogen werden.');
+                return;
+            }
+            var result = '';
+            if (data.cart && data.wishlist) {
+                result = 'Wir haben die Produkte aus Ihrem Warenkorb und Merkzettel erfolgreich übertragen. ';
+            }
+            else if (data.cart) {
+                result = 'Wir haben die Produkte aus Ihrem Warenkorb erfolgreich übertragen. ';
+            }
+            else if (data.wishlist) {
+                result = 'Wir haben die Produkte aus Ihrem Merkzettel erfolgreich übertragen. ';
+            }
+            else {
+                result = 'Wir haben Ihr Kundenkonto erfolgreich übertragen. ';
+            }
+
+            showMessageOverlay('handshake.png', result, true);
+            setTimeout('setLocation("' + redirect + '")', 5000)
+        },
+        error: function(){
+            closeMessageOverlay();
+        }
+    });
+
+    return false;
+}
+function customerAnswerNo()
+{
+    var buttonObj = jQuery('#message_overlay_button_indicator_no').parents('button');
+    if (buttonObj.hasClass('disabled')) {
+        return;
+    }
+    buttonObj.addClass('disabled');
+    jQuery('#message_overlay_button_indicator_yes').parents('button').addClass('disabled');
+    jQuery('#message_overlay_button_indicator_not_now').parents('button').addClass('disabled');
+    jQuery('#message_overlay_button_indicator_no').show();
+
+    jQuery.ajax({
+        cache: false,
+        url: '/kartenmacherei/ajax/customerAnswerNo/',
+        type: 'POST',
+        success: function(data) {
+            if (!data || data.error) {
+                alert('Es ist ein Fehler aufgetreten.');
+                return;
+            }
+            showMessageOverlay('handshake.png', 'Gerne haben wir Ihren Wunsch vermerkt.', true);
+            setTimeout('closeMessageOverlay()', 5000)
+        },
+        error: function(){
+            closeMessageOverlay();
+        }
+    });
+
+    return false;
+}
+function customerAnswerRemindLater()
+{
+    var buttonObj = jQuery('#message_overlay_button_indicator_not_now').parents('button');
+    if (buttonObj.hasClass('disabled')) {
+        return;
+    }
+    buttonObj.addClass('disabled');
+    jQuery('#message_overlay_button_indicator_yes').parents('button').addClass('disabled');
+    jQuery('#message_overlay_button_indicator_no').parents('button').addClass('disabled');
+    jQuery('#message_overlay_button_indicator_not_now').show();
+
+    jQuery.ajax({
+        cache: false,
+        url: '/kartenmacherei/ajax/customerAnswerRemindLater/',
+        type: 'POST',
+        success: function(data) {
+            if (!data || data.error) {
+                alert('Es ist ein Fehler aufgetreten.');
+                return;
+            }
+            showMessageOverlay('handshake.png', 'Gerne haben wir Ihren Wunsch vermerkt.', true);
+            setTimeout('closeMessageOverlay()', 5000)
+        },
+        error: function(){
+            closeMessageOverlay();
+        }
+    });
+
+    return false;
+}
+
+function showDiecutDialogWishlist(wishlistItemId, diecutId, diecutLabel)
+{
+    var text;
+    if (diecutLabel == 'D50') {
+        text = '<div>' + Translator.translate('If you want to remove the tag, it will no longer be part of your card. Please check and confirm your card again in our design tool.') + '</div>';
+    }
+    else if (diecutLabel == 'D53') {
+        text = '<div>' + Translator.translate('If you want to add a tag to your card, please customize it in our design tool.') + '</div>';
+    }
+    else {
+        text = '<div>' + Translator.translate('If you want to change the punching, the preview of your card changes. <br/> Please check and confirm your card again in our design tool. <br/> Thank you.') + '</div>';
+    }
+    text += '<button type="button" class="button button2" style="margin-right:20px;" onclick="return closeMessageOverlay();">' + Translator.translate('Reject change') + '</button>'+
+            '<button type="button" class="button button4" onclick="return openConfiguratorForWishlistItem('+wishlistItemId+', {diecutId:\''+diecutId+'\', diecutSku:\''+diecutLabel+'\'});">' + Translator.translate('Change selection and check') + '</button>';
+
+    var icon;
+    if (diecutLabel == '') {
+        icon = 'diecut_D01'+'.svg';
+    }
+    else {
+        icon = 'diecut_'+diecutLabel+'.svg';
+    }
+    hostReachable(function (data) {
+        if (data.error) {
+            showWishlistResponse('update_error');
+        } else {
+            showMessageOverlay(icon, text);
+        }
+    }, function () {
+        showWishlistResponse('update_error');
+    });
+}
+
+
+// Should be deleted, when we have only fury design. The same function exist in file kam.js
+
+function reorderAjax(order_number)
+{
+    var text = '<div>'+Translator.translate('Please wait, loading...')+'<br/><img src="/skin/frontend/default/Kam_fury/images/opc-ajax-loader_big.gif" width="35" height="35"/></div>';
+    showMessageOverlay('heart.svg', text);
+
+    if (window.reorderInProgress) {
+        return;
+    }
+    window.reorderInProgress = true;
+
+    jQuery.ajax({
+        cache: false,
+        url: '/sales/order/reorderAjax',
+        type: 'POST',
+        data: {
+            order: order_number
+        },
+        success: function(data){
+            window.reorderInProgress = false;
+            if (data.result == 'ok') {
+                setLocation('/checkout/cart');
+            }
+            else {
+                showMessageOverlay('heart.svg', Translator.translate('An error has occurred. Please try again later.'));
+            }
+        },
+        error: function(){
+            window.reorderInProgress = false;
+            showMessageOverlay('heart.svg', Translator.translate('An error has occurred. Please try again later.'));
+        }
+    });
+}
+</script>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[    var AJAXHOME_URL = 'https://www.kartenmacherei.de/phone/call/index/';     var AJAXHOME_URL_CACHE = 'https://www.kartenmacherei.de/phone/call/indexCache/';     var FULLACTIONNAME = 'cms_page_view';    //]]></script>
+    <link href="https://plus.google.com/114304016628716301024" rel="publisher" />
+
+<script type="text/javascript">
+    var CONFIGURATOR_DOMAINS_XML_URL = 'https%3A%2F%2Fassets.kartenmacherei.de%2Fassets%2Fxml%2Fdomains.xml.php%3Flocale%3Dde_DE';
+    var SHOP_LOCALE = 'de_DE';
+    var EXCLUDED_FORMATS = [0];
+        var EXCLUDED_FORMATS_MOBILE = [178,177,244,195,213,194,212,211,245];
+    var ALWAYS_JSCONFI_FORMATS = ['F010','F020','F030','F040','F050','F051','F060','F061','F062','F063','F070','F071','F072','F073','F080','F081','F082','F083','F085','F086','F100','F101','F102','F140','F141','F150','F151','F160','F161','F162','F170','F180','F181','F190','F200','F210','F211','F220','F221','F230','F240','F246','F250','F251','F260','F261','F270','F280','F290','F291','F301','F400','F410','F420','F430','F431','F432','F433','F435','F436','F501','F510','F600','F601','F602','F605','F811','F812','F813','F814','F820','F901','F902','F903','F904','F912','F922','F931','F932','F960','F961','F962','F965','F966','F967'];
+    var PAPERS_FOR_HQ_PRINTING = ['P01','P03','P04'];
+    var JSCONFI_ABTEST_CATEGORIES = ["HS","HZ","HE","HD","BH","HT","HP","HA","HF","AH","RH","HB","HR","HG","EH","HK","HM"];
+        window['JESSI_NEW_DESIGN'] = true;
+</script>
+
+<meta name="robots" content="NOINDEX,FOLLOW" />
+    </head>
+    <body class="page-hide  cms-page-view cms-datenschutz cms-datenschutz" itemscope="" itemtype="http://schema.org/WebPage">
+        <script type="text/javascript">
+var dataLayer = {"pageTitle":"Datenschutz","pageURL":"\/datenschutz\/","googleConversionId":"1003240865","at_level1_siteid":"536250","pageType":"cms","S2":0};
+</script><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-44GG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>window.gtmStarted=true;dataLayer=[dataLayer];(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,"script","dataLayer","GTM-44GG");</script>
+<!-- End Google Tag Manager --><div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/de_DE/sdk.js#xfbml=1&version=v2.3";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="messageOverlay" class="messageOverlay">
+    <div class="messageOverlayIcon"><!-- --></div>
+    <div class="messageOverlayText"><!-- --></div>
+    <div class="messageOverlayFooter"><!-- --></div>
+</div>
+<div id="refreshListDialog"><!-- --></div>                    <html><script type="text/javascript">
+	window.topInfoCmsBlockString = '';
+	window.gtmId = 'GTM-44GG';
+</script>
+<header id="header" class="cfx">
+	<span style="display: none;">KAM_DE</span>
+
+	<strong class="main-logo">
+	<a href="https://www.kartenmacherei.de/" class="svg-logo with-icon without-text">die kartenmacherei GmbH</a>
+</strong>	<span class="hamburger-menu with-icon svg-hamburger-menu mobile-menu-view">Men&uuml;</span>
+	<nav id="nav-fury">
+	<ul class="user-menu mobile-menu-view cfx">
+			<li class="ekomi">
+		<div class="ekomi-block mobile-menu-view">
+			<a href="https://www.kartenmacherei.de/kundenmeinungen/" class="without-text with-icon svg-ekomi"></a>
+		<p>
+		<span>
+			<span>
+				<span style="display:none">Kartenmacherei</span>
+				<span class="text9 avg-amount">
+					<span>4.9</span>/<span>5</span>
+				</span>
+				<span class="text9 total-amount">
+					<span>107366</span>
+					<span class="text9">Bewertungen</span>
+				</span>
+			</span>
+		</span>
+	</p>
+	</div>
+	</li>
+		<li>
+			<span class="with-icon without-text svg-help popup-opener" data-target="help-popup"></span>
+		</li>
+		<li class="account">
+			<a href="https://www.kartenmacherei.de/customer/account/login/" class="with-icon without-text svg-account popup-opener link-customer-account" data-target="login-flyout-popup"></a>
+		</li>
+	</ul>
+	<div class="header-popup help-popup">
+	<div class="frame">
+		<span class="phone-number text8"><a href="tel:+49%20(0)%208143%2024%2019%2090">+49 (0) 8143 24 19 90</a></span>
+		<span class="phone-number text4"><a href="tel:+49%20(0)%208143%2024%2019%2090"></a></span>
+		<span class="opening-houres text4">Mo.-Fr. 8-20 Uhr</span>
+
+		<div class="buttons-area cfx">
+			<a href="https://www.kartenmacherei.de/kontakt/" class="default-btn ">Kontakt</a>
+			<a href="https://www.kartenmacherei.de/faq/" class="secondary-btn">FAQ</a>
+		</div>
+		<div class="welcome-message">
+			<img data-src="/hash753e8d5231dbe49c31b16be66432a6b3/kam/images/images/img-support-person.jpg" alt="Gerald Bancilhon" class="lazyload">
+			<blockquote class="text4">&ldquo;Hallo! Ich bin f&uuml;r Sie da, damit f&uuml;r Sie alles rund l&auml;uft!&rdquo;</blockquote>
+			<p class="author text0"><span>Gerald Bancilhon</span>, Leiter Kundenservice</p>
+			<a class="text4" href="mailto:service@kartenmacherei.de">service@kartenmacherei.de</a>
+		</div>
+	</div>
+</div>	<div class="header-popup login-flyout-popup">
+	<div class="frame">
+		<div class="logged-in-view">
+			<strong class="customer-name text8" id="customer-name"></strong>
+			<ul class="list1">
+				<li>
+					<a href="https://www.kartenmacherei.de/customer/account/">Kundenkonto</a>
+				</li>
+				<li>
+					<a href="https://www.kartenmacherei.de/customer/account/edit/">Pers&ouml;nliche Daten</a>
+				</li>
+				<li>
+					<a href="https://www.kartenmacherei.de/sales/order/history/">Bestellhistorie</a>
+				</li>
+				<li>
+					<a href="https://www.kartenmacherei.de/customer/account/logout/">Abmelden</a>
+				</li>
+			</ul>
+		</div>
+		<div class="login-form">
+			<div class="head_overlay_loading">
+				<img src="/hash753e8d5231dbe49c31b16be66432a6b3/kam/images/icons/loader.gif" width="16" height="16">
+				Laden
+			</div>
+		</div>
+	</div>
+</div>	<ul class="cfx first-level">
+					<li class="">
+			<span class="sub-menu">Geburt</span>
+		
+																																																													
+		
+		
+
+		<div class="dropdown col1">
+			<div class="holder cfx">
+															<ul class="column">
+																															<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/geburt-karten/geburtskarten.html">Alle Geburtskarten</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/geburt-karten/geburtskarten.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/geburt-karten/geburtskarten/maedchen.html">Geburtskarten M&auml;dchen</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/geburt-karten/geburtskarten/jungen.html">Geburtskarten Junge</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/geburt-karten/geburtskarten/zwillinge.html">Geburtskarten Zwillinge</a>
+				</li>
+					</ul>
+	</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburt-karten/tuerschild.html">T&uuml;rschilder</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburt-karten/wandbild-geburt.html">Wandbilder</a>
+				</li>
+													</ul>
+				<span class="without-text with-icon svg-close-menu-button close-menu only-desktop-header-view"></span>
+			</div>
+		</div>
+	</li>
+					<li class="">
+			<span class="sub-menu">Hochzeit</span>
+		
+																																																																																																																																																																																																																								
+		
+		
+
+		<div class="dropdown col2">
+			<div class="holder cfx">
+															<ul class="column">
+																												<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten.html">Alle Hochzeitskarten</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/save-the-date-karten.html">Save-the-Date Karten</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/hochzeitseinladungen.html">Hochzeitseinladungen</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/danksagungskarten-hochzeit.html">Dankeskarten Hochzeit</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/kirchenheft.html">Kirchenheft Hochzeit</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/menukarten-hochzeit.html">Men&uuml;karten Hochzeit</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/tischkarten-hochzeit.html">Tischkarten Hochzeit</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/antwortkarten-hochzeit.html">Antwortkarten Hochzeit</a>
+				</li>
+																																			<li>
+			<span class="sub-menu">Hochzeitsextras</span>
+				<ul>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/hochzeitsextras/anhaenger-hochzeit-2.html">Geschenkanh&auml;nger Hochzeit</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/hochzeitsextras/flaschenetiketten-hochzeit-1.html">Flaschenetiketten</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/hochzeitsextras/aufkleber.html">Aufkleber</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/hochzeitsextras/ballonkarten-hochzeit.html">Ballonkarten</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/extras/einleger-kirchenheft-menuekarten.html">Einleger</a>
+				</li>
+					</ul>
+	</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/wandbild-hochzeit.html">Wandbilder</a>
+				</li>
+																																				</ul>
+						<ul class="column">
+																<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/hochzeitskarten/karten-silberhochzeit.html">Karten zur Silberhochzeit</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/hochzeitskarten/karten-silberhochzeit.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/karten-silberhochzeit/einladungen-silberhochzeit.html">Einladungskarten Silberhochzeit</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/karten-silberhochzeit/danksagungen-silberhochzeit.html">Danksagung Silberhochzeit</a>
+				</li>
+					</ul>
+	</li>
+																																<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/hochzeitskarten/karten-zur-goldenen-hochzeit.html">Karten zur Goldenen Hochzeit</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/hochzeitskarten/karten-zur-goldenen-hochzeit.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/karten-zur-goldenen-hochzeit/einladungskarten-goldene-hochzeit.html">Einladungskarten Goldene Hochzeit</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/hochzeitskarten/karten-zur-goldenen-hochzeit/danksagungskarten-goldene-hochzeit.html">Danksagung Goldene Hochzeit</a>
+				</li>
+					</ul>
+	</li>
+													</ul>
+				<span class="without-text with-icon svg-close-menu-button close-menu only-desktop-header-view"></span>
+			</div>
+		</div>
+	</li>
+					<li class="">
+			<span class="sub-menu">Geburtstag</span>
+		
+																																																																																																																																																																																																			
+		
+		
+
+		<div class="dropdown col2">
+			<div class="holder cfx">
+															<ul class="column">
+																												<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen.html">Alle Einladungskarten Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/kindergeburtstag-einladungen.html">Einladungskarten Kindergeburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/18-geburtstag-einladungen.html">Einladungskarten 18. Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/30-geburtstag-einladungen.html">Einladungskarten 30. Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/40-geburtstag-einladungen.html">Einladungskarten 40. Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/50-geburtstag-einladungen.html">Einladungskarten 50. Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/60-geburtstag-einladungen.html">Einladungskarten 60. Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/70-geburtstag-einladungen.html">Einladungskarten 70. Geburtstag</a>
+				</li>
+																																				</ul>
+						<ul class="column">
+														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/80-geburtstag-einladungen.html">Einladungskarten 80. Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/runde-geburtstage.html">Einladungskarten 1. - 99. Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/menuekarten-geburtstag.html">Men&uuml;karten Geburtstag</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/geburtstagseinladungen/tischkarten-geburtstag.html">Tischkarten Geburtstag</a>
+				</li>
+													</ul>
+				<span class="without-text with-icon svg-close-menu-button close-menu only-desktop-header-view"></span>
+			</div>
+		</div>
+	</li>
+					<li class="">
+			<span class="sub-menu">Anl&auml;sse</span>
+		
+																																																																																																																																																																																																				
+		
+		
+
+		<div class="dropdown col3">
+			<div class="holder cfx">
+															<ul class="column">
+																												<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/partyeinladungen.html">Partyeinladungen</a>
+				</li>
+																																			<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/anlaesse/taufkarten.html">Taufkarten</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/anlaesse/taufkarten.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/taufkarten/einladung-taufe.html">Taufeinladungen</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/taufkarten/danksagung-taufe.html">Danksagung Taufe</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/taufkarten/menuekarten-taufe.html">Men&uuml;karten Taufe</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/taufkarten/tischkarten-taufe.html">Tischkarten Taufe</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/taufkarten/kirchenheft-taufe.html">Kirchenheft Taufe</a>
+				</li>
+					</ul>
+	</li>
+																																		<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/anlaesse/kommunionskarten.html">Kommunionskarten</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/anlaesse/kommunionskarten.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/kommunionskarten/einladungskarten-kommunion.html">Einladungskarten Kommunion</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/kommunionskarten/kommunion-danksagungskarten.html">Danksagung Kommunion</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/kommunionskarten/menuekarten-kommunion.html">Men&uuml;karten Kommunion</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/kommunionskarten/tischkarten-kommunion.html">Tischkarten Kommunion</a>
+				</li>
+					</ul>
+	</li>
+																																				</ul>
+						<ul class="column">
+																		<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/anlaesse/konfirmationskarten.html">Konfirmationskarten</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/anlaesse/konfirmationskarten.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/konfirmationskarten/einladungskarten-konfirmation.html">Einladungskarten Konfirmation</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/konfirmationskarten/danksagungskarten-konfirmation.html">Danksagung Konfirmation</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/konfirmationskarten/menuekarten-konfirmation.html">Men&uuml;karten Konfirmation</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/konfirmationskarten/tischkarten-konfirmation.html">Tischkarten Konfirmation</a>
+				</li>
+					</ul>
+	</li>
+																																<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/anlaesse/karten-einschulung.html">Einschulungskarten</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/anlaesse/karten-einschulung.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/karten-einschulung/einschulung-einladungskarten.html">Einladungskarten Einschulung</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/karten-einschulung/einschulung-danksagungskarten.html">Danksagung Einschulung</a>
+				</li>
+					</ul>
+	</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/umzugskarten.html">Umzugskarten</a>
+				</li>
+																																	<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/anlaesse/trauer-karten.html">Karten zur Trauer</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/anlaesse/trauer-karten.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/trauer-karten/trauerkarten.html">Trauerkarten</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/trauer-karten/trauerdanksagungen.html">Danksagungskarten Trauer</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/anlaesse/trauer-karten/sterbebilder.html">Sterbebilder</a>
+				</li>
+					</ul>
+	</li>
+																																				</ul>
+						<ul class="column">
+																				<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/weihnachtskarten.html">Weihnachtskarten</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/weihnachtskarten.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/weihnachtskarten/private-weihnachtskarten.html">Weihnachtskarten mit Foto</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/weihnachtskarten/geschaeftliche-weihnachtskarten.html">Weihnachtskarten gesch&auml;ftlich</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/weihnachtskarten/hochwertige-weihnachtskarten.html">Weihnachtskarten Premium</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/weihnachtskarten/einladungskarten-weihnachtsfeier.html">Weihnachtsfeier Einladungen</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/weihnachtskarten/geschenkaufkleber.html">Geschenkaufkleber</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/weihnachtskarten/geschenkanhaenger.html">Geschenkanh&auml;nger</a>
+				</li>
+					</ul>
+	</li>
+													</ul>
+				<span class="without-text with-icon svg-close-menu-button close-menu only-desktop-header-view"></span>
+			</div>
+		</div>
+	</li>
+					<li class="">
+			<span class="sub-menu">Einladungen</span>
+		
+																																																																																																																																																																																																			
+		
+		
+
+		<div class="dropdown col2">
+			<div class="holder cfx">
+															<ul class="column">
+																												<li>
+						<a class="" href="https://www.kartenmacherei.de/einladungskarten.html">Alle Einladungskarten</a>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/hochzeitskarten/hochzeitseinladungen.html">Hochzeit</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/geburtstagseinladungen.html">Geburtstag</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/partyeinladungen.html">Party</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/konfirmationskarten/einladungskarten-konfirmation.html">Konfirmation</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/kommunionskarten/einladungskarten-kommunion.html">Kommunion</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/taufkarten/einladung-taufe.html">Taufe</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/hochzeitskarten/karten-silberhochzeit/einladungen-silberhochzeit.html">Silberhochzeit</span>
+				</li>
+																																				</ul>
+						<ul class="column">
+														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/hochzeitskarten/karten-zur-goldenen-hochzeit/einladungskarten-goldene-hochzeit.html">Goldene Hochzeit</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/trauer-karten/trauerkarten.html">Trauer</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/karten-einschulung/einschulung-einladungskarten.html">Einschulung</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/umzugskarten.html">Umzug</span>
+				</li>
+													</ul>
+				<span class="without-text with-icon svg-close-menu-button close-menu only-desktop-header-view"></span>
+			</div>
+		</div>
+	</li>
+					<li class="">
+			<span class="sub-menu">Danksagungen</span>
+		
+																																																																																																																																																																							
+		
+		
+
+		<div class="dropdown col2">
+			<div class="holder cfx">
+															<ul class="column">
+																												<li>
+						<a class="" href="https://www.kartenmacherei.de/dankeskarten.html">Alle Danksagungskarten</a>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/hochzeitskarten/danksagungskarten-hochzeit.html">Hochzeit</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/geburt-karten/geburtskarten.html">Geburt</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/konfirmationskarten/danksagungskarten-konfirmation.html">Konfirmation</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/kommunionskarten/kommunion-danksagungskarten.html">Kommunion</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/taufkarten/danksagung-taufe.html">Taufe</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/hochzeitskarten/karten-silberhochzeit/danksagungen-silberhochzeit.html">Silberhochzeit</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/hochzeitskarten/karten-zur-goldenen-hochzeit/danksagungskarten-goldene-hochzeit.html">Goldene Hochzeit</span>
+				</li>
+																																				</ul>
+						<ul class="column">
+														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/trauer-karten/trauerdanksagungen.html">Trauer</span>
+				</li>
+																														<li>
+						<span class="mimic-link " data-href="https://www.kartenmacherei.de/anlaesse/karten-einschulung/einschulung-danksagungskarten.html">Einschulung</span>
+				</li>
+													</ul>
+				<span class="without-text with-icon svg-close-menu-button close-menu only-desktop-header-view"></span>
+			</div>
+		</div>
+	</li>
+					<li class="">
+			<span class="sub-menu">Extras</span>
+		
+																																																																																																																																																	
+		
+		
+
+		<div class="dropdown col1">
+			<div class="holder cfx">
+															<ul class="column">
+																												<li>
+						<a class="" href="https://www.kartenmacherei.de/magazin/">Magazin</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/extras/briefumschlaege.html">Briefumschl&auml;ge</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/extras/absenderaufkleber.html">Absenderaufkleber</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/extras/empfaengeraufkleber.html">Empf&auml;ngeraufkleber</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/extras/einlegeblaetter.html">Einlegebl&auml;tter</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/extras/mustersets-karten.html">Musterkarten</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/extras/individual.html">Individual</a>
+				</li>
+																														<li>
+						<a class="" href="https://www.kartenmacherei.de/extras/einleger-kirchenheft-menuekarten.html">Einleger</a>
+				</li>
+																																<li>
+						<a class="sub-menu" href="https://www.kartenmacherei.de/fotokalender.html">Fotokalender</a>
+						<ul>
+							<li class="mobile-menu-view"><span class="mimic-link" data-href="https://www.kartenmacherei.de/fotokalender.html">Alle anzeigen</span></li>
+										<li>
+						<a class="" href="https://www.kartenmacherei.de/fotokalender/wandkalender.html">Wandkalender</a>
+				</li>
+							<li>
+						<a class="" href="https://www.kartenmacherei.de/fotokalender/tischkalender.html">Tischkalender</a>
+				</li>
+					</ul>
+	</li>
+													</ul>
+				<span class="without-text with-icon svg-close-menu-button close-menu only-desktop-header-view"></span>
+			</div>
+		</div>
+	</li>
+							</ul>
+</nav>
+	<div class="header-tools">
+		<div itemscope="" itemtype="https://schema.org/LocalBusiness" style="display:none;">
+			<img itemprop="image" src="/hash753e8d5231dbe49c31b16be66432a6b3/kam/images/images/favicon_default.ico" alt="die kartenmacherei GmbH">
+			<span itemprop="name">die kartenmacherei GmbH</span>
+			<span itemprop="description">Wir drucken Ihnen hochwertige Geburtskarten, Einladungskarten und Danksagungskarten zur Hochzeit - individuell, professionell &amp; ganz pers&ouml;nlich.</span>
+			<div itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
+				<span itemprop="streetAddress">Friedrichshafener Stra&szlig;e 5</span>
+				<span itemprop="postalCode">82205</span>
+				<span itemprop="addressLocality">Gilching</span>
+			</div>
+			<span itemprop="telephone"><a href="tel:+49%20(0)%208143%2024%2019%2090"> +49 (0) 8143 24 19 90 </a></span>
+			<span><a href="tel:">  </a></span>
+		</div>
+		<div class="ekomi-block only-desktop-header-view">
+			<span class="without-text with-icon svg-ekomi"></span>
+		<p>
+		<span>
+			<span>
+				<span style="display:none">Kartenmacherei</span>
+				<span class="text4 avg-amount">
+					<span>4.9</span>/<span>5</span>
+				</span>
+				<span class="text9 total-amount">
+					<span>107366</span>
+					<span class="text9">Bewertungen</span>
+				</span>
+			</span>
+		</span>
+	</p>
+			<div class="header-popup ekomi-popup">
+			<div class="frame">
+				<span class="text8 title">Das sagen unsere Kunden</span>
+															<div class="feedback">
+							<div class="rating-date-area cfx">
+								<ul class="ekomi-stars cfx">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																	</ul>
+								<em class="date">27.05.2017</em>
+							</div>
+							<p>Tolle Qualit&auml;t, schnelle Produktion und sehr h&ouml;flicher und hilfreicher Kundenservice! Ich hatte Einlegebl&auml;tter in der falschen Gr&ouml;&szlig;e bestellt und dies wurde umgehend in meiner Bestellung angepasst und korrekt geliefert. Danke!</p>
+						</div>
+																				<div class="feedback">
+							<div class="rating-date-area cfx">
+								<ul class="ekomi-stars cfx">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																	</ul>
+								<em class="date">27.05.2017</em>
+							</div>
+							<p>Gute Qualit&auml;t und schneller Versand.  Alles super!</p>
+						</div>
+																				<div class="feedback">
+							<div class="rating-date-area cfx">
+								<ul class="ekomi-stars cfx">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																			<li class="svg-star with-icon without-text">
+																	</ul>
+								<em class="date">27.05.2017</em>
+							</div>
+							<p>Super sch&ouml;ne Karten und sehr schneller Versand!!!</p>
+						</div>
+													<a href="https://www.kartenmacherei.de/kundenmeinungen/" class="default-btn">Alle 107366 Bewertungen lesen</a>
+			</div>
+		</div>
+	</div>
+		<ul class="user-menu">
+			<li class="only-desktop-header-view">
+				<a href="https://www.kartenmacherei.de/kontakt/" class="with-icon without-text svg-help"></a>
+				<div class="header-popup help-popup">
+	<div class="frame">
+		<span class="phone-number text8"><a href="tel:+49%20(0)%208143%2024%2019%2090">+49 (0) 8143 24 19 90</a></span>
+		<span class="phone-number text4"><a href="tel:+49%20(0)%208143%2024%2019%2090"></a></span>
+		<span class="opening-houres text4">Mo.-Fr. 8-20 Uhr</span>
+
+		<div class="buttons-area cfx">
+			<a href="https://www.kartenmacherei.de/kontakt/" class="default-btn  contact-us-btn ">Kontakt</a>
+			<a href="https://www.kartenmacherei.de/faq/" class="secondary-btn">FAQ</a>
+		</div>
+		<div class="welcome-message">
+			<img data-src="/hash753e8d5231dbe49c31b16be66432a6b3/kam/images/images/img-support-person.jpg" alt="Gerald Bancilhon" class="lazyload">
+			<blockquote class="text4">&ldquo;Hallo! Ich bin f&uuml;r Sie da, damit f&uuml;r Sie alles rund l&auml;uft!&rdquo;</blockquote>
+			<p class="author text0"><span>Gerald Bancilhon</span>, Leiter Kundenservice</p>
+			<a class="text4" href="mailto:service@kartenmacherei.de">service@kartenmacherei.de</a>
+		</div>
+	</div>
+</div>			</li>
+			<li class="account only-desktop-header-view">
+				<a href="https://www.kartenmacherei.de/customer/account/login/" class="with-icon without-text svg-account popup-login-open link-customer-account"></a>
+				<div class="header-popup account-popup">
+					<div class="frame">
+						<strong class="customer-name text8" id="customer-name"></strong>
+						<ul class="list1">
+							<li>
+								<a href="https://www.kartenmacherei.de/customer/account/">Kundenkonto</a>
+							</li>
+							<li>
+								<a href="https://www.kartenmacherei.de/customer/account/edit/">Pers&ouml;nliche Daten</a>
+							</li>
+							<li>
+								<a href="https://www.kartenmacherei.de/sales/order/history/">Bestellhistorie</a>
+							</li>
+							<li>
+								<a href="https://www.kartenmacherei.de/customer/account/logout/">Abmelden</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="header-popup account-login">
+					<div class="frame">
+						<div class="head_overlay_loading">
+							<img src="/hash753e8d5231dbe49c31b16be66432a6b3/kam/images/icons/loader.gif" width="16" height="16">
+							Laden
+						</div>
+					</div>
+				</div>
+				<div class="popup-notification login">
+					<p>Sie sind angemeldet.</p>
+					<p>Sch&ouml;n, dass Sie wieder da sind!</p>
+				</div>
+				<div class="popup-notification register">
+					<p>Herzlich Willkommen!</p>
+					<p>Sie haben sich erfolgreich registriert.</p>
+				</div>
+			</li>
+			<li class="overlay_link">
+				<a href="https://www.kartenmacherei.de/wishlist/" class="with-icon without-text svg-wishlist">
+					<span class="products" id="header-wishlist-total"></span>
+				</a>
+				<div id="wishlist_overlay" class="header-popup wishlist-popup">
+					<div class="frame">
+						<div id="wishlist_overlay_loading" class="head_overlay_loading">
+							<img src="/hash753e8d5231dbe49c31b16be66432a6b3/kam/images/icons/loader.gif" width="16" height="16">
+							Ihr Merkzettel wird geladen...
+						</div>
+						<div id="wishlist_overlay_content" rel="customer.wishlist.foldout" class="head_overlay_content">
+						</div>
+						<div class="controls">
+							<a href="https://www.kartenmacherei.de/wishlist/" class="default-btn">zum Merkzettel</a>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li class="overlay_link">
+				<a href="https://www.kartenmacherei.de/checkout/cart/" class="with-icon without-text svg-cart">
+					<span class="products" id="header-cart-total"></span>
+				</a>
+				<div id="shopping_cart_overlay" class="header-popup">
+					<div class="frame">
+						<div id="shopping_cart_overlay_loading" class="head_overlay_loading">
+							<img src="/hash753e8d5231dbe49c31b16be66432a6b3/kam/images/icons/loader.gif" width="16" height="16">
+							Ihr Warenkorb wird geladen...
+						</div>
+						<div id="shopping_cart_overlay_content" rel="customer.cart.foldout" class="head_overlay_content">
+						</div>
+						<div class="controls">
+							<a href="https://www.kartenmacherei.de/checkout/cart/" class="default-btn">zum Warenkorb</a>
+						</div>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+
+	<script>
+		var domainsXmlUrl = 'https://assets.kartenmacherei.de/assets/xml/domains.xml.php?locale=de_DE';
+		var flashCallbackUrl = 'https://www.kartenmacherei.de/amfGateway/';
+		var flashConfiguratorUrl = 'https://assets.kartenmacherei.de/Application_fury.swf?v=36';
+		var jessiUrl = 'https://www.kartenmacherei.de/configurator/';
+	</script>
+
+</header>
+</html>
+                <div id="content-wrapper">
+            <div class="wrapper">
+                    <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript scheint in Ihrem Browser deaktiviert zu sein.</strong></p>
+                <p>Sie müssen JavaScript in Ihrem Browser aktivieren um alle Funktionen in diesem Shop nutzen zu können.</p>
+            </div>
+        </div>
+    </noscript>
+                <div class="page">
+                    
+    <div class="no_cookies">
+        <!-- -->
+    </div>
+
+
+<div class="update-message">
+    <span class="close-message">x</span>
+    <div class="holder">
+        <img src="https://www.kartenmacherei.de/skin/frontend/default/Kam_fury/imgs/warning-icon.jpg" />
+        <p>Sie verwenden einen <span class="mark">veralteten Browser (Internet Explorer 6/7)</span> mit Sicherheitsschwachstellen und können unsere Website nicht optimal bedienen.</p>
+    </div>
+</div>
+<div class="update-message-overlay"></div>
+
+
+<div class="mobile" id="infodd-layer">
+    <div>
+        <div id="infodd-close">Zurück</div>
+        <div id="infodd-login">
+            <div class="horizontal-separator">
+                <h3>Kundenkonto</h3>
+            </div>
+            <div id="infodd-login-account"></div>
+            <div id="infodd-login-link"></div>
+        </div>
+        <div id="infodd-kontakt">
+            <div class="horizontal-separator">
+                <h3>Kontakt</h3>
+            </div>
+            <div class="infodd-service-nr">
+                                    <a href="tel:08143 241990">Service (08143 241990) anrufen</a>
+                                <p>Erreichbar Mo.-Fr. von 8-20 Uhr</p>
+            </div>
+            <div class="infodd-service-mail">
+                <a href="#">Service anschreiben</a>
+                <p>Wir melden uns schnellstmöglich zurück</p>
+            </div>
+        </div>
+        <div id="infodd-hilfe">
+            <div class="horizontal-separator">
+                <h3>Hilfe</h3>
+            </div>
+            <div id="infodd-faq"></div>
+            <div id="infodd-fototipps"></div>
+        </div>
+    </div>
+</div>
+                    <div class="main-container col2-right-layout">
+                        <div class="main">
+                                        
+                                                        <div class="col-main">
+                                <div class="std"><h2>Datenschutzerkl&auml;rung</h2>
+
+<p>Wir freuen uns, dass Sie unsere Website besuchen und bedanken uns f&uuml;r Ihr Interesse! Der Schutz Ihrer Privatsph&auml;re bei der Nutzung unserer Website ist uns wichtig, bitte nehmen Sie daher die nachstehenden Informationen &uuml;ber den Umgang mit Ihren Daten zur Kenntnis:</p>
+
+<h2>1) Grunds&auml;tzliches zum Umgang mit personenbezogenen Daten</h2>
+
+<p>Sie k&ouml;nnen unsere Website besuchen, ohne Angaben zu Ihrer Person zu machen. Bei jedem Zugriff auf unsere Website werden Nutzungsdaten durch den jeweiligen Internetbrowser &uuml;bermittelt und in Protokolldateien, den sogenannten Server-Logfiles, wie z.B. Datum und Uhrzeit des Abrufs, Name der aufgerufenen Seite, &uuml;bertragene Datenmenge und den anfragenden Provider, gespeichert. Diese Daten k&ouml;nnen nicht einer bestimmten Person zugeordnet werden und dienen ausschlie&szlig;lich der Sicherstellung eines st&ouml;rungsfreien Betriebs unserer Website und der Verbesserung unseres Angebots.</p>
+
+<p>Personenbezogene Daten werden erhoben, wenn Sie uns diese von sich aus zur Durchf&uuml;hrung eines Vertrages oder bei der Er&ouml;ffnung eines Kundenkontos freiwillig mitteilen. Welche Daten erhoben werden, ist aus den jeweiligen Eingabeformularen ersichtlich. Eine L&ouml;schung Ihres Kundenkontos ist jederzeit m&ouml;glich und kann durch eine Nachricht an die unten beschriebene Kontaktm&ouml;glichkeit erfolgen. Wir speichern und verwenden die von Ihnen mitgeteilten Daten zur Vertragsabwicklung. Nach vollst&auml;ndiger Abwicklung des Vertrages oder L&ouml;schung Ihres Kundenkontos werden Ihre Daten mit R&uuml;cksicht auf steuer- und handelsrechtliche Aufbewahrungsfristen gesperrt, nach Ablauf dieser Fristen gel&ouml;scht, sofern Sie nicht ausdr&uuml;cklich in eine weitere Nutzung Ihrer Daten eingewilligt haben oder eine gesetzlich erlaubte weitere Datenverwendung von unserer Seite vorbehalten wurde, &uuml;ber die wir Sie nachstehend entsprechend informieren.</p>
+
+<p>Im Rahmen der Kontaktaufnahme mit uns (z.B. per Kontaktformular oder E-Mail) werden personenbezogene Daten erhoben, welche Daten im Falle eines Kontaktformulars erhoben werden, ist aus dem jeweiligen Kontaktformular ersichtlich. Diese Daten werden ausschlie&szlig;lich f&uuml;r die Beantwortung Ihres Anliegens bzw. f&uuml;r die Kontaktaufnahme und die damit verbundene technische Administration gespeichert und verwendet. Ihre Daten werden nach abschlie&szlig;ender Bearbeitung Ihrer Anfrage gel&ouml;scht, sofern Sie dies w&uuml;nschen und der L&ouml;schung keine gesetzlichen Aufbewahrungspflichten entgegenstehen.</p>
+
+<p>Dar&uuml;ber hinaus werden personenbezogene Daten erhoben, wenn Sie sich zu unserem E-Mail-Newsletter anmelden. Diese Daten werden von uns zu eigenen Werbezwecken in Form unseres E-Mail-Newsletters genutzt, sofern Sie hierin ausdr&uuml;cklich eingewilligt haben wie folgt:</p>
+
+<p>&quot;Als unser Kunde erhalten Sie ausgew&auml;hlte Produktempfehlungen per E-Mail oder Post. Sie k&ouml;nnen diesem nat&uuml;rlich jederzeit unter service@kartenmacherei.de widersprechen.&quot;</p>
+
+<p>Sie k&ouml;nnen den Newsletter jederzeit &uuml;ber den daf&uuml;r vorgesehenen Link im Newsletter oder durch entsprechende Nachricht an uns abbestellen. Nach erfolgter Abmeldung wird Ihre E-Mailadresse unverz&uuml;glich in unserem Newsletter-Verteiler gel&ouml;scht.</p>
+
+<p>F&uuml;r eigene Werbezwecke behalten wir uns vor, Ihren Vor- und Nachnamen, Ihre Postanschrift und - soweit wir diese zus&auml;tzlichen Angaben im Rahmen der Vertragsbeziehung von Ihnen erhalten haben - Ihren Titel, akademischen Grad, Ihr Geburtsjahr und Ihre Berufs-, Branchen- oder Gesch&auml;ftsbezeichnung in zusammengefassten Listen zu speichern und f&uuml;r die Zusendung von interessanten Angeboten und Informationen zu unseren Produkten per Briefpost zu nutzen. Sie k&ouml;nnen der Speicherung und Nutzung Ihrer Daten zu diesem Zweck jederzeit durch eine Nachricht an die unten beschriebene Kontaktm&ouml;glichkeit widersprechen.</p>
+
+<h2>2) Weitergabe personenbezogener Daten zur Bestellabwicklung</h2>
+
+<p><b>2.1</b> Die von uns erhobenen personenbezogenen Daten werden im Rahmen der Vertragsabwicklung an das mit der Lieferung beauftragte Transportunternehmen weitergegeben, soweit dies zur Lieferung der Ware erforderlich ist. Wir geben Ihre Zahlungsdaten im Rahmen der Abwicklung von Zahlungen an das beauftragte Kreditinstitut weiter.</p>
+
+<p><b>2.2</b> Bei Zahlung via PayPal, Kreditkarte via PayPal, Lastschrift via PayPal oder &ndash; falls angeboten - &quot;Kauf auf Rechnung&quot; via PayPal geben wir Ihre Zahlungsdaten im Rahmen der Zahlungsabwicklung an die PayPal (Europe) S.&agrave; r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (nachfolgend &quot;PayPal&quot;), weiter. PayPal beh&auml;lt sich f&uuml;r die Zahlungsmethoden Kreditkarte via PayPal, Lastschrift via PayPal oder &ndash; falls angeboten - &quot;Kauf auf Rechnung&quot; via PayPal die Durchf&uuml;hrung einer Bonit&auml;tsauskunft vor. Das Ergebnis der Bonit&auml;tspr&uuml;fung in Bezug auf die statistische Zahlungsausfallwahrscheinlichkeit verwendet PayPal zum Zwecke der Entscheidung &uuml;ber die Bereitstellung der jeweiligen Zahlungsmethode. Die Bonit&auml;tsauskunft kann Wahrscheinlichkeitswerte enthalten (sog. Score-Werte). Soweit Score-Werte in das Ergebnis der Bonit&auml;tsauskunft einflie&szlig;en, haben diese ihre Grundlage in einem wissenschaftlich anerkannten mathematisch-statistischen Verfahren. In die Berechnung der Score-Werte flie&szlig;en unter anderem Anschriftendaten ein. Weitere datenschutzrechtliche Informationen, unter anderem zu den verwendeten Auskunfteien, entnehmen Sie bitte der Datenschutzerkl&auml;rung von PayPal: https://www.paypal.com/de/webapps/mpp/ua/privacy-full</p>
+
+<p><b>2.3</b> Wenn Sie sich f&uuml;r eine Zahlungsart des Paymentdienstleisters PAYONE entscheiden, erfolgt die Zahlungsabwicklung &uuml;ber den Paymentdienstleister PAYONE GmbH, Fraunhoferstra&szlig;e 2-4, 24118 Kiel, an den wir Ihre im Rahmen des Bestellvorgangs mitgeteilten Informationen nebst den Informationen &uuml;ber Ihre Bestellung weitergeben. Die Weitergabe Ihrer Daten erfolgt ausschlie&szlig;lich zum Zwecke der Zahlungsabwicklung mit dem Paymentdienstleister PAYONE.</p>
+
+<h2>3) Cookies</h2>
+
+<p>Um den Besuch unserer Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu erm&ouml;glichen, verwenden wir auf verschiedenen Seiten sogenannte Cookies. Hierbei handelt es sich um kleine Textdateien, die auf Ihrem Endger&auml;t abgelegt werden. Einige der von uns verwendeten Cookies werden nach dem Ende der Browser-Sitzung, also nach Schlie&szlig;en Ihres Browsers, wieder gel&ouml;scht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Endger&auml;t und erm&ouml;glichen uns oder unseren Partnerunternehmen, Ihren Browser beim n&auml;chsten Besuch wiederzuerkennen (persistente Cookies). Sie k&ouml;nnen Ihren Browser so einstellen, dass Sie &uuml;ber das Setzen von Cookies informiert werden und einzeln &uuml;ber deren Annahme entscheiden oder die Annahme von Cookies f&uuml;r bestimmte F&auml;lle oder generell ausschlie&szlig;en. Bei der Nichtannahme von Cookies kann die Funktionalit&auml;t unserer Website eingeschr&auml;nkt sein.</p>
+
+<h2>4) Kontaktaufnahme zur Kundenbewertungsanfrage</h2>
+
+<p><b>4.1</b> Gegebenenfalls haben Sie w&auml;hrend oder nach Ihrer Bestellung folgende Einwilligung erteilt:</p>
+
+<p>&quot;Ich m&ouml;chte den Einkauf &quot;sp&auml;ter bewerten&quot; und von eKomi nach der Lieferung einmalig per E-Mail an die Abgabe einer Bewertung erinnert werden. Meine Einwilligung kann ich jederzeit widerrufen.&quot;</p>
+
+<p>Sofern Sie uns die obige ausdr&uuml;ckliche Einwilligung erteilt haben, &uuml;bermitteln wir Ihre E-Mail-Adresse f&uuml;r die Aufforderung zur Abgabe einer Kundenbewertung der bezogenen Leistung &uuml;ber das eKomi Kundenbewertungssystem an die eKomi Ltd, Markgrafenstra&szlig;e 11, 10969 Berlin, damit diese Ihnen nach 2 bis 5 Tagen nach Auslieferung der bestellten Ware eine E-Mail zur Erinnerung an die Abgabe einer Bewertung zusendet. Diese Einwilligung kann jederzeit mit Wirkung f&uuml;r die Zukunft widerrufen werden.</p>
+
+<p><b>4.2</b> Wir verwenden Ihre E-Mailadresse zur einmaligen Erinnerung zur Abgabe einer Bewertung Ihrer Bestellung f&uuml;r das von uns verwendete Bewertungssystem, falls Sie uns hierzu w&auml;hrend oder nach Ihrer Bestellung Ihre ausdr&uuml;ckliche Einwilligung erteilt haben. Diese Einwilligung kann durch Aktivierung einer Checkbox oder Klicken eines entsprechenden Buttons erteilt und jederzeit durch eine Nachricht an die unten beschriebene Kontaktm&ouml;glichkeit widerrufen werden.</p>
+
+<h2>5) Einsatz von Google AdWords Conversion-Tracking</h2>
+
+<p>Diese Webseite nutzt das Online-Werbeprogramm &quot;Google AdWords&quot; und im Rahmen von Google AdWords das Conversion-Tracking. Das Cookie f&uuml;r Conversion-Tracking wird gesetzt, wenn ein Nutzer auf eine von Google geschaltete Anzeige klickt. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrem Computersystem abgelegt werden. Diese Cookies verlieren nach 30 Tagen ihre G&uuml;ltigkeit und dienen nicht der pers&ouml;nlichen Identifizierung. Besucht der Nutzer bestimmte Seiten dieser Website und das Cookie ist noch nicht abgelaufen, k&ouml;nnen Google und wir erkennen, dass der Nutzer auf die Anzeige geklickt hat und zu dieser Seite weitergeleitet wurde. Jeder Google AdWords-Kunde erh&auml;lt ein anderes Cookie. Cookies k&ouml;nnen somit nicht &uuml;ber die Websites von AdWords-Kunden nachverfolgt werden. Die mithilfe des Conversion-Cookies eingeholten Informationen dienen dazu, Conversion-Statistiken f&uuml;r AdWords-Kunden zu erstellen, die sich f&uuml;r Conversion-Tracking entschieden haben. Die Kunden erfahren die Gesamtanzahl der Nutzer, die auf ihre Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Sie erhalten jedoch keine Informationen, mit denen sich Nutzer pers&ouml;nlich identifizieren lassen. Wenn Sie nicht am Tracking teilnehmen m&ouml;chten, k&ouml;nnen Sie dieser Nutzung widersprechen, indem Sie das Cookie des Google Conversion-Trackings &uuml;ber ihren Internet-Browser unter Nutzereinstellungen leicht deaktivieren. Sie werden sodann nicht in die Conversion-Tracking Statistiken aufgenommen.</p>
+
+<p>Unter der nachstehenden Internetadresse erhalten Sie weitere Informationen &uuml;ber die Datenschutzbestimmungen von Google: http://www.google.de/policies/privacy/</p>
+
+<h2>6) Google Zertifizierte H&auml;ndler-Programm</h2>
+
+<p>Wir arbeiten mit Google Inc. (&quot;Google&quot;) im Rahmen des Google Zertifizierte H&auml;ndler Programms zusammen, dieses Programm bietet Ihnen einen K&auml;uferschutz, dar&uuml;ber hinaus k&ouml;nnen Sie sich im Rahmen dieses Programms insbesondere &uuml;ber unsere Qualit&auml;t im Hinblick auf den Kundenservice sowie unsere P&uuml;nktlichkeit in Bezug auf den Versand informieren. Zu diesem Zweck werden die Ihre Bestellung betreffenden Daten wie Bestellwert, W&auml;hrung, Lieferland, Lieferkosten, Steuern und etwaige Rabatte an Google &uuml;bermittelt und gespeichert. Ihre E-Mail-Adresse wird nur dann an Google &uuml;bermittelt, wenn Sie den kostenlosen K&auml;uferschutz des Google Zertifizierte H&auml;ndler Programms durch Anklicken eines Opt-In Moduls im Zuge des Bestellvorgangs in Anspruch nehmen. Mit Ihrer freiwilligen Teilnahme an diesem allein von und &uuml;ber Google angebotenen Service erkl&auml;ren Sie sich mit den von Google daf&uuml;r aufgestellten Nutzungsbedingungen einverstanden, die Sie unter nachstehendem Link abrufen k&ouml;nnen: https://www.google.de/intl/de/policies/privacy/</p>
+
+<h2>7) Webanalysedienst</h2>
+
+<p>Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (&quot;Google&quot;). Google Analytics verwendet sog. &quot;Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm&ouml;glichen. Die durch den Cookie erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA &uuml;bertragen und dort gespeichert.<br />
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europ&auml;ischen Union oder in anderen Vertragsstaaten des Abkommens &uuml;ber den Europ&auml;ischen Wirtschaftsraum zuvor gek&uuml;rzt. Nur in Ausnahmef&auml;llen wird die volle IP-Adresse an einen Server von Google in den USA &uuml;bertragen und dort gek&uuml;rzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports &uuml;ber die Websiteaktivit&auml;ten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegen&uuml;ber dem Websitebetreiber zu erbringen.<br />
+Die im Rahmen von Google Analytics von Ihrem Browser &uuml;bermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengef&uuml;hrt. Sie k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich werden nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verf&uuml;gbare Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de<br />
+Alternativ zum Browser-Plugin oder innerhalb von Browsern auf mobilen Ger&auml;ten klicken Sie bitte auf den folgenden Link, um ein Opt-Out-Cookie zu setzen, der die Erfassung durch Google Analytics innerhalb dieser Website zuk&uuml;nftig verhindert (dieses Opt-Out-Cookie funktioniert nur in diesem Browser und nur f&uuml;r diese Domain, l&ouml;schen Sie Ihre Cookies in diesem Browser, m&uuml;ssen Sie diesen Link erneut klicken):</p>
+
+<p><a onclick="alert('Google Analytics wurde deaktiviert');" href="javascript:gaOptout()">Google Analytics deaktivieren</a></p>
+
+<p>Es wird darauf hingewiesen, dass diese Website Google Analytics mit der Erweiterung &quot;_anonymizeIp()&quot; verwendet und daher IP-Adressen nur gek&uuml;rzt weiterverarbeitet werden, um eine direkte Personenbeziehbarkeit auszuschlie&szlig;en.</p>
+
+<h2>8) Retargeting/ Remarketing/ Empfehlungswerbung</h2>
+
+<p>- Diese Website verwendet Retargeting-Technologie der AdRoll Advertising Ltd (&bdquo;AdRoll&ldquo;). Diese erm&ouml;glicht es, Besucher unserer Internetseiten gezielt mit personalisierter, interessenbezogener Werbung anzusprechen, die sich bereits f&uuml;r unseren Shop und unsere Produkte interessiert haben. Die Einblendung der Werbemittel erfolgt dabei auf Basis einer Cookie-basierten Analyse des fr&uuml;heren Nutzungsverhaltens, wobei aber keine personenbezogenen Daten gespeichert werden. In den F&auml;llen der Retargeting-Technologie wird ein Cookie auf Ihrem Computer oder mobilen Endger&auml;t gespeichert, um anonymisierte Daten &uuml;ber Ihre Interessen zu erfassen und so die Werbung individuell auf die gespeicherten Informationen anzupassen. Diese Cookies sind kleine Textdateien, die auf Ihrem Computer oder mobilen Endger&auml;t gespeichert werden. Sie bekommen dadurch Werbung angezeigt, die mit hoher Wahrscheinlichkeit Ihren Produkt- und Informationsinteressen entspricht. Sie k&ouml;nnen der Setzung von Cookies f&uuml;r Anzeigenvorgaben dauerhaft widersprechen, indem Sie die auf der nachstehend verlinkten Seite vorgehaltene M&ouml;glichkeit der Setzung eines Opt-Out-Cookie nutzen:<br />
+http://www.adroll.com/about/privacy<br />
+Weitergehende Informationen und die Datenschutzbestimmungen bez&uuml;glich Werbung und AdRoll Advertising Ltd (&bdquo;AdRoll&ldquo;) k&ouml;nnen Sie hier einsehen: http://www.adroll.com/about/privacy<br />
+- Auf dieser Webseite werden durch die Technologie von Criteo SA, 32 Rue Blanche, 75009 Paris, Frankreich, Informationen &uuml;ber das Surfverhalten der Webseitenbesucher zu Marketingzwecken in anonymisierter Form gesammelt und gespeichert. Diese Daten werden mithilfe von sog. &quot;Cookie&quot;-Textdateien auf Ihrem Computer gespeichert. Criteo analysiert anhand eines Algorithmus das Surfverhalten und kann anschlie&szlig;end gezielte Produktempfehlungen als personalisierte Werbebanner auf anderen Webseiten (sog. Publishern) anzeigen. In keinem Fall k&ouml;nnen diese Daten dazu verwendet werden, den Besucher dieser Website pers&ouml;nlich zu identifizieren. Die gesammelten Daten werden lediglich zur Verbesserung des Angebots benutzt. Eine andere Verwendung oder Weitergabe an Dritte erfolgt nicht. Um der Datenerhebung und Erstellung anonymisierter Benutzerprofile f&uuml;r die Zukunft zu widersprechen, k&ouml;nnen Sie den nachfolgenden sog. Opt-Out Cookie beziehen:<br />
+Criteo Austragung (http://www.criteo.com/de/datenschutzrichtlinien/opt-out)<br />
+Weitere Information zu der Technologie von Criteo erhalten Sie auf den Criteo Datenschutzbestimmungen.<br />
+(http://www.criteo.com/de/datenschutzrichtlinien)<br />
+- Diese Website verwendet Retargeting-Technologie der Google Inc. (&bdquo;Google&ldquo;). Diese erm&ouml;glicht es, Besucher unserer Internetseiten gezielt mit personalisierter, interessenbezogener Werbung anzusprechen, die sich bereits f&uuml;r unseren Shop und unsere Produkte interessiert haben. Die Einblendung der Werbemittel erfolgt dabei auf Basis einer Cookie-basierten Analyse des fr&uuml;heren Nutzungsverhaltens, wobei aber keine personenbezogenen Daten gespeichert werden. In den F&auml;llen der Retargeting-Technologie wird ein Cookie auf Ihrem Computer oder mobilen Endger&auml;t gespeichert, um anonymisierte Daten &uuml;ber Ihre Interessen zu erfassen und so die Werbung individuell auf die gespeicherten Informationen anzupassen. Diese Cookies sind kleine Textdateien, die auf Ihrem Computer oder mobilen Endger&auml;t gespeichert werden. Sie bekommen dadurch Werbung angezeigt, die mit hoher Wahrscheinlichkeit Ihren Produkt- und Informationsinteressen entspricht. Sie k&ouml;nnen der Setzung von Cookies f&uuml;r Anzeigenvorgaben dauerhaft widersprechen, indem Sie das unter folgendem Link verf&uuml;gbare Browser-Plug-in herunterladen und installieren:<br />
+https://www.google.com/settings/ads/onweb/<br />
+Weitergehende Informationen und die Datenschutzbestimmungen bez&uuml;glich Werbung und Google k&ouml;nnen Sie hier einsehen:<br />
+http://www.google.com/privacy/ads/<br />
+- Wenn Sie uns Ihre ausdr&uuml;ckliche Einwilligung erteilt haben, indem Sie Sie einen entsprechend hierf&uuml;r vorgesehenen Button geklickt haben, setzen wir innerhalb unseres Internetauftritts den &ldquo;Facebook-Pixel&rdquo; der, Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (&ldquo;Facebook&rdquo;) ein. So kann das Verhalten von Nutzern nachverfolgt werden, nachdem diese eine Facebook-Werbeanzeige gesehen oder angeklickt haben. Dieses Verfahren dient dazu, die Wirksamkeit der Facebook-Werbeanzeigen f&uuml;r statistische und Marktforschungszwecke auszuwerten und kann dazu beitragen, zuk&uuml;nftige Werbema&szlig;nahmen zu optimieren.<br />
+Die erhobenen Daten sind f&uuml;r uns anonym, bieten uns also keine R&uuml;ckschl&uuml;sse auf die Identit&auml;t der Nutzer. Allerdings werden die Daten von Facebook gespeichert und verarbeitet, sodass eine Verbindung zum jeweiligen Nutzerprofil m&ouml;glich ist und Facebook die Daten f&uuml;r eigene Werbezwecke, entsprechend der Facebook- Datenverwendungsrichtlinie (https://www.facebook.com/about/privacy/) verwenden kann. Sie k&ouml;nnen Facebook sowie dessen Partnern das Schalten von Werbeanzeigen auf und au&szlig;erhalb von Facebook erm&ouml;glichen. Es kann ferner zu diesen Zwecken ein Cookie auf Ihrem Rechner gespeichert werden.<br />
+Eine Einwilligung in den Einsatz des Facebook-Pixels darf nur von Nutzern, die &auml;lter als 13 Jahre alt sind, erkl&auml;rt werden. Falls Sie j&uuml;nger sind, bitten wir Sie, Ihre Erziehungsberechtigten um Erlaubnis zu fragen. Um der Verwendung von Cookies auf Ihrem Computer generell zu widersprechen, k&ouml;nnen Sie Ihren Internetbrowser so einstellen, dass zuk&uuml;nftig keine Cookies mehr auf Ihrem Computer abgelegt werden k&ouml;nnen bzw. bereits abgelegte Cookies gel&ouml;scht werden. Das Abschalten s&auml;mtlicher Cookies kann jedoch dazu f&uuml;hren, dass einige Funktionen auf unseren Internetseiten nicht mehr ausgef&uuml;hrt werden k&ouml;nnen. Sie k&ouml;nnen der Verwendung von Cookies durch Drittanbieter wie z.B. Facebook auch auf folgender Webseite der Digital Advertising Alliance deaktivieren: http://www.aboutads.info/choices/<br />
+- Diese Webseite nutzt die Conversion-Tracking-Technologie &bdquo;Bing Ads&ldquo; der Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA (&ldquo;Microsoft&rdquo;). Dabei wird von Microsoft ein Cookie auf Ihrem Rechner gesetzt, sofern Sie &uuml;ber eine von Microsoft geschaltete Anzeige (Bing Ad) auf unsere Website gelangt sind. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrem Computersystem abgelegt werden. Microsoft Bing und wir k&ouml;nnen auf diese Weise erkennen, dass jemand auf eine Anzeige geklickt hat und zu unserer Website auf eine zuvor bestimmte Zielseite (Conversion Seite) weitergeleitet wurde. Die mithilfe des Conversion-Cookies eingeholten Informationen dienen dazu, Conversion-Statistiken f&uuml;r Bing Ads-Kunden zu erstellen, die sich f&uuml;r das Conversion-Tracking entschieden haben, die Cookies dienen hierbei nicht Ihrer pers&ouml;nlichen Identifizierung. Wir erfahren dabei nur die Gesamtzahl der Seitenbesucher, die auf eine Bing Anzeige geklickt haben und dann zur Conversion Seite weitergeleitet wurden. Wenn Sie nicht am Tracking teilnehmen m&ouml;chten, k&ouml;nnen Sie dieser Nutzung widersprechen, indem Sie das Cookie des Microsoft Conversion-Trackings &uuml;ber ihren Internet-Browser unter Nutzereinstellungen deaktivieren. Sie werden sodann nicht in die Conversion-Tracking Statistiken aufgenommen. Weitere Informationen zum Datenschutz und zu den eingesetzten Cookies bei Microsoft Bing Ad finden Sie auf der Website von Microsoft: https://privacy.microsoft.com/de-DE/privacystatement<br />
+Sie k&ouml;nnen die Verwendung von Cookies durch Drittanbieter wie z.B. Microsoft Bing Ads auch auf folgender Webseite der Digital Advertising Alliance deaktivieren: http://www.aboutads.info/choices/</p>
+
+<h2>9) Ihre Rechte und Kontaktaufnahme</h2>
+
+<p>Sie haben ein Recht auf unentgeltliche Auskunft &uuml;ber Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder L&ouml;schung dieser Daten. Wenn Sie weitere Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten haben, kontaktieren Sie uns bitte. Gleiches gilt f&uuml;r Ausk&uuml;nfte, Sperrung, L&ouml;schungs- und Berichtigungsw&uuml;nsche hinsichtlich Ihrer personenbezogenen Daten sowie f&uuml;r Widerrufe erteilter Einwilligungen. Die Kontaktadresse finden Sie in unserem Impressum.</p></div>                            </div>
+            
+                            <div class="col-right"></div>
+                        </div>
+                    </div>
+                    
+
+<script type="text/javascript">
+    if (window.Translator) {
+        Translator.add({"Could not find contact URL":"Kontakt-URL nicht gefunden","Please wait...":"Bitte warten...","Error occurred, please try again later or via phone":"Es ist ein Fehler aufgetreten. Bitte probieren Sie es sp\u00e4ter erneut oder kontaktieren Sie uns telefonisch."});
+    }
+</script>
+<div id="contact_overlay">
+    <div class="contact_overlay_middle">
+        <div class="contact_overlay_header">
+            Kontaktieren Sie uns            <div id="contact_overlay_close_button" class="cancel_button"></div>
+        </div>
+        <script type="text/javascript">var contactFormAjaxUrl = "/contacts/index/postAjax/";</script>
+        <div id="contact_overlay_content">
+            <form action="#" id="contactFormAjax" method="post">
+                <div class="col2-set" style="margin-bottom:10px;">
+                    <div class="col-1">
+                        <label for="nameAjax" class="required">Name<em>*</em></label><br/>
+                        <input name="name" id="nameAjax" title="Name" value="" class="input-text required-entry" type="text" />
+                    </div>
+                    <div class="col-2">
+                        <label for="emailAjax" class="required">E-Mail<em>*</em></label><br/>
+                        <input name="email" id="emailAjax" title="E-Mail" value="" class="input-text required-entry validate-email" type="text" />
+                    </div>
+                </div>
+
+                <div class="col2-set" style="margin-bottom:10px;">
+                    <div class="col-1">
+                        <label for="telephoneAjax">Telefon</label><br/>
+                        <input name="telephone" id="telephoneAjax" title="Telefon" value="" class="input-text" type="text" />
+                    </div>
+                </div>
+
+                <label for="commentAjax" class="required">Ihre Nachricht<em>*</em></label><br/>
+                <textarea name="comment" id="commentAjax" title="Ihre Nachricht" class="required-entry input-text" cols="5" rows="3"></textarea>
+
+                <div class="buttons-set">
+                    <p class="required">* Pflichtfelder</p>
+                    <input type="text" name="hideit" id="hideitAjax" value="" style="display:none !important;" />
+                    <button type="button" onclick="validateContactFormAjax();" title="Absenden" class="button right"><span><span>Absenden</span></span></button>
+                </div>
+            </form>
+        </div>
+        <div id="contact_overlay_status"></div>
+    </div>
+    <div class="contact_overlay_bottom"><!-- --></div>
+</div>                    <!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+    var gts = gts || [];
+
+    gts.push(["id", "52848"]);
+    gts.push(["badge_position", "BOTTOM_RIGHT"]);
+    gts.push(["locale", "de_DE"]);
+
+    (function() {
+        var gts = document.createElement("script");
+        gts.type = "text/javascript";
+        gts.async = true;
+        gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(gts, s);
+    })();
+</script>
+<!-- END: Google Trusted Stores -->                </div>
+            </div>
+        </div>
+                    <footer id="footer">
+	<div class="wrapper">
+		<div class="footer-top">
+			<div class="col">
+				<div class="text1">Kartenmacherei</div>
+				<div class="h6-emulate text2">aus Liebe</div>
+				<ul class="list1">
+					<li><a href="https://www.kartenmacherei.de/wir_sind_anders.html">Warum wir anders sind</a></li>
+					<li><a href="https://www.kartenmacherei.de/faq/">Fragen &amp; Antworten</a></li>
+					<li><a href="https://www.kartenmacherei.de/fototipps/">Fototipps</a></li>
+					<li><a href="https://inside.kartenmacherei.de/">Das Unternehmen</a></li>
+					<li><a href="https://www.kartenmacherei.de/partnerprogramm/">Partnerprogramm</a></li>
+					<li><a href="https://www.kartenmacherei.de/presse/">Pressekontakt</a></li>
+					<li><a href="https://www.kartenmacherei.de/fotografen/">Fotografen Aktion</a></li>
+				</ul>
+			</div>
+			<div class="col">
+				<div class="text1">100%ig Schnell</div>
+				<ul class="payment-methods">
+					<li class="with-icon without-text svg-payment-visa">visa</li>
+					<li class="with-icon without-text svg-payment-mastercard">mastercard</li>
+					<li class="with-icon without-text svg-payment-paypal">paypal</li>
+					<li class="with-icon without-text svg-payment-ec">electronic cash</li>
+					<li class="with-icon without-text svg-payment-ssl">ssl</li>
+				</ul>
+				<div class="text1">Kartenmacherei im Netz</div>
+				<ul class="social-networks">
+					<li><a href="https://www.facebook.com/kartenmacherei/" class="without-text with-icon svg-network-facebook" target="_blank">facebook</a></li>
+					<li><a href="https://www.instagram.com/kartenmacherei/" class="without-text with-icon svg-network-instagram" target="_blank">instagram</a></li>
+					<li><a href="https://www.pinterest.com/kartenmacherei/" class="without-text with-icon svg-network-pinterest" target="_blank">pinterest</a></li>
+					<li><a href="https://www.xing.com/companies/diekartenmachereigmbh" class="without-text with-icon svg-network-xing" target="_blank">xing</a></li>
+					<li><a href="https://www.linkedin.com/company/die-kartenmacherei" class="without-text with-icon svg-network-linkedin" target="_blank">linkedin</a></li>
+					<li><a href="https://www.kartenmacherei.de/magazin/" class="without-text with-icon svg-network-magazin" target="_blank">magazin</a></li>
+				</ul>
+			</div>
+			<div class="col">
+				<div class="text1">Kundenbewertungen</div>
+<p> </p>
+<div class="ekomi-block">
+    <div class="ekomi-content">
+        <p>
+            <span itemscope="" itemtype="https://schema.org/Brand">
+                <span itemprop="name" style="display:none">die kartenmacherei GmbH</span>
+                <span itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+                    <span itemprop="worstRating" style="display:none">1</span>
+                    <span class="text2 with-icon svg-ekomi">
+                        <span itemprop="ratingValue">4.9</span>/<span itemprop="bestRating">5</span>
+                    </span>
+                    <span class="text1 total-amount">aus <span itemprop="ratingCount">107366</span> Bewertungen</span>
+                </span>
+            </span>
+        </p>
+    </div>
+    <div class="feedbacks-block">
+                                    <div class="feedback">
+                    <div class="rating-date-area cfx">
+                        <ul class="ekomi-stars cfx">
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                    </ul>
+                        <em class="date">27.05.2017</em>
+                    </div>
+                    <p>Tolle Qualität, schnelle Produktion und sehr höflicher und hilfreicher Kundenservice! Ich hatte Einlegeblätter (...)</p>
+                </div>
+                                                <div class="feedback">
+                    <div class="rating-date-area cfx">
+                        <ul class="ekomi-stars cfx">
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                            <li class="svg-star with-icon without-text"></li>
+                                                    </ul>
+                        <em class="date">27.05.2017</em>
+                    </div>
+                    <p>Gute Qualität und schneller Versand.  Alles super!</p>
+                </div>
+                        </div>
+    <a href="https://www.kartenmacherei.de/kundenmeinungen/" class="text1 svg-arrow-right-color-link">Alle 107366 Bewertungen lesen</a>
+</div>
+			</div>
+		</div>
+		<div class="footer-separator">
+			<img data-src="/hash753e8d5231dbe49c31b16be66432a6b3/kam/images/images/img-footer.png" alt="Viele Grüße vom Ammersee" class="lazyload" />
+		</div>
+		<div class="footer-links">
+			<div class="col">
+				<div class="text4 opener">Sprüche &amp; Texte</div>
+				<ul class="list0">
+					<li><a href="https://www.kartenmacherei.de/sprueche/hochzeit.html">Hochzeitssprüche</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/hochzeit/hochzeitsgedichte.html">Hochzeitsgedichte</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/hochzeit/hochzeitseinladung-text.html">Hochzeit Einladungstexte</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/hochzeit/jubilaeen.html">Goldene Hochzeit &amp; co.</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/geburtstag.html">Geburtstagssprüche</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/geburtstag/geburtstagsgedichte.html">Geburtstagsgedichte</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/geburtstag/einladung.html">Geburtstagstexte</a></li>
+				</ul>
+			</div>
+			<div class="col">
+				<div class="text4 opener">Sprüche &amp; Zitate</div>
+				<ul class="list0">
+					<li><a href="https://www.kartenmacherei.de/sprueche/saisonal/weihnachten.html">Weihnachtssprüche</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/geburt.html">Geburtssprüche</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/feste/taufe.html">Taufsprüche</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/konfirmation.html">Konfirmationssprüche</a></li>
+					<li><a href="https://www.kartenmacherei.de/sprueche/feste/kommunion.html">Kommunionssprüche</a></li>
+				</ul>
+			</div>
+			<div class="col">
+				<div class="text4 opener">Geburt u. Geburtstag</div>
+				<ul class="list0">
+					<li><a href="https://www.kartenmacherei.de/danksagung-geburt.html">Danksagung Geburt</a></li>
+					<li><a href="https://www.kartenmacherei.de/babykarten.html">Babykarten</a></li>
+					<li><a href="https://www.kartenmacherei.de/geburtsanzeigen.html">Geburtsanzeigen</a></li>
+				</ul>
+			</div>
+			<div class="col">
+				<div class="text4 opener">Kartenmacherei</div>
+				<ul class="list0">
+					<li><a href="https://www.kartenmacherei.de/agb/">AGB</a></li>
+					<li><a href="https://www.kartenmacherei.de/datenschutz/">Datenschutz</a></li>
+					<li><a href="https://www.kartenmacherei.de/lieferung/">Lieferung</a></li>
+					<li><a href="https://www.kartenmacherei.at">Österreich</a></li>
+					<li><a href="https://www.kartenmacherei.ch">Schweiz</a></li>
+					<li><a href="https://www.faireparterie.fr/">Frankreich</a></li>
+					<li><a href="https://www.kartenmacherei.de/impressum/">Impressum</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+                        <div id="sb-container">
+    <div id="sb-overlay"></div>
+    <div id="sb-wrapper">
+        <div id="sb-title">
+            <div id="sb-title-inner"></div>
+        </div>
+        <div id="sb-wrapper-inner">
+            <div id="sb-body">
+                <div id="sb-body-inner"></div>
+                <div id="sb-loading">
+                    <div id="sb-loading-inner">
+                        <span>&nbsp;</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="sb-info">
+            <div id="sb-info-inner">
+                <div id="sb-counter"></div>
+                <div id="sb-nav">
+                    <a id="sb-nav-close" title="Schließen" onclick="Shadowbox.close()"></a>
+                    <a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a>
+                    <a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a>
+                    <a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a>
+                    <a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div style="display:none;"><a href="https://assets.kartenmacherei.de/Application.swf?v=37" id="movie">movie</a></div>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0032/9274.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+                        <script type='text/javascript' src='/js/3p/requirejs/require.js'></script>
+<script>
+
+    customerGroup = 0;
+
+    require.config({
+        shim: { // 3p-deps of components
+            'components/core'  : {deps: ['3p/underscore/underscore', '3p/picturefill/dist/picturefill', '3p/jquery-detect-swipe/jquery.detect_swipe', '3p/lazysizes/lazysizes.min']}
+        },
+        baseUrl: '/js/'
+    });
+</script>
+<script>
+    require(['schemes/fury-in-magento'], function(FuryInMagento) {
+        new FuryInMagento;
+    });
+</script>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1495c946a6","applicationID":"4956123","transactionName":"ZFUDZ0MDVxIDBUMNC10fIFBFC1YPTQVaF0tDUQZWHhRQBBU=","queueTime":0,"applicationTime":159,"atts":"SBIAEQsZRBw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

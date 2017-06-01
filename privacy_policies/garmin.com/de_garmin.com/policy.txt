@@ -1,0 +1,667 @@
+  * Login
+
+Sie sind angemeldet
+
+    * Mein Konto
+    * Registrierte Produkte
+    * Bestellstatus
+    * Ausloggen
+
+  * Deutschland
+
+    * Argentina
+    * Australia
+    * Belgique (Français)
+    * België (Nederlands)
+    * Brasil
+    * Canada (English)
+    * Chile
+    * Danmark
+    * Česká Republika
+    * ประเทศไทย
+    * 한국
+    * Deutschland
+    * España
+    * Estados Unidos (Español)
+    * France
+    * Hrvatska
+    * India
+    * Ireland
+    * Italia
+    * Magyarország
+    * México
+    * Nederland
+    * New Zealand
+    * Norge
+    * Polska
+    * Portugal
+    * Romania
+    * Singapore
+    * Slovenija
+    * Slovensko
+    * South Africa
+    * Suomi
+    * Österreich
+    * Sverige
+    * Türkiye
+    * United Kingdom
+    * United States
+    * Ελλάδα
+    * България
+    * Россия
+    * Україна
+    * 中国 - 中文
+    * 台灣 - 中文
+    * 日本
+
+  *   *   * Suche
+
+  * Shop 
+
+    * Straßennavigation 
+
+      * PKW
+      * Motorrad
+      * LKW
+      * Wohnwagen & Wohnmobil
+      * Flottenmanagement
+      * Kameras
+
+    * Sport & Outdoor 
+
+      * Fitness-Tracker 
+      * Laufen
+      * Radfahren
+      * Multisport
+      * Schwimmen
+      * Golf
+      * Wandern
+      * Handgeräte
+      * Hundeortung & Tracking
+
+    * Marine 
+
+######  Shop zum Produkt
+
+      * Kartenplotter & Kombigeräte 
+      * Echolot Module 
+      * Panoptix
+      * Kartenplotter/Echolote Kombi
+      * Echolot Geber
+      * Radar
+      * Autopiloten
+      * VHF und AIS
+      * Instrumente
+      * Kompasse
+      * Windsensoren
+      * Antennen & Sensoren
+      * Handgeräte & Wearables
+      * Kameras 
+      * Apps
+      * Marine-Entertainment
+
+######  Produktsuche nach Aktivität
+
+      * Küsten Fischerei
+      * Binnen Fischerei 
+      * Cruising
+      * Segeln 
+
+    * Luftfahrt 
+
+      * Allgemeine Luftfahrt
+      * Hubschrauber
+      * Experimentals / Uls
+      * Portable GPS-Systeme
+      * Apps
+      * flyGarmin Dienste
+
+    * Kameras 
+
+      * 360-Grad-Kameras
+      * Action Kameras
+      * Dashcams
+      * Rückfahrkameras
+
+    * Wearables Fitness-Tracker und Sportuhren
+    * Fitness für Unternehmen 
+
+    * inReach Technologie 
+    * Apps 
+    * Zubehör 
+    * Sensoren 
+
+  * Karten & Extras 
+
+    * Straßenkarten 
+    * Outdoor- und Freizeitkarten 
+    * Fahrradkarten 
+    * Golfplatzkarten 
+    * Marinekarten 
+    * Luftfahrtdatenbanken 
+
+  * Support 
+
+    * Support-Center 
+    * Luftfahrt-Support 
+    * Tutorial-Videos 
+
+  * Erleben 
+
+    * Garmin Connect Aktivitäten verfolgen, analysieren und teilen
+    * Garmin Express Geräte und Karten verwalten und aktualisieren
+    * Connect IQ Apps, Watch Faces und mehr herunterladen
+    * inReach Account Verwalte dein inReach Gerät
+    * BaseCamp Software zur Touren- und Routenplanung
+
+    * Blog Aktuelle Themen und Informationen rund um Produkte
+    * #BeatYesterday Lebe gesünder und werde jeden Tag ein bisschen besser
+
+  * ##### Händler
+
+    * Händlerportal
+
+##### Unternehmen
+
+    * Kontakt
+    * Über Garmin
+    * Karriere
+    * Presse
+
+##### Links
+
+    * myGarmin™
+    * Garmin Connect™
+    * flyGarmin®
+    * Teamviewer (Mac)
+    * Teamviewer (Windows)
+
+##### Lösungen
+
+    * Flottenmanagement
+    * Fitness für Unternehmen
+
+# Datenschutzerklärung
+
+##
+
+Letzte Aktualisierung: 14. Februar 2017
+
+Garmin schützt Ihre Privatsphäre. Diese Datenschutzerklärung soll Sie darüber
+informieren, wie wir Ihre persönlichen Daten erfassen, nutzen, mit anderen
+teilen und speichern.
+
+Diese Datenschutzerklärung gilt für alle Websites, Anwendungen ("Apps") und
+Produkte, auf denen diese Datenschutzerklärung angezeigt wird. Falls eine
+Garmin-Website, eine Garmin-App oder ein Garmin-Produkt einen Link zu einer
+anderen Datenschutzerklärung enthält, gilt jene Datenschutzerklärung für die
+Nutzung dieser Website, dieser App oder dieses Produkts durch Sie.
+Beispielsweise gibt es eine separate Datenschutzerklärung, die für Garmin
+Connect und die damit kompatiblen Garmin-Wearables und anderen -Geräte gilt.
+Diese Datenschutzrichtlinie ist hier verfügbar.
+
+Wenn Sie zu einem bestimmten Abschnitt dieser Datenschutzerklärung wechseln
+möchten, klicken Sie unten auf einen Link:
+
+  * Erfassung und Nutzung persönlicher Daten durch Garmin
+  * Parteien, mit denen Garmin Ihre persönlichen Daten teilen kann
+  * Ihre Möglichkeiten, persönliche Daten mit anderen zu teilen oder Garmin dazu anzuweisen
+  * Cookies und ähnliche Technologien
+  * Links, Apps von Drittanbietern und Datenschutzpraktiken von Drittanbietern
+  * Sicherheit
+  * Ihre Wahlmöglichkeit bezüglich Marketingmitteilungen
+  * Richtlinie hinsichtlich Kindern
+  * Aktualisierungen der Datenschutzerklärung
+  * Speicherung persönlicher Daten
+  * Ihre Möglichkeiten zum Überprüfen, Korrigieren, Aktualisieren und Löschen Ihrer persönlichen Daten
+
+## Erfassung und Nutzung persönlicher Daten durch Garmin
+
+"Persönliche Daten" bezeichnet Informationen, die, entweder alleine oder in
+Kombination mit anderen erfassten Daten, eine Einzelperson identifizieren.
+Sollten wir andere Informationen (d. h. Informationen, die alleine betrachtet
+eine Einzelperson nicht identifizieren) mit persönlichen Daten kombinieren,
+werden die kombinierten Informationen von uns wie persönliche Daten
+gehandhabt.
+
+### Erstellen eines Garmin-Kontos
+
+Wenn Sie ein Konto auf einer Garmin-Website oder in einer mobilen App
+erstellen, werden Sie gebeten, persönliche Daten wie Ihren Namen und Ihre
+Email-Adresse anzugeben. Die Angabe Ihres vollständigen Namens ist freiwillig.
+Sie melden sich mit Ihrer Email-Adresse und Ihrem Kennwort bei Ihrem Konto an.
+Ihr Garmin-Konto ist kennwortgeschützt. Der Name wird verwendet, um bei der
+Kontaktaufnahme mit dem Support Ihr Konto zu verifizieren.
+
+### Anmeldung beim Garmin-Konto mit den Anmeldedaten sozialer Netzwerke
+
+Sie haben die Wahl, sich mit den Anmeldedaten sozialer Netzwerke (z. B. mit
+Ihren Facebook-Anmeldedaten) bei Ihrem Garmin-Konto anzumelden. Wenn Sie sich
+hierfür entscheiden, werden Sie, wenn Sie sich das erste Mal mit den
+Anmeldedaten sozialer Netzwerke beim Garmin-Konto anmelden, gefragt, ob Sie
+zustimmen, dass der Anbieter des sozialen Netzwerks bestimmte Informationen an
+Garmin weitergeben darf, z. B. Ihren Namen, Ihre Email-Adresse, Ihr
+Profilfoto, Beiträge, Kommentare und andere Informationen in Verbindung mit
+Ihrem sozialen Netzwerkkonto.
+
+Diese Informationen werden Garmin vom Anbieter des sozialen Netzwerks aufgrund
+der Funktionsweise der Anmeldekonfiguration für das soziale Netzwerk
+bereitgestellt, allerdings speichert und nutzt Garmin von der Gesamtheit
+dieser Informationen lediglich Ihre Email-Adresse. Garmin nutzt die vom
+Anbieter des sozialen Netzwerks bereitgestellte Email-Adresse, um sie mit
+Ihrem Garmin-Konto zu verknüpfen, damit Sie sich zukünftig mit Ihrer Email-
+Adresse beim Garmin-Konto anmelden können, falls Sie sich nicht mehr mit den
+Anmeldedaten des sozialen Netzwerks anmelden möchten.
+
+Falls der Anbieter des sozialen Netzwerks Ihre Daten nicht an Garmin
+weitergeben soll, können Sie sich einfach mit den Anmeldedaten für Ihr Garmin-
+Konto bei Ihrem Garmin-Konto anmelden und nicht die Anmeldedaten für das
+soziale Netzwerk verwenden.
+
+### Erwerb von Produkten auf einer Garmin-Website
+
+Wenn Sie ein Produkt auf einer Garmin-Website erwerben, erfasst Garmin
+persönliche Daten von Ihnen, z. B. Ihren Namen, Ihre Postanschrift und Ihre
+Telefonnummer, damit wir die Bestellung bearbeiten und den Einkauf abwickeln
+können. Informationen zur Zahlungskarte werden nicht angezeigt oder
+gespeichert. Adyen, ein Drittanbieter, bearbeitet die Informationen zur
+Zahlungskarte des Kunden, wenn Garmin-Kunden eine Zahlungskarte für Einkäufe
+auf einer Garmin-Website verwenden. Sie sollten die Datenschutzrichtlinie von
+Adyen aufmerksam lesen.
+
+### Kommunikation mit Garmin
+
+Wenn Sie per Email, telefonisch oder persönlich mit unserem Support in
+Verbindung stehen, erfassen wir u. U. persönliche Daten, z. B. Name,
+Postanschrift, Telefonnummer, Email-Adresse und Präferenzen für die
+Kontaktaufnahme, sowie Informationen zu den Garmin-Produkten, die Sie
+besitzen, z. B. Seriennummern und das Kaufdatum. Außerdem erstellen wir
+möglicherweise Eventprotokolle, die bei der Diagnose von Problemen zu Produkt-
+oder App-Leistung hilfreich sein können, und erfassen Informationen zum
+Support- oder Serviceproblem. Diese Informationen dienen zur Bereitstellung
+von Kunden- und Produktsupport. Möglicherweise greifen wir auf Ihr Garmin-
+Konto zu, um Ihnen die erforderliche Unterstützung bieten zu können. Zum
+Verbessern des Kundendienstes, jedoch vorbehaltlich anwendbarer Gesetze,
+werden Gespräche mit Kundendienstmitarbeitern von uns u. U. aufgezeichnet und
+überprüft; außerdem können wir Feedback analysieren, das uns im Rahmen
+freiwilliger Kundenumfragen bereitgestellt wurde.
+
+Wir können Ihre persönlichen Daten nutzen, um mit Ihnen bezüglich Ihres Kontos
+oder Ihrer Transaktionen mit uns Kontakt aufzunehmen, um Ihnen wichtige
+Informationen zu Ihren Produkten oder Apps zur Verfügung zu stellen, um Sie
+über wesentliche Änderungen an dieser Datenschutzerklärung zu informieren und
+um Ihnen entsprechend anwendbaren Gesetzen und den Ihnen gemäß dem Abschnitt
+"Ihre Wahlmöglichkeiten bezüglich Marketingmitteilungen" verfügbaren
+Wahlmöglichkeiten Angebote zu unseren Produkten und Apps zu senden.
+
+### Verwendung von Positionsfunktionen auf dem Garmin-Gerät oder in der App
+
+Wenn Sie sich zur Nutzung positionsabhängiger Dienste der Garmin-App bzw. des
+Garmin-Geräts entscheiden, z. B. Informationen zu Wetter, Verkehr,
+Kraftstoffpreisen, Kinoprogrammen und lokalen Veranstaltungen, wird die
+physische Position des Geräts erfasst, damit Garmin oder unsere Anbieter Ihnen
+diese positionsabhängigen Dienste bereitstellen können.
+
+### Verwendung des für die Navigation mit dem Auto vorgesehenen Garmin-Geräts
+bzw. der dafür vorgesehenen Garmin-App
+
+Wenn Sie ein für die Navigation mit dem Auto vorgesehenes Garmin-Gerät bzw.
+eine dafür vorgesehene Garmin-App verwenden und bei der entsprechenden
+Aufforderung Ihre Zustimmung erteilen, erfasst Garmin Daten wie Position,
+Tempo, Richtung sowie die Uhrzeit und das Datum der Aufzeichnung vom Gerät und
+lädt diese Daten hoch. Diese Daten werden von Garmin anonymisiert und zur
+Optimierung der Qualität unserer Produkte und Apps sowie der Verkehrs-,
+Parkplatz- und anderen Funktionen, die von Garmin oder von Inhaltsanbietern
+bereitgestellt werden, verwendet. Wenn Sie bei der entsprechenden Aufforderung
+Ihre Zustimmung erteilen, kann Garmin diese anonymisierten Daten auch an
+Dritte weitergeben oder verkaufen, um die Qualität der Verkehrs-, Parkplatz-
+und anderen Funktionen, die von Inhaltsanbietern bereitgestellt werden, zu
+verbessern.
+
+### Andere Nutzung persönlicher Daten durch Garmin
+
+Garmin kann persönliche Daten für interne statistische, Marketing- oder
+betriebliche Zwecke verwenden, u. a. zum Erstellen von Vertriebsberichten und
+zum Erfassen und Verstehen von demografischen Trends, Trends zu
+Benutzerinteresse, Kauf- und anderen Trends bei Kunden.
+
+## Parteien, mit denen Garmin Ihre persönlichen Daten teilen kann
+
+### Andere Garmin-Unternehmen
+
+Garmin ist ein globales Unternehmen. Damit wir unsere Produkte, Apps und
+Dienste anbieten können, müssen wir Ihre persönlichen Daten u. U. an andere
+Garmin-Unternehmen in anderen Ländern übertragen, einschließlich Garmin
+International, Inc. in den USA, wo sich viele unserer Server befinden. Die
+Datenschutzgesetze in diesen Ländern weichen möglicherweise von den Gesetzen
+in dem Land ab, in dem Sie die Informationen anfänglich bereitgestellt haben.
+Sehen Sie sich eine Liste der Garmin-Unternehmen an.
+
+Die Übertragung persönlicher Daten von Garmin-Unternehmen im Europäischen
+Wirtschaftsraum ("EWR") oder in der Schweiz an Garmin International, Inc. in
+den USA erfolgt entsprechend genehmigter Modell-Vertragsklauseln der
+Europäischen Kommission.
+
+Alle Garmin-Unternehmen müssen den in dieser Datenschutzerklärung dargelegten
+Datenschutzpraktiken folgen.
+
+### Anbieter von Daten und Inhalten
+
+Wenn Sie ein für die Navigation mit dem Auto vorgesehenes Garmin-Gerät bzw.
+eine dafür vorgesehene Garmin-App verwenden und bei der entsprechenden
+Aufforderung Ihre Zustimmung erteilen, erfasst Garmin Daten wie Position,
+Tempo, Richtung sowie die Uhrzeit und das Datum der Aufzeichnung vom Gerät und
+lädt diese Daten hoch. Wenn Sie Ihre Zustimmung erteilen, kann Garmin diese
+anonymisierten Daten außerdem mit Dritten teilen oder an diese verkaufen, um
+die Qualität der Verkehrs-, Parkplatz- und anderen Funktionen, die von
+Inhaltsanbietern bereitgestellt werden, zu verbessern.
+
+### Anbieter sozialer Netzwerke
+
+Gelegentlich stellen wir Anbietern sozialer Netzwerke die Email-Adressen
+bestimmter Garmin-Kunden bereit, die sich für den Erhalt von
+Marketingmitteilungen zu Garmin-Produkten und -Apps entschieden haben, damit
+diese Anbieter sozialer Netzwerke uns bei der Anzeige von Werbung auf den
+Seiten sozialer Netzwerke anderer Benutzer, die dieselben gemeinsamen
+Eigenschaften (z. B. Demographie und Interessen) wie die bestimmten Garmin-
+Kunden aufweisen, unterstützen können.
+
+Wenn Sie sich anmelden, um Email-Benachrichtigungen zu erhalten, wenn ein
+bestimmtes Garmin-Produkt bzw. eine bestimmte Garmin-App zum Kauf verfügbar
+sein wird, verwenden wir Ihre Email-Adresse nicht nur, um Sie bei der
+Verfügbarkeit des Produkts bzw. der App entsprechend zu informieren, sondern
+stellen Ihre Email-Adresse ggf. auch Anbietern sozialer Netzwerke bereit,
+damit diese uns bei der Anzeige von Werbung zu diesem Produkt bzw. dieser App
+auf Ihren Seiten sozialer Netzwerke unterstützen können.
+
+### Dienstanbieter
+
+Wir beauftragen Dienstanbieter damit, in unserem Auftrag bestimmte Aktivitäten
+auszuführen, beispielsweise die Einkaufsabwicklung durchzuführen, Produkte zu
+versenden, Kreditkartenzahlungen zu bearbeiten, Emails zu versenden, Werbung
+bereitzustellen, die Nutzung unserer Websites und Apps zu analysieren, die
+Effektivität unserer Marketingkampagnen zu verfolgen und es Benutzern zu
+ermöglichen, eine Verbindung mit ihren sozialen Netzwerken herzustellen. Wir
+können Daten zu Ihrer Person mit diesen Dienstanbietern in dem Maß teilen, wie
+dies allein zum Zweck der Ausführung dieser Dienste in unserem Auftrag
+erforderlich ist.
+
+Im Folgenden sind einige Drittanbieter aufgeführt, mit denen wir derzeit
+zusammenarbeiten:
+
+  * Email-Anbieter: Cloud-Dienste von Adobe werden eingesetzt, um Garmin beim Email-Versand zu unterstützen, wobei der Einsatz anwendbaren Gesetzen entspricht sowie den Ihnen gemäß dem Abschnitt "Ihre Wahlmöglichkeit bezüglich Marketingmitteilungen" verfügbaren Wahlmöglichkeiten. 
+  * Analysedienste: Garmin arbeitet mit externen Dienstanbietern zusammen, um ein besseres Verständnis der Nutzung von Garmin Express und anderen Garmin-Produkten und mobilen Apps zu erhalten sowie auch für ähnliche Zwecke. Die Dritten, die derzeit von uns mit der Bereitstellung dieser Analyse- und ähnlichen Dienste beauftragt wurden, sind im Abschnitt "Cookies und ähnliche Technologien" beschrieben.
+
+### Eventprotokolle für Werbeanzeigen
+
+Falls Sie Garmin-Apps nutzen, die Werbung enthalten, können wir Informationen
+erfassen, beispielsweise dazu, welche Werbung angezeigt wurde, wie oft darauf
+geklickt wurde und wie oft bestimmte Aktionen ausgeführt wurden, z. B. wie
+häufig ein Gutschein gespeichert wurde, wie oft an einem Ort angerufen wurde,
+der mit einer Werbeanzeige übereinstimmte, bzw. wie oft eine Route zu diesem
+Ort erstellt wurde; auf diese Weise können Werbeanbieter Ihnen Inhalte und
+Werbeanzeigen bereitstellen, die für Sie von besonderem Interesse sind.
+
+### Weitere Offenlegung von Informationen
+
+Wir können anderen gegenüber Daten zu Ihrer Person offenlegen, wenn uns
+diesbezüglich ihre Zustimmung in einer Form vorliegt, die nach anwendbaren
+Gesetzen ggf. erforderlich ist.
+
+Gemäß anwendbaren Gesetzen in Ihrer Gerichtsbarkeit können wir anderen
+gegenüber Daten zu Ihrer Person außerdem offenlegen, wenn wir dies
+entsprechend folgenden Punkten für notwendig oder angemessen halten: (a) gemäß
+anwendbaren Gesetzen oder Bestimmungen, darunter Gesetze oder Bestimmungen
+eines Landes, in dem Sie nicht wohnhaft sind, (b) zur Einhaltung des
+Rechtswegs, (c) als Reaktion auf Anfragen durch Behörden und Vollzugsbeamte,
+darunter Beamte eines Landes, in dem Sie nicht wohnhaft sind, (d) zur
+Unterstützung von Diebstahlermittlungen im Zusammenhang mit Produkten oder
+Eigentum von Garmin, (e) zur Durchsetzung unserer Bedingungen oder
+Richtlinien, (f) zum Schutz unseres Geschäftsbetriebs oder des Betriebs
+unserer verbundenen Unternehmen und Tochtergesellschaften, (g) zum Schutz der
+Rechte, des Datenschutzes, der Sicherheit oder des Eigentums von Garmin,
+dessen verbundener Unternehmen und Tochtergesellschaften, Ihrer Person oder
+anderer oder (h) zur Geltendmachung verfügbarer Rechtsmittel oder
+Einschränkung von uns ggf. erlittener Schäden.
+
+Wir können persönliche Daten außerdem im Falle von Umstrukturierung, Fusion,
+Verkauf, Joint Venture, Übereignung, Übertragung oder einer anderer
+Veräußerung von Geschäftsbetrieb, Betriebsvermögen oder Aktien von Garmin, sei
+es in ihrer Gesamtheit oder in Teilen, u. a. in Verbindung mit Insolvenz oder
+ähnlichen Verfahren, an verbundene Unternehmen, Tochtergesellschaften oder
+Dritte übertragen.
+
+## Ihre Möglichkeiten, persönliche Daten mit anderen zu teilen oder Garmin
+dazu anzuweisen
+
+### LiveTrack
+
+LiveTrack ist eine Funktion, die auf einigen Garmin-Geräten verfügbar ist und
+es Ihnen ermöglicht, einen Link an von Ihnen ausgewählte Personen zu schicken,
+damit diese die Echtzeitposition Ihres Geräts anzeigen können. Alle Personen
+mit Zugriff auf den Link können die Echtzeitposition Ihres Garmin-Geräts
+sehen; daher sollten Sie Vorsicht walten lassen, wenn Sie entscheiden, wem Sie
+den Link schicken, und Sie sollten diesen Personen vertrauen, dass sie den
+Link nicht an andere Personen senden, die die Position Ihres Garmin-Geräts
+nicht anzeigen sollen.
+
+Wenn Sie auf sozialen Netzwerken von Drittanbietern eine Einladung zur Anzeige
+der Position Ihres Garmin-Geräts veröffentlichen, können je nach
+Datenschutzpraktiken dieser sozialen Netzwerke ggf. zusätzlich zu den von
+Ihnen eingeladenen Personen, die Ihre Positionsdaten anzeigen sollen, auch
+andere Personen Zugriff auf diese Informationen haben. Dementsprechend sollten
+Sie Vorsicht walten lassen, wenn Sie Einladungen über soziale Netzwerke von
+Drittanbietern versenden, und Sie sollten die Datenschutzpraktiken dieser
+sozialen Netzwerke aufmerksam lesen.
+
+### Message Boards, Foren
+
+Auf einigen Garmin-Websites und -Apps sind Message Boards, Foren, Chats, Blogs
+und ähnliche Funktionen verfügbar, über die Sie Informationen, Nachrichten und
+Materialien veröffentlichen können. Bitte beachten Sie, dass die
+Informationen, die Sie über derartige Dienste oder anderweitig über unsere
+Websites offenlegen, öffentlich gemacht werden können und ggf. für
+Websitebesucher und die Öffentlichkeit verfügbar sind. Wir raten Ihnen
+dringend, bei der Offenlegung persönlicher Daten oder anderer Informationen
+auf unseren Websites oder in unseren Apps Vorsicht walten zu lassen.
+
+### Werbeaktionen
+
+Falls Sie an einem Gewinnspiel oder einer ähnlichen Werbeaktion teilnehmen,
+nutzen wir die bereitgestellten Informationen zur Durchführung dieser
+Werbeaktionen. Sollten die Bedingungen einer Werbeaktion bezüglich der
+Handhabung persönlicher Daten zu Ihrer Person mit dieser Datenschutzerklärung
+im Konflikt stehen, gelten die Bedingungen der Werbeaktion.
+
+## Cookies und ähnliche Technologien
+
+Zur besseren Analyse der Navigation auf der Garmin-Website durch Sie und
+andere Besucher und zum Zusammenstellen statistischer Daten zu Websitenutzung
+und Antwortquoten werden von uns mit Unterstützung externer Dienstanbieter für
+Analysen bestimmte Informationen erfasst, wenn Sie unsere Website besuchen.
+Diese Informationen umfassen die IP-Adresse, die geografische Position des
+Geräts, den Browsertyp, die Browsersprache, das Datum und die Uhrzeit der
+Anfrage, die Zeiten Ihrer Besuche, die Demographie, Seitenaufrufe und die
+Seitenelemente (z. B. Links), auf die Sie klicken. Wir setzen auf unserer
+Website oder in unseren Email-Nachrichten ggf. Cookies, Zählpixel, Webbeacons,
+Clear Gifs oder ähnliche Tools ein, die uns bei der Erfassung und Analyse
+dieser Informationen unterstützen. Wir verwenden diese Informationen, um
+besseren, relevanteren Inhalt auf unserer Website bereitzustellen, um die
+Effektivität von Werbeanzeigen zu messen, um Probleme zu identifizieren und zu
+beheben und um die Benutzerfreundlichkeit unserer Website zu optimieren.
+Gegebenenfalls beauftragen wir auch einen oder mehrere externe Dienstanbieter
+damit, in unserem Auftrag Onlinewerbung bereitzustellen. Diese können ein
+Pixel-Tag oder eine andere ähnliche Technologie verwenden, um Informationen zu
+Ihren Websitebesuchen zu erfassen und mithilfe dieser Informationen gezielt
+Werbung bereitzustellen. Weitere Informationen zu diesem Verfahren und zum
+Ablehnen einer derartigen Erfassung und Nutzung der Informationen durch
+externe Dienstanbieter finden Sie unter Networkadvertising.org.
+
+Wenn Informationen nicht durch die Verwendung dieser Technologien erfasst
+werden sollen, haben Sie bei den meisten Browsern die Möglichkeit, viele
+dieser Technologien automatisch abzulehnen oder diese Technologien wahlweise
+abzulehnen oder zu akzeptieren. Falls Sie in einer Gerichtsbarkeit wohnhaft
+sind, in der wir Ihre Zustimmung zur Nutzung von Cookies auf unseren Websites
+benötigen, haben Sie außerdem die Möglichkeit, Ihre Cookie-Präferenzen auf den
+Websites zu verwalten; eine Ausnahme hierzu bilden bestimmte Cookies, die für
+den Websitebetrieb erforderlich sind; diese Cookies können von Ihnen nicht
+deaktiviert werden.
+
+Wir nutzen in bestimmten Situationen, in denen Adobe Flash Player zur
+Bereitstellung besonderer Inhalte wie Videos oder Videoclips eingesetzt wird,
+lokal gespeicherte Objekte, die auch als Flash-Cookies bekannt sind. Flash
+nutzt diese Technologie ähnlich wie Browser-Cookies zum Speichern von
+Einstellungen, Präferenzen und Nutzung, jedoch werden Flash-Cookies nicht über
+den Webbrowser verwaltet. Informieren Sie sich über das Verwalten von
+Datenschutz- und Speichereinstellungen für Flash-Cookies.
+
+Wenn Sie Ihr Garmin-Gerät über Garmin Express synchronisieren, werden auf dem
+Gerät zu Ihrer Aktivität aufgezeichnete Daten vom Gerät auf unsere Server
+übertragen. Bei jeder Synchronisierung werden Daten zur Übertragung erfasst,
+z. B. die bei der Synchronisierung verwendete IP-Adresse, die Uhrzeit und das
+Datum der Synchronisierung, Systemabsturz-/Diagnoseprotokolle, die
+geografische Position des Geräts, Informationen zum Gerät, Informationen zum
+Netzwerk, über das die Synchronisierung erfolgte (z. B. WLAN oder Mobilfunk),
+sowie der Batteriestand bzw. Akkuladestand des Geräts. Wir nutzen diese
+Informationen, um Synchronisierungsprobleme zu identifizieren und zu beheben.
+
+Wir verfolgen und erfassen Daten von Benutzern bezüglich ihrer Verwendung von
+Garmin Express und mobiler Garmin-Apps. Die analytischen Daten, die erfasst
+werden, umfassen u. a. das Datum und die Uhrzeit, zu dem bzw. der das Gerät
+auf unsere Server zugreift, die Softwareversion, die geografische Position des
+Geräts, die Sprache, welche Informationen und Dateien auf das Gerät
+heruntergeladen wurden, das Benutzerverhalten (z. B. welche Funktionen
+verwendet werden und wie häufig sie verwendet werden), Informationen zu
+Gerätestatus, Gerätemodell, Hardware und Betriebssystem sowie Informationen
+zur Funktionsweise des Geräts. Garmin nutzt diese Daten, um die Qualität und
+die Funktionsweise von Garmin Express und anderen Garmin-Produkten und -Apps
+zu optimieren, um Produkte und Funktionen zu entwickeln und zu vermarkten, die
+für Sie und für andere Benutzer am nützlichsten sind, und um Probleme
+bezüglich der Nutzung so schnell wie möglich zu identifizieren und zu beheben.
+
+Im Folgenden sind einige Drittanbieter für Analyse- und ähnliche Dienste
+aufgeführt, mit denen wir derzeit zusammenarbeiten:
+
+  * Analysedienste:
+    * Google: Google Analytics wird zum Erfassen von Nutzungsstatistiken, demografischen Daten und Interessen von Benutzern und des Benutzerverhaltens auf Websites verwendet. Firebase, ein weiterer Dienst von Google, wird in einigen mobilen Apps verwendet, um die Effektivität unserer Marketingkampagnen und Werbung zu verfolgen. Wir nutzen auch die Google Search Console, um zu verstehen, wie unsere Websitebesucher unsere Website finden, und um unsere Suchmaschinenoptimierung zu verbessern. Erhalten Sie weitere Informationen zur möglichen Verwendung dieser Analysedaten und zum Kontrollieren der Nutzung Ihrer Informationen.
+    * Azure Application Insights: Azure Application Insights wird verwendet, damit wir die Verwendung von Garmin Express besser verstehen und die Nutzung für Benutzer optimieren können. Azure Application Insights ist ein Microsoft-Dienst. Sehen Sie sich die Datenschutzrichtlinie von Microsoft an.
+    * HockeyApp; Crashlytics (Fabric): HockeyApp, ein Microsoft-Dienst, und Crashlytics werden verwendet, damit wir die Verwendung der mobilen Apps von Garmin besser verstehen können, um die Nutzung zu optimieren und die Ursachen von App-Abstürzen zu identifizieren und zu beheben. Lesen Sie die Datenschutzrichtlinie von Crashlytics.
+    * Flurry, Umeng, Amplitude: Flurry, ein Dienst von Yahoo, Umeng und Amplitude werden verwendet, damit wir die Verwendung der mobilen Apps von Garmin besser verstehen können, um die Nutzung zu optimieren. Lesen Sie die Datenschutzrichtlinie von Umeng oder die Datenschutzrichtlinie von Amplitude.
+    * Splunk: Splunk wird verwendet, um Probleme, die gelegentlich mit der Kontoanmeldefunktion von Garmin auftreten, zu analysieren, zu untersuchen und zu beheben; außerdem wird Splunk verwendet, um die Websites und Apps von Garmin vor einer böswilligen Nutzung zu schützen. Sehen Sie sich die Datenschutzrichtlinie von Splunk an.
+  * Tag-Management: Garmin verwendet das Tealium IQ-Tag-Management zur Verwaltung der verschiedenen Analysedienste sowie Cookie- und Pixel-Tag-Technologien, die von Garmin zum Erfassen der Websitenutzung eingesetzt werden. Zur Bereitstellung dieser Dienste erhält Tealium grundlegende Serverprotokollinformationen von Benutzern der Garmin-Websites (z. B. die IP-Adresse sowie Informationen zum Browser und zum Betriebssystem). Die Nutzung dieser Informationen durch Tealium unterliegt der Datenschutzrichtlinie von Tealium.
+  * Soziale Netzwerke: Soziale Netzwerke von Drittanbietern, die auf Garmin-Websites oder in mobilen Apps von Garmin interaktive Plug-Ins oder Funktionen für soziale Netzwerke anbieten (z. B. die Möglichkeit, eine Verbindung mit Facebook oder Google herzustellen, um Freunde zu finden und als Verbindungen hinzuzufügen, oder um eine Seite zu "liken") setzen u. U. Cookies oder andere Methoden ein (z. B. Webbeacons), um Informationen bezüglich Ihrer Nutzung unserer Website zu erfassen. Die Nutzung dieser Informationen durch einen Drittanbieter unterliegt der Datenschutzrichtlinie, die auf der Website des sozialen Netzwerks verfügbar ist, und Sie sollten diese Datenschutzrichtlinie aufmerksam durchlesen. Diese Drittanbieter können diese Cookies oder Aufzeichnungsmethoden für ihre eigenen Zwecke nutzen, indem sie Informationen zu Ihrer Nutzung unserer Website den persönlichen Daten zuordnen, die sie evtl. selbst über Ihre Person gespeichert haben. Wir erhalten von sozialen Netzwerken ggf. auch Analysedaten, mit denen wir die Effektivität unseres Inhalts und unserer Werbung auf sozialen Netzwerken messen können (z. B. Aufrufe und Klicks).
+
+## Links, Apps von Drittanbietern und Datenschutzpraktiken von Drittanbietern
+
+Garmin ergreift angemessene Sicherheitsmaßnahmen zum Schutz vor Verlust,
+Missbrauch, unberechtigtem Zugriff und unberechtigter Offenlegung oder
+Änderung der persönlichen Daten, die von Garmin kontrolliert werden. Erhalten
+Sie weitere Informationen.
+
+## Sicherheit
+
+Garmin ergreift angemessene Sicherheitsmaßnahmen zum Schutz vor Verlust,
+Missbrauch, unberechtigtem Zugriff und unberechtigter Offenlegung oder
+Änderung der persönlichen Daten, die von Garmin kontrolliert werden. Weitere
+Informationen zu den Datenschutzmaßnahmen von Garmin finden Sie hier; dort
+können Sie auch mögliche Sicherheitslücken oder Vorfälle melden.
+
+## Ihre Wahlmöglichkeit bezüglich Marketingmitteilungen
+
+Wir sowie andere Unternehmen der Garmin-Gruppe können Ihre persönlichen Daten
+nutzen, um Ihnen entsprechend den in den myGarmin-Voreinstellungen
+festgelegten Email-Einstellungen Marketingmitteilungen (einschließlich Emails)
+zu Garmin-Produkten oder -Apps zu senden. Wir teilen Ihre persönlichen Daten
+nicht mit Drittanbietern, damit diese sie für Marketingzwecke nutzen können.
+
+Wenn Sie den Erhalt von Marketingmitteilungen von Garmin ablehnen,
+aktualisieren Sie in den myGarmin-Voreinstellungen die Email-Einstellungen,
+oder klicken Sie in Marketing-Emails von Garmin auf den Link zum Abbestellen.
+
+## Richtlinie hinsichtlich Kindern
+
+Unsere Websites und Apps richten sich nicht an Personen unter 13 Jahren, und
+wir bitten darum, dass Personen unter 13 Jahren Garmin keinerlei persönliche
+Daten über Garmin-Websites oder über unsere Apps bereitstellen. Wenn wir
+erfahren, dass wir persönliche Daten von einem Kind unter 13 Jahren erfasst
+haben, werden wir Schritte zur schnellstmöglichen Löschung dieser Daten
+einleiten. Falls Sie erfahren, dass ein Benutzer einer Garmin-Website oder
+-App jünger als 13 Jahre ist, nehmen Sie bitte über
+productsupport.privacy@garmin.com Kontakt mit uns auf.
+
+## Aktualisierungen der Datenschutzerklärung
+
+Gegebenenfalls ändern wir diese Datenschutzerklärung gelegentlich, wenn wir
+neue Produkte und Apps hinzufügen, unser aktuelles Angebot verbessern oder
+wenn sich Technologien und Gesetze ändern. Das Datum der letzten Überarbeitung
+dieser Datenschutzerklärung finden Sie in der Legende "LETZTE AKTUALISIERUNG"
+am Seitenanfang. Änderungen treten mit der Veröffentlichung der überarbeiteten
+Datenschutzerklärung auf den entsprechenden Websites in Kraft. Sollte es sich
+um wesentliche Änderungen handeln, werden Sie von uns darüber informiert, und,
+sofern dies nach anwendbarem Recht erforderlich ist, holen wir Ihre Zustimmung
+ein. Wir informieren Sie dabei entsprechend anwendbaren Gesetzen per Email
+oder durch die Veröffentlichung eines Hinweises zu den Änderungen auf den
+entsprechenden Websites oder in den entsprechenden Produkten/Apps.
+
+## Speicherung persönlicher Daten
+
+Wir speichern Ihre persönlichen Daten für den Zeitraum, der zur Erfüllung der
+in dieser Datenschutzerklärung aufgeführten Zwecke, für die die persönlichen
+Daten erfasst wurden, erforderlich ist, sofern nicht eine längere Speicherung
+gesetzlich erforderlich oder zulässig ist.
+
+## Ihre Möglichkeiten zum Überprüfen, Korrigieren, Aktualisieren und Löschen
+Ihrer persönlichen Daten
+
+Garmin ergreift angemessene Maßnahmen, um nach Möglichkeit sicherzustellen,
+dass zu Ihrer Person erfasste persönliche Daten richtig, vollständig und
+aktuell sind. Sie können Zugriff auf Ihre persönlichen Daten anfordern, und
+Sie können fordern, dass falsche oder fehlerhafte persönliche Daten
+aktualisiert werden. Des Weiteren können Sie fordern, dass Ihre persönlichen
+Daten und Ihr Garmin-Konto gelöscht werden. Entsprechend anwendbarem Recht
+wird Garmin umgehend auf Ihre Anfragen reagieren. Zu Ihrem Schutz können wir
+nur Anfragen bezüglich persönlicher Daten übernehmen, die mit der Email-
+Adresse verbunden sind, die Sie zum Senden der Anfrage verwendet haben; ggf.
+müssen wir vor der Implementierung Ihrer Anfrage auch Ihre Identität
+überprüfen. Wir können die Bearbeitung von Anfragen ablehnen, die den
+Datenschutz anderer Personen gefährden könnten, besonders schwer ausführbar
+sind oder von uns eine Handlungsweise verlangen würden, die nach anwendbaren
+Gesetzen unzulässig ist. Soweit dies gesetzlich zulässig ist, müssen wir
+bestimmte persönliche Daten des Weiteren ggf. für einen längeren Zeitraum zu
+Aufzeichnungszwecken speichern, beispielsweise um Aufzeichnungen zu Ihren
+Einkäufen für Garantiefälle oder Buchhaltungszwecke aufzubewahren.
+
+Anfragen bezüglich Zugriff, Korrektur oder Löschung von Daten können
+folgendermaßen erfolgen:
+
+Email: productsupport.privacy@garmin.com  
+Postanschrift: Garmin International, Inc., c/o Garmin Legal, 1200 E. 151st
+St., Olathe, KS 66062, USA
+
+##### Händler
+
+  * Händlerportal
+
+##### Unternehmen
+
+  * Kontakt
+  * Über Garmin
+  * Karriere
+  * Presse
+
+##### Links
+
+  * myGarmin™
+  * Garmin Connect™
+  * flyGarmin®
+  * Teamviewer (Mac)
+  * Teamviewer (Windows)
+
+##### Lösungen
+
+  * Flottenmanagement
+  * Fitness für Unternehmen
+
+Impressum  •   Nutzungsbedingungen  •   Datenschutz  •   Sicherheit  •
+Copyright (C) 1996-2017 Garmin Ltd. oder seine Niederlassungen
+

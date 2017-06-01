@@ -1,0 +1,254 @@
+  * Inhalt
+  * Hauptmenu
+  * Suche
+
+# MetaNavigation
+
+zum Haupt-Menü
+
+  * Pres­se
+  * Kon­takt
+  * En
+  * Ge­bär­den­spra­che
+  * Leich­te Spra­che
+
+zur Suche
+
+Fachnutzer Fachnutzer Forschung und Lehre Freizeitgärtner Gesundheit
+Hobbymeteorologen Katastrophenschutz Land- und Forstwirtschaft Luftfahrt
+Meteorologische Dienstleister Schifffahrt Wasserwirtschaft
+
+Kei­ne Un­wet­ter­war­nung
+
+Suchtext
+
+# Deutscher Wetterdienst Wetter und Klima aus einer Hand
+
+# Navigationsmenue
+
+  * Wet­ter
+
+    * War­nun­gen
+    * Wet­ter und Kli­ma vor Ort
+    * Wet­ter­be­rich­te
+    * Wet­ter Eu­ro­pa und welt­weit
+    * Schon ge­wusst?
+    * Wet­ter­vor­her­sa­gen für Pro­fis
+
+  * Kli­ma und Um­welt
+
+    * Deut­scher Kli­ma­di­enst (DKD) 
+    * CDC (Cli­ma­te Da­ta Cen­ter)
+    * Kli­ma­über­wa­chung
+    * Kli­ma­for­schung
+    * Kli­ma- und Um­welt­be­ra­tung
+    * Kli­ma­wan­del
+    * Ca­pa­ci­ty-Buil­ding
+
+  * For­schung
+
+    * At­mo­sphä­ren­be­ob­ach­tung
+    * Wet­ter­vor­her­sa­ge
+    * Kli­ma und Um­welt
+    * Hans-Er­tel-Zen­trum
+    * DWD-For­schungs­pro­gram­me
+    * In­ter­na­tio­na­le Pro­gram­me
+    * Pro­jek­te
+
+  * Leistungen
+  * Der DWD
+
+    * Auf­ga­ben
+    * Ar­beit­ge­ber DWD
+    * Or­ga­ni­sa­ti­on
+    * Stand­orte
+    * Zu­sam­men­ar­beit
+    * Mess­netz
+    * In­for­ma­ti­ons­tech­nik
+    * Deut­sche Me­teo­ro­lo­gi­sche Bi­blio­thek
+
+# Breadcrumb- Menü
+
+  * Startseite
+
+# Datenschutz EN
+
+Datenschutzerklärung  
+Diese Datenschutzerklärung besitzt Gültigkeit für alle vom Deutschen
+Wetterdienst betriebenen Websites. Der Deutsche Wetterdienst nimmt den Schutz
+Ihrer personenbezogenen Daten sehr ernst. Wir möchten, dass Sie wissen, wann
+wir welche Daten erheben und wie wir sie verwenden.
+
+Die gesetzlichen Bestimmungen des Bundesdatenschutzgesetzes, die die Erhebung,
+Verarbeitung und Nutzung personenbezogener Daten regeln, werden von uns
+befolgt.
+
+Im Zuge der Weiterentwicklung unserer Webseiten und der Implementierung neuer
+rechtlicher Vorgaben oder neuer Technologien, um unseren Service für Sie zu
+verbessern, können auch Änderungen dieser Datenschutzerklärung erforderlich
+werden. Daher empfehlen wir Ihnen, sich diese Datenschutzerklärung ab und zu
+erneut durchzulesen.
+
+  
+  
+Zugriff auf das Internetangebot  
+Bei jedem Zugriff auf das Internetangebot des DWD werden Daten für
+statistische und Sicherungszwecke in einer Protokolldatei gespeichert. Wir
+erfassen hier lediglich für eine begrenzte Zeit die folgenden Daten:
+
+  * Name der abgerufenen Datei
+  * Datum und Uhrzeit des Abrufs
+  * übertragene Datenmenge
+  * Meldung, ob der Abruf erfolgreich war
+  * Anonymisierte IP-Adresse des zugreifenden Hostsystems, die letzten beiden Bytes werden auf 0 gesetzt (z.B. xxx.xxx.0.0).
+
+Diese Daten werden ausschließlich zur Verbesserung unseres Internetangebotes
+genutzt und nicht auf Sie zurückführbar ausgewertet.  
+  
+Daten, die beim Zugriff auf das Internetangebot des DWD protokolliert worden
+sind, werden an Dritte nur übermittelt, soweit wir gesetzlich oder durch
+Gerichtsentscheidung dazu verpflichtet sind oder die Weitergabe im Falle von
+Angriffen auf die Internetinfrastruktur des DWD zur Rechts- oder
+Strafverfolgung erforderlich ist. Eine Weitergabe zu anderen
+nichtkommerziellen oder zu kommerziellen Zwecken erfolgt nicht.
+
+Bestellungen  
+Wenn Sie Informationsmaterial, Newsletter oder Services online beim Deutschen
+Wetterdienst bestellen, fragen wir Sie nach Ihrem Namen und nach anderen
+persönlichen Informationen. Dies geschieht zum Zwecke der Bearbeitung Ihrer
+Anfragen und Bestellungen inklusive der Abrechnung. Es unterliegt Ihrer freien
+Entscheidung, ob Sie diese Daten eingeben. Für die Zustellung des bestellten
+Materials sind diese Angaben jedoch erforderlich. Die Abrechnung der Entgelte
+im DWD-WetterShop wird durch „ePayBL“ übernommen. Hierbei werden ebenfalls
+personenbezogene Daten erhoben, gespeichert und verarbeitet. Näheres hierzu
+entnehmen Sie bitte der Seite Datenschutz im WetterShop.
+
+Sie können der Speicherung Ihrer personenbezogenen Daten jederzeit
+widersprechen. Daraufhin werden diese von uns komplett gelöscht. Wir weisen
+vorsorglich aber darauf hin, dass damit auch die gemachte Bestellung nicht
+weiter aufrecht erhalten werden kann.  
+
+Einsatz von Cookies  
+Auf bestimmten Seiten kommen Cookies zum Einsatz, ohne dass wir Sie darauf
+hinweisen können. Die meisten Browser sind so eingestellt, dass sie Cookies
+automatisch akzeptieren. Sie können das Speichern von Cookies jedoch
+deaktivieren oder Ihren Browser so einstellen, dass Cookies nur für die Dauer
+der jeweiligen Verbindung zum Internet gespeichert werden.
+
+Minderjährigenschutz  
+Personen unter 18 Jahren sollten ohne Zustimmung der Eltern oder
+Erziehungsberechtigten keine personenbezogenen Daten an uns übermitteln. Wir
+fordern keine personenbezogenen Daten von Kindern und Jugendlichen an.
+Wissentlich sammeln wir solche Daten nicht und geben sie auch nicht an Dritte
+weiter.
+
+Links zu Webseiten anderer Anbieter  
+Unser Online-Angebot enthält Links zu Webseiten anderer Anbieter. Wir haben
+keinen Einfluss darauf, dass diese Anbieter die Datenschutzbestimmungen
+einhalten.
+
+Kontakt:  
+Sollten Sie Fragen zum Thema Datenschutz haben, so übermitteln Sie diese per
+E-Mail an die Adresse:  
+
+E-Mail datenschutz@dwd.de
+
+# Sub-Navigations- Menü
+
+  * Im­pres­s­um
+  * Da­ten­schutz
+  * Disclai­mer
+  * AGB
+  * QM
+  * Co­py­right
+
+Diese Seite teilen
+
+# Service-Navigations- Menü
+
+  * Deutsche Meteorologische Bibliothek
+  * Mediathek
+  * Wetter-  
+Lexikon
+
+  * WetterShop
+  * Arbeitgeber DWD
+
+# Inhatsverzeichnis
+
+# DWD-Services
+
+  * Zum Archiv ''DWD Aktuell''
+  * Termine, Veranstaltungen
+  * DWD-Apps
+  * Newsletter
+  * Kurzadressen
+
+# Wet­ter
+
+  * Warnungen
+  * Wetter und Klima vor Ort
+  * Wetterberichte
+  * Wetter Europa und weltweit
+  * Schon gewusst?
+  * Wettervorhersagen für Profis
+
+# Kli­ma und Um­welt
+
+  * Deutscher Klimadienst (DKD) 
+  * CDC (Climate Data Center)
+  * Klimaüberwachung
+  * Klimaforschung
+  * Klima- und Umweltberatung
+  * Klimawandel
+  * Capacity-Building
+
+# For­schung
+
+  * Atmosphärenbeobachtung
+  * Wettervorhersage
+  * Klima und Umwelt
+  * Hans-Ertel-Zentrum
+  * DWD-Forschungsprogramme
+  * Internationale Programme
+  * Projekte
+
+# Der DWD
+
+  * Aufgaben
+  * Arbeitgeber DWD
+  * Organisation
+  * Standorte
+  * Zusammenarbeit
+  * Messnetz
+  * Informationstechnik
+  * Deutsche Meteorologische Bibliothek
+
+You Tube
+
+Unwetterclips aus dem DWD TV-Studio. Infos rund um das Thema Wetter und Klima
+
+Facebook
+
+DWD Facebook-Seite mit aktuellen Meldungen zum Thema Wetter und Klima
+
+Flickr
+
+Fotos von Deutschlands Referenz für Meteorologie
+
+Twitter
+
+Das offizielle Twitter Presse Profil des Deutschen Wetterdienstes
+
+Der Deutsche Wetterdienst ist eine Bundesoberbehörde im Geschäftsbereich des
+Bundesministeriums für Verkehr und digitale Infrastruktur.
+
+Deutscher Wetterdienst, Frankfurter Straße 135, 63067 Offenbach
+
+  * Impressum
+  * Datenschutz
+  * Disclaimer
+  * AGB
+  * QM
+  * Copyright
+

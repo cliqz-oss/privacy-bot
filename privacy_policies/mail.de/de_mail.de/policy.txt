@@ -1,0 +1,92 @@
+Jetzt Registrieren! Login / Passwort vergessen?
+
+Bitte aktivieren Sie JavaScript um sich anmelden zu kÃ¶nnen.
+
+\- Mehr Sicherheit, SeriositÃ¤t und Komfort
+
+  * mail.de
+  * Funktionen
+  * Produkte
+  * Mobile Apps
+  * Sicherheit
+  * Premium
+  * Unternehmen
+  * Blog
+  * Hilfe
+
+  * Ãber uns
+  * Umweltbewusst
+  * Umwelt- & Transparenzbericht
+  * Presse
+  * Karriere
+  * Kontakt
+  * Impressum
+  * Datenschutz
+
+# DatenschutzerklÃ¤rung der mail.de GmbH
+
+  1. Die mail.de GmbH, Munsterstraße 3, 33330 Gutersloh (nachfolgend "mail.de" genannt) bietet einen Online Service an. Nahere Angaben zu mail.de finden Sie in unserem Impressum.
+  2. mail.de nimmt den Datenschutz ernst. Die Erhebung Ihrer Daten erfolgt im Rahmen der gesetzlichen Vorschriften. Über diese konnen Sie sich unter http://ec.europa.eu/justice/data-protection/index_de.htm umfassend informieren.
+  3. Der Betreiber verpflichtet sich, die gesetzlichen Bestimmungen zum Datenschutz, insbesondere das Bundesdatenschutzgesetz (BDSG) und das Gesetz uber den Datenschutz bei Telediensten (TMG), zu beachten.
+  4. Wir erheben, verarbeiten und nutzen Ihre personenbezogenen Daten ohne weitergehende Einwilligung, soweit sie fur die Vertragsbegrundung und -abwicklung sowie zu Abrechnungszwecken erforderlich sind.
+  5. Zur Begrundung und Abwicklung eines Vertragsverhaltnisses sind in der Regel folgende Bestandsdaten erforderlich: Name, Anschrift, Geburtsdatum, E-Mail Adresse, alternative E-Mail Adresse, Handynummer, Bankverbindung sowie Passwort. Die Daten werden uber elektronische Bestellformulare erhoben.
+  6. Verkehrsdaten werden erhoben, verarbeitet und genutzt, um die Inanspruchnahme dieser Dienste zu ermoglichen und abzurechnen. In der Regel werden dabei Datum und Uhrzeit sowie Zeitzone des Beginns und Endes der Nutzung, die IP-Adresse, der Umfang in Bytes und die Art des in Anspruch genommenen Telemedien- beziehungsweise Telekommunikationsdienstes erfasst.
+  7. Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google"). Google Analytics verwendet sog. „Cookies", Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermoglichen. Die durch den Cookie erzeugten Informationen uber Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA ubertragen und dort gespeichert. Im Falle der Aktivierung der IP- Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europaischen Union oder in anderen Vertragsstaaten des Abkommens uber den Europaischen Wirtschaftsraum zuvor gekurzt. Nur in Ausnahmefallen wird die volle IP-Adresse an einen Server von Google in den USA ubertragen und dort gekurzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports uber die Websiteaktivitaten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenuber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser ubermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengefuhrt. Sie konnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht samtliche Funktionen dieser Website vollumfanglich werden nutzen konnen. Sie konnen daruber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (http://tools.google.com/dlpage/gaoptout?hl=de) verfugbare Browser-Plugin herunterladen und installieren. Nahere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter http://www.google.com/analytics/terms/de.html bzw. unter http://www.google.com/intl/de/analytics/privacyoverview.html. Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um den Code „gat._anonymizeIp();" erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP- Masking) zu gewahrleisten.
+  8. Auf unserer Website werden sogenannte Social Plugins („Plugins") der sozialen Netzwerke Facebook und Google+ und des Mikroblogging-Dienstes Twitter verwendet. Diese Dienste werden von den Unternehmen Facebook Inc., Google Inc. und Twitter Inc. angeboten („Anbieter"). Facebook wird betrieben von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). Eine UÌbersicht uÌber die Plugins von Facebook und deren Aussehen finden Sie hier: https://developers.facebook.com/docs/plugins Google+ wird betrieben von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google"). Eine UÌbersicht uÌber die Plugins von Google und deren Aussehen finden Sie hier: https://developers.google.com/+/web/ Twitter wird betrieben von der Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103. Eine UÌbersicht uÌber die Twitter-Buttons und deren Aussehen finden Sie hier: https://twitter.com/about/resources/buttons Um den Schutz Ihrer Daten beim Besuch unserer Website zu erhoÌhen, sind die Plugins mittels sogenannter „2-Klick-LoÌsung" von Heise Online in die Seite eingebunden. Diese Einbindung gewaÌhrleistet, dass beim Aufruf einer Seite unseres Webauftritts, die solche Plugins enthaÌlt, noch keine Verbindung mit den Servern von Facebook, Google und Twitter hergestellt wird. Erst wenn Sie die Plugins aktivieren und damit Ihre Zustimmung zur DatenuÌbermittlung erteilen, stellt Ihr Browser eine direkte Verbindung zu den Servern von Google, Facebook oder Twitter her. Der Inhalt des jeweiligen Plugins wird dann vom zugehoÌrigen Anbieter direkt an Ihren Browser uÌbermittelt und in die Seite eingebunden. Durch die Einbindung der Plugins erhalten die Anbieter die Information, dass Ihr Browser die entsprechende Seite unseres Webauftritts aufgerufen hat, auch wenn Sie kein Profil bei dem entsprechenden Anbieter besitzen oder gerade nicht eingeloggt sind. Diese Information (einschließlich Ihrer IP-Adresse) wird von Ihrem Browser direkt an einen Server des jeweiligen Anbieters in die USA uÌbermittelt und dort gespeichert. Sind Sie bei einem der sozialen Netzwerke eingeloggt, koÌnnen die Anbieter den Besuch unserer Website Ihrem Profil auf Facebook bzw. Google+ unmittelbar zuordnen. Wenn Sie mit den Plugins interagieren, zum Beispiel den „GefaÌllt mir"\- den „+1"\- oder den „Twittern"-Button betaÌtigen, wird die entsprechende Information ebenfalls direkt an einen Server der Anbieter uÌbermittelt und dort gespeichert. Die Informationen werden außerdem in dem sozialen Netzwerk bzw. auf Ihrem Twitter-Account veroÌffentlicht und dort Ihren Kontakten angezeigt. Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch die Anbieter sowie Ihre diesbezuÌglichen Rechte und EinstellungsmoÌglichkeiten zum Schutz Ihrer PrivatsphaÌre entnehmen Sie bitte den Datenschutzhinweisen der Anbieter. Datenschutzhinweise von Facebook: https://www.facebook.com/policy.php Datenschutzhinweise von Google: https://www.google.com/intl/de/+/policy/+1button.html Datenschutzhinweise von Twitter: https://twitter.com/privacy Wenn Sie nicht moÌchten, dass Google, Facebook oder Twitter die uÌber unseren Webauftritt gesammelten Daten unmittelbar Ihrem Profil in dem jeweiligen Dienst zuordnen, muÌssen Sie sich vor dem Aktivieren der Plugins bei dem entsprechenden Dienst ausloggen.
+  9. Auf verschiedenen Seiten verwenden wir Cookies, um den Besuch unserer Website attraktiv zu gestalten und die Nutzung bestimmter Funktionen zu ermoglichen. Hierbei handelt es sich um kleine Textdateien, die auf Ihrem Rechner abgelegt werden. Die meisten der von uns verwendeten Cookies werden nach Ende der Browser-Sitzung wieder von Ihrer Festplatte geloscht (sog. Sitzungs-Cookies). Andere Cookies verbleiben auf Ihrem Rechner und ermoglichen es uns, Ihren Rechner bei Ihrem nachsten Besuch wieder zu erkennen (sog. dauerhafte Cookies). Unseren Partnerunternehmen ist es nicht gestattet, uber unsere Website personenbezogene Daten mittels Cookies zu erheben, zu verarbeiten oder zu nutzen.
+  10. Abrechnungsdaten durfen an andere Diensteanbieter und Dritte ubermittelt werden, soweit dies zur Ermittlung des Entgelts und zur Abrechnung erforderlich ist. Wir sind berechtigt, die Abrechnungsdaten an einen mit dem Einzug des Entgelts beauftragten Dritten zu ubermitteln, soweit es fur diesen Zweck erforderlich ist.
+  11. Ihre personenbezogenen Daten werden im Bestellprozess verschlusselt (mittels SSL-Verschlusselung) uber das Internet ubertragen. Zur Betrugspravention wird im Bestellprozess Ihre IP-Adresse gespeichert. Wir sichern unsere Website und sonstigen Systeme durch technische und organisatorische Maßnahmen gegen Verlust, Zerstorung, Zugriff, Veranderung oder Verbreitung Ihrer Daten durch unbefugte Personen. Der Zugang zu Ihrem Kundenkonto ist nur nach Eingabe Ihres personlichen Passwortes moglich. Sie sollten Ihre Zugangsinformationen stets vertraulich behandeln und das Browserfenster schließen, wenn Sie die Kommunikation mit uns beendet haben, insbesondere wenn Sie den Computer gemeinsam mit anderen nutzen.
+  12. Nach Maßgabe der hierfur geltenden Bestimmungen sind wir ebenfalls berechtigt, Auskunft an Strafverfolgungsbehorden und Gerichte fur Zwecke der Strafverfolgung zu erteilen.  
+  13. Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskunft uber Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder Loschung dieser Daten. Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten, bei Auskunften, Berichtigung, Sperrung oder Loschung von Daten sowie Widerruf erteilter Einwilligungen wenden Sie sich bitte an die oben genannte Adresse.
+  14. Gemaß Bundesdatenschutzgesetz ist folgender Datenschutzbeauftragter fur die mail.de GmbH bestellt:  
+  
+Herr Prof. Dr. Thomas Jaschke  
+DATATREE AG | Heubesstraße 10 | 40597 Dusseldorf  
+E-Mail: office@datatree.eu | Fax: (0211) 931 907 99
+
+  15. Diese Datenschutzhinweise konnen jederzeit unter Beachtung der geltenden Datenschutzvorschriften geandert werden. Es gilt immer die zum Zeitpunkt Ihres Besuchs abrufbare Fassung.  
+  
+Das offentliche Verfahrensverzeichnis der mail.de GmbH nach § 4e (1) Nr. 1
+BDSG konnen Sie hier einsehen.
+
+
+
+Stand: 15.12.2016
+
+##### Sie finden uns auch hier
+
+  * mail.de auf Xing
+
+##### Geprufter Datenschutz
+
+##### Zahlungsarten
+
+  * Rechnungskauf
+  * Lastschrift
+
+##### Geprufter Shop
+
+  * mail.de ist ein von  
+Trusted Shops geprÃ¼fter OnlinehÃ¤ndler mit Zertifikat und KÃ¤uferschutz.
+
+  * Alle mail.de Webseiten sind SSL verschlusselt. 
+
+* * *
+
+Alle Protokolle sind verschlÃ¼sselt verfÃ¼gbar.
+
+##### Über mail.de
+
+  * Interaktive Demo
+  * Blog
+  * Glossar
+  * Serverstatus
+  * Datenschutz
+  * AGB / Widerruf
+  * Mediadaten
+  * Impressum
+
+(C)2009-2017 mail.de GmbH   Alle Rechte vorbehalten
+
+Hilfe
+

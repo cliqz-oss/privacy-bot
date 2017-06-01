@@ -1,0 +1,367 @@
+Einloggen auf heise online
+
+  *     * News
+    * heise Developer
+    * heise Netze
+    * heise Open Source
+    * heise Security
+  *     * c't
+    * iX
+    * Technology Review
+    * c't Fotografie
+    * Mac &amp; i
+    * Make
+  *     * Telepolis
+    * heise Autos
+    * TechStage
+  *     * heise Download
+    * Preisvergleich
+    * Whitepapers
+    * Webcasts
+    * Stellenmarkt
+    * Gutscheine
+    * IT-Markt
+    * Tarifrechner
+    * Netzwerk-Tools
+    * Spielen bei Heise
+  *     * heise shop
+    * Artikel-Archiv
+    * Zeitschriften-Abo
+    * Veranstaltungen
+    * Arbeiten bei Heise
+    * Mediadaten
+
+News
+
+  * Newsticker
+    * 7-Tage-News
+    * Archiv
+  * Foren
+  * Videos
+  * Kontakt
+
+  *   *   *   *   * 
+
+  * IT
+  * Mobiles
+  * Entertainment
+  * Wissen
+  * Netzpolitik
+  * Wirtschaft
+  * Journal
+
+Topthemen:
+
+  1. Windows 10
+  2. Bitcoin
+  3. Computex
+  4. WWDC
+  5. Ransomware
+  6. Raspberry Pi
+  7. iPhone
+  8. Fritzbox
+  9. Android
+
+  1. heise online
+  2. News
+  3. 2017
+  4. KW 22
+  5. #  Datenschutzbeauftragte will BND &amp; Co. besser prüfen dürfen 
+
+« Vorige | Nächste »
+
+##  Datenschutzbeauftragte will BND &amp; Co. besser prüfen dürfen
+
+heise online
+
+30.05.2017 15:40 Uhr Stefan Krempl
+
+vorlesen
+
+Andrea Voßhoff bei der Vorstellung des Datenschutzberichts
+
+(Bild: heise online/Stefan Krempl)
+
+Die Bundesdatenschutzbeauftragte hat bei der Präsentation ihres
+Tätigkeitsberichts an die Politik appelliert, ihre Möglichkeiten der Kontrolle
+bei Polizeien und Geheimdiensten stark auszubauen. Beim BND seien diese
+"verfassungswidrig beschnitten".
+
+Nach dem NSA-Skandal und zahlreichen beschlossenen Sicherheits- und
+Überwachungsgesetzen, die von der Vorratsdatenspeicherung 2.0 bis zur
+Fluggastdatenspeicherung reichen, hält die Bundesdatenschutzbeauftragte Andrea
+Voßhoff mehr Befugnisse und Ressourcen für die externe Kontrolle von Polizeien
+und Geheimdiensten für unerlässlich. Das Bundesverfassungsgericht habe erst
+jüngst wieder deutlich gemacht, dass der Gesetzgeber dafür die notwendigen
+Maßgaben treffen müsse, betonte die CDU-Politikerin am Dienstag in Berlin bei
+der Präsentation des 26\. Tätigkeitsberichts ihrer mittlerweile unabhängigen
+Behörde für die Jahre 2015 und 2016.
+
+### Auf Karlsruhe hören
+
+Voßhoff appellierte dringend an die Politik, die Rechtsprechung aus Karlsruhe
+"stärker in den Blick zu nehmen". Dies sei dringend nötig, um die mit den
+ausgebauten Befugnissen der Sicherheitsbehörden zunehmenden heimlichen
+Eingriffe ins Recht auf informationellen Selbstbestimmung zu kompensieren.
+Leider habe die große Koalition hier das Rad sogar zurückgedreht. Bei der
+Anpassung des Bundesdatenschutzgesetzes an die EU-Datenschutzverordnung etwa
+sei es versäumt worden, ihre "Durchsetzungs- und Sanktionsbefugnisse gegenüber
+den Sicherheitsbehörden" zu stärken. In anderen Gesetzen seien leider
+bestehende wichtige Prüfkompetenzen beschnitten worden.
+
+Im Berichtszeitraum haben Voßhoff und ihre Team unter anderem den BND-
+Außenposten Bad Aibling besucht und "erhebliche Rechtsverstöße" beanstandet.
+In dem knapp 250 Seiten umfassenden Wälzer finden sich dazu aber nur wenige
+Sätze, da der Prüfbericht nach wie vor geheim ist, auch wenn er im Herbst
+bereits seinen Weg an die Öffentlichkeit fand. Im Oktober 2013 und Dezember
+2014 seien jeweils "mehrtägige Vor-Ort-Prüfungen" durchgeführt worden, ist dem
+aktuellen Dokument zu entnehmen. Aufgrund "unerwarteter Feststellungen im
+ersten Termin" hätten die Kontrollen zwingend verstärkt werden müssen.
+Aufgrund der komplexen Materie seien die Ressourcen des Teams "über lange Zeit
+nahezu vollständig gebunden" gewesen.
+
+"Es besteht die dringende Notwendigkeit, derartige Kontrollen auszubauen und
+weiter zu intensivieren", unterstreicht Voßhoff. Dies verhindere aber nicht
+nur die beschränkte personelle Ausstattung. So habe sie beabsichtigt, nach den
+Entdeckungen in Bad Aibling auch den gesamten Bereich Technische Aufklärung
+beim BND zu prüfen. Dies sei ihr zunächst mit dem Hinweis verwehrt worden,
+dass dafür überwiegend die G10-Kommission des Parlaments zuständig sei.
+
+### Datenschützer "nicht als Gegner sehen"
+
+Zu vergleichbaren Problemen kam es dem Bericht zufolge bei einer ersten
+gemeinsamen "Pflichtkontrolle" der Anti-Terror-Datei (ATD) durch die
+Bundesdatenschutzbehörde und die G10-Kommission 2015. Zuvor sei es ihr zwar
+gelungen, das Bundesinnenministerium "in zahlreichen Gesprächen" davon zu
+überzeugen, dass auch sie hier Prüfrechte habe, schreibt Voßhoff. Die
+geänderte Rechtsauffassung müsse aber in der Praxis noch mit Leben gefüllt
+werden. So sei ihr Besuch beim Bundesamt für Verfassungsschutz (BfV) zu dem
+ATD-Termin zunächst auf "keine Akzeptanz bei den anwesenden Mitarbeitern"
+gestoßen.
+
+Inzwischen dürfe nicht nur das BKA eine "Polizei-Cloud" ohne die bisher
+nötigen Datei-Errichtungsanordnungen aufbauen, sondern auch BfV und BND
+gemeinsam mit ausländischen Sicherheitsbehörden Informationen in gemeinsamen
+Datenpools zusammenführen und analysieren, ist weiter nachzulesen. Eine
+effiziente datenschutzrechtliche Kontrolle durch die Aufsichtsbehörde sei im
+Bereich solcher internationalen Kooperationen gar nicht möglich. Voßhoff
+beschwor zugleich die Überwacher selbst, ihre Behörde "nicht als Gegner zu
+sehen". Kontrollen stärkten schließlich auch das Vertrauen in die
+Sicherheitsbehörden.
+
+### Kritik an Microsoft und Windows 10
+
+Im IT-Bereich kritisiert die Kontrolleurin in dem Bericht unter anderem das
+"intransparente Vorgehen von Microsoft" rund um die Datenschutzerklärung von
+Windows 10. Bei dem Betriebssystem könne "trotz optimaler Konfiguration" nicht
+verhindert werden, dass personenbezogene Daten auf Server des Konzern in den
+USA übertragen würden. Der Hersteller müsse dafür sorgen, dass Nutzer dies
+unterbinden und gesammelte Informationen löschen können, und insgesamt mehr
+Transparenz schaffen. Microsoft habe hier "nur halbherzig Maßnahmen
+ergriffen".
+
+Grund zur Sorge ist für Voßhoff auch, dass der Abschied von Windows XP nach
+dem offiziellen Supportende im April 2014 sich bei Bundesbehörden teils sehr
+langsam vollzogen habe. Ins Auge steche etwa die Deutsche Rentenversicherung,
+wo mit der Migration in kleineren Außenstandorten und bei mobilen IT-Systemen
+bis Ende 2016 noch immer nicht begonnen worden sei. Auch beim
+Bundesverteidigungsministerium liefen noch rund 12.000 solcher Systeme, für
+die es aber zumindest Sonderverträge mit Microsoft gebe.
+
+### Kein Ende der Arbeit
+
+Weitere Schwerpunkte bildeten laut der Beauftragten Gesundheits-Apps und
+Wearables, die Debatte über "Datensouveränität" oder das " Privacy Shield" zum
+Informationstransfer in die USA. "Der Aufsicht geht die Arbeit nicht aus",
+erklärte sie und gelobte, auch angesichts der teils sperrigen Thematik "ohne
+Fun-Faktor" weiter mit Freude für den "Schutz des Menschen in der digitalen
+Welt" kämpfen zu wollen. Hilfreich dabei sei es, dass bis zum Jahresende 160
+Planstellen bei der Behörde vorgesehen seien: "Eine solide Ausstattung ist von
+grundsätzlicher Bedeutung." (mho)  
+
+« Vorige | Nächste »
+
+Kommentare lesen (15 Beiträge)
+
+Forum zum Thema:  Datenschutz
+
+zur Startseite
+
+https://heise.de/-3729071
+
+Drucken
+
+Mehr zum Thema Überwachung NSA BND Datenschutz Geheimdienste
+
+Weitere News zum Thema
+
+NSA-Ausschuss: BND kann Daten zu Kontaktpersonen schier unbegrenzt sammeln
+
+Beim BND bremsen laut der internen Datenschutzbeauftragten nur die technischen
+Ressourcen die Vorratsdatenspeicherung etwas aus. Das Verständnis der…
+
+02\. Dezember 2016, 07:14 Uhr
+
+Geheimbericht der Bundesdatenschutzbeauftragten bringt BND in große Bedrängnis
+
+Der eigentlich geheim eingestufte Prüfbericht der
+Bundesdatenschutzbeauftragten Andrea Voßhoff zur BND-NSA-Kooperation in Bad
+Aibling ist im Netz.
+
+02\. September 2016, 07:49 Uhr
+
+Experten: Geheimdienstkontrolle greift systematisch daneben
+
+Der frühere Bundesrichter und Abgeordnete Wolfgang Nešković hat die
+parlamentarische Überwachung von BND &amp; Co. als völlig ineffektiv
+kritisiert.
+
+11\. Mai 2016, 07:37 Uhr
+
+NSA-Ausschuss: Denn sie wussten nicht, was sie tun
+
+Der BND habe jahrelang mehr oder weniger blind Zielvorgaben der NSA
+eingesetzt, erklärte der Geheimdienstbeauftragte im Kanzleramt, Klaus-Dieter…
+
+13\. Februar 2017, 19:21 Uhr
+
+Themen im Trend
+
+IT-Ausstattung an Schulen: Hubig dringt auf Bundesmittel für Digitalisierung
+
+Der Bund hat Milliarden für die digitale Bildung versprochen. Jetzt berät die
+Kultusministerkonferenz über Eckpunkte für eine Vereinbarung dazu.
+
+01\. Juni 2017, 08:36 Uhr
+
+Das Treffen der Antipoden Portugal und Spanien
+
+Trotz der massiven Gegensätze drängt der portugiesische Regierungschef auf
+eine stärkere Zusammenarbeit mit dem großen Nachbar
+
+Bericht: Siri-Lautsprecher in Produktion – mit Apple Music und Surround-Sound
+
+Apple will Amazon und Google mit einem eigenen Audiogerät mit
+Assistenzfunktion Konkurrenz machen. Das Gerät könnte schon am Montag
+vorgestellt…
+
+01\. Juni 2017, 09:31 Uhr
+
+systemd fürs Administratoren-Linux: Grml 2017.05 freigegeben
+
+Mit der neuen Ausgabe 2017.05 hat Grml seine Linux-Distribution für
+Administratoren auf den aktuellen Stand gebracht. Zentrale Änderung ist der…
+
+01\. Juni 2017, 10:59 Uhr
+
+Zur heise online Startseite Top-News der Redaktion von heise online
+
+US-UrteilDruckerpatronen: Patente sind keine Waffe gegen Refiller
+
+Wer ein Produkt verkauft, gibt auch seine Patentrechte an dem verkauften Stück
+auf. Diese Entscheidung des Supreme Court klingt…
+
+ProgrammierenEntwicklungsumgebung Visual Studio 2017 im Test
+
+Die neue Version von Microsofts Entwicklungsumgebung bändigt den hohen
+Ressourcenbedarf von Visual Studio durch Modularisierung.
+
+AngespieltThe Long Journey Home: Lautlos im Weltraum
+
+In The Long Journey Home läuft so ziemlich alles schief, was schief gehen
+kann: Ich strande im Weltraum, meine Crew ist verletzt…
+
+Wall StreetComputer ersetzen Finanz-Analysten
+
+Ein Drittel des Mitarbeiterstamms der amerikanischen Investmentbank Goldman
+Sachs besteht inzwischen aus Computertechnikern.
+
+Anzeige  
+
+Anzeige  
+
+Ähnliche Artikel
+
+Das ewige Leben des "Zombies der Netzpolitik"
+
+Gerhard Schindler, Ex-Präsident des BND, fordert eine zweijährige
+Vorratsdatenspeicherung. Datenschutz und tatsächliche Wirkung interessieren
+wenig
+
+IS-Schläferzelle in Deutschland aufgedeckt?
+
+Generalbundesanwaltschaft lässt drei Männer verhaften, die über die
+Balkanroute nach Deutschland gekommen sein sollen. Angeblich gibt es Bezüge
+zu…
+
+Windows 10 für Spätentschlossene
+
+Ende Juli endet die Frist zum Gratis-Upgrade auf Windows 10. Wer dem Upgrade-
+Angebot seit Monaten aus dem Weg geht, nun aber doch umsteigen will,…
+
+Anzeige  
+
+Anzeige
+
+  * IBM Maas360 und Watson entlasten den Admin
+  * Schwachstelle Drucker – Einfallstor für Hacker
+  * Unternehmensdaten in der Cloud – ein Risiko?
+  * heise jobs, dein Stellenmarkt für den IT-Sektor
+  * Schöpfen Sie das Potenzial von Flash-Arrays aus?
+  * Erfüllt Ihre Lösung die Erwartungen der Nutzer?
+  * Kostenlos: Nützliche eBooks für Bildung und Beruf!
+  * Über 5.000 Gutscheine für heise online User
+  * Revisionssichere Archivierung für sensible Daten
+  * 1\. Heise IT-Jobtag am 27.06 in Karlsruhe
+
+  * heise online
+  * c't Magazin
+  * iX Magazin
+  * Technology Review
+  * Mac &amp; i
+  * c't Fotografie
+
+  * Telepolis
+  * Make
+  * heise Autos
+  * heise Developer
+
+  * heise Netze
+  * Open Source
+  * heise Security
+  * heise Produkte
+  * Spielen bei Heise
+
+  * heise Video
+  * TechStage
+  * Download
+  * Preisvergleich
+  * Stellenmarkt
+
+  * heise Events
+  * IT-Markt
+  * heise Business Services
+  * Tarifrechner
+  * Shop
+
+  * Artikel-Archiv
+  * Abo
+  * Loseblattwerke
+  * RSS
+
+  * Leserforum
+  * Newsletter
+  * Suche
+  * iMonitor
+  * Netzwerk-Tools
+
+  * Datenschutzhinweis
+  * Impressum
+  * Kontakt
+  * Mediadaten
+  * News mobil
+  * 2211744 
+  * Content Management by InterRed
+  * Hosted by Plus.line
+  * Copyright © 2017 Heise Medien
+

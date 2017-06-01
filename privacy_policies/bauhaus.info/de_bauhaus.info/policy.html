@@ -1,0 +1,1795 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="mod modLayout no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="de"> <![endif]-->
+<!--[if IE 7]>    <html class="mod modLayout no-js lt-ie10 lt-ie9 lt-ie8" lang="de"> <![endif]-->
+<!--[if IE 8]>    <html class="mod modLayout no-js lt-ie10 lt-ie9" lang="de"> <![endif]-->
+<!--[if IE 9]>    <html class="mod modLayout no-js lt-ie10" lang="de"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="mod modLayout no-js" lang="de" data-overlay-closetext="Schlie&szlig;en" data-overlay-nexttext="Vor" data-overlay-prevtext="Zur&uuml;ck" > <!--<![endif]-->
+	<head>
+		<title>Datenschutzerkl&auml;rung | BAUHAUS</title>
+
+		<meta charset='utf-8'> 
+		<meta name="description" content="Hier finden Sie Informationen zum Datenschutz. Unsere Datenschutzerklärung, den Haftungsausschluss, Nutzungsdaten und Wichtiges zu Facebook."/>
+		<meta name="keywords" content=""/>
+		<meta name="robots" content="index,follow"/>
+		
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><link rel="canonical" href="https://www.bauhaus.info/datenschutz"/>
+		<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta names="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+
+		<!--[if lt IE 9]> <script type="text/javascript" src="/_ui/bauhaus/js/libraries/dynamic/html5shiv.js?unknown!"></script><![endif]-->
+
+		<link rel="shortcut icon" href="/_ui/bauhaus/favicon.ico?unknown!" type="image/x-icon"/>
+		
+		<!-- <link rel="stylesheet" type="text/css" href="/_ui/bauhaus/css/base.css?unknown!" />  -->
+
+<link rel="stylesheet" type="text/css" href="/_ui/bauhaus/css/main.css?unknown!" />
+
+<!--[if IE]> <link type="text/css" rel="stylesheet" href="/_ui/bauhaus/css/base.ie.css?unknown!" /> <![endif]-->
+<!--[if IE 6]> <link type="text/css" rel="stylesheet" href="/_ui/bauhaus/css/base.ie6.css?unknown!" /> <![endif]-->
+<!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/_ui/bauhaus/css/base.ie7.css?unknown!" /> <![endif]-->
+<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/_ui/bauhaus/css/base.ie8.css?unknown!" /> <![endif]-->
+<!--[if IE 9]> <link type="text/css" rel="stylesheet" href="/_ui/bauhaus/css/base.ie9.css?unknown!" /> <![endif]--><script type="text/javascript" src="/_ui/bauhaus/js/libraries/dynamic/modernizr.custom.js?unknown!"></script>
+		
+		
+		
+		
+
+		<!-- Adobe Analytics -->
+		<script src="//assets.adobedtm.com/69b800e5e0bac38ada54dbd2969f09b6d959587d/satelliteLib-f60bc911b8e3e65e552dd3038c120ee5bab5155f.js"></script>
+
+		<!-- adobe analytics data layer -->
+			<script type="text/javascript">
+				var dataLayer={"page":{"pageInfo":{"pageID":"page_00000JAH","pageType":"Content","primaryCategoryID":"datenschutz","primaryCategory":"Datenschutzerklärung"},"pageAttributes":{"country":"DE","language":"de"}}};
+</script>
+
+			
+				<script type="text/javascript">
+    if(dataLayer){
+if(!dataLayer) dataLayer={};
+
+dataLayer.cart={"deliveryCartID":"","reservationCartID":""};
+dataLayer.globalData={"internalStore":{"intStoreID":"","intStoreCity":"","intStoreIP":"91.5.184.24"},"viewport":"L"};
+
+}
+</script>
+
+				
+			<script>var pageSizeDynamic = 36</script>
+
+
+
+		<script type="application/ld+json">
+[
+{"@context":"http://www.schema.org","@type":"Organization","name":"BAUHAUS","url":"https://www.bauhaus.info","logo":"https://www.bauhaus.info/_ui/bauhaus/img/logo-bauhaus-L.png","description":"BAUHAUS Online-Shop - Ihr Fachcentrum wenn es gut werden muss. Wir sind Ihr Spezialist für Werkzeuge, Baumaterialien und Gartenbedarf. Wir bieten Ihnen verschiedenste Tools, Tipps und vieles mehr.","contactPoint":{"@type":"ContactPoint","telephone":"+49 800 39 05 000","email":"service@bauhaus.info","contactType":"Customer Service"}},
+{"@context":"http://www.schema.org","@type":"WebSite","url":"https://www.bauhaus.info","potentialAction":{"@type":"SearchAction","target":"https://www.bauhaus.info/suche?q={search_term_string}","query-input":"required name=search_term_string"}}]
+</script>
+</head>
+	<body id="top">
+<noscript>
+	<div class="message-box system-requirements">
+		<div class="content">
+			<span class="nojavascript">
+				In Ihrem Browser ist JavaScript deaktiviert. Um unseren Online-Shop nutzen zu k&ouml;nnen, aktivieren Sie JavaScript innerhalb Ihrer Browsereinstellungen. Sollten Sie Hilfe bei der &Auml;nderung Ihrer Browsereinstellungen ben&ouml;tigen, konsultieren Sie bitte die Website des Browserherstellers.</span>
+		</div>
+	</div>
+</noscript>
+<div class="message-box system-requirements no-cookie-support hidden">
+	<div class="content">
+		<span class="text">
+			In Ihrem Browser sind Cookies blockiert. Um unseren Online-Shop nutzen zu k&ouml;nnen, aktivieren Sie Cookies innerhalb Ihrer Browsereinstellungen. Sollten Sie Hilfe bei der &Auml;nderung Ihrer Browsereinstellungen ben&ouml;tigen, konsultieren Sie bitte die Website des Browserherstellers.</span>
+	</div>
+</div>
+<div class="message-box system-requirements browser-support hidden">
+	<div class="content">
+		<span class="text">
+			Sie verwenden einen veralteten Browser, mit dem nicht alle Inhalte korrekt dargestellt werden k&ouml;nnen. Um unseren Online-Shop nutzen zu k&ouml;nnen, empfehlen wir Ihnen, die aktuellste Version Ihres Browsers zu installieren. Sollten Sie Hilfe ben&ouml;tigen, konsultieren Sie bitte die Website des Browserherstellers.</span>
+	</div>
+</div><!--   Important:  To use this tag, set it on the page it should work and make sure it is placed only once within the dom tree. Set the 
+				   css class 'requirecookie' on the link where you want this cookie requirement to apply! -->
+				   
+<div class="mod modMessages cookieerror hidden">
+	<p class="h2">
+		Information</p>
+	<div class="message">
+		<p class="sprites-before error">
+			Um diese Funktion zu nutzen, müssen die Cookies Ihres Browsers aktiviert sein.<br/>Bitte aktivieren Sie die Cookies in den Einstellungen Ihres Browsers.</p>
+	</div>
+</div><div class="wrapper">
+
+ 		<div style="position:absolute;">
+ 		<!-- DE SHOP -->
+		</div>
+		
+		<header class="head">
+	<div class="headerWrapper">
+		<div class="line meta-navigation">
+			<div class="unit sizeFixedHead">
+
+				<div class="mod modMetaNavigation">
+
+					<nav class="float-right" role="navigation">
+						<ul>
+							<li class="first-navigation-item"><a href="/service/kontaktformular" target="_self">Kontakt</a></li>
+									<li ><a href="/unternehmen" target="_self">Unternehmen</a></li>
+									<li ><a href="/karriere" target="_self">Karriere</a></li>
+									<li ><a href="/service" target="_self">Service</a></li>
+									<li ><a href="/fachcentrenuebersicht" target="_self">Fachcentren</a></li>
+									<li class="last-navigation-item"><a href="/gutscheinkarten/c/10001631" target="_self">Gutscheinkarten</a></li>
+									</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+		<div class="lineHeaderGradient clearfix">
+			<div class="unit sizeLogoMainHeader">
+				<section class="mod modLogo">
+					<div itemscope="" itemtype="http://schema.org/Organization">
+						<a itemprop="url" href="/">
+						<img src="/_ui/bauhaus/img/logo-l.png"  alt="BAUHAUS - Mehr als ein Baumarkt"  itemprop="logo" class="l-vp"/>
+						<img src="/_ui/bauhaus/img/logo-m.png"  alt="BAUHAUS - Mehr als ein Baumarkt"  itemprop="logo" class="m-vp"/>
+						<img src="/_ui/bauhaus/img/logo-s.png"  alt="BAUHAUS - Mehr als ein Baumarkt"  itemprop="logo" class="s-vp"/>
+						</a>
+					</div>
+				</section>
+			</div>
+			<div class="promotion">
+						<a href="https://www.bauhaus.info/versandkosten">
+	  						<img src="https://media.bahag.com/assets/90/00/900083_21761732.png">
+						</a>
+					</div>
+				<div class="storeFinder mod modMetaNavigation" >
+
+				<p class="float-left dynamic-content" data-dynamic-content-url="/ajax/header-responsive/mybauhaus?productKey=">
+				</p>
+			</div>
+			</div>
+		<div class="stickyWrapper"></div>
+<nav class="mod modMainNavigation clearfix" role="navigation">
+	
+	<ul class="mainNav">
+	
+		<li class="level1 comp_00001B2V produkte-nav">
+	<div class="headline">
+		<span></span>
+		<a class=" sprites-after" href="/produkte" title="Produkte">Produkte</a>
+	</div>
+	
+	</li><li class="level1 Beratung beratung-nav">
+	<div class="headline">
+		<span></span>
+		<a class=" sprites-after" href="/beratung" title="Beratung">Beratung</a>
+	</div>
+	
+	</li><a href="javascript:;" class='mainNavigationTab'><div class="glyphicon icon-burger"></div></a>
+
+	<div class="beratungWrapper menuPanel">
+		<ul class="beratungSubNavigation subLevel1 mobileNavigationPanel" id="beratungSubNavigation" style="display:none;">
+					<li class="mobileHeading s-vp"><a href="/beratung" rel="">Beratung</a></li>
+					<li class="backButton s-vp"><a href="javascript:;" rel="0"></a><div class="sticky"></div></li>	
+		</ul>
+	</div>
+
+	<div class="serviceWrapper menuPanel">
+		<ul class="serviceSubNavigation subLevel1 mobileNavigationPanel" id="serviceSubNavigation" style="display:none;">
+					<li class="mobileHeading s-vp"><a href="/service" rel="">Service</a></li>
+					<li class="backButton s-vp"><a href="javascript:;" rel="0"></a><div class="sticky"></div></li>	
+		</ul>
+	</div>	
+
+	<div class="unternemenWrapper menuPanel">
+			<ul class="unternemenSubnavigation subLevel1 mobileNavigationPanel" id="unternemenSubnavigation" style="display:none;">
+						<li class="mobileHeading s-vp"><a href="/unternehmen" rel="">Unternehmen</a></li>
+						<li class="backButton s-vp"><a href="javascript:;" rel="0"></a><div class="sticky"></div></li>	
+			</ul>
+	</div>	
+
+	<div class="karriereWrapper menuPanel">
+			<ul class="karriereSubnavigation subLevel1 mobileNavigationPanel" id="karriereSubnavigation" style="display:none;">
+						<li class="mobileHeading s-vp"><a href="/karriere" rel="">Karriere</a></li>
+						<li class="backButton s-vp"><a href="javascript:;" rel="0"></a><div class="sticky"></div></li>	
+			</ul>
+	</div>	
+
+	<div class="fachcentrenWrapper menuPanel">
+			<ul class="fachcentrenSubnavigation subLevel1 mobileNavigationPanel" id="fachcentrenSubnavigation" style="display:none;">
+						<li class="mobileHeading s-vp"><a href="/fachcentren" rel="">Fachcentren</a></li>
+						<li class="backButton s-vp"><a href="javascript:;" rel="0"></a><div class="sticky"></div></li>	
+			</ul>
+	</div>		
+
+	<div class="kontaktWrapper menuPanel">
+			<ul class="kontaktSubnavigation subLevel1 mobileNavigationPanel" id="kontaktSubnavigation" style="display:none;">
+						<li class="mobileHeading s-vp"><a href="/kontakt" rel="">Kontakt</a></li>
+						<li class="backButton s-vp"><a href="javascript:;" rel="0"></a><div class="sticky"></div></li>	
+			</ul>
+	</div>	
+	<div class="rb"></div>
+	<div class="categoryWrapper menuPanel">
+		<ul class="categoryNav subLevel1" id="categoryNav" >
+					<li class="mobileHeading s-vp"><a href="/produkte" rel="">Produkte</a></li>
+					<li class="backButton s-vp"><a href="javascript:;" rel="0"></a></li>	
+					<li class="catTreeFirstLevel"><a href="/garten-freizeit/c/10000910" rel="0">Garten & Freizeit</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/bad-kueche/c/10000347" rel="0">Bad & Küche</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/eisenwaren/c/10000001" rel="0">Eisenwaren</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/werkzeug-maschinen/c/10000090" rel="0">Werkzeug & Maschinen</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/elektro-leuchten/c/10000245" rel="0">Elektro & Leuchten</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/heizen-klima/c/10000445" rel="0">Heizen & Klima</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/bodenbelaege/c/10000474" rel="0">Bodenbeläge</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/fliesen/c/10000499" rel="0">Fliesen</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/farben-tapeten/c/10000539" rel="0">Farben & Tapeten</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/wohnen-dekorieren/c/10000675" rel="0">Wohnen & Dekorieren</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/reinigung-haushalt/c/10000725" rel="0">Reinigung & Haushalt</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/holz-moebelbau/c/10000757" rel="0">Holz & Möbelbau</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/fenster-tueren-treppen/c/10000785" rel="0">Fenster, Türen & Treppen</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/baustoffe/c/10000819" rel="0">Baustoffe</a></li>	
+	     			<li class="catTreeFirstLevel"><a href="/nautic-auto-fahrrad/c/10001100" rel="0">NAUTIC, Auto & Fahrrad</a></li>	
+	     			</ul>
+	 		</div>
+ 	
+		
+
+	</ul>
+
+		<a href="javascript:;" class="searchTab m-vp s-vp">
+			<div class="glyphicon icon-search">
+
+			</div>
+		</a>
+
+		<div class="search float-left l-vp">
+		<form method="get" data-jsonurl="/suche" action="/suche" data-allresult-text="Alle Ergebnisse anzeigen">
+			<fieldset>
+				<legend class="visuallyhidden">Suche</legend>
+				<label class="visuallyhidden" for="toolbox-search">Suche</label>
+				<input id="toolbox-search" type="search" name="q" autocomplete="off" placeholder="Suchbegriff / Produktnummer" value=""/>
+				<div class="glyphicon icon-search">
+				<span>Suchen</span>
+				<input class="button highlight plain glyphicon" type="submit" value="LOS" />
+				</div>
+				<div class="glyphicon icon-delete">
+				</div>
+			</fieldset>
+		</form>
+		</div>
+
+
+
+		<div class="accountTab flyoutBtn   dynamic-content " data-dynamic-content-url="/ajax/header-responsive/flyoutLogin">
+			
+
+
+
+
+
+
+
+
+	
+	
+		<div class="headline">	
+					<a data-link="/login" class="s-vp link-transfer"><div class="glyphicon icon-profile-lock"></div></a>
+					<a href="javascript:;" class="m-vp l-vp">
+					<div class="glyphicon icon-profile-lock"></div>
+					<span class="loggedOutText">Kundenkonto</span>
+					</a>
+		</div>
+		<div class="loginPanel panel">
+		<div class="row flyout">
+			
+			
+			<fieldset class="">
+				<div id="Login"	class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+					
+
+					<a data-link="/login" class="link-transfer btn loginBtn">Anmelden</a>
+
+
+			
+				
+				
+				
+					<ul class="links">
+							<li>
+								<a href="/login">
+									Pers&ouml;nliche Daten
+								</a>
+							</li>
+							<li>
+								<a href="/login">
+									Adressverwaltung
+								</a>
+							</li>
+					</ul>
+				
+			
+						<a class="letsRegister" href="/register">
+							Jetzt registrieren
+						</a>
+
+				<!-- LOGIN PANEL -->
+					<!--<form action="https://www.bauhaus.info/j_spring_security_check" method="POST" autocomplete="off"> -->
+						<!-- https!! -->
+						<!--
+						<input type="hidden" value="flyoutLogin" name="login-type">
+						<input type="hidden" value="/datenschutz" name="currentURI">
+						<fieldset>
+							<legend class="visuallyhidden">
+								Kundenlogin
+							</legend>
+							<label for="loginemail">
+								E-Mail
+							</label>
+							<input id="loginemail" name="j_username" type="text" placeholder="E-Mail-Adresse eingeben"
+									aria-required="true" required="required" />
+							<label for="loginpassword">
+								Passwort
+							</label>
+							<input id="loginpassword" name="j_password" type="password"  autocomplete="off"  placeholder="Passwort eingeben" aria-required="true" required="required" />
+
+							
+							
+							
+							<p class="compact">
+								
+
+
+
+
+
+
+<a class="lsItem1" href="/login/pw/request">Passwort vergessen</a>
+							</p>
+							<button type="submit" class="button highlight arrow right">
+	<span class="sprites-after">Login</span>
+</button>
+						</fieldset>
+					</form>
+					-->
+				</div>
+			</fieldset>
+		</div>
+		</div>
+	
+
+
+</div>
+		<div class="cartTab flyoutBtn ">
+			<div class="headline ">
+				<a class="s-vp link-transfer" data-link="/cart">
+				<div class="glyphicon icon-cart"></div>
+				</a>
+				<a class="m-vp l-vp" href="javascript:;">
+				<div class="glyphicon icon-cart"></div>
+					<span style="margin-left:10px;float: left;">Warenkorb</span>
+				</a>
+			</div>
+			<div class="panel">
+				<ul>
+					<li class="cart flyout size2of5 dynamic-content" data-dynamic-content-url="/ajax/header-responsive/toolbar/cart">
+						<!-- 16.10 -->
+<div class="miniCart">
+
+<h3>Ihr Warenkorb enth&auml;lt aktuell keine Produkte.</h3>
+<div class="toolbutton">
+	<div class="block size1of2">
+
+		</div>
+</div>
+<div class="flyout box-border box-gradient box-shadow">
+
+	<ul class="productList">
+		</ul>
+
+</div>
+</div>
+</li>
+				</ul>
+			</div>
+		</div>
+
+</nav>
+
+	<ul class="mobileNavigation activePanel subLevel0">
+		<li class="level1 comp_00001B2V produkte-nav">
+	<div class="headline">
+		<span></span>
+		<a class=" sprites-after" href="/produkte" title="Produkte">Produkte</a>
+	</div>
+	
+	</li><li class="level1 Beratung beratung-nav">
+	<div class="headline">
+		<span></span>
+		<a class=" sprites-after" href="/beratung" title="Beratung">Beratung</a>
+	</div>
+	
+	</li><li class="level1 metaNavigationComponent "><a href="/service/kontaktformular" target="_self">Kontakt</a></li>
+		 		<li class="level1 metaNavigationComponent unternehmen-meta"><a href="/unternehmen" target="_self">Unternehmen</a></li>
+		 		<li class="level1 metaNavigationComponent "><a href="/karriere" target="_self">Karriere</a></li>
+		 		<li class="level1 metaNavigationComponent service-meta"><a href="/service" target="_self">Service</a></li>
+		 		<li class="level1 metaNavigationComponent "><a href="/fachcentrenuebersicht" target="_self">Fachcentren</a></li>
+		 		<li class="level1 metaNavigationComponent "><a href="/gutscheinkarten/c/10001631" target="_self">Gutscheinkarten</a></li>
+		 		</ul>
+	<a title="skiptonavigation"></a>
+	</div>
+</header>
+
+<div class="categoryMask"></div>
+
+<script>var showLightboxLanguages = false</script>
+<a id="lightboxLanguagesPopup" class="setup-fc-overlay-cookie storeSelect glyphicon hidden icon-location" href="/ajax/lightbox/languages"></a>
+
+
+<div class="dim"></div>
+<div class="page">
+<!-- 			<a href="#skip-to-content" class="skiptocontent">Direkt zum Inhalt der Seite</a>
+			<a href="#skiptonavigation" class="skiptonavigation">Direkt zur Hauptnavigation</a> -->
+			<div class="body" role="main">
+				<a title="skip-to-content"></a>
+				<div class="unit size1of1 clearfix">
+					<div class="categoryGrid">
+	<nav role="navigation" class="mod modBreadcrumbNavigation">
+	
+		<ol class="clearfix " itemscope="" itemtype="http://schema.org/BreadcrumbList">
+			
+			<li class="locatorWrapper">
+						<div class="locator">
+						<a href="" id="" itemprop="url" class="backlink"><span class="txt">Zur&uuml;ck</span></a>
+							</div>
+					</li>
+				<li>
+								<a href="/" itemprop="url" class="sprites-after" title="zur Startseite"><span class="icon-house"></span></a>
+							</li>
+							<li class="arrowLi">&nbsp;</li>
+								<li class="breadcrumbList">
+									<a href="" itemprop="url" class="sprites-after" title="Rechtliches">
+												<span class="non-ellipsis">Rechtliches</span>
+											</a>
+											<a href="#" class="sprites-after default notClickable">
+												<span class="ellipsis">...</span>
+											</a>
+										</li>
+
+								<li class="arrowLi">&nbsp;</li>
+								<li class="breadcrumbList">
+									<a href="#" class="sprites-after notClickable" title="Datenschutzerklärung">
+												<span class="non-ellipsis">Datenschutzerklärung</span>
+											</a>
+											<a href="#" class="sprites-after default notClickable">
+												<span class="ellipsis">...</span>
+											</a>
+										</li>
+
+								<li class="arrowLi last">&nbsp;</li>
+								</ol>
+	</nav>
+</div></div>
+				<div class="inner mainTitle">
+					<h1 class="gridTitle">Datenschutz</h1>
+				</div>
+				<div class="serviceNavigationM-view clearfix" >
+					<aside class="unit size1of4 container-modSubNavigation serviceNavigation mod">
+						<div class="serviceAccordionHeader leading accordion-trigger closed">Rechtliches<span class="sprites"></span></div>
+						 <nav role="navigation" class="mod modSubNavigation box-shadow box-border accordion-content nav1">
+	<ul class="level2">
+
+	<li class="">
+				<a href="/impressum" class="sprites-before " title="Impressum">Impressum</a>
+						</li>
+		<li class="">
+				<a href="/agb" class="sprites-before " title="AGB">AGB</a>
+						</li>
+		<li class="activeItem">
+				<a style="cursor:default"><b>Datenschutzerklärung</b></a>
+                            </li>
+		<li class="last-navigation-item ">
+				<a href="/widerrufsbelehrung" class="sprites-before " title="Widerrufsbelehrung">Widerrufsbelehrung</a>
+						</li>
+		</ul><ul class="level2">
+
+	</ul></nav>
+</aside>
+				</div>
+			<div class="contentGrid  serviceWrapper content-aids datenschutz">
+				<div class="line serviceInnerPages">
+					<!-- dynamic nav -->
+					<div class="serviceMetaPoint"></div>
+					<div class="accordion-content serviceMetaNavigationWrapper menuPanel">
+					<div class="serviceMetaNavigation" data-dynamic-content-url="/ajax/navigation/nodes/datenschutz?q=datenschutz"></div>
+					</div>
+					<aside class="unit size1of4 container-modSubNavigation serviceNavigation mod serviceNavigationLS-view">
+					<div class="serviceAccordionHeader leading accordion-trigger closed">Datenschutz<span class="sprites"></span></div>
+						 <nav role="navigation" class="mod modSubNavigation box-shadow box-border accordion-content nav1">
+	<ul class="level2">
+
+	<li class="">
+				<a href="/impressum" class="sprites-before " title="Impressum">Impressum</a>
+						</li>
+		<li class="">
+				<a href="/agb" class="sprites-before " title="AGB">AGB</a>
+						</li>
+		<li class="activeItem">
+				<a style="cursor:default"><b>Datenschutzerklärung</b></a>
+                            </li>
+		<li class="last-navigation-item ">
+				<a href="/widerrufsbelehrung" class="sprites-before " title="Widerrufsbelehrung">Widerrufsbelehrung</a>
+						</li>
+		</ul><ul class="level2">
+
+	</ul></nav>
+</aside>
+	
+	
+					<div class="unit size3of4 lastUnit serviceContent">
+						<article
+										class="mod modContent box-shadow box-border box-gradient clearfix"
+										role="article">
+										<div class="inner">
+											<!-- <h1>Datenschutz</h1> -->
+											<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Datenschutzerklärung
+	
+	
+	
+	</h2>
+
+
+<p>Uns ist Ihre Privatsph&auml;re wichtig. Sie sollen sich bei uns sicher f&uuml;hlen. Daher achten wir und unser Datenschutzbeauftragter auf die Einhaltung der datenschutzrechtlichen Vorgaben. Nachstehend m&ouml;chten wir Sie dar&uuml;ber informieren, f&uuml;r welche Zwecke Ihre Daten erhoben und verwendet werden und wie Sie Ihre Rechte wahrnehmen k&ouml;nnen. Die Datenschutzrichtlinie k&ouml;nnen Sie jederzeit &uuml;ber den Reiter &bdquo;Datenschutz&ldquo; am Fu&szlig; jeder Seite unseres Online-Shops aufrufen und ausdrucken.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Verwendung personenbezogener Daten im Bestellprozess
+	
+	
+	
+	</h2>
+
+
+<p>Unter personenbezogenen Daten versteht man  Angaben &uuml;ber Ihre pers&ouml;nlichen oder sachlichen Verh&auml;ltnisse, insbesondere den Vornamen, Nachnamen, Geburtsdatum, E-Mail-Adresse, Telefonnummer, Ihre Anschrift und die Bank- und Zahlungsdaten. Die von Ihnen im Rahmen des Bestellprozesses zur Verf&uuml;gung gestellten personenbezogenen Daten werden von der BAUHAUS E-Business GmbH &amp; Co. KG zur Einrichtung eines Kundenkontos, sowie zur Begr&uuml;ndung, Durchf&uuml;hrung und Beendigung Ihrer Bestellung verwendet, d.h. erhoben, verarbeitet und genutzt. Hierzu geh&ouml;ren die Zahlungsabwicklung, die Bonit&auml;tspr&uuml;fung, die Erf&uuml;llung der Bestellung, die Abwicklung von Retouren und die Rechnungsstellung.<br />Mit der Vergabe eines Passwortes legen Sie ein Kundenkonto an. Damit stehen die Daten auch f&uuml;r k&uuml;nftige Eink&auml;ufe in unserem Online Shop zur Verf&uuml;gung. Mit der Zustimmung zur Datenschutzerkl&auml;rung willigen Sie der Anlage des Kundenkontos und Verwendung der Daten f&uuml;r k&uuml;nftige Bestellprozesse ein. Selbstverst&auml;ndlich erfolgt bei jedem Bestellprozess eine Abfrage zu den gespeicherten Daten. Dar&uuml;ber hinaus d&uuml;rfen wir Sie ausdr&uuml;cklich auf das Widerspruchsrecht hinweisen (vgl. unten).<br />Zur Abwicklung der Bestellung ist es erforderlich, Ihre pers&ouml;nlichen Daten an interne und externe Dienstleister (BAUHAUS Fachcentren, Logistikunternehmen, Speditionen) weiterzugeben. Ihre Daten werden nur in Deutschland und nicht au&szlig;erhalb der EU verarbeitet.<br />F&uuml;r Werbezwecke werden Ihre personenbezogenen Daten nur verwendet, wenn Sie dem ausdr&uuml;cklich zugestimmt haben (z.B. in der Newsletterbestellung, siehe unten). Ihre Daten werden selbstverst&auml;ndlich nicht an soziale Netzwerke wie Facebook, Twitter etc. weitergegeben. <br />Sie k&ouml;nnen der weiteren Nutzung der Kundendaten jederzeit per E-Mail, schriftlich oder telefonisch widersprechen:</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+					
+			
+						
+			
+			
+	<H3		
+			
+	
+	
+	
+	
+	
+	
+	>BAUHAUS E-Business GmbH & Co. KG
+	
+	
+	
+	</H3>
+
+
+<p>Gutenbergstra&szlig;e 21<br />68167 Mannheim<br />Germany<br />E-Mail: service@bauhaus.info<br />Telefon: 0800/3905000</p><p>Ihr Kundenkonto wird dann gel&ouml;scht, sofern die Daten nicht noch im Rahmen der Abwicklung erteilter Bestellungen ben&ouml;tigt werden.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Bestellabwicklung, Retouren
+	
+	
+	
+	</h2>
+
+
+<p>Ihre Bestelldaten, nicht aber Ihre Bank- und Zahlungsdaten, werden an von uns beauftragte Speditionsunternehmen weitergegeben, welche die Produkte entsprechend Ihrer Bestellung konfektionieren und zustellen.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Einwilligung zur Bonitätsprüfung
+	
+	
+	
+	</h2>
+
+
+<p>Um eine sofortige Auslieferung der bestellten Produkte vor Zahlungseingang zu erm&ouml;glichen, f&uuml;hren wir eine Bonit&auml;tspr&uuml;fung durch. Sie willigen ein, dass wir Ihren Namen, Ihre Anschrift und Ihr Geburtsdatum an nachstehende Dienstleister &uuml;bermitteln, von welchen wir bonit&auml;tsrelevante Informationen zu Ihrem bisherigen Zahlungsverhalten und Informationen zur Beurteilung des Zahlungsausfallrisikos auf Basis mathematisch-statistischer Verfahren unter Verwendung von Anschriftendaten (Scoring) sowie Daten zur Verifizierung Ihrer Adresse (Pr&uuml;fung auf Zustellbarkeit)&nbsp;beziehen:</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+					
+			
+						
+			
+			
+	<H3		
+			
+	
+	
+	
+	
+	
+	
+	>infoscore Consumer Data GmbH
+	
+	
+	
+	</H3>
+
+
+<p>Rheinstra&szlig;e 99<br />76532 Baden-Baden</p><p>Das Ergebnis der automatisierten Bonit&auml;tspr&uuml;fung kann dazu f&uuml;hren, dass Ihnen einzelne Zahlarten (z.B. Kauf auf Rechnung) nicht angeboten werden.</p><p>Hiermit willigen Sie als Kunde in die Bonit&auml;tspr&uuml;fung ausdr&uuml;cklich ein. Die Einwilligung kann mit Wirkung f&uuml;r die Zukunft jederzeit widerrufen werden. Telefonisch unter: 0800/3905000 oder per E-Mail: service@bauhaus.info</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Zahlungsabwicklung
+	
+	
+	
+	</h2>
+
+
+<p>Ihre Bank- und Zahlungsdaten (Kreditkartendaten) werden auf den EDV&ndash;Systemen der Firma BAUHAUS weder erhoben noch verarbeitet oder gespeichert. Die Abwicklung von Zahlungen erfolgt ausschlie&szlig;lich auf EDV Systemen und in der technischen und rechtlichen Verantwortung unserer jeweiligen Zahlungsdienstleister.	<br />Nachfolgende Zahlungsdienstleister werden von uns gegenw&auml;rtig f&uuml;r die Kreditkarten- und Sofort&uuml;berweisungsabwicklung genutzt:</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+					
+			
+						
+			
+			
+	<H3		
+			
+	
+	
+	
+	
+	
+	
+	>PAYONE GmbH & Co. KG
+	
+	
+	
+	</H3>
+
+
+<p>22-24 Boulevard Royal	<br />L-2449 Luxembourg</p><p><br />F&uuml;r die Zahlung &uuml;ber &bdquo;Paypal&ldquo; nutzen wir den Dienstleister:</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+					
+			
+						
+			
+			
+	<H3		
+			
+	
+	
+	
+	
+	
+	
+	>PayPal (Europe) S.à r.l. et Cie, S.C.A
+	
+	
+	
+	</H3>
+
+
+<p>22-24 Boulevard Royal	<br />L-2449 Luxembourg</p><p>Wir nutzen ausschlie&szlig;lich Zahlungsdienstleister welche nach PCI DSS* zertifiziert sind und damit  die strengsten Anforderungen f&uuml;r den sicheren Umgang und die Speicherung von Kreditkartendaten erf&uuml;llen.<br /><br />*(PCI DSS ist die Abk&uuml;rzung f&uuml;r &quot;Payment Card Industry Data Security Standard&quot; und basiert auf den Sicherheits-Programmen Visa AIS (Account Information Security) und MasterCard SDP (Site Data Protection). <br /><br />Im &Uuml;brigen geben wir ohne Ihre Veranlassung personenbezogene Daten weder an Dritte weiter, noch verkaufen oder vermieten wir Daten. Wir behalten uns allerdings vor, Informationen &uuml;ber Sie offenzulegen, wenn wir gesetzlich hierzu verpflichtet sind oder die Herausgabe von rechtm&auml;&szlig;ig handelnden Beh&ouml;rden oder Strafverfolgungsorganen von uns verlangt wird.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Verwendung personenbezogener Daten bei der Newsletterbestellung
+	
+	
+	
+	</h2>
+
+
+<p>Falls Sie einen Newsletter bestellen, werden ihre personenbezogenen Daten gespeichert und f&uuml;r den Versand genutzt. Hierzu erh&auml;lt der von uns beauftragte Dienstleister von uns Ihre Daten, um den jeweiligen Newsletterversand durchzuf&uuml;hren.<br />Den Newsletter k&ouml;nnen Sie jederzeit abbestellen, indem Sie auf den im Newsletter angegebenen Link klicken. Dieser Link befindet sich in den Fu&szlig;noten des Newsletters und f&uuml;hrt zu einer Austragung Ihrer Adresse aus dem Newsletterverteiler. <br />Sollten Sie aktuell keinen Newsletter vorliegen haben, k&ouml;nnen Sie die Abmeldung &uuml;ber unseren Kundenservice vornehmen lassen. Hierf&uuml;r gen&uuml;gt eine E-Mail an service@bauhaus.info und die Angabe der entsprechenden E-Mail-Adresse, die abgemeldet werden soll und eine Austragung erfolgt umgehend. Alternativ k&ouml;nnen Sie als registrierter Kunde auf unserer Internetseite innerhalb Ihres Kundenkontos jederzeit die Newsletter-Anmeldung widerrufen, indem Sie den Haken f&uuml;r die Newsletter-Anmeldung entfernen.<br />Im Falle der Abbestellung werden Ihre Daten in unseren Systemen gel&ouml;scht und es erfolgt f&uuml;r den n&auml;chsten Newsletter keine Datenweitergabe an unseren Dienstleister.<br />Alternativ dazu k&ouml;nnen Sie Ihre Zustimmung zur Nutzung Ihrer Daten zu Werbezwecke oder zur Zusendung von Newslettern jederzeit widerrufen, per E-Mail, schriftlich oder telefonisch an:</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+					
+			
+						
+			
+			
+	<H3		
+			
+	
+	
+	
+	
+	
+	
+	>BAUHAUS E-Business GmbH & Co. KG
+	
+	
+	
+	</H3>
+
+
+<p>Gutenbergstra&szlig;e 21<br />68167 Mannheim<br />Germany<br />E-Mail: service@bauhaus.info<br />Telefon: 0800/3905000</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Auskunfts- und Widerspruchsrecht
+	
+	
+	
+	</h2>
+
+
+<p>Sie k&ouml;nnen jederzeit unentgeltlich der Nutzung Ihrer personenbezogenen Daten f&uuml;r die Zukunft widersprechen, eine teilweise oder komplette L&ouml;schung bzw. Sperrung veranlassen oder Auskunft &uuml;ber die von uns zu Ihrer Person gespeicherten Daten bzw. deren Berichtigung verlangen. Die Einhaltung einer besonderen Form ist nicht erforderlich, schreiben Sie uns zum Beispiel per E-Mail unter service@bauhaus.info oder nutzen Sie unser Kontaktformular.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Datensicherheit
+	
+	
+	
+	</h2>
+
+
+<p>Unsere EDV-Systeme sind durch technische und organisatorische Ma&szlig;nahmen gegen Zugriff, Ver&auml;nderung oder Verbreitung Ihrer Daten durch unbefugte Personen, sowie gegen Verlust und Zerst&ouml;rung gesichert.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Cookies
+	
+	
+	
+	</h2>
+
+
+<p>Um die Nutzung unserer Website zu erleichtern, verwenden wir &bdquo;Cookies&ldquo;. Cookies sind kleine Textdateien, die von Ihrem Browser auf der Festplatte Ihres Computers abgelegt werden k&ouml;nnen und hilfreich f&uuml;r die Nutzung unserer Website sind. Wir nutzen Cookies, um besser zu verstehen, wie unsere Website genutzt wird und um eine verbesserte Navigation zu erm&ouml;glichen. Cookies erm&ouml;glichen es uns dar&uuml;ber hinaus zu erkennen, ob Sie unsere Website zuvor bereits besucht haben oder ob Sie ein neuer Besucher sind. Cookies, die wir einsetzen, speichern Ihre personenbezogenen Daten nicht. Wenn Sie keine Cookies erhalten m&ouml;chten, stellen Sie bitte Ihren Internet Browser entsprechend ein.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Webanalyse
+	
+	
+	
+	</h2>
+
+
+<p>Auf der BAUHAUS Website werden die Webanalysedienste Piwik und Adobe Analytics eingesetzt.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+					
+			
+						
+			
+			
+	<H3		
+			
+	
+	
+	
+	
+	
+	
+	>Piwik
+	
+	
+	
+	</H3>
+
+
+<p>Auf der BAUHAUS Website wird Piwik eingesetzt. Piwik ist ein sogenannter Webanalysedienst. Piwik verwendet Cookies. Cookies sind Textdateien, die auf Ihrem Computer gespeichert werden und die unsererseits eine Analyse der Benutzung der Website erm&ouml;glichen. Zu diesem Zweck werden die durch den Cookie erzeugten Nutzungsinformationen, einschlie&szlig;lich Ihrer gek&uuml;rzten IP-Adresse, an unseren Server &uuml;bertragen und zur Nutzungsanalyse gespeichert, was der Webseitenoptimierung unsererseits dient. Ihre IP-Adresse wird bei diesem Vorgang umge­hend anony­mi­siert, sodass Sie als Nutzer anonym bleiben. Die durch den Cookie erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden nicht an Dritte weitergegeben. Sie k&ouml;nnen die Verwendung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern, es kann jedoch sein, dass Sie in diesem Fall m&ouml;glicherweise nicht s&auml;mtliche Funktionen dieser Website voll umf&auml;nglich nutzen k&ouml;nnen.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+					
+			
+						
+			
+			
+	<H3		
+			
+	
+	
+	
+	
+	
+	
+	>Adobe Analytics
+	
+	
+	
+	</H3>
+
+
+<p>Auf dieser Website kommt au&szlig;erdem Adobe Analytics, ein Webanalysedienst der Adobe Systems Software Ireland Limited (&bdquo;Adobe&ldquo;), zum Einsatz. Adobe Analytics verwendet sog. &ldquo;Cookies&rdquo;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie erm&ouml;glichen. Werden die durch den Cookie erzeugten Informationen &uuml;ber die Benutzung der Website an einen Server von Adobe &uuml;bermittelt, dann ist durch die Einstellungen gew&auml;hrleistet, dass die IP-Adresse vor der Geolokalisierung anonymisiert und vor Speicherung durch eine generische IP-Adresse ersetzt wird. Im Auftrag des Betreibers dieser Website wird Adobe diese Informationen benutzen, um die Nutzung der Website durch die Nutzer auszuwerten, um Reports &uuml;ber die Websiteaktivit&auml;ten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegen&uuml;ber dem Websitebetreiber zu erbringen. Die im Rahmen von Adobe Analytics von Ihrem Browser &uuml;bermittelte IP-Adresse wird nicht mit anderen Daten von Adobe zusammengef&uuml;hrt. Sie k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern. Wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Adobe sowie die Verarbeitung dieser Daten durch Adobe verhindern, indem sie das unter dem folgenden Link verf&uuml;gbare Browser-Plug-In herunterladen und installieren: <a href="http://www.adobe.com/de/privacy/opt-out.html" target="_blank">http://www.adobe.com/de/privacy/opt-out.html</a></p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Google Remarketing
+	
+	
+	
+	</h2>
+
+
+<p>Wir nutzen die Remarketing Technologie der Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; &bdquo;Google&ldquo;). Durch diese Technologie werden Nutzer, die unsere Internetseiten und Onlinedienste bereits besucht und sich f&uuml;r das Angebot interessiert haben, durch zielgerichtete Werbung auf den Seiten des Google Partner-Netzwerks erneut angesprochen. Die Einblendung der Werbung erfolgt durch den Einsatz von Cookies. Das sind kleine Textdateien, die auf dem Computer des Nutzers gespeichert werden. Mit Hilfe der Textdateien kann das Nutzerverhalten beim Besuch der Website analysiert und anschlie&szlig;end f&uuml;r gezielte Produktempfehlungen und interessenbasierte Werbung genutzt werden.</p><p>Wenn Sie keine interessenbasierte Werbung erhalten m&ouml;chten, k&ouml;nnen Sie die Verwendung von Cookies durch Google f&uuml;r diese Zwecke deaktivieren, indem sie die Seite <a href="https://www.google.de/settings/ads/onweb" target="_blank">https://www.google.de/settings/ads/onweb</a>  aufrufen.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent">
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+			
+						
+			
+			
+	<h2		
+			
+	
+	
+	
+	
+	
+	
+	>Aktualisierung und Änderung
+	
+	
+	
+	</h2>
+
+
+<p>Teile der Datenschutzerkl&auml;rung k&ouml;nnen von uns ge&auml;ndert oder aktualisiert werden, ohne dass Sie vorher von uns benachrichtigt werden. Bitte &uuml;berpr&uuml;fen Sie jeweils die Datenschutzerkl&auml;rung bevor Sie unser Angebot nutzen, um bei m&ouml;glichen &Auml;nderungen oder Aktualisierungen auf dem neusten Stand zu sein.</p></section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="media one textComponent"><p>Version:&nbsp;x/kwD8D</p><ul class="link-list">
+		<li><a href="http://media.bahag.com/assets/46/58/465841_19824993.pdf" title="Datenschutzerklärung (PDF)"
+		 target="_new">
+	Datenschutzerklärung (PDF)</a></li></ul>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+									</article>
+								</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+			
+
+
+
+
+
+
+
+
+
+ 
+<footer class="footer">
+	<nav class="" role="navigation">
+		
+			<div class="r1">
+	<div class="rInner3">
+		<div class="footerWrapper">
+		<div class="rInner newsletter">
+			<span class="newslText">Mit dem Newsletter immer informiert!</span>
+			<form action="/service/newsletter" class="newslForm" method="GET">
+				<input class="emailF" type="text" placeholder="E-Mail-Adresse eingeben" name="newslEmail" /><input
+				class="submitB" type="submit" name="newslSubmit" value="Anmelden"/>
+			</form>
+		</div>
+		</div>
+	</div>
+	<div class="rInner">
+		<div class="footerWrapper">
+		<div class="fcol">
+			<div>
+						<h3>Ihre BAUHAUS-Vorteile</h3>
+						<ul class="">
+							<li><span class="span-typo icon-checkmark"></span>Kostenloser Paketversand</li>
+							<li><span class="span-typo icon-checkmark"></span>30 Tage Rückgabe - auch im Fachcentrum</li>
+							<li><span class="span-typo icon-checkmark"></span>Sichere Zahlung (3D-Secure)</li>
+							<li><span class="span-typo icon-checkmark"></span>5 Jahre Garantie für alle elektro- oder motorbetriebenen Geräte</li>
+							</ul>
+						
+						<div class="hideOnS">
+							<h3 class="headlineM2">Zertifikate</h3>
+							<span class="">
+									<img alt="RapidSSL" src="https://media.bahag.com/assets/86/10/861082_21664323.png" class="" width="60" height="60" title=""/>
+				<div class="hidden pictoTitle"> </div>
+		</span>
+							</div>
+					</div>
+				</div>
+		<div class="fcol">
+			<div class="secondCol">
+			<div>
+							<h3 class="">Zahlungsarten</h3>
+							
+							<a href="/zahlungsarten" title="Zu den Zahlungsarten"
+		 class="img">
+	<img alt="Zahlungsmöglichkeiten" src="https://media.bahag.com/assets/10/85/1085393_22098888.png" class="" width="130" height="130" title=""/>
+				<div class="hidden pictoTitle"> </div>
+		</a></div>
+					<div>
+							<h3 class="">Hauptversandpartner</h3>
+							
+							<a href="/versandkosten" title=""
+		 class="img">
+	<img alt="Versandpartner" src="https://media.bahag.com/assets/34/40/344067_19154987.png" class="" width="130" height="35" title=""/>
+				<div class="hidden pictoTitle"> </div>
+		</a></div>
+					</div>
+		</div>
+		<div class="fcol">
+			<div class="phoneLine">
+				<div>
+					<h3>Kundenservice</h3>
+					<p>		
+						<span class="span-typo icon-phone"></span>
+						<a href="tel:0800 39 05 000">		
+							<span class="emf phone">
+								0800 39 05 000</span>
+						</a>
+					</p>
+					<p>Kostenfrei aus dem deutschen Festnetz. Montags bis freitags 8:00 - 18:00 Uhr und samstags 8:00 - 14:00 Uhr.</p>
+				</div>
+				<div>
+					<span class="emf mail">
+						<span class="span-typo icon-mail"></span><a href="mailto:service@bauhaus.info">
+							service@bauhaus.info</a>
+					</span>
+					<p><a href="/service/kontaktformular">Zum Kontaktformular</a></p>
+				</div>
+			</div>
+			<div>
+				<section class="modSocialBar">
+				<h3>Noch mehr BAUHAUS</h3>
+<!-- 						<span class="img"> -->
+<!-- 						</span>	 -->
+
+
+
+
+
+
+
+
+<ul>
+	<li>
+		
+		
+		<a class="facebook icon-facebook" title="Facebook" href="http://www.facebook.com/BAUHAUS" target="_blank">			
+		</a>
+	</li>
+	<li>
+		
+		
+		<a class="twitter icon-twitter" title="Twitter" href="https://twitter.com/bauhausinfo" target="_blank">			
+		</a>
+	</li>
+	<li>
+		
+		
+		<a class="google icon-google" title="Google+" href="https://plus.google.com/+bauhaus" target="_blank">			
+		</a>
+	</li>
+	<!--<li>
+		
+		
+		<a class="youtube" title="YouTube" href="http://www.youtube.com/user/Bauhausinfo" target="_blank">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+			
+			
+			<img src="/_ui/bauhaus/img/images.png" alt="BAUHAUS" class="images logo" />
+		
+	
+	
+
+		</a>
+	</li>-->
+	
+	
+</ul>
+				</section>
+			</div>
+		</div>
+		</div>
+	</div>
+	<div class="rInner footerMenu accordion">
+		<div class="footerWrapper">
+			<div class="fcol accordion-section">
+					<h3 id="#navigationNode_00000Q8G" class="accordion-section-title">
+						<span class="atArrow atArrowsBottom icon-arrow-bottom"></span>
+						<span class="atArrow atArrowsTop icon-arrow-top"></span>
+						Produkte</h3>
+					<ul id="navigationNode_00000Q8G" class="accordion-section-content">
+							<li><a href="/garten-freizeit/c/10000910" target="_self">Garten & Freizeit</a></li>
+										<li><a href="/bad-kueche/c/10000347" target="_self">Bad & Küche</a></li>
+										<li><a href="/eisenwaren/c/10000001" target="_self">Eisenwaren</a></li>
+										<li><a href="/werkzeug-maschinen/c/10000090" target="_self">Werkzeug & Maschinen</a></li>
+										<li><a href="/elektro-leuchten/c/10000245" target="_self">Elektro & Leuchten</a></li>
+										<li><a href="/heizen-klima/c/10000445" target="_self">Heizen & Klima</a></li>
+										<li><a href="/bodenbelaege/c/10000474" target="_self">Bodenbeläge</a></li>
+										<li><a href="/fliesen/c/10000499" target="_self">Fliesen</a></li>
+										<li><a href="/farben-tapeten/c/10000539" target="_self">Farben & Tapeten</a></li>
+										<li><a href="/wohnen-dekorieren/c/10000675" target="_self">Wohnen & Dekorieren</a></li>
+										<li><a href="/reinigung-haushalt/c/10000725" target="_self">Reinigung & Haushalt</a></li>
+										<li><a href="/holz-moebelbau/c/10000757" target="_self">Holz & Möbelbau</a></li>
+										<li><a href="/fenster-tueren-treppen/c/10000785" target="_self">Fenster, Türen & Tore</a></li>
+										<li><a href="/baustoffe/c/10000819" target="_self">Baustoffe</a></li>
+										<li><a href="/nautic-auto-fahrrad/c/10001100" target="_self">NAUTIC, Auto & Fahrrad</a></li>
+										</ul>
+					</div>
+			<div class="fcol accordion-section">
+					<h3 id="#angeboteNavNode" class="accordion-section-title">
+						<span class="atArrow atArrowsBottom icon-arrow-bottom"></span>
+						<span class="atArrow atArrowsTop icon-arrow-top"></span>
+						Prospekte</h3>
+					<ul id="angeboteNavNode" class="accordion-section-content">
+							<li><a href="/angebote/fachprospekte" title="Fachprospekte">Fachprospekte</a></li>
+										<li><a href="/angebote/katalog" title="Kataloge">Kataloge</a></li>
+										<li><a href="/angebote/werbebeilagen" title="Werbebeilagen">Werbebeilagen</a></li>
+										</ul>
+					</div>
+			<div class="fcol accordion-section">
+					<h3 id="#navigationNode_00000CCG" class="accordion-section-title">
+						<span class="atArrow atArrowsBottom icon-arrow-bottom"></span>
+						<span class="atArrow atArrowsTop icon-arrow-top"></span>
+						Ratgeber</h3>
+					<ul id="navigationNode_00000CCG" class="accordion-section-content">
+							<li><a href="/ratgeber/bauen-sanieren" target="_self">Bauen & Sanieren</a></li>
+										<li><a href="/ratgeber/sanitaer-heizung" target="_self">Sanitär & Heizung</a></li>
+										<li><a href="/ratgeber/renovieren-modernisieren" target="_self">Renovieren & Modernisieren</a></li>
+										<li><a href="/ratgeber/wohnen-dekorieren" target="_self">Wohnen & Dekorieren</a></li>
+										<li><a href="/ratgeber/garten-freizeit" target="_self">Garten & Freizeit</a></li>
+										<li><a href="/ratgeber/werkzeug-maschinen" target="_self">Werkzeug & Maschinen</a></li>
+										</ul>
+					</div>
+			<div class="fcol accordion-section">
+					<h3 id="#fachcentrenNavNode" class="accordion-section-title">
+						<span class="atArrow atArrowsBottom icon-arrow-bottom"></span>
+						<span class="atArrow atArrowsTop icon-arrow-top"></span>
+						Fachcentren</h3>
+					<ul id="fachcentrenNavNode" class="accordion-section-content">
+							<li><a href="/fachcentren/fachcentrensuche" title="Fachcentrensuche">Fachcentrensuche</a></li>
+										<li><a href="/service/veranstaltungen" title="Veranstaltungen">Veranstaltungen</a></li>
+										<li><a href="/service/leistungen" title="Leistungen">Leistungen</a></li>
+										<li><a href="/fachcentren/drive-in-arena" title="DRIVE-IN ARENA">DRIVE-IN ARENA</a></li>
+										<li><a href="/fachcentren/baederwelt" title="BÄDERWELT">BÄDERWELT</a></li>
+										<li><a href="/fachcentren/nautic" title="NAUTIC">NAUTIC</a></li>
+										<li><a href="/fachcentren/stadtgarten" title="Der Stadtgarten">Der Stadtgarten</a></li>
+										<li><a href="/fachcentren/fliesen-arena" title="FLIESEN ARENA">FLIESEN ARENA</a></li>
+										<li><a href="/fachcentren/profi-depot" title="PROFI DEPOT">PROFI DEPOT</a></li>
+										<li><a href="/fachcentren/pro-clean" title="Pro Clean">Pro Clean</a></li>
+										</ul>
+					</div>
+			<div class="fcol accordion-section">
+					<h3 id="#serviceNavNode" class="accordion-section-title">
+						<span class="atArrow atArrowsBottom icon-arrow-bottom"></span>
+						<span class="atArrow atArrowsTop icon-arrow-top"></span>
+						Service</h3>
+					<ul id="serviceNavNode" class="accordion-section-content">
+							<li><a href="/gutscheinkarte" title="Gutscheinkarten">Gutscheinkarten</a></li>
+										<li><a href="/service/leistungen/reservieren-und-abholen" title="Reservieren & Abholen">Reservieren & Abholen</a></li>
+										<li><a href="/service/leistungen/plus-card" title="PLUS CARD">PLUS CARD</a></li>
+										<li><a href="/service/leistungen/garantien" title="Garantien">Garantien</a></li>
+										<li><a href="/service/mobile-apps" title="Apps & Co">Apps & Co</a></li>
+										<li><a href="/service/faq" title="FAQs">FAQs</a></li>
+										<li><a href="/service/newsletter" title="Newsletter">Newsletter</a></li>
+										<li><a href="/service/gewinnspiele" title="Gewinnspiele">Gewinnspiele</a></li>
+										</ul>
+					</div>
+			</div>
+        <div class="footerWrapper clearFoot">
+            <div class="footnote">
+                <div class="footItem"><span>Alle Preise in EUR inkl. MwSt., bei Online-Bestellungen zzgl. <a href="/versandkosten">Versandkosten</a></span></div>
+            </div>
+        </div>
+		
+	</div>
+	<div class="rInner2">
+		<div class="footerWrapper">
+			<div class="rInner rInnerLegalNav">
+				<nav class="modLegalNavigation" role="navigation">		
+					<ul class="right">
+						<li class="first-navigation-item">
+									<a href="/impressum" target="_self">Impressum</a></li>
+							<li class="">
+									<a href="/agb" target="_self">AGB</a></li>
+							<li class="">
+									<a href="/datenschutz" target="_self">Datenschutz</a></li>
+							<li class="last-navigation-item">
+									<a href="/widerrufsbelehrung" target="_self">Widerrufsbelehrung</a></li>
+							</ul>
+					<ul class="left">
+						<li class="brand">
+							
+
+
+
+	 
+		<a class="no-pointer overlay" href="#webPointInfo">
+						
+			<!-- <img src="/_ui/bauhaus/img/logo-bauhaus.png" alt="BAUHAUS" class="images logo-small l-vp"> -->
+			<img src="/_ui/bauhaus/img/logo-s.png" alt="BAUHAUS" class="images logo-small logo-footer">
+		</a>
+		<div id="webPointInfo" class="hidden">
+			<p class="h2">Information f&uuml;r den Kundendienst </p>
+			<p>8;955;1496334275</p>
+            <p>User Agent: <span class="browser"></span></p>
+            <p>Viewport: <span class="viewport"></span></p>
+		</div>
+	
+	
+
+</li>
+						<li class="copyright"><span>&copy;  2017</span></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
+
+		
+	</nav>
+</footer>
+<script type="text/javascript" src="/_ui/bauhaus/js/jquery-1.8.3.min.js?unknown!"></script>
+
+<script type="text/javascript" src="/_ui/bauhaus/js/plugins/autopager.min.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/plugins/jquery.sudoSlider.min.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/plugins/dynamic/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/plugins/jquery.splendid.textchange.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/plugins/jquery.dotdotdot.min.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/base.js?unknown!"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/libraries/utilities.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/main.js?unknown!"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/headerSearch.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/cart.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/validation.js"></script>
+<script type="text/javascript" src="/_ui/bauhaus/js/breadcrumb.js"></script>
+
+
+<script type="text/javascript">
+	(function($) {
+	    $(document).ready(function() {
+	        var $page = $('body');
+	        var application = new Tc.Application($page, { dependencyPath: {
+	            library: '/_ui/bauhaus/js/libraries/dynamic/',
+	            plugin: '/_ui/bauhaus/js/plugins/dynamic/',
+	            util: '/_ui/bauhaus/js/utils/dynamic/'
+	        }});
+	        application.registerModule($('html'), 'Layout', null, ['1']);
+	        application.registerModules();
+	        application.start();
+	    });
+	})(Tc.$);
+</script>
+<script type="text/javascript" src="/_ui/bauhaus/js/fachcentrum/detail.js"></script>
+				<script type="text/javascript" src="/_ui/bauhaus/js/fachcentrum/events.js"></script><script type="text/javascript">
+
+				
+				(function(){
+					if(!window.res && windowResize)
+					{
+						windowResize(0);
+					}
+					var map = { "l-vp":"L", "m-vp":"M", "s-vp":"S"};
+					var vp = map[window.res] ? map[window.res] : "L";
+					if(vp&&window.dataLayer&&window.dataLayer.globalData)
+					{ window.dataLayer.globalData.viewport=vp; }
+
+					_satellite.pageBottom();
+				})();
+
+			</script>
+		</body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"13795725,22647594","applicationTime":363,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"fdee18c92f","transactionName":"Y1dVbUVVXxJSBkxbVlodZElFXV8GcApWRktbXltcRRt1BFUETV5NZFNQXHRbXxVBClReXEYdVl1TZlQQRgBLRm1bf1hdUlg=","agent":"","errorBeacon":"bam.nr-data.net"}</script></html>

@@ -1,0 +1,586 @@
+  * Zum Hauptinhalt springen
+  * Zur Suche springen
+
+Zweites Deutsches Fernsehen
+
+Menü
+
+## Hauptnavigation
+
+  * Startseite
+  * Rubriken 
+
+    *       * Comedy 
+      * Doku/Wissen 
+      * Filme/Serien 
+      * Geschichte 
+      * Gesellschaft 
+      * Krimi 
+      * Kultur 
+      * Nachrichten 
+      * Politik 
+      * Show 
+      * Sport 
+      * Verbraucher 
+    *       * Sendungen A-Z 
+      * Bestbewertet 
+      * Meist gesehen 
+      * Barrierearm 
+
+  * Live-TV
+  * Sendung verpasst
+
+  * Suche
+  * Mein ZDF 
+
+    *       * Meine Listen
+      * Einstellungen
+      * Anmelden abmelden
+
+Suche
+
+Suchbegriff
+
+Suchen
+
+alle Sender ZDF ZDFinfo ZDFneo
+
+Weitere Filter
+
+von
+
+bis
+
+ganze Sendungen
+
+mit UT
+
+mit AD
+
+302  positive Bewertungen
+
+# Datenschutzerklärung
+
+Das ZDF nimmt den Datenschutz bei seinen Online-Angeboten sehr ernst. Hier
+erhalten Sie alle Hinweise rund um das Thema für unsere Websites ZDF.de -
+inklusive der ZDFmediathek - und heute.de. Wir möchten, dass Sie wissen,
+welche Daten wir wann erheben - und wie wir sie verwenden.
+
+  * ####  Persönliche Daten
+
+Auf Sie als Person bezogene Daten wie Name, Telefonnummer oder E-Mail-Adresse
+erhalten wir nur dann, wenn Sie uns diese Daten ausdrücklich mitteilen - zum
+Beispiel, weil Sie ein Profil bei „Mein ZDF“ anlegen möchten und uns Ihre
+E-Mail-Adresse angeben, damit wir mit Ihnen Kontakt aufnehmen können.  
+  
+Diese Daten speichern wir so lange, wie Sie den entsprechenden Service in
+Anspruch nehmen wollen, danach werden sie gelöscht. Wir behandeln Ihre
+persönlichen Daten selbstverständlich vertraulich und geben sie keinesfalls an
+Dritte weiter. Sie können jederzeit Auskunft über Ihre Daten verlangen (mehr
+dazu im Abschnitt „Auskunftsrecht“).
+
+  * ####  Protokolldaten
+
+Ihr Browser sendet beim Zugriff auf unsere Webseiten eine Reihe von
+technischen Daten, die protokolliert werden. Es werden Ihre IP-Adresse, Ihre
+Browserkennung und Domain, der Name der abgerufenen Datei, Datum und Uhrzeit
+des Abrufs, die übertragene Datenmenge sowie der erfolgreiche Abruf in einer
+Protokoll-Datei festgehalten.  
+  
+Alle Daten in den Protokoll-Dateien sind ohne direkten Bezug zu persönlichen
+Daten und werden keinesfalls mit anderen persönlichen Daten zusammengeführt.
+Wir registrieren Ihre Zugriffe aus Gründen der Datensicherheit, um die
+Stabilität und Betriebssicherheit unserer Systeme zu sichern und um unbefugte
+Angriffe abzuwehren. Die Protokolldaten dienen damit ausschließlich internen
+Zwecken und werden keinesfalls an Dritte weitergegeben.
+
+  * ####  Einsatz von Cookies und Local Storage
+
+Cookies sind kleine Textdateien, die von Ihrem Browser gesammelt und temporär
+auf Ihrem Rechner gespeichert werden. Sie verraten keinerlei persönliche Daten
+und können weder auf die Daten Ihrer Festplatte zugreifen noch dort Schaden
+anrichten.  
+  
+Die Online-Angebote des ZDF verwenden Cookies für statistischen Auswertungen
+der gesamten Nutzung, die weiter unten beschrieben werden (AT Internet, SZMng
+(INFOnline), Nielsen). Diese Auswertungen helfen uns dabei, die Online-
+Angebote für Sie zu verbessern. Die mit den Auswertungen beauftragten Firmen
+dürfen diese Daten nicht für andere Zwecke (z.B. Werbung, Marketing, Tracking)
+nutzen oder weitergeben.  
+  
+Die Online-Angebote des ZDF können auch ohne Cookies genutzt werden. Wie Sie
+Cookies verhindern oder löschen, erfahren Sie weiter unten.  
+  
+Damit Sie die ZDFmediathek Ihren persönlichen Bedürfnissen und Ihrer Nutzung
+anpassen können, verwenden wir neben Cookies auch die sogenannte Local Storage
+Technik (auch „Lokale Daten“ und „Lokaler Speicher“ genannt), eine Nachfolge-
+Technologie der Cookies. Dabei werden Daten lokal im Cache Ihres Browsers
+gespeichert, die auch nach dem Schließen des Browser-Fensters oder dem Beenden
+des Programms – soweit sie den Cache nicht löschen (s.u.) weiterhin bestehen
+und ausgelesen werden können.  
+  
+Local Storage ermöglicht es, dass Ihre Präferenzen bei der Nutzung der
+ZDFmediathek auf Ihrem Rechner gespeichert und von Ihnen genutzt werden
+können, ohne dass Sie sich persönlich anmelden müssen. Die Daten aus dem Local
+Storage werden z.B. verwendet, um Ihnen auf Basis Ihrer anonymen Nutzungen
+Empfehlungen geben zu können oder Ihnen eine Merk- und Abonnementliste zu
+ermöglichen. Dabei werden folgende Informationen von der ZDFmediathek als
+lokale Daten hinterlegt: die Adressen der von Ihnen aufgerufenen Seiten der
+ZDFmediathek, die Adressen der ZDFmediathek-Seiten, die Sie Ihrer Merkliste
+oder Ihren Abonnements hinzugefügt haben sowie Seiten, die Sie per Herz-Icon
+mit einem Like versehen haben und Einstellungen, die Sie unter „Mein ZDF –
+Einstellungen“ oder im Videoplayer vornehmen (z.B. ob und welche
+Benachrichtigungen Sie wünschen, Lautstärke, die bevorzugte Sprache,
+Funktionen zur Barrierefreiheit etc.).  
+  
+Auf die im Local Storage gespeicherten Daten können Dritte nicht
+zugreifen[PDF2] . Sie werden an Dritte nicht weitergegeben und auch nicht zu
+Werbezwecken verwendet. Wie Sie die Online-Angebote des ZDF auch ohne Local
+Storage nutzten können, erfahren Sie im nächsten Abschnitt.  
+  
+  
+Wenn Sie nicht wünschen, dass Online-Angebote Cookies- und Local-Storage-
+Funktionen einsetzen, dann können Sie das in den Einstellungen Ihres
+jeweiligen Browsers steuern. Sie erhalten dort auch einen Überblick über Ihre
+gespeicherten Cookies. Für detaillierte Informationen gibt es Browser-
+Erweiterungen (z.B. Firebug und Fire Storage Plus! für Firefox; Storage Area
+Explorer für Chrome).  
+  
+Sie können Cookies jederzeit löschen oder von vornherein blocken. Local-
+Storage-Inhalte verwalten Sie im Browser über die Einstellungen zur „Chronik“
+bzw. zu „Lokalen Daten“, je nachdem welchen Browser Sie verwenden.  
+  
+Weiterführende (externe) Links:  
+
+    * "Verbaucher sicher online" zu Cookies
+    * Firefox - Cookies verwalten und löschen
+    * Firefox - Cache leeren
+    * Chrome - Coookies verwalten und löschen
+    * Chrome - Browserdaten löschen
+    * Safari – Webeinstellungen
+    * Internet Explorer - Löschen und Verwalten von Cookies
+
+  * ####  Datenerhebung zu statistischen Zwecken
+
+Getrennt von persönlichen Daten und von den Protokolldaten erheben wir mit
+mehreren unterschiedlichen Verfahren statistische Daten, die die Nutzung der
+ZDF-Online-Angebote dokumentieren. Mit Hilfe dieser Verfahren ermitteln wir
+zum Beispiel, welche Teile unseres Angebots am häufigsten genutzt werden oder
+welche Videos an einem bestimmten Tag wie oft aufgerufen wurden.  
+  
+Wir führen dabei zu keiner Zeit eine konkrete Beobachtung unserer Nutzer als
+identifizierbare Personen durch. Wenn Sie unser Internetangebot besuchen,
+fließen Ihre Nutzungsdaten in die statistischen Erhebungen mit ein, ohne dass
+sich daraus Rückschlüsse über Sie als Person ziehen lassen.  
+  
+Das ZDF hat für die Erhebung der Daten Dienstleister beauftragt, die
+verpflichtet sind, bei ihrer Arbeit die Datenschutz-Vorgaben des ZDF
+einzuhalten und die dahingehend vom ZDF geprüft werden.  
+  
+Sie können den einzelnen Messverfahren widersprechen. Weitere Kontrolle und
+Schutz vor Tracking-Verfahren bieten Browser-Erweiterungen wie z.B.
+www.ghostery.com
+
+  * ####  Nielsen Messverfahren
+
+Mit dem Nielsen-Messverfahren wird gemessen, wie häufig und wie lange Videos
+genutzt werden.  
+  
+Nielsen, als vom ZDF beauftragtes Marktforschungsunternehmen, setzt zum Zweck
+der Webanalyse auf dieser Webseite Cookies ein. Die Webanalyse dient dazu,
+statistische Analysen über die Nutzung dieser Webseite und deren Angebot zu
+erstellen. Diese Informationen dienen dazu, die Webseite und die damit
+verbundenen Services im Hinblick auf Effektivität und Effizienz zu verstehen
+und zu verbessern. Im Rahmen der Webanalyse und dem damit verbundenen Cookie
+werden ausschließlich anonyme Nutzerinformationen erfasst.  
+  
+Sie können dem Setzen des Cookies durch Nielsen jederzeit widersprechen.
+Weitere Informationen zum Nielsen Webanalyse Service, dem Nielsen Cookie und
+wie Sie das Nielsen Cookie abstellen (Opt-out) finden Sie in den Nielsen
+Datenschutzgrundsätzen.  
+  
+Bei Fragen bezüglich des Nielsen Webanalyse Auftrages, wenden Sie sich bitte
+per E-Mail an info.deutschland@nielsen.com.
+
+  * ####  INFOnline-Verfahren (SZM)
+
+Das ZDF nutzt das Messverfahren ("SZMnG") der INFOnline GmbH
+(https://www.infonline.de) zur Ermittlung statistischer Kennwerte über die
+Nutzung unserer Angebote. Ziel der Reichweitenmessung ist es, die
+Nutzungsintensität, die Anzahl der Nutzer einer Webseite und das Surfverhalten
+statistisch - auf Basis eines einheitlichen Standardverfahrens - zu bestimmen
+und somit marktweit vergleichbare Werte zu erhalten.  
+  
+Die INFOnline GmbH erhebt und verarbeitet Daten nach deutschem
+Datenschutzrecht. Durch technische und organisatorische Maßnahmen wird
+sichergestellt, dass einzelne Nutzer zu keinem Zeitpunkt identifiziert werden
+können. Daten, die möglicherweise einen Bezug zu einer bestimmten,
+identifizierbaren Person haben, werden frühestmöglich anonymisiert.  
+  
+Wenn Sie an der Messung nicht teilnehmen möchten, können Sie unter folgendem
+Link widersprechen: http://optout.ioam.de  
+  
+Weitere Informationen zum Datenschutz im Messverfahren finden Sie auf der
+Webseite der INFOnline GmbH, die das Messverfahren betreibt, der
+Datenschutzwebseite der AGOF und der Datenschutzwebseite der IVW.
+
+  * ####  Nutzungsmessung mit AT Internet
+
+Um Ihnen mit unseren Angeboten einen noch besseren Service bieten zu können,
+sammeln wir Daten mit dem Verfahren von „AT Internet“ zur Anzahl der
+Seitenaufrufe und Visits, zum Navigationsverhalten und zur Verweildauer des
+Nutzers auf einer Website, einer Seite usw. Auch diese Erhebungen erfolgen
+anonymisiert und es werden keinerlei primäre persönliche Daten erfasst.  
+  
+Für weitere Informationen lesen Sie bitte die Datenschutzbestimmungen des
+Dienstleisters AT Internet: Datenschutz bei AT Internet.  
+  
+Sollten Sie dem Tracking Ihres Besuch nicht zustimmen und die Erhebung von
+Visit-Daten durch AT Internet unterbinden wollen, können Sie diese
+Nutzungsmessung mit dem Opt-out Verfahren ausschalten: AT Internet Opt-out.
+
+  * ####  Persönliche Empfehlungen
+
+Auf Basis Ihrer Nutzung der ZDFmediathek (s.o.) erhalten Sie oben auf „Mein
+ZDF“ und auch unten auf der Startseite der ZDFmediathek persönliche
+Empfehlungen mit Links auf Seiten, die Sie interessieren könnten.  
+  
+Die Empfehlungen werden erstellt auf der Basis der Nutzungen aller User der
+ZDF-Mediathek, die wir anonymisiert durch Zuweisung einer anonymen User-ID
+erfassen, soweit Sie dem nicht widersprechen. Aus der Summe dieser so gewonnen
+Daten werden Empfehlungen berechnet. Dies geschieht ohne die Verwendung
+jeglicher personenbezogener Daten von Ihnen. Aktivitäten außerhalb unseres
+Angebots werden als Basis für unsere Empfehlungen nicht herangezogen. Die auf
+diesem Wege generierten Daten werden nicht an Dritte weitergegeben.  
+  
+Sie können das Erstellen eines anonymen Nutzungsprofils blockieren, wenn Sie
+unter „Mein ZDF – Einstellungen“ die Option „Personalisierte Empfehlungen
+deaktivieren“ auswählen.
+
+  * ####  Registrierung/Anmeldung bei „Mein ZDF“
+
+Sie können alle Inhalte der ZDFmediathek ohne Registrierung oder Anmeldung
+nutzen. Diese ist erforderlich, wenn Sie wünschen, dass Ihre persönlichen
+Empfehlungen, die Merkliste und Abonnements auf unterschiedlichen Geräten wie
+PC, Smartphone, Smart-TV zur Verfügung stehen sollen. Außerdem können Sie als
+registrierter und angemeldeter Nutzer die auf einigen ZDF-Seiten angebotene
+Kommentar-Funktion verwenden.  
+  
+Bei einer Registrierung unter „Mein ZDF“ speichern wir von Ihnen folgende
+Registrierungsdaten: Ihre E-Mail-Adresse, einen frei wählbaren Nutzernamen
+(der bei Kommentaren angezeigt wird) sowie ein von Ihnen bestimmtes Passwort.  
+  
+Wenn Sie sich nach Registrierung sodann unter „Mein ZDF“ anmelden, werden die
+durch Ihre Aktivitäten in unserem Angebot erzeugten Nutzungsdaten mit Ihrem
+Ihrem Nutzerprofil zusammengeführt.  
+  
+Ihre persönlichen Daten, die im Zusammenhang mit der Registrierung erhoben und
+gespeichert werden, werden nicht an Dritte weitergegeben. Sie können das
+Profil unter „Mein ZDF – Einstellungen“ jederzeit löschen.
+
+  * ####  Nutzung von Social Logins 
+
+Wie in vielen anderen Online-Angeboten, können Sie auch für die
+Registrierung/Anmeldung in „Mein ZDF“ Ihr so genanntes „Social Login“, d.h.
+Ihr Nutzerprofil von facebook oder Google verwenden. In diesem Fall werden -
+nach ausdrücklicher Bestätigung durch Sie - Ihre dort hinterlegte E-Mail-
+Adresse und Ihr Benutzername für das „Mein ZDF“-Nutzerprofil übermittelt und
+in unserer Datenbank als Basis Ihres Nutzerprofils gespeichert.  
+  
+Hinweis: Vom ZDF aus werden im Zuge des Social Logins keine Daten an die
+Betreiber der Sozialen Netzwerke gesendet. Da Sie für das Social Login das
+Angebot des Sozialen Netzwerks aufrufen und sich dort anmelden, erhält das
+jeweilige Netzwerk von Ihrem Browser Informationen darüber, dass Sie von
+Seiten des ZDF dorthin gelangt sind. Welche Daten dabei erhoben und
+verarbeitet werden, ergibt sich aus den Nutzungsbedingungen des jeweiligen
+Anbieters.  
+  
+(Externe) Links zu den Nutzungsbedingungen der Plattformanbieter:  
+
+    * Facebook
+    * Google
+
+  * ####  Social Plugins auf ZDF-Seiten
+
+Das ZDF ist mit ausgewählten Internet-Angeboten auf verschiedenen Social Media
+Plattformen (z.B. facebook, Twitter, Instagram, Youtube) vertreten. Bei der
+Integration dieser Angebote in unsere Internetseiten verwenden wir zum Teil
+sogenannte Social Plugins. Diese bauen über Ihren Browser eine direkte
+Verbindung zu den Servern der Sozialen Netzwerke auf und übermitteln schon
+beim Laden und Anzeigen der Inhalte Daten an die Betreiber.  
+  
+Um die Anbindung der externen Angebote ebenso komfortabel wie sicher zu
+gestalten, haben wir diese Funktion der Social Plugins auf ZDF-Seiten
+standardmäßig ausgeschaltet. Erst wenn Sie die Anzeige von Social-Media-
+Inhalten aktivieren, wird eine Verbindung zu den Servern der jeweiligen
+Social-Media-Plattform hergestellt. Sie können diese Zustimmung jeweils
+einzeln erteilen oder Ihre generelle Zustimmung unter „Mein ZDF –
+Einstellungen“ erteilen (und natürlich auch diese widerrufen).  
+  
+(Externe) Links zu den Nutzungsbedingungen der Plattformanbieter:  
+
+    * Facebook
+    * Twitter
+    * Youtube
+    * Instagram
+
+  * ####  Datenverarbeitung bei Kontaktaufnahme
+
+Wenn Sie Informationsmaterial, Newsletter, Autogrammkarten oder Broschüren
+bestellen oder sich an unseren Gewinnspielen beteiligen, fragen wir Sie nach
+Ihrem Namen und nach anderen persönlichen Informationen. Es unterliegt Ihrer
+freien Entscheidung, ob Sie diese Daten eingeben. Ihre Angaben speichern wir
+auf besonders geschützten Servern. Der Zugriff darauf ist nur besonders
+befugten Personen möglich, die mit der technischen oder redaktionellen
+Betreuung der Server befasst sind.  
+  
+Das ZDF verwendet Ihre personenbezogenen Daten ausschließlich zur Bearbeitung
+Ihrer konkreten Anfrage, Bestellung oder Gewinnspielteilnahme. Eine
+Verarbeitung zu anderen Zwecken erfolgt nicht. Insbesondere werden Ihre
+personenbezogenen Daten nicht an Dritte weitergegeben.  
+  
+Bitte beachten Sie, dass bei der Kommunikation mittels E-Mail die
+Datensicherheit im Internet nicht gewährleistet werden kann und wir bei
+vertraulichen Informationen den Postweg empfehlen.
+
+  * ####  Auskunftsrecht
+
+Sie haben das Recht, über die beim ZDF über Sie gespeicherten Daten Auskunft
+zu verlangen. Bitte wenden Sie sich dafür schriftlich an die ZDF-
+Datenschutzbeauftragte (E-Mail: datenschutz@zdf.de; Post: ZDF-Str. 1, 55127
+Mainz). Weitere Informationen erhalten Sie auf den Unternehmensseiten des ZDF.
+
+Datum:
+
+    28.10.2016
+
+## Footer mit Inhaltsangabe
+
+nach oben
+
+  *   *   *   *   * 
+
+### Mehr ZDF
+
+  * ZDFapps 
+  * Smart TV 
+  * ZDFtext 
+  * Livestreams 
+  * Sendungen A-Z 
+  * TV-Programm 
+
+### ZDF woanders
+
+  * ZDF YouTube 
+  * ZDF Facebook 
+  * ZDF Twitter 
+
+### Service
+
+  * Tickets 
+  * Newsletter 
+  * Zuschauerservice 
+  * Mein ZDF 
+  * Kontakt zum ZDF 
+  * Sitemap 
+
+### Das ZDF
+
+  * ZDF Unternehmen 
+  * Karriere 
+  * Presseportal 
+  * ZDF Shop 
+  * Werbefernsehen 
+  * Mainzelmännchen 
+
+Partner
+
+    
+    
+    
+    
+    
+    
+
+  * Nutzungsbedingungen 
+  * Datenschutzerklärung 
+  * Impressum 
+
+Um unser Web-Angebot optimal zu präsentieren und zu verbessern, verwendet das
+ZDF Cookies. Durch die weitere Nutzung des Web-Angebots stimmen Sie der
+Verwendung von Cookies zu. Näheres dazu erfahren Sie in unserer
+Datenschutzerklärung.
+
+Okay
+
+## ZDF-Benutzerkonto Anmeldung
+
+Bitte füllen Sie alle Pflichtfelder aus.
+
+Diese E-Mail hat ein invalides Format.
+
+Sie haben nicht das richtige Passwort für dieses Benutzerkonto eingegeben.
+
+E-Mail Passwort Anmelden
+
+Passwort vergessen?
+
+Mit Facebook anmelden  Mit Google anmelden  Jetzt registrieren
+
+## ZDF-Benutzerkonto Registrierung
+
+Bitte füllen Sie alle Pflichtfelder aus.
+
+Bitte akzeptieren Sie die Nutzungsbedingungen.
+
+Bitte akzeptieren Sie die Datenschutzerklärung.
+
+Bitte wählen Sie einen Benutzernamen.
+
+Bitte geben Sie eine E-Mail-Adresse an.
+
+Diese Email-Adresse wird bereits genutzt.
+
+Diese E-Mail hat ein invalides Format.
+
+Die eingegebenen Passwörter stimmen nicht überein.
+
+Das Passwort muss mindestens 8 Zeichen lang sein.
+
+Das Passwort muss mindestens einen Großbuchstaben enthalten.
+
+Das Passwort muss mindestens einen Kleinbuchstaben enthalten.
+
+Das Passwort muss mindestens ein Sonderzeichen enthalten.
+
+Das Passwort muss mindestens 8 Zeichen lang sein und mindestens eine Zahl
+enthalten.
+
+Bei der Registrierung ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre
+Eingaben.
+
+Benutzername E-Mail Passwort Passwort wiederholen
+
+Das Paswort muss mindestens 8 Zeichen lang sein, einen Großbuchstaben, eine
+Ziffer und ein Sonderzeichen enhtalten.
+
+Ich akzeptiere die Nutzungsbedingungen des ZDF * Ich akzeptiere die
+Datenschutzerklärung des ZDF *
+
+Pflichtfelder *
+
+Registrieren
+
+## Mit Facebook registrieren
+
+Melden Sie sich alternativ einfach mit Ihrem Facebook-Account an.
+
+Bitte akzeptieren Sie die Nutzungsbedingungen.
+
+Bitte akzeptieren Sie die Datenschutzerklärung.
+
+Ich akzeptiere die Nutzungsbedingungen des ZDF * Ich akzeptiere die
+Datenschutzerklärung des ZDF *
+
+Pflichtfelder *
+
+Weiter mit Facebook
+
+## Mit Google registrieren
+
+Melden Sie sich alternativ einfach mit Ihrem Google-Account an.
+
+Bitte akzeptieren Sie die Nutzungsbedingungen.
+
+Bitte akzeptieren Sie die Datenschutzerklärung.
+
+Ich akzeptiere die Nutzungsbedingungen des ZDF * Ich akzeptiere die
+Datenschutzerklärung des ZDF *
+
+Pflichtfelder *
+
+Weiter mit Google
+
+## Passwort vergessen?
+
+Bitte tragen Sie die E-Mail-Adresse ein, mit der Sie sich bei uns registriert
+haben!
+
+Bitte geben Sie eine E-Mail-Adresse an.
+
+Bitte geben Sie eine valide E-Mail-Adresse an.
+
+Diese E-Mail-Adresse ist uns leider nicht bekannt. Bitte tragen Sie die
+E-Mail-Adresse ein, mit der Sie sich bei uns registriert haben.
+
+Bei der Passwort-Anfrage ist ein Fehler aufgetreten.
+
+E-Mail Abschicken
+
+Mit Facebook anmelden  Mit Google anmelden  Jetzt registrieren
+
+## Passwort vergessen?
+
+Sie erhalten von uns in Kürze eine E-Mail mit Infos, wie Sie Ihr Passwort
+zurücksetzen können.
+
+## Neues Passwort vergeben
+
+Sie können nun Ihr neues Passwort festlegen:
+
+Die eingegebenen Passwörter stimmen nicht überein.
+
+Das Passwort muss mindestens 8 Zeichen lang sein.
+
+Das Passwort muss mindestens einen Großbuchstaben enthalten.
+
+Das Passwort muss mindestens einen Kleinbuchstaben enthalten.
+
+Das Passwort muss mindestens ein Sonderzeichen enthalten.
+
+Das Passwort muss mindestens 8 Zeichen lang sein und mindestens eine Zahl
+enthalten.
+
+Beim Zurücksetzen des Passwortes ist ein Fehler aufgetreten.
+
+Passwort Passwort wiederholen
+
+Das Paswort muss mindestens 8 Zeichen lang sein, einen Großbuchstaben, eine
+Ziffer und ein Sonderzeichen enhtalten.
+
+Abschicken
+
+## Passwort geändert!
+
+Sie haben Ihr Passwort erfolgreich geändert und können sich jetzt mit Ihrem
+neuen Passwort einloggen.
+
+Anmelden
+
+## Registrierung erfolgreich!
+
+Sie erhalten von uns in Kürze eine Bestätigungs-Mail. Bitte bestätigen Sie
+Ihre Registrierung durch Klick/Tap auf den dort enthaltenen Link.
+
+## Registrierung wird geprüft!
+
+Bitte geben Sie uns einen Augenblick, um die Aktivierung durchzuführen…
+
+## Registrierung erfolgreich!
+
+Sie haben sich erfolgreich registriert.
+
+Anmelden
+
+## Registrierung fehlgeschlagen!
+
+Bitte versuchen Sie es erneut.
+
+Registrieren
+
+Gemerkt auf Mein ZDF!  Merken beendet  Bewertet!  Bewertung entfernt
+Abonniert auf Mein ZDF!  Abo beendet  Abo beendet
+
+  *[UT]: Untertitel
+  *[AD]: Audiodeskription
+

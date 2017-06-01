@@ -1,0 +1,183 @@
+Benutzerspezifische Werkzeuge
+
+Information zum Seitenaufbau und Sprungmarken fuer Screenreader-Benutzer: Ganz
+oben links auf jeder Seite befindet sich das Logo der JLU, verlinkt mit der
+Startseite. Neben dem Logo kann sich rechts daneben das Bannerbild
+anschließen. Rechts daneben kann sich ein weiteres Bild/Schriftzug befinden.
+Es folgt die Suche. Unterhalb dieser oberen Leiste schliesst sich die
+Hauptnavigation an. Unterhalb der Hauptnavigation befindet sich der
+Inhaltsbereich. Die Feinnavigation findet sich - sofern vorhanden - in der
+linken Spalte. In der rechten Spalte finden Sie ueblicherweise Kontaktdaten.
+Als Abschluss der Seite findet sich die Brotkrumennavigation und im
+Fussbereich Links zu Barrierefreiheit, Impressum, Hilfe und das Login fuer
+Redakteure. Barrierefreiheit JLU - Logo, Link zur Startseite der JLU-Gießen
+Direkt zur Navigation vertikale linke Navigationsleiste vor Sie sind hier
+Direkt zum Inhalt vor rechter Kolumne mit zusaetzlichen Informationen vor
+Suche vor Fußbereich mit Impressum
+
+  *   *   *   * 
+
+Navigation
+
+    
+
+  * Studium
+  * Forschung
+  * Fachbereiche
+  * Organisation
+  * Internationales
+  * Über uns
+    * Universität im Überblick
+    * Profil
+    * Presse- und Öffentlichkeitsarbeit
+    * Veranstaltungskalender
+    * Veranstaltungen des Präsidenten
+    * Uni-Shop
+    * Campusbereiche und Einrichtungen 
+    * Botanischer Garten
+    * Universitätsorchester
+    * Gästehäuser
+    * Die Universität in der Region
+    * Tagungsstätte Schloss Rauischholzhausen
+    * Stellenmarkt der JLU
+    * Datenschutzerklärung
+
+Über die JLU
+
+Website durchsuchen
+
+nur im aktuellen Bereich
+
+Erweiterte Suche…
+
+Direkte Links/Quick Links
+
+  * Studium
+  * Forschung
+  * Fachbereiche
+  * Organisation
+  * Internationales
+
+Info
+
+    
+
+Artikelaktionen
+
+  *   *   * Deutsch
+  * English
+
+#  Datenschutzerklärung
+
+Datenschutzerklärung
+
+    
+
+### Protokollierung:
+
+Bei jedem Zugriff auf den Web-Server der JLU Gießen werden wesentliche
+Zugriffsdaten gespeichert. Je nach verwendetem Zugriffsprotokoll beinhaltet
+der Protokolldatensatz Angaben mit folgenden Inhalten:
+
+  * IP-Adresse des anfordernden Rechners
+  * Datum und Uhrzeit der Anforderung
+  * vom anfordernden Rechner gewünschte Zugriffsmethode/Funktion
+  * vom anfordernden Rechner übermittelte Daten
+  * Zugriffsstatus des Web-Servers (Datei übertragen, Datei nicht gefunden, Kommando nicht ausgeführt, etc.)
+  * Name der angeforderten Datei
+
+Nicht-anonymisierte Daten werden ausschließlich zu Zwecken der Identifikation
+und Nachverfolgung unzulässiger Zugriffsversuche und Zugriffe auf den Web-
+Server verwendet. Diese Daten werden für keine anderen Zwecke als für die
+Datensicherheit verwendet. Es erfolgt keine nutzerbezogene statistische
+Auswertung. Die protokollierten Daten werden für die Dauer von zwei Monaten
+gespeichert und dann gelöscht.
+
+Es werden Zugriffsdaten in anonymisierter Form zu statistischen Zwecken
+ausgewertet. Hierbei wird die IP-Adresse des anfragenden Rechners unkenntlich
+gemacht, sodass eine Identifizierung der Nutzer für statistische Zwecke nicht
+möglich ist.
+
+### Aktive Komponenten:
+
+Im Informationsangebot der Justus-Liebig-Universität Gießen werden Cookies und
+Javascript verwendet.
+
+### Webstatistiken über Piwik:
+
+    
+
+Navigation
+
+    
+
+  * Universität im Überblick
+  * Profil
+  * Presse- und Öffentlichkeitsarbeit
+  * Veranstaltungskalender
+  * Veranstaltungen des Präsidenten
+  * Uni-Shop
+  * Campusbereiche und Einrichtungen 
+  * Botanischer Garten
+  * Universitätsorchester
+  * Gästehäuser
+  * Die Universität in der Region
+  * Tagungsstätte Schloss Rauischholzhausen
+  * Stellenmarkt der JLU
+  * Datenschutzerklärung
+
+Kontakt
+
+    
+
+E-Mail-Kontakt
+
+    
+
+Wegbeschreibung
+
+Mehr ...
+
+     Absolvent der JLU? Hier geht es zum Absolventenportal!   
+  
+Benutzername  
+Passwort  
+  
+  
+Sie haben noch keine Zugangsdaten? Hier können Sie ein Konto erstellen. Login
+oder Passwort vergessen?  
+  
+
+Uni-Shop
+
+    
+     Mehr...
+
+Universitätsarchiv
+
+    
+     Mehr...
+
+Rückblicke
+
+    
+     Mehr ...
+
+Publikationen
+
+    
+
+  * uniforum \- die Universitätszeitung der JLU
+  * forum forschung \- das kompakte Wissenschaftsmagazin der JLU
+  * Spiegel der Forschung \- letztmalig 2013 erschienen
+  * Imagebroschüre
+  * Booklet  
+
+  * campus spezial - uniforum extra
+  * Gießener Universitätsblätter der Gießener Hochschulgesellschaft e.V.
+
+Sie sind hier: Startseite /  Über uns /  Datenschutzerklärung
+
+Barrierefreiheit | Impressum | Datenschutzerklärung | Login für Redakteure |
+Hilfe | Kurse |  |  |
+

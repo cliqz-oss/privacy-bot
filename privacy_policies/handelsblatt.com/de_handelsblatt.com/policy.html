@@ -1,0 +1,764 @@
+<!DOCTYPE html><html itemscope="itemscope" itemtype="http://schema.org/WebPage" class="no-js"><head><script type="text/javascript">var mobileSwitchHandler = {
+  url: null,
+  ready: false,
+  init: function (a) {
+    'use strict';
+    var qs;
+    if((qs = document.querySelector('link[media="mobile"][rel="alternate"][href]')) !== null) {
+      this.url = qs.getAttribute('href');
+    }
+
+    if(this.url === null) {
+      return false;
+    }
+
+    var getQueryParameter = function (name) {
+      name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+      var regex = new RegExp('[\\?&]' + name + '=([^&#]*)'),
+        results = regex.exec(location.search);
+      return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
+
+    if (getQueryParameter('home_teaser') !== '') {
+      return false;
+    }
+
+    if (getQueryParameter('mobile') === 'false') {
+      this.setMobileCookie(false);
+      return false;
+    }
+
+    try {
+      if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)) {
+        if (this.url !== null) {
+          if (document.cookie.indexOf('show_mobile=true') === -1 && document.cookie.indexOf('show_desktop=true') === -1) {
+            this.goMobile();
+          } else {
+            if (document.cookie.indexOf('show_desktop=true') === -1) {
+              this.goMobile();
+            } else {
+              this.showBackToMobileLayer();
+            }
+          }
+        }
+      }
+    } catch (e) {
+      console.log('error: ' + e);
+    }
+  },
+  goMobile: function () {
+    'use strict';
+    this.setMobileCookie(true);
+   // HBO-1037 If search query available from Google and mobileswitch, do not forget to take over search param
+   // Example: http://www.handelsblatt.com/suche/?sw=test --> http://app.handelsblatt.com/suche/?sw=test&mwl=ok
+   //
+   // if (location.search.indexOf('?sw=') > -1){
+   //    window.location.replace(this.url + location.search + '&mwl=ok');
+   //  } else {
+   //    window.location.replace(this.url + ((this.url.indexOf('?') === -1) ? '?' : '&') + 'mwl=ok' + ((location.search !== '') ? '_' + encodeURIComponent(location.search.substr(1)) : ''));
+   //  }
+    window.location.replace(this.url + location.search);
+  },
+  setMobileCookie: function (e) {
+    var setCookieName = (e) ? 'show_mobile' : 'show_desktop';
+    var removeCookieName = (e) ? 'show_desktop' : 'show_mobile';
+
+    // Return if no cookie not changed
+    if (document.cookie.indexOf(setCookieName + '=true') !== -1) {
+      return;
+    }
+
+    // Cookie Domain
+    var _c_domain = window.location.host.split('.');
+    if (_c_domain.length !== 1) {
+      _c_domain.shift();
+      _c_domain = '.' + _c_domain.join('.');
+    } else {
+      _c_domain = false;
+    }
+
+    // Remove old Cookie
+    document.cookie = removeCookieName + "=;expires=" + new Date('1970/01/01').toString() + ";" + ((_c_domain) ? "domain=" + _c_domain + ';' : '') + "path=/;";
+
+    // Cookie Time
+    var _c_date = new Date();
+    _c_date.setMonth(_c_date.getMonth() + 1);
+
+    // Set Cookie
+    document.cookie = setCookieName + "=true" + ";expires=" + _c_date + ";" + ((_c_domain) ? "domain=" + _c_domain + ';' : '') + "path=/;";
+  },
+  showBackToMobileLayer: function () {
+    var d = document.createElement('div');
+    d.className = 'vhb-back-to-mobile';
+    d.innerHTML = '<div class="vhb-stage"><div>Zur mobilen Ansicht wechseln</div></div>';
+    d.onclick = function () {
+      //COR-264 changed this -> mobileSwitchHandler && r .> mobileSwitchHandler.url
+      mobileSwitchHandler.setMobileCookie(true);
+      window.location.replace(mobileSwitchHandler.url + ((mobileSwitchHandler.url.indexOf('?') === -1) ? '?' : '&') + 'mwl=button-rueckverlinkung');
+    };
+    var insertIv = window.setInterval(function () {
+      if(document.body !== null) {
+        clearInterval(insertIv);
+        document.body.insertBefore(d, document.body.firstChild);
+      }
+    }, 500);
+
+  },
+};
+
+mobileSwitchHandler.init(navigator.userAgent || navigator.vendor || window.opera);
+</script><link href="/css/11357910/9/vendor.css" rel="stylesheet" type="text/css"/><link href="/css/11058124/347/styles.css" id="maincss" rel="stylesheet" type="text/css"/><link href="/css/11090282/58/vwd.css" media="all" rel="stylesheet" type="text/css"/><link href="/css/12535722/31/experiments.css" rel="stylesheet" type="text/css"/>
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+<!--[if lte IE 8]>
+<link href="/css/11091050/8/ie-8.css" id="ie8css" rel="stylesheet" type="text/css" />
+<!--<![endif]-->
+<!--[if lte IE 9]>
+<link href="/css/11104692/6/ie-9.css" id="ie9css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/js/11104704/1/ue.js"></script>
+<!--<![endif]--><script type="text/javascript" src="/preparesite/empty.js?elementId=1981248&#38;rand=380&#38;uri=%2Fhcf-webapp%2Fservlet%2Fimpressum%2Fdatenschutzerklaerung%2F"></script><script>var taboola = {category: 'auto'};</script><title>Datenschutzerklärung - Impressum - Handelsblatt Online</title><meta content="Handelsblatt Online ist ein Angebot der Handelsblatt GmbH mit Sitz in Düsseldorf. Verantwortlich im Sinne des Presserechts sind die jeweiligen Leiter für ihren Bereich. Im Übrigen der Chefredakteur." name="description"/><meta content="Aktuelle Nachrichten aus Wirtschaft, Politik, Unternehmen und Märkten, Handelsblatt, Boerse, Aktien, Kurse, Indizes, Depot, Devisen, Nachrichten, Schlagzeilen, Aktuell, Politik, Wirtschaft, Sport, Unternehmen, WAP" name="keywords"/><meta name="robots" content="index,follow,noarchive"><link href="http://www.handelsblatt.com/impressum/datenschutzerklaerung/" rel="canonical"/><meta content="website" property="og:type"/><meta content="http://www.handelsblatt.com/images/opengraph_default_logo/8744082/2-formatOriginal.png" property="og:image"/><meta content="http://www.handelsblatt.com/impressum/datenschutzerklaerung/" property="og:url"/><meta content="index" name="vr:type"/><meta content="Datenschutzerklärung" name="vr:category"/><meta content="de-DE" http-equiv="Content-Language"/><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><meta content="text/css" http-equiv="Content-Style-Type"/><meta content="text/javascript" http-equiv="Content-Script-Type"/><meta content="104709558232" property="fb:page_id"/><meta content="{&quot;webtrekk&quot;:{&quot;contentId&quot;:&quot;sonstiges.impressum.1981248.Rubrikenseite&quot;,&quot;contentGroup&quot;:{&quot;1&quot;:&quot;sonstiges&quot;,&quot;2&quot;:&quot;impressum&quot;,&quot;3&quot;:&quot;&quot;,&quot;4&quot;:&quot;&quot;,&quot;5&quot;:&quot;1981248.datenschutzerklaerung&quot;,&quot;6&quot;:&quot;1981248&quot;},&quot;customParameter&quot;:{&quot;1&quot;:&quot;Rubrikenseite&quot;,&quot;2&quot;:&quot;&quot;,&quot;3&quot;:&quot;&quot;,&quot;4&quot;:&quot;&quot;,&quot;6&quot;:&quot;&quot;},&quot;media&quot;:{&quot;1&quot;:&quot;&quot;,&quot;2&quot;:&quot;&quot;},&quot;customClickParameter&quot;:{&quot;2&quot;:&quot;&quot;},&quot;heatmap&quot;:0,&quot;trackId&quot;:&quot;357500119523122&quot;,&quot;trackDomain&quot;:&quot;handelsblatt01.webtrekk.net&quot;,&quot;domain&quot;:&quot;REGEXP:^([a-zA-Z0-9\\-\\.])*?handelsblatt([a-zA-Z0-9\\-])*?\\.(com|de|net|org|biz)$&quot;,&quot;active&quot;:true},&quot;audioPlayer&quot;:{&quot;player&quot;:&quot;/downloads/1981510/2/audioplayer.swf&quot;},&quot;flowplayer&quot;:{&quot;player&quot;:&quot;/downloads/1981418/2/flowplayer-3-2-5.swf&quot;},&quot;swfobj&quot;:{&quot;install&quot;:&quot;/downloads/1981480/2/expressinstall.swf&quot;}}" http-equiv="Config"/><link href="/images/apple-touch-icon/3896854/2-formatOriginal.png" rel="apple-touch-icon-precomposed"/><link href="/images/favicon-ico/1981436/2-formatOriginal.ico" rel="SHORTCUT ICON"/><link rel="alternate" type="application/rss+xml" title="Handelsblatt Online - RSS-Feed: Top-Themen" href="/contentexport/feed/top-themen/"/><script type="text/javascript">var GLOBAL = {
+  ABWT: false,
+  WTTD: 'wtk.service.vhb.de',
+  NOIVW: ['footerhp=scroll'],
+  PSD: 'push.service.vhb.de',
+  JOB: 'http://www.vhb.de/karriereportal?yid=435',
+  JSL: {
+    TBL: 'http://www.handelsblatt.com/js/13587814/1/vhb.datatables.js'
+  },
+  CSSL: {
+    TBL: 'http://www.handelsblatt.com/css/13587868/3/vhb.datatables.bs.css'
+  }, 
+  CS: {
+    URI: 'http://dienste.vhb.de/collector/collector.php',
+    LV: false,
+    ERR: false
+  },
+  GEWINN: false
+};
+
+var EXPERIMENTS = [
+  false, //Paywall Layer
+  true, //Eigenwerbung 
+  false, //PushService
+  false, //Sticky Header Sparten
+  false, //TEMP Header Banner
+  false,
+  false
+];</script><script src="/js/13876838/2/webtrekk_optimizely.min.js" type="text/javascript"></script><script src="/js/11002856/14/header.js" type="text/javascript"></script><script src="//cdn.optimizely.com/js/571703138.js" type="text/javascript"></script><script src="//script.ioam.de/iam.js" type="text/javascript"></script><script type="text/javascript">//<!-- Visual Revenue Reader Response Tracking Script (v6) -->
+	var _vrq = _vrq || [];
+	_vrq.push(['id', 574]);
+	_vrq.push(['automate', true]);
+	_vrq.push(['track', function(){}]);
+(function(d, a){
+	var s = d.createElement(a),
+	x = d.getElementsByTagName(a)[0];
+	s.async = true;
+	s.src = 'http://a.visualrevenue.com/vrs.js';
+	x.parentNode.insertBefore(s, x);
+})(document, 'script');
+//<!-- End of VR RR Tracking Script - All rights reserved --></script><script src="/js/11462454/1/jquery.cycle.all.js" type="text/javascript"></script><script type="text/javascript">// START - Taboola Header: Loader
+  window._taboola = window._taboola || [];
+  _taboola.push(taboola);
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/vhb-handelsblatt/loader.js',
+  'tb_loader_script');
+// END - Taboola Header: Loader</script><script src="/js/19617146/2/abtest20.js" type="text/javascript"></script><script src="/js/19760432/4/abtest21.js" type="text/javascript"></script><script type="text/javascript">//<!-- Visual Revenue Reader Response Tracking Script (v6) -->
+	var _vrq = _vrq || [];
+	_vrq.push(['id', 574]);
+	_vrq.push(['automate', false]);
+	_vrq.push(['track', function(){}]);
+(function(d, a){
+	var s = d.createElement(a),
+	x = d.getElementsByTagName(a)[0];
+	s.async = true;
+	s.src = '//a.visualrevenue.com/vrs.js';
+	x.parentNode.insertBefore(s, x);
+})(document, 'script');
+//<!-- End of VR RR Tracking Script - All rights reserved --></script><script src="/js/12928036/119/iqadcontroller.js" type="text/javascript"></script>
+				
+
+<script type="text/javascript"> 
+	if (typeof AdController !== 'undefined') {
+		var pubCmsObject = {
+			$handle : "center",
+			$autoSizeFrames: true,
+			level2: "impressum",
+			level3: "datenschutzerklaerung",
+			level4: "",
+			keywords :"hcfhb,newdesign,impressum,datenschutzerklaerung",
+			tma:"default"
+		};
+		
+		AdController.setPageInfo(pubCmsObject);
+  	      try{
+  	         AdController.stage();
+  	      } catch (e){}
+	}
+</script>
+
+<script type="text/javascript">
+	if (typeof AdController !== 'undefined') { 
+	        AdController.initialize();
+	}
+</script>
+
+    <script type="text/javascript">
+	if(typeof iqd_mode === 'undefined')  {
+	eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('0(2.8&&3 2.9===\'4\'){7 1(){0(3 c===\'4\'){5.b=a(2.8)+\'?i=\'+h(5.d)}}0(3 6!==\'4\'){6.g(7(){1()}).f()}e{1()}}',19,19,'if|bye|hcf_userconfig|typeof|undefined|location|blockAdBlock|function|cgi_adb_redirect_url|cgi_adb_granting_product|decodeURIComponent|href|IQD|pathname|else|check|onDetected|encodeURIComponent|callback'.split('|'),0,{}))
+}
+
+    </script>
+<!-- fallback --></head><body id="hbo"><div id="ivw"><!-- SZM VERSION="2.0" -->
+<script type="text/javascript">
+var iam_data = { "st":"handbl", "cp":"son_dat_218", "oc":"son_dat_218", "mg":"yes", "sv":"in" };
+(function(){
+  var enableIVW = true;
+  if (typeof GLOBAL === 'object'){
+    if (GLOBAL.NOIVW){
+      if (GLOBAL.NOIVW.length){
+        for (var i = 0; i < GLOBAL.NOIVW.length; i += 1){
+          if (enableIVW && window.location.href.indexOf(GLOBAL.NOIVW[i]) > -1){
+            enableIVW = false;
+          }
+        }
+      }
+    }
+  }
+
+  if (typeof iom !== 'undefined' && enableIVW){
+    iom.c(iam_data);
+  }
+})();
+</script>
+<!--/SZM --></div><script type="text/javascript">if(typeof mobileSwitch === 'function') {
+  mobileSwitch(navigator.userAgent || navigator.vendor || window.opera);
+}</script><div data-nocache="/ajaxentry/nocache/teasabledata" data-cache="/ajaxentry/cache/cacheableteasabledata" data-param="/ajaxentry/nocache/teasabledata" data-command="getComments" id="hcf-wrapper" class="vhb-stage ajaxify"><div id="hcf-ad-wrapper"><div id="iqadtileOOP" > 
+	<script type="text/javascript"> 
+		if(typeof AdController !== "undefined" && typeof AdController._siteConfig !== "undefined" && AdController._siteConfig._adapterName !== "dfp5" ){ 
+			AdController.render("iqadtileOOP"); 
+		} 
+	</script> 
+</div><div class="hcf-ad-superbanner-print ajaxify" data:command="checkAds" data:param="" ><!--size = "728x90")-->
+<div id="iqadtile16">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile16", "iqadtile16");
+		}
+	</script>
+</div>
+
+</div><div class="hcf-ad-superbanner ajaxify" data:command="checkAds" data:param="" ><!--size = "728x90)-->
+<div id="iqadtile1">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile1", "iqadtile1");
+		}
+	</script>
+</div></div><div class="hcf-ad-skyscraper ajaxify" data:command="checkAds" data:param="" ><!--size = "120x600,160x600,200x600")-->
+<div id="iqadtile2">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile2", "iqadtile2");
+		}
+	</script>
+</div>
+
+</div></div><header class="vhb-page-header ajaxify"><div class="vhb-page-top-bar"><section class="vhb-page-header-top-bar-left col-md-5 vhb-no-padding"><ul class="vhb-page-top-bar-link-list"><li><a href="http://club.handelsblatt.com" class="vhb-page-header-top-bar-link" target="_blank">Wirtschaftsclub</a></li><li><a href="http://epaper.handelsblatt.com/" class="vhb-page-header-top-bar-link" target="_blank">ePaper</a></li><li><a href="http://archiv.handelsblatt.com/" class="vhb-page-header-top-bar-link" target="_blank">Archiv</a></li><li><a href="http://angebot.handelsblatt.com" class="vhb-page-header-top-bar-link" target="_blank">Abo</a></li><li><a href="/veranstaltungen/" class="vhb-page-header-top-bar-link" target="_blank">Veranstaltungen</a></li></ul></section><section class="vhb-page-header-top-bar-middle col-md-2 vhb-no-padding"><time current-time="">Donnerstag, 01.06.2017</time></section><section id="userLog" class="vhb-page-header-top-bar-right col-md-5 vhb-no-padding"><div class=" ajaxify" data-command="loadDynamically" data-param="/ajaxentry/nocache/mininavi" data-nocache='/ajaxentry/nocache/mininavi' data-cache='/ajaxentry/cache/cacheablemininavi' ></div></section><div class="clearfix"></div></div><div data-command="headerSticky" id="vhb-page-header-navigation" class="vhb-page-header-logo-navigation-wrapper ajaxify"><div id="hbo-header"><div class="vhb-page-header-logo"><a title="Zur Startseite" class="vhb-page-navigation-home-new" href="/"><span id="vhb-page-navigation-count-new"></span></a><a class="vhb-page-header-logo-image" href="/"><img title="" alt="" class="vhb-page-header-logo-image" src="/images/logo_handelsblatt/11002806/7-formatOriginal.png"/></a>
+<div class="vhb-page-header-dp-left">
+    <a class="ajaxify"
+       data-command="track"
+       data-track="at_teasertracking"
+       data-track-param="DGP-Header-links"
+       target="_blank"
+       href="http://kunde.handelsblatt.com/startcheckout?redirecturl=http%3A%2F%2Fwww.handelsblatt.com%2Fdigitalpass&amp;offerid=H%3A2JZG00&amp;origin=sapmsd">
+        <img src="/images/headerteaser/13805666/22-formatOriginal.png" title="Jetzt 4 Wochen gratis testen!"/>
+    </a>
+</div>
+<div class="vhb-page-header-dp-sticky">
+    <a class="ajaxify"
+       data-command="track"
+       data-track="at_teasertracking"
+       data-track-param="DGP-Header-mitte"
+       target="_blank"
+       href="http://kunde.handelsblatt.com/startcheckout?redirecturl=http%3A%2F%2Fwww.handelsblatt.com%2Fdigitalpass&amp;offerid=H%3A2JZG00&amp;origin=sapmsd">
+        <img src="/images/headerteasersticky/13805668/16-formatOriginal.png" title="Jetzt 4 Wochen gratis testen!"/>
+    </a>
+</div>
+<div class="vhb-page-navigation-social"><ul><li><a data-command="track" data-share-url="http://www.handelsblatt.com/" data-methods="POST" data-count="/ajaxentry/nocache/socialinc?elementId=1981248&action=inc&service=facebook" title="Auf Facebook teilen" data-track="sh_facebook" class="vhb-share-socialmedia-facebook ajaxify"></a></li><li><a data-share-text="#Handelsblatt" data-command="track" data-share-url="http://www.handelsblatt.com/" data-methods="POST" data-count="/ajaxentry/nocache/socialinc?elementId=1981248&action=inc&service=twitter" title="Auf Twitter teilen" data-track="sh_twitter" class="vhb-share-socialmedia-twitter ajaxify"></a></li><li><a data-command="track" data-share-url="http://www.handelsblatt.com/" data-methods="POST" data-count="/ajaxentry/nocache/socialinc?elementId=1981248&action=inc&service=xing" title="Auf Xing teilen" data-track="sh_xing" class="vhb-share-socialmedia-xing ajaxify"></a></li><li><a data-command="track" data-share-url="http://www.handelsblatt.com/" data-methods="POST" data-count="/ajaxentry/nocache/socialinc?elementId=1981248&action=inc&service=googleplus" title="Auf Google+ teilen" data-track="sh_googleplus" class="vhb-share-socialmedia-googleplus ajaxify"></a></li><li><a data-command="track" data-share-url="http://www.handelsblatt.com/" data-methods="POST" data-count="/ajaxentry/nocache/socialinc?elementId=1981248&action=inc&service=linkedin" title="Auf Linkedin teilen" data-track="sh_linkedin" class="vhb-share-socialmedia-linkedin ajaxify"></a></li></ul></div><form data-command="formValidate" novalidate="" accept-charset="UTF-8" method="post" action="/suche/" name="globalsearch" class="vhb-page-header-logo-search ajaxify"><input data-command="placeholder" id="search-phrase" placeholder="Suchbegriff, WKN, ISIN" value="" class="ajaxify vhb-required" name="sw" type="text"/><button type="submit" title="Suche ausführen" class="vhb-page-header-logo-search-button"></button></form><div class="vhb-profile-button dropdown dropdown-no-balloon vhb-page-top-bar-profile-list"><button data-toggle="dropdown" data-track="sh_profil" class="dropdown-toggle ajaxify"></button><nav class="dropdown-menu dropdown-menu-right"><div class=" ajaxify" data-command="loadDynamically" data-param="/ajaxentry/nocache/mininavi?remotenavi=false&#38;sticky=true" data-nocache='/ajaxentry/nocache/mininavi?remotenavi=false&#38;sticky=true' data-cache='/ajaxentry/cache/cacheablemininavi?remotenavi=false&#38;sticky=true' ></div></nav></div></div><div class="vhb-page-header-navigation-wrapper"><div data-param="/ajaxentry/cache/ressortpreview" class="vhb-page-header-navigation vhb-active" id="vhb-navigation-main-resorts"><ul class="vhb-flex-container"><li data-param="/ajaxentry/cache/ressortpreview?naviId=9599448" data-command="loadFlyout" class="vhb-flex-item ajaxify vhb-page-navigation-item-special"><a href="http://kunde.handelsblatt.com/startcheckout?redirecturl=http%3A%2F%2Fwww.handelsblatt.com%2Fdigitalpass&#38;offerid=H%3A2JZG00&#38;origin=sapmsd" target="_blank"><div>Digitalpass</div></a></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980476" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/finanzen/" target="_self"><div>Finanzen</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="http://finanzen.handelsblatt.com">Börsenkurse</a></li><li class=""><a href="/finanzen/maerkte/?navi=FINANZEN_SUBNAV_M%C3%84RKTE_1980480">Märkte</a></li><li class=""><a href="/finanzen/anlagestrategie/?navi=FINANZEN_SUBNAV_ANLAGESTRATEGIE_11251228">Anlagestrategie</a></li><li class=""><a href="/finanzen/banken-versicherungen/?navi=FINANZEN_SUBNAV_BANKEN+%2B+VERSICHERUNGEN_11263520">Banken + Versicherungen</a></li><li class=""><a href="/finanzen/geldpolitik/?navi=FINANZEN_SUBNAV_GELDPOLITIK_4588680">Geldpolitik</a></li><li class=""><a href="/finanzen/immobilien/?navi=FINANZEN_SUBNAV_IMMOBILIEN_1980488">Immobilien</a></li><li class=""><a href="/finanzen/vorsorge/?navi=FINANZEN_SUBNAV_VORSORGE_1980490">Vorsorge</a></li><li class=""><a href="/finanzen/steuern-recht/?navi=FINANZEN_SUBNAV_STEUERN+%2B+RECHT_1980492">Steuern + Recht</a></li><li class=""><a href="/finanzen/finanztools/?navi=FINANZEN_SUBNAV_FINANZRECHNER_8174080">Finanzrechner</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980072" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/unternehmen/" target="_self"><div>Unternehmen</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/unternehmen/industrie/?navi=UNTERNEHMEN_SUBNAV_INDUSTRIE_1980074">Industrie</a></li><li class=""><a href="/unternehmen/handel-konsumgueter/?navi=UNTERNEHMEN_SUBNAV_HANDEL+%2B+KONSUMG%C3%9CTER_1980080">Handel + Konsumgüter</a></li><li class=""><a href="/unternehmen/dienstleister/?navi=UNTERNEHMEN_SUBNAV_DIENSTLEISTER_11251998">Dienstleister</a></li><li class=""><a href="/unternehmen/it-medien/?navi=UNTERNEHMEN_SUBNAV_IT+%2B+MEDIEN_1980082">IT + Medien</a></li><li class=""><a href="/unternehmen/mittelstand/?navi=UNTERNEHMEN_SUBNAV_MITTELSTAND_1980084">Mittelstand</a></li><li class=""><a href="/unternehmen/management/?navi=UNTERNEHMEN_SUBNAV_MANAGEMENT_1980088">Management</a></li><li class=""><a href="/unternehmen/beruf-und-buero/?navi=UNTERNEHMEN_SUBNAV_BERUF+%2B+B%C3%9CRO_11479364">Beruf + Büro</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1979524" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/politik/" target="_self"><div>Politik</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/politik/deutschland/?navi=POLITIK_SUBNAV_DEUTSCHLAND_1979526">Deutschland</a></li><li class=""><a href="/politik/konjunktur/?navi=POLITIK_SUBNAV_KONJUNKTUR_1979530">Konjunktur</a></li><li class=""><a href="/politik/international/?navi=POLITIK_SUBNAV_INTERNATIONAL_1979528">International</a></li><li class=""><a href="/politik/international/weltgeschichten/?navi=POLITIK_SUBNAV_WELTGESCHICHTEN_14023950">Weltgeschichten</a></li><li class=""><a href="/politik/oekonomische-bildung/?navi=POLITIK_SUBNAV_%C3%96KONOMISCHE+BILDUNG_19700662">Ökonomische Bildung</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980588" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/technik/" target="_self"><div>Technik</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/technik/it-internet/?navi=TECHNIK_SUBNAV_IT+%2B+INTERNET_1980552">IT + Internet</a></li><li class=""><a href="/technik/gadgets/?navi=TECHNIK_SUBNAV_GADGETS_1980558">Gadgets</a></li><li class=""><a href="/technik/forschung-innovation/?navi=TECHNIK_SUBNAV_FORSCHUNG+%2B+INNOVATION_1980592">Forschung + Innovation</a></li><li class=""><a href="/technik/medizin/?navi=TECHNIK_SUBNAV_MEDIZIN_1980608">Medizin</a></li><li class=""><a href="/technik/energie-umwelt/?navi=TECHNIK_SUBNAV_ENERGIE+%2B+UMWELT_1980594">Energie + Umwelt</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980580" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/auto/" target="_self"><div>Auto</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/auto/nachrichten/?navi=AUTO_SUBNAV_NACHRICHTEN_1980584">Nachrichten</a></li><li class=""><a href="/auto/test-technik/?navi=AUTO_SUBNAV_TEST+%2B+TECHNIK_1980450">Test + Technik</a></li><li class=""><a href="/auto/ratgeber-service/?navi=AUTO_SUBNAV_RATGEBER+%2B+SERVICE_1980586">Ratgeber + Service</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980622" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/sport/" target="_self"><div>Sport</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/sport/fussball/?navi=SPORT_SUBNAV_FUSSBALL_1980424">Fußball</a></li><li class=""><a href="/sport/motorsport/?navi=SPORT_SUBNAV_MOTORSPORT_1980626">Motorsport</a></li><li class=""><a href="/sport/sonstige-sportarten/?navi=SPORT_SUBNAV_SONSTIGE+SPORTARTEN_1980628">sonstige Sportarten</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1980686" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/panorama/" target="_self"><div>Panorama</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/panorama/aus-aller-welt/?navi=PANORAMA_SUBNAV_AUS+ALLER+WELT_1980702">Aus aller Welt</a></li><li class=""><a href="/panorama/reise-leben/?navi=PANORAMA_SUBNAV_REISE+%2B+LEBEN_6128708">Reise + Leben</a></li><li class=""><a href="/panorama/tv-film/?navi=PANORAMA_SUBNAV_TV+%2B+FILM_11251820">TV + Film</a></li><li class=""><a href="/panorama/kultur-kunstmarkt/?navi=PANORAMA_SUBNAV_KULTUR+%2B+KUNSTMARKT_6128700">Kultur + Kunstmarkt</a></li><li class=""><a href="/panorama/spiele/?navi=PANORAMA_SUBNAV_SPIELE_12955046">Spiele</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=11241840" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/social-media/" target="_self"><div>Social Media</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="https://www.facebook.com/handelsblatt">Handelsblatt bei Facebook</a></li><li class=""><a href="https://twitter.com/handelsblatt">Handelsblatt bei Twitter</a></li><li class=""><a href="https://plus.google.com/+handelsblatt/posts">Handelsblatt bei Google +</a></li><li class=""><a href="https://instagram.com/handelsblatt_">Handelsblatt bei Instagram</a></li><li class=""><a href="/social-media/netz-bubble/?navi=SOCIAL+MEDIA_SUBNAV_NETZ-BUBBLE_12617678">Netz-Bubble</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=1981074" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/video/" target="_self"><div>Video</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/video/finanzen/?navi=VIDEO_SUBNAV_FINANZEN_11289560">Finanzen</a></li><li class=""><a href="/video/unternehmen/?navi=VIDEO_SUBNAV_UNTERNEHMEN_1981138">Unternehmen</a></li><li class=""><a href="/video/politik/?navi=VIDEO_SUBNAV_POLITIK_1981136">Politik</a></li><li class=""><a href="/video/technik/?navi=VIDEO_SUBNAV_TECHNIK_11289992">Technik</a></li><li class=""><a href="/video/auto/?navi=VIDEO_SUBNAV_AUTO_1981106">Auto</a></li><li class=""><a href="/video/sport/?navi=VIDEO_SUBNAV_SPORT_1981140">Sport</a></li><li class=""><a href="/video/panorama/?navi=VIDEO_SUBNAV_PANORAMA_1981142">Panorama</a></li><li class=""><a href="/video/peking-suess-sauer/?navi=VIDEO_SUBNAV_PEKING+S%C3%9CSS-SAUER_19322614">Peking süß-sauer</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li><li data-param="/ajaxentry/cache/ressortpreview?naviId=8144472" data-command="loadFlyout" class="vhb-flex-item ajaxify "><a href="/service-angebote/" target="_self"><div>Service</div></a><div class="vhb-page-navigation-drop-down"><ul><li class=""><a href="/service-angebote/abo-club/?navi=SERVICE_SUBNAV_ABO%2BCLUB_12881718">Abo+Club</a></li><li class=""><a href="http://research.handelsblatt.com/">Research Institute</a></li><li class=""><a href="http://www.handelsblatt.com/finanzen/finanztools/">Tools</a></li><li class=""><a href="/service-angebote/digitale-angebote/?navi=SERVICE_SUBNAV_DIGITALE+ANGEBOTE_11260594">Digitale Angebote</a></li><li class=""><a href="/veranstaltungen/?navi=SERVICE_SUBNAV_VERANSTALTUNGEN_1981156">Veranstaltungen</a></li><li class=""><a href="/rss-feeds/?navi=SERVICE_SUBNAV_RSS-FEEDS_3597096">RSS-Feeds</a></li><li class=""><a href="/service-angebote/newsletter/?navi=SERVICE_SUBNAV_NEWSLETTER_1981072">Newsletter</a></li><li class=""><a href="/service-angebote/werbung-content/?navi=SERVICE_SUBNAV_WERBUNG+%2B+CONTENT_12138026">Werbung + Content</a></li><li class=""><a href="/service-angebote/kontakt-hilfe/?navi=SERVICE_SUBNAV_KONTAKT%2BHILFE_1981444">Kontakt+Hilfe</a></li></ul><div class="vhb-flyout-content"><div class="vhb-ajax-loader-wrapper"><div data-content="Inhalte werden geladen..." class="vhb-ajax-loader"><div></div></div></div></div></div></li></ul><div class="clearfix"></div></div><div class="vhb-page-header-sub-container vhb-page-header-stock"><div class="vhb-page-header-sub-container vhb-page-header-stock">
+    <section class="vhb-chart-line vhb-vwd" id="pushFrame_01062017182838244">
+        <dl>
+                        
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/159096/dax"
+                        class="vhb-box-link">DAX:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/159096/dax">
+                    <span data-USFPushData='{"instrumentId":"159096","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>12.664,92</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/159096/dax"><span
+                            class="vhb-rate vhb-vwd-up"
+                            data-USFPushData='{"instrumentId":"159096","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>+0,40
+                        %</span>
+                    </a>
+                </dd>
+            
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/159194/e-stoxx-50"
+                        class="vhb-box-link">E-Stoxx 50:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/159194/e-stoxx-50">
+                    <span data-USFPushData='{"instrumentId":"159194","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>3.567,02</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/159194/e-stoxx-50"><span
+                            class="vhb-rate vhb-vwd-up"
+                            data-USFPushData='{"instrumentId":"159194","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>+0,35
+                        %</span>
+                    </a>
+                </dd>
+            
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/2303555/dow-jones"
+                        class="vhb-box-link">Dow Jones:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/2303555/dow-jones">
+                    <span data-USFPushData='{"instrumentId":"2303555","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>21.058,76</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/2303555/dow-jones"><span
+                            class="vhb-rate vhb-vwd-up"
+                            data-USFPushData='{"instrumentId":"2303555","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>+0,24
+                        %</span>
+                    </a>
+                </dd>
+            
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/2323869/goldpreis"
+                        class="vhb-box-link">Gold:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/2323869/goldpreis">
+                    <span data-USFPushData='{"instrumentId":"2323869","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>1.263,84</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/2323869/goldpreis"><span
+                            class="vhb-rate vhb-vwd-down"
+                            data-USFPushData='{"instrumentId":"2323869","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>-0,38
+                        %</span>
+                    </a>
+                </dd>
+            
+                                                												
+                
+                                
+                
+                <dt class="vhb-vwd-chartclip-label"><a
+                        href="http://finanzen.handelsblatt.com/2079559/eur-usd"
+                        class="vhb-box-link">EUR/USD:</a></dt>
+                <dd class="vhb-vwd-chartclip-value"><a
+                        href="http://finanzen.handelsblatt.com/2079559/eur-usd">
+                    <span data-USFPushData='{"instrumentId":"2079559","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"stellen":2},"fieldName":"lastPrice"}'>1,1211</span>
+                </a>
+                    <a href="http://finanzen.handelsblatt.com/2079559/eur-usd"><span
+                            class="vhb-rate vhb-vwd-down"
+                            data-USFPushData='{"instrumentId":"2079559","fieldOrigin":"quotes","pushFrameId":"pushFrame_01062017182838244","fieldConfig":{"suffix":"%","stellen":2,"highlight":1,"sign":1},"fieldName":"netchangePercent"}'>-0,28
+                        %</span>
+                    </a>
+                </dd>
+                    </dl>
+        <a href="http://finanzen.handelsblatt.com" class="vhb-more-link">Alle Kurse</a>
+    </section>
+</div>
+
+</div></div></div></div><div class="vhb-breadcrumb"><ul itemtype="http://schema.org/BreadcrumbList" itemprop="breadcrumb" itemscope=""><li itemtype="http://schema.org/ListItem" itemscope="" itemprop="itemListElement"><a itemprop="item" href="/"><span itemprop="name"> Handelsblatt </span></a><meta content="1" itemprop="position"/></li><li itemtype="http://schema.org/ListItem" itemscope="" itemprop="itemListElement"><a itemprop="item" href="/impressum/"><span itemprop="name"> Impressum </span></a><meta content="2" itemprop="position"/></li></ul><h1 itemprop="headline"> Datenschutzerklärung</h1></div><div class="col-md-12"><div class="hcf-sponsoring"><!--size = "930x200,940x250,800x250")-->
+<div class="vhb-center-iq">
+	<div id="iqadtile3" class="vhb-indicator" style="text-align:center;">
+		<script>
+			if(typeof AdController!=='undefined'){
+				AdController.render("iqadtile3", "iqadtile3");
+			}
+		</script>
+	</div>
+</div></div></div><div class="clearfix"></div></header><div class="container"><div class="vhb-content"><div class="row  Layout"><div class="col-md-8 vhb-main-col  Layout">
+
+<div class="hcf-column hcf-column1 hcf-main-col hcf-teasercontainer"> 
+<div class="hcf-content">
+<div class="hcf-static hcf-detail">
+
+
+
+
+<iframe name="nutzungsiframe" src="https://secure.wiwo.de/downloads/9882494/disclaimer.html#datenschutz" width="100%" height="4250" frameborder="0" scrolling="no"></iframe>
+
+
+
+</div>
+</div>
+</div>
+
+
+<style>
+
+.c-nojs{
+
+ display: none !important;
+
+}
+
+</style></div><aside class="col-md-4"><div class="hcf-ad-rectangle hcf-mcol-box"><!-- size = "300x250,300x600") -->
+<div id="iqadtile8" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile8", "iqadtile8");
+		}
+	</script>
+</div>
+
+</div>
+
+<aside>
+ <div id="cobranded-special" style="width:100%; position:relative; height:270px;">
+ <div style="width:50%; float:left;">
+ <a href="http://www.vdz.de/primesite/" title="Prime Site - das Gütesiegel für die Top Online-Werbeträger!" target="_blank"><img src="/images/primesite_guetesiegel_2013-2014/8196040/2-formatOriginal.jpg" alt="PrimeSite Gütesiegel" style="width:143px;"></a>
+ </div>
+ <div style="line-height:1.4em; float:left; width:50%;">
+ <p><strong>Handelsblatt Online als Top-Qualitätswebsite <br>zertifziert</strong></p>
+ <p>Das Gütesiegel des Verbandes Deutscher Zeitschriftenverleger bescheinigt ausgewählten Sites ein besonders hochwertiges Werbeumfeld.</p>
+ </div>
+ </div>
+</aside><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-1985594" data-config='' ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=1985586&#38;view=rcol_box_3layer_ticker&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Newsticker </a></li><li><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=4214690&#38;view=rcol_box_3layer_ticker&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Märkte </a></li><li><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11470348&#38;view=rcol_box_3layer_ticker&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Premium </a></li><li><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11367322&#38;view=rcol_box_nLayer_firstPic&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Specials </a></li><li class="vhb-last"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11477056&#38;view=rcol_box_nLayer_firstPic&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Kolumne </a></li></ul></nav></header><div id="vhb-tab-1985594"><div class="vhb-tab-1"><div class="vhb-newsticker vhb-box-content" data-tb-region="Newsticker"><div data-command="scrollBox" class="vhb-scrollpane ajaxify"><ul id="1985586" class="vhb-teaser-list-small panel-group"><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T18:13" class="vhb-time">18:13 Uhr</time><a href="/my/finanzen/immobilien/australien-der-teure-traum-vom-eigenheim/19880792.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Australien</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Der teure Traum vom Eigenheim</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T18:08" class="vhb-time">18:08 Uhr</time><a href="/my/finanzen/banken-versicherungen/monte-dei-paschi-bankenrettung-mit-schoenheitsfehlern/19880634.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Monte dei Paschi</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Bankenrettung mit Schönheitsfehlern</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T18:05" class="vhb-time">18:05 Uhr</time><a href="/politik/deutschland/nach-anschlag-in-kabul-abschiebungen-nach-afghanistan-ausgesetzt/19884328.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Nach Anschlag in Kabul</em><span class="vhb-colon">: </span><span class="vhb-headline">Abschiebungen nach Afghanistan ausgesetzt</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T18:04" class="vhb-time">18:04 Uhr</time><a href="/my/finanzen/anlagestrategie/trends/pakistan-asiens-neuer-schwellenmarkt/19882392.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Pakistan</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Asiens neuer Schwellenmarkt</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:59" class="vhb-time">17:59 Uhr</time><a href="/my/unternehmen/industrie/deutsche-energiekonzerne-von-jaegern-und-gejagten/19880402.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Deutsche Energiekonzerne</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Von Jägern und Gejagten</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:54" class="vhb-time">17:54 Uhr</time><a href="/unternehmen/industrie/toyota-daimler-und-co-das-rennen-um-die-autodaten-ist-gestartet/19881562.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Toyota, Daimler und Co.</em><span class="vhb-colon">: </span><span class="vhb-headline">Das Rennen um die Autodaten ist gestartet</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:47" class="vhb-time">17:47 Uhr</time><a href="/finanzen/anlagestrategie/trends/musterdepots-die-korrektur-wird-wohl-noch-kommen/19883318.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Musterdepots</em><span class="vhb-colon">: </span><span class="vhb-headline">„Die Korrektur wird wohl noch kommen“</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:31" class="vhb-time">17:31 Uhr</time><a href="/politik/international/us-praesident-trump-ist-thema-der-bilderberg-konferenz/19883916.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">US-Präsident</em><span class="vhb-colon">: </span><span class="vhb-headline">Trump ist Thema der Bilderberg-Konferenz</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:28" class="vhb-time">17:28 Uhr</time><a href="/my/finanzen/immobilien/wohnungsmarkt-wasserlagen-bevorzugt/19880814.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Wohnungsmarkt</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Wasserlagen bevorzugt</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:28" class="vhb-time">17:28 Uhr</time><a href="/unternehmen/industrie/ohio-reicht-klage-ein-us-pharmakonzerne-im-opiate-rausch/19882938.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Ohio reicht Klage ein</em><span class="vhb-colon">: </span><span class="vhb-headline">US-Pharmakonzerne im Opiate-Rausch</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:11" class="vhb-time">17:11 Uhr</time><a href="/politik/international/petersburger-wirtschaftsdialog-gabriel-kommt-zu-putins-lieblingskonferenz/19881730.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Petersburger Wirtschaftsdialog</em><span class="vhb-colon">: </span><span class="vhb-headline">Gabriel kommt zu Putins Lieblingskonferenz</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:07" class="vhb-time">17:07 Uhr</time><a href="/finanzen/banken-versicherungen/skandalgeschuettelte-us-bank-new-york-verbannt-wells-fargo/19882996.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Skandalgeschüttelte US-Bank</em><span class="vhb-colon">: </span><span class="vhb-headline">New York verbannt Wells Fargo</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T17:04" class="vhb-time">17:04 Uhr</time><a href="/my/finanzen/anlagestrategie/fonds-etf/fonds-unter-der-lupe-julius-baer-multistock-eine-heisse-wette-auf-bankaktien/19827712.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Fonds unter der Lupe – Julius Bär Multistock</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Eine heiße Wette auf Bankaktien</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T16:48" class="vhb-time">16:48 Uhr</time><a href="/my/unternehmen/mittelstand/familienunternehmer/rickmers-in-der-insolvenz-ein-reeder-geht-baden/19880122.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Rickmers in der Insolvenz</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Ein Reeder geht baden</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T16:45" class="vhb-time">16:45 Uhr</time><a href="/my/finanzen/banken-versicherungen/videoidentifizierung-wenn-der-venen-scanner-gruenes-licht-gibt-/19880084.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Videoidentifizierung</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Wenn der Venen-Scanner grünes Licht gibt</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T16:43" class="vhb-time">16:43 Uhr</time><a href="/unternehmen/industrie/nach-produktionsausfaellen-bei-bmw-bosch-kauft-zulieferer-albertini-cesare-aus-italien/19882978.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Nach Produktionsausfällen bei BMW</em><span class="vhb-colon">: </span><span class="vhb-headline">Bosch kauft Zulieferer Albertini Cesare aus Italien</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T16:33" class="vhb-time">16:33 Uhr</time><a href="/my/sport/fussball/nach-abstieg-in-die-3-liga-investor-ismaik-droht-den-muenchener-loewen/19882816.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Nach Abstieg in die 3. Liga</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Investor Ismaik droht den Münchener Löwen</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T16:16" class="vhb-time">16:16 Uhr</time><a href="/politik/deutschland/einbruchschutz-und-doppelpass-spd-legt-innenpolitik-forderungen-vor/19882832.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Einbruchschutz und Doppelpass</em><span class="vhb-colon">: </span><span class="vhb-headline">SPD legt Innenpolitik-Forderungen vor</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T16:05" class="vhb-time">16:05 Uhr</time><a href="/unternehmen/industrie/us-konzern-kauft-wirtgen-auf-diese-fraesen-und-backenbrecher-hat-deere-es-abgesehen/19882332.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">US-Konzern kauft Wirtgen</em><span class="vhb-colon">: </span><span class="vhb-headline">Auf diese Fräsen und Backenbrecher hat Deere es abgesehen</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T16:04" class="vhb-time">16:04 Uhr</time><a href="/panorama/kultur-kunstmarkt/buchtipp-luegen-mit-zahlen-glaube-deiner-statistik/19881720.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Buchtipp: Lügen mit Zahlen</em><span class="vhb-colon">: </span><span class="vhb-headline">Glaube deiner Statistik</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T16:00" class="vhb-time">16:00 Uhr</time><a href="/politik/international/nach-rekord-rezession-brasiliens-wirtschaft-erholt-sich-wieder/19882444.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Nach Rekord-Rezession</em><span class="vhb-colon">: </span><span class="vhb-headline">Brasiliens Wirtschaft erholt sich wieder</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T15:58" class="vhb-time">15:58 Uhr</time><a href="/finanzen/banken-versicherungen/sparkassen-und-volksbanken-wo-es-die-meisten-filialen-gibt-und-wo-sie-verschwinden-/19881828.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Sparkassen und Volksbanken</em><span class="vhb-colon">: </span><span class="vhb-headline">Wo es die meisten Filialen gibt – und wo sie verschwinden</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T15:58" class="vhb-time">15:58 Uhr</time><a href="/politik/international/pariser-klimaabkommen-us-staaten-auch-ohne-trump-gegen-erderwaermung/19881986.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Pariser Klimaabkommen</em><span class="vhb-colon">: </span><span class="vhb-headline">US-Staaten auch ohne Trump gegen Erderwärmung</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T15:57" class="vhb-time">15:57 Uhr</time><a href="/my/unternehmen/beruf-und-buero/buero-special/heikle-auftraege-fuer-mitarbeiter-fuer-den-chef-gegen-das-gesetz/19881622.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Heikle Aufträge für Mitarbeiter</em><span class="vhb-colon">: </span><span class="vhb-label-premium">Premium</span><span class="vhb-headline">Für den Chef, gegen das Gesetz</span></a></li><li data-tb-region-item="" class="vhb-teaser panel"><time datetime="2017-06-01T15:54" class="vhb-time">15:54 Uhr</time><a href="/unternehmen/industrie/insolventer-solarkonzern-retten-inder-solarworld/19881938.html?nlayer=Newsticker_1985586" class="vhb-teaser-link"><em class="vhb-overline">Insolventer Solarkonzern</em><span class="vhb-colon">: </span><span class="vhb-headline">Retten Inder Solarworld? </span></a></li></ul></div><a href="/ticker/" title="Alle Schlagzeilen" class="vhb-teaser-list-small-load-more" target="_self">Alle Schlagzeilen</a></div></div></div></section><div class="hcf-ad-rectangle hcf-mcol-box"><!-- size = "300x250,300x100") -->
+<div id="iqadtile9" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile9", "iqadtile9");
+		}
+	</script>
+</div>
+
+</div><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-3810276" data-config='' ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11261402&#38;view=rcol_box_nLayer_firstPic&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Mein Handelsblatt </a></li></ul></nav></header><div id="vhb-tab-3810276"><div class="vhb-tab-1"><div class="vhb-box-content"><ul class="vhb-teaser-list-small"><li class="vhb-teaser   vhb-type-teaser" data-tb-region-item><a href="http://finanzen.handelsblatt.com/depot_uebersicht.htn" class="vhb-teaser-link" target="_self"><div itemtype="http://schema.org/ImageObject" itemscope=" " itemprop="image" class="vhb-media-wrapper"><img src="/images/meinhandelsblatt_depot/3715294/6-format2012.png" alt="Persönliches Musterdepot für registrierte Nutzer von &#34;Mein Handelsblatt&#34;." width="260" itemprop="thumbnail"/><meta content="620" itemprop="width"/><meta content="349" itemprop="height"/><span class="vhb-media"></span></div><em class="vhb-overline">Mein Handelsblatt</em><span class="vhb-colon">: </span><span class="vhb-headline">Persönliches Musterdepot</span></a></li><li class="vhb-teaser   vhb-type-teaser" data-tb-region-item><a href="http://finanzen.handelsblatt.com/depot_watchlist.htn" class="vhb-teaser-link" target="_self"><em class="vhb-overline">Mein Handelsblatt</em><span class="vhb-colon">: </span><span class="vhb-headline">Wertpapier-Watchlist</span></a></li><li class="vhb-teaser   vhb-type-teaser" data-tb-region-item><a href="http://finanzen.handelsblatt.com/depot_watcher.htn" class="vhb-teaser-link" target="_self"><em class="vhb-overline">Mein Handelsblatt</em><span class="vhb-colon">: </span><span class="vhb-headline">Wertpapier-Limitliste</span></a></li><li class="vhb-teaser   vhb-type-teaser" data-tb-region-item><a href="/meinhandelsblatt/merkliste/handelsblatt-merkliste/3795206.html?nlayer=Mein+Handelsblatt_11261402" class="vhb-teaser-link" target="_self"><em class="vhb-overline">Mein Handelsblatt</em><span class="vhb-colon">: </span><span class="vhb-headline">Persönliche Merkliste</span></a></li><li class="vhb-teaser vhb-teaser-last  vhb-type-teaser" data-tb-region-item><a href="http://www.handelsblatt.com/service-angebote/newsletter/" class="vhb-teaser-link" target="_self"><em class="vhb-overline">Mein Handelsblatt</em><span class="vhb-colon">: </span><span class="vhb-headline">Persönlicher Newsletter-Service</span></a></li></ul></div></div></div></section><section class="vhb-box-wrapper"><header class="vhb-box-header"><nav class="vhb-box-nav"><ul class="vhb-toggles-nav ajaxify" data-command="navLine tabSwap setPartnerClass" data-param="#vhb-tab-3798056" data-config='' ><li class="vhb-first vhb-active"><a class="vhb-nav-link" data-param="/ajaxentry/cache/teasablecontent?tgId=11261376&#38;view=rcol_box_nLayer_standard&#38;odId=&#38;externalURLs=" data-partner-class='' href='#' >Weitere Angebote </a></li></ul></nav></header><div id="vhb-tab-3798056"><div class="vhb-tab-1"><div class="vhb-box-content" data-tb-region="Weitere Angebote"><ul class="vhb-teaser-list-small"><li class="vhb-teaser   vhb-type-teaser" data-tb-region-item><a href="http://angebot.handelsblatt.com" class="vhb-teaser-link" target="_blank"><div itemtype="http://schema.org/ImageObject" itemscope=" " itemprop="image" class="vhb-media-wrapper"><img src="/images/hb_4klang_052012_rgb/6629174/4-format2012.png" alt="Abo- und Leser-Service: Nutzen Sie alle Vorteile eines Abonnements" width="260" itemprop="thumbnail"/><meta content="927" itemprop="width"/><meta content="521" itemprop="height"/><span class="vhb-media"></span></div><div class="vhb-link"><em class="vhb-overline">Abo- und Leser-Service</em><span class="vhb-colon">: </span><span class="vhb-headline">Vorteile eines Abonnements nutzen</span></div></a></li><li class="vhb-teaser vhb-teaser-last  vhb-type-teaser" data-tb-region-item><a href="http://epaper.handelsblatt.com" class="vhb-teaser-link" target="_blank"><div itemtype="http://schema.org/ImageObject" itemscope=" " itemprop="image" class="vhb-media-wrapper"><img src="/images/hb_zeitung_052012_rgb_1000/6629214/2-format2012.jpg" alt="ePaper: Lesen Sie schon am Vorabend die Zeitung von morgen" width="260" itemprop="thumbnail"/><meta content="1000" itemprop="width"/><meta content="1425" itemprop="height"/><span class="vhb-media"></span></div><div class="vhb-link"><em class="vhb-overline">ePaper</em><span class="vhb-colon">: </span><span class="vhb-headline">Lesen Sie schon am Vorabend die Zeitung von morgen</span></div></a></li></ul></div></div></div></section><div class="hcf-ad-rectangle hcf-mcol-box"><!-- size = "300x250,300x100") -->
+<div id="iqadtile10" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile10", "iqadtile10");
+		}
+	</script>
+</div>
+
+</div></aside></div><div class="row"><section class="vhb-serviceoffer vhb-section-stage col-md-12" data-tb-region="Highlights-Bühne Homepage"><header class="vhb-stage-header vhb-section-stage-header"><span class="vhb-headline"><span>Serviceangebote</span></span></header><ul class="vhb-serviceoffer-list row"><li class="vhb-serviceoffer-list-item col-md-2" data-tb-region-item><a href="http://handelsblatt-onlineservices.de/finance_today/nl/subscribe.php" class="vhb-serviceoffer-list-item-link" target="_self"><img src="/images/financetoday/3713312/10-format8.png" alt="Handelsblatt: Finance Today Newsletter" class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Finance Today Newsletter </div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2" data-tb-region-item><a href="http://www.handelsblatt-investment-live.com/" class="vhb-serviceoffer-list-item-link" target="_blank"><img src="/images/fifo_banner_mai_leipzig-und-muenchen_134x75px/19707568/3-format8.png" alt="Experten antworten: FinanzmarktForen: Investment Live" class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">FinanzmarktForen: Investment Live </div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2" data-tb-region-item><a href="http://www.nl-services.com/subscribe/handelsblatt/hbo/subscribe.php" class="vhb-serviceoffer-list-item-link" target="_self"><img src="/images/nl_0011_energie/10002878/4-format8.png" alt="Kostenloser Newsletter: Handelsblatt Energie Briefing" class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Handelsblatt Energie Briefing </div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2" data-tb-region-item><a href="http://www.handelsblatt.com/finanzen/finanzfuehrerschein/" class="vhb-serviceoffer-list-item-link" target="_self"><img src="/images/finanzfuehrerschein/3742680/1-format8.gif" alt="Financial Education: Finanzwissen testen und erweitern" class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Finanzwissen testen und erweitern </div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2" data-tb-region-item><a href="http://www.handelsblattmachtschule.de" class="vhb-serviceoffer-list-item-link" target="_blank"><img src="/images/handelsblatt-macht-schule/4023434/2-format8.jpg" alt="Handelsblatt macht Schule: Wirtschaftsunterricht lebendig und praxisnah." class="vhb-serviceoffer-list-item-image"/><div class="vhb-serviceoffer-list-item-overline">Handelsblatt macht Schule </div><p class="vhb-serviceoffer-list-item-text"></p></a></li><li class="vhb-serviceoffer-list-item col-md-2"><!-- size = "150x150") -->
+<div id="iqadtile14" class="vhb-indicator">
+	<script>
+		if(typeof AdController!=='undefined'){
+			AdController.render("iqadtile14", "iqadtile14");
+		}
+	</script>
+</div>
+
+</li></ul></section></div><div class="row"><div class="col-md-12"><div class="hcf-sponsoring"><!--size = "930x200")-->
+<div class="vhb-center-iq">
+	<div id="iqadtile15" class="vhb-indicator">
+		<script>
+			if(typeof AdController!=='undefined'){
+				AdController.render("iqadtile15", "iqadtile15");
+			}
+		</script>
+	</div>
+</div></div></div><div class="clearfix"></div></div></div></div><footer class="vhb-page-footer"><div class="col-md-12 vhb-page-footer-navigation-wrapper"><section class="col-md-3 vhb-page-footer-section-overview"><div class="vhb-page-footer-headline">Übersicht</div><ul class="vhb-page-footer-list"><li class="vhb-page-footer-list-item"><a href="http://kunde.handelsblatt.com/startcheckout?redirecturl=http%3A%2F%2Fwww.handelsblatt.com%2Fdigitalpass&#38;offerid=H%3A2JZG00&#38;origin=sapmsd" target="_blank">Digitalpass</a></li><li class="vhb-page-footer-list-item"><a href="/finanzen/" target="_self">Finanzen</a></li><li class="vhb-page-footer-list-item"><a href="/unternehmen/" target="_self">Unternehmen</a></li><li class="vhb-page-footer-list-item"><a href="/politik/" target="_self">Politik</a></li><li class="vhb-page-footer-list-item"><a href="/technik/" target="_self">Technik</a></li><li class="vhb-page-footer-list-item"><a href="/auto/" target="_self">Auto</a></li><li class="vhb-page-footer-list-item"><a href="/sport/" target="_self">Sport</a></li><li class="vhb-page-footer-list-item"><a href="/panorama/" target="_self">Panorama</a></li><li class="vhb-page-footer-list-item"><a href="/social-media/" target="_self">Social Media</a></li><li class="vhb-page-footer-list-item"><a href="/video/" target="_self">Video</a></li><li class="vhb-page-footer-list-item"><a href="/service-angebote/" target="_self">Service</a></li></ul></section>
+
+<section class="col-md-3 vhb-page-footer-section-contact">
+
+ <div class="vhb-page-footer-headline">Service</div>
+
+ <ul class="vhb-page-footer-list">
+
+ 
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-facebook"><a href="http://www.facebook.com/handelsblatt" target="_blank">Facebook</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-twitter" target="_blank"><a href="http://twitter.com/handelsblatt">Twitter</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-googleplus" target="_blank"><a href="https://plus.google.com/110845203466448026254">Google+</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-email"><a href="/service-angebote/kontakt-hilfe/">Kontakt/Hilfe</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/archiv/" target="_blank">Online-Archiv</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://veranstaltungen.handelsblatt.com/" target="_blank">Veranstaltungen</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/impressum/netiquette/" target="_blank">Netiquette</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/sitemap/" target="_blank">Sitemap</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/impressum/nutzungshinweise/" target="_blank">Nutzungshinweise</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://www.handelsblatt.com/impressum/datenschutzerklaerung/" target="_blank">Datenschutzerklärung</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-contact-imprint"><a href="/impressum/">Impressum</a></li>
+
+ </ul>
+
+</section>
+
+
+
+<section class="col-md-6 vhb-page-footer-section-links">
+
+ <div class="vhb-page-footer-headline">Links</div>
+
+ <ul class="vhb-page-footer-list col-md-12">
+
+
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://orange.handelsblatt.com/" target="_blank">Orange by Handelsblatt</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://global.handelsblatt.com/" target="_blank">Handelsblatt Global Edition</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.handelsblatt-magazin.com/" target="_blank">Handelsblatt Magazin</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.iqdigital.de/" target="_blank">iqdigital.de</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://morningbriefing.handelsblatt.com/" target="_blank">Morning Briefing </a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link"><a href="http://redner.handelsblatt.com/" target="_blank">Redner Agentur</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://research.handelsblatt.com/de/">Research Institute</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.vwd.com/" target="_blank">vwd Vereinigte Wirtschaftsdienste</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.datenschutz-berater.de/" target="_blank">Datenschutz-Berater</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.wiwo.de/" target="_blank">WirtschaftsWoche</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.karriere.de/" target="_blank">karriere.de</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.absatzwirtschaft.de/" target="_blank">Absatzwirtschaft</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.der-betrieb.de/" target="_blank">Der Betrieb</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.zoe-online.org/" target="_blank">OrganisationsEntwicklung</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.genios.de" target="_blank">GBI-Genios </a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.creditreform-magazin.de/" target="_blank">Creditreform</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.bellevue-ferienhaus.de/" target="_blank">bellevue-ferienhaus.de</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.boatoon.com/" target="_blank">boatoon.com</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://pressemonitor.de/" target="_blank">PMG</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://mittelstand.vhb.de/" target="_blank">Mittelstandsportal</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="https://www.dub.de/unternehmensnachfolge" target="_blank">DUB Unternehmensnachfolge</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="https://www.dub.de/franchise/franchise-unternehmen/" target="_blank">DUB Franchiseunternehmen</a></li>
+
+ <li class="vhb-page-footer-list-item vhb-page-footer-link col-md-6"><a href="http://www.bellevue-kreuzfahrten.de/" target="_blank">bellevue-kreuzfahrten.de</a></li>
+
+ </ul>
+
+</section></div><div class="clearfix"></div><div class="vhb-page-footer-copyright">
+
+<div class="vhb-page-footer-copyright" id="PublisherRef" itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+
+<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><a href="/"><img itemprop="url" src="/images/logo_handelsblatt/11002806/7-formatOriginal.png" class="vhb-page-footer-copyright-logo" title="Zurück zur Startseite" alt="Handelsblatt-Logo" /></a><meta itemprop="width" content="274"><meta itemprop="height" content="40"></div><meta itemprop="name" content="Handelsblatt">
+
+<div>© 2017 Handelsblatt GmbH - ein Unternehmen der <a target="_blank" title="Verlagsgruppe Handelsblatt" href="http://www.vhb.de">Verlagsgruppe Handelsblatt GmbH & Co. KG</a></div>
+
+<div>Verlags-Services für Werbung: <a href="http://www.iqdigital.de/" target="_blank">iqdigital.de</a> (<a href="http://www.iqm.de/digital/marken/handelsblatt-online/" target="_blank">Mediadaten</a>) | Verlags-Services für Content: <a href="http://www.handelsblatt.com/service-angebote/werbung-content/business-content/" target="_blank">Digitale Unternehmens-Lösungen</a></div>
+<div>Realisierung und Hosting der Finanzmarktinformationen: <a href="http://www.vwd.com/" target="_blank">vwd Vereinigte Wirtschaftsdienste GmbH</a></div>
+<div>Verzögerung der Kursdaten: Deutsche Börse 15 Min., Nasdaq und NYSE 20 Min.</div>
+<div>Keine Gewähr für die Richtigkeit der Angaben. Bitte beachten Sie auch: <a href="http://www.iqm.de/digital/nutzungsbasierte_Onlinewerbung/" target="_blank">Nutzungsbasierte Onlinewerbung</a></div>
+</div>
+
+
+
+
+
+</div></footer>
+
+<img src="//amplifypixel.outbrain.com/pixel?mid=00e7068831e919a12b2a22647cec5d3134">
+
+<style>
+
+.c-nojs {
+ background-color: white;
+ position: fixed;
+ z-index: 9999999;
+ top: 0px;
+ left: 0px;
+ right: 0px;
+ bottom:0px;
+}
+
+.c-nojs{
+ font-family: "Gotham Narrow SSm A","Gotham Narrow SSm B",Arial,Helvetica,sans-serif;
+}
+
+.c-nojs__bar{
+ background-color: #ee7000;
+ min-height: 30px;
+}
+
+.c-nojs__wrapper{
+ max-width: 500px;
+ margin: 0 auto;
+}
+
+.c-nojs__logo{
+ margin-top: 20px;
+ text-align:center;
+ width:100%;
+ margin-bottom:50px;
+}
+
+.c-teaser__overline{
+ margin-top: 40px;
+ font-size: 12px;
+ line-height: 16px;
+ font-weight: 700; 
+ color: #ee7000;
+ text-transform: uppercase;
+}
+
+.c-teaser__headline{
+ font-size: 38px;
+ line-height: 42px;
+ font-weight: 700; 
+ margin-bottom:15px;
+}
+
+.c-teaser__text{
+ font-size: 20px;
+ line-height: 28px;
+ margin-bottom: 40px;
+}
+
+.c-nojs__table{
+ width:100%;
+ 
+}
+
+.c-nojs__hr {
+ margin-bottom: 10px;
+}
+
+.c-nojs__table a{
+ font-size: 12px;
+ color: #969696;
+}
+
+.c-nojs__table a:hover{
+
+ color: #ee7000;
+
+}
+
+.c-nojs__table td{
+ width: 33.3%
+}
+
+.u-text-right{
+ text-align: right;
+}
+
+.u-text-center{
+ text-align: center;
+}
+
+</style>
+
+<noscript>
+
+<div class="c-nojs">
+
+<div class="c-nojs__bar"></div>
+
+<div class="c-nojs__wrapper">
+
+<div class="c-nojs__logo">
+
+<a href="/">
+
+ <img src="/images/logo_handelsblatt/11002806/7-formatOriginal.png">
+
+</a>
+
+</div>
+
+<hr class="c-nojs__hr">
+
+<div class="c-teaser">
+
+<div class="c-teaser__overline">Javascript deaktiviert</div>
+
+<div class="c-teaser__headline">Warum sehe ich Handelsblatt Online nicht?</div>
+
+<div class="c-teaser__text">Um unser Angebot in vollem Umfang nutzen zu können, müssen Sie JavaScript in Ihrem Browser aktivieren.</div>
+
+</div>
+
+<hr class="c-nojs__hr">
+
+<table class="c-nojs__table">
+
+<tr>
+
+<td><a href="http://www.handelsblatt.com/impressum/nutzungshinweise/">Nutzungshinweise</a></td>
+
+<td class="u-text-center"><a href="http://www.handelsblatt.com/impressum/datenschutzerklaerung/">Datenschutz</a></td>
+
+<td class="u-text-right"><a href="http://www.handelsblatt.com/impressum/">Impressum</a></td>
+
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+<img src="https://handelsblatt01.webtrekk.net/357500119523122/wt?p=433,JavaScript-deaktiviert,0,0,0,0,0,0,0,cp1=JavaScript-deaktiviert;ck6=JavaScript-deaktiviert;cg1=sonstiges;cg2=JavaScript-deaktiviert" height="1" width="1" alt="">
+
+<!-- SZM VERSION="2.0" -->
+<img src="http://de.ioam.de/tx.io?st=handbl&amp;np=nojs&amp;mo=0" width="1" height="1" alt="szmtag">
+<!--/SZM --> 
+
+</noscript></div><div data-param="http://www.handelsblatt.com?footerhp=scroll" data-command="overscroller" class="vhb-overscroller ajaxify"><a class="vhb-overscroller-link" href="http://www.handelsblatt.com?footerhp=click"></a><div class="vhb-overscroller-overlay"></div><div class="vhb-stage"><div data-progress="0" class="vhb-radial-progress"><div class="vhb-circle"><div class="vhb-mask vhb-full"><div class="vhb-fill"></div></div><div class="vhb-mask vhb-half"><div class="vhb-fill"></div><div class="vhb-fill vhb-fix"></div></div><div class="vhb-shadow"></div></div><div class="vhb-inset"><div class="vhb-caption"><span>Zur Startseite</span></div><div class="vhb-percentage"><div class="vhb-numbers"><span>-</span><span>0%</span><span>1%</span><span>2%</span><span>3%</span><span>4%</span><span>5%</span><span>6%</span><span>7%</span><span>8%</span><span>9%</span><span>10%</span><span>11%</span><span>12%</span><span>13%</span><span>14%</span><span>15%</span><span>16%</span><span>17%</span><span>18%</span><span>19%</span><span>20%</span><span>21%</span><span>22%</span><span>23%</span><span>24%</span><span>25%</span><span>26%</span><span>27%</span><span>28%</span><span>29%</span><span>30%</span><span>31%</span><span>32%</span><span>33%</span><span>34%</span><span>35%</span><span>36%</span><span>37%</span><span>38%</span><span>39%</span><span>40%</span><span>41%</span><span>42%</span><span>43%</span><span>44%</span><span>45%</span><span>46%</span><span>47%</span><span>48%</span><span>49%</span><span>50%</span><span>51%</span><span>52%</span><span>53%</span><span>54%</span><span>55%</span><span>56%</span><span>57%</span><span>58%</span><span>59%</span><span>60%</span><span>61%</span><span>62%</span><span>63%</span><span>64%</span><span>65%</span><span>66%</span><span>67%</span><span>68%</span><span>69%</span><span>70%</span><span>71%</span><span>72%</span><span>73%</span><span>74%</span><span>75%</span><span>76%</span><span>77%</span><span>78%</span><span>79%</span><span>80%</span><span>81%</span><span>82%</span><span>83%</span><span>84%</span><span>85%</span><span>86%</span><span>87%</span><span>88%</span><span>89%</span><span>90%</span><span>91%</span><span>92%</span><span>93%</span><span>94%</span><span>95%</span><span>96%</span><span>97%</span><span>98%</span><span>99%</span><span>100%</span></div></div></div></div><img src="http://www.handelsblatt.com/contentexport/static/images/hp.png"/></div></div><script>
+                window._newsroom = window._newsroom || [];
+                !function (e, f, u) {
+                    e.async = 1;
+                    e.src = u;
+                    f.parentNode.insertBefore(e, f);
+                }(document.createElement('script'),
+                    document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/vhb-handelsblatt/newsroom.js');
+            </script><script defer="defer" src="/js/12535788/78/experiments.js" type="text/javascript"></script><script src="/js/11002860/429/base.js" type="text/javascript"></script><script src="/js/13360408/6/iqipadfix.js" type="text/javascript"></script><script src="/js/9816410/1/z_iq-end-of-page-signal.js" type="text/javascript"></script><script type="text/javascript">// START - Taboola Footer: Flush
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+// END - Taboola Footer: Flush</script><!-- end adcontroller initializierung -->
+<script type = "text/javascript">
+	if (typeof AdController !== 'undefined') {
+		AdController.finalize();
+	}
+</script></body><!-- ======= This site is powered by: HCF (Holtzbrinck Content Framework), build:17.5.2.58, h:degtlun5507.server.arvato-systems.de, t:20170601182853 in 89,26ms, ID:1981248 ======= -->
+</html>

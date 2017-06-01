@@ -1,0 +1,1215 @@
+<!-- #navbar #nav-shop .nav-a:hover { color: #ff9900; text-decoration:
+underline; } #navbar #nav-search .nav-search-facade, #navbar #nav-tools .nav-
+icon, #navbar #nav-shop .nav-icon, #navbar #nav-subnav .nav-hasArrow .nav-
+arrow { display: none; } #navbar #nav-search .nav-search-submit, #navbar #nav-
+search .nav-search-scope { display: block; } #nav-search .nav-search-scope {
+padding: 0 5px; } #navbar #nav-search .nav-search-dropdown { position:
+relative; top: 5px; height: 23px; font-size: 14px; opacity: 1; filter:
+alpha(opacity = 100); } \-->window.navmet.push({key:'PreNav',end:+new
+Date(),begin:window.navmet.tmp});window.navmet.tmp=+new Date();
+
+window.navmet.push({key:'UpNav',end:+new
+Date(),begin:window.navmet.tmp});window.navmet.main=+new Date();
+
+window.navmet.tmp=+new Date();
+
+window.navmet.push({key:'Logo',end:+new Date(),begin:window.navmet.tmp});
+
+window.navmet.tmp=+new Date();
+
+window.navmet.push({key:'SWM',end:+new Date(),begin:window.navmet.tmp});
+
+window.navmet.tmp=+new Date();
+
+window.navmet.push({key:'SearchBar',end:+new Date(),begin:window.navmet.tmp});
+
+window.navmet.tmp=+new Date();
+
+window.navmet.push({key:'Tools',end:+new Date(),begin:window.navmet.tmp});
+
+window.navmet.tmp=+new Date();window.navmet.push({key:'CrossShop',end:+new
+Date(),begin:window.navmet.tmp});
+
+window.navmet.tmp=+new Date();
+
+window.navmet.push({key:'Subnav',end:+new
+Date(),begin:window.navmet.tmp});window.navmet.tmp=+new
+Date();window.navmet.push({key:'PlatinumSubnav',end:+new
+Date(),begin:window.navmet.tmp});
+
+window.navmet.push({key:'NavBar',end:+new
+Date(),begin:window.navmet.main});window.navmet.tmp=+new Date();<!--
+window.$Nav && $Nav.declare("config.navDeviceType", "desktop"); window.$Nav &&
+$Nav.when("data").run(function(data) {
+data({"emptyWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Mein
+Wunschzettel","url":"/gp/registry/wishlist/ref=nav_err_empty_wishlist/258-9917227-0010940"},"title":"
+","paragraph":"Ihre Liste ist
+leer"}}}},"yourAccountContent":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Mein
+Konto","url":"/gp/css/homepage.html/ref=nav_err_youraccount/258-9917227-0010940"},"title":"
+","paragraph":"Leider können die Kategorien vorübergehend nicht aufgerufen
+werden."}}}},"errorWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Mein
+Wunschzettel","url":"/gp/registry/wishlist/ref=nav_err_wishlist/258-9917227-0010940"},"title":"
+","paragraph":"Leider können die Kategorien vorübergehend nicht aufgerufen
+werden."}}}},"ewcTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Mein
+Einkaufswagen","url":"/gp/cart/view.html/ref=nav_err_ewc_timeout/258-9917227-0010940"},"title":"
+","paragraph":"Es gibt ein Problem Abrufen Einkaufswagen
+jetzt"}}}},"cartTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Mein
+Einkaufswagen","url":"/gp/cart/view.html/ref=nav_err_cart_timeout/258-9917227-0010940"},"title":"
+","paragraph":"Es gibt ein Problem Abrufen Einkaufswagen
+jetzt"}}}},"kindleTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"Leider
+können die Kategorien vorübergehend nicht aufgerufen
+werden."}}}},"shopAllTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"Leider
+können die Kategorien vorübergehend nicht aufgerufen
+werden."}}}},"primeTimeout":{"template":{"name":"flyoutError","data":{"error":{"title":"<a
+href='/gp/prime'><img src='https://images-eu.ssl-images-
+amazon.com/images/G/03/prime/yourprime/yourprime-widget-piv-
+fallback._V309896279_.jpg' /></a>"}}}}}); }); window.$Nav &&
+$Nav.when("util.templates").run("FlyoutErrorTemplate", function (templates) {
+templates.add("flyoutError", "<# if(error.title) { #><span class='nav-
+title'><#=error.title #></span><# } #><# if(error.paragraph) { #><p
+class='nav-paragraph'><#=error.paragraph #></p><# } #><# if(error.button) {
+#><a href='<#=error.button.url #>' class='nav-action-button' ><span
+class='nav-action-inner'><#=error.button.text #></span></a><# } #>"); });
+window.$Nav && $Nav.when("data").run(function(data) { data({}); });
+window.$Nav && $Nav.declare('config.navDebugHighres', false); window.$Nav &&
+$Nav.declare('config.upnavHighResImgInfo',
+{"upnav2xImageHeight":"","upnav2xImagePath":""}); window.$Nav &&
+$Nav.declare('config.upnav2xAiryPreloadImgInfo',
+{"preloadImgPath":"","preloadImgHeight":""}); window.$Nav &&
+$Nav.declare('config.upnav2xAiryPostSlateImgInfo',
+{"postslateImgHeight":"","postslateImgPath":""}); window.$Nav &&
+$Nav.declare('config.pageType', 'GPHelp'); window.$Nav &&
+$Nav.declare('config.subPageType', 'Help'); window.$Nav &&
+$Nav.declare('config.dynamicMenuUrl', '/gp/navigation/ajax/dynamic-
+menu.html/258-9917227-0010940'); window.$Nav &&
+$Nav.declare('config.dismissNotificationUrl',
+'/gp/navigation/ajax/dismissnotification.html/258-9917227-0010940');
+window.$Nav && $Nav.declare('config.fixedSubBarBeacon',false); window.$Nav &&
+$Nav.declare('config.enableDynamicMenus', true); window.$Nav &&
+$Nav.declare('config.isInternal', false); window.$Nav &&
+$Nav.declare('config.isRecognized', false); window.$Nav &&
+$Nav.declare('config.transientFlyoutTrigger', '#nav-transient-flyout-
+trigger'); window.$Nav && $Nav.declare('config.subnavFlyoutUrl',
+'/gp/navigation/ajax/subnav-flyout/258-9917227-0010940'); window.$Nav &&
+$Nav.declare('config.recordEvUrl',
+'/gp/navigation/ajax/recordevent.html/258-9917227-0010940'); window.$Nav &&
+$Nav.declare('config.recordEvInterval', 15000); window.$Nav &&
+$Nav.declare('config.sessionId', '258-9917227-0010940'); window.$Nav &&
+$Nav.declare('config.requestId', 'PTJB8XGMQ2Q4ZX69WR6G'); window.$Nav &&
+$Nav.declare('config.alexaListEnabled', true); window.$Nav &&
+$Nav.declare('config.readyOnATF', false); window.$Nav &&
+$Nav.declare('config.dynamicMenuArgs',
+{"rid":"PTJB8XGMQ2Q4ZX69WR6G","isFullWidthPrime":0,"isPrime":0,"dynamicRequest":1,"weblabs":"","isFreshRegionAndCustomer":"","primeMenuWidth":310});
+window.$Nav && $Nav.declare('config.signOutText', null); window.$Nav &&
+$Nav.declare('config.customerName', false); window.$Nav &&
+$Nav.declare('config.yourAccountPrimeURL', null); window.$Nav &&
+$Nav.declare('config.yourAccountPrimeHover', true); window.$Nav &&
+$Nav.declare('config.searchBackState', {}); if (typeof uet == 'function') {
+uet('bb', 'iss-init-pc', {wb: 1}); } if (!window.$SearchJS && window.$Nav) {
+window.$SearchJS = $Nav.make('sx'); } var opts = { host:
+"completion.amazon.co.uk/search/complete" , marketId: "4" ,
+obfuscatedMarketId: "A1PA6795UKMFR9" , searchAliases: ["aps", "amazonfresh",
+"stripbooks", "popular", "clothing", "dvd", "instant-video", "handmade",
+"handmade-jewelry", "handmade-home-and-kitchen", "prime-instant-video", "shop-
+instant-video", "dvd-bypost", "electronics", "sports", "videogames", "toys",
+"jewelry", "watches", "drugstore", "baby", "software", "magazines", "vhs",
+"automotive", "english-books", "pantry", "photo", "computer", "kitchen",
+"luggage", "beauty", "outdoor", "diy", "classical", "bags", "shoes", "shoes-
+eu", "music-song", "mp3-downloads", "prime-digital-music", "digital-music",
+"digital-music-track", "digital-music-album", "digital-text", "lighting",
+"office-products", "outlet", "apparel-outlet", "shoes-outlet", "watches-
+outlet", "jewelry-outlet", "sports-outlet", "grocery", "computers", "pets",
+"mi", "videogames-tradein", "appliances", "gift-cards", "mobile-apps",
+"tradein-aps", "audiobooks", "warehouse-deals", "luxury-beauty", "banjo-apps",
+"industrial", "alcohol", "alexa-skills", "fashion"] , filterAliases: [] ,
+isDoCtw: 0 , pageType: "GPHelp" , requestId: "PTJB8XGMQ2Q4ZX69WR6G" ,
+sessionId: "258-9917227-0010940" , language: "de_DE" , customerId: "" ,
+keydownTriggeredWeblabs: [] , displayTriggeredWeblabs: [] , isDdInT3: 0 ,
+isDdInT1: 0 , isJpOrCn: 0 , isUseAuiIss: 1 }; var issOpts = { fallbackFlag: 1
+, isDigitalFeaturesEnabled: 0 , isWayfindingEnabled: 0 , issPrimeEligible:
+["prime-digital-music"] , dropdown: "select.searchSelect" , departmentText:
+"in {department}" , suggestionText: "Suchvorschläge" ,
+emphasizeSuggestionsTreatment: "C" , useLargerSuggestionText: "" ,
+crossCategoryEmphasisTreatment: "T2" ,
+showSuggestionsOnSearchboxFocusTreatment: "0" , recentSearchesTreatment: "C" ,
+recentSearchesText: "Letzte Suchen" , issNavConfigTreatment: "" ,
+issServiceAsSourceTreatment: "1" , isTriggerIssOnClick: 0 , np: 0 , issCorpus:
+[] , cf: 1 }; if (opts.isUseAuiIss === 1 && window.$Nav) {
+window.$Nav.when('sx.iss').run('iss-mason-init', function(iss){ var issInitObj
+= buildIssInitObject(opts, issOpts, true); if
+(issInitObj.issNavConfigTreatment) { new iss.NavConfigProvider(issInitObj);
+window.$Nav.when('sx.iss.navready').run('iss-nav-mason-init', function(cfg) {
+new iss.IssParentCoordinator(cfg); }); } else { new
+iss.IssParentCoordinator(issInitObj); }
+tryInitClientTriggeredWeblabs(issInitObj); }); } else if (window.$SearchJS) {
+var iss; // BEGIN Deprecated globals var issHost = opts.host , issMktid =
+opts.marketId , issSearchAliases = opts.searchAliases , updateISSCompletion =
+function() { iss.updateAutoCompletion(); }; // END deprecated globals
+$SearchJS.when('jQuery', 'search-js-autocomplete-lib').run('autocomplete-
+init', initializeAutocomplete);
+$SearchJS.when('canCreateAutocomplete').run('createAutocomplete',
+createAutocomplete); if (opts.isDdInT3) { $SearchJS.when('search-js-
+autocomplete').run('autocomplete-dd-init', function(){ mergeBTFDropdown(); });
+} if (opts.isDdInT1) { $SearchJS.when('search-js-
+autocomplete').run('autocomplete-dd-init', function(){ searchDropdown(); }); }
+} // END conditional for window.$SearchJS function
+initializeAutocomplete(jQuery) { var issInitObj = buildIssInitObject(opts,
+issOpts); tryInitClientTriggeredWeblabs(issInitObj); } // END
+initializeAutocomplete function tryInitClientTriggeredWeblabs(issInitObj) { if
+(opts.isDoCtw) { $SearchJS.importEvent('search-csl'); $SearchJS.when('search-
+csl').run('autocomplete-csl-init', function delegateToInitSearchCsl(searchCSL)
+{ initSearchCsl( searchCSL, issInitObj ); } ); } else {
+$SearchJS.declare('canCreateAutocomplete', issInitObj); } } function
+initSearchCsl(searchCSL, issInitObject) { searchCSL.init(opts.pageType,
+(window.ue && window.ue.rid) || opts.requestId); var keydownCtw =
+opts.keydownTriggeredWeblabs; var displayCtw = opts.displayTriggeredWeblabs;
+issInitObject.doCTWKeydown = function(e) { for (var i = 0; i <
+keydownCtw.length; i++) { searchCSL.addWlt(keydownCtw[i].call ?
+keydownCtw[i](e) : keydownCtw[i]); } }; issInitObject.doCTWDisplay =
+function(data) { for (var i = 0; i < displayCtw.length; i++) {
+searchCSL.addWlt(displayCtw[i].call ? displayCtw[i](data) : displayCtw[i]); }
+}; $SearchJS.declare('canCreateAutocomplete', issInitObject); } // END
+initSearchCsl function createAutocomplete(issObject) { iss = new
+AutoComplete(issObject); $SearchJS.publish('search-js-autocomplete', iss);
+logMetrics(); } // END createAutocomplete function buildIssInitObject(opts,
+issOpts, isNewIss) { var issInitObj = { src: opts.host , sessionId:
+opts.sessionId , requestId: opts.requestId , mkt: opts.marketId , obfMkt:
+opts.obfuscatedMarketId , pageType: opts.pageType , language: opts.language ,
+customerId: opts.customerId , aliases: opts.searchAliases , fb:
+issOpts.fallbackFlag , isDigitalFeaturesEnabled:
+issOpts.isDigitalFeaturesEnabled , isWayfindingEnabled:
+issOpts.isWayfindingEnabled , issPrimeEligible: issOpts.issPrimeEligible ,
+deptText: issOpts.departmentText , sugText: issOpts.suggestionText ,
+filterAliases: opts.filterAliases , emphasizeSuggestionsTreatment:
+issOpts.emphasizeSuggestionsTreatment , useLargerSuggestionText:
+issOpts.useLargerSuggestionText , crossCategoryEmphasisTreatment:
+issOpts.crossCategoryEmphasisTreatment ,
+showSuggestionsOnSearchboxFocusTreatment:
+issOpts.showSuggestionsOnSearchboxFocusTreatment , recentSearchesTreatment:
+issOpts.recentSearchesTreatment , recentSearchesText:
+issOpts.recentSearchesText , issNavConfigTreatment:
+issOpts.issNavConfigTreatment , issServiceAsSourceTreatment:
+issOpts.issServiceAsSourceTreatment , cf: issOpts.cf , ime: opts.isJpOrCn ,
+mktid: opts.marketId , qs: opts.isJpOrCn , issCorpus: issOpts.issCorpus ,
+deepNodeISS: { searchAliasAccessor: function($) { return
+(window.SearchPageAccess && window.SearchPageAccess.searchAlias()) ||
+$('select.searchSelect').children().attr('data-root-alias'); },
+searchAliasDisplayNameAccessor: function() { return (window.SearchPageAccess
+&& window.SearchPageAccess.searchAliasDisplayName()); } } }; // If we aren't
+using the new ISS then we need to add these properties if (!isNewIss) {
+issInitObj.dd = issOpts.dropdown; // The element with id searchDropdownBox
+doesn't exist in C. issInitObj.imeSpacing = issOpts.imeSpacing;
+issInitObj.isNavInline = 1; issInitObj.triggerISSOnClick = 0; issInitObj.sc =
+1; issInitObj.np = issOpts.np; } return issInitObj; } // END
+buildIssInitObject function logMetrics() { if (typeof uet == 'function' &&
+typeof uex == 'function' ) { uet('be', 'iss-init-pc', {wb: 1}); uex('ld',
+'iss-init-pc', {wb: 1}); } } // END logMetrics window.$Nav &&
+$Nav.declare('nav.inline'); (function (i) { i.onload = function() {window.uet
+&& uet('ne')}; i.src = window._navbarSpriteUrl; }(new Image())); window.$Nav
+&& $Nav.declare('config.autoFocus', false); window.$Nav &&
+$Nav.declare('config.responsiveTouchAgents', ["ieTouch"]); window.$Nav &&
+$Nav.declare('config.responsiveGW',false); window.$Nav &&
+$Nav.declare('config.pageHideEnabled',false); window.$Nav &&
+$Nav.declare('config.sslTriggerType',''); window.$Nav &&
+$Nav.declare('config.sslTriggerRetry',0); window.$Nav &&
+$Nav.declare('config.doubleCart',false); window.$Nav &&
+$Nav.declare('config.fixedBarBeacon',false); window.$Nav &&
+$Nav.declare('config.signInOverride', true); window.$Nav &&
+$Nav.declare('config.signInTooltip',false); window.$Nav &&
+$Nav.declare('config.isPrimeMember',false); window.$Nav &&
+$Nav.declare('config.packardGlowTooltip', false); window.$Nav &&
+$Nav.declare('config.packardGlowFlyout', false); window.$Nav &&
+$Nav.declare('config.flyoutAnimation', false); window.$Nav &&
+$Nav.declare('config.campusActivation', ''); window.$Nav &&
+$Nav.declare('config.primeTooltip',{url:'/gp/prime/digital-
+adoption/navigation-bar/258-9917227-0010940'}); window.$Nav &&
+$Nav.declare('config.primeDay',false); window.$Nav &&
+$Nav.declare('config.disableBuyItAgain', false); window.$Nav &&
+$Nav.declare('config.pseudoPrimeFirstBrowse',false); window.$Nav &&
+$Nav.declare('config.sdaYourAccount',false); window.$Nav &&
+$Nav.declare('config.csYourAccount',false); window.$Nav &&
+$Nav.declare('config.cartFlyoutDisabled', true); window.$Nav &&
+$Nav.declare('config.navfresh', false); window.$Nav &&
+$Nav.declare('config.isFreshRegion', false); window.$Nav &&
+$Nav.declare('config.ewc', false);if (window.ue && ue.tag) { ue.tag('noewc');
+} if (window.ue && ue.tag) { ue.tag('navbar'); }; window.$Nav &&
+$Nav.declare('config.blackbelt', true); window.$Nav &&
+$Nav.declare('config.beaconbelt', true); window.$Nav &&
+$Nav.declare('config.beaconbeltCover', false); window.$Nav &&
+$Nav.declare('config.accountList', false); window.$Nav &&
+$Nav.declare('config.pinnedNav',false); window.$Nav &&
+$Nav.declare('config.pinnedNavWithEWC',false); window.$Nav &&
+$Nav.declare('config.pinnedNavStart',700); window.$Nav &&
+$Nav.declare('config.pinnedNavMinWidth',1000); window.$Nav &&
+$Nav.declare('config.pinnedNavMinHeight',false); window.$Nav &&
+$Nav.declare('config.iPadTablet', false); window.$Nav &&
+$Nav.declare('config.searchapiEndpoint',false); window.$Nav &&
+$Nav.declare('config.timeline', false); window.$Nav &&
+$Nav.declare('config.timelineAsinPriceEnabled', false); window.$Nav &&
+$Nav.declare('config.timelineDeleteEnabled',false); window._navbar =
+window._navbar || {}; window._navbar.browsepromos =
+window._navbar.browsepromos || {}; _navbar.browsepromos['nav-sa-amazon-
+launchpad'] =
+{"width":"499","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"469","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/amazonlaunchpad/de/GNO/Launchpad_GN_DE._CB278967873_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-android'] =
+{"width":"460","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"0","height":"458","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/mas/retail/gateway/flyout/DE_FLYOUT_EVERGREEN_APPSTORE._CB312786905_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-apparel-shoes-watches'] =
+{"width":"485","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-10","height":"544","image":"https://images-
+eu.ssl-images-amazon.com/images/G/03/AMAZON-FASHION/2017/FASHION/PROMO/PRE-
+SALE/MERCH/SS17-PreSale_MERCH_FLYOUT._CB509502494_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-auto-bike'] =
+{"width":"540","promoType":"wide","vertOffset":"-40","tabletAltText":null,"horizOffset":"-40","height":"523","image":"https://images-
+eu.ssl-images-amazon.com/images/G/03/Automotive/Fly-
+outs/de_auto_09-10-2015_oil_flyout._CB291273947_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-baby-kids-toys'] =
+{"width":"540","promoType":"wide","vertOffset":"-39","tabletAltText":null,"horizOffset":"-40","height":"523","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/baby/amazonmom/extra/DE_Family_Flyout-_11042016._CB276418437_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-books'] =
+{"width":"509","promoType":"wide","vertOffset":"-9","tabletAltText":null,"horizOffset":"-20","height":"494","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/books/editorial/seasons/summer/DE_BOOKS_SUMMER_BOOK_STORE_ID_1046860_flyout_2._CB509596770_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-cloud-drive'] =
+{"width":"495","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"0","height":"427","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/digital/adrive/images/gno/de_cd_filler14_flyout_7._CB349057138_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-electronics-computers'] =
+{"width":"511","promoType":"wide","vertOffset":"-21","tabletAltText":null,"horizOffset":"-22","height":"431","image":"https://images-
+eu.ssl-images-amazon.com/images/G/03/electronics/00_Flyout/DE_CE_Graphic-
+Adaption_8-9-2015_flyout._CB312258393_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-fire-tv'] =
+{"width":"540","promoType":"wide","vertOffset":"-40","tabletAltText":null,"horizOffset":"-40","height":"523","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/kindle/merch/2017/campaign/czolg/xsite/tank_launch-
+flyout_gno-d-
+de._CB533814991_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-food-beverages-health-beauty'] =
+{"width":"540","promoType":"wide","vertOffset":"-40","tabletAltText":null,"horizOffset":"-30","height":"523","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/hpc/pca/evergreen/43634_DE_PCA_Evergreen_Flyout_3._CB272886279_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-handmade'] =
+{"width":"499","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"508","image":"https://images-
+eu.ssl-images-amazon.com/images/G/03/handmade/2017/flyout/DE-FR-IT--Handmade-
+flyouts-evergreen-
+ID_1039893_flyout_DE._CB529969706_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-home-garden-tools'] =
+{"width":"499","promoType":"wide","vertOffset":"-20,5","tabletAltText":null,"horizOffset":"-20,5","height":"473","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/tools/flyout/DE_HI_24_11_14_Flyouts3._CB319219601_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-instant-video'] =
+{"width":"520","promoType":"wide","vertOffset":"-20","tabletAltText":null,"horizOffset":"-21","height":"510","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/digital/video/AIV/GNO/4GegenDieBank_GNO_EST_520x510._CB509544628_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-kindle-amazon-echo'] =
+{"width":"522","promoType":"wide","vertOffset":"+1","tabletAltText":null,"horizOffset":"-35","height":"459","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/kindle/merch/2017/campaigns/lucida/ga/biscuit-
+flyout_gno-d-
+de-2._CB535386040_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-kindle-fire-tablet'] =
+{"width":"540","promoType":"wide","vertOffset":"-40","tabletAltText":null,"horizOffset":"-40","height":"523","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/kindle/merch/2017/campaign/tekglasaus/xsite/austin_launch_prime_pricing-
+flyout_gno-d-
+de._CB510439505_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-kindle-reader'] =
+{"width":"540","promoType":"wide","vertOffset":"-40","tabletAltText":null,"horizOffset":"-40","height":"523","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/kindle/merch/gno/2015/km_upd_03-flyout_gno-d-
+de._CB268486092_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-mp3'] =
+{"width":"538","promoType":"wide","vertOffset":"-40","tabletAltText":null,"horizOffset":"-39,5","height":"509","image":"https://images-
+eu.ssl-images-amazon.com/images/G/03/DE-digital-
+music/hawkfire/Launch/Banner/Gateway/DE_DM_HawkfireMerchLaunch_GNO_Flyout_Physical_NEU._CB508671676_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-music-games-film-tv'] =
+{"width":"539","promoType":"wide","vertOffset":"-40","tabletAltText":null,"horizOffset":"-40","height":"588","image":"https://images-
+eu.ssl-images-
+amazon.com/images/G/03/dvd/marcelrb/Fox/Juni/7TA/1048987_de_dvd_100-entertainment_flyout._CB507671058_.png","tabletDestination":null,"tabletImage":null};
+_navbar.browsepromos['nav-sa-sports-outdoors'] =
+{"width":"511","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-22","height":"465","image":"https://images-
+eu.ssl-images-amazon.com/images/G/03/sporting-
+goods/flyout/ghefl_2017-03-23T14-46_60d50a_DE_Sports_NEW-
+COLLECTION_22-03-2017_Flyout_2._CB531534132_.png","tabletDestination":null,"tabletImage":null};
+window.$Nav && $Nav.declare('config.browsePromos',
+window._navbar.browsepromos); window.$Nav &&
+$Nav.declare('config.extendedFlyout', false); window.$Nav &&
+$Nav.declare('configComplete'); \-->window.navmet.push({key:'PostNav',end:+new
+Date(),begin:window.navmet.tmp});window.navmet.tmp=+new
+Date();window.navmet.push({key:'TransientFlyout',end:+new
+Date(),begin:window.navmet.tmp});window.navmet.MainEnd = new
+Date();(window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-
+eu.ssl-images-amazon.com/images/I/01y5sX3vuOL.js?AUIClients/CSHelpHMDJS');
+
+if ( ! window.stageMarkers) { window.stageMarkers = {};
+window.stageMarkers.count = {}; window.stageMarkers.stage = function (stage,
+t) { window.stageMarkers.count[stage] = 1 + (window.stageMarkers.count[stage]
+? window.stageMarkers.count[stage] : 0); if (window.stageMarkers.count[stage]
+>= t) { if(typeof P !== 'undefined'){ P.trigger(stage); }else{
+amznJQ.completedStage(stage); } } } } #icp-touch-link-
+country{display:none}#icp-touch-link-
+language{display:none}(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var
+el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe
+id="DAsis" src="//aax-eu.amazon-
+adsystem.com/s/iu3?d=amazon.de&slot=navFooter&a2=01011feacf36e6440fbe8e699278e870d544230ba0f248bb714418e49b90e151c290&old_oo=0&cb=1496334691900"
+width="1" height="1" frameborder="0" marginwidth="0" marginheight="0"
+scrolling="no"></iframe>')},300)}); #nav-prime-tooltip{ padding: 0 20px 2px
+20px; background-color: white; font-family: arial,sans-serif; } .nav-npt-text-
+title{ font-family: arial,sans-serif; font-size: 18px; font-weight: bold;
+line-height: 21px; color: #E47923; } .nav-npt-text-detail, a.nav-npt-a{ font-
+family: arial,sans-serif; font-size: 12px; line-height: 14px; color: #333333;
+margin: 2px 0px; } a.nav-npt-a { text-decoration: underline; }  
+  
+window.$Nav && $Nav.when("data").run(function(data) {
+data({"AutoBikePanel":{"promoID":"nav-sa-auto-
+bike","template":{"name":"itemList","data":{"text":"Auto &
+Motorrad","items":[{"text":"Auto & Motorrad","items":[{"text":"Autoteile &
+-zubehör","url":"/auto-tuning-
+autoteile/b/ref=nav_shopall_am/258-9917227-0010940?ie=UTF8&node=78191031"},{"text":"Werkzeug
+&
+Wartung","url":"/b/ref=nav_shopall_toolseq/258-9917227-0010940?ie=UTF8&node=2611181031"},{"text":"Motorrad","url":"/Motorradreifen-
+Roller-
+Motorrad/b/ref=nav_shopall_mc/258-9917227-0010940?ie=UTF8&node=4606925031"},{"text":"Navigation
+& Car-Hi-Fi","url":"/Navigationssystems-Car-HiFi-
+Autoradios/b/ref=nav_shopall_hfn/258-9917227-0010940?ie=UTF8&node=236861011"}]}]}}},"IndustrialPanel":{"promoID":"nav-
+sa-industrial","template":{"name":"itemList","data":{"text":"Gewerbe,
+Industrie & Wissenschaft","items":[{"text":"Gewerbe, Industrie &
+Wissenschaft","items":[{"text":"Alles in Gewerbe, Industrie &
+Wissenschaft","url":"/Gewerbe-Industrie-
+Wissenschaft/b/ref=nav_shopall_indus/258-9917227-0010940?ie=UTF8&node=5866098031"},{"text":"Labor","url":"/Labor-
+wissenschaftliche-
+Produkte/b/ref=nav_shopall_lab/258-9917227-0010940?ie=UTF8&node=6587769031"},{"text":"Reinigung","url":"/Sanitaerbedarfs-
+Gebaeudereinigungsmittel/b/ref=nav_shopall_jan/258-9917227-0010940?ie=UTF8&node=6588210031"},{"text":"Sicherheit","url":"/Produkte-
+Arbeitsmedizin-
+Sicherheit/b/ref=nav_shopall_safety/258-9917227-0010940?ie=UTF8&node=6588776031"}]}]}}},"shopAllContent":{"template":{"name":"itemList","data":{"items":[{"text":"Amazon
+Video","panelKey":"InstantVideoPanel"},{"text":"Amazon
+Music","panelKey":"Mp3Panel"},{"subtext":"Apps & Spiele, Amazon
+Coins","text":"Amazon Appstore","subtextKey":"android-
+tagline","panelKey":"AndroidPanel"},{"text":"Prime Fotos und
+Drive","panelKey":"CloudDrivePanel"},{"text":"Echo &
+Alexa","panelKey":"KindleAmazonEchoPanel"},{"text":"Fire
+TV","panelKey":"FireTvPanel"},{"text":"Fire-
+Tablets","panelKey":"KindleFireTabletPanel"},{"text":"Kindle eReader &
+Bücher","panelKey":"KindleReaderPanel"},{"text":"Bücher &
+Audible","dividerBefore":"1","panelKey":"BooksPanel"},{"text":"Filme, Serien,
+Musik & Games","panelKey":"MusicGamesFilmTvPanel"},{"text":"Elektronik &
+Computer","panelKey":"ElectronicsComputersPanel"},{"text":"Haushalt, Garten,
+Baumarkt","panelKey":"HomeGardenToolsPanel"},{"text":"Beauty, Drogerie &
+Lebensmittel","panelKey":"FoodBeveragesHealthBeautyPanel"},{"text":"Spielzeug
+& Baby","panelKey":"BabyKidsToysPanel"},{"text":"Kleidung, Schuhe &
+Uhren","panelKey":"ApparelShoesWatchesPanel"},{"text":"Sport &
+Freizeit","panelKey":"SportsOutdoorsPanel"},{"text":"Auto &
+Motorrad","panelKey":"AutoBikePanel"},{"text":"Gewerbe, Industrie &
+Wissenschaft","panelKey":"IndustrialPanel"},{"text":"Handmade","panelKey":"HandmadePanel"},{"text":"Amazon
+Launchpad","dividerBefore":"1","panelKey":"AmazonLaunchpadPanel"},{"text":"Alle
+Kategorien","decorate":"carat","url":"/gp/site-
+directory/ref=nav_shopall_fullstore/258-9917227-0010940","dividerBefore":"1"}]}}},"KindleReaderPanel":{"promoID":"nav-
+sa-kindle-reader","template":{"name":"itemList","data":{"text":"Kindle eReader
+& Bücher","items":[{"text":"Kindle eReader","items":[{"subtext":"100% Buch.
+Ohne Ablenkungen. Ohne
+Spiegeleffekte.","text":"Kindle","url":"/dp/B0186FESVC/ref=nav_shopall_k_keanab/258-9917227-0010940"},{"subtext":"Unser
+meistverkaufter Kindle - jetzt noch besser","text":"Kindle
+Paperwhite","url":"/dp/B00QJDO0QC/ref=nav_shopall_k_dpmwi6/258-9917227-0010940"},{"subtext":"Aus
+Liebe zum Lesen","text":"Kindle
+Voyage","url":"/dp/B00IOY524S/ref=nav_shopall_k_dpvg7/258-9917227-0010940"},{"subtext":"Innovatives
+Design. Perfekt ausbalanciert","text":"Kindle
+Oasis","url":"/dp/B010EK1GOE/ref=nav_shopall_k_dpko/258-9917227-0010940"},{"subtext":"Hüllen,
+Ladegeräte, Sleeves und mehr","text":"Zubehör","url":"/Zubehoer-Amazon-
+Geraete-
+Kindle/b/ref=nav_shopall_k_kacceseink5/258-9917227-0010940?ie=UTF8&node=530884031"}]},{"text":"Kindle-
+Shop","dividerBefore":"1","items":[{"text":"Kindle eBooks","url":"/ebooks-
+kindle-
+buecher/b/ref=nav_shopall_kbo4/258-9917227-0010940?ie=UTF8&node=530886031"},{"text":"Englische
+eBooks","url":"/fremdsprachige-ebooks-kindle-
+buecher/b/ref=nav_shopall_kfb4/258-9917227-0010940?ie=UTF8&node=567135031"},{"subtext":"Grenzenloses
+Hör- & Lesevergnügen","text":"Kindle Unlimited","url":"/gp/kindle/ku/sign-
+up/ui/rw/about/ref=nav_shopall_kds/258-9917227-0010940"}]},{"text":"Inhalte
+und Verwaltung","columnBreak":"1","items":[{"subtext":"Für PC, iPad, iPhone,
+Android und mehr","text":"Gratis Kindle Lese-
+Apps","url":"/gp/digital/fiona/kcp-landing-
+page/ref=nav_shopall_krdg/258-9917227-0010940"},{"subtext":"Kindle eBooks im
+Browser lesen","text":"Kindle Cloud
+Reader","url":"https://www.amazon.de:443/gp/redirect.html/ref=nav_shopall_kcr/258-9917227-0010940?location=https://lesen.amazon.de/&token=1FFC583B23B3165AA95D1BA1D89BEA1F37FF6C16&source=standards","extra":"target=\"_blank\""},{"text":"Meine
+Inhalte und
+Geräte","url":"/gp/digital/fiona/manage/ref=nav_shopall_myk4/258-9917227-0010940"}]}]}}},"signinContent":{"html":"<div
+id='nav-signin-tooltip'><a href='/gp/navigation/redirector.html/ref=sign-in-
+redirect/258-9917227-0010940?ie=UTF8&amp;associationHandle=deflex&amp;currentPageURL=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin&amp;pageType=&amp;yshURL=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin'
+class='nav-action-button' data-nav-role='signin' data-nav-
+ref='nav_custrec_signin'><span class='nav-action-
+inner'>Anmelden</span></a><div class='nav-signin-tooltip-footer'>Neuer Kunde?
+<a
+href='https://www.amazon.de/ap/register/258-9917227-0010940?_encoding=UTF8&amp;openid.assoc_handle=deflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_newcust'
+class='nav-a'>Starten Sie
+hier.</a></div></div>"},"ElectronicsComputersPanel":{"promoID":"nav-sa-
+electronics-
+computers","template":{"name":"itemList","data":{"text":"Elektronik &
+Computer","items":[{"text":"Elektronik & Foto","items":[{"text":"Kamera &
+Foto","url":"/Kamera-Foto-Digitalkameras-Spiegelreflexkameras-
+Camcorder/b/ref=nav_shopall_p/258-9917227-0010940?ie=UTF8&node=571860"},{"text":"Smartphones
+& Zubehör","url":"/Handys-Smartphones-
+Handyvertr%C3%A4ge/b/ref=nav_shopall_wi/258-9917227-0010940?ie=UTF8&node=571954"},{"text":"TV,
+Fernseher & Heimkino","url":"/Heimkino-TV-
+Fernseher/b/ref=nav_shopall_av/258-9917227-0010940?ie=UTF8&node=761254"},{"text":"Audio
+&
+HiFi","url":"/b/ref=nav_shopall_ah/258-9917227-0010940?ie=UTF8&node=1966060031"},{"text":"Musikinstrumente
+& DJ-Equipment","url":"/Musikinstrumente-DJ-
+Equipment/b/ref=nav_shopall_mi/258-9917227-0010940?ie=UTF8&node=340849031"},{"text":"Navigation","url":"/Navigationssystems-
+Car-HiFi-
+Autoradios/b/ref=nav_shopall_gps/258-9917227-0010940?ie=UTF8&node=236861011"},{"text":"Elektronik-
+Zubehör","url":"/Elektronik-
+Zubeh%C3%B6r/b/ref=nav_shopall_ele_acc/258-9917227-0010940?ie=UTF8&node=569866"},{"text":"Konsolen
+& Games-Zubehör","url":"/Zubeh%C3%B6r-Hardware-
+Games/b/ref=nav_shopall_gd/258-9917227-0010940?ie=UTF8&node=700032"},{"text":"Haushaltsgeräte
+&
+Staubsauger","url":"/Haushaltsger%C3%A4te/b/ref=nav_shopall_es/258-9917227-0010940?ie=UTF8&node=3169211"},{"text":"Elektro-
+Großgeräte\n","url":"/Haushaltsger%C3%A4te-
+Hausger%C3%A4te/b/ref=nav_shopall_la/258-9917227-0010940?ie=UTF8&node=908823031"},{"text":"Alle
+Produkte","url":"/Elektronik-
+Foto/b/ref=nav_shopall_el/258-9917227-0010940?ie=UTF8&node=562066"}]},{"text":"Computer
+&
+Büro","columnBreak":"1","items":[{"text":"Notebooks","url":"/NoteBooks/b/ref=nav_shopall_desk/258-9917227-0010940?ie=UTF8&node=427957031"},{"text":"Tablets","url":"/Tablet-
+PCs/b/ref=nav_shopall_tablets/258-9917227-0010940?ie=UTF8&node=429874031"},{"text":"Computer-
+Zubehör","url":"/b/ref=nav_shopall_compz/258-9917227-0010940?ie=UTF8&node=514839031"},{"text":"PC-
+Komponenten","url":"/PC-
+Komponenten/b/ref=nav_shopall_compc/258-9917227-0010940?ie=UTF8&node=427956031"},{"text":"Software","url":"/Software/b/ref=nav_shopall_soft/258-9917227-0010940?ie=UTF8&node=301927"},{"text":"PC-
+& Video-Games","url":"/computer-video-spiele-games-
+konsolen/b/ref=nav_shopall_compg/258-9917227-0010940?ie=UTF8&node=300992"},{"text":"Games-
+Downloads","url":"/pc-mac-downloads-herunterladen-digital-
+steam/b/ref=nav_shopall_compgdl/258-9917227-0010940?ie=UTF8&node=1333619031"},{"text":"Drucker
+& Tintenpatronen","url":"/Tintenstrahldrucker-
+Laserdrucker/b/ref=nav_shopall_prin/258-9917227-0010940?ie=UTF8&node=427955031"},{"text":"Bürobedarf
+& Schreibwaren","url":"/B%C3%BCro-B%C3%BCromaterial-
+Schreibwaren-B%C3%BCrobedarf-B%C3%BCroartikel/b/ref=nav_shopall_op/258-9917227-0010940?ie=UTF8&node=192416031"}]}]}}},"FireTvPanel":{"promoID":"nav-
+sa-fire-tv","template":{"name":"itemList","data":{"text":"Fire
+TV","items":[{"text":"Video- und Spielespaß","items":[{"subtext":"4K Ultra HD
+Streaming Media Player mit Sprachsuche","text":"Amazon Fire
+TV","url":"/dp/B00UH2K93O/ref=nav_shopall_k_fire_tv_sloane/258-9917227-0010940"},{"subtext":"Die
+nächste Generation unseres Bestsellers, Fire TV Stick","text":"Der neue Fire
+TV
+Stick","url":"/dp/B01ETRIS3K/ref=nav_shopall_k_fire_tv_tank/258-9917227-0010940"},{"subtext":"Verbessern
+Sie Ihr Gaming-Erlebnis","text":"Amazon Fire TV-
+Gamecontroller","url":"/dp/B00ZPX9AHG/ref=nav_shopall_k_fire_tv_nefario/258-9917227-0010940"}]},{"text":"Filme,
+Serien und mehr","columnBreak":"1","items":[{"text":"Prime
+Video","url":"/Prime-
+Video/b/ref=nav_shopall_k_fire_tv_piv/258-9917227-0010940?ie=UTF8&node=3279204031"},{"text":"Amazon
+Video","url":"/Amazon-
+Video/b/ref=nav_shopall_k_fire_tv_aiv/258-9917227-0010940?ie=UTF8&node=3010075031"},{"text":"Apps
+& Spiele für Fire
+TV","url":"/b/ref=nav_shopall_k_fire_tv_apps_games/258-9917227-0010940?ie=UTF8&node=5862541031"},{"text":"Amazon
+Fotos &
+Drive","url":"/clouddrive/ref=nav_shopall_k_fire_tv_cd/258-9917227-0010940"}]}]}}},"ApparelShoesWatchesPanel":{"promoID":"nav-
+sa-apparel-shoes-
+watches","template":{"name":"itemList","data":{"text":"Kleidung, Schuhe &
+Uhren","items":[{"text":"Bekleidung &
+Schuhe","items":[{"text":"Damen","url":"/b/ref=nav_shopall_sl_gender_wom/258-9917227-0010940?ie=UTF8&node=12419317031"},{"text":"Herren","url":"/b/ref=nav_shopall_sl_gender_men/258-9917227-0010940?ie=UTF8&node=12419318031"},{"text":"Mädchen","url":"/b/ref=nav_shopall_sl_gender_girls/258-9917227-0010940?ie=UTF8&node=12419319031"},{"text":"Jungen","url":"/b/ref=nav_shopall_sl_gender_boys/258-9917227-0010940?ie=UTF8&node=12419320031"},{"text":"Baby","url":"/b/ref=nav_shopall_sl_gender_baby/258-9917227-0010940?ie=UTF8&node=12419321031"}]},{"text":"Accessoires","dividerBefore":"1","items":[{"text":"Schmuck","url":"/Schmuck-
+Charms-Ohrringe-
+Ketten/b/ref=nav_shopall_sl_de_jewelry/258-9917227-0010940?ie=UTF8&node=327472011"},{"text":"Uhren","url":"/Uhren/b/ref=nav_shopall_sl_de_watches/258-9917227-0010940?ie=UTF8&node=193707031"},{"text":"Handtaschen","url":"/Handtaschen/b/ref=nav_shopall_sl_de_hbags/258-9917227-0010940?ie=UTF8&node=1760236031"},{"text":"Koffer,
+Rucksäcke & Taschen","url":"/koffer-rucks%C3%A4cke-
+taschen/b/ref=nav_shopall_sl_de_luggage/258-9917227-0010940?ie=UTF8&node=2454118031"},{"text":"Sonnenbrillen","url":"/b/ref=nav_shopall_sl_de_sunglasses/258-9917227-0010940?ie=UTF8&node=6080655031"}]}]}}},"Mp3Panel":{"promoID":"nav-
+sa-mp3","template":{"name":"itemList","data":{"text":"Amazon
+Music","items":[{"text":"Musik streamen","items":[{"subtext":"40 Millionen
+Songs zum Streamen","text":"Amazon Music
+Unlimited","url":"/gp/dmusic/promotions/AmazonMusicUnlimited/258-9917227-0010940"},{"subtext":"2
+Millionen Songs zum Streamen","text":"Prime
+Music","url":"/b/ref=nav_shopall_dm_prime/258-9917227-0010940?ie=UTF8&node=5686557031"},{"text":"Meine
+Musikbibliothek","url":"/gp/dmusic/mp3/player/ref=nav_shopall_dm_library/258-9917227-0010940","dividerBefore":"1","extra":"target=\"_blank\""},{"text":"Amazon
+Music Apps","url":"/amazon-music-
+app/b/ref=nav_shopall_dm_apps/258-9917227-0010940?ie=UTF8&node=1949586031"},{"text":"Amazon
+Music und
+Alexa","url":"/b/ref=nav_shopall_dm_veronica/258-9917227-0010940?ie=UTF8&node=12807138031","dividerBefore":"1"}]},{"text":"Musik
+kaufen","dividerBefore":"1","items":[{"subtext":"Musik zum
+Anfassen","text":"CDs &
+Vinyl","url":"/b/ref=nav_shopall_dm_cds_vinyl/258-9917227-0010940?ie=UTF8&node=255882"},{"subtext":"Songs
+und Alben zum Herunterladen","text":"Musik-Downloads","url":"/MP3-Musik-
+Downloads/b/ref=nav_shopall_dm_store/258-9917227-0010940?ie=UTF8&node=77195031"}]}]}}},"MusicGamesFilmTvPanel":{"promoID":"nav-
+sa-music-games-film-tv","template":{"name":"itemList","data":{"text":"Filme,
+Serien, Musik & Games","items":[{"text":"Filme, Serien, Musik &
+Games","items":[{"text":"Amazon Video","url":"/Amazon-
+Video/b/ref=nav_shopall_aiv/258-9917227-0010940?ie=UTF8&node=3010075031"},{"text":"Alle
+DVDs & Blu-rays","url":"/dvd-blu-ray-filme-3D-vhs-
+video/b/ref=nav_shopall_dvd_blu/258-9917227-0010940?ie=UTF8&node=284266"},{"text":"Serien
+auf DVD & Blu-ray","url":"/TV-Serien-Produktionen-DVD-Blu-
+ray/b/ref=nav_shopall_tv_shows/258-9917227-0010940?ie=UTF8&node=508214"},{"text":"Blu-
+ray-Shop","url":"/Blu-ray-Filme-Neuheiten-
+Angebote/b/ref=nav_shopall_blu_ray/258-9917227-0010940?ie=UTF8&node=514450"},{"text":"LOVEFiLM
+DVD Verleih","url":"/LOVEFiLM-DVD-
+Verleih/b/ref=nav_shopall_lovefilm/258-9917227-0010940?ie=UTF8&node=3054250031"},{"text":"Musik-
+CDs &
+Vinyl","url":"/b/ref=nav_shopall_mu/258-9917227-0010940?ie=UTF8&node=255882","dividerBefore":"1"},{"text":"Klassische
+Musik","url":"/Klassik-Klassiche-Musik-
+CDs/b/ref=nav_shopall_cm/258-9917227-0010940?ie=UTF8&node=255966"},{"text":"Musik-
+Downloads","url":"/MP3-Musik-
+Downloads/b/ref=nav_shopall_dm/258-9917227-0010940?ie=UTF8&node=77195031"},{"text":"Musikinstrumente
+& DJ-Equipment","url":"/Musikinstrumente-DJ-
+Equipment/b/ref=nav_shopall_mi/258-9917227-0010940?ie=UTF8&node=340849031"},{"text":"Games","url":"/computer-
+video-spiele-games-
+konsolen/b/ref=nav_shopall_cvg/258-9917227-0010940?ie=UTF8&node=300992","dividerBefore":"1"},{"subtext":"Für
+Konsolen, PC und Mac","text":"Games-Downloads","url":"/pc-mac-downloads-
+herunterladen-digital-
+steam/b/ref=nav_shopall_dgs_gam/258-9917227-0010940?ie=UTF8&node=1333619031"},{}]}]}}},"CloudDrivePanel":{"promoID":"nav-
+sa-cloud-drive","template":{"name":"itemList","data":{"text":"Prime Fotos und
+Drive","items":[{"text":"Prime Fotos und
+Drive","items":[{"subtext":"Kostenfreier unbegrenzter Fotospeicherplatz mit
+Prime","text":"Prime
+Fotos","url":"/clouddrive/primephotos/ref=nav_shopall_acd_prime/258-9917227-0010940"},{"subtext":"Unbegrenzter
+Speicherplatz, plus 5 GB kostenlos mit Prime","text":"Amazon
+Drive","url":"/clouddrive/home/ref=nav_shopall_acd_about/258-9917227-0010940"},{"subtext":"Laden
+Sie die App für Mobilgeräte und Desktops herunter, um von überall auf Ihre
+Inhalte zuzugreifen","text":"Laden Sie die kostenlosen Apps
+herunter","url":"/clouddrive/home/ref=nav_shopall_acd_freeapps/258-9917227-0010940#download-
+section"},{"subtext":"Ihr Konto
+verwalten","text":"Anmelden","url":"/clouddrive/ref=nav_shopall_acd_urc/258-9917227-0010940?_encoding=UTF8&sf=1","extra":"target=\"_blank\""}]}]}}},"AmazonLaunchpadPanel":{"promoID":"nav-
+sa-amazon-launchpad","template":{"name":"itemList","data":{"text":"Amazon
+Launchpad","dividerBefore":"1","items":[{"text":"Amazon
+Launchpad","items":[{"subtext":"Steigern Sie Ihr
+Wohlbefinden","text":"Körperpflege\n","url":"/Koerperpflege/b/ref=nav_shopall_launch_body/258-9917227-0010940?ie=UTF8&node=9418396031"},{"subtext":"Stärken
+Sie lhren Körper und Geist","text":"Essen & Trinken","url":"/Essen-
+Trinken/b/ref=nav_shopall_launch_food/258-9917227-0010940?ie=UTF8&node=9418401031"},{"subtext":"Entdecken
+Sie die neueste Technik und Ausrüstung","text":"Elektronik
+","url":"/Elektronik/b/ref=nav_shopall_launch_gadgets/258-9917227-0010940?ie=UTF8&node=9418405031"},{"subtext":"Verschönern
+Sie Ihr
+Zuhause","text":"Haus","url":"/Haus/b/ref=nav_shopall_launch_house/258-9917227-0010940?ie=UTF8&node=9418415031"},{"subtext":"Spielerisch
+Fantasie und Kreativität fördern","text":"Spielzeug
+","url":"/Spielzeug/b/ref=nav_shopall_launch_toys/258-9917227-0010940?ie=UTF8&node=9418421031"},{"subtext":"Für
+einen aktiven Lebensstil","text":"Sport & Outdoor","url":"/Sport-
+Outdoor/b/ref=nav_shopall_launch_sports/258-9917227-0010940?ie=UTF8&node=9418413031"},{"subtext":"Das
+Sprungbrett für Innovationen","text":"Alle Produkte aus Amazon Launchpad
+","url":"/Amazon-
+Launchpad/b/ref=nav_shopall_launch_all/258-9917227-0010940?ie=UTF8&node=9418395031"},{"subtext":"Möchten
+Sie Ihr Produkt bei Amazon verkaufen?","text":"Sind Sie ein Start-
+up?","url":"/launchpad/signup/ref=nav_shopall_launch_launch/258-9917227-0010940"}]}]}}},"KindleFireTabletPanel":{"promoID":"nav-
+sa-kindle-fire-tablet","template":{"name":"itemList","data":{"text":"Fire-
+Tablets","items":[{"text":"Fire-Tablets","items":[{"subtext":"Unser
+meistverkauftes Tablet - jetzt noch besser","text":"Das neue Fire
+7\n","url":"/dp/B01J90P010/ref=nav_shopall_k_aus/258-9917227-0010940"},{"subtext":"Bis
+zu 12 Stunden Akku-Laufzeit. Brilliante Farbdarstellung. Starke
+Leistung.\n","text":"Neu - Fire HD
+8","url":"/dp/B01J94TL6Q/ref=nav_shopall_k_dou/258-9917227-0010940"},{"subtext":"Breitbildformat,
+designt für Entertainment","text":"Fire HD
+10","url":"/dp/B0189XZKXG/ref=nav_shopall_k_hd8/258-9917227-0010940"},{"subtext":"Sollte
+es kaputt gehen, ersetzen wir es. Versprochen.","text":"Das neue Fire 7 Kids
+Edition","url":"/dp/B01J90R8D8/ref=nav_shopall_k_aket/258-9917227-0010940"},{"subtext":"Unser
+bisher bestes Kids Edition-Tablet.\n","text":"Das neue Fire HD 8 Kids
+Edition","url":"/dp/B01J94S8KQ/ref=nav_shopall_k_dket/258-9917227-0010940"},{"subtext":"Hüllen,
+Ladegeräte, Sleeves und mehr","text":"Zubehör","url":"/Zubehoer-Amazon-
+Geraete-
+Kindle/b/ref=nav_shopall_k_acc/258-9917227-0010940?ie=UTF8&node=530884031"}]},{"text":"Inhalte
+und Verwaltung","columnBreak":"1","items":[{"text":"Amazon
+Video","url":"/Amazon-
+Video/b/ref=nav_shopall_k_aiv/258-9917227-0010940?ie=UTF8&node=3010075031"},{"text":"Apps
+&
+Spiele","url":"/b/ref=nav_shopall_k_apps/258-9917227-0010940?ie=UTF8&node=2656915031"},{"text":"Musik-
+Downloads","url":"/MP3-Musik-
+Downloads/b/ref=nav_shopall_k_mp3/258-9917227-0010940?ie=UTF8&node=77195031"},{"text":"Kindle
+eBooks","url":"/ebooks-kindle-
+buecher/b/ref=nav_shopall_k_books/258-9917227-0010940?ie=UTF8&node=530886031"},{"text":"Alle
+Hörbuch-Downloads","url":"/audible-h%C3%B6rbuch-
+downloads/b/ref=nav_shopall_k_aud/258-9917227-0010940?ie=UTF8&node=251105031"},{"text":"FreeTime
+Unlimited","url":"/b/ref=nav_shopall_k_ftu/258-9917227-0010940?ie=UTF8&node=7385957031"},{"text":"Meine
+Inhalte und
+Geräte","url":"/gp/digital/fiona/manage/ref=nav_shopall_k_myk/258-9917227-0010940"}]}]}}},"AndroidPanel":{"promoID":"nav-
+sa-android","template":{"name":"itemList","data":{"subtext":"Apps & Spiele,
+Amazon Coins","text":"Amazon Appstore","subtextKey":"android-
+tagline","items":[{"text":"Amazon Appstore","items":[{"subtext":"Apps und
+Spiele, die <strong>wirklich</strong> gratis sind","text":"Underground Apps &
+Spiele","url":"/b/ref=nav_shopall_adr_banjo/258-9917227-0010940?ie=UTF8&node=6369057031"},{"subtext":"Für
+Kindle Fire und Android-Geräte","text":"Alle Apps und Spiele","url":"/mobile-
+apps/b/ref=nav_shopall_adr_app/258-9917227-0010940?ie=UTF8&node=1661648031"},{"text":"Spiele","url":"/Spiele-
+Apps-Adroid-
+Fire/b/ref=nav_shopall_adr_gam/258-9917227-0010940?ie=UTF8&node=1720689031"},{"subtext":"Weniger
+ausgeben, mehr spielen","text":"Amazon
+Coins","url":"/gp/feature.html/ref=nav_shopall_adr_coins/258-9917227-0010940?ie=UTF8&docId=1000749413"},{"subtext":"Kindle,
+mobiles Shopping, MP3 und mehr","text":"Amazon
+Apps","url":"/b/ref=nav_shopall_adr_amz/258-9917227-0010940?ie=UTF8&node=4951330031","dividerBefore":"1"},{"subtext":"Ihre
+Apps in der Übersicht sowie Geräte-Einstellungen","text":"Ihre Apps und
+Geräte","url":"/gp/mas/your-
+account/myapps/ref=nav_shopall_adr_yad3/258-9917227-0010940"}]}]}}},"wishlistContent":{"template":{"name":"itemList","data":{"items":[{"text":"Neue
+Liste
+anlegen\n","url":"/gp/registry/wishlist/ref=nav__gno_createwl/258-9917227-0010940?ie=UTF8&triggerElementID=createList"},{"text":"Liste
+finden","url":"/gp/registry/search.html/ref=nav__gno_listpop_find/258-9917227-0010940?ie=UTF8&type=wishlist"},{"subtext":"Amazon
+Assistant installieren","text":"Artikel von überall
+speichern","url":"/gp/BIT/ref=nav__bit_v2_a0021/258-9917227-0010940"},{"text":"Hochzeitsliste","url":"/gp/wedding/homepage/ref=nav__gno_listpop_wr/258-9917227-0010940"},{"text":"Baby-
+Wunschliste","url":"/baby-
+reg/homepage/ref=nav__gno_listpop_br/258-9917227-0010940"}]}}},"SportsOutdoorsPanel":{"promoID":"nav-
+sa-sports-outdoors","template":{"name":"itemList","data":{"text":"Sport &
+Freizeit","items":[{"text":"Sport & Freizeit","items":[{"text":"Alle Sport-
+Produkte","url":"/sport-freizeit-
+sportartikel/b/ref=nav_shopall_asf/258-9917227-0010940?ie=UTF8&node=16435051"},{"text":"Camping
+& Outdoor","url":"/Camping-
+Outdoor/b/ref=nav_shopall_camp/258-9917227-0010940?ie=UTF8&node=16435151"},{"text":"Fitness","url":"/Fitness/b/ref=nav_shopall_fit/258-9917227-0010940?ie=UTF8&node=16435171"},{"text":"Fußball","url":"/Fu%C3%9Fball/b/ref=nav_shopall_fball/258-9917227-0010940?ie=UTF8&node=16435181"},{"text":"Radsport","url":"/Radsport/b/ref=nav_shopall_rad/258-9917227-0010940?ie=UTF8&node=16435211"},{"text":"Running","url":"/Running/b/ref=nav_shopall_running/258-9917227-0010940?ie=UTF8&node=16435231"},{"text":"Sportelektronik","url":"/pulsuhren-
+gps-
+ger%C3%A4te/b/ref=nav_shopall_mongps/258-9917227-0010940?ie=UTF8&node=190534011"},{"text":"Sportbekleidung","url":"/Sportbekleidung/b/ref=nav_shopall_spw/258-9917227-0010940?ie=UTF8&node=3772226031"},{"text":"Sportschuhe","url":"/Sportschuhe-
+Laufschuhe-
+Fu%C3%9Fballschuhe/b/ref=nav_shopall_sportshoes/258-9917227-0010940?ie=UTF8&node=1948670031"}]}]}}},"KindleAmazonEchoPanel":{"promoID":"nav-
+sa-kindle-amazon-echo","template":{"name":"itemList","data":{"text":"Echo &
+Alexa","items":[{"text":"Echo-Geräte","items":[{"subtext":"Immer verfügbar und
+schnell. Einfach fragen.","text":"Neu - Amazon
+Echo","url":"/dp/B01GAGVCUY/ref=nav_shopall_k_echo_doppler/258-9917227-0010940"},{"subtext":"Alexa
+für jeden Raum","text":"Neu - Echo
+Dot","url":"/dp/B01DFKBG54/ref=nav_shopall_k_echo_biscuit/258-9917227-0010940"}]},{"text":"Mehr
+Inhalte","dividerBefore":"1","items":[{"subtext":"Für Fire OS, Android, iOS
+und Desktop Browser","text":"Alexa
+App","url":"/gp/help/customer/display.html/ref=nav_shopall_k_echo_app/258-9917227-0010940?ie=UTF8&nodeId=201549920"},{"subtext":"Smart
+Home-Geräte mit Echo steuern","text":"Alexa Smart
+Home","url":"/b/ref=nav_shopall_k_echo_smarthome/258-9917227-0010940?ie=UTF8&node=11385944031"},{"subtext":"40
+Millionen Songs zum Streamen","text":"Amazon Music
+Unlimited","url":"/gp/dmusic/promotions/AmazonMusicUnlimited/ref=nav_shopall_k_echo_musicunlimited/258-9917227-0010940"},{"subtext":"Ihre
+Audible-Bibliothek einfach vorlesen lassen","text":"Audible-
+Hörbücher","url":"/audible-h%C3%B6rbuch-
+downloads/b/ref=nav_shopall_k_echo_audible/258-9917227-0010940?ie=UTF8&node=251105031"}]},{"text":"Alexa
+Skills","columnBreak":"1","items":[{"subtext":"Suchen Sie nach Skills in über
+25 Kategorien","text":"Alexa Skills","url":"/alexa-
+skills/b/ref=nav_shopall_k_a2s_all/258-9917227-0010940?ie=UTF8&node=10068460031"},{"subtext":"Entdecken
+Sie die Möglichkeiten Ihrer Stimme","text":"Was sind
+Skills?","url":"/b/ref=nav_shopall_k_a2s_help/258-9917227-0010940?ie=UTF8&node=11242735031"}]}]}}},"BabyKidsToysPanel":{"promoID":"nav-
+sa-baby-kids-toys","template":{"name":"itemList","data":{"text":"Spielzeug &
+Baby","items":[{"text":"Spielzeug &
+Baby","items":[{"text":"Spielzeug","url":"/spielzeug-brettspiele-baby-
+kleinkind/b/ref=nav_shopall_tg/258-9917227-0010940?ie=UTF8&node=12950651"},{"text":"Baby","url":"/baby-
+babyausstattung-
+babyartikel/b/ref=nav_shopall_ba/258-9917227-0010940?ie=UTF8&node=355007011"},{"text":"Babybekleidung
+&
+Babyschuhe","url":"/b/ref=nav_shopall_baby_clothing_shoes/258-9917227-0010940?ie=UTF8&node=12409931031"},{"text":"Brettspiele","url":"/Spiele-
+Brettspiele-Kinderspiele-Aktionsspiele-Haba-
+Monopoly/b/ref=nav_shopall_gbg/258-9917227-0010940?ie=UTF8&node=12956501"},{"text":"Baby-
+Wunschliste","url":"/baby-
+reg/homepage/ref=nav_shopall_babyreg/258-9917227-0010940"},{"subtext":"20% auf
+Windeln und exklusive Angebote","text":"Amazon
+Family","url":"/gp/family/signup/welcome/ref=nav_shopall_amzn_family/258-9917227-0010940"}]}]}}},"HomeGardenToolsPanel":{"promoID":"nav-
+sa-home-garden-tools","template":{"name":"itemList","data":{"text":"Haushalt,
+Garten, Baumarkt","items":[{"text":"Küche, Haushalt &
+Wohnen","items":[{"text":"Haushaltsgeräte &
+Staubsauger","url":"/Haushaltsger%C3%A4te/b/ref=nav_shopall_es/258-9917227-0010940?ie=UTF8&node=3169211"},{"text":"Kaffee
+& Espresso","url":"/Espressomaschinen-
+Kaffeemaschine/b/ref=nav_shopall_coffee/258-9917227-0010940?ie=UTF8&node=3310781"},{"text":"Elektro-
+Großgeräte\n","url":"/Haushaltsger%C3%A4te-
+Hausger%C3%A4te/b/ref=nav_shopall_la/258-9917227-0010940?ie=UTF8&node=908823031"},{"text":"Kochen
+& Essen","url":"/Kochen-Braten-Backen-K%C3%BCche-
+Haushalt/b/ref=nav_shopall_ki/258-9917227-0010940?ie=UTF8&node=257408011"},{"text":"Aufbewahren
+& Ordnen","url":"/aufbewahren-und-
+ordnen/b/ref=nav_shopall_storage/258-9917227-0010940?ie=UTF8&node=3437522031"},{"text":"Möbel
+& Wohnaccessoires","url":"/M%C3%B6bel-
+Dekoration/b/ref=nav_shopall_home_decor/258-9917227-0010940?ie=UTF8&node=3312261"},{"text":"Heimtextilien","url":"/Heimtextilien-
+Matratzen-
+Bettw%C3%A4sche/b/ref=nav_shopall_textiles/258-9917227-0010940?ie=UTF8&node=10176091"},{"text":"Beleuchtung","url":"/Beleuchtung/b/ref=nav_shopall_light/258-9917227-0010940?ie=UTF8&node=213083031"},{"text":"Alles
+in Küche, Haushalt & Wohnen","url":"/k%C3%83%C2%BCche-haushalt-
+wohnen/b/ref=nav_shopall_allkhprod/258-9917227-0010940?ie=UTF8&node=3167641"}]},{"text":"Baumarkt,
+Garten & Tier","columnBreak":"1","items":[{"text":"Elektro- &
+Handwerkzeuge","url":"/elektrowerkzeuge-
+handwerkzeuge/b/ref=nav_shopall_paht/258-9917227-0010940?ie=UTF8&node=2076939031"},{"text":"Elektrisches
+Gartenwerkzeug","url":"/Elektrisches-Gartenwerkzeug-Gartenger%C3%A4te-Elektro-
+Handwerkzeuge-
+Produkte/b/ref=nav_shopall_lawn/258-9917227-0010940?ie=UTF8&node=120589031"},{"text":"Elektroinstallation","url":"/elektroinstallation-
+steckdosen-
+zeitschaltuhr/b/ref=nav_shopall_electric/258-9917227-0010940?ie=UTF8&node=2076361031"},{"text":"Heizen
+& Kühlen","url":"/heizen-k%C3%BChlen-
+luftbefeuchtung/b/ref=nav_shopall_heatfan/258-9917227-0010940?ie=UTF8&node=2076254031"},{"text":"Küchen-
+&
+Badinstallation","url":"/badinstallation-k%C3%BCcheninstallation/b/ref=nav_shopall_bathplumb/258-9917227-0010940?ie=UTF8&node=2076820031"},{"text":"Smart
+Home","url":"/Smart-Home-
+Automation/b/ref=nav_shopall_inth/258-9917227-0010940?ie=UTF8&node=4816541031"},{"text":"Werkzeuge
+für Profis","url":"/professionelle-werkzeuge-f%C3%BCr-
+handwerker/b/ref=nav_shopall_profst/258-9917227-0010940?ie=UTF8&node=5490374031"},{"text":"Alles
+in Baumarkt","url":"/baumarkt-werkzeug-
+heimwerken/b/ref=nav_shopall_diy/258-9917227-0010940?ie=UTF8&node=80084031"},{"text":"Alle
+Garten-Produkte","url":"/garten-freizeit-grillen-gartenger%C3%83%C2%A4te-
+garteneinrichtung/b/ref=nav_shopall_lg/258-9917227-0010940?ie=UTF8&node=10925031"},{"text":"Alles
+für Tiere","url":"/Tierbedarf-
+Tiernahrung/b/ref=nav_shopall_ps/258-9917227-0010940?ie=UTF8&node=340852031"}]}]}}},"HandmadePanel":{"promoID":"nav-
+sa-
+handmade","template":{"name":"itemList","data":{"text":"Handmade","items":[{"text":"Handmade","items":[{"subtext":"Kaufen
+Sie einzigartige handgefertigte Produkte","text":"Alle Handmade-
+Produkte","url":"/handmade/b/ref=nav_shopall_HM_Home/258-9917227-0010940?ie=UTF8&node=9699311031"},{"text":"Schmuck","url":"/b/ref=nav_shopall_HM_Jewelry/258-9917227-0010940?ie=UTF8&node=10733080031"},{"text":"Handtaschen
+&
+Accessoires","url":"/b/ref=nav_shopall_HM_accessories/258-9917227-0010940?ie=UTF8&node=10733075031"},{"text":"Wohnaccessoires
+&
+Deko","url":"/b/ref=nav_shopall_HM_homedecor/258-9917227-0010940?ie=UTF8&node=10733126031"},{"text":"Bilder
+&
+Kunstwerke","url":"/b/ref=nav_shopall_HM_artwork/258-9917227-0010940?ie=UTF8&node=10733124031"},{"text":"Schreibwaren
+&
+Partybedarf","url":"/b/ref=nav_shopall_HM_stationery/258-9917227-0010940?ie=UTF8&node=10733081031"},{"text":"Kochen
+&
+Essen","url":"/b/ref=nav_shopall_HM_kitchen/258-9917227-0010940?ie=UTF8&node=10733123031"},{"text":"Bettwaren
+&
+Bettwäsche","url":"/b/ref=nav_shopall_HM_bedding/258-9917227-0010940?ie=UTF8&node=10733121031"},{"text":"Möbel","url":"/b/ref=nav_shopall_HM_furniture/258-9917227-0010940?ie=UTF8&node=10733125031"},{"text":"Baby","url":"/b/ref=nav_shopall_HM_baby/258-9917227-0010940?ie=UTF8&node=10733073031"},{"text":"Spielzeug
+&
+Spiele","url":"/b/ref=nav_shopall_HM_toysgames/258-9917227-0010940?ie=UTF8&node=10733082031"},{"subtext":"Entdecken
+Sie ausgewählte italienische Künstler","text":"Made in
+Italy","url":"/b/ref=nav_shopall_HM_mii/258-9917227-0010940?ie=UTF8&node=12440604031"}]}]}}},"yourAccountContent":{"template":{"name":"itemList","data":{"items":[{"text":"Mein
+Konto","url":"/gp/css/homepage.html/ref=nav_youraccount_ya/258-9917227-0010940"},{"text":"Meine
+Bestellungen","url":"/gp/css/order-
+history/ref=nav_youraccount_orders/258-9917227-0010940","id":"nav_prefetch_yourorders"},{"text":"Wunschzettel","url":"/gp/registry/wishlist/ref=nav_youraccount_wl/258-9917227-0010940?ie=UTF8&requiresSignIn=1"},{"text":"Empfehlungen","url":"/gp/yourstore/ref=nav_youraccount_recs/258-9917227-0010940"},{"text":"Spar-
+Abo verwalten","url":"/gp/subscribe-and-
+save/manager/viewsubscriptions/ref=nav_youraccount_sns/258-9917227-0010940"},{"text":"Meine
+Prime-
+Mitgliedschaft","url":"/gp/subs/primeclub/account/homepage.html/ref=nav_youraccount_prime/258-9917227-0010940"},{"text":"Unternehmenskonto
+erstellen","url":"/Amazon-
+Business/b/ref=nav_youraccount_deb2b_reg/258-9917227-0010940?ie=UTF8&node=11193178031"},{"text":"Meine
+Inhalte und
+Geräte","url":"/gp/digital/fiona/manage/ref=nav_youraccount_myk/258-9917227-0010940","dividerBefore":"1"},{"text":"Meine
+Amazon
+Channels","url":"/gp/video/subscriptions/manage/ref=nav_youraccount_nav_youraccount_myvs/258-9917227-0010940"},{"text":"Mein
+Prime
+Music","url":"/b/ref=nav_youraccount_pmu/258-9917227-0010940?ie=UTF8&node=5686557031"},{"text":"Amazon
+Music-
+Einstellungen","url":"/gp/dmusic/player/settings/ref=nav_youraccount_dm_ymussus_lp/258-9917227-0010940"},{"subtext":"Ehemals
+Cloud Player","text":"Meine
+Musikbibliothek","url":"/gp/dmusic/mp3/player/ref=nav_youraccount_cldplyr/258-9917227-0010940"},{"subtext":"Kostenfreier
+unbegrenzter<br />Fotospeicherplatz mit Prime","text":"Mein Amazon
+Drive","url":"/clouddrive/ref=nav_youraccount_clddrv/258-9917227-0010940"},{"subtext":"Unbegrenzt
+Filme und Serien streamen<br />mit Amazon Prime","text":"Mein Prime
+Video","url":"/Prime-
+Video/b/ref=nav_youraccount_piv/258-9917227-0010940?ie=UTF8&node=3279204031"},{"text":"Mein
+Kindle
+Unlimited","url":"/gp/kindle/ku/ku_central/ref=nav_youraccount_ku/258-9917227-0010940"},{"text":"Meine
+Watchlist","url":"/gp/video/watchlist/ref=nav_youraccount_ywl/258-9917227-0010940"},{"text":"Meine
+Video-
+Bibliothek","url":"/gp/video/library/ref=nav_youraccount_yvl/258-9917227-0010940"},{"text":"Meine
+LOVEFiLM
+Leihliste","url":"/gp/rentallist/ref=nav_youraccount_yrl/258-9917227-0010940"},{"text":"Meine
+Games- & Software-Bibliothek","url":"/gp/swvgdtt/your-account/manage-
+downloads.html/ref=nav_youraccount_gsl/258-9917227-0010940"},{"text":"Meine
+Apps & Geräte","url":"/gp/mas/your-
+account/myapps/ref=nav_youraccount_aad/258-9917227-0010940"}]}},"signInHtml":"<div
+id='nav-flyout-ya-signin' class='nav-flyout-content'><a
+href='/gp/navigation/redirector.html/ref=sign-in-
+redirect/258-9917227-0010940?ie=UTF8&amp;associationHandle=deflex&amp;currentPageURL=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin&amp;pageType=&amp;yshURL=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin'
+rel='nofollow' class='nav-action-button' data-nav-role='signin' data-nav-
+ref='nav_signin'><span class='nav-action-inner'>Anmelden</span></a><div
+id='nav-flyout-ya-newCust' class='nav_pop_new_cust nav-flyout-content'>Neuer
+Kunde? <a
+href='https://www.amazon.de/ap/register/258-9917227-0010940?_encoding=UTF8&amp;openid.assoc_handle=deflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_newcust'
+rel='nofollow' class='nav-a'>Starten Sie
+hier.</a></div></div>","wlTriggers":"98075:98076"},"BooksPanel":{"promoID":"nav-
+sa-books","template":{"name":"itemList","data":{"text":"Bücher &
+Audible","dividerBefore":"1","items":[{"text":"Bücher","items":[{"text":"Alle
+Bücher","url":"/b%C3%BCcher-buch-
+lesen/b/ref=nav_shopall_bo/258-9917227-0010940?ie=UTF8&node=186606"},{"text":"Kindle
+eBooks","url":"/ebooks-kindle-
+buecher/b/ref=nav_shopall_kbo/258-9917227-0010940?ie=UTF8&node=530886031"},{"text":"Kindle
+Unlimited","url":"/gp/kindle/ku/sign-
+up/ref=nav_shopall_ods_books_con_ku/258-9917227-0010940"},{"text":"Fremdsprachige
+Bücher","url":"/fremdsprachige-englische-b%C3%83%C2%BCcher-english-
+books/b/ref=nav_shopall_fbo/258-9917227-0010940?ie=UTF8&node=52044011"},{"text":"Fachbücher","url":"/fachb%C3%BCcher-
+fachbuch/b/ref=nav_shopall_probo/258-9917227-0010940?ie=UTF8&node=288100"},{"text":"Schulbücher
+& Lernhilfen","url":"/schule-
+lernen-b%C3%83%C2%BCcher/b/ref=nav_shopall_edubo/258-9917227-0010940?ie=UTF8&node=403432"},{"text":"Hörbücher","url":"/h%C3%83%C2%B6rb%C3%83%C2%BCcher-h%C3%83%C2%B6rbuch-h%C3%83%C2%B6rspiel-h%C3%83%C2%B6rspiele/b/ref=nav_shopall_abo/258-9917227-0010940?ie=UTF8&node=300259"},{"text":"Amazon
+Student","url":"/gp/student/signup/info/ref=nav_shopall_studentbooks/258-9917227-0010940","dividerBefore":"1"}]},{"text":"Audible
+Hörbücher","dividerBefore":"1","items":[{"subtext":"30 Tage kostenlos
+testen","text":"Audible-
+Abo","url":"/dp/B00NTQ6K7E/ref=nav_shopall_aud_mem/258-9917227-0010940"},{"text":"Alle
+Hörbuch-Downloads","url":"/audible-h%C3%B6rbuch-
+downloads/b/ref=nav_shopall_aud_bks/258-9917227-0010940?ie=UTF8&node=251105031"},{"subtext":"Nahtlos
+zwischen Lesen und Hören wechseln","text":"Whispersync for
+Voice","url":"/b/ref=nav_shopall_aud_wfv/258-9917227-0010940?ie=UTF8&node=4824719031"}]}]}}},"cartContent":{"html":"<div
+id='nav-cart-flyout' class='nav-empty nav-flyout-content' data-one='{count}
+Artikel' data-many='{count} Artikel'><div class='nav-dynamic-full'><div
+id='nav-cart-standard' class='nav-cart-content'><a
+href='/gp/cart/view.html/ref=nav_flyout_viewcart/258-9917227-0010940?ie=UTF8&amp;hasWorkingJavascript=1'
+class='nav-cart-title'>Artikel in Ihrem Einkaufswagen</a><div class='nav-cart-
+subtitle'></div><div class='nav-cart-items'></div></div><div id='nav-cart-
+pantry' class='nav-cart-content' data-box='{count} Karton' data-boxes='{count}
+Kartons' data-box-filled='{pct}% gefüllt' data-boxes-filled='{pct}% des
+aktuellen Kartons gefüllt'><a
+href='/gp/cart/view.html/ref=nav_flyout_viewcart/258-9917227-0010940?ie=UTF8&amp;hasWorkingJavascript=1'
+class='nav-cart-title'>Amazon Pantry Artikel</a><div class='nav-cart-
+subtitle'></div><div class='nav-cart-items'></div></div><div id='nav-cart-
+fresh' class='nav-cart-content'><a
+href='/gp/cart/view.html/ref=nav_flyout_viewcart/258-9917227-0010940?ie=UTF8&amp;hasWorkingJavascript=1'
+class='nav-cart-title'><img id='nav-cart-fresh-logo' src='https://images-
+eu.ssl-images-amazon.com/images/G/03/gno/ec-logo-fresh-
+color._CB533346845_.png'></a><div class='nav-cart-subtitle'></div><div
+class='nav-cart-items'></div></div></div><div class='nav-ajax-
+message'></div><div class='nav-dynamic-empty'><p class='nav_p nav-bold nav-
+cart-empty'> Ihr Einkaufswagen ist leer.</p><p class='nav_p '> Nutzen Sie ihn
+und befüllen Sie ihn mit Büchern, Filmen, Spielsachen, Elektronikartikeln und
+mehr.</p><p class='nav_p '> Wenn Sie bereits ein Kundenkonto besitzen, <a
+href='/gp/navigation/redirector.html/ref=sign-in-
+redirect/258-9917227-0010940?ie=UTF8&associationHandle=deflex&currentPageURL=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin_cart&pageType=&yshURL=https%3A%2F%2Fwww.amazon.de%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin_cart'
+class='nav_a'>melden Sie sich an</a>.</p></div><div class='nav-ajax-error-
+msg'><p class='nav_p nav-bold'> Es gibt gegenwärtig ein Problem mit der
+Vorschau Ihres Einkaufswagen.</p><p class='nav_p '> Überprüfen Sie Ihre
+Internetverbindung und <a
+href='/gp/cart/view.html/ref=nav_flyout_viewcart/258-9917227-0010940?ie=UTF8&hasWorkingJavascript=1'
+class='nav_a'>gehen Sie zu Ihrem Einkaufswagen</a>, oder <a
+href='javascript:void(0);' class='nav_a nav-try-again'>versuchen Sie es
+erneut</a>.</p></div><div id='nav-cart-footer'><a
+href='/gp/cart/view.html/ref=nav_flyout_viewcart/258-9917227-0010940?ie=UTF8&amp;hasWorkingJavascript=1'
+id='nav-cart-menu-button' class='nav-action-button'><span class='nav-action-
+inner'>Einkaufswagen ansehen<span id='nav-cart-menu-button-count' ><span
+id='nav-cart-zero'>(<span class='nav-cart-count'>0</span> Artikel)</span><span
+id='nav-cart-one' style='display: none;'>(<span class='nav-cart-
+count'>0</span> Artikel)</span><span id='nav-cart-many' style='display:
+none;'>(<span class='nav-cart-count'>0</span>
+Artikel)</span></span></span></a></div></div>"},"InstantVideoPanel":{"promoID":"nav-
+sa-instant-video","template":{"name":"itemList","data":{"text":"Amazon
+Video","items":[{"text":"Amazon Video","items":[{"subtext":"Alle Filme und
+Serien, die Sie direkt ansehen können","text":"Amazon Video","url":"/Amazon-
+Video/b/ref=nav_shopall_aiv/258-9917227-0010940?ie=UTF8&node=3010075031"},{"subtext":"Unbegrenzter
+Film- und Seriengenuss","text":"Prime Video","url":"/Prime-
+Video/b/ref=nav_shopall_aiv_piv/258-9917227-0010940?ie=UTF8&node=3279204031"},{"subtext":"Buchen
+Sie Mubi, Syfy Horror, GEO und mehr","text":"Amazon
+Channels","url":"/gp/video/storefront/ref=nav_shopall_nav_sa_aos/258-9917227-0010940?ie=UTF8&filterId=OFFER_FILTER%3DSUBSCRIPTIONS"},{"subtext":"Leihen
+oder Kaufen von Filmen und Serien","text":"Kaufen und leihen","url":"/filme-
+serien-kaufen-leihen-streamen-
+downloaden/b/ref=nav_shopall_aiv_vid/258-9917227-0010940?ie=UTF8&node=3279205031"},{"subtext":"Videos
+hinzufügen zum späteren Ansehen","text":"Meine
+Watchlist","url":"/gp/video/watchlist/ref=nav_shopall_aiv_wlst/258-9917227-0010940","dividerBefore":"1"},{"subtext":"Ihre
+ausgeliehenen und gekauften Videos","text":"Meine Video-
+Bibliothek","url":"/gp/video/library/ref=nav_shopall_aiv_yvl/258-9917227-0010940"},{"subtext":"Fire
+Tablets, iPad, Spielekonsolen, TV-Geräte und viele mehr","text":"Auf vielen
+Geräten
+verfügbar","url":"/b/ref=nav_shopall_aiv_wtv/258-9917227-0010940?ie=UTF8&node=5573494031"}]}]}}},"FoodBeveragesHealthBeautyPanel":{"promoID":"nav-
+sa-food-beverages-health-
+beauty","template":{"name":"itemList","data":{"text":"Beauty, Drogerie &
+Lebensmittel","items":[{"text":"Beauty &
+Drogerie","items":[{"text":"Beauty","url":"/Parf%C3%BCmerie-Kosmetik-
+Beauty/b/ref=nav_shopall_bty/258-9917227-0010940?ie=UTF8&node=84230031"},{"text":"Premium
+Beauty","url":"/Premium-
+Beauty/b/ref=nav_shopall_lbty/258-9917227-0010940?ie=UTF8&node=3765352031"},{"text":"Männerpflege","url":"/m%C3%A4nnerpflege-
+rasiermesser-
+rasierer-m%C3%A4nnerparfum/b/ref=nav_shopall_men/258-9917227-0010940?ie=UTF8&node=4388424031"},{"text":"Drogerie,
+Körper- &
+Babypflege","url":"/Drogerie-K%C3%B6rperpflege/b/ref=nav_shopall_drog/258-9917227-0010940?ie=UTF8&node=64187031"},{"text":"Sanitätshaus","url":"/Medizinische-
+Geraete-
+Verbrauchsmaterialien/b/ref=nav_shopall_health/258-9917227-0010940?ie=UTF8&node=2860102031"}]},{"text":"Lebensmittel
+& Getränke","dividerBefore":"1","items":[{"text":"Lebensmittel & alkoholfreie
+Getränke","url":"/Lebensmittel-
+Getr%C3%A4nke/b/ref=nav_shopall_bev/258-9917227-0010940?ie=UTF8&node=340846031"},{"text":"Bier,
+Wein & Spirituosen","url":"/Bier-Wein-
+Spirituosen/b/ref=nav_shopall_wine/258-9917227-0010940?ie=UTF8&node=358556031"},{"subtext":"Bio,
+glutenfrei, laktosefrei, Fair Trade & vegan","text":"Bio & Clean
+Eating","url":"/b/ref=nav_shopall_bio/258-9917227-0010940?ie=UTF8&node=9501653031"},{"text":"AmazonFresh","url":"/b/ref=nav_shopall_grocery_fresh/258-9917227-0010940?_encoding=UTF8&node=6723195031"},{"text":"Sonderangebote","url":"/b/ref=nav_shopall_cons_deals/258-9917227-0010940?ie=UTF8&node=3599395031","dividerBefore":"1"},{"subtext":"Die
+Vorratskammer in der Box","text":"Amazon Pantry","url":"/amazon-
+pantry/b/ref=nav_shopall_prime_pantry/258-9917227-0010940?ie=UTF8&node=5787992031"},{"subtext":"5%
+sparen und kostenfreie Lieferung","text":"Spar-
+Abo","url":"/b/ref=nav_shopall_sns/258-9917227-0010940?ie=UTF8&node=365206031"}]}]}}},"templates":{"asin-
+promo":"<a href='<#=destination #>' class='nav_asin_promo'> <img src='<#=image
+#>' class='nav_asin_promo_img'/> <span
+class='nav_asin_promo_headline'><#=headline #></span> <span
+class='nav_asin_promo_info'> <span
+class='nav_asin_promo_title'><#=productTitle #></span> <span
+class='nav_asin_promo_title2'><#=productTitle2 #></span> <span
+class='nav_asin_promo_price'><#=price #></span> </span> <span
+class='nav_asin_promo_button nav-sprite'><#=button
+#></span></a>","discoveryPanelList":"<# var renderItems = function(items) { #>
+<span class='nav-dp-title nav-item'> Deliveries at a glance <div class='nav-
+divider-container'><div class='nav-divider'></div></div></span> <#
+jQuery.each(items, function (i, item) { #> <span class='nav-item'> <a
+href='<#=item.order_link#>' class='nav-dp-link'> <span class='nav-dp-left-
+column'> <img src='<#=item.image#>' class='nav-dp-image'/> </span> <span
+class='nav-dp-right-column'> <span class='nav-dp-text <#=item.status#>'>
+<#=item.status_text#> <br/> </span> <# if(item.secondary_status_text) { #>
+<span class='nav-dp-text-secondary <#=item.status#>'>
+<#=item.secondary_status_text#> </span> <# } #> </span> </a> <div class='nav-
+divider-container'><div class='nav-divider'></div></div> </span> <# }); #> <a
+href='/your-orders/ref=nav_dp_ayo' class='nav-dp-link-emphasis'> View all
+orders </a><# }; #><# renderItems(items); #>","itemList":"<# var hasColumns =
+(function () { var checkColumns = function (_items) { if (!_items) { return
+false; } for (var i=0; i<_items.length; i++) { if (_items[i].columnBreak ||
+(_items[i].items && checkColumns(_items[i].items))) { return true; } } return
+false; }; return checkColumns(items);}()); #><# if(hasColumns) { #> <#
+if(items[0].image && items[0].image.src) { #> <div class='nav-column nav-
+column-first nav-column-image'> <# } else if (items[0].greeting) { #> <div
+class='nav-column nav-column-first nav-column-greeting'> <# } else { #> <div
+class='nav-column nav-column-first'> <# } #><# } #><# var renderItems =
+function(items) { #> <# jQuery.each(items, function (i, item) { #> <#
+if(hasColumns && item.columnBreak) { #> <# if(item.image && item.image.src) {
+#> </div><div class='nav-column nav-column-notfirst nav-column-break nav-
+column-image'> <# } else if (item.greeting) { #> </div><div class='nav-column
+nav-column-notfirst nav-column-break nav-column-greeting'> <# } else { #>
+</div><div class='nav-column nav-column-notfirst nav-column-break'> <# } #> <#
+} #> <# if(item.dividerBefore) { #> <div class='nav-divider'></div> <# } #> <#
+if(item.text || item.content) { #> <# if(item.url) { #> <a href='<#=item.url
+#>' class='nav-link <# } else {#> <span class=' <# } #> <# if(item.panelKey) {
+#> nav-hasPanel <# } #> <# if(item.items) { #> nav-title <# } #> <#
+if(item.decorate == 'carat') { #> nav-carat <# } #> <# if(item.decorate ==
+'nav-action-button') { #> nav-action-button <# } #> nav-item' <#
+if(item.extra) { #> <#=item.extra #> <# } #> <# if(item.id) { #>
+id='<#=item.id #>' <# } #> <# if(item.dataNavRole) { #> data-nav-
+role='<#=item.dataNavRole #>' <# } #> <# if(item.dataNavRef) { #> data-nav-
+ref='<#=item.dataNavRef #>' <# } #> <# if(item.panelKey) { #> data-nav-
+panelkey='<#=item.panelKey #>' role='navigation' aria-label='<#=item.text#>'
+<# } #> <# if(item.subtextKey) { #> data-nav-subtextkey='<#=item.subtextKey
+#>' <# } #> <# if(item.image && item.image.height > 16) { #> style='line-
+height:<#=item.image.height #>px;' <# } #> > <# if(item.decorate == 'carat') {
+#> <i class='nav-icon'></i> <# } #> <# if(item.image && item.image.src) { #>
+<img class='nav-image' src='<#=item.image.src #>'
+style='height:<#=item.image.height #>px; width:<#=item.image.width #>px;' />
+<# } #> <# if(item.text) { #> <span class='nav-text<# if(item.classname) { #>
+<#=item.classname #><# } #>'><#=item.text#><# if(item.badgeText) { #> <span
+class='nav-badge'><#=item.badgeText#></span> <# } #></span> <# } else if
+(item.content) { #> <span class='nav-content'><# jQuery.each(item.content,
+function (j, cItem) { #><# if(cItem.url && cItem.text) { #><a
+href='<#=cItem.url #>' class='nav-a'><#=cItem.text #></a><# } else if
+(cItem.text) { #><#=cItem.text#><# } #><# }); #></span> <# } #> <#
+if(item.subtext) { #> <span class='nav-subtext'><#=item.subtext #></span> <# }
+#> <# if(item.url) { #> </a> <# } else {#> </span> <# } #> <# } #> <#
+if(item.image && item.image.src) { #> <# if(item.url) { #> <a
+href='<#=item.url #>'> <# } #> <img class='nav-image' <# if(item.id) { #>
+id='<#=item.id #>' <# } #> src='<#=item.image.src #>' <# if (item.alt) { #>
+alt='<#= item.alt #>'<# } #>/> <# if(item.url) { #> </a> <# } #> <# } #> <#
+if(item.items) { #> <div class='nav-panel'> <# renderItems(item.items); #>
+</div> <# } #> <# }); #><# }; #><# renderItems(items); #><# if(hasColumns) {
+#> </div><# } #>","notificationsList":"<div class='nav-item nav-title'>
+Notifications</div><# jQuery.each(items || [], function (i, item) { #> <div
+class='nav-item<# if (item.type) { #> nav-noti-list-<#= item.type #><# } #><#
+if (item.image && item.image.src) { #> nav-noti-list-with-image<# } #>'> <# if
+(item.dismissId) { #> <div class='nav-noti-list-x' data-noti-id='<#=
+item.dismissId #>'>&times;</div> <# } #> <# if (item.image && item.image.src)
+{ #> <div class='nav-noti-list-image'> <img class='nav-noti-list-image-tag'
+src='<#= item.image.src #>' <# if (item.image.alt) { #> alt='<#=
+item.image.alt #>'<# } #> <# if (item.image.title) { #> title='<#=
+item.image.title #>'<# } #>/> </div> <# } #> <# if (item.heading) { #> <div
+class='nav-noti-list-heading'><#= item.heading #></div> <# } #> <#
+jQuery.each(item.content || [], function (j, itemContent) { #> <# if
+(itemContent.url) { #> <a href='<#= itemContent.url #>' class='nav-noti-list-
+content'> <# } else { #> <div class='nav-noti-list-content'> <# } #> <# if
+(itemContent.text) { #> <span class='nav-noti-list-text'><#= itemContent.text
+#></span> <# } #> <# if (itemContent.subtext) { #> <span class='nav-noti-list-
+subtext'><#= itemContent.subtext #></span> <# } #> <# if (itemContent.url) {
+#> </a> <# } else { #> </div> <# } #> <# }); #> </div><# });
+#>","discoveryPanelSummary":" <span class='nav-dp-title nav-item'> Deliveries
+at a glance <div class='nav-divider-container'><div class='nav-
+divider'></div></div></span> <# jQuery.each(items || [], function (i, item) {
+#> <span class='nav-item'> <span class='nav-dp-left-column'> <img
+src='<#=item.image.url#>' class='nav-dp-image'
+height='<#=item.image.height#>'/> </span> <span class='nav-dp-right-column'>
+<#=item.status_text#> <div class='nav-dp-secondary-row'> <a href='/your-
+orders/ref=nav_dp_ryo' class='nav-dp-link-emphasis'> Sign in to view orders
+</a> </div> </span> </span> <# }); #>","htmlList":" <# jQuery.each(items,
+function (i, item) { #> <div class='nav-item'> <#=item #> </div> <# });
+#>","subnav":"<# if (obj && obj.type === 'vertical') { #> <#
+jQuery.each(obj.rows, function (i, row) { #> <# if (row.flyoutElement ===
+'button') { #> <div class='nav_sv_fo_v_button' <# if (row.elementStyle) { #>
+style='<#= row.elementStyle #>' <# } #> > <a href='<#=row.url #>' class='nav-
+action-button nav-sprite'> <#=row.text #> </a> </div> <# } else if
+(row.flyoutElement === 'list' && row.list) { #> <# jQuery.each(row.list,
+function (j, list) { #> <div class='nav_sv_fo_v_column <#=(j === 0) ?
+'nav_sv_fo_v_first' : '' #>'> <ul class='<#=list.elementClass #>'> <#
+jQuery.each(list.linkList, function (k, link) { #> <# if (k === 0) {
+link.elementClass += ' nav_sv_fo_v_first'; } #> <li
+class='<#=link.elementClass #>'> <# if (link.url) { #> <a href='<#=link.url
+#>' class='nav_a'><#=link.text #></a> <# } else { #> <span
+class='nav_sv_fo_v_span'><#=link.text #></span> <# } #> </li> <# }); #> </ul>
+</div> <# }); #> <# } else if (row.flyoutElement === 'link') { #> <# if
+(row.topSpacer) { #> <div class='nav_sv_fo_v_clear'></div> <# } #> <div
+class='<#=row.elementClass #>'> <a href='<#=row.url #>'
+class='nav_sv_fo_v_lmargin nav_a'> <#=row.text #> </a> </div> <# } #> <# });
+#><# } else if (obj) { #> <div class='nav_sv_fo_scheduled'> <#= obj #>
+</div><# } #>","wishlist":"<# jQuery.each(wishlist, function (i, item) { #>
+<li class='nav_pop_li'> <a href='<#=item.url #>' class='nav_a'> <#=item.name
+#> </a> <div class='nav_tag'> <!-- TODO this logic should now be in dynamic-
+wish-list.mi --> <# if(typeof item.count !='undefined') { #> <#= (item.count
+== 1 ? '{count} Artikel' : '{count} Artikel') .replace('{count}', item.count)
+#> <# } #> </div> </li><# }); #>","cart":"<# jQuery.each(items, function (i,
+item) { #> <div class='nav-cart-item'> <a href='<#=item.url #>' class='nav-
+cart-item-link'> <img src='<#=item.img #>' class='nav-cart-item-image' />
+<span class='nav-cart-item-title'><#=item.name #></span> <# if (item.weight) {
+#> <span class='nav-cart-item-weight' style='display:none;'> <#=
+'Versandgewicht: {value} {unit}'.replace('{value}',
+item.weight.value).replace('{unit}', item.weight.unit) #> </span> <# } #> <#
+if (item.ourPrice) { #> <span class='nav-cart-item-
+buyingPrice'><#=item.ourPrice #></span> <# } #> <# if (item.scarcityMessage) {
+#> <span class='<#=item.scarcityClass #>'><#=item.scarcityMessage #></span> <#
+} #> <span class='nav-cart-item-quantity'> <#= 'Menge:
+{count}'.replace('{count}', item.qty) #> </span> </a> </div> <# if (i%2==1) {
+#> <div class='nav-cart-item-break'></div> <# } #><# }); #><div class='nav-
+cart-item-break'></div>"}}); });  window.$Nav &&
+$Nav.declare('config.prefetchUrls', ["https://images-eu.ssl-images-
+amazon.com/images/G/01/authportal/common/images/amznbtn-
+sprite03._CB395592492_.png","https://images-eu.ssl-images-
+amazon.com/images/G/03/authportal/common/images/amazon_logo_no-
+org_mid._CB143113074_.png","https://images-eu.ssl-images-
+amazon.com/images/G/03/authportal/flex/reduced-nav/ap-flex-reduced-
+nav-2.0._CB309248132_.js","https://images-eu.ssl-images-
+amazon.com/images/G/03/authportal/flex/reduced-nav/ap-flex-reduced-
+nav-2.1._CB343893857_.css","https://images-eu.ssl-images-
+amazon.com/images/G/03/gno/images/general/navAmazonLogoFooter._CB169459258_.gif","https://images-
+eu.ssl-images-amazon.com/images/G/03/gno/sprites/nav-sprite-
+global_bluebeacon-1x_optimized._CB530517474_.png","https://images-eu.ssl-
+images-amazon.com/images/G/03/x-locale/common/buttons/sign-in-
+secure._CB192194049_.gif","https://images-eu.ssl-images-
+amazon.com/images/G/03/x-locale/common/login/fwcim._CB508964025_.js","https://images-
+eu.ssl-images-amazon.com/images/G/03/x-locale/common/transparent-
+pixel._CB386942701_.gif","https://images-eu.ssl-images-
+amazon.com/images/G/03/x-locale/communities/social/snwicons_v2._CB402380168_.png","https://images-
+eu.ssl-images-amazon.com/images/G/03/x-locale/cs/help/images/spotlight/kindle-
+family-02b._CB369420141_.jpg","https://images-eu.ssl-images-
+amazon.com/images/G/03/x-locale/cs/orders/images/acorn._CB192558166_.gif","https://images-
+eu.ssl-images-amazon.com/images/G/03/x-locale/cs/orders/images/amazon-
+gc-100._CB192236811_.gif","https://images-eu.ssl-images-
+amazon.com/images/G/03/x-locale/cs/orders/images/amazon-
+gcs-100._CB192558166_.gif","https://images-eu.ssl-images-
+amazon.com/images/G/03/x-locale/cs/orders/images/btn-
+close._CB192558167_.gif","https://images-eu.ssl-images-
+amazon.com/images/G/03/x-locale/cs/projects/text-
+trace/texttrace_typ._CB353753409_.js","https://images-eu.ssl-images-
+amazon.com/images/G/03/x-locale/cs/ya/images/new-
+link._CB192235928_.gif","https://images-eu.ssl-images-
+amazon.com/images/G/03/x-locale/cs/ya/images/shipment_large_lt._CB192235641_.gif"]);
+window.$Nav && $Nav.declare('config.prefetch',function() { var pUrls =
+window.$Nav.getNow('config.prefetchUrls'); (window.AmazonUIPageJS ?
+AmazonUIPageJS : P).when('A').execute(function (A) { A.preload(pUrls); }); });
+/* */ (window.AmazonUIPageJS ? AmazonUIPageJS :
+P).when('A').execute(function(A){ if(A.preload){ A.preload('https://images-
+eu.ssl-images-
+amazon.com/images/I/01JFM6wegIL._RC|71CgjcRrmRL.js,51FItzGTRtL.js,01A18a0oAWL.js,41HuRj-
+puoL.js,010XVa0zfKL.js,01wBjiz9OvL.js,21QhSEq5BwL.js,31p47EklYvL.js,51p6hnDqAKL.js_.js?AUIClients/NavDesktopMetaAsset#desktop');
+A.preload('https://images-eu.ssl-images-
+amazon.com/images/I/61uwSN1YPVL._RC|01wj5zg4yGL.css,31+C8rQtOEL.css,21RvvLTgi8L.css,31AMpirNLiL.css,01NHva6qGRL.css,21v8Dl5WvML.css_.css?AUIClients/NavDesktopMetaAsset#desktop.language-
+de.de'); } }); window.$Nav && $Nav.declare('config.flyoutURL', null);
+window.$Nav && $Nav.declare('btf.lite'); window.$Nav &&
+$Nav.declare('btf.full'); window.$Nav && $Nav.declare('btf.exists');
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).register('navCF');
+{"origSessionId":"258-9917227-0010940","subPageType":"Help","pageType":"GPHelp","ASIN":null,"path":"/gp/help/customer/display.html","isAUI":"1"}
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('navCF').execute(function(){
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-eu.ssl-
+images-
+amazon.com/images/I/11QXqf0G81L.js?AUIClients/RetailWebsiteOverlayAUIAssets');
+});  P.when('jQuery', 'ready').execute(function(jQuery) {
+jQuery('a.expander').bind( 'click', function(event) { event.preventDefault();
+jQuery(this).parent().next().children().toggleClass('cs-none');
+jQuery(this).toggleClass('close'); } ); }); P.when('jQuery', 'a-popover',
+'ready').execute(function(jQuery, popover) { jQuery('.cs-help-pop-
+link').each(function() { var localContent = jQuery(this).attr('name') +
+'-content'; if (localContent) { jQuery(this).addClass('cs-link-hover');
+popover.create(jQuery(this), { closeButton: false, position:
+'triggerVerticalAlignLeft', content: jQuery('#' + localContent).html() }); }
+}); });  P.when('jQuery', 'cs-retail-help-autocomplete').execute(
+function(jQuery, helpCSTools) { var searchBoxId = 'helpsearch'; var
+hiddenInputId = 'searchAutocomplete'; var submitButtonId = 'helpSearchSubmit';
+jQuery( 'form[name="search-help"]' ).each( function( index ){ var searchFormJQ
+= jQuery( this ); var suggestionsFieldName = index + '-suggestions';
+helpCSTools[ suggestionsFieldName ] = new helpCSTools.searchSuggest(
+searchFormJQ, searchBoxId, hiddenInputId, submitButtonId ); helpCSTools[
+suggestionsFieldName ].init(); }); });  (window.AmazonUIPageJS ?
+AmazonUIPageJS : P).load.js('https://images-eu.ssl-images-
+amazon.com/images/I/21eBIU5F7PL.js?AUIClients/CSHelpSearchAutocompleteJS');
+
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-eu.ssl-
+images-amazon.com/images/I/315FJE7oClL.js?AUIClients/CSHelpVideoPlayerJS');
+window.ue_csm.cel_widgets = [ { c: "celwidget" } , { id: "fallbacksessionShvl"
+} , { id: "rhf" } ];
+
+(function(a){var
+b=document.ue_backdetect;b&&b.ue_back&&a.ue&&(a.ue.bfini=b.ue_back.value);a.uet&&a.uet("be");a.onLdEnd&&(window.addEventListener?window.addEventListener("load",a.onLdEnd,!1):window.attachEvent&&window.attachEvent("onload",a.onLdEnd));a.ueh&&a.ueh(0,window,"load",a.onLd,1);a.ue&&a.ue.tag&&(a.ue_furl&&a.ue_furl.split?(b=a.ue_furl.split("."))&&b[0]&&a.ue.tag(b[0]):a.ue.tag("nofls"))})(ue_csm);
+var ue_pty='GPHelp', ue_spty='Help', ue_pti='201909010';
+
+(function(g,h){function d(a,d){var b={};if(!e||!f)try{var
+c=h.sessionStorage;c?a&&("undefined"!==typeof
+d?c.setItem(a,d):b.val=c.getItem(a)):f=1}catch(g){e=1}e&&(b.e=1);return b}var
+b=g.ue||{},a="",f,e,c,a=d("csmtid");f?a="NA":a.e?a="ET":(a=a.val,a||(a=b.oid||"NI",d("csmtid",a)),c=d(b.oid),c.e||(c.val=c.val||0,d(b.oid,c.val+1)),b.ssw=d);b.tabid=a})(ue_csm,window);
+(function(b,c){var
+a=c.images;a&&a.length&&b.ue.count("totalImages",a.length)})(ue_csm,document);
+(function(k,h){function J(a){if(a)return a.replace(/^\s+|\s+$/g,"")}function
+z(a,d){if(!a)return{};var c="INFO"===d.logLevel;a.m&&a.m[l]&&(a=a.m);var
+b=d.m||d[l]||"",b=a.m&&a.m[l]?b+a.m[l]:a.m&&a.m.target&&a.m.target.tagName?b+("Error
+handler invoked by "+a.m.target.tagName+"
+tag"):a.m?b+a.m:a[l]?b+a[l]:b+"Unknown
+error",b={m:b,name:a.name,type:a.type,csm:K+"
+"+(a.fromOnError?"onerror":"ueLogError")},f,g,e=0;f=0;var
+m;g=h.location;b[n]=d[n]||u;d.adb&&(b.adb=d.adb);(f=d[q])&&(b[q]=""+f);if(!c){b[A]=
+d[A]||g&&g.href||"missing";b.f=a.f||a.sourceURL||a.fileName||a.filename||a.m&&a.m.target&&a.m.target.src;b.l=a.l||a.line||a.lineno||a.lineNumber;b.c=a.c?""+a.c:a.c;b.s=[];b.t=k.ue.d();if((c=a.stack||(a.err?a.err.stack:""))&&c.split)for(b.csm+="
+stack",f=c.split("\n");e<f.length&&b.s.length<B;)(c=f[e++])&&b.s.push(J(c));else
+for(b.csm+="
+callee",g=C(a.args||arguments,"callee"),f=e=0;g&&e<B;)m=x,g[s]||(c=g.toString())&&c.substr&&(m=0===f?4*x:m,m=1==f?2*x:m,b.s.push(c.substr(0,m)),f++),g=C(g,"caller"),
+e++;!b.f&&0<b.s.length&&(e=b,c=(e||{}).s||[],f=c[1]||"",c=(c[0]||"").match(L)||f.match(M))&&(e.f=c[1],e.l=c[2])}return
+b}function C(a,d){try{return a[d]}catch(c){}}function
+D(a,d){if(a&&!(p.ec>p.mxe)){p.ter.push(a);d=d||{};var
+c=a[n]||d[n];d[n]=c;d[q]=a[q]||d[q];c&&c!==u&&c!==N&&c!==O&&c!==P||k.ue_err.ec++;c&&c!=u||p.ecf++;y(a,d)}}function
+y(a,d){if(a){var c=z(a,d),b=d.channel||Q;if(ue.log.isStub&&h[v]&&h[v][w]){var
+f={};f[b]=c;try{var
+g=h[v][w]({rid:ue.rid,sid:k.ue_sid,mid:k.ue_mid,sn:k.ue_sn,reqs:[f]}),
+e=h[R],m;if(m=!(e[E]&&e[E](F,g))){var l;if(h[G]){var r=new
+h[G];r.onerror=t;r.ontimeout=t;r.onprogress=t;r.onload=t;r.timeout=0;l=r}else{var
+n;if(h[H]){var q=new h[H];n="withCredentials"in q?q:void 0}else n=void
+0;l=n}m=l}if(b=m){b.open("POST",F,!0);if(b[I])b[I]("Content-
+type","text/plain");b.send(g)}}catch(s){}}else
+k.ue.log(c,b,{nb:1});"function"===typeof
+p.elh&&p.elh(a,d);if(!a.fromOnError){g=h.console||{};b=g.error||g.log||t;f=h[v];e="Error
+logged with the Track&Report JS errors
+API(http://tiny/1covqr6l8/wamazindeClieUserJava): ";
+if(f&&f[w])try{e+=f[w](c)}catch(u){e+="no info provided; converting to string
+failed"}else e+=c.m;b.apply(g,[e,c])}}}var
+H="XMLHttpRequest",G="XDomainRequest",R="navigator",E="sendBeacon",w="stringify",v="JSON",n="logLevel",q="attribution",A="pageURL",s="skipTrace",I="setRequestHeader",l="message",t=function(){},F="//"+k.ue_furl+"/1/batch/1/OE/",p=k.ue_err,Q=k.ue_err_chan||"jserr",u="FATAL",N="ERROR",O="WARN",P="DOWNGRADED",K="v6",B=20,x=256,M=RegExp("
+(?([^ s]*):( d+): d+ )?".split(" ").join(String.fromCharCode(92))),
+L=/.*@(.*):(\d*)/;z[s]=1;D[s]=1;y[s]=1;(function(){for(var
+a,d=0;d<(p.erl||[]).length;d++)a=p.erl[d],y(a.ex,a.info);p.erl=[]})();k.ueLogError=D})(ue_csm,window);
+(function(c,d){var
+b=c.ue,a=d.navigator;b&&b.tag&&a&&(a=a.connection||a.mozConnection||a.webkitConnection)&&a.type&&b.tag("netInfo:"+a.type)})(ue_csm,window);
+(function(c,d){function h(a,b){for(var c=[],d=0;d<a.length;d++){var
+e=a[d],f=b.encode(e);if(e[k]){var
+g=b.metaSep,e=e[k],l=b.metaPairSep,h=[],m=void 0;for(m in
+e)e.hasOwnProperty(m)&&h.push(m+"="+e[m]);e=h.join(l);f+=g+e}c.push(f)}return
+c.join(b.resourceSep)}function s(a){var
+b=a[k]=a[k]||{};b[t]||(b[t]=c.ue_mid);b[u]||(b[u]=c.ue_sid);b[f]||(b[f]=c.ue_id);b.csm=1;a="//"+c.ue_furl+"/1/"+a[v]+"/1/OP/"+a[w]+"/"+a[x]+"/"+h([a],y);if(n)try{n.call(d[p],a)}catch(g){c.ue.sbf=1,(new
+Image).src=a}else(new Image).src= a}function
+q(){g&&g.isStub&&g.replay(function(a,b,c){a=a[0];b=a[k]=a[k]||{};b[f]=b[f]||c;s(a)});l.impression=s;g=null}if(!(1<c.ueinit)){var
+k="metadata",x="impressionType",v="foresterChannel",w="programGroup",t="marketplaceId",u="session",f="requestId",p="navigator",l=c.ue||{},n=d[p]&&d[p].sendBeacon,r=function(a,b,c,d){return{encode:d,resourceSep:a,metaSep:b,metaPairSep:c}},y=r("","?","&",function(a){return
+h(a.impressionData,z)}),z=r("/",":",",",function(a){return
+a.featureName+":"+h(a.resources, A)}),A=r(",","@","|",function(a){return
+a.id}),g=l.impression;n?q():(l.attach("load",q),l.attach("beforeunload",q));d.P&&d.P.register&&d.P.register("impression-
+client",function(){})}})(ue_csm,window);
+ue_csm.ue.exec(function(e,d,a){function
+b(a,b){return{name:a,getFeatureValue:function(){return void 0!==b|0}}}function
+h(a,b,c){return{name:a,getFeatureValue:function(){return b===c|0}}}function
+g(a,b){return{name:a,getFeatureValue:function(){for(var
+a=0;a<b.length;a++)if(void 0!==b[a])return 1;return 0}}}var
+f=e.ue||{},c=[b("dall",d.all),b("dcm",d.compatMode),b("xhr",a.XMLHttpRequest),b("qs",d.querySelector),b("ael",d.addEventListener),b("atob",a.atob),g("pjs",[a.callPhantom,a._phantom,a.PhantomEmitter,
+a.__phantomas]),b("njs",a.Buffer),b("cjs",a.emit),b("rhn",a.spawn),b("sel",a.webdriver),g("chrm",[a.domAutomation,a.domAutomationController]),{name:"plg",getFeatureValue:function(){return(void
+0!==a.navigator.plugins&&0<a.navigator.plugins.length)|0}}];try{c.push(h("no",a.navigator.onLine,!1))}catch(k){c.push({name:"no",getFeatureValue:function(){return
+2}})}f._bf=e.ue.exec(function(){for(var
+a="",b=0;b<c.length;b++)a+=c[b].name+"_"+c[b].getFeatureValue()+"-";(e.ue||{})._bf=null;return
+a},"ue.bf"); f._bf.modules=c;f._bf.mpm=b},"bf")(ue_csm,document,window);
+ue_csm.ue.exec(function(e,f){var
+a=e.ue||{},b=a._wlo,d;if(a.ssw){d=a.ssw("CSM_previousURL").val;var
+c=f.location,b=b?b:c&&c.href?c.href.split("#")[0]:void
+0;c=(b||"")===a.ssw("CSM_previousURL").val;!c&&b&&a.ssw("CSM_previousURL",b);d=c?"reload":d?"intrapage-
+transition":"first-view"}else
+d="unknown";a._nt=d},"NavTypeModule")(ue_csm,window);  var
+ue_mbl=ue_csm.ue.exec(function(e,a){function
+k(f){b=f||{};a.AMZNPerformance=b;b.transition=b.transition||{};b.timing=b.timing||{};e.ue.exec(l,"csm-
+android-check")()&&b.tags instanceof
+Array&&(f=-1!=b.tags.indexOf("usesAppStartTime")||b.transition.type?!b.transition.type&&-1<b.tags.indexOf("usesAppStartTime")?"warm-
+start":void 0:"view-
+transition",f&&(b.transition.type=f));"reload"===d._nt&&e.ue_orct||"intrapage-
+transition"===d._nt?a.performance&&performance.timing&&performance.timing.navigationStart?
+b.timing.transitionStart=a.performance.timing.navigationStart:delete
+b.timing.transitionStart:"undefined"===typeof
+d._nt&&a.performance&&performance.timing&&performance.timing.navigationStart&&a.history&&"function"===typeof
+a.History&&"object"===typeof
+a.history&&history.length&&1!=history.length&&(b.timing.transitionStart=a.performance.timing.navigationStart);f=b.transition;var
+c;c=d._nt?d._nt:void 0;f.subType=c;a.ue&&a.ue.tag&&a.ue.tag("has-
+AMZNPerformance");d.isl&&a.uex&&uex("at","csm-timing"); m()}function
+n(b){a.ue&&a.ue.count&&a.ue.count("csm-cordova-plugin-failed",1)}function
+l(){return a.webclient&&"function"===typeof
+a.webclient.getRealClickTime?a.cordova&&a.cordova.platformId&&"ios"==a.cordova.platformId?!1:!0:!1}function
+m(){try{P.register("AMZNPerformance",function(){return b})}catch(a){}}function
+g(){if(!b)return"";ue_mbl.cnt=null;var
+a=b.transition,c;c=b.timing.transitionStart;c="undefined"!==typeof
+c&&"undefined"!==typeof h?c-h:void 0;a=["mts",c,"mtt",a.type,"mtst",a.subType,
+"mtlt",a.launchType];c="";for(var d=0;d<a.length;d+=2){var
+e=a[d],g=a[d+1];"undefined"!==typeof g&&(c+="&"+e+"="+g)}return c}function
+p(a,c){b&&(h=c,b.timing.transitionStart=a,b.transition.type="view-
+transition",b.transition.subType="ajax-
+transition",b.transition.launchType="normal",ue_mbl.cnt=g)}var
+d=e.ue||{},h=e.ue_t0,b;if(a.P&&a.P.when&&a.P.register)return
+a.P.when("CSMPlugin").execute(function(a){a.buildAMZNPerformance&&a.buildAMZNPerformance({successCallback:k,failCallback:n})}),{cnt:g,ajax:p}},
+"mobile-timing")(ue_csm,window);  (function(b){function e(){var
+c=[];a.log&&a.log.isStub&&a.log.replay(function(a){var
+b={};b[a[1]]=a[0];c.push(b)});a.clog&&a.clog.isStub&&a.clog.replay(function(a){var
+b={};b[a[1]]=a[0];c.push(b)});c.length&&n(c)}function
+g(){a.log&&a.log.isStub&&(a.onflush&&a.onflush.replay&&a.onflush.replay(function(a){a[0]()}),a.onunload&&a.onunload.replay&&a.onunload.replay(function(a){a[0]()}),e())}function
+n(a){if(h)a=k(a),b.navigator.sendBeacon(l,a);else{a=k(a);var d=new
+b[f];d.open("POST",l,!0);d.setRequestHeader&& d.setRequestHeader("Content-
+type","text/plain");d.send(a)}}function k(a){return
+JSON.stringify({rid:b.ue_id,sid:b.ue_sid,mid:b.ue_mid,mkt:b.ue_mkt,sn:b.ue_sn,reqs:a})}var
+f="XMLHttpRequest",a=b.ue,p=b[f]&&"withCredentials"in new
+b[f],h=b.navigator&&b.navigator.sendBeacon,l="//"+b.ue_furl+"/1/batch/1/OE/",m=b.ue_fci_ft||5E3;a&&(p||h)&&(a.attach&&(a.attach("beforeunload",g),a.attach("pagehide",g)),m&&b.setTimeout(e,m),a._ffci=e)})(window);
+(function(c,d){var
+a=c.ue,b=d.characterSet;a&&a.tag&&b&&("UTF-8"!==b&&a.tag("pageEncoding:NonUTF-8"),a.tag("pageEncoding:"+b))})(ue_csm,document);
+

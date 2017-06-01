@@ -1,0 +1,909 @@
+Schließen
+
+Diese Website verwendet Cookies. Indem Sie weiter auf dieser Website
+navigieren, ohne die Cookie-Einstellungen Ihres Internet Browsers zu andern,
+stimmen Sie unserer Verwendung von Cookies zu. Weitere Hinweise zu Cookies
+finden Sie in unseren Datenschutzhinweisen.
+
+Zustimmen  
+
+Ihr Lieblingsmarkt
+
+Finden Sie Ihren EDEKA-Markt
+
+Um die Angebote und Services des EDEKA Marktes in Ihrer Nähe zu sehen, wählen
+Sie bitte einen Markt aus.
+
+Zur Marktsuche
+
+  1. EDEKA
+  2. Datenschutzbestimmungen
+
+# EDEKA Datenschutzinformationen
+
+##  Schutz Ihrer personenbezogenen Daten
+
+Schutz Ihrer personenbezogenen Daten
+
+Geltungsbereich  
+  
+Der Schutz personenbezogener Daten liegt uns sehr am Herzen. Mit den
+nachfolgenden Hinweisen zum Datenschutz wollen wir Ihnen naher bringen, welche
+Arten von personenbezogenen Daten wir in welchem Umfang und fur welche Zwecke
+erheben und wie wir diese Daten nutzen, wahrend Sie unser Internetangebot
+nutzen.  
+  
+Die nachfolgenden Hinweise gelten fur alle Inhalte unter www.edeka.de
+(nachfolgend „Angebot"). Darunter fallen zum Beispiel auch Gewinnspiele, fur
+die Sie sich vielleicht registrieren oder Newsletter, wenn Sie sich fur deren
+Empfang interessieren.  
+  
+Der verantwortliche Anbieter fur diese Inhalte ist die EDEKA ZENTRALE AG &amp;
+Co. KG, New-York-Ring 6, 22297 Hamburg, Telefon: 040-63770, info@edeka.de
+(nachfolgend „Anbieter").  
+  
+Die rechtlichen Grundlagen des Datenschutzes finden sich im
+Bundesdatenschutzgesetz (BDSG) und dem Telemediengesetz (TMG).  
+  
+
+Zugriffsdaten/ Server-Logfiles  
+  
+Der Anbieter (beziehungsweise sein Webspace-Provider) erhebt Daten uber jeden
+Zugriff auf das Angebot (so genannte Serverlogfiles). Zu den Zugriffsdaten
+gehoren:  
+Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs,
+ubertragene Datenmenge, Meldung uber erfolgreichen Abruf, Browsertyp nebst
+Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte
+Seite), IP-Adresse und der anfragende Provider.  
+  
+Der Anbieter verwendet die Protokolldaten nur fur statistische Auswertungen
+zum Zweck des Betriebs, der Sicherheit und der Optimierung des Angebotes. Der
+Anbieter behalt sich jedoch vor, die Protokolldaten nachtraglich zu
+uberprufen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht
+einer rechtswidrigen Nutzung besteht.  
+  
+  
+Umgang mit personenbezogenen Daten  
+  
+Personenbezogene Daten sind Informationen, mit deren Hilfe eine Person
+bestimmbar ist, also Angaben, die zuruck zu einer Person verfolgt werden
+konnen. Dazu gehoren der Name, die Emailadresse oder die Telefonnummer. Aber
+auch Daten uber Vorlieben, Hobbys oder Mitgliedschaften zahlen zu
+personenbezogenen Daten.  
+  
+Personenbezogene Daten werden von dem Anbieter nur dann erhoben, genutzt und
+weiter gegeben, wenn dies gesetzlich erlaubt ist oder die Nutzer in die
+Datenerhebung einwilligen.  
+  
+
+Webseiten-Tracking mit Comscore  
+  
+
+Auf dieser Webseite werden mittels Cookies Bewegungsdaten gesammelt und
+gespeichert und an die Comscore (comScore GmbH, Hanauer Landstr. 172, 60314
+Frankfurt am Main) ubertragen, die aus diesen Daten zu Marketing- und
+Optimierungszwecken unter einem Pseudonym Nutzungsprofile erstellt. Bei
+Cookies handelt es sich um kleine Textdateien, die lokal im Zwischenspeicher
+des Internetbrowsers des Seitenbesuchers gespeichert werden. Die Cookies
+ermoglichen die Wiedererkennung des Internetbrowsers. Die mit dem Cookie
+erhobenen und an Comscore ubertragenen Daten werden ohne die gesondert
+erteilte Zustimmung des Betroffenen nicht dazu benutzt, den Besucher dieser
+Webseite personlich zu identifizieren und nicht mit personenbezogenen Daten
+uber den Trager des Pseudonyms zusammengefuhrt. Der Datenerhebung und
+Datenspeicherung kann jederzeit mit Wirkung fur die Zukunft hier widersprochen
+werden.  
+  
+
+Diese Website benutzt Mouse3K, ein Mouse-Tracking-Tool der Mouse3K UG. Mouse3K
+verwendet sog. "Cookies", Textdateien, die auf Ihrem Computer gespeichert
+werden und die eine Analyse der Benutzung der Website ermoglichen. Die durch
+den Cookie erzeugten Informationen uber die Benutzung dieser Website
+(ausgenommen die IP-Adressen) werden auf einen Server von Mouse3K UG in
+Deutschland ubertragen und dort gespeichert. Mouse3K UG wird diese
+Informationen gegebenenfalls an Dritte ubertragen, sofern dies gesetzlich
+vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Mouse3K UG
+verarbeiten. Sie konnen die Installation der Cookies durch eine entsprechende
+Einstellung Ihrer Browser-Software verhindern. Durch die Nutzung dieser
+Website erklaren Sie sich mit der Bearbeitung der uber Sie erhobenen Daten
+durch Mouse3K UG in der zuvor beschriebenen Art und Weise und zu dem zuvor
+benannten Zweck einverstanden.  
+  
+
+DMP-Technologie von ADEX  
+  
+
+Diese Website nutzt den DMP-Tag der Firma The Adex GmbH, Berlin im Auftrag der
+QWERTZ Media GmbH Berlin fur die Ermittlung, Analyse und Bewertung von
+Nutzungs- und Bewegungsdaten auf unseren Angeboten. Die erhobenen Daten werden
+anonym erfasst. Sie konnen dieser Datenverarbeitung unter folgendem Link
+widersprechen: HTTP://DE.THEADEX.COM/COMPANY/CONSUMER-OPT-OUT/ oder direkt
+http://www.youronlinechoices.com/de/praferenzmanagement/  
+  
+Durch einen Klick auf diesen Link wird durch das System ein sogenannter »Stop-
+Cookie«gesetzt, der die weitere Erfassung von Aktivitaten des Clients durch
+das System unterbindet.Das System kann den Opt-Out nicht erkennen, wenn Sie
+das Setzen des Stop-Cookies verhindern oder den gesetzten Stop-Cookie loschen.
+Moglicherweise ist Ihr Internet-Browser so eingestellt, dass der Stop-Cookie
+nicht akzeptiert oder automatisch geloscht wird. In diesem Fall mussen Sie
+zunachst die Cookie-Einstellungen Ihres Browsers anpassen (Beispiel: Bei
+»Mozilla Firefox« finden Sie diese Einstellungen unter dem Menupunkt
+Extras/Einstellungen/ Datenschutz).  
+Wir weist Sie darauf hin, dass der Stop-Cookie die Datenerfassung nur auf dem
+jeweiligen Client verhindert. Verwenden Sie mehrere Clients (anderes Endgerat
+und/oder anderer Internet-Browser) mussen Sie den Opt-Out daher wiederholen.  
+  
+
+Retargeting-Technologie  
+  
+
+Diese ermoglicht es, auf Websites unserer Partner gezielt jene Internetuser
+mit Werbunganzusprechen, die sich bereits fur unsere Website und unsere
+Produkte interessiert haben. Hierzu werden entsprechende Pixel auf der Website
+platziert. Wenn Sie diese besuchen, wird ein Cookie in Ihrem Browser
+gespeichert. Dieser Cookie ermoglicht es Ihrem Computer anhand der
+protokollierten Daten wiederzuerkennen (Besuch unserer Website, Datum und
+Uhrzeit, Browsertyp, Betriebssystem, Identifikation ob Sie bereits Kunde sind,
+Informationen,die Sie sich auf unserer Website angesehen haben).  
+Die durch das Retargeting-Verfahren erstellten Nutzerprofile werden im
+Einklang mit denDatenschutzbestimmungen so anonymisiert, dass ein
+Personenbezug beim Surfen im Internet nicht moglich ist.  
+Die Einblendungen der Werbemittel auf der Websites unserer Partner erfolgt
+dann beim Retargeting auf der Basis einer Cookie-basierten Analyse des
+vorherigen Nutzerverhaltens. Hierbei handelt es sich um ein temporares Cookie,
+das nach 60 Tagen seine Gultigkeit verliert.  
+Sie konnen die Verwendung von Cookies zum Beispiel durch Drittanbieter
+deaktivieren indem Sie die Deaktivierungsseite der Netzwerkwerbeinitiative
+(Network Advertising Initiative) unter www.networkadvertising.org/choices/
+aufrufen und die dort genannten weiterfuhrenden Informationen zum Opt-Out
+umzusetzen.  
+  
+
+Webseiten-Tracking mit Google Analytics  
+  
+
+Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics.
+Anbieter ist die Google Inc., 1600 Amphitheatre Parkway Mountain View, CA
+94043, USA.  
+  
+
+Google Analytics verwendet sog. "Cookies". Das sind Textdateien, die auf Ihrem
+Computer gespeichert werden und die eine Analyse der Benutzung der Website
+durch Sie ermoglichen. Die durch den Cookie erzeugten Informationen uber Ihre
+Benutzung dieser Website werden in der Regel an einen Server von Google in den
+USA ubertragen und dort gespeichert.  
+  
+
+Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre
+IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europaischen
+Union oder in anderen Vertragsstaaten des Abkommens uber den Europaischen
+Wirtschaftsraum zuvor gekurzt. Nur in Ausnahmefallen wird die volle IP-Adresse
+an einen Server von Google in den USA ubertragen und dort gekurzt. Im Auftrag
+des Betreibers dieser Website wird Google diese Informationen benutzen, um
+Ihre Nutzung der Website auszuwerten, um Reports uber die Websiteaktivitaten
+zusammenzustellen und um weitere mit der Websitenutzung und der
+Internetnutzung verbundene Dienstleistungen gegenuber dem Websitebetreiber zu
+erbringen. Die im Rahmen von Google Analytics von Ihrem Browser ubermittelte
+IP-Adresse wird nicht mit anderen Daten von Google zusammengefuhrt.  
+  
+
+Sie konnen die Speicherung der Cookies durch eine entsprechende Einstellung
+Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie
+in diesem Fall gegebenenfalls nicht samtliche Funktionen dieser Website
+vollumfanglich werden nutzen konnen. Sie konnen daruber hinaus die Erfassung
+der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen
+Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten
+durch Google verhindern, indem sie das unter dem folgenden Link verfugbare
+Browser-Plugin herunterladen und installieren:
+http://tools.google.com/dlpage/gaoptout?hl=de  
+  
+
+Sie konnen die Erfassung durch Google Analytics verhindern, indem Sie auf
+folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, das das Erfassung
+Ihrer Daten bei zukunftigen Besuchen dieser Website verhindert: Google
+Analytics deaktivieren .  
+  
+
+Google Analytics Remarketing  
+  
+
+Diese Webseite nutzt Retargeting-Technologien von Google. Anbieter ist die
+Google Inc. 1600 Amphitheatre Parkway Mountain View, CA 94043, USA.
+
+Dies ermoglicht es, Besuchern unserer Webseiten gezielt mit personalisierter,
+interessenbezogener Werbung anzusprechen. Die Einblendung der Werbung erfolgt
+anhand einer Cookie-basierten Analyse des fruheren Nutzungs- und
+Surfverhaltens. Es werden dabei nach unserem Kenntnisstand keine
+personenbezogenen Daten gespeichert. Es wird hierzu ein Cookie gespeichert, um
+anonymisierte Daten uber die Interessen der Nutzer zu erfassen und so Werbung
+individuell auf diese Informationen anzupassen. Diese Cookies sind kleine
+Textdateien, die auf Ihrem Computer oder mobilen Endgerat gespeichert werden.  
+  
+
+Sie konnen der Verwendung von Cookies fur das Retargeting dauerhaft
+widersprechen, indem Sie interessenbezogene Werbung durch Google hier
+deaktivieren: https://www.google.com/settings/ads/onweb/
+
+  
+
+Gewinnspiele  
+  
+Wenn Sie sich bei uns fur ein Gewinnspiel registrieren, werden wir Ihre
+personenbezogenen Daten fur die Abwicklung und Durchfuhrung des Gewinnspiels
+nutzen. In dem erfreulichen Fall, dass Sie zu den Gewinnern gehoren, fallt
+hierunter eventuell auch die Weitergabe Ihrer Daten an beteiligte Unternehmen.
+So kann es notwendig sein, Ihre Daten an den Reiseveranstalter zu ubermitteln
+oder an eine Agentur, die fur uns die Abwicklung des Gewinnspiels durchfuhrt.
+In der Regel behalten wir uns auch vor, den Namen der Gewinner auf unserer
+Internetseite zu veroffentlichen.  
+  
+Mitteilungen uber das Gewinnspiel konnen per E-Mail oder auf dem Postwege
+erfolgen. Sofern Sie im Rahmen der Registrierung eine Telefonnummer angegeben
+haben, behalten wir uns vor, Ihnen die Benachrichtigung uber den Gewinn auch
+telefonisch anzukundigen.  
+  
+Die im Rahmen des Gewinnspiels erhobenen Daten werden geloscht, sobald das
+Gewinnspiel vollstandig abgewickelt wurde, es sei denn, dass gesetzliche
+Aufbewahrungspflichten bestehen, die ein fortgesetztes Speichern der Daten
+rechtfertigen. Dies konnen zum Beispiel steuerrechtliche Vorschriften im
+Zusammenhang mit den Gewinnen sein. Spatestens nach Wegfall etwaiger
+Aufbewahrungsfristen werden die Daten geloscht, sofern nicht eine von Ihnen
+erklarte Einwilligung besteht, z.B. Ihre E-Mail-Adresse fur den Newsletter
+Versand zu verwenden.  
+  
+
+Kontaktaufnahme  
+  
+Bei der Kontaktaufnahme mit dem Anbieter (zum Beispiel per Kontaktformular
+oder E-Mail) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage
+sowie fur den Fall, dass Anschlussfragen entstehen, gespeichert.  
+  
+
+Werbung, Newsletter  
+  
+
+Sofern Sie damit einverstanden sind, informiert der Anbieter Sie in
+regelmaßigen Abstanden uber Produkt- und Serviceangebote, Rezept- und
+Ernahrungstipps, Gutschein- und Couponaktionen sowie Gewinnspiele des
+Anbieters (nachfolgend „Informationen").  
+  
+
+Sie konnen sich hierzu fur den Newsletter des Anbieters auf der Seite
+www.edeka.de registrieren. Zudem besteht die Moglichkeit, im Rahmen von
+Gewinnspiel- und Gutschein/Couponaktionen des Anbieters Ihre Einwilligung zu
+erteilen.Wenn Sie Informationen empfangen mochten, benotigen wir von Ihnen
+eine valide E-Mail-Adresse. Weitere Daten werden nicht erhoben. Eine
+Weitergabe Ihrer E-Mail-Adresse erfolgt nicht. Mit dem Absenden Ihrer
+Einwilligung speichern wir Ihre IP-Adresse und das Datum Ihrer Einwilligung.
+Diese Speicherung dient alleine dem Nachweis im Fall, dass ein Dritter eine
+E-Mail-Adresse missbraucht und sich ohne Wissen des Berechtigten anmeldet.
+
+  
+
+Ihre Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren
+Nutzung zum Versand der Informationen konnen Sie jederzeit widerrufen. Der
+Widerruf kann uber einen Link in den Newslettern bzw. den Ihnen zugesandten
+Werbeemails selbst oder per Mitteilung an die oben stehenden
+Kontaktmoglichkeiten erfolgen.
+
+  
+
+Sie erteilen uns ggf. folgende Einwilligung, die wir hier nur zu Ihrer
+Information noch einmal wiedergeben:
+
+„Ich bin damit einverstanden, dass die EDEKA Zentrale AG & Co. KG ("EDEKA")
+meine angegebene E-Mail-Adresse verwendet, um mich in regelmaßigen Abstanden
+uber Produkt- und Serviceangebote, Rezept- und Ernahrungstipps, Gutschein- und
+Couponaktionen sowie Gewinnspiele der EDEKA zu informieren. Ich kann meine
+Einwilligung jederzeit gegenuber der EDEKA widerrufen. Die
+Datenschutzrichtlinien habe ich zur Kenntnis genommen"
+
+  
+
+Einbindung von Diensten und Inhalten Dritter  
+  
+Es kann vorkommen, dass innerhalb dieses Onlineangebotes Inhalte Dritter, wie
+zum Beispiel Videos von YouTube, Kartenmaterial von Google-Maps, RSS-Feeds
+oder Grafiken von anderen Webseiten eingebunden werden. Google Maps wird
+verwendet, um geographische Informationen auf einer Karte darzustellen. Dabei
+werden von Google Daten uber Besucher der Webseiten erhoben, verarbeitet und
+genutzt. Nahere Informationen uber die Datenverarbeitung durch Google konnen
+Sie den Datenschutzhinweisen von Google entnehmen. Die Nutzung von
+Onlineangeboten Dritter setzt immer voraus, dass die Anbieter dieser Inhalte
+(nachfolgend bezeichnet als "Dritt-Anbieter") die IP-Adresse der Nutzer wahr
+nehmen. Denn ohne die IP-Adresse, konnten sie die Inhalte nicht an den Browser
+des jeweiligen Nutzers senden. Die IP-Adresse ist damit fur die Darstellung
+dieser Inhalte erforderlich. Wir bemuhen uns nur solche Inhalte zu verwenden,
+deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte
+verwenden. Jedoch haben wir keinen Einfluss darauf, falls die Dritt-Anbieter
+die IP-Adresse z.B. fur statistische Zwecke speichern. Soweit dies uns bekannt
+ist, klaren wir die Nutzer daruber auf.  
+  
+
+Getty Images und Fotolia  
+  
+Innerhalb dieses Angebotes konnen die Bilder des Stockbildanbieters Getty
+Images und Fotolia eingebunden werden. Die Darstellung dieser Bilder setzt
+voraus, dass Getty Images und Fotolia die IP-Adresse der Nutzer wahr nehmen,
+damit die Bilder an den Browser der Nutzer ausgeliefert werden konnen. Die IP-
+Adresse ist damit fur die Darstellung dieser Inhalte erforderlich. Nach
+derzeitigem Wissensstand wird die IP-Adresse nur fur diesen Zweck verwendet.
+Jedoch hat der Anbieter keinen Einfluss darauf, falls Getty Images und Fotolia
+die IP-Adresse z.B. fur statistische Zwecke speichert. Soweit dies dem
+Anbieter bekannt ist, werden die Nutzer aufklart, bzw. die Bilder entfernt.  
+  
+Weitere Informationen erhalten Sie in der Datenschutzerklarung von Getty
+Images: http://www.gettyimages.de/Corporate/PrivacyPolicy.aspx und Fotolia:
+https://de.fotolia.com/Info/Agreements/PrivacyPolicy  
+  
+
+Cookies  
+  
+Cookies sind kleine Dateien, die es ermoglichen, auf dem Zugriffsgerat der
+Nutzer (PC, Smartphone o.a.) spezifische, auf das Gerat bezogene Informationen
+zu speichern. Sie dienen zum einem der Benutzerfreundlichkeit von Webseiten
+und damit den Nutzern (z.B. Speicherung von Logindaten). Zum anderen konnen
+sie dazu dienen, die statistischen Daten der Webseitennutzung zu erfassen und
+sie zwecks Verbesserung des Angebotes analysieren zu konnen. Die Nutzer konnen
+auf den Einsatz der Cookies Einfluss nehmen. Die meisten Browser verfugen uber
+eine Option mit der das Speichern von Cookies eingeschrankt oder komplett
+verhindert wird. Allerdings wird darauf hingewiesen, dass die Nutzung und
+insbesondere der Nutzungskomfort ohne Cookies eingeschrankt werden.  
+  
+Sie konnen viele Online-Anzeigen-Cookies von Unternehmen uber die US-
+amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite
+http://www.youronlinechoices.com/uk/your-ad-choices/ verwalten.  
+  
+
+Verwendung von Facebook Social Plugins  
+  
+„2-Klick-Losung" bei Social Plugins („Plugins")  
+  
+Dieses Angebot verwendet Social Plugins ("Plugins") des sozialen Netzwerkes
+facebook.com, welches von der Facebook Inc., 1601 S. California Ave, Palo
+Alto, CA 94304, USA betrieben wird ("Facebook"). Die Plugins sind an einem der
+Facebook Logos erkennbar (weißes „f" auf blauer Kachel oder ein „Daumen
+hoch"-Zeichen) oder sind mit dem Zusatz "Facebook Social Plugin"
+gekennzeichnet. Die Liste und das Aussehen der Facebook Social Plugins kann
+hier eingesehen werden: https://developers.facebook.com/docs/plugins/.  
+  
+Diese Seite verwendet die Moglichkeit, die eingesetzten Plugins erst zu
+aktivieren, bevor diese Daten des Nutzers verarbeiten. Die hierfur
+eingesetzten „2-Klick-Buttons" mussen gesondert aktiviert werden. Sind diese
+Buttons nicht aktiviert, ubertragt der Anbieter keine Daten an „Facebook".  
+  
+Wenn ein Nutzer eine Webseite dieses Angebots aufruft, die ein solches Plugin
+enthalt, baut sein Browser eine direkte Verbindung mit den Servern von
+Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an Ihren Browser
+ubermittelt und von diesem in die Webseite eingebunden. Der Anbieter hat daher
+keinen Einfluss auf den Umfang der Daten, die Facebook mit Hilfe dieses
+Plugins erhebt und informiert die Nutzer daher entsprechend seinem
+Kenntnisstand:  
+  
+Durch die Einbindung der Plugins erhalt Facebook die Information, dass ein
+Nutzer die entsprechende Seite des Angebots aufgerufen hat. Ist der Nutzer bei
+Facebook eingeloggt, kann Facebook den Besuch seinem Facebook-Konto zuordnen.
+Wenn Nutzer mit den Plugins interagieren, zum Beispiel den Like Button
+betatigen oder einen Kommentar abgeben, wird die entsprechende Information von
+Ihrem Browser direkt an Facebook ubermittelt und dort gespeichert. Falls ein
+Nutzer kein Mitglied von Facebook ist, besteht trotzdem die Moglichkeit, dass
+Facebook seine IP-Adresse in Erfahrung bringt und speichert. Laut Facebook
+wird in Deutschland nur eine anonymisierte IP-Adresse gespeichert.  
+  
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Facebook sowie die diesbezuglichen Rechte und
+Einstellungsmoglichkeiten zum Schutz der Privatsphare der Nutzer , konnen
+diese den Datenschutzhinweisen von Facebook entnehmen:
+https://www.facebook.com/about/privacy/.  
+  
+Wenn ein Nutzer Facebookmitglied ist und nicht mochte, dass Facebook uber
+dieses Angebot Daten uber ihn sammelt und mit seinen bei Facebook
+gespeicherten Mitgliedsdaten verknupft, muss er sich vor dem Besuch des
+Internetauftritts bei Facebook ausloggen.  
+  
+Ebenfalls ist es moglich Facebook-Social-Plugins mit Add-ons fur Ihren Browser
+zu blocken, zum Beispiel mit dem "Facebook Blocker".
+
+  
+
+Facebook Custom Audiences  
+  
+
+Im Rahmen unserer Online-Kommunikation setzen wir auch Dienste des sozialen
+Netzwerks Facebook zur nutzungsbasierten User-Ansprache ein. Dabei sind sog.
+Zahlpixel auf unseren Seiten integriert, uber die eine direkte Verbindung
+zwischen Ihrem Browser und dem Facebook-Server hergestellt wird. Facebook
+erhalt so durch Ihren Browser u.a. die Information, dass durch Ihr Endgerat
+unsere Seite aufgerufen wurde. Wenn Sie ein Konto bei Facebook besitzen, kann
+Facebook den Besuch unserer Seiten Ihrem Nutzerkonto zuordnen. Wir mochten
+darauf hinweisen, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt
+der ubermittelten Daten sowie deren Nutzung durch Facebook erhalten. Wir
+konnen lediglich auswahlen, welchen Segmenten von Facebook-Nutzern unsere
+Werbung angezeigt werden soll. Weitere Informationen uber Zweck und Umfang der
+Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch
+Facebook sowie Ihre Einstellungsmoglichkeiten zum Schutz Ihrer Privatsphare
+entnehmen Sie bitte den Datenschutzrichtlinien von Facebook, welche Sie
+hiereinsehen konnen. Wenn Sie der Nutzung von Facebook Website Custom
+Audiences widersprechen mochten, konnen Sie dies hier tun.
+
+  
+  
+
+Datenschutzerklarung fur die Nutzung von Bloglovin  
+  
+
+Auf unseren Seiten sind Funktionen des Dienstes Bloglovin integriert. Den Link
+erkennen Sie an dem "Bloglovin-Icon" auf unserer Seite.
+
+Durch das Benutzen von Bloglovin und einem Klick auf das entsprechende Symbol
+zum Folgen via Bloglovin werden die von Ihnen besuchten Webseiten
+moglicherweise mit Ihrem Bloglovin-Account verknupft. Diese Verknupfung ist
+fur andere Nutzer des Dienstes einsehbar. Dabei werden auch Daten an Bloglovin
+ubertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine
+Kenntnis vom Inhalt der ubermittelten Daten sowie deren Nutzung durch
+Bloglovin erhalten. Weitere Informationen zur Datenschutzerklärung von
+Bloglovin.
+
+  
+
+Twitter  
+  
+
+Dieses Angebot nutzt die Schaltflächen des Dienstes Twitter. Diese
+Schaltflachen werden angeboten durch die Twitter Inc., 795 Folsom St., Suite
+600, San Francisco, CA 94107, USA. Sie sind an Begriffen wie „Twitter" oder
+„Folge", verbunden mit einem stillisierten blauen Vogel erkennbar. Mit Hilfe
+der Schaltflachen ist es moglich einen Beitrag oder Seite dieses Angebotes bei
+Twitter zu teilen oder dem Anbieter bei Twitter zu folgen.Wenn ein Nutzer eine
+Webseite dieses Internetauftritts aufruft, die einen solchen Button enthalt,
+baut sein Browser eine direkte Verbindung mit den Servern von Twitter auf. Der
+Inhalt des Twitter-Schaltflachen wird von Twitter direkt an den Browser des
+Nutzers ubermittelt. Der Anbieter hat daher keinen Einfluss auf den Umfang der
+Daten, die Twitter mit Hilfe dieses Plugins erhebt und informiert die Nutzer
+entsprechend seinem Kenntnisstand. Nach diesem wird lediglich die IP-Adresse
+des Nutzers die URL der jeweiligen Webseite beim Bezug des Buttons mit
+ubermittelt, aber nicht fur andere Zwecke, als die Darstellung des Buttons,
+genutzt. Weitere Informationen hierzu finden sich in der Datenschutzerklarung
+von Twitter unter http://twitter.com/privacy.
+
+  
+
+Besondere Nutzungsregeln fur das Verfassen von Kommentaren auf edeka.de
+
+  
+
+Bitte beachten Sie die folgenden Hinweise beim Verfassen von
+Nutzerkommentaren. Nutzer, die diese Funktionen verwenden, erklaren sich mit
+den nachfolgenden Nutzungsbedingungen einverstanden.  
+  
+
+Bei Nichtbeachtung dieser Regeln behalten wir uns vor, einzelne Beitrage (ohne
+vorherige Abstimmung) zu loschen, zu bearbeiten, zu verschieben, zu schließen
+oder einzelnen Nutzern zeitweise oder dauerhaft den Zutritt zu den einzelnen
+Kommentarbereichen zu versperren. Wir konnen auch redigierend in die Beitrage
+eingreifen, um ggf. eine Nichtveroffentlichung zu verhindern. Derartige
+Eingriffe werden wir bei den Kommentaren kenntlich machen.
+
+  
+
+1\. Datenschutz
+
+Wenn Sie Kommentare im Blog oder sonstige Beitrage hinterlassen, werden ihre
+IP-Adressen gespeichert. Außerdem benotigen wir eine valide E-Mail-Adresse, um
+bei gravierenden Verstoßen gegen diese Regeln und insbesondere bei der
+Verletzung fremder Rechtsguter mit dem Nutzer in Kontakt treten zu konnen. Aus
+dem gleichen Grund werden Ihre IP-Adressen im Rahmen der Nutzung gespeichert.
+Da EDEKA mitverantwortlich fur den Kommentarbereich ist, kann das berechtigte
+Interesse bestehen, die Identitat des Verfassers in Erfahrung zu bringen. Dies
+spielt insbesondere dann eine Rolle, sollten rechtswidrige Äußerungen getatigt
+werden.  
+  
+
+2\. Keine Diskriminierungen, Beleidigungen, Provokationen
+
+So sehr wir uns auf anregende Diskussionen und geistreiche Kommentare freuen,
+so sehr wollen die anderen Nutzer und wir einige Dinge wirklich nicht.
+Diskussionen leben nicht von Grobheiten oder Gemeinheiten, sondern davon, dass
+jeder seinen eigenen Standpunkt darlegt und sich mit Dritten fair
+auseinandersetzt. Eine Diskussion findet nicht statt, wenn Teilnehmer oder
+unbeteiligte Dritte diskriminiert, beleidigt oder provoziert werden. So etwas
+wollen wir auf edeka.de nicht.
+
+  
+
+3\. Relevanz des Kommentars
+
+Niemand mochte gerne etwas lesen, was so gar nichts mit der Sache zu tun hat.
+Um gute und anregende Diskussionen zu fordern, bitten wir Sie, Ihren Kommentar
+ausschließlich auf das Thema des jeweiligen Artikels bzw. auf die Diskussion
+zu beziehen. Sie sollten Ihre Meinung dabei mit Argumenten stutzen und nicht
+verallgemeinern oder in Ermangelung von Argumenten auf Beleidigungen,
+Rufschadigungen und nicht prufbare Behauptungen zuruckgreifen. Ganz nach dem
+Motto: „Am allerlautesten schreien die, die nichts zu sagen haben."
+
+Bitte verzichten Sie deswegen auch auf fremdsprachige Beitrage, damit alle
+Nutzer die Chance haben, Ihre Kommentare zu lesen und zu verstehen.
+
+  
+
+4\. Zitate und Urheberrecht
+
+Die von Ihnen verfassten Texte mussen von Ihnen selbst stammen. Sollten Sie
+Zitate verwenden, kennzeichnen Sie diese bitte mit Anfuhrungszeichen und einer
+Herkunftsangabe deutlich. Zitate sollen lediglich als Erganzung der eigenen
+Argumentation dienen.
+
+Wir behalten uns vor, einzelne Beitrage unter Berucksichtigung der
+Urheberrechte in anderen Kanalen oder an anderen Stellen im Internet unter
+Angabe der Urheberkennzeichnung zu vervielfaltigen und zu verbreiten. Ein
+Anspruch auf Honorierung besteht dabei nicht.
+
+  
+
+5\. Werbung und personenbezogene Daten
+
+Werbliche Inhalte mit Bezug außerhalb von EDEKA sind in den Kommentaren nicht
+erlaubt. Informationen uber Personen wie z.B. E-Mail-Adressen, Telefonnummern,
+Adressen (personenbezogene Daten) durfen nicht in den Kommentaren
+veroffentlicht werden.
+
+  
+
+6\. Gesetze beachten
+
+Dass wir keine Beitrage tolerieren, die gegen geltende Gesetze verstoßen,
+versteht sich von selbst. Insbesondere untersagen wir
+
+* den Missbrauch der Foren als Werbeflache fur Webseiten oder Dienste (Spamming)
+
+* das kommerzielle oder private Anbieten von Waren oder Dienstleistungen
+
+* Obszonitaten, Pornographie, Hasspropaganda
+
+* Aufforderungen zu Gewalt gegen Personen oder Unternehmen
+
+* Beleidigungen und Entwurdigungen von Personen oder Unternehmen
+
+* Aufruf zu Demonstrationen und Kundgebungen jeglicher politischer Richtung
+
+* Links zu externen Webseiten (Ausnahmen sind moglich bei seriosen journalistischen Quellen und vertretbarem Pruf-Aufwand unseres Moderationsteams)
+
+  
+
+7\. Was wir uns bei aller Liebe erlauben
+
+EDEKA ist fur den Kommentarbereich verantwortlich. Wir nehmen diese
+Verantwortung ernst und prufen daher samtliche Kommentare vor der
+Veroffentlichung.
+
+Wir arbeiten gemaß den obigen Regeln, um den Nutzern des Kommentarbereichs
+eine rundum gelungene Plattform fur unterhaltsame Diskussionen zu bieten.
+Kritik an unserer Moderation schicken Sie gerne an knackfrisch@edeka.de. Bitte
+haben Sie Verstandnis dafur, dass wir Debatten uber die Moderation nicht unter
+Artikeln fuhren.
+
+  
+
+Es besteht kein Anspruch auf die Kommentarfunktion. Wir behalten uns vor,
+einzelne Diskussionen zu schließen, insbesondere dann, wenn vermehrt die
+obigen Regeln nicht eingehalten werden.  
+  
+
+Widerruf, Änderungen, Berichtigungen und Aktualisierungen  
+  
+Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten uber
+die personenbezogenen Daten, die uber ihn gespeichert wurden. Zusatzlich hat
+der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Loschung
+seiner personenbezogenen Daten. Sollten der Loschung gesetzliche, vertragliche
+oder steuerrechtliche bzw. handelsrechtliche Aufbewahrungspflichten oder
+anderweitige gesetzlich verankerte Grunde widersprechen, kann statt der
+Loschung nur die Sperrung Ihrer Daten vorgenommen werden.
+
+## Ihr Kontakt
+
+EDEKA Zentrale AG &amp; Co KG  
+New-York-Ring 6  
+D-22297 Hamburg Anfahrtsskizze
+
+EDEKA Kunden- und Ernahrungsservice  
+
+Tel:
+
+    0800 3335211 
+*
+    (kostenfrei aus dem dt. Fest- und Mobilfunknetz)
+E-Mail
+
+    info@edeka.de
+
+EDEKA
+
+Wir ♥ Lebensmittel
+
+  * Einkaufsliste 
+  * Foto
+  * Unternehmen
+  * Karriere
+  * Kontakt
+  * Newsletter
+  * Kundenmagazin
+
+Marktsuche
+
+Marktsuche
+
+  * Zur erweiterten Suche
+
+  * Angebote 
+
+Angebote Ihres Lieblingsmarktes
+
+Um die Angebote und Services des EDEKA Marktes in Ihrer Nahe zu sehen, wahlen
+Sie bitte einen Markt aus.
+
+    * Zur Marktsuche
+
+Sonderangebote
+
+    * Deutschlandweite Angebote anzeigen
+
+Dauerhaft gunstig
+
+    * Dauerhafte Preissenkungen
+
+  * Unsere Marken 
+
+Suche nach EDEKA Produkten
+
+Suchen Sie gezielt nach Produkten aus unserem Eigenmarkensortiment.
+
+    * Suche nach EDEKA Produkten
+
+Unsere Eigenmarken
+
+    * EDEKA
+      * EDEKA Tiernahrung
+    * EDEKA Bio
+    * EDEKA Bio+ Vegan
+    * EDEKA deli
+    * EDEKA Italia
+    * EDEKA Espana
+    * EDEKA La France
+    * EDEKA SELECTION
+    * GUT&amp;G;ÜNSTIG
+      * GUT&amp;G;ÜNSTIG Tiernahrung
+    * Nachhaltige Produkte
+    * Weitere Marken
+
+Eigenmarken Nonfood
+
+    * elkos
+    * EDEKA zuhause
+    * Weitere Marken
+
+Neu im Sortiment
+
+    * EDEKA SELECTION Pasta
+    * Muhlenklassiker
+    * Robert Weil Junior
+
+EDEKA Qualitatsversprechen
+
+    * Nahrwert-Kennzeichnung
+    * Qualitat bei EDEKA
+    * Zertifizierte Nachhaltigkeit
+    * Lebensmittelrecht
+    * EDEKA Auszeichnungen
+    * Fruchtkontor
+
+  * Services 
+
+Online-Services
+
+    * EDEKA mobil
+    * EDEKA Foto
+
+Bonusprogramme
+
+    * DeutschlandCard Bonusprogramm
+    * DeutschlandCard Informationen
+
+EDEKA Medien
+
+    * YouTube-Kanal yumtamtam
+    * Kundenmagazin MIT LIEBE
+    * Grillen - Das Buch
+    * Selbstgemacht - Das Buch
+    * YUMMI - Das Kindermagazin
+
+EDEKA Gutscheinkarte
+
+    * Mehr zur Karte
+
+EDEKA APP
+
+    * Herunterladen & Vorteile sichern
+
+  * Rezepte & Ernahrung 
+
+Rezepte
+
+    * Rezeptsuche
+    * Knorr - Was koche ich heute?
+
+Expertenwissen
+
+    * Experten-Tipps
+      * Ernahrungs-Expertin
+      * Fleisch-Experte
+      * Obst- & Gemuse-Experte
+      * Wein-Experte
+      * Koch-Experte
+    * 1000 Fragen, 1000 Antworten
+    * Über die Experten
+      * Birthe Wulf, Ernahrung
+      * Matthias Baum, Wein
+      * Max Ehmke, Fleisch
+      * Reiner Ley, Obst & Gemuse
+      * Jurgen Zimmerstadt, Kochen
+
+EDEKA Wissen
+
+    * Obst & Gemuse
+    * Milchprodukte
+    * Fleisch
+    * Fisch
+    * Kaffee
+    * Wein
+      * Caro Maurer
+      * Winzer / Kellerei
+      * Weinwissen
+      * Wein und Speisen
+      * Qualitatsversprechen
+      * Glossar
+
+Lebensmittelwissen
+
+    * Zutaten A-Z
+    * Regionale Lebensmittel
+    * Saisonkalender Obst & Gemuse
+
+Genuss - Tipps & Trends
+
+    * Grillspecial "Herren des Feuers"
+    * Basisch kochen
+    * Weitere Genussthemen
+
+Bewusste Ernahrung
+
+    * EDEKA Ernahrungskonzepte
+      * EDEKA Mix-Teller
+      * EDEKA Ernahrungspyramide
+    * Vitalstoffe
+      * Fette
+      * Kohlenhydrate
+      * Proteine
+      * Vitamine
+      * Mineralstoffe
+      * Sekundare Pflanzenstoffe
+
+Spezielle Ernahrung
+
+    * Vegane Ernahrung
+    * Beim Sport
+    * Fur Kinder
+    * Fur Junggebliebene
+    * In der Schwangerschaft
+    * Abnehmen
+    * Unvertraglichkeiten & Krankheiten
+
+Tests & Rechner
+
+    * BMI - Stimmt mein Gewicht?
+    * Wie viel darf ich essen?
+    * Wie viele Kalorien verbrauche ich?
+    * Mix-Teller-Check
+    * Ernahrungspyramiden-Check Single
+    * Ernahrungspyramiden-Check Familie
+
+Videos: Rezepte, Wissen, Inspiration
+
+    * Genussmomente
+    * Kochtipps
+    * Blitzrezepte
+    * Foodporn
+
+  * Gewinnspiele 
+
+Aktuelle Gewinnspiele
+
+    * Qualitat & Frische aus erster Hand
+    * EDEKA Fruchtliebe: aufdrehen & gewinnen
+    * Grillen
+    * Pampers Club App
+    * EDEKA Selection
+
+Gewinnspiele - die Gewinner
+
+    * Qualitat & Frische: Himbeeren
+
+EDEKA Videos
+
+    * Weihnachts-Clip Heimkommen
+    * EDEKA "Dorfdrift"
+    * "Supergeil" mit Friedrich Liechtenstein
+
+  * Nachhaltigkeit 
+
+Unsere WWF Partnerschaft
+
+    * Die Partnerschaft
+    * Themenschwerpunkte
+    * Siegel
+    * Produkte
+
+Nachhaltigkeit
+
+    * Nachhaltiger leben
+
+Soziales Engagement
+
+    * Die EDEKA Stiftung
+    * Unterstutzer der deutschen Olympiamannschaft
+    * Deutsche Sportlotterie
+
+Verantwortungsvolle Nutztierhaltung
+
+    * Initiative Tierwohl
+
+  * Blog 
+
+Edeka Blog
+
+    * Blog lesen
+
+Bloggerin Kathi
+
+    * Das bin ich
+
+Kontakt zu EDEKA
+
+  * EDEKA Kunden- und Ernahrungsservice
+
+  * Kontakt
+  * Haufig gestellte Fragen
+  * 0800 3335211 *
+
+Sie erreichen uns von  
+Mo. bis Sa. von 8 bis 20 Uhr
+
+* kostenfrei aus dem dt. Fest- und Mobilfunknetz
+
+  * Zum Newsletter anmelden:
+
+E-Mail-Adresse
+
+  * EDEKA auf Facebook
+  * EDEKA auf Instagram
+  * EDEKA auf YouTube
+  * yumtamtam auf YouTube
+
+Mehr uber EDEKA
+
+  * Angebote der Woche
+  * EDEKA Rezeptsuche
+  * EDEKA Ernahrungsservice
+  * Tipps zur Kinderernahrung
+  * EDEKA Produktsuche
+  * EDEKA Eigenmarken
+  * GUT&amp;G;ÜNSTIG
+  * EDEKA App
+  * EDEKA mobil
+  * EDEKA Genussmomente
+
+  * Impressum
+  * Datenschutz
+
+  * Karriere
+  * Ausbildung
+  * EDEKA-Gruppe
+

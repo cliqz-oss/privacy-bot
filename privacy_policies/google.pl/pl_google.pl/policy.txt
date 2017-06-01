@@ -1,0 +1,830 @@
+Polityka prywatnoÅci â PrywatnoÅÄ i warunki â Google
+
+#
+
+##  PrywatnoÅÄ i warunki
+
+PrzejdÅº do treÅci
+
+  * Wprowadzenie
+  * Polityka prywatnoÅci
+  * Warunki korzystania z usÅug
+  * Technologie i zasady
+  * NajczÄstsze pytania
+  * Moje konto
+
+  * Polityka prywatnoÅci 
+    * Gromadzone informacje
+    * Sposoby wykorzystania zgromadzonych informacji
+    * TransparentnoÅÄ i wybÃ³r
+    * Informacje udostÄpniane przez uÅ¼ytkownika
+    * Uzyskiwanie dostÄpu do danych osobowych i ich aktualizowanie
+    * Informacje udostÄpniane przez Google
+    * BezpieczeÅstwo informacji
+    * Kiedy ta polityka prywatnoÅci ma zastosowanie
+    * ZgodnoÅÄ i wspÃ³Åpraca z wÅadzami
+    * Zmiany
+    * Procedury dotyczÄ ce konkretnych usÅug
+    * Inne przydatne materiaÅy z zakresu ochrony prywatnoÅci i bezpieczeÅstwa
+  * Ramy samoregulujÄ ce
+  * Kluczowe terminy
+  * Partnerzy
+  * Aktualizacje
+
+# Zapraszamy do zapoznania siÄ z PolitykÄ prywatnoÅci Google
+
+KorzystajÄ c z usÅug Google, powierzasz nam swoje informacje. Niniejsza
+Polityka prywatnoÅci sÅuÅ¼y jako pomoc w zrozumieniu, jakie dane zbieramy i
+w jakim celu oraz do czego je wykorzystujemy. Te informacje sÄ waÅ¼ne, dlatego
+prosimy o dokÅadne zapoznanie siÄ z tym dokumentem. Moje konto zawiera
+rozwiÄ zania, ktÃ³re moÅ¼esz wykorzystaÄ do zarzÄ dzania swoimi informacjami
+oraz ochrony swojej prywatnoÅci i zapewnienia bezpieczeÅstwa.
+
+# Polityka prywatnoÅci
+
+Ukryj przykÅady
+
+WyÅwietl przykÅady
+
+Ukryj przykÅady
+
+Ostatnia modyfikacja: 17 kwietnia 2017 (wyÅwietl wersje archiwalne) (HiperÅÄ
+cza do przykÅadÃ³w sÄ dostÄpne na koÅcu tego dokumentu).
+
+Pobierz w formacie PDF
+
+Z Google moÅ¼na korzystaÄ w rÃ³Å¼ny sposÃ³b, np. wyszukujÄ c i udostÄpniajÄ
+c informacje, komunikujÄ c siÄ z innymi osobami czy tworzÄ c nowe treÅci.
+DziÄki informacjom uzyskanym od uÅ¼ytkownikÃ³w (np. podczas tworzenia konta
+Google) udoskonalamy te usÅugi â wyÅwietlamy bardziej adekwatne wyniki
+wyszukiwania i trafniejsze reklamy, uÅatwiamy kontakty ze znajomymi oraz
+oferujemy szybsze i prostsze sposoby udostÄpniania treÅci. ZaleÅ¼y nam, aby
+uÅ¼ytkownicy korzystajÄ cy z naszych usÅug dokÅadnie wiedzieli, jak
+wykorzystujemy te informacje oraz jak mogÄ chroniÄ swojÄ prywatnoÅÄ.
+
+W Polityce prywatnoÅci Google opisano:
+
+  * rodzaje gromadzonych informacji i ich przeznaczenie; 
+  * sposoby wykorzystania tych informacji; 
+  * oferowane moÅ¼liwoÅci, w tym sposÃ³b uzyskiwania dostÄpu do danych i aktualizowania ich.
+
+Jej treÅÄ zostaÅa znacznie uproszczona, jednak w przypadku nieznajomoÅci
+takich kluczowych terminÃ³w, jak plik cookie, adres IP, tag pikselowy czy
+przeglÄ darka, warto najpierw przeczytaÄ ich definicje. PrywatnoÅÄ
+uÅ¼ytkownikÃ³w jest dla Google waÅ¼na, dlatego zachÄcamy zarÃ³wno nowych, jak
+i doÅwiadczonych uÅ¼ytkownikÃ³w do zapoznania siÄ z naszÄ praktykÄ w
+zakresie prywatnoÅci. W razie jakichkolwiek pytaÅ moÅ¼na skontaktowaÄ siÄ
+z nami.
+
+PowrÃ³t do gÃ³ry
+
+## Gromadzone informacje
+
+Aby oferowaÄ wszystkim uÅ¼ytkownikom lepsze usÅugi, zbieramy rÃ³Å¼norodne
+informacje â od informacji podstawowych, takich jak okreÅlenie, jakim
+jÄzykiem posÅuguje siÄ uÅ¼ytkownik, aÅ¼ po te bardziej zÅoÅ¼one, np.
+ustalenie najbardziej przydatnych reklam, najbliÅ¼szych internetowych
+znajomych lub ulubionych filmÃ³w na YouTube.
+
+Gromadzimy informacje w nastÄpujÄ cy sposÃ³b:
+
+  * Informacje podawane przez uÅ¼ytkownika â przykÅadowo wiele naszych usÅug wymaga zaÅoÅ¼enia konta Google. W takich przypadkach prosimy o podanie danych osobowych, takich jak imiÄ i nazwisko, adres e-mail, numer telefonu czy numer karty kredytowej. BÄdziemy je przechowywaÄ z danymi konta. JeÅli uÅ¼ytkownik chce w peÅni wykorzystaÄ oferowane przez nas funkcje udostÄpniania treÅci, jest rÃ³wnieÅ¼ proszony o utworzenie publicznego profilu Google zawierajÄ cego m.in. jego imiÄ i nazwisko oraz zdjÄcie. 
+  * Informacje uzyskiwane podczas korzystania z usÅug Google â zbieramy dane o usÅugach, z ktÃ³rych korzysta uÅ¼ytkownik, oraz sposobie, w jaki to robi (np. wÃ³wczas, gdy oglÄ da film na YouTube, odwiedza witrynÄ, w ktÃ³rej dziaÅa nasz program reklamowy lub wyÅwietla i klika udostÄpnione przez nas reklamy i materiaÅy. SÄ to miÄdzy innymi: 
+    * Informacje o urzÄ dzeniu
+
+Gromadzimy dane dotyczÄ ce urzÄ dzenia (takie jak model sprzÄtu, wersja
+systemu operacyjnego i unikalny identyfikator urzÄ dzenia, a takÅ¼e informacje
+o sieci komÃ³rkowej, w tym numer telefonu). Identyfikator urzÄ dzenia i numer
+telefonu mogÄ zostaÄ powiÄ zane z kontem Google.
+
+    * Informacje w dziennikach
+
+Gdy uÅ¼ytkownik korzysta z usÅug lub wyÅwietla treÅci udostÄpnione przez
+Google, automatycznie zbieramy okreÅlone informacje i zapisujemy je w
+dziennikach serwerÃ³w. SÄ to miÄdzy innymi:
+
+      * szczegÃ³Åy dotyczÄ ce sposobu korzystania z usÅugi, np. wyszukiwane hasÅa; 
+      * dane z dziennika poÅÄ czeÅ telefonicznych, takie jak numer telefonu uÅ¼ytkownika, numer rozmÃ³wcy, numery docelowe przekazywania, daty i godziny rozmÃ³w, czasy trwania rozmÃ³w, ustawienia przesyÅania wiadomoÅci SMS oraz typy poÅÄ czeÅ telefonicznych. 
+      * adres IP; 
+      * dane o dziaÅaniu urzÄ dzenia, m.in. o awariach, aktywnoÅci systemu, ustawieniach sprzÄtu, typie i jÄzyku przeglÄ darki, datach i godzinach przesyÅanych Å¼Ä daÅ oraz odsyÅajÄ cych adresach URL; 
+      * pliki cookie, ktÃ³re mogÄ jednoznacznie identyfikowaÄ danÄ przeglÄ darkÄ lub konto Google.
+    * Informacje o lokalizacji
+
+JeÅli uÅ¼ytkownik korzysta z usÅug Google, moÅ¼emy gromadziÄ i przetwarzaÄ
+informacje na temat rzeczywistego miejsca pobytu uÅ¼ytkownika. Stosujemy
+rÃ³Å¼ne technologie, aby okreÅliÄ tÄ lokalizacjÄ, w tym adres IP, GPS i
+inne czujniki np. przekazujÄ ce Google informacje na temat pobliskich urzÄ
+dzeÅ, punktÃ³w dostÄpu do sieci Wi-Fi czy stacji bazowych sieci komÃ³rkowej.
+
+    * Unikalne numery aplikacji
+
+W okreÅlonych usÅugach wystÄpuje unikalny numer aplikacji. Ten numer wraz z
+informacjami na temat danej instalacji (takimi jak typ systemu operacyjnego i
+numer wersji aplikacji) moÅ¼e zostaÄ wysÅany do Google, gdy usÅuga jest
+instalowana lub odinstalowywana bÄ dÅº okresowo kontaktuje siÄ z naszymi
+serwerami (np. w celu automatycznej aktualizacji).
+
+    * PamiÄÄ lokalna
+
+MoÅ¼emy zbieraÄ informacje (m.in. dane osobowe) i przechowywaÄ je lokalnie
+na urzÄ dzeniu uÅ¼ytkownika, korzystajÄ c z takich mechanizmÃ³w jak pamiÄÄ
+podrÄczna przeglÄ darki (w tym protokÃ³Å HTML 5) oraz pamiÄci podrÄczne
+aplikacji.
+
+    * Pliki cookie i podobne technologie
+
+Gdy uÅ¼ytkownik korzysta z usÅugi Google, stosujemy, podobnie jak nasi
+partnerzy, rÃ³Å¼ne technologie do gromadzenia i zapisywania informacji â
+moÅ¼e to obejmowaÄ pliki cookie lub podobne technologie umoÅ¼liwiajÄ ce
+identyfikacjÄ przeglÄ darki lub urzÄ dzenia uÅ¼ytkownika. Technologie te
+wykorzystujemy rÃ³wnieÅ¼ do gromadzenia informacji wtedy, gdy uÅ¼ytkownik
+wchodzi w interakcjÄ z usÅugami, ktÃ³re oferujemy naszym partnerom, takimi
+jak usÅugi reklamowe czy funkcje Google dziaÅajÄ ce w innych witrynach.
+Nasza usÅuga Google Analytics pomaga firmom i wÅaÅcicielom witryn
+analizowaÄ ruch na ich witrynach i w aplikacjach. W przypadku korzystania z
+Google Analytics w poÅÄ czeniu z usÅugami reklamowymi, na przykÅad tymi,
+ktÃ³re korzystajÄ z plikÃ³w cookie DoubleClick, informacje z Google Analytics
+sÄ ÅÄ czone przez klienta Google Analytics lub przez nas, za pomocÄ
+technologii Google, z informacjami na temat wizyt w wielu witrynach.
+
+Poza informacjami uzyskanymi o uÅ¼ytkowniku od naszych partnerÃ³w, z kontem
+Google uÅ¼ytkownika moÅ¼emy powiÄ zaÄ takÅ¼e informacje gromadzone przez nas
+od momentu jego zalogowania siÄ do Google. Informacje powiÄ zane z kontem
+Google uÅ¼ytkownika traktujemy jako dane osobowe. WiÄcej informacji na temat
+sposobu uzyskiwania dostÄpu, zarzÄ dzania lub usuwania przez uÅ¼ytkownika
+danych powiÄ zanych z jego kontem zawiera sekcja TransparentnoÅÄ i wybÃ³r w
+niniejszych zasadach.
+
+PowrÃ³t do gÃ³ry
+
+## Sposoby wykorzystania zgromadzonych informacji
+
+Dane zbierane za poÅrednictwem wszystkich naszych usÅug sÅuÅ¼Ä do
+udostÄpniania, utrzymywania, ochrony i udoskonalania ich w celu tworzenia
+nowych usÅug, a takÅ¼e ochrony firmy Google i jej uÅ¼ytkownikÃ³w.
+Wykorzystujemy je rÃ³wnieÅ¼, oferujÄ c dostosowane treÅci â np. w postaci
+trafniejszych wynikÃ³w wyszukiwania oraz reklam.
+
+ImiÄ i nazwisko podane przez uÅ¼ytkownika w profilu Google moÅ¼e byÄ
+stosowane we wszelkich usÅugach, ktÃ³re wymagajÄ konta Google. Ponadto moÅ¼e
+ono zastÄ piÄ poprzednie takie dane powiÄ zane z kontem Google, tak aby
+uÅ¼ytkownik byÅ w jednakowy sposÃ³b reprezentowany we wszystkich naszych
+usÅugach. Osoby, ktÃ³re znajÄ adres e-mail uÅ¼ytkownika lub inne identyfikujÄ
+ce go dane, mogÄ zobaczyÄ publicznie dostÄpne dane z jego profilu Google,
+takie jak imiÄ i nazwisko oraz zdjÄcie.
+
+Google moÅ¼e w swoich usÅugach, w tym w reklamach i innych materiaÅach o
+charakterze komercyjnym, wyÅwietlaÄ nazwÄ profilu, zdjÄcie profilowe oraz
+czynnoÅci wykonywane przez wÅaÅciciela konta Google w odniesieniu do
+posiadanego konta Google lub aplikacji innych firm poÅÄ czonych z kontem
+Google (takich jak klikniÄcia +1, opublikowane opinie oraz komentarze).
+Szanujemy wybory uÅ¼ytkownikÃ³w w zakresie ograniczeÅ udostÄpniania lub
+ustawieÅ widocznoÅci konta Google.
+
+JeÅli uÅ¼ytkownik kontaktuje siÄ z Google, przechowujemy zwiÄ zanÄ z tym
+korespondencjÄ, aby uÅatwiÄ rozwiÄ zywanie wszelkich problemÃ³w. Adres
+e-mail uÅ¼ytkownika moÅ¼emy wykorzystywaÄ do informowania go o naszych
+usÅugach, w tym o nadchodzÄ cych zmianach lub udoskonaleniach.
+
+Informacje zgromadzone za pomocÄ plikÃ³w cookie i innych technologii (takich
+jak tagi pikselowe) sÅuÅ¼Ä do zwiÄkszania wygody uÅ¼ytkownikÃ³w oraz poprawy
+ogÃ³lnej jakoÅci oferowanych przez nas usÅug. JednÄ z usÅug peÅniÄ cych to
+zadanie w odniesieniu do naszych wÅasnych usÅug jest Google Analytics. Na
+przykÅad dziÄki zapisywaniu ustawieÅ jÄzykowych usÅugi mogÄ byÄ
+wyÅwietlane w jÄzyku preferowanym przez uÅ¼ytkownika. Podczas pokazywania
+dostosowanych reklam nie kojarzymy identyfikatorÃ³w z plikÃ³w cookie ani
+podobnych technologii z poufnymi kategoriami (takimi jak rasa, religia,
+orientacja seksualna czy zdrowie).
+
+Nasze automatyczne systemy analizujÄ treÅÄ (w tym wiadomoÅci e-mail) w celu
+oferowania spersonalizowanych funkcji usÅug, takich jak wyniki wyszukiwania,
+reklamy indywidualne i wykrywanie spamu oraz zÅoÅliwego oprogramowania.
+
+Dane osobowe z jednej usÅugi mogÄ byÄ ÅÄ czone z informacjami (w tym danymi
+osobowymi) z pozostaÅych usÅug Google â aby np. uÅatwiÄ udostÄpnianie
+materiaÅÃ³w znajomym. W zaleÅ¼noÅci od ustawieÅ konta moÅ¼emy powiÄ zaÄ
+dziaÅania, ktÃ³re wykonujesz w witrynach i aplikacjach, z Twoimi danymi
+osobowymi. Pomaga nam to w ulepszaniu usÅug i reklam Google.
+
+Przed wykorzystaniem informacji w celu innym niÅ¼ wymienione w niniejszej
+Polityce prywatnoÅci prosimy uÅ¼ytkownika o pozwolenie.
+
+Google przetwarza dane osobowe na serwerach w wielu krajach na caÅym
+Åwiecie. MoÅ¼e siÄ to odbywaÄ poza krajem zamieszkania uÅ¼ytkownika.
+
+PowrÃ³t do gÃ³ry
+
+## TransparentnoÅÄ i wybÃ³r
+
+Ludzie majÄ rÃ³Å¼ne obawy zwiÄ zane z ochronÄ prywatnoÅci. Naszym celem jest
+jednoznaczne okreÅlenie, jakie informacje gromadzimy, dziÄki czemu
+uÅ¼ytkownik ma moÅ¼liwoÅÄ podejmowania istotnych decyzji co do sposobÃ³w ich
+wykorzystania. UÅ¼ytkownik moÅ¼e na przykÅad:
+
+  * NaleÅ¼y sprawdziÄ i zaktualizowaÄ ustawienia zarzÄ dzania aktywnoÅciÄ w Google, by zdecydowaÄ, jakie typy danych, na przykÅad filmy obejrzane w serwisie YouTube lub hasÅa wyszukiwane w przeszÅoÅci, bÄdÄ zapisywane na koncie uÅ¼ytkownika podczas korzystania z usÅug Google. MoÅ¼na rÃ³wnieÅ¼ sprawdziÄ te ustawienia, ktÃ³re pozwalajÄ okreÅliÄ, czy dana aktywnoÅÄ ma byÄ zapisywana w pliku cookie lub podobnÄ metodÄ na urzÄ dzeniu w przypadku korzystania z naszych usÅug bez zalogowania siÄ na swoje konto. 
+  * PrzeglÄ daÄ i kontrolowaÄ okreÅlone typy informacji powiÄ zanych z jego kontem Google, korzystajÄ c z Panelu Google. 
+  * WyÅwietlaÄ i edytowaÄ ustawienia dotyczÄ ce reklam wyÅwietlanych w Google i caÅej sieci (m.in. wybieraÄ interesujÄ ce go kategorie) za pomocÄ ustawieÅ reklam. UÅ¼ytkownik moÅ¼e rÃ³wnieÅ¼ odwiedziÄ tÄ stronÄ, by zrezygnowaÄ z okreÅlonych usÅug reklamowych Google. 
+  * DostosowaÄ sposÃ³b wyÅwietlania profilu wÅasnego konta Google innym uÅ¼ytkownikom. 
+  * DecydowaÄ, komu bÄdÄ udostÄpniane informacje za poÅrednictwem konta Google. 
+  * ZbieraÄ informacje zwiÄ zane z kontem Google z wielu naszych usÅug. 
+  * WybieraÄ, czy nazwa profilu i zdjÄcie profilowe bÄdÄ siÄ pojawiaÄ w rekomendacjach spoÅecznoÅciowych wyÅwietlanych w reklamach.
+
+Inne dostÄpne moÅ¼liwoÅci to skonfigurowanie blokowania wszystkich plikÃ³w
+cookie w przeglÄ darce, takÅ¼e tych zwiÄ zanych z usÅugami Google, oraz
+otrzymywania powiadomieÅ o tworzeniu takich plikÃ³w przez nasze witryny.
+NaleÅ¼y jednak pamiÄtaÄ, Å¼e po wyÅÄ czeniu obsÅugi plikÃ³w cookie wiele
+naszych usÅug moÅ¼e nie dziaÅaÄ poprawnie. Na przykÅad ustawienia
+jÄzykowe mogÄ nie zostaÄ zapamiÄtane.
+
+PowrÃ³t do gÃ³ry
+
+## Informacje udostÄpniane przez uÅ¼ytkownika
+
+Wiele usÅug Google pozwala udostÄpniaÄ informacje innym uÅ¼ytkownikom.
+Warto pamiÄtaÄ, Å¼e publicznie udostÄpnione treÅci mogÄ byÄ indeksowane
+przez wyszukiwarki, takie jak Google. Nasze usÅugi zawierajÄ rÃ³Å¼ne opcje
+udostÄpniania i usuwania materiaÅÃ³w uÅ¼ytkownika.
+
+PowrÃ³t do gÃ³ry
+
+## Uzyskiwanie dostÄpu do danych osobowych i ich aktualizowanie
+
+ZaleÅ¼y nam, aby uÅ¼ytkownik korzystajÄ cy z usÅug Google miaÅ dostÄp do
+swoich danych osobowych. JeÅli sÄ one niepoprawne, staramy siÄ umoÅ¼liwiÄ
+ich szybkÄ aktualizacjÄ lub usuniÄcie, chyba Å¼e musimy je zachowaÄ w
+uzasadnionych celach biznesowych lub prawnych. Podczas aktualizacji swoich
+danych osobowych uÅ¼ytkownik moÅ¼e zostaÄ poproszony o potwierdzenie swojej
+toÅ¼samoÅci, zanim jego Å¼Ä danie zostanie uwzglÄdnione.
+
+MoÅ¼emy odmÃ³wiÄ speÅnienia Å¼Ä daÅ bezzasadnie wielokrotnie przesyÅanych,
+wymagajÄ cych nieproporcjonalnych nakÅadÃ³w prac technicznych (np.
+opracowania nowego systemu lub caÅkowitej zmiany dotychczasowej praktyki),
+stwarzajÄ cych ryzyko naruszenia prywatnoÅci innych osÃ³b, skrajnie trudnych
+do zrealizowania (m.in. dotyczÄ cych informacji znajdujÄ cych siÄ w systemach
+kopii zapasowych).
+
+JeÅli jesteÅmy w stanie zapewniÄ moÅ¼liwoÅÄ dostÄpu do danych i
+poprawienia ich, robimy to bezpÅatnie z wyjÄ tkiem przypadkÃ³w, w ktÃ³rych
+wymaga to nieproporcjonalnego nakÅadu pracy. DokÅadamy wszelkich staraÅ,
+aby utrzymywaÄ usÅugi w sposÃ³b, ktÃ³ry chroni informacje przed przypadkowym
+lub zÅoÅliwym zniszczeniem. Z tego wzglÄdu, gdy uÅ¼ytkownik usunie dane z
+usÅug Google, ich kopie nie zawsze sÄ natychmiast usuwane z aktywnych
+serwerÃ³w oraz mogÄ nadal byÄ przechowywane w systemach kopii zapasowych.
+
+PowrÃ³t do gÃ³ry
+
+## Informacje udostÄpniane przez Google
+
+Nie udostÄpniamy danych osobowych firmom, organizacjom ani osobom spoza firmy
+Google, jeÅli nie zaistnieje co najmniej jedna z nastÄpujÄ cych
+okolicznoÅci:
+
+  * UÅ¼ytkownik wyraziÅ zgodÄ
+
+UdostÄpniamy dane osobowe firmom, organizacjom i osobom spoza firmy Google,
+jeÅli uÅ¼ytkownik wyrazi na to zgodÄ. UdostÄpnienie jakichkolwiek
+wraÅ¼liwych danych osobowych wymaga uzyskania zgody uÅ¼ytkownika.
+
+  * OdbiorcÄ jest administrator domeny
+
+JeÅli kontem Google uÅ¼ytkownika zarzÄ dza w jego imieniu administrator
+domeny (dotyczy to np. osÃ³b korzystajÄ cych z usÅugi G Suite), wÃ³wczas
+okreÅlony administrator domeny oraz przedstawiciele firmy ÅwiadczÄ cej pomoc
+technicznÄ czÅonkom organizacji uÅ¼ytkownika majÄ dostÄp do informacji na
+jego koncie Google (takich jak poczta e-mail i inne dane). Administrator
+domeny uÅ¼ytkownika moÅ¼e:
+
+    * WyÅwietliÄ statystyki dotyczÄ ce konta, w tym instalowanych przez uÅ¼ytkownika aplikacji. 
+    * ZmieniÄ hasÅo do konta. 
+    * ZawiesiÄ lub zablokowaÄ dostÄp do konta. 
+    * PrzejrzeÄ i zachowaÄ informacje znajdujÄ ce siÄ na koncie. 
+    * PobraÄ informacje z konta, aby zapewniÄ zgodnoÅÄ z obowiÄ zujÄ cym prawem, przepisami, procedurÄ prawnÄ lub prawomocnym Å¼Ä daniem instytucji paÅstwowej. 
+    * OgraniczyÄ moÅ¼liwoÅÄ usuwania lub edytowania danych bÄ dÅº ustawieÅ prywatnoÅci.
+
+WiÄcej informacji moÅ¼na znaleÅºÄ w polityce prywatnoÅci konkretnego
+administratora domeny.
+
+  * Dane sÄ przetwarzane przez podmiot zewnÄtrzny.
+
+Dane osobowe przekazujemy podmiotom stowarzyszonym i innym zaufanym firmom lub
+osobom, ktÃ³re przetwarzajÄ je na potrzeby Google zgodnie z naszymi
+instrukcjami i PolitykÄ prywatnoÅci oraz przy zastosowaniu wszelkich
+odpowiednich ÅrodkÃ³w ochrony poufnoÅci i bezpieczeÅstwa informacji.
+
+  * IstniejÄ przyczyny prawne.
+
+UdostÄpniamy dane osobowe firmom, organizacjom i osobom spoza firmy Google,
+jeÅli w dobrej wierze uznamy, Å¼e udostÄpnienie, wykorzystanie, zachowanie
+lub ujawnienie danych jest uzasadnione w zwiÄ zku z:
+
+    * dÄ Å¼eniem do speÅniania wymogÃ³w obowiÄ zujÄ cego prawa, przepisÃ³w, procesÃ³w prawnych lub prawomocnych Å¼Ä daÅ instytucji paÅstwowych. 
+    * egzekwowaniem obowiÄ zujÄ cych WarunkÃ³w korzystania z usÅugi, w tym badaniem potencjalnych naruszeÅ; 
+    * wykrywaniem oszustw i zapobieganiem im, a takÅ¼e rozwiÄ zywaniem innych problemÃ³w dotyczÄ cych oszustw, bezpieczeÅstwa i kwestii technicznych; 
+    * ochronÄ praw, wÅasnoÅci lub bezpieczeÅstwa firmy Google, uÅ¼ytkownikÃ³w jej produktÃ³w oraz pozostaÅych osÃ³b w sposÃ³b wymagany bÄ dÅº dozwolony przez przepisy prawa.
+
+Informacje, ktÃ³re nie umoÅ¼liwiajÄ identyfikacji konkretnej osoby moÅ¼emy
+udostÄpniaÄ publicznie oraz naszym partnerom, takim jak wydawcy,
+reklamodawcy i podmioty obsÅugujÄ ce witryny. MoÅ¼emy na przykÅad
+opublikowaÄ dane, aby pokazaÄ ogÃ³lne trendy dotyczÄ ce korzystania z
+naszych usÅug.
+
+W przypadku fuzji lub przejÄcia firmy Google bÄ dÅº sprzedaÅ¼y jej aktywÃ³w
+zapewnimy poufnoÅÄ wszelkich danych osobowych oraz powiadomimy odpowiednich
+uÅ¼ytkownikÃ³w, zanim ich dane osobowe zostanÄ przeniesione lub objÄte innÄ
+politykÄ prywatnoÅci.
+
+PowrÃ³t do gÃ³ry
+
+## BezpieczeÅstwo informacji
+
+DokÅadamy wszelkich staraÅ, aby chroniÄ firmÄ Google i uÅ¼ytkownikÃ³w
+przed nieuprawnionym dostÄpem, nieautoryzowanÄ modyfikacjÄ , ujawnieniem oraz
+zniszczeniem informacji znajdujÄ cych siÄ w posiadaniu Google. W
+szczegÃ³lnoÅci:
+
+  * W wielu naszych usÅugach stosujemy szyfrowanie SSL. 
+  * Oferujemy dwuetapowÄ weryfikacjÄ zabezpieczajÄ cÄ dostÄp do konta Google oraz funkcjÄ Bezpieczne przeglÄ danie w przeglÄ darce Google Chrome. 
+  * Kontrolujemy nasze metody gromadzenia, przechowywania i przetwarzania informacji, w tym fizyczne Årodki bezpieczeÅstwa, aby chroniÄ przed nieuprawnionym dostÄpem do systemu. 
+  * DostÄpu do danych osobowych udzielamy jedynie tym pracownikom, kontrahentom i przedstawicielom Google, ktÃ³rzy muszÄ mieÄ do nich dostÄp, aby przetwarzaÄ je na potrzeby Google. Ponadto na mocy umowy sÄ oni zobowiÄ zani do zachowania ÅcisÅej poufnoÅci, a w przypadku niewypeÅnienia tych zobowiÄ zaÅ mogÄ ponieÅÄ konsekwencje, ÅÄ cznie z zakoÅczeniem wspÃ³Åpracy.
+
+PowrÃ³t do gÃ³ry
+
+## Kiedy ta polityka prywatnoÅci ma zastosowanie
+
+Nasza Polityka prywatnoÅci obowiÄ zuje w stosunku do wszystkich usÅug
+oferowanych przez Google Inc. i jej podmioty stowarzyszone, w tym usÅug w
+serwisie YouTube, usÅug Google na urzÄ dzenia z Androidem, a takÅ¼e usÅug
+oferowanych w innych witrynach (na przykÅad reklamowych), ale z wyÅÄ czeniem
+usÅug, dla ktÃ³rych obowiÄ zujÄ odrÄbne polityki prywatnoÅci, ktÃ³re nie
+zawierajÄ niniejszej Polityki prywatnoÅci.
+
+Polityka prywatnoÅci Google nie ma zastosowania do usÅug oferowanych przez
+inne firmy lub osoby, w tym produktÃ³w i witryn wyÅwietlanych w wynikach
+wyszukiwania, witryn zawierajÄ cych usÅugi Google oraz innych witryn, do
+ktÃ³rych prowadzÄ linki z naszych usÅug. Polityce prywatnoÅci nie podlegajÄ
+metody obsÅugi informacji stosowane przez inne firmy i organizacje, ktÃ³re
+reklamujÄ nasze usÅugi oraz ktÃ³re mogÄ stosowaÄ pliki cookie, tagi
+pikselowe oraz pozostaÅe technologie w celu wyÅwietlania i oferowania
+trafnych reklam.
+
+PowrÃ³t do gÃ³ry
+
+## ZgodnoÅÄ i wspÃ³Åpraca z wÅadzami
+
+Regularnie sprawdzamy zgodnoÅÄ naszych procedur z PolitykÄ prywatnoÅci.
+Przestrzegamy rÃ³wnieÅ¼ kilku wewnÄtrznych wytycznych, w tym EU-US Privacy
+Shield Framework (Tarczy PrywatnoÅci UE-USA) i Swiss-US Privacy Shield
+Framework (Tarczy PrywatnoÅci Szwajcaria-USA). Po otrzymaniu formalnej skargi
+na piÅmie kontaktujemy siÄ z osobÄ , ktÃ³ra jÄ zÅoÅ¼yÅa. WspÃ³Åpracujemy
+z odpowiednimi instytucjami nadzorczymi, w tym z lokalnymi urzÄdami ochrony
+danych, w celu rozstrzygania wszelkich skarg dotyczÄ cych przekazywania danych
+osobowych, ktÃ³rych nie moÅ¼emy rozstrzygnÄ Ä bezpoÅrednio z uÅ¼ytkownikami
+naszych produktÃ³w i usÅug.
+
+PowrÃ³t do gÃ³ry
+
+## Zmiany
+
+Polityka prywatnoÅci Google moÅ¼e czasami ulegaÄ zmianom. Prawa uÅ¼ytkownika
+wynikajÄ ce z niniejszej Polityki prywatnoÅci nie zostanÄ ograniczone bez
+wyraÅºnej zgody uÅ¼ytkownika. Wszelkie zmiany Polityki prywatnoÅci bÄdÄ
+publikowane na tej stronie, a o istotnych zmianach bÄdziemy informowaÄ w
+bardziej widoczny sposÃ³b (w przypadku niektÃ³rych usÅug ÅÄ cznie z
+wysÅaniem odpowiedniego powiadomienia e-mail). Zachowujemy rÃ³wnieÅ¼
+poprzednie wersje niniejszej Polityki prywatnoÅci w archiwum, aby umoÅ¼liwiÄ
+uÅ¼ytkownikom zapoznanie siÄ z nimi.
+
+PowrÃ³t do gÃ³ry
+
+## Procedury dotyczÄ ce konkretnych usÅug
+
+W poniÅ¼szych informacjach opisano okreÅlone procedury ochrony prywatnoÅci
+obowiÄ zujÄ ce w zwiÄ zku z konkretnymi usÅugami i aplikacjami Google
+dostÄpnymi dla uÅ¼ytkownikÃ³w:
+
+  * PrzeglÄ darka i system operacyjny Chrome
+  * KsiÄ Å¼ki Play
+  * Payments
+  * Fiber
+  * Project Fi
+  * G Suite for Education
+
+SzczegÃ³Åowe informacje na temat niektÃ³rych naszych najbardziej popularnych
+usÅug zawiera Przewodnik po prywatnoÅci usÅug Google.
+
+PowrÃ³t do gÃ³ry
+
+## Inne przydatne materiaÅy z zakresu ochrony prywatnoÅci i bezpieczeÅstwa
+
+Inne przydatne materiaÅy na temat prywatnoÅci i bezpieczeÅstwa znajdujÄ
+siÄ na stronach polityk i zasad Google. ZawierajÄ one miÄdzy innymi:
+
+  * Informacje o naszych technologiach i zasadach â moÅ¼na tu znaleÅºÄ, miÄdzy innymi, szczegÃ³Åowe informacje na temat: 
+    * wykorzystania przez Google plikÃ³w cookie. 
+    * technologii uÅ¼ywanych w reklamach. 
+    * rozpoznawania przez nas ksztaÅtÃ³w takich jak twarze.
+  * StronÄ opisujÄ cÄ dane udostÄpniane Google podczas odwiedzania witryn zawierajÄ cych nasze reklamy, korzystajÄ cych z naszych usÅug analitycznych i spoÅecznoÅciowych. 
+  * NarzÄdzie Ustawienia PrywatnoÅci, ktÃ³re uÅatwia sprawdzanie gÅÃ³wnych ustawieÅ prywatnoÅci uÅ¼ytkownika. 
+  * Centrum bezpieczeÅstwa Google zawierajÄ ce informacje na temat zapewnienia bezpieczeÅstwa w sieci.
+
+#### PrzykÅad
+
+## âdostÄp do informacji osobistychâ
+
+Na przykÅad Panel Google pomoÅ¼e Ci Åatwo i szybko dotrzeÄ do danych powiÄ
+zanych z Twoim kontem Google.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## ânajbardziej przydatne reklamyâ
+
+Na przykÅad jeÅli czÄsto odwiedzasz witryny i blogi poÅwiÄcone
+ogrodnictwu, w ktÃ³rych wyÅwietlajÄ siÄ nasze reklamy, podczas przeglÄ dania
+internetu moÅ¼esz zaczÄ Ä natrafiaÄ na reklamy powiÄ zane z ogrodnictwem.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âusÅugi reklamoweâ
+
+JeÅli na przykÅad czÄsto odwiedzasz witryny i blogi poÅwiÄcone
+ogrodnictwu, w ktÃ³rych wyÅwietlajÄ siÄ nasze reklamy, podczas przeglÄ dania
+internetu moÅ¼esz zaczÄ Ä natrafiaÄ na reklamy powiÄ zane z Twoimi
+zainteresowaniami.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âi inne czujnikiâ
+
+UrzÄ dzenie uÅ¼ytkownika moÅ¼e byÄ wyposaÅ¼one w czujniki, ktÃ³re dostarczajÄ
+informacje umoÅ¼liwiajÄ ce lepsze rozpoznanie lokalizacji. Akcelerometr moÅ¼e
+na przykÅad sÅuÅ¼yÄ do okreÅlenia prÄdkoÅci, a Å¼yroskop do ustalenia
+kierunku jazdy.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âzbieranie informacjiâ
+
+Chodzi tu o informacje o uÅ¼yciu czy preferencjach, wiadomoÅci z Gmaila,
+profil Google+, zdjÄcia, filmy, historiÄ przeglÄ dania, wyszukiwania na
+mapach, dokumenty i inne materiaÅy na serwerach Google.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âÅÄ czenie informacji osobistych z jednej usÅugi z informacjami (w tym
+osobistymi) z innych usÅug Googleâ
+
+Na przykÅad jeÅli siÄ zalogujesz na konto Google i wyszukasz coÅ w Google,
+zobaczysz wyniki o charakterze publicznym wraz ze stronami, zdjÄciami i
+wpisami Twoich znajomych w Google+. Natomiast osoby, ktÃ³rzy CiÄ znajÄ lub
+obserwujÄ w Google+, mogÄ w swoich wynikach zobaczyÄ Twoje wpisy i profil.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## ânawiÄ zywanie kontaktÃ³wâ
+
+MogÅy siÄ na przykÅad wyÅwietliÄ propozycje osÃ³b, ktÃ³re prawdopodobnie
+znasz lub z ktÃ³rymi mÃ³gÅbyÅ chcieÄ siÄ poÅÄ czyÄ w Google+, wybrane na
+podstawie Twoich poÅÄ czeÅ w innych usÅugach Google, takich jak Gmail.
+Podobnie osobom, ktÃ³re sÄ poÅÄ czone z TobÄ , moÅ¼emy zasugerowaÄ TwÃ³j
+profil.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âkarta kredytowaâ
+
+Nie prosimy obecnie o podawanie numeru karty kredytowej podczas rejestracji,
+jednak w przypadku transakcji na niewielkÄ kwotÄ, realizowanej przy uÅ¼yciu
+karty kredytowej, moÅ¼e to byÄ dobry sposÃ³b na potwierdzenie, Å¼e speÅniasz
+nasze wymagania co do wieku. Taka weryfikacja przyda siÄ, jeÅli Twoje konto
+zostaÅo wczeÅniej zablokowane, gdy wprowadziÅeÅ datÄ urodzin wskazujÄ cÄ
+, Å¼e nie masz odpowiedniego wieku, by posiadaÄ konto Google.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âopracowywanie nowych funkcjiâ
+
+Na przykÅad oprogramowanie Google do sprawdzania pisowni powstaÅo w oparciu
+o analizÄ wyszukiwaÅ, w ktÃ³rych uÅ¼ytkownicy poprawiali swojÄ wczeÅniejszÄ
+bÅÄdnÄ pisowniÄ.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âidentyfikatory urzÄ dzeÅâ
+
+Identyfikatory urzÄ dzeÅ informujÄ Google, na jakim urzÄ dzeniu korzystasz z
+naszych usÅug. Te informacje mogÄ nam pomÃ³c dopasowaÄ usÅugi do Twojego
+urzÄ dzenia i analizowaÄ powiÄ zane z nimi problemy sprzÄtowe.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âinformacje wÅaÅciwe dla urzÄ dzeniaâ
+
+Na przykÅad jeÅli odwiedzasz Google Play na komputerze, Google moÅ¼e
+wykorzystaÄ tÄ informacjÄ i pomÃ³c Ci wybraÄ urzÄ dzenia, na ktÃ³rych ma
+byÄ dostÄpny kupowany produkt.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âpeÅniejsze wykorzystanie moÅ¼liwoÅciâ
+
+Na przykÅad pliki cookie pozwalajÄ nam analizowaÄ sposÃ³b interakcji
+uÅ¼ytkownikÃ³w z naszymi usÅugami.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âpostÄpowanie sÄ dowe i wezwania dokonywane przez organy administracji
+paÅstwowejâ
+
+Podobnie jak inne firmy technologiczne i komunikacyjne Google regularnie
+otrzymuje wezwania do przekazania danych uÅ¼ytkownikÃ³w od instytucji
+paÅstwowych i sÄ dÃ³w z caÅego Åwiata. Nasz zespÃ³Å prawny sprawdza kaÅ¼dy
+wniosek, niezaleÅ¼nie od jego rodzaju, i czÄsto siÄ zdarza, Å¼e odrzucamy
+Å¼Ä dania, ktÃ³re wydajÄ siÄ nam zbyt ogÃ³lne lub niepoprawne z formalnego
+punktu widzenia.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âograniczenia udostÄpniania lub ustawieÅ widocznoÅciâ
+
+Na przykÅad moÅ¼na tak dobraÄ ustawienia, aby nazwa i zdjÄcie uÅ¼ytkownika
+nie pojawiaÅy siÄ w reklamie.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âpowiÄ zane z informacjami na temat wizyt w wielu witrynachâ
+
+UsÅuga Google Analytics jest oparta na wÅasnych plikach cookie. Dane
+generowane przez Google Analytics mogÄ byÄ poÅÄ czone przez klienta Google
+Analytics lub przez nas, za pomocÄ technologii Google, z plikami cookie innych
+firm zwiÄ zanymi z wizytami w innych witrynach, na przykÅad, gdy reklamodawca
+chce korzystaÄ z danych Google Analytics w celu stworzenia lepiej
+dostosowanych reklam lub do dalszej analizy ruchu w witrynie.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âutrzymanieâ
+
+Na przykÅad ciÄ gle monitorujemy pracÄ naszych systemÃ³w, kontrolujÄ c, czy
+dziaÅajÄ one w sposÃ³b zamierzony, oraz wyÅapujÄ c i naprawiajÄ c bÅÄdy.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âzbieranie i przetwarzanie informacji o lokalizacjiâ
+
+Na przykÅad widok mapy w Mapach Google moÅ¼e byÄ ustawiony na TwojÄ bieÅ¼Ä
+cÄ lokalizacjÄ.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âmoÅ¼liwoÅÄ nieprawidÅowego dziaÅaniaâ
+
+Na przykÅad uÅ¼ywamy plikÃ³w cookie o nazwie âlbcsâ, dziÄki ktÃ³rym
+moÅ¼esz otwieraÄ wiele dokumentÃ³w Google w jednej przeglÄ darce.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âpodobnie jak nasi partnerzyâ
+
+Pozwalamy zaufanym firmom korzystaÄ w celach reklamowych i badawczych z
+plikÃ³w cookie lub podobnych technologii naszych usÅug.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## ânumer telefonuâ
+
+Na przykÅad jeÅli dodasz numer telefonu jako opcjÄ odzyskiwania konta, gdy
+zapomnisz hasÅa, bÄdziemy Ci mogli wysÅaÄ SMS-a z kodem, za pomocÄ
+ktÃ³rego je zresetujesz.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âochrona Google i naszych uÅ¼ytkownikÃ³wâ
+
+Na przykÅad jeÅli niepokoi CiÄ moÅ¼liwoÅÄ nieuprawnionego dostÄpu do
+poczty e-mail, w polu âOstatnia aktywnoÅÄ kontaâ w Gmailu znajdziesz
+informacje o niedawnej aktywnoÅci na koncie e-mail, w tym adres IP, ktÃ³ry
+miaÅ dostÄp do poczty, powiÄ zanÄ z nim lokalizacjÄ, datÄ i godzinÄ.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âochronaâ
+
+Jednym z przykÅadowych powodÃ³w gromadzenia i analizowania danych zwiÄ zanych
+z adresem IP i plikÃ³w cookie jest ochrona naszych usÅug przed ich
+niewÅaÅciwym wykorzystaniem za pomocÄ rÃ³Å¼nych narzÄdzi automatycznych.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âudostÄpnianieâ
+
+Przypisany do urzÄ dzenia adres IP moÅ¼emy na przykÅad wykorzystaÄ do
+przesyÅania Å¼Ä danych przez uÅ¼ytkownika danych wprost do jego urzÄ dzenia.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âudostÄpnianieâ
+
+Na przykÅad Google+ oferuje wiele rÃ³Å¼nych opcji udostÄpniania.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âszybsze i Åatwiejsze udostÄpnianieâ
+
+Na przykÅad jeÅli masz juÅ¼ danÄ osobÄ w kontaktach, Google automatycznie
+uzupeÅni jej nazwÄ, gdy zechcesz dodaÄ jÄ jako odbiorcÄ wiadomoÅci w
+Gmailu.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âosoby, ktÃ³re sÄ dla Ciebie najwaÅ¼niejsze onlineâ
+
+Na przykÅad podczas wpisywania adresu w polu Do, DW lub UDW tworzonej
+wiadomoÅci Gmail zasugeruje adresy z listy kontaktÃ³w.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âÅatwiejsze udostÄpnianie materiaÅÃ³w osobom, ktÃ³re znaszâ
+
+Na przykÅad jeÅli kontaktowaÅeÅ siÄ z kimÅ za pomocÄ Gmaila i chcesz
+dodaÄ tÄ osobÄ do dokumentu Google lub zdarzenia w Kalendarzu Google,
+moÅ¼esz to Åatwo zrobiÄ dziÄki funkcji automatycznego uzupeÅniania adresu
+e-mail w momencie wpisywania nazwy.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âwyÅwietlanie naszych reklam i interakcja z nimiâ
+
+Na przykÅad regularnie zgÅaszamy reklamodawcom, czy wyÅwietliliÅmy ich
+reklamÄ na stronie i czy uÅ¼ytkownicy mogli tÄ reklamÄ zobaczyÄ (czy nie
+znajdowaÅa siÄ, dajmy na to, w czÄÅci strony, ktÃ³rej uÅ¼ytkownicy nie
+przewijali).
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âMoÅ¼emy prezentowaÄ publicznie zagregowane informacje, na podstawie
+ktÃ³rych nie da siÄ zidentyfikowaÄ konkretnych osÃ³bâ
+
+Gdy wiele osÃ³b zaczyna poszukiwaÄ informacji na ten sam temat, moÅ¼na Åatwo
+zdobyÄ wiele przydatnych informacji o aktualnych trendach.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âpunkty dostÄpu do sieci Wi-Fi i stacje bazowe sieci komÃ³rkowejâ
+
+Na przykÅad Google moÅ¼e okreÅliÄ w przybliÅ¼eniu lokalizacjÄ urzÄ dzenia
+w oparciu o znanÄ lokalizacjÄ pobliskich stacji bazowych sieci komÃ³rkowych.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âtrafniejsze wyniki wyszukiwaniaâ
+
+Na przykÅad moÅ¼emy zwiÄkszyÄ trafnoÅÄ i podnieÅÄ jakoÅÄ wynikÃ³w
+wyszukiwania, doÅÄ czajÄ c do nich zdjÄcia, wpisy i inne materiaÅy od
+Ciebie lub Twoich znajomych.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âusuwanie zawartoÅciâ
+
+UÅ¼ytkownik moÅ¼e usunÄ Ä swojÄ AktywnoÅÄ w internecie i aplikacjach,
+bloga, WitrynÄ Google, kanaÅ w YouTube, profil Google+ lub caÅe konto
+Google.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âaby pokazywaÄ trendyâ
+
+NiektÃ³re z nich znajdziesz w Trendach Google i w sekcji Na czasie w YouTube.
+
+WiÄcej informacji
+
+#### PrzykÅad
+
+## âTwoje dziaÅania w innych witrynach i aplikacjachâ
+
+DziaÅania te mogÄ wynikaÄ z uÅ¼ytkowania usÅug Google, takich jak
+Synchronizacja Chrome, lub korzystania z witryn i aplikacji naleÅ¼Ä cych do
+partnerÃ³w Google. Wielu wÅaÅcicieli witryn i aplikacji wspÃ³Åpracuje z
+Google, by podwyÅ¼szaÄ jakoÅÄ dostarczanych treÅci i oferowanych usÅug.
+Na przykÅad strona moÅ¼e korzystaÄ z naszych usÅug reklamowych (takich jak
+AdSense) lub narzÄdzi analitycznych (takich jak Google Analytics). UsÅugi te
+przekazujÄ do Google informacje na temat dziaÅaÅ uÅ¼ytkownikÃ³w. W
+zaleÅ¼noÅci od ustawieÅ konta i wykorzystywanych usÅug (na przykÅad gdy
+partner korzysta z Google Analytics w poÅÄ czeniu z innymi usÅugami
+reklamowymi) zgromadzone informacje mogÄ byÄ powiÄ zane z danymi osobowymi.
+
+WiÄcej informacji
+
+## Gwarantujemy prywatnoÅÄ i bezpieczeÅstwo Twoich osobistych informacji,
+zapewniajÄ c Ci kontrolÄ nad nimi.
+
+Dowiedz siÄ wiÄcej na temat naszych zobowiÄ zaÅ dotyczÄ cych Twojej
+prywatnoÅci i bezpieczeÅstwa.
+
+### Nasze zasady prawne
+
+  * Polityka prywatnoÅci 
+  * Warunki korzystania z usÅug
+  * NajczÄstsze pytania
+
+### WiÄcej informacji
+
+  * Technologie i zasady
+  * Reklamy
+  * Jak Google korzysta z plikÃ³w cookie
+  * Jak Google wykorzystuje mechanizmy rozpoznawania wzorcÃ³w
+  * Rodzaje danych o lokalizacji uÅ¼ywanych przez Google
+
+  * W jaki sposÃ³b Portfel Google wykorzystuje numery kart kredytowych
+  * Jak dziaÅa Google Voice
+  * Jak Google wykorzystuje dane gromadzone podczas korzystania z witryn i aplikacji naszych partnerÃ³w
+
+### Dodatkowe zasoby
+
+  * Moje konto
+  * Centrum bezpieczeÅstwa Google
+  * Przewodnik po zasadach prywatnoÅci w usÅugach Google
+  * Twoja prywatnoÅÄ, bezpieczeÅstwo i kontrola nad informacjami
+
+ZmieÅ jÄzyk: Afrikaans Bahasa Indonesia Bahasa Melayu CatalÃ ÄeÅ¡tina Dansk
+Deutsch Eesti English English (United Kingdom) EspaÃ±ol EspaÃ±ol
+(LatinoamÃ©rica) Euskara Filipino FranÃ§ais FranÃ§ais (Canada) Galego Hrvatski
+Isizulu Ãslenska Italiano Kiswahili LatvieÅ¡u LietuviÅ³ Magyar Nederlands
+Norsk Polski PortuguÃªs (Brasil) PortuguÃªs (Portugal) RomÃ¢nÄ SlovenÄina
+SlovenÅ¡Äina Suomi Svenska Tiáº¿ng Viá»t TÃ¼rkÃ§e ÎÎ»Î»Î·Î½Î¹ÎºÎ¬
+ÐÑÐ»Ð³Ð°ÑÑÐºÐ¸ Ð ÑÑÑÐºÐ¸Ð¹ Ð¡ÑÐ¿ÑÐºÐ¸ Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°
+â«×¢××¨××ªâ¬ â«Ø§Ø±Ø¯Ùâ¬ â«Ø§ÙØ¹Ø±Ø¨ÙØ©â¬ â«ÙØ§Ø±Ø³Ûâ¬ á
+áá­á à¤®à¤°à¤¾à¤ à¥ à¤¹à¤¿à¤¨à¥à¤¦à¥ à¦¬à¦¾à¦à¦²à¦¾
+àªà«àªàª°àª¾àª¤à« à®¤à®®à®¿à®´à¯ à°¤à±à°²à±à°à± à²à²¨à³à²¨à²¡
+à´®à´²à´¯à´¾à´³à´ à¹à¸à¸¢ íêµ­ì´ ä¸­æ (é¦æ¸¯)
+ä¸­æï¼ç®ä½ä¸­æï¼ ä¸­æï¼ç¹é«ä¸­æï¼ æ¥æ¬èª
+
+  * Google
+  * Wszystko o Google
+  * PrywatnoÅÄ
+  * Warunki
+

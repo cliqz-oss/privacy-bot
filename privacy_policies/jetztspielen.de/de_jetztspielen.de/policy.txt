@@ -1,0 +1,487 @@
+Wählen ein Thema
+
+  * Rot
+  * Blau
+  * Rosa
+
+Apps
+
+  * {text}
+
+Kategorien
+
+  * {text} ({games_number})
+
+Spiele
+
+  * {text}
+
+Mehr Ergebnisse anzeigen
+
+  * Apps
+
+  * Multiplayer
+
+  * Action
+
+  * Girls
+
+  * Denkspiele
+
+  * Simulation
+
+  * Sport
+
+  * Geschicklichkeit
+
+  * Mehr
+
+  * Für dich
+
+  * ### Top-Kategorien
+
+    * Soziale Spiele
+
+    * 2 Player
+
+    * Casino-Spiele
+
+    * MMO
+
+    * .io-Spiele
+
+ALLE MULTIPLAYER-SPIELE
+
+### Durchsuchen nach
+
+    * Beliebteste
+
+    * Meistgespielt
+
+    * Kürzlich hinzugefügt
+
+    * Alphabetisch sortiert
+
+### Spitzenspiele
+
+    * Forge of Empires
+
+    * Jackpot
+
+    * Goodgame Empire
+
+    * Royal Story
+
+    * Klondike - the lost expedition
+
+    * Slotomania
+
+### Unsere Empfehlung
+
+Dorfleben
+
+  * ### Top-Kategorien
+
+    * Abenteuer
+
+    * Arenakämpfe
+
+    * Plattformspiele
+
+    * Minecraft Spiele
+
+    * Superhelden
+
+    * Turmverteidigung
+
+    * Kriegsspiele
+
+    * Zombiespiele
+
+ALLE ACTIONSPIELE
+
+### Durchsuchen nach
+
+    * Beliebteste
+
+    * Meistgespielt
+
+    * Kürzlich hinzugefügt
+
+    * Alphabetisch sortiert
+
+### Spitzenspiele
+
+    * Easy Joe World
+
+    * Strike Force Heroes 3
+
+    * Schurkenseele 2
+
+    * Kingdom Rush: Frontiers
+
+    * Five Nights at Freddy's
+
+    * Super Smash Flash 2
+
+### Unsere Empfehlung
+
+SuperSnake.io
+
+  * ### Top-Kategorien
+
+    * Tierspiele
+
+    * Schönheit
+
+    * Betreuung
+
+    * Kochen
+
+    * Dekoration
+
+    * Styling
+
+    * Liebesspiele
+
+    * Prinzessinnenspiele
+
+ALLE SPIELE FÜR MÄDCHEN
+
+### Durchsuchen nach
+
+    * Beliebteste
+
+    * Meistgespielt
+
+    * Kürzlich hinzugefügt
+
+    * Alphabetisch sortiert
+
+### Spitzenspiele
+
+    * Fürs Traumdate anziehen
+
+    * Frisuren Designer
+
+    * DIY: Cooles Klamotten-Umstyling
+
+    * Wunderschöne Fingernägel
+
+    * Liebestester Deluxe 2
+
+    * Ellies Traumkleid
+
+### Unsere Empfehlung
+
+My Dolphin Show World
+
+  * ### Top-Kategorien
+
+    * Casino-Spiele
+
+    * Wimmelbilder
+
+    * Puzzle
+
+    * Mahjong
+
+    * Match 3
+
+    * Quiz & Tests
+
+    * Karten-Solitaire
+
+    * Sudoku
+
+ALLE DENKSPIELE
+
+### Durchsuchen nach
+
+    * Beliebteste
+
+    * Meistgespielt
+
+    * Kürzlich hinzugefügt
+
+    * Alphabetisch sortiert
+
+### Spitzenspiele
+
+    * Back to Candyland: Episode 3
+
+    * Mystisches Indien
+
+    * 1001 Arabian Nights 2
+
+    * Mahjong-Dimensionen
+
+    * Daily Difference
+
+    * Bubble Shooter
+
+### Unsere Empfehlung
+
+Mahjong-Titanen
+
+  * ### Top-Kategorien
+
+    * Einen Bauernhof leiten
+
+    * Angeln
+
+    * Flugspiele
+
+    * Zeitmanagement
+
+    * Musik
+
+    * Kellnern
+
+    * RPGs
+
+    * Chirurgie
+
+ALLE SIMULATIONSSPIELE
+
+### Durchsuchen nach
+
+    * Beliebteste
+
+    * Meistgespielt
+
+    * Kürzlich hinzugefügt
+
+    * Alphabetisch sortiert
+
+### Spitzenspiele
+
+    * Rollercoaster Creator
+
+    * Papas Bäckerei
+
+    * Burger Restaurant Express
+
+    * Farm Frenzy 2
+
+    * Operate Now: Brain Surgery
+
+    * Nageldoktor
+
+### Unsere Empfehlung
+
+Hero Simulator: Idle Adventure
+
+  * ### Top-Kategorien
+
+    * Leichtathletik
+
+    * Ballspiele
+
+    * Billiard
+
+    * Autospiele
+
+    * Motorradrennen
+
+    * Parken
+
+    * Fußball
+
+    * Stuntfahren
+
+ALLE SPORTSPIELE
+
+### Durchsuchen nach
+
+    * Beliebteste
+
+    * Meistgespielt
+
+    * Kürzlich hinzugefügt
+
+    * Alphabetisch sortiert
+
+### Spitzenspiele
+
+    * Football Headz Cup
+
+    * Ultimate Boxing
+
+    * Mad Day 2
+
+    * Raserei auf der Autobahn 2
+
+    * Rennen der Abtrünnigen
+
+    * 8 Ball Ultra Pool
+
+### Unsere Empfehlung
+
+England Soccer League
+
+  * ### Top-Kategorien
+
+    * Arkadenspiele
+
+    * Gehirnspiele
+
+    * Bubble Shooter
+
+    * Lustige Spiele
+
+    * Highscore-Spiele
+
+    * Lernen
+
+    * Physik
+
+    * Strategie
+
+ALLE GESCHICKLICHKEITSSPIELE
+
+### Durchsuchen nach
+
+    * Beliebteste
+
+    * Meistgespielt
+
+    * Kürzlich hinzugefügt
+
+    * Alphabetisch sortiert
+
+### Spitzenspiele
+
+    * TenTrix
+
+    * Flip Diving
+
+    * Color Switch
+
+    * Super-Stapler 2
+
+    * Silly ways to die
+
+    * Happy Wheels
+
+### Unsere Empfehlung
+
+Bomb It 7
+
+  *     * Multiplayer
+    * Action
+    * Girls
+    * Denkspiele
+    * Simulation
+    * Sport
+    * Geschicklichkeit
+
+  * ### Für Dich ausgewählt
+
+### Meine letzten Spiele
+
+    *     *     *     *     *     *     *     * ### LIEBLINGSSPIELE
+
+Bist du bereits ein Benutzer? Dann melde dich an, um deine Lieblingsspiele
+hier zu sehen! Du hast noch kein Konto? Melde dich unbedingt an, um diese
+Funktion verwenden zu können.
+
+Spielen!
+
+## RICHTE DIR EIN KONTO EIN UND
+
+  * Speichere deine Lieblingsspiele
+
+  * Interagiere mit anderen Spielern
+
+  * Spiele Multiplayer-Spiele online!
+
+  * Tritt an und gewinn Auszeichnungen!
+
+# Datenschutzregelung, Kinder & Eltern
+
+  * Haus
+  * Datenschutzregelung, Kinder & Eltern
+
+SPIL GAMES BV (im Folgenden: "SPIL") mit satzungsmäßigem Sitz in der
+Mussenstraat 15, 1223 RB, Hilversum, Niederlande, ist verantwortlich im Sinne
+des niederländischen Gesetzes über den Schutz der persönlichen Daten ("Wet
+Bescherming Persoonsgegevens"). Wir bemühen uns, die Privatsphäre unserer
+Benutzer zu schützen und sämtliche persönlichen Informationen, die wir von den
+Benutzern erhalten, sorgfältig und respektvoll zu behandeln. Unserer
+Datenschutzregelung ist zu entnehmen, welche Daten wir bei unseren Benutzern
+erheben, wie wir mit diesen Informationen umgehen und in welch begrenztem Maße
+Dritte einbezogen werden. Grundsätzlich erheben wir aber nicht mehr Daten, als
+angemessenerweise zur Teilnahme an den Aktivitäten auf unseren Websites
+erforderlich ist.
+
+Eltern und gesetzlichen Betreuern wird empfohlen, unsere Datenschutzregelung
+und Benutzungsbedingungen mit ihren Kindern zu besprechen und ihnen diese zu
+erläutern.
+
+## Datenschutzregelung für Nichtmitglieder
+
+Viele Teile unserer Website erfordern keine Registrierung als Mitglied oder
+die Bereitstellung persönlicher Daten durch die Benutzer. Nähere Angaben zur
+Verwendung persönlicher Daten finden sich in unserer Datenschutzregelung.
+
+## Sicherheit
+
+SPIL bemüht sich nach allen Kräften, unsere Websites zu einem sicheren und
+vergnüglichen Ort zu machen, und wir streben fortwährend eine Verbesserung der
+Sicherheit unserer Websites an. Wir prüfen und monitoren unsere Websites, um
+unangemessene Sprache und Inhalte zu vermeiden und zu entfernen. Dennoch
+können wir nicht garantieren, dass nicht doch einige Informationen oder
+Nachrichten unangemessene Inhalte befassen.
+
+Wir empfehlen unseren Benutzern, die Datenschutzeinstellungen zu nutzen, um
+die Sichtbarkeit ihrer persönlichen Daten zu verwalten. Es sollten keine
+persönlichen Daten an unbekannte Personen herausgegeben werden. Einige
+Anwender im Internet machen Gebrauch von falschen Identitäten, und bei der
+Herausgabe persönlicher Daten an Dritte im Internet ist es von Bedeutung,
+stets die nötige Vorsicht walten zu lassen. Erheben oder veröffentlichen Sie
+keine persönlichen Daten anderer Benutzer ohne deren Zustimmung. Wenn Sie
+irgendetwas bemerken, das Sie sich unwohl fühlen lässt oder das für eine
+unserer Websites unangemessen ist, setzen Sie sich bitte umgehend mit uns in
+Verbindung. Jede Person, die gegen unsere Datenschutzregelung oder
+Benutzungsbedingungen verstößt, kann unverzüglich von der Website
+ausgeschlossen werden.
+
+Bitte denken Sie daran: Geben Sie niemals Ihre Kontaktdaten (wie
+E-Mailadresse, Telefonnummer, Anschrift usw.) an eine Person heraus, die Sie
+nicht kennen.
+
+## SPIL Kontaktdaten
+
+Wenn Sie weitere Unterstützung benötigen, senden Sie bitte eine E-Mail mit
+Ihren Fragen, Kommentaren oder Bedenken an info@spilgames.com oder schreiben
+Sie an:
+
+  * SPIL GAMES BV
+  * Mussenstraat 15
+  * 1223 RB, Hilversum
+  * The Netherlands
+
+100209
+
+Jetztspielen.de hat die meisten kostenlosen Online-Spiele. Jeden Tag kommen
+neue Spiele dazu!
+
+  * Facebook
+  * Google+
+  * Twitter
+
+  * Benutzungsbedingungen
+  * Unsere Datenschutzre ...
+  * Datenschutzregelung, ...
+  * Informationen für Eltern
+  * Impressum
+  * Cookies
+  * Über uns
+  * Bei uns werben
+  * Spiel eintragen
+  * Erhalte kostenlose Spiele
+  * Hilfe & Kontakt
+
+Copyright © 2017 SPIL GAMES Alle Rechte vorbehalten.
+

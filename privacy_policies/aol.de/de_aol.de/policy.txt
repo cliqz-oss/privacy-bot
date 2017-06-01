@@ -1,0 +1,269 @@
+Datenschutzerklärung - AOL Privacy DE
+
+Suchen
+
+  * Datenschutzerklärung
+  * Fragen
+  * Marketingpräferenzen
+  * Webdienste AGB
+  * Hilfe
+
+Drucken Zuletzt aktualisiert: 09.30.2016  
+
+
+# Datenschutzerklarung
+
+  
+  
+Bei AOL ist es unsere Mission, den Benutzern reiche, interaktive Online-
+Erfahrungen zur Verfugung zu stellen. Wir betreiben auch einige der
+bekanntesten Werbedienste der Branche, einschließlich Adap.tv und
+Advertising.com.  
+  
+Wir arbeiten unentwegt daran, unsere Dienste sogar noch besser zu machen. Eine
+der Methoden, die wir dazu verwenden, besteht zum Beispiel darin, dass wir
+Daten, die wir uber Benutzer erheben und erhalten, analysieren, um zu
+verstehen, woran sie interessiert sein konnten. Dies hilft uns dabei,
+interessantere Inhalte zu entwickeln und effektiverer Werbung bereitzustellen,
+was uns in die Lage versetzt, die meisten unserer Dienste weiterhin kostenlos
+anzubieten.  
+  
+Diese Datenschutzerklarung erlautert, wie wir die Daten, die wir uber Benutzer
+erheben und erhalten, verarbeiten. Es gibt drei Dinge, die Sie beim Lesen
+dieser Erklarung beachten sollten:  
+  
+
+
+  * Erstens, die Datenschutzerklarung gilt fur Dienste von AOL, die mit dieser Datenschutzerklarung verlinkt sind oder darauf Bezug nehmen. Diese Dienste umfassen Websites, Mobil-Apps, sonstige Online-Dienste und alles Weitere, das mit dieser Erklarung verlinkt ist oder darauf Bezug nimmt. Um die Dinge einfach zu halten, beziehen wir uns auf alle diese Dienste als unsere „Dienste".
+  * Zweitens, die Datenschutzerklarung gilt vollig unabhangig davon, welchen Computer oder welches Gerat Sie verwenden, um auf unsere Dienste zuzugreifen.
+  * Drittens, wir stellen eventuell weitere Informationen zu den Datenschutzpraktiken einiger unserer Dienste zur Verfugung. Obwohl diese Datenschutzerklarung fur alle AOL Dienste gilt, die darauf Bezug nehmen oder damit verlinkt sind, sollten Sie auch die weiteren Informationen lesen. Einige dieser Informationen werden durch Bezugnahme auf verschiedene Stellen in der Datenschutzerklarung verknupft und einige sind uber die einzelnen Dienste, die Sie nutzen.
+
+Wir haben unser Bestes gegeben, um diese Datenschutzerklarung kurz und einfach
+zu halten, aber wenn Sie irgendwelche Fragen dazuhaben, hoffen wir, dass Sie
+uns dies mitteilen.  
+  
+Daten, die wir erheben und erhalten  
+  
+Wir erheben und erhalten Daten zu Benutzern auf einige verschiedene Weisen:  
+  
+
+
+  * Daten, die Sie uns geben. Sie konnen uns Daten direkt geben. Zum Beispiel: 
+    * Wenn Sie sich fur einen AOL Account registrieren, geben Sie uns eventuell Daten, wie Ihren Namen, Ihr Geschlecht, Ihre Postleitzahl und Ihr Geburtsdatum;
+    * Wenn Sie einen unserer kostenpflichtigen Dienste kaufen, geben Sie uns Ihre Rechnungsdaten, zu denen Ihre Kreditkartendaten gehoren konnen;
+    * Wenn Sie Kommentare als Reaktion auf eine Geschichte oder ein Video in einem unserer Dienste posten, dann erhalten wir - und andere Benutzer - diese Daten; und
+    * Wenn Sie uns auf sonstige Weise kontaktieren oder uns Daten direkt zur Verfugung stellen, zum Beispiel, wenn Sie an einer Promotionsaktion oder an einer Verlosung teilnehmen.
+  * Daten, die wir wahrend Ihrer Nutzung unserer Dienste erheben oder erhalten. Wir erheben oder erhalten Daten zudem dann, wenn Sie unsere Dienste nutzen. Wir erheben einige dieser Daten unter Verwendung von Cookies, Web-Beacons und sonstigen Technologien. Je nachdem, wie Sie auf unsere Dienste zugreifen und sie verwenden, erhalten wir eventuell: 
+    * Log-Daten. Dabei handelt es sich um Daten, die wir automatisch erheben und speichern, wenn Sie unsere Dienste oder die Websites und Apps anderer Unternehmens im AOL Advertising Network nutzen. Dazu konnen zum Beispiel gehoren: 
+      * Daten zu Ihren Interaktionen mit den Websites, Apps und sonstigen Diensten, die Sie nutzen, zu den Inhalten, die Sie ansehen, den Suchanfragen, die Sie eingeben und Daten in Cookies und ahnlichen Technologien;
+      * Daten daruber, wie Sie auf diese Websites, Apps und sonstige Dienste zugreifen, uber Ihren Browser oder Ihr Betriebssystem, Ihre Internet-Protokoll („IP")-Adresse und die Website, die Sie vor dem Besuch unserer Dienste besuchten.
+    * Geratedaten. Dabei handelt es sich um Daten, die wir uber das von Ihnen verwendete Gerat automatisch erheben und speichern, wenn Sie auf unsere Dienste oder die Dienste im AOL Advertising Network zugreifen. (Beachten Sie, dass wir mit „Gerat" alles meinen, das Sie zum Zugreifen auf unsere Dienste nutzen. Weitere Informationen zu unseren Datenschutzpraktiken in Verbindung mit Mobilgeraten finden Sie in der Erganzenden Mobil-Nutzungs- und Datenschutzerklarungsbedingungen.) Geratedaten umfassen zum Beispiel: 
+      * Die Art des Gerates, das Sie verwenden (z. B. ein iPhone);
+      * Bestimmte Geratekennungen, die sich eindeutig auf Ihr Gerat beziehen; und
+      * Ihren Internet Service Provider.
+    * Standortdaten. Diese Daten konnen zum Beispiel das GPS-Signal Ihres Gerates und Informationen uber nahegelegene WiFi-Netzwerke und Funkturmmasten enthalten. Wir erhalten diese Daten, wenn Sie Ihren Standort offenbarende Dienste wie MapQuest nutzen, die Ihnen auf der Grundlage Ihres aktuellen Standorts Fahrtrichtungen geben konnen.
+    * Sonstige Daten. Bitte beachten Sie, dass AOL Daten uber Ihre Nutzung bestimmter AOL Kommunikations-Tools (zum Beispiel AOL Mail und AOL Instant Messenger) verwenden darf; wenn Sie jedoch AOL Kommunikations-Tools nutzen, liest AOL Ihre privaten Online-Kommunikationen nicht ohne Ihre Einwilligung, wie in dieser Erklarung beschrieben.
+  * Daten aus dritten Quellen. Wir durfen zusatzliche Daten uber Sie erhalten, die offentlich oder kommerziell verfugbar sind und sie mit den Daten kombinieren, die wir uber Sie auf andere Weisen erhoben oder erhalten haben. Ferner erhalten wir Daten uber Sie, wenn Sie beschließen, sich mit sozialen Netzwerkdiensten zu verbinden, wahrend Sie unsere Dienste nutzen.
+
+Wenn Sie ferner AOL Software (wie etwa die AOL Desktop Software, AOL Toolbars
+oder AIM) nutzen, durfen wir Daten zu anderer Software auf Ihrem Gerat zu den
+begrenzten Zwecken erheben, den von Ihnen genutzten Dienst zur Verfugung zu
+stellen und die Sicherheit unserer Dienste zu verbessern.  
+  
+Wie wir die Daten verwenden, die wir erheben und erhalten  
+  
+Wir verwenden die Daten, die wir erheben und erhalten, zu den folgenden
+allgemeinen Zwecken:
+
+  * Zur Bereitstellung unserer Dienste. Wir verwenden die Daten, die wir erheben und erhalten, um Ihnen die Dienste zur Verfugung zu stellen, die Sie nutzen oder verlangen. Zum Beispiel: 
+    * Falls Sie sich fur einen Newsletter von AOL.de registrieren, verwenden wir Ihre E-Mail-Adresse, um ihn Ihnen zuzusenden.
+    * Falls Sie uns bitten, Ihre Login-Daten fur AOL Dienste zu erinnern, verwenden wir in Cookies gespeicherte Daten, wenn Sie zu diesen Websites zuruckkehren.
+  * Zur Verbesserung unserer Dienste. Wir verwenden ferner die Daten, die wir erheben und erhalten, um Inhalte und Werbung zur Verfugung zu stellen, die die Benutzer wahrscheinlich relevant und interessant finden. Zum Beispiel: 
+    * Falls wir bemerken, dass Benutzer von AOL.de grundsatzlich Kommentare zu nationaler Politik bevorzugen, platzieren wir solche Inhalte eventuell an einem besonderen Ort in der Website oder in der App;
+    * Falls wir bemerken, dass ein Benutzer nach Sportwagen sucht, dann blenden wir diesem Benutzer eventuell eine Anzeige auf AOL.de oder auf anderen Websites im AOL Advertising Network ein; und
+    * Wenn wir Informationen von Benutzern dazu erhalten, dass ein Dienst nicht ordnungsgemaß funktioniert, durfen wir diese Informationen zur Losung jedwedes Problems verwenden.
+  * Zur Bereitstellung von effektiver Werbung. Einige unserer Dienste werden durch Werbung finanziert und einige unserer Dienste stellen Werbung auf unseren Websites und Apps sowie auf Websites und Apps von Drittparteien bereit. Wir verwenden die Daten, die wir erheben und erhalten, um die von uns bereitgestellte Werbung effektiver zu machen. Wir tun dies unter anderem durch die folgenden Maßnahmen: 
+    * Einblendung von Anzeigen fur Sie auf Basis Ihrer Online-Aktivitaten, wie etwa der Websites und Anwendungen, die Sie verwenden, der Inhalte, die Sie ansehen und der Suchanfragen, die Sie in diesen Anwendungen eingeben;
+    * Beschrankung der Haufigkeit, mit der Sie dieselbe Anzeige sehen; und
+    * Messung der Effektivitat der von uns eingeblendeten Anzeigen.
+
+Erfahren Sie mehr zu Werbung und Datenschutz in unseren Diensten.  
+  
+Wir wir die Daten weitergeben, die wir erheben und erhalten  
+  
+Wir vermieten oder verkaufen keine personenbezogenen Daten an Drittparteien
+fur deren Marketingzwecke. Aber wir durfen bestimmte Daten, die wir erheben
+oder erhalten, an Drittparteien weitergeben, um Produkte und Dienste
+bereitzustellen, die Sie angefordert haben, wenn Sie uns die Einwilligung dazu
+erteilt haben oder gemaß dieser Datenschutzerklarung.  
+  
+Wir durfen Daten an folgende Personen weitergeben:
+
+  * Verbundene Unternehmen. Daten, die ein verbundenes Unternehmens von AOL erhalt, konnen zwischen anderen verbundenen Unternehmen von AOL weitergegeben werden.
+  * Geschaftspartner. Wir durfen nicht-personenbezogene Daten an ausgewahlte Geschaftspartner weitergeben, die die Daten fur eine Vielzahl von Zwecken verwenden durfen, einschließlich der Bereitstellung von relevanter Werbung an Sie.
+  * Sonstige Parteien in Reaktion auf ein rechtliches Verfahren oder soweit notwendig, um unsere Dienste zu schutzen. Wir konnen Ihre Daten - einschließlich der Inhalte Ihrer Kommunikationen mit anderen Parteien - anderen Parteien offenlegen, etwa wenn wir in gutem Glauben annehmen, dass: 
+    * Es erforderlich ist, um auf rechtmaßige Regierungsverlangen oder ein rechtliches Verfahren (zum Beispiel eine gerichtliche Verfugung, ein Durchsuchungsbeschluss oder eine Vorladung) zu reagieren;
+    * Die Informationen relevant fur ein Verbrechen sind, das begangen wurde oder im Begriff ist, begangen zu werden;
+    * Ein Notfall besteht, der eine Gefahr fur Ihre Sicherheit oder die Sicherheit einer anderen Person darstellt, oder
+    * Es erforderlich ist, um die Rechte oder das Eigentum von AOL zu schutzen.
+  * Sonstige Parteien in Verbindung mit bestimmten geschaftlichen Transaktionen. In dem Fall, dass zu Änderungen des Eigentums an AOL Inc. oder einem verbundenen Unternehmen oder seinen Vermogenswerten in der Folge eines Zusammenschlusses, einer Akquisition, eines Verkaufs von Vermogenswerten oder im unwahrscheinlichen Fall einer Insolvenz kommt, durfen Ihre Daten an ein anderes Unternehmen ubermittelt werden. Falls wir meinen, dass eine Übermittlung mitgeteilt werden muss, erhalten Sie die Gelegenheit, der Übermittlung ausdrucklich zu widersprechen.
+
+Unternehmen, die Dienstleistungen an AOL erbringen  
+  
+Unternehmen, die uns Dienstleistungen an erbringen oder in unserem Namen
+handeln, haben eventuell Zugriff auf Daten zu Ihnen. Diese Unternehmen
+unterliegen in Ihrer Fahigkeit Beschrankungen, Daten zu verwenden, die sie im
+Verlauf der Bereitstellung ihrer Dienstleistungen an uns erhalten.  
+  
+Statistische Analyse:  
+  
+Damit wir mehr daruber erfahren, wie unsere Website genutzt wird, fassen wie
+von uns erhobenen Daten zusammen und analysieren sie. Wir konnen diese Daten
+zum Beispiel nutzen, um die Nutzung der Seite zu uberwachen und zu
+analysieren, die Funktionalitat unserer Website zu erhohen und unsere Inhalte
+und unser Design besser an die Bedurfnisse unserer Besucher zuzuschneiden.  
+Unsere Website verwendet SiteCatalyst, einen von Adobe zur Verfugung
+gestellten Web-Analytik-Dienst. SiteCatalyst verwendet Cookies und Web-
+Beacons, auf die von Ihrem Computer aus zugegriffen wird oder die dort
+gespeichert sind und die eine Analyse der Nutzung der Website erlauben. Die
+uber die Verwendung dieser Website erlangten Daten werden an den SiteCatalyst-
+Server ubermittelt und dort gespeichert. SiteCatalyst verwendet diese Daten,
+um Ihre Nutzung der Website zu bewerten und Berichte an uns uber Ihre Website-
+Aktivitaten zusammenzustellen. Sie konnen die Verwendung von Cookies ablehnen,
+indem Sie die entsprechenden Einstellungen in Ihrem Browser auswahlen.  
+  
+Weitere Informationen zum Datenschutz bei Adobe SiteCatalyst finden Sie unter:
+http://www.adobe.com/de/privacy/analytics.html.  
+  
+Drittparteien, die Inhalte, Werbedienste oder Funktionalitat in unseren
+Diensten bereitstellen  
+  
+Ein Teil der Inhalte, Werbedienste und Funktionalitat in unseren Diensten kann
+von Drittparteien bereitgestellt werden, die nicht mit uns verbunden sind.
+Solche Drittparteien umfassen:
+
+  * Werbeanbieter, die uns und unseren Werbekunden dabei helfen, Anzeigen bereitzustellen, die auf die Interessen der Benutzer zugeschnitten sind und zu verstehen, wie Benutzer auf diese Anzeigen reagieren;
+  * Unternehmen, die das Publikum messen, die uns dabei helfen, die gesamte Inanspruchnahme unserer Dienste zu messen und diese Inanspruchnahme mit anderen Online-Diensten zu vergleichen; und
+  * Soziale Netzwerkdienste (wie Facebook, Twitter, LinkedIn und Google), die es Ihnen erlauben, sich in bestimmte unserer Dienste einzuloggen und um Dinge mit Ihrem sozialen Netzwerk zu teilen, die Sie in unseren Diensten finden.
+
+Diese und andere Drittparteien durfen Daten zu Ihrer Verwendung unserer
+Dienste erheben oder erhalten, einschließlich durch die Verwendung von
+Cookies, Web-Beacons und sonstigen Technologien und diese Daten durfen im
+Zeitverlauf erhoben und mit Daten kombiniert werden, die auf verschiedenen
+Websites und in verschiedenen Online-Diensten erhoben werden.  
+  
+Beachten Sie, dass diese Unternehmen an branchenentwickelten Programmen
+teilnehmen, die dazu dienen, Verbrauchern Wahlmoglichkeiten zur Verfugung zu
+stellen, ob sie zielgerichtete Anzeigen erhalten. Um mehr zu erfahren,
+besuchen Sie bitte die Website der Digital Advertising Alliance. Falls Sie
+weitere Informationen zu Datenschutz und Werbung in unseren Diensten wunschen,
+besuchen Sie bitte Werbung, Analytik, und Datenschutz.  
+  
+Unsere Dienste verwenden soziale Netzwerkplugins („Plugins"). Falls Sie einen
+Dienst nutzen, der Plugins enthalt, werden eventuell Daten direkt von Ihrem
+Gerat zum Betreiber des sozialen Netzwerks ubermittelt. Wir haben keinen
+Einfluss darauf, welche Daten durch das Plugin erhoben werden. Falls Sie in
+das soziale Netzwerk eingeloggt sind, kann auf Ihre Verwendung unseres
+Dienstes in Ihrem sozialen Netzwerk-Account hingewiesen werden. Falls Sie mit
+den Plugins interagieren, indem Sie zum Beispiel auf „Like", „Folgen" oder
+„Weitergeben" klicken oder einen Kommentar eingeben, werden die Informationen
+eventuell automatisch in ihrem sozialen Netzwerkprofil angezeigt. Auch wenn
+Sie nicht in Ihren sozialen Netzwerk-Account eingeloggt sind, kann es moglich
+sein, dass die Plugins Ihre IP-Adresse an die Betreiber des sozialen Netzwerks
+weitergeben. Bitte denken Sie bei der Nutzung unserer Dienste daran.  
+  
+Wenn Sie weitere Informationen zu den sozialen Netzwerk-Betreibern der
+Plugins, die unseren Diensten verwendet werden, („Betreiber") wunschen, dann
+lesen Sie bitte unten:  
+  
+Betreiber der Plugins, die unseren Diensten verwendet werden  
+  
+Falls Sie ein Mitglied mindestens eines der folgenden sozialen Netzwerke sind
+und nicht wollen, dass der Betreiber die Daten betreffend Ihre Verwendung
+unserer Dienste mit Ihren bereits bei dem Betreiber gespeicherten
+Mitgliedsdaten verbindet, dann loggen Sie sich bitte aus dem sozialen Netzwerk
+aus, bevor Sie unsere Dienste nutzen.  
+  
+Facebook  
+  
+Datenverantwortlicher: Facebook Ireland Limited, Hanover Reach, 5-7 Hanover
+Quay, 2 Dublin, Ireland („Facebook"). Falls Sie weitere Informationen
+wunschen, besuchen Sie bitte Facebooks Website mit seiner Datenschutzerklarung
+unter „https://www.facebook.com/about/privacy/".  
+  
+Google  
+  
+Datenverantwortlicher: Google Inc., Amphitheatre Parkway, Mountain View, CA
+94043, USA („Google"). Falls Sie weitere Informationen wunschen, besuchen Sie
+bitte Googles Website mit seiner Datenschutzerklarung unter
+„https://www.google.com/privacy"  
+  
+Twitter  
+  
+Datenverantwortlicher: Twitter, Inc., 1355 Market Street, Suite 900, San
+Francisco, CA 94103, USA („Twitter"). Falls Sie weitere Informationen
+wunschen, besuchen Sie bitte Twitters Website mit seiner Datenschutzerklarung
+unter „https://twitter.com/privacy".  
+  
+Benutzerkontrollen und Zugang  
+  
+Sie haben die Fahigkeit, zu kontrollieren, wie wir Ihre Daten verarbeiten:
+
+  * Falls Sie ein registrierter AOL-Benutzer sind, konnen Sie auf Ihre Registrierungsdaten und alle Rechnungs- und Lieferdaten zugreifen und diese Daten bearbeiten, indem Sie „Mein Account" besuchen.
+  * Falls Sie ein registrierter AOL-Benutzer sind, konnen Sie AOL Marketingpraferenzen besuchen, um Ihrer Marketingpraferenzen zu lesen und zu wahlen, wie Ihre Daten verwendet werden durfen, um Ihnen Marketingangebote bereitzustellen. Beachten Sie, dass diese Praferenzen nicht fur Kommunikationen gelten, die direkt mit Ihrer Registrierung bei AOL oder der Durchfuhrung einer bestimmten Transaktion im Zusammenhang stehen, die Sie verlangt haben (zum Beispiel ein Beratungsdienst von AOL oder eine Bestatigung eines Kaufs).
+  * Besuchen Sie AOL Werbung, Analytics. und Datenschutz, um mehr uber Online-Werbung und Ihre damit zusammenhangenden Wahlmoglichkeiten zu erfahren. Sie konnen dem Erhalt von interessenbasierten Anzeigen von AOL ausdrucklich widersprechen, wenn Sie auf die Seite fur Wahlmoglichkeiten fur Verbraucher der Digital Advertising Alliance klicken und „AOL Werbung" auswahlen.
+  * Einige unserer Dienste von (zum Beispiel AOL Search und Netscape ISP) bieten Ihnen eventuell auch die Fahigkeit, Daten, die wahrend Ihrer Nutzung dieser Dienste erhoben oder verwendet werden, zu verwalten und zu kontrollieren.
+  * Falls Sie ein Mobilgerat nutzen, dann besuchen Sie bitte unsere Seite Wahlmoglichkeiten bei Mobilgeraten, die Informationen zu den Wahlmoglichkeiten enthalt, die wir Benutzern mit Mobilgeraten zur Verfugung stellen.
+
+Internationale Übermittlungen Ihrer personenbezogenen Daten  
+  
+AOL hat seinen Sitz in den Vereinigten Staaten von Amerika und wir durfen Ihre
+personenbezogenen Daten im Verlauf der Bereitstellung unserer Dienste Ihnen
+gegenuber an die Buros unserer Gruppe oder an unsere verbundenen Unternehmen
+in den USA ubermitteln.  Ferner haben auch viele unserer Geschaftspartner und
+Unternehmen, die in unserem Namen Daten verarbeiten, ihren Sitz in den USA
+oder in anderen Landern außerhalb des Europaischen Wirtschaftsraums (dem
+„EWR"). Das bedeutet, dass Ihre personenbezogenen Daten (zu denen Daten
+gehoren konnen, die Sie zu Ihrer rassischen oder ethnischen Herkunft, Ihren
+politischen Ansichten, religiosen oder philosophischen Überzeugungen oder
+einer etwaigen Gewerkschaftsmitgliedschaft oder betreffend Ihre Gesundheit
+oder Ihr Sexleben bereitstellen) sowohl in Lander innerhalb als auch außerhalb
+des EWR ubermittelt werden konnen.  
+  
+Diese Lander haben eventuell keine denen des EWR ahnlichen Datenschutzgesetze.
+Wenn wir jedoch auf diese Weise Ihre Daten außerhalb des Europaischen
+Wirtschaftsraums ubermitteln, ergreifen wir Maßnahmen, um zu gewahrleisten,
+dass fur ihre personenbezogenen Daten ein angemessenes Schutzniveau gilt und
+dass Ihre Datenschutzrechte weiterhin gemaß geltenden Datenschutzgesetzen und
+dieser Datenschutzerklarung geschutzt werden. Solche Maßnahmen beinhalten
+Vereinbarungen uber Datenubermittlungen auf der Grundlage von durch die EU-
+Kommission genehmigter Standardvertragsklauseln.  
+  
+Indem Sie unsere Dienste nutzen oder indem Sie uns Ihre personenbezogenen
+Daten zur Verfugung stellen, willigen Sie in die Übermittlung Ihrer
+personenbezogenen Daten an Buros, verbundene Unternehmen von AOL und an
+Drittparteien ein, die ihren Sitz in Landern außerhalb des EWR haben.  
+  
+Auf Anfrage erhalten Sie Einzelheiten zu den Unternehmen, die Ihre
+personenbezogenen Daten verarbeiten und zu den Landern, in denen sie ihren
+Sitz haben, wenn Sie Ihre Anfrage an datenschutzde@aol.com senden.  
+  
+Wie Sie uns kontaktieren  
+  
+Falls Sie Fragen oder Bedenken zu/wegen dieser Datenschutzerklarung oder AOLs
+Datenschutzpraktiken allgemein haben, dann senden Sie uns bitte eine E-Mail.  
+  
+Änderungen dieser Datenschutzerklarung und weitere Informationen  
+  
+Wir aktualisieren diese Datenschutzerklarung eventuell von Zeit zu Zeit und
+daher sollten Sie diese Erklarung regelmaßig lesen. Falls es erhebliche
+Änderungen der Datenpraktiken von AOL gibt, erhalten Sie eine angemessene
+Online-Mitteilung.  
+  
+  
+
+
+AOL | Datenschutzerklärung | Webdienste AGB
+
+(C) 2017, AOL Inc. All rights reserved.
+

@@ -1,0 +1,50 @@
+# Datenschutz und Impressum
+
+  * Datenschutz
+  * Impressum
+  * ISO 27001
+
+# ISO 27001
+
+## Sicherheit im Verfahren ELSTER
+
+* * *
+
+### Grundsatz
+
+Die Finanzverwaltungen von Bund und Landern bekennen sich zu ihrer
+Verantwortung fur die IT-Sicherheit im Verfahren ELSTER. Der Schutz
+vertraulicher Informationen sowie die Gewahrleistung der Verfugbarkeit und der
+Integritat aller im Rahmen von ELSTER zu verarbeitenden Daten sowie deren
+Verarbeitungssysteme mussen gewahrleistet werden.
+
+### Gesetze
+
+Das ELSTER-Verfahren unterliegt diversen gesetzlichen Anforderungen an die IT-
+Sicherheit. Bei der elektronischen Übermittlung von Daten sind eine Vielzahl
+gesetzlicher Vorschriften sowie diverse Schreiben des Bundesfinanzministeriums
+zu beachten, die eine ordnungsmaßige Behandlung elektronischer Daten zu einer
+herausfordernden Aufgabe machen. Zu den wichtigsten gesetzlichen Vorschriften
+zahlen:
+
+  * Abgabenordnung (AO)
+  * Steuerdaten-Übermittlungsverordnung (StDÜV)
+  * Steuerdaten-Abrufverordnung (StDAV)
+  * Bundesdatenschutzgesetz (BDSG)
+  * Bayerisches Datenschutzgesetz (BayDSG)
+  * Datenschutzgesetz Nordrhein-Westfalen (DSG NRW)
+
+### IT-Sicherheit nach ISO 27001
+
+Die Leistungen von ELSTER werden in einer nach ISO 27001 auf Basis der IT-
+Grundschutz-Kataloge des Bundesamts fur Sicherheit in der Informationstechnik
+zertifizierten eigenen IT-Infrastruktur erbracht. Mit der Zertifizierung soll
+sowohl dokumentiert werden, dass fur diese, vom Bayerischen Landesamt fur
+Steuern und dem Rechenzentrum der Finanzverwaltung des Landes Nordrhein-
+Westfalen zur Verfugung gestellten Dienste, der IT-Grundschutz nach ISO 27001
+vollstandig implementiert wurde und das die Auseinandersetzung mit IT-
+Sicherheitsthemen ein essentieller Bestandteil der Ziele der Finanzverwaltung
+ist.
+
+nach oben
+

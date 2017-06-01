@@ -1,0 +1,370 @@
+enter your search terms here enter search  
+  
+SettingsSettings
+
+  * Privacy
+    * How we protect you
+    * Q&amp;A;
+    * Our privacy policy
+  * Settings
+  * Support
+  * CommunityCommunity
+
+Facebook  
+Twitter  
+Blog  
+  
+  * About Us About Us
+
+How we're different  
+Our history  
+Our people  
+Company  
+Press center  
+  
+  * Add StartPage
+    * Add to Browser
+    * Homepage
+    * Mobile Device
+  * Language Language
+
+Dansk Deutsch  
+English English UK  
+Español Français  
+Italiano Nederlands  
+Norsk Polski  
+Portugues Suomi  
+Svenska Turkçe  
+中文 日本語  
+繁體中文 한글  
+  
+  * Share
+  * Theme Theme
+
+Air  
+Night  
+White  
+Black  
+Air (Classic)  
+White (Classic)  
+Black (Classic)  
+Classic  
+  
+
+PRIVACY
+
+  * How we protect you
+  * Q&amp;A;
+  * Our privacy policy
+
+* SETTINGS
+* SUPPORT
+
+COMMUNITY
+
+  * Facebook
+  * Twitter
+  * Blog
+
+ABOUT
+
+  * How we're different
+  * Our history
+  * Our people
+  * Company
+  * Press center
+
+ADD STARTPAGE
+
+  * Add to Browser
+  * Homepage
+  * Mobile Device
+
+* SHARE
+
+  
+  
+  
+  
+  
+  
+
+# Our privacy policy
+
+###  In short: StartPage does not collect or share personal information. We
+don't track or profile you.  
+The longer version: StartPage is strongly committed to protecting the privacy
+of its user community and is dedicated to ensure that your search information
+cannot be linked back to you.  
+This privacy policy details the - very limited and non-personal - information
+Startpage.com ("StartPage") may gather and our disclosure policy.  
+  
+## What is Personal Information
+
+### Information is regarded as personal when it tells something about a human
+being who is or can be (uniquely) identified.  
+This definition stems from European law, which applies to StartPage, and is
+intentionally broad in order to provide a high level of privacy protection.  
+  
+This means, for example, that not just names and e-mail addresses can be
+personal information, but also numbers or other identifiers, such as your IP-
+address, to the extent that they link other information to a specific human
+being.
+
+## IP Addresses
+
+### The IP address that is associated with your search will NOT be recorded or
+shared.  
+In order to prevent the unpleasant possibility that anything you ever search
+for online could be traced back to you via your IP-address, we do not record
+or share the IP address of any of our visitors.  
+  
+The only exception is for abusive (automated) queriers that rapidly submit
+more queries to StartPage in a short time than any normal human possibly
+would.
+
+  
+  
+
+## Data Collection
+
+### We don't collect any personal information about our visitors.  
+This is a first and very important condition to safeguard your privacy. If
+personal information isnt collected, it cant be stolen, demanded, leaked or
+exposed.  
+  
+In fact, the only information we do record is an aggregate total of how many
+searches are performed on our website each day (a measure of overall traffic),
+and, some other strictly non-personal statistics. Such statistics may include
+the number of times our service is accessed by a type of operating system, a
+type of browser, a language, etc.or a combination thereof.  
+  
+We only count the numbers and are in no way able to know what your specific
+operating system, browser, language settings, etc may be, because we do not
+record that information.  
+  
+When you use StartPage, we do not record your IP address, we do not record the
+browser connected with your search (Internet Explorer, Safari, Firefox, Chrome
+etc.), the computer platform (Windows, Mac, Linux, etc.) connected with your
+search, and we do not record your search words or phrases themselves.  
+  
+This zero personal data collection policy protects your privacy, since your IP
+address, browser, and platform information can be combined with other data to
+uniquely identify your computer, your location, or you.  
+  
+Please note that search queries may convey personal information (think of
+someone entering their own name and/or social security number). Although we do
+not record your search queries, all queries are submitted to Google
+anonymously, as this is required to receive search results.
+
+## Cookies
+
+### StartPage does not use tracking or identifying cookies.  
+
+Preferences
+
+Cookies are small pieces of data that are sent and saved to your computer's
+hard drive when visiting sites. StartPage uses only one anonymous cookie
+called "preferences". This cookie is to remember the search preferences you
+saved for your next visit. It expires after not visiting StartPage for 90
+days.  
+  
+You can choose to accept or refuse cookies by changing the settings of your
+browser. It should be noted, however, that your Startpage.com preferences will
+not work properly if your cookies are turned off. It is possible to accept
+cookies from selected sites only.  
+  
+You can periodically delete cookies from your computer's hard drive, clearing
+out all historical data that may have been saved from your previous web
+surfing. If you delete cookies and return to a website, there is no cookie to
+recognize you by.  
+  
+To promote a cookie-free internet, StartPage has a URL generator which
+eradicates the need for setting a cookie. It remembers your settings in a
+privacy friendly manner. It can be found at the bottom of the SETTINGS page.
+
+## Email Addresses
+
+###  StartPage will not sell or disclose your contact information to any third
+parties.  
+When you send comments, questions, suggestions, or feedback to StartPage via
+email or through our support center, and include an email address and/or
+contact information, StartPage may use this information to respond to you. By
+submitting feedback you also allow us to detect which browser and operating
+system you are using, information that will exclusively be used for helping to
+better understand and solve any reported issues better. StartPage will not
+sell or disclose your contact information to any third parties. We may,
+however, very occasionally send emails to our users regarding StartPage
+company information. This service is opt-in and includes the option to
+unsubscribe.
+
+## External Links
+
+### After clicking on a search result, you leave the protection offered by
+StartPage, unless you use our unique proxy function to protect your identity.  
+Please note that this privacy policy applies only to the Startpage.com
+website. StartPage is a search engine, and an advertising publisher, so you
+will find various links on our site, including but not limited to search
+results and sponsored results. These sites are owned and maintained by
+independent companies, over which StartPage has no control, and who are not
+covered by this privacy policy. StartPage is not liable or responsible for the
+content of these sites, or their collection and use of information.  
+  
+StartPage prevents the leakage of your search terms to third parties by using
+the so called POST method by default instead of the GET method, which is used
+by many other search providers. The POST method keeps your search terms out of
+the logs of webmasters of sites that you reach from our results. Search terms
+tell a lot about what you are thinking, which is why this is a privacy issue.
+With the POST method StartPage uses, your search terms are stripped off. This
+can cause "Web page has expired" messages and prevents from creating shortcuts
+of results-pages but is preferred from a privacy perspective. To create
+shortcuts you can use the "Bookmark this search" button on the right of the
+results page. Alternatively you can switch off "Use POST vs. GET" completely
+in SETTINGS.  
+  
+StartPage also offers a proxy function that allows the users to see the
+information on external sites without disclosing their IP address to these
+sites. Further information on this great privacy tool can be found here.  
+  
+To fully protect our users from the privacy risks of the Facebook and Twitter
+social media plugins, we have implemented a two-step approach to show these
+icons on our site.
+
+## Information Sharing
+
+### StartPage does not share personal information with any third party,
+including its provider(s) of regular or sponsored search results.  
+When you perform a search on StartPage, the search phrase must be sent to the
+provider(s) of the search results, so that they can be generated and presented
+to you on the StartPage website.  
+  
+Some results pages on StartPage include a small number of clearly labeled
+sponsored links to generate revenue and cover operational costs. Those links
+are retrieved from platforms such as Google Adwords. Because we dont profile
+you, the ads are not individually tailored to users. In order to enable the
+prevention of click fraud, some non-identifying system information is
+transmitted to the sponsored results provider(s). We never share your IP
+address or other data that would uniquely identify you.  
+  
+No tracking cookies are used, so there is no cookie information to be shared.
+
+## Governmental Requests
+
+### StartPage is headquartered in The Netherlands, Europe. Because we don't
+store any personal information to begin with, StartPage is unlikely to receive
+any requests by governments to hand over data about our users. In the
+seventeen years we've been in business, we have never received any such
+request.  
+  
+If we ever do receive a request from Dutch judicial authorities to hand over
+certain information, we will have our lawyers check the validity of the
+request and determine whether we are obliged to comply. We will not comply
+with such requests unless we are convinced that the request is legally valid
+and we believe that it is undeniably our legal obligation to comply.  
+  
+We will not comply with requests from any authorities other than Dutch
+authorities. If we receive a request from any foreign government, we will
+refuse to comply and will instead instruct the requestor to place a formal
+request to the Dutch authorities for mutual assistance.  
+  
+StartPage will never cooperate with any voluntary surveillance programs. Under
+the strong laws that protect the right to privacy in Europe, European
+governments cannot legally force service providers like StartPage to implement
+a blanket-spying program on their users.
+
+## Underage Children
+
+### We believe that protecting children's privacy online is very important.
+Note that we do not collect any personal data about our users at all. As a
+consequence StartPage does not request, collect, or share personal information
+from persons who are underage.
+
+## The Right to be Forgotten
+
+### Subject to certain conditions, citizens in the EU are given the right to
+request the deletion of their personal data when they are inaccurate,
+inadequate, or irrelevant or no longer relevant. More information can be found
+here.
+
+## Your Privacy, Our Future
+
+### We strongly believe that we have the legal right to safeguard the privacy
+of our users by encrypting and not collecting their personal information, and
+to keep doing so.  
+  
+Given the strong protection of the right to privacy in Europe, European
+governments cannot legally start forcing service providers like us to
+implement a blanket spying program on their users. If that ever changed, we
+would fight this to the end.
+
+  
+  
+
+Privacy  
+It's not just our Policy - it's our Mission!
+
+  
+  
+
+## Operator
+
+### Startpage.com is owned and operated by Surfboard Holding BV, Postbus 1079,
+3700 BB Zeist The Netherlands. Representative for the Privacy Policy is Robert
+E.G. Beens.  
+()
+
+  
+
+# Information Sharing
+
+  
+  
+Some results pages on StartPage include a small number of clearly labeled
+sponsored links to cover operational costs. Those links are retrieved from
+platforms such as Google Adwords. The ads are NOT individually tailored to
+users, and StartPage does NOT record any personal information or share
+personal information with the providers of sponsored links at any time.
+Clicking on any search result without the use of the proxy will take the user
+to the third-party website and away from the protection of StartPage. This is
+the case with all external pages, including our sponsored links. Note: the
+proxy can help you visit all regular search results anonymously but as you can
+see, there is no such option for visiting the sponsored links, as the
+advertisers need means to detect click fraud scams.  
+  
+StartPage's top priority is protecting the privacy of our users, while
+providing a quality service.  
+  
+  
+  
+  
+
+# The URL-generator
+
+### Save settings without cookies
+
+  * You can save your StartPage preferences by clicking on the "Save Setting" button on the "Settings" page.
+  * This will save your settings on your computer in a 'cookie'- a small piece of data stored on your hard drive - called 'preferences'.
+  * StartPage's 'preferences' cookie is a non-identifiable cookie and safe to accept, but cookies in general can pose a threat to your privacy.
+  * People who prefer not to accept cookies or delete them regularly would not be able to keep their preferences this way.
+  * For those people, StartPage has especially provided the "Generate URL" button at the bottom of the "Settings" page.
+  * Pushing that button a specific StartPage URL containing your selected settings will be generated.
+  * It can be generated in readable or obfuscated form.
+  * The generated URL can now be be directly set as your homepage or copied and used as a bookmark.
+  * Using this URL all of your preferences will be used the next time you visit StartPage.
+  * For even more convenience you can hit 'Install Custom Plugin' after you created your URL.
+  * This will install a search bar plugin that includes your settings.
+  * You may need to delete previously saved versions first from the search bar's drop down list.
+  * Make sure the 'Keyword' you enter differs from the keyword you may have saved before.
+
+StartPage continues to offer you privacy-enhancing features for searching the
+web safely!
+
+  
+  
+  
+Jwplayer Loading  
+  
+(C) 2017 StartPage
+
+StartMail Privacy Policy
+

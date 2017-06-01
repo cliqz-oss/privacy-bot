@@ -1,0 +1,644 @@
+  * Zur Navigation springen
+  * Zum Inhalt springen 
+
+  * International
+  * Karriere
+  * Unternehmen
+  * Kontakt
+
+Einkaufsliste
+
+Menü
+
+Sie befinden sich hier:
+
+  * Datenschutz
+
+  * Datenschutz
+  * Impressum
+
+# Datenschutzhinweis
+
+## Herzlich willkommen – wir freuen uns über Ihren Besuch auf unserer
+Webseite.
+
+Datenschutz ist uns sehr wichtig. Den Schutz Ihrer persönlichen Daten nehmen
+wir sehr ernst. Wir möchten Ihnen nachfolgend erläutern, welche Daten wir wann
+und zu welchem Zweck erheben, verarbeiten und nutzen.
+
+## 1\. Einige Hinweise zum Datenschutz vorab
+
+## Die Rechtsgrundlage
+
+Das Bundesdatenschutzgesetz (BDSG) und in der Folge auch das Telemediengesetz
+(TMG) schützen personenbezogene Daten. Dies sind Daten, die sich auf
+natürliche Personen beziehen. Daten juristischer Personen unterliegen diesem
+Schutz nicht. Personenbezogene Daten sind Einzelangaben über persönliche oder
+sachliche Verhältnisse, die Ihrer Person zugeordnet werden können (z. B. Ihr
+Name in Verbindung mit Ihrer Telefonnummer oder Ihrer E-Mail-Adresse).
+Informationen, die nicht direkt mit Ihrer tatsächlichen Identität in
+Verbindung gebracht werden können (wie z. B. die Ihnen angezeigten Artikel auf
+einer Webseite), fallen nicht darunter.
+
+## Weitergabe Ihrer persönlichen Daten an Dritte
+
+Ihre Daten werden von uns nicht zum Zwecke der Werbung an Dritte
+weitergegeben. Dritte erhalten Ihre persönlichen Daten von uns nur in der in
+diesem Datenschutzhinweis beschriebenen Weise.
+
+## 2\. Was passiert, wenn Sie unsere Webseite benutzen?
+
+Bei jedem Zugriff auf unsere Webseite, d. h. bei jedem Abruf oder Versuch
+eines Abrufs einer Datei auf diesem Server, werden Daten in einer
+Protokolldatei gespeichert (Logfile).  
+  
+Im Einzelnen wird über jeden Abruf folgender Datensatz gespeichert:
+
+  *     IP-Adresse
+
+  *     Name der abgerufenen Datei
+
+  *     Datum und Uhrzeit des Abrufs
+
+  *     übertragene Datenmenge
+
+  *     Meldung, ob der Abruf erfolgreich war
+
+  *     Meldung, warum ein Abruf ggf. fehlgeschlagen ist
+
+  *     Betriebssystem und Browsersoftware Ihres Computers
+
+  *     Bildschirmauflösung
+
+  *     Browsersprache
+
+  *     Farbtiefe
+
+  *     Browser-Plugins (JavaScript, Flash Player, Java, Silverlight, Adobe Acrobat Reader usw.)
+
+  *     Webseite, von der aus Sie uns besuchen
+
+Die Daten werden zu statistischen Zwecken von uns und von unseren
+Dienstleistern mit üblichen Webseitenanalyseverfahren ausgewertet, um unser
+Angebot kontinuierlich zu verbessern. Sie bleiben als einzelner Benutzer
+hierbei anonym. Ältere Einträge in der Protokolldatei werden regelmäßig
+gelöscht.
+
+Wir können nicht nachvollziehen, welcher Nutzer welche Daten abgerufen hat.
+Wir versuchen auch nicht, diese Informationen zu erheben.
+
+Die Speicherung der IP-Adresse erfolgt ausschließlich aus Gründen der
+Datensicherheit, um die Stabilität und die Betriebssicherheit unseres Systems
+zu gewährleisten. Es findet mit Hilfe der IP-Adresse keinerlei weitere
+personenbezogene Verwertung statt.
+
+## Einsatz von Cookies
+
+Wir setzen auf unserer Webseite sogenannte "Cookies" ein, um Ihnen maximalen
+Bedienkomfort zu bieten und unser Online-Angebot auch in Zukunft attraktiv für
+Sie zu gestalten.  
+  
+Cookies sind Textdateien, die vom Browser auf Ihrem Computer gespeichert
+werden und Informationen über Ihre Benutzung unserer Webseite enthalten. Wir
+verwenden Cookies beispielsweise, um Artikel, die Sie der virtuellen
+Einkaufsliste hinzugefügt haben, temporär zu speichern oder um Ihnen die
+Nutzung der Merkliste unter ALDI Reisen zu ermöglichen, indem wir die fünf-
+bis sechsstellige Identifikationsnummer der gewählten Reise darin speichern.
+Die Merkliste bleibt somit erhalten, auch wenn das Pop-up-Fenster geschlossen
+wird. Dieses Sitzungs-Cookie verfällt nach 24 Stunden. Weitere Cookies setzen
+wir zu statistischen Zwecken ein. Diese verbleiben dauerhaft auf Ihrem
+Computer, sofern Sie sie nicht zuvor löschen. Über diese Cookies werden
+keinerlei personenbezogene Daten ermittelt.  
+  
+In der Standard-Einstellung akzeptiert Ihr Browser Cookies, sodass Sie keine
+spezielle Einstellung vornehmen müssen, damit Cookies auf Ihrem Computer
+gespeichert werden können. Wenn Sie die Speicherung von Cookies deaktivieren
+möchten, so können Sie weitere Informationen hierzu der Hilfe-Funktion in der
+Menüleiste Ihres Browsers entnehmen. Bitte beachten Sie aber, dass das
+Abschalten von Cookies die Nutzung der Webseite, insbesondere im Bereich der
+Merkliste unter ALDI Reisen, einschränken kann. Wir empfehlen die Verwendung
+von Cookies zuzulassen, da ansonsten die Möglichkeit besteht, dass die
+Funktionalität der Webseite eingeschränkt ist.
+
+## Einsatz von Piwik
+
+Diese Webseite nutzt für die Webanalyse das OpenSource-Tool Piwik. Damit wird
+der Besucherverkehr auf den Webseiten von ALDI SÜD analysiert. Piwik verwendet
+Cookies, die auf Ihrem Computer gespeichert werden. Die durch den Cookie
+erzeugten Informationen über Ihre Benutzung unserer Webseite werden über das
+Internet zu unserem Server übertragen und dort gespeichert. Im Gegensatz zu
+anderen weitverbreiteten Webanalysetools wie Google Analytics werden diese
+Daten nicht auf den Webservern des Serviceanbieters in Drittländern
+gespeichert, wo sie unserer Kontrolle entzogen wären. Wir verwenden diese
+Daten zum Identifizieren von wiederkehrenden Besuchern und zur Analyse und
+Verbesserung der Webseitennutzung.
+
+## Einsatz von YouTube Videos
+
+Wir haben YouTube-Videos auf unserer Webseite eingebunden, die auf
+„www.youtube.com“ gespeichert und von unserer Webseite direkt abspielbar sind.
+Diese sind alle im so genannten „erweiterten Datenschutzmodus“ eingebunden, d.
+h. dass keine Daten über Sie als Nutzer an YouTube übertragen werden, wenn Sie
+die Videos nicht abspielen. Erst wenn Sie die Videos abspielen, werden auf
+Ihrem Rechner YouTube-Cookies gespeichert und Daten an Google Inc.,
+Amphitheater Parkway, Mountain View, CA 94043, USA, als YouTube-Betreiber
+übertragen.
+
+Beim Abspielen von bei YouTube gespeicherten Videos werden mindestens folgende
+Daten an Google Inc. als YouTube-Betreiber übertragen: IP-Adresse und Cookie-
+ID, die spezifische Adresse der bei uns aufgerufenen Seite, Systemdatum und
+Zeit des Aufrufs, Kennung Ihres Browsers.
+
+Die Datenübertragung erfolgt unabhängig davon, ob Sie bei Google ein
+Nutzerkonto innehaben, über das Sie eingeloggt sind, oder ob für Sie kein
+Nutzerkonto besteht. Wenn Sie eingeloggt sind, werden diese Daten direkt Ihrem
+Konto zugeordnet. Wenn Sie die Zuordnung zu Ihrem Profil nicht wünschen,
+müssen Sie sich vor Aktivierung des Buttons ausloggen.
+
+YouTube bzw. Google Inc. speichert diese Daten als Nutzungsprofile und nutzt
+diese für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten
+Gestaltung seiner Webseite. Eine solche Auswertung erfolgt insbesondere (auch
+für nicht eingeloggte Nutzer) zur Erbringung von bedarfsgerechter Werbung und
+um andere Nutzer über Ihre Aktivitäten auf unserer Webseite zu informieren.
+Ihnen steht ein Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile,
+wobei Sie sich zur Ausübung dessen an Google Inc. als Betreiber von YouTube
+richten müssen.
+
+Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer
+Verarbeitung durch Google Inc. erhalten Sie auf der dieser Informationsseite.
+
+## Retargeting
+
+Diese Webseite verwendet Retargeting-Technologien. Diese ermöglichen es, auf
+anderen Webseiten gezielt jene Internet-User mit Werbung anzusprechen, die
+sich bereits für unsere Webseite und unsere Produkte interessiert haben. Die
+Einblendung der Werbemittel erfolgt beim Retargeting auf der Basis einer
+Cookie-basierten Analyse des vorherigen Nutzerverhaltens. Bei Cookies handelt
+es sich um kleine Textdateien, die lokal im Zwischenspeicher des Internet-
+Browsers des Seitenbesuchers gespeichert werden. Die Cookies ermöglichen die
+Wiedererkennung des Internet-Browsers. Im Cookie sind weder Ihre IP-Adresse
+noch sonstige Daten, die Rückschlüsse auf Ihre Person zulassen, gespeichert.
+
+Bei der von uns verwendeten Technologie werden somit keine personenbezogenen
+Daten gespeichert. Die Verwendung der Retargeting-Technologie erfolgt unter
+Beachtung der geltenden gesetzlichen Datenschutzbestimmungen.
+
+Wenn Sie nicht möchten, dass Ihnen interessenbezogene Werbung angezeigt wird,
+können Sie diese Funktion deaktivieren. Da auf dieser Webseite
+unterschiedliche Systeme des Retargetings genutzt werden, müssen Sie dazu
+bitte alle Links benutzen.
+
+Deaktivierungslink 1
+
+Deaktivierungslink 2
+
+Deaktivierungslink 3
+
+## 3\. Wann und wozu erheben, verarbeiten und nutzen wir Daten von Ihnen?
+
+Personenbezogene Daten werden nur dann erhoben, wenn Sie uns diese von sich
+aus – z. B. im Rahmen einer Registrierung (z. B. Newsletter), bei einer
+Anfrage über die Kontaktseite oder bei Ihrer Online-Bewerbung – zur Verfügung
+stellen.
+
+Die Speicherung der IP-Adresse erfolgt ausschließlich aus Gründen der
+Datensicherheit, um die Stabilität und die Betriebssicherheit unseres Systems
+zu gewährleisten. Es findet mit Hilfe der IP-Adresse keinerlei weitere
+personenbezogene Verwertung statt.
+
+Ihre Angaben werden verschlüsselt übertragen. Dies schützt die Kommunikation
+zwischen Ihnen und unserem Webserver und hilft, einem Missbrauch der Daten
+(Abhören) durch Dritte vorzubeugen. Zur Verschlüsselung setzen wir SSL (Secure
+Socket Layer) ein, ein anerkanntes und weitverbreitetes System im Internet,
+mit dem z. B. auch Banken oder Onlineshops für Internetgeschäfte arbeiten und
+das in der jeweils aktuellen Version als sicher gilt. Ausgenommen von der
+verschlüsselten Übertragung sind die Dienste „Erinnerungsservice” und
+„Aktionsartikel per E-Mail empfehlen” sowie E-Mails, die Sie direkt an unsere
+E-Mail-Adresse senden.
+
+Alle von Ihnen auf unserer Webseite eingegebenen personenbezogenen Daten
+werden entsprechend den jeweils geltenden Bestimmungen zum Schutz
+personenbezogener Daten nur zum Zweck der von Ihnen beauftragten Services und
+zur Bearbeitung Ihrer Anfragen erhoben, verarbeitet und genutzt. Im Rahmen der
+Bearbeitung Ihrer Anfragen und Ihrer Nutzung unserer Dienste beauftragen wir
+Dienstleister. Die Dienstleister sind vertraglich zur Einhaltung der
+Datenschutzgesetze verpflichtet. Eine Verarbeitung und Nutzung Ihrer Daten für
+Zwecke der Beratung, der Werbung und der Marktforschung, über die oben
+genannten Zwecke hinaus, erfolgt durch ALDI SÜD nicht.
+
+## 4\. Wie können Sie sich über aktuelle Aktionsangebote von ALDI SÜD
+informieren?
+
+Mit dem Service „ALDI interaktiv“ bieten wir neben der Webseite viele weitere
+Funktionen, mit denen Sie sich über die aktuellen Aktionsangebote von ALDI SÜD
+informieren können. So bleiben Sie immer auf dem neuesten Stand und haben die
+Angebote immer im Blick. Für die Nutzung der meisten Funktionen bieten wir
+einen direkten Service an, mit dem Sie die zu installierende Software
+herunterladen und nutzen können.  
+  
+Um die Funktionen Windows Gadget, Angebote auf Ihrem Desktop und der iGoogle
+Startseite nutzen zu können, werden Sie auf andere Webseiten weitergeleitet.
+Auf diesen Seiten erhalten Sie weitere Informationen zu der Installation des
+Services, den Sie nutzen möchten. Personenbezogene Daten werden hier durch
+ALDI SÜD zu keiner Zeit erhoben.
+
+## ALDI SÜD Newsletter
+
+Gerne informieren wir Sie regelmäßig über unsere aktuellen Angebote per
+E-Mail. Zu diesem Zweck können Sie sich für unseren Newsletter anmelden. Dabei
+erfassen wir zur Anmeldebestätigung Ihre IP-Adresse sowie Ihre E-Mail-Adresse
+für den Versand. Ihre Daten werden selbstverständlich nicht an Dritte
+weitergegeben. Sie können den Newsletter jederzeit abbestellen.
+
+## Erinnerungsservice
+
+ALDI SÜD bietet Ihnen einen Erinnerungsservice zu von Ihnen ausgewählten
+Aktionsartikeln. Dabei haben Sie die Möglichkeit per E-Mail oder per SMS an
+ein Angebot erinnert zu werden.
+
+Für die Nutzung des Erinnerungsservice müssen Sie Ihre E-Mail-Adresse bzw.
+Ihre Mobilfunknummer zunächst registrieren. Dies gilt auch für den Fall, dass
+Sie den Erinnerungsservice über die ALDI SÜD App nutzen. Nur dann ist die
+Nutzung des Erinnerungsservice möglich. Sie erhalten im Anschluss einen
+Bestätigungscode über E-Mail oder SMS.
+
+Ihre E-Mail-Adresse bzw. Ihre Handynummer wird zur Bereitstellung des
+Erinnerungsservice in der Registrierungsdatenbank gespeichert.
+
+Die erste E-Mail-Adresse bzw. Ihre Mobilfunknummer wird so lange in der
+Registrierungsdatenbank gespeichert, bis Sie sich wieder abmelden. Die
+Abmeldung erfolgt unter A bis Z unter dem Punkt Erinnerungsservice bzw. in der
+ALDI SÜD App unter „Mehr“.
+
+Nach Abschluss jeder einzelnen Erinnerung wird Ihre E-Mail-Adresse zu der
+Erinnerung anonymisiert. Der anonymisierte Eintrag bleibt zu statistischen
+Zwecken gespeichert, kann Ihnen aber nicht mehr zugeordnet werden.
+
+Bitte beachten Sie, dass die Aktivierung des Erinnerungsservice nur dann
+zulässig ist, wenn Sie selbst der Empfänger sind, oder wenn Sie wissen oder
+sicher davon ausgehen können, dass der Empfänger mit der Zusendung der
+Erinnerung einverstanden ist.
+
+## Aktionsartikel per E-Mail empfehlen
+
+Unsere Kunden können Aktionsartikel aus dem aktuellen Angebot von ALDI SÜD per
+E-Mail weiterempfehlen. Ihre E-Mail-Adresse, Ihr Name, sowie die E-Mail-
+Adresse des Empfängers werden ausschließlich zu Übertragungszwecken
+gespeichert, um den Adressaten über den Absender zu informieren bzw. um im
+Fall eines Übertragungsfehlers eine Benachrichtigung zu übermitteln. Diese
+Daten werden nach Abschluss der Übermittlung nicht durch uns gespeichert.  
+  
+Bitte beachten Sie, dass die unaufgeforderte Zusendung einer Empfehlung vom
+Empfänger als störend empfunden werden kann. Mit diesem Angebot dürfen Sie
+eine Empfehlung nur dann aussprechen, wenn Sie wissen oder sicher davon
+ausgehen können, dass der Empfänger mit der Zusendung der Empfehlung
+einverstanden ist.
+
+## 5\. Wie können Sie unsere „Online-Services“ sicher nutzen?
+
+Auf unserer Webseite leiten wir Sie teilweise über unsere „Online-Services“
+auf die entsprechenden Webseiten unserer Vertragspartner weiter. Um Ihre
+Anfragen und Ihre Bestellungen bearbeiten zu können, werden Sie auf die
+Internetseiten unserer Vertragspartner weitergeleitet. Wir übermitteln in
+diesem Zusammenhang keinerlei personenbezogene Daten. Die zur Beauftragung des
+jeweiligen Vertragspartners erforderlichen Daten geben Sie selbst erst auf
+dessen Internetseite an. Sie können die jeweils verantwortliche Stelle daran
+erkennen, dass der Vertragspartner auf der Seite und im jeweiligen Impressum
+genannt wird. Auf der Webseite der Vertragspartner gelten deren
+Datenschutzhinweise. Zu Ihrer Sicherheit haben wir diese Unternehmen
+vertraglich auf die Einhaltung der geltenden Datenschutzgesetze verpflichtet.  
+  
+Bitte beachten Sie, dass sich der hier vorliegende Datenschutzhinweis nur auf
+unsere ALDI SÜD Webseite bezieht. Hinweise zu unseren einzelnen Online-
+Services erhalten Sie nachstehend.
+
+## ALDI Reisen
+
+Unser Online-Service ALDI Reisen bietet Ihnen eine Übersicht der aktuellen
+Reiseangebote. Die Informationen über die Reiseangebote werden direkt von uns
+bereitgestellt. Sollten Sie sich für eine Reise entscheiden, verweisen wir Sie
+auf das Buchungsformular des jeweiligen Reiseanbieters, da wir nur als
+Vermittler auftreten. Zu diesem Zeitpunkt verlassen Sie die ALDI SÜD Webseite.
+Ihre dort eingegebenen personenbezogenen Daten werden ausschließlich von
+unseren Vertragspartnern erhoben, verarbeitet und genutzt.  
+  
+Dies gilt insbesondere, wenn Sie Ihre Daten auf der Kontaktseite bei ALDI
+Reisen eingeben. Sie haben dort die Möglichkeit, einen unserer Reisepartner
+direkt anzusprechen. Dazu dienen Ihnen verschiedene Kontaktmöglichkeiten:
+
+  * Call me back – hier können Sie einen Rückrufwunsch direkt an den Reiseanbieter aufgeben. Ihre Daten werden von ALDI SÜD erhoben und direkt an den Reiseanbieter Ihrer Wahl weitergeleitet.
+
+  *  E-Mail – hier können Sie eine E-Mail direkt an den Reiseanbieter absenden. Ihre Daten werden von ALDI SÜD erhoben und direkt an den Reiseanbieter Ihrer Wahl weitergeleitet.
+
+  *  Kontakt – hier stellen wir Ihnen die Kontaktdaten der Reiseanbieter zur Verfügung.
+
+Die einzugebenden Daten sind für die Bearbeitung Ihrer Anfrage erforderlich.
+Nach Absenden der Formulare an den jeweiligen Reiseanbieter werden die Daten
+nicht von uns gespeichert. Die weitere Verarbeitung erfolgt ausschließlich
+durch den Reiseanbieter.
+
+## ALDI Blumen
+
+ALDI Blumen bietet Ihnen ein großes Angebot an frischen Blumensträußen. Die
+genauen Übersichten über die Angebote erhalten Sie auf der Webseite unserer
+Vertragspartner. Alle personenbezogenen Angaben, die Sie auf der Seite unserer
+Vertragspartner bereitstellen, werden ausschließlich von unseren
+Vertragspartnern erhoben und zur Abwicklung der Bestellung verarbeitet und
+genutzt. Auch hier treten wir nur als Vermittler auf.
+
+## ALDI Foto
+
+ALDI Foto bietet Ihnen einen Rundumservice für Ihre digitalen Bilder. Die
+genauen Übersichten über die Angebote erhalten Sie auf der Webseite unserer
+Vertragspartner. Alle personenbezogenen Angaben, die Sie auf dieser Seite
+bereitstellen, werden ausschließlich von unseren Vertragspartnern erhoben und
+zur Abwicklung der Bestellung verarbeitet und genutzt. Auch hier treten wir
+nur als Vermittler auf.
+
+## ALDI TALK
+
+ALDI TALK bietet Ihnen attraktive Mobilfunktarife. ALDI SÜD ist allerdings
+nicht der Anbieter der Telekommunikationsdienstleistung, sondern der
+Vermittler der jeweiligen Angebote. Wenn Sie sich für ALDI TALK entscheiden,
+gehen Sie einen Vertrag direkt mit dem betreffenden
+Telekommunikationsdienstleister ein. Durch uns werden in diesem Zusammenhang
+keine personenbezogenen Daten verarbeitet.
+
+## ALDI life
+
+ALDI life bietet Ihnen ein großes Angebot an Musik und Hörbüchern. Die genauen
+Übersichten erhalten Sie auf der Webseite unseres Vertragspartners. ALDI SÜD
+ist allerdings nicht der Anbieter der Dienstleistung, sondern der Vermittler
+der jeweiligen Angebote. Alle personenbezogenen Angaben, die Sie auf der Seite
+unseres Vertragspartners bereitstellen, werden ausschließlich von unserem
+Vertragspartner erhoben und zur Abwicklung der Bestellung verarbeitet und
+genutzt. Auch hier treten wir nur als Vermittler auf.
+
+## Mein Expressi
+
+Die Webseite www.mein-expressi.de bietet Ihnen eine Übersicht über das
+Expressi Kapsel-System. Diese Informationen werden direkt von uns
+bereitgestellt. Sollten Sie eine Serviceanfrage zu Ihrer Expressi-Maschine
+haben oder Zubehör benötigen, verweisen wir auf das Kontaktformular bzw. den
+Online-Shop unseres Vertragspartners. Zu diesem Zeitpunkt verlassen Sie die
+Webseite www.mein-expressi.de. Ihre dort eingegebenen personenbezogenen Daten
+werden ausschließlich von unserem Vertragspartner erhoben, verarbeitet und
+genutzt.
+
+## Filialfinder
+
+Der Filialfinder ermöglicht Ihnen, Filialen in der Umgebung Ihres Wohnortes
+oder eines von Ihnen bestimmten Standortes zu finden. Die von Ihnen
+bereitgestellten Daten (Postleitzahl, Ortsbezeichnung und/oder
+Straßenbezeichnung) leiten wir an unseren Vertragspartner weiter. Die
+Übersicht der Filialen erhalten Sie auf der Homepage unseres Vertragspartners.
+
+## 6\. Sie nutzen unsere Spiele?
+
+Unsere aktuellen Spiele bieten Ihnen die Möglichkeit sich mit einem beliebigen
+Namen in die Highscoreliste eintragen zu lassen. Diese Daten werden sichtbar
+gespeichert und sind auf der Highscoreliste einsehbar. Ihre eingegebenen Daten
+werden nur für die Highscoreliste verwendet. Eine darüber hinausgehende
+Protokollierung und Verwendung in Verbindung mit dem von Ihnen eingegebenen
+Namen findet nicht statt. Zu Ihrer eigenen Sicherheit sollten Sie
+ausschließlich einen Phantasienamen anstatt Ihres richtigen Namens oder der
+E-Mail-Adresse verwenden.
+
+## 7\. Kontakt zu ALDI SÜD, Anfragen, Reklamationen und Rückgaben
+
+Sie können uns als Kunde jederzeit über unser Kontaktformular Nachrichten und
+Fragen zukommen lassen. Um Ihre Anfrage zeitnah und fachkundig beantworten zu
+können, nutzen wir bei Produktanfragen und Reklamationen die Kompetenz unserer
+Regionalgesellschaften (d. h. die Betreiber der ALDI SÜD Filialen), unserer
+Lieferanten und Vertragspartner. Zur Beantwortung leiten wir Ihre Anfragen an
+diese weiter. Ihre Daten werden ausschließlich zweckgebunden zur Bearbeitung
+Ihres Vorgangs verwendet. Wenn Sie in unseren Filialen einen Artikel
+zurückgeben, verarbeiten wir die Daten, die Sie uns auf dem Rückgabebeleg zur
+Verfügung stellen, ausschließlich zur Bearbeitung des Rückgabevorgangs. Diese
+Daten werden nicht an Dritte weitergegeben.
+
+Bei Reklamationen zur Magazinverteilung werden die von Ihnen angegebenen Daten
+an die jeweils zuständigen Verteilfirmen zur Reklamationsbehebung
+weitergeleitet. Bitte beachten Sie, dass die von Ihnen angegebenen Daten zur
+Kontaktaufnahme von Seiten der Verteilfirmen verwendet werden können. Ihre
+Daten werden ausschließlich zweckgebunden zur Bearbeitung Ihres Vorgangs
+verwendet.
+
+## 8\. Was passiert mit Ihren personenbezogenen Daten bei einer Online-
+Bewerbung?
+
+Sie haben die Möglichkeit, sich über unsere Karriere-Webseite auf
+ausgeschriebene Stellen zu bewerben. Hierzu teilen Sie uns personenbezogene
+Daten mit, die wir ausschließlich für den Bewerbungsprozess verarbeiten. Um
+Ihre Bewerbung gewissenhaft bearbeiten zu können, werden Ihre Unterlagen
+automatisiert an die betroffene ALDI SÜD Regionalgesellschaft oder die ALDI
+SÜD Dienstleistungs-GmbH &amp; Co. oHG weitergeleitet.
+
+## 9\. Warum bieten wir auf unserer Homepage Links auf andere Webseiten an?
+
+Um Ihnen einen umfangreichen Service bieten zu können, weisen wir auf unserer
+Seite auf andere Webseiten hin. Weiterhin werden Sie vereinzelt zu
+Produktinformationen aktueller Angebote auf unserer Webseite direkt zum
+Hersteller weitergeleitet. Wir betonen ausdrücklich, dass wir, unsere
+Mitarbeiter bzw. andere an dieser Webseite beteiligte Personen keinerlei
+Einfluss auf die Gestaltung und die Inhalte der verlinkten Seiten haben.  
+  
+Für fremde Inhalte, die über Links zur Nutzung bereitgestellt werden,
+übernehmen wir keine Verantwortung und machen uns deren Inhalt nicht zu Eigen.
+Für illegale, fehlerhafte oder unvollständige Inhalte sowie für Schäden, die
+durch die Nutzung oder Nichtnutzung der Informationen entstehen, haftet allein
+der Anbieter der Webseite, auf die verwiesen wurde.  
+  
+Unser Datenschutzhinweis gilt nur für die ALDI SÜD Webseite. Bitte beachten
+Sie die Datenschutzbestimmungen und Hinweise der verlinkten Seite.
+
+## 10\. Welche Möglichkeiten haben Sie im Hinblick auf die Speicherung bzw.
+weitere Verwendung Ihrer Daten?
+
+Als unser Kunde können Sie jederzeit darüber Auskunft verlangen, ob wir
+personenbezogene Daten über Sie gespeichert haben und um welche Daten es sich
+handelt. Sollten Sie dabei feststellen, dass Ihre bei uns vorliegenden
+personenbezogenen Daten unrichtig sind, werden wir diese Daten
+selbstverständlich jederzeit berichtigen, sperren bzw. löschen.  
+  
+Die für die Datenverarbeitung im Zusammenhang mit unserer Webseite
+verantwortliche Stelle ist die  
+  
+ALDI SÜD Dienstleistungs-GmbH &amp; Co. oHG  
+Burgstr. 37  
+45476 Mülheim an der Ruhr  
+  
+Sollten Sie weitere Fragen zur Erhebung, Verarbeitung und Nutzung Ihrer
+persönlichen Daten haben, dann wenden Sie sich bitte per E-Mail an
+datenschutz@aldi-sued.de.
+
+  * Angebote
+
+    * Aktionen ab Montag, 29. Mai
+
+    * Angebote von Donnerstag, 1. Juni
+
+    * Technik von Donnerstag, 1. Juni
+
+    * Angebote ab Samstag, 3. Juni
+
+    * Angebote ab Dienstag, 6. Juni
+
+    * Angebote ab Donnerstag, 8. Juni
+
+    * Technik-Angebote
+
+    * Prospekte &amp; Magazine
+
+  * Sortiment
+
+    * Aus unserem Sortiment
+
+    * Eigenmarken
+
+    * EXPRESSI
+
+    * Preissenkung
+
+    * Produktwelten
+
+    * Testergebnisse
+
+    * Wein
+
+  * Ratgeber
+
+    * NEU: Muttertag
+
+    * Garten
+
+    * Grillen
+
+    * Baby
+
+    * Kochen
+
+    * Kindergeburtstag
+
+    * Wohlfühlportal
+
+    * Weitere Ratgeber ...
+
+  * Rezepte
+
+    * Einfach &amp; schnell
+
+    * Menü-Konfigurator
+
+    * Saisonales
+
+    * Vorspeisen
+
+    * Hauptspeisen
+
+    * Desserts &amp; Backen
+
+    * Rezept der Woche
+
+    * Rezept zum Wochenende
+
+    * Rezeptvideos
+
+    * Weitere Rezepte ...
+
+  * ALDI Services
+
+    * ALDI Blumen
+
+    * ALDI Foto
+
+    * ALDI Grünstrom
+
+    * ALDI life
+
+    * ALDI Reisen
+
+    * ALDI TALK
+
+    * Services Prospekte
+
+  * Unterhaltung
+
+    * ALDIlino
+
+    * Die Bloggerbande
+
+    * Vorlesebücher für Kids
+
+    * Spiele
+
+  * Infos
+
+    * ALDI SÜD A bis Z
+
+    * Einkaufs-Check
+
+    * Filialeröffnungen
+
+    * Filialfinder
+
+    * Newsletter
+
+    * Produktvideos
+
+nach oben
+
+Anmeldung zum Newsletter:
+
+Seite drucken
+
+Social Bookmarks
+
+#### Bookmarken oder teilen bei...
+
+Google  Facebook  Twitter  Xing  StumbleUpon  Reddit  Diigo  Linkarena
+
+weitere Bookmarks
+
+DatenschutzImpressum© 2017 by ALDI SÜD
+
+  * Angebote
+Aktionen ab Montag, 29. Mai
+
+  * von Donnerstag, 1.6
+  * Technik von Donnerstag, 1.6.
+  * ab Samstag, 3.6.
+  * ab Dienstag, 6.6.
+  * ab Donnerstag, 8.6.
+  * Technik-Angebote
+  * Prospekte &amp; Magazine
+
+  * Sortiment
+Aus unserem Sortiment
+
+  * Eigenmarken
+  * EXPRESSI
+  * Preissenkung
+  * Produktwelten
+  * Testergebnisse
+  * Wein
+
+  * ALDI Services
+ALDI Blumen
+
+  * ALDI Foto
+  * ALDI Grünstrom
+  * ALDI life
+  * ALDI Reisen
+  * ALDI TALK
+  * Services Prospekte
+
+  * Infos
+ALDI SÜD A bis Z
+
+  * Einkaufs-Check
+  * Filialeröffnungen
+  * Filialfinder
+  * Newsletter
+  * Produktvideos
+

@@ -1,0 +1,339 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Trusted Shops GmbH legal notice </title>
+<meta charset="utf-8">
+<meta name="language" content="en" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8BUVZUGwIEVlJaBwgO"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="description" content="Trusted Shops GmbH legal notice – the European seal of approval">
+<meta name="google-site-verification" content="FG51Q8krdm6QsfhaWQZeiZ1nV53s1-E1Vw6s4sA-Cmw" />
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-itunes-app" content="app-id=867444752, affiliate-data=1l3vcvo">
+
+<link rel="shortcut icon" href="//static.trustedshops.com/img/favicon.ico" />
+<link rel="apple-touch-icon" href="//static.trustedshops.com/img/apple-touch-icon.png" />
+
+<link rel="canonical" href="http://www.trustedshops.eu/legal-notice-privacy.html" />
+<link rel='alternate' hreflang='pl-PL' href='http://www.trustedshops.pl/dane-firmy-ochrona-danych.html'>
+<link rel='alternate' hreflang='de-CH' href='http://www.trustedshops.ch/impressum.html'>
+<link rel='alternate' hreflang='de-AT' href='http://www.trustedshops.at/impressum.html'>
+<link rel='alternate' hreflang='en' href='http://www.trustedshops.eu/legal-notice-privacy.html'>
+<link rel='alternate' hreflang='es-ES' href='http://www.trustedshops.es/aviso-legal.html'>
+<link rel='alternate' hreflang='' href='juridische-kennisgeving.html'>
+<link rel='alternate' hreflang='fr-BE' href='http://www.trustedshops.be/fr/mentions-legales.html'>
+<link rel='alternate' hreflang='nl-BE' href='http://www.trustedshops.be/nl/juridische-kennisgeving.html'>
+<link rel='alternate' hreflang='en-SE' href='http://www.trustedshops.se/legal-notice-privacy.html'>
+<link rel='alternate' hreflang='it-IT' href='http://www.trustedshops.it/legal-notice-privacy.html'>
+<link rel='alternate' hreflang='en-GB' href='http://www.trustedshops.co.uk/legal-notice-privacy.html'>
+<link rel='alternate' hreflang='fr-FR' href='http://www.trustedshops.fr/mentions-legales.html'>
+<link rel='alternate' hreflang='nl-NL' href='http://www.trustedshops.nl/juridische-kennisgeving.html'>
+<link rel='alternate' hreflang='' href='legal-notice-privacy.html'>
+
+<link rel="stylesheet" href="//static.trustedshops.com/css/carWash.css" />
+<link rel="stylesheet" href="//static.trustedshops.com/fontawesome/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/vendor/minify/index.php?f=/cms/assets/templates/common/css/jquery.fancybox-1.3.4.css"/>
+
+<script src="/vendor/minify/index.php?f=/cms/assets/templates/common/javascripts/jquery-1.8.3.min.js,/cms/assets/templates/common/javascripts/jquery-ui-1.9.1.custom.min.js,/cms/assets/templates/common/javascripts/slides.js,/cms/assets/templates/common/javascripts/tstoolbar.js,/cms/assets/templates/common/javascripts/jquery.fancybox-1.3.4.pack.js,/cms/assets/templates/common/javascripts/ui-utils.js,/cms/assets/templates/common/javascripts/fade-plugin.js,/cms/assets/templates/common/javascripts/swfobject.js,/cms/assets/templates/common/javascripts/jquery.cookie.js,/cms/assets/templates/b2b/javascripts/custom-form-elements.js,/cms/assets/templates/b2b/javascripts/jquery.dropkick-1.0.0.js,/cms/assets/templates/common/javascripts/navi.js,/cms/assets/templates/common/javascripts/jquery.easing.1.3.js,/cms/assets/templates/common/javascripts/jquery.anchorscroll.js,/assets/js/typeahead.bundle.js,/assets/js/handlebars-v2.0.0.js"></script>
+<script src="//static.trustedshops.com/js/carWash_pageTools.js"></script>
+<script src="//static.trustedshops.com/js/jquery.cookie.js"></script>
+
+
+
+<script src="//cdn.optimizely.com/js/2090121583.js"></script>
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script>
+    window.cookieconsent_options = {
+        "message": "This website uses cookies to enable certain functions and to improve your user experience. By continuing to browse the site you are agreeing to our use of cookies.",
+        "dismiss": "Got it!",
+        "learnMore": "More Information.",
+        "link": "http://www.trustedshops.co.uk/legal-notice-privacy.html",
+        "theme":"dark-floating"};
+</script>
+<script src="//cdn2.hubspot.net/hubfs/603347/global/js/cookieconsent.js"></script>
+<!-- End Cookie Consent plugin -->
+<!--[if lt IE 9]>
+<script src="//static.trustedshops.com/js/html5shiv/html5shiv.min.js"></script>
+<link href="//static.trustedshops.com/css/boostrapv312_960_ie.css" rel="stylesheet" media="screen" />
+<![endif]-->
+<link rel="stylesheet" href="//static.trustedshops.com/css/shopsearch.css" />
+</head>
+<body style="background-color: #fff;">
+<header class="mainNavigation">
+    
+    <div class="logoContainer">
+        <a href="http://www.trustedshops.eu/" class="brand-e mini hidden-lg" title="Trusted Shops - The safe way to web shopping"><span class="hide">Trusted Shops - The safe way to web shopping</span></a>
+        <a href="http://www.trustedshops.eu/" class="brand-eTrustedshops mini hidden-xs hidden-sm" title="Trusted Shops - The safe way to web shopping"><span class="hide">Trusted Shops - The safe way to web shopping</span></a>
+    </div>
+    <nav class="mobileNav hidden-sm hidden-lg">
+        <a href=""></a>
+    </nav>
+    <nav class="primary">
+        <ul>
+            <li class="visible-xs"><a href="https://www.trustedshops.com/en/shop/login.html"><span>Login</span></a></li>
+            
+            
+            <li><a  class="first" href="http://www.trustedshops.eu/merchants/features/" title="Features" ><span>Features</span></a></li>
+            
+
+            <li><a  href="http://www.trustedshops.eu/merchants/integration/" title="Support" ><span>Support</span></a></li>
+            
+
+            <li><a  href="http://www.trustedshops.eu/merchants/references.html" title="References" ><span>References</span></a></li>
+            
+
+            <li><a  class="last" href="http://www.trustedshops.eu/merchants/sitemap/" title="More" ><span>More</span></a></li>
+            
+
+        </ul>
+    </nav>
+    <nav class="signLogin">
+        <span class="container hidden-xs">
+            <a href="http://www.trustedshops.eu/finder/" class="shopFinder" title="Shop finder"><span class="icon"><span class="hide">Shop finder</span></span></a>
+        </span>
+        <span class="container hidden-xs">
+            <a href="https://www.trustedshops.com/en/shop/login.html" class="myTsLogin" title="Login">Login</a>
+        </span>
+        <span class="container">
+            
+        </span>
+    </nav>
+</header>
+<div class="container" style="">
+
+    <div class="row">
+        <div class="hidden-xs col-lg-12">
+            <br><br><br><br>
+        </div>
+        <div class="col-xs-12 col-lg-8">
+            <div class="imprint_intro">
+                <h2>Data protection</h2>
+                <img src="/cms/assets/templates/common/images/imprint_key.png" alt="privacy" style="float:right;" />
+                <p><br />Thank you for visiting our website <a href="http://www.trustedshops.eu">http://www.trustedshops.eu</a>. Protection of your privacy is very important to us. <br /><br />Below you will find extensive information about how we handle your data.<br /><br /><br /></p>
+            </div>
+            <a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Visiting_this_website">Visiting this website</a>
+<div style="padding-left: 30px;"><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Cookies">Cookies</a></div>
+<div style="padding-left: 30px;"><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Web_analytics_tools">Web analytics tools</a></div>
+<div style="padding-left: 30px;"><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Contact_form">Contact form</a></div>
+<a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Subscribing_to_newsletter">Subscribing to the newsletter<br /></a><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Subscribing_for_warranty">Subscribing for the Trusted Shops warranty<br /></a><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Subscribing_to_rating_reminder">Subscribing to rating reminder <br /> </a><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Leaving_a_rating">Leaving a rating </a>
+<div style="padding-left: 30px;"><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Shopper_Profile">Shopper profile<br /></a><a href="#sociallogin">Facebook Social Login</a></div>
+<a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Membership_registration">Membership registration <br /></a>
+<div style="padding-left: 30px;"><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Transmission_of_data">Transfer of data to third parties as part of the membership registration process </a></div>
+<a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Apply_for_a_job">Apply for a job at Trusted Shops<br /></a><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#General_information">General information <br /></a>
+<div style="padding-left: 30px;"><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Protection_against_misuse">Protection of your data against misuse </a></div>
+<div style="padding-left: 30px;"><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Correction_Blocking_Deletion">Correction, blocking and deletion of your data </a></div>
+<div style="padding-left: 30px;"><a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Data_Protection_Officer">Data Protection Officer </a></div>
+<br />
+<h2><a name="Visiting_this_website"></a>Visiting this website</h2>
+<p>You may visit our website without revealing any personal information. We collect only access data in the so-called server log files, such as e.g. name of the requested file, IP address, date and time of the processing request, volume of data transmitted, and the requesting provider. These data will be used exclusively to ensure a smooth operation of the website and analysed for the purpose of improving our website and then deleted. They do not allow us to identify you.</p>
+<h3><a name="Cookies"></a>Cookies</h3>
+<p>To improve the user experience on our website and enable you to use its certain features, some pages of this website use the so-called cookies. A cookie is a small text file stored in your web browser while browsing it, which records certain settings and entered information to share it with our system through your browser.</p>
+<p>Some of the cookies we use are deleted after you close the browser session, i.e. when you close the browser (that’s the so-called session cookies). Other cookies are stored in your end-user device and enable us to recognise your browser when you visit us again (persistent cookies).</p>
+<p>Cookies do not collect any personal data and thus, they do not identify you as an individual user. Please note that some cookies are created as soon as you come to our website. You can configure your browser for it to inform you whenever a page uses cookies and decide on a case-by-case basis whether to accept or reject the cookies on a given page or generally. Please note that disabling cookies may limit your access to some features of our website.</p>
+<p>Below we present information on cookies we use and how you can customise your browser in that respect.</p>
+<p>1. Necessary cookies</p>
+<p>These cookies are necessary to enable you to use our website. This includes e.g. cookies that enable you to log into the customer area or add items to your shopping cart.</p>
+<p>2. Analytical / performance cookies</p>
+<p>These cookies enable collecting anonymised data about user behaviour on our website. We analyse them e.g. to improve the functionality of our website and recommend you products that will be interesting to you.</p>
+<p>3. Functionality cookies</p>
+<p>These cookies are used for certain features of our website, e.g. to improve the website’s navigation, or deliver to you customised and relevant information (e.g.  ads that match your interests).</p>
+<p>4. Targeting cookies</p>
+<p>These cookies record information about your visit to the website, previously viewed pages and links you clicked. We use this information to tailor our website and displayed ads to your interests.</p>
+<p>5. Third-party cookies</p>
+<p>The cookies of some of our advertising providers help make the on-line offering and our website more attractive to you. Therefore, cookies of our partner providers are also saved to your hard disk when you are visiting our website. These are temporary cookies and are automatically deleted after a specific timeframe. As a rule, cookies of our partner providers are deleted a few days or up to 24 months later, or in some cases after several years. Cookies of our partner providers do not collect personal data, either. They will collect exclusively pseudonymised data under a user ID. These pseudonymised data will not be associated with your personal data at any time.</p>
+<p><em>How can I change cookie settings in my browser?</em></p>
+<p>Every browser has a different policy for managing the cookie settings. The browser’s policy is described in the Help menu of every browser and explains how you can change your cookie settings. To find out how to change the settings in your browser, see the links below:</p>
+<p>Internet Explorer™: <a href="http://windows.microsoft.com/en-gb/windows-vista/Block-or-allow-cookies">http://windows.microsoft.com/en-gb/windows-vista/Block-or-allow-cookies</a></p>
+<p>Safari™: <a href="https://support.apple.com/kb/PH17191?viewlocale=en_US&amp;locale=de_DE">https://support.apple.com/kb/PH17191?viewlocale=en_US&amp;locale=de_DE</a></p>
+<p>Chrome™: <a href="https://support.google.com/chrome/answer/95647?hl=en&amp;hlrm=en">https://support.google.com/chrome/answer/95647?hl=en&amp;hlrm=en</a></p>
+<p>Firefox™ <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences</a></p>
+<p>Opera™ : <a href="http://help.opera.com/Windows/10.20/en/cookies.html" target="_blank">http://help.opera.com/Windows/10.20/en/cookies.html</a></p>
+<p><em>Google Double Click Cookie</em></p>
+<p>In connection with the use of Google Analytics, Google uses the so-called Double Click cookies which enable recognising your browser whenever you visit other websites. The information generated by cookies about your visit of this website  will be transmitted to and stored by Google on servers in the United States. As IP anonymization is enabled on this website, some parts of the IP address will be masked within the area of member states of the European Union or other parties to the Agreement on the European Economic Area before sending. Only in exceptional cases is the full IP address sent to a Google server in the USA and masked there. Google will not associate your anonymised IP address, transmitted from your browser through Google Analytics, with any other data held by Google.</p>
+<p>Google will use this information to analyse how you use the website and tailor ads to be displayed to you, to compile reports about your website activities and ads for advertising providers and to provide other services related to the use of the website and the Internet. In addition, Google may transfer this information to third parties from time to time if this is required by the law or if third parties process such data by order of Google. Google will however not associate your IP address with any of other data held by Google.</p>
+<p>You may disable cookies used by Google; for this purpose, go to <a href="http://www.google.com/settings/ads">Google ads settings</a>. Alternatively, you may disable third-party cookies; for this purpose, go to <a href="http://www.networkadvertising.org/managing/opt_out.asp">the opt-out page of the network advertising initiative</a>. You may also disable installation of cookies by making appropriate settings in your browser; please note that in this case not all website features may be fully accessible to you. For more information on Google privacy policy click <a href="http://www.google.com/intl/en/policies/privacy/">here</a>.</p>
+<p><em>Google Tag Manager</em></p>
+<p>To manage the interest- or location-based advertising services, we also use Google Tag Manager. The Tag Manager tool alone is a domain that does not use cookies and does not record any personal data. It is rather that the tool enables firing other tags which then record data from time to time (for more information, see above). If you disable a tag on the domain or cookie level, all tracking tags implemented within Google Tag Manager will be disabled.</p>
+<h3><a name="Web_analytics_tools"></a>Web analytics tools</h3>
+<p>This website uses web analytics tools to deliver custom content and ads.</p>
+<p><em>Using Optimizely for A/B and Multivariate Testing</em></p>
+<p>This website uses Optimizely, a web analytics tool by Optimizely Inc. The tool is used for A/B and multivariate testing. Optimizely uses <a href="http://www.trustedshops.eu/legal-notice-privacy.html/#Cookies">cookies</a> to recognise the website user and to analyse the use of the website.</p>
+<p>The information generated by cookies about your use of this website will be transmitted to and stored by Optimizely on servers in the United States. Because IP anonymisation is enabled on this website, some parts of your IP address will be masked by Optimizely within the area of member states of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases is the full IP address sent to an Optimizely server in the USA and masked there.You may disable installation of cookies by making appropriate settings in your browser; please note that in this case not all website features may be fully accessible to you<em>.</em>]</p>
+<p>You may disable the Optimizely tracking at any time; for this purpose follow the instructions on <a href="http://www.optimizely.com/opt_out">http://www.optimizely.com/opt_out</a>.</p>
+<p><em>Using Google Analytics for web analytics</em></p>
+<p>This website uses Google Analytics, a web analytics tool by Google Inc. (www.google.de). Google Analytics uses cookies to enable analysing the use of the website.</p>
+<p>The information generated by cookies about your use of this website will be transmitted to and stored by Google on servers in the United States.</p>
+<p>If IP anonymisation is enabled on this website, some parts of the IP address will be masked within the area of member states of the European Union or other parties to the Agreement on the European Economic Area before sending. Only in exceptional cases is the full IP address sent to a Google server in the USA and masked there. Google will not associate your anonymised IP address, transmitted from your browser through Google Analytics, with any other data held by Google.</p>
+<p>Upon instruction from the owner of this website, Google will use information to analyse the use of the website, to compile reports about your website activities and ads and to provide to us other services related to the use of the website and the Internet. Google will not associate your anonymised IP address, transmitted from your browser through Google Analytics, with any other data held by Google.</p>
+<p>You may disable the saving of cookies by making appropriate settings in your browser; please note that in this case not all website features may be fully accessible to you.</p>
+<p>In addition, you may prevent the data generated by cookies and related to your usage of this website (incl. your IP address) from being recorded and processed by Google by downloading and installing the browser plug-in available through the following link: <a href="https://tools.google.com/dlpage/gaoptout?hl=en">https://tools.google.com/dlpage/gaoptout?hl=en</a></p>
+<p>Alternatively to the browser plugin, you may click this link to prevent Google Analytics from recording your data on this website in the future. In this process, an opt-out cookie will be stored on your end-user device. If you clear your cookies, you will have to click the link again.</p>
+<h3><a name="Contact_form"></a>Contact form</h3>
+<p>Your personal data will be collected if you voluntarily supply them to us when contacting us or during the registration for our services. We use your data solely to be able to offer you the information and services you request, which means that we will store and process only the data and information that are absolutely necessary to respond to your enquiry or execute an agreement.</p>
+<p>If you contact us but did not sign a membership agreement, we will delete your data from our customer database if you request us to.</p>
+<h2><a name="Subscribing_to_newsletter"></a>Subscribing to the newsletter</h2>
+<p>If you subscribe to one of our newsletters, we will use the data you supply with your express consent to send you our newsletter. You must provide your e-mail address, all other information is voluntary. The newsletter includes the latest posts and offers of Trusted Shops GmbH and third-party providers. You may cancel your subscription at any time.</p>
+<p>If you subscribe to our newsletter, we will pass your data necessary for the sending of the newsletter to a service provider who will be commissioned to handle the mailing of the newsletters to subscribers.</p>
+<h2><a name="Subscribing_for_warranty"></a>Subscribing for the Trusted Shops warranty</h2>
+<p>To register you for the Trusted Shops warranty, we will need your email address, total purchase price, the selected payment method, purchase order number, your customer number (if you have one) and the name of the online shop from which you ordered the product.</p>
+<p>Your data will be used to enable us to ensure that your purchase order comes with a warranty and to enable you to use the Trusted Shops system. With the Trusted Shops system you may view your active and expired warranties, request a refund and rate your purchase orders. In this process, your e-mail address is the username you use to sign in to the Trusted Shops system and will be permanently stored for this purpose.</p>
+<p>Only if you want to make use of the warranty will we need additional information and personal data to check and process your request for a refund. In the process of registering your claim for a refund, we will collect your name, street address, telephone number, where appropriate, and your bank account number to make the refund. We will use these data solely for the purpose of handling your refund claim. After that, the data will be blocked from further use and finally deleted once all retention periods under commercial and tax law expire.</p>
+<h2><a name="Subscribing_to_rating_reminder"></a>Subscribing to rating reminder</h2>
+<p>If, during or after placing your order, you grant an express consent to receiving email reminders by ticking an appropriate checkbox or clicking an appropriate button (e.g. “Rate later”), your email address will be transferred to Trusted Shops so that we can send you email reminders about rating your purchase order using the Trusted Shops customer rating service. Other data that may be transferred includes shop URL, purchase order number and names and numbers of items you ordered, so that you can rate a transaction after finalisation, provided that the product rating feature is available for the ordered product. You may withdraw your consent to receiving email reminders at any time, with effect on your future orders.</p>
+<p>If you subscribe to the automated rating reminder service, you will be automatically receiving email reminders about rating a transaction after every purchase from the Trusted Shops members.  On your every visit, you will be recognised based on anonymised data.  You may withdraw your consent to receiving email reminders at any time, with effect on your future orders.</p>
+<h2><a name="Leaving_a_rating"></a>Leaving a rating</h2>
+<p>If you leave a rating through the Trusted Shops rating system, without having previously made use of a Trusted Shops warranty, we will need your e-mail address to ensure that your rating is valid and reliable. The e-mail address will be used for the purpose of checking whether the person who leaves the rating is a customer of the online shop being rated and whether the rating can be verifiably attributed to a purchase order; to that end, the email address will be stored together with the purchase order number and the rating. If you rate a product, we will also store the names and numbers of the products ordered under your email address.</p>
+<p>In addition, we will use your email address to enable you to use the Trusted Shops system. In the Trusted Shops system, you may view (and change, if needed) your other ratings of shops and/or products, view your active and expired warranties (as long as warranty agreements were concluded under that email address), claim refunds, if any, and rate the concluded transactions. In this process, your e-mail address is the username you use to sign in to the Trusted Shops system and will be permanently stored for this purpose.</p>
+<p>In order to ensure security of the rating system, prevent false or incorrect ratings and enable smooth and proper operation of the rating system, we will also collect information about your IP address the moment you post your rating. It will be stored for up to 7 days in reference with the rating and then deleted.</p>
+<h3><a name="Shopper_Profile"></a>Shopper Profile</h3>
+<p>In addition, you may personalize your ratings by providing more detailed personal information when posting your rating or by entering more detailed personal information into the Trusted Shops system. Thus, we will be able to display your ratings with that additional information, whereas some of your information will be displayed only with some of its parts being masked to protect your privacy. The public will be able to view a summary of all your ratings left so far. Your email address will be never published, though. You may delete your personal data at any time; to that end, sign into the Trusted Shop system and clear the relevant fields. There, you may also make appropriate settings to hide your profile from the public view.<br /><br /><a name="sociallogin"></a><em>Facebook Social Login</em></p>
+<p>You have the option of linking your Trusted Shops membership account for buyers with your Facebook account. In this case, you only have to authenticate yourself on Facebook in future using your login data to be automatically logged into your Trusted Shops membership account for buyers.</p>
+<p>Upon linking the accounts for the first time, you will be asked to give your consent for the following data to be transmitted to Trusted Shops: E-mail address, name, profile photo, age bracket (e.g. 35-39), language, country and other data, which you have set in your Facebook profile as visible to all.</p>
+<p>The data that Trusted Shops receives from Facebook will be used to help you design your shopper profile. Upon linking the accounts for the first time, Facebook will be given your email address by Trusted Shops in order to identify you as the user, and later solely the ID that was set for you as a means of authentication between both systems. Facebook does not receive any other data.</p>
+<p>You can remove the link between the accounts at any time and revoke your consent for the transmission of the data with effect for the future by changing your settings accordingly <a href="https://www.facebook.com/settings?tab=applications%5d">here</a>.</p>
+<h2><a name="Membership_registration"></a>Membership registration</h2>
+<p>Membership is offered exclusively to entities engaged in trading as part of their business activity or to self-employed persons. Your personal data will be collected if you voluntarily supply them to us when contacting us or during the registration for our services. We use your data solely to be able to offer you the information and services you request, which means that we will store and process only the data and information that are absolutely necessary to respond to your enquiry or execute an agreement.</p>
+<p>When you contact us or request membership, we will prompt you to enter certain data, such as your e-mail address, your name, street address and the address of your online shop. On the relevant pages, you will be able to see what information must be necessarily provided and what information is voluntary. We need the information to be able to respond to your enquiry or check your membership request. If you are a member, you may request us to block your data from further processing after the membership agreement expires; your data will be deleted upon expiry of all retention periods prescribed by tax and commercial law. If you contact us but did not sign a membership agreement, we will delete your data from our customer database if you request us to.</p>
+<h3><a name="Transmission_of_data"></a>Transmission of data to third parties as part of the membership registration process</h3>
+<p>Only if you are an entity engaged in trading as part of your business activity or a self-employed person will we transfer your address details to credit bureaus during the process of concluding the membership agreement for the credit bureau to evaluate the liability risk and check your creditworthiness. Your creditworthiness and personal information will not be disclosed to any third parties unless you consent to a certain disclosure in a separate, express consent.</p>
+<h2><a name="Apply_for_a_job"></a>Apply for a job at Trusted Shops</h2>
+<p>If you use this website to apply for a job at Trusted Shops, we will collect your personal information through our job application portal, operated by an external service provider. The data you furnish through our job application portal will be used solely for the purpose of recruitment for the job advertised and to check and process your application submitted in this context. Once the recruitment process for a given advertised job position is complete, the data will be blocked from further use and deleted upon expiry of any applicable retention periods.</p>
+<h2><a name="General_information"></a>General information</h2>
+<p>This general information applies to all sections of this document <em>mutatis mutandis</em>.</p>
+<h3><a name="Protection_against_misuse"></a>Protection of your data against misuse</h3>
+<p>We take the latest technological and organisational measures to ensure that our website and other systems are secure and to prevent your data from being lost, destroyed, accessed, altered or circulated by unauthorised parties. For the transfer of personal data, such as enquiry, registration or buyer protection related data, we use encryption technology to ensure the highest degree of confidentiality. Your personal data are password-protected so that you are the only person to access them. Our servers use various security mechanisms and authorisation checks to hinder unauthorised access. Nevertheless, you should maintain the confidentiality of your login data at all times and close the browser window once you stop communicating with the Trusted Shops. Thus, you are ensuring that no-one, except for you, is able to access your personal data if you’re sharing the computer with others.</p>
+<h3><a name="Correction_Blocking_Deletion"></a>Correction, blocking and deletion of your data</h3>
+<p>You may view and edit your user information at all times in the protected area of the Trusted Shops homepage upon signing in using your email address and password. Please contact us if you forget your password or cannot sign in.</p>
+<p>You are entitled to receive free information about your stored data and to correct, block or delete your data, if necessary. For this purpose, please contact your data protection officer.</p>
+<h3><a name="Data_Protection_Officer"></a>Data Protection Officer</h3>
+<p>If you have any questions about how we collect, process or use your personal data, want to enquire about, correct, block or delete your data, or withdraw any consents you’ve given, please contact in writing our in-house data protection officer Jennifer Rost:</p>
+<p>Trusted Shops GmbH<br /> Datenschutzbeauftragte  [Data Protection Officer]</p>
+<p>Jennifer Rost<br /> Subbelrather Straße 15c<br /> 50823 Köln</p>
+<p><a href="mailto:privacy@trustedshops.com">privacy@trustedshops.com</a></p>
+<p>In addition to the internal data protection controls ensured by our in-house data protection officer, certain control authorities were established under the Federal Data Protection Act who may help you enforce your rights. Trusted Shops falls within the jurisdiction of the supervisory office of the Nordrhein-Westfalen federal state:</p>
+<p>Landesbeauftragte für Datenschutz und Informationsfreiheit <br /> [State Commissioner for the Protection of Data and Freedom of Information]   <br /> Nordrhein-Westfalen<br /> Helga Block<br /> Kavalleriestr. 2 – 4<br /> 40213 Düsseldorf<br />Phone: (0211) 38424-0<br /> Telefax: (0211) 38424-10<br /> E-Mail: poststelle [at] ldi.nrw.de</p>
+<p>In accordance with § 4g (2) of the Federal Data Protection Act, the data protection officer is obligated, on request, to make the obligatorily registered procedural information available to anyone in an appropriate manner.  Should you wish to access the obligatorily registered procedural information of Trusted Shops GmbH, please contact the data protection officer.</p>
+<p align="right"> </p>
+        </div>
+        <div class="col-xs-12 col-lg-4" style="margin-top: 20px;">
+            <h2>Imprint</h2>
+<p>Person responsible under § 5 of Germany’s Telemedia Act (TMG) for www.trustedshops.eu is:</p>
+<h3>Registered office</h3>
+<p>Trusted Shops GmbH <br />Subbelrather Straße 15c <br />50823 Cologne, Germany</p>
+<p>Tel.: +49 221 77536 371</p>
+<p>E-Mail: service@trustedshops.eu</p>
+<p>Cologne Local Court, Germany, Commercial Register (HRB) 32735</p>
+<p>VAT ID No.: DE 812 947 877</p>
+<p>Managing Directors: Jean-Marc Noël, Thomas Karst, Ulrich Hafenbradl</p>
+<p>Responsible for content: Ulrich Hafenbradl (responsible), Dr. Carsten Föhlisch</p>
+<p>Representative for minor protection, pursuant to Article 7 JMStV: Stefan Bodewig, <a href="mailto:jugendschutz@trustedshops.de">jugendschutz@trustedshops.de</a><br /><br />Online dispute resolution according to Art. 14 (1) Regulation on consumer ODR: The European Commission provides a platform for online dispute resolutions (ODR) which can be accessed under <a href="http://ec.europa.eu/consumers/odr/">http://ec.europa.eu/consumers/odr/</a>. Consumers have the possibility to use this platform for resolving their disputes. We are ready to participate in extra-judicial dispute settlement proceedings before a consumer dispute resolution body.</p>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+</div>
+<footer>
+    
+    <a class="brand" href="//www.trustedshops.eu/"><img src="//static.trustedshops.com/img/brand/e-trustedshops_black_131-54.png"
+                                                     title="Trusted Shops - The safe way to web shopping"
+                                                     alt="Trusted Shops Logo"></a><br>
+    <span class="copyright">
+        © 1999-2017    TRUSTED SHOPS GmbH.
+    </span>
+    <span id="languageSelection"><img class="current" src="//static.trustedshops.com/img/flags/flag_en-EU.png" width="17">
+        <nav>
+            <div>
+                <ul>
+                    <li>
+                        <a href="http://www.trustedshops.be"><img src="//static.trustedshops.com/img/flags/flag_fr-BE.png"> Belgique / België</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.dk"><img src="//static.trustedshops.com/img/flags/flag_en-DK.png"> Danmark</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.de"><img src="//static.trustedshops.com/img/flags/flag_de-DE.png"> Deutschland</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.es"><img src="//static.trustedshops.com/img/flags/flag_es-ES.png"> España</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.fr"><img src="//static.trustedshops.com/img/flags/flag_fr-FR.png"> France</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.it"><img src="//static.trustedshops.com/img/flags/flag_it-IT.png"> Italia</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.nl"><img src="//static.trustedshops.com/img/flags/flag_nl-NL.png"> Nederland</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.at"><img src="//static.trustedshops.com/img/flags/flag_de-AT.png"> Österreich</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.pl"><img src="//static.trustedshops.com/img/flags/flag_pl-PL.png"> Polska</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.ch"><img src="//static.trustedshops.com/img/flags/flag_de-CH.png"> Schweiz</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.se"><img src="//static.trustedshops.com/img/flags/flag_en-SE.png"> Sverige</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.co.uk"><img src="//static.trustedshops.com/img/flags/flag_en-GB.png"> United Kingdom</a>
+                    </li>
+                    <li>
+                        <a href="http://www.trustedshops.eu"><img src="//static.trustedshops.com/img/flags/flag_en-EU.png"> Rest of Europe</a>
+                    </li>
+                    <li class="hidden-sm close hidden-md hidden-lg">
+                        <a href="#"></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </span>
+    <p class="copyright">
+        All rights reserved.
+        <a href="http://www.trustedshops.eu/merchants/contact/" title="Contact">Contact</a>,
+        <a href="http://www.trustedshops.eu/merchants/integration/faq/" title="FAQ">FAQ</a>,
+        <a href="http://www.trustedshops.eu/legal-notice-privacy.html" title="Data privacy and Imprint">Data privacy and Imprint</a>
+    </p>
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TPWN9Q" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+    <script>
+    (function(w,d,s,l,i)
+            {
+                w[l]=w[l]||[];w[l].push(
+                    {
+                        'gtm.start': new Date().getTime(),
+                        event:'gtm.js'
+                    }
+                );
+                var f=d.getElementsByTagName(s)[0],
+                        j=d.createElement(s),
+                        dl=l!='dataLayer'?'&l='+l:'';
+                j.async=true;
+                j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+                f.parentNode.insertBefore(j,f);
+            }
+    )(window,document,'script','dataLayer','GTM-TPWN9Q');
+
+    </script>
+<!-- End Google Tag Manager -->
+    <script type="text/javascript">
+        <!--
+        document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +
+                "b2b.trustedshops.com/affiliate/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
+    </script>
+    <script type="text/javascript">
+        <!--
+        PostAffTracker.setAccountId('default1');
+        try {
+            PostAffTracker.track();
+        } catch (err) { }
+        //-->
+    </script>
+</footer>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ca04604728","applicationID":"14238099","transactionName":"YlNUMEBUXBZXBhdfDlsZdRFBQV0IGQkGUQBZG1gLRlxRABsVEV8XVFVPSlpBXwk=","queueTime":0,"applicationTime":127,"atts":"ThRXRghOTxg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

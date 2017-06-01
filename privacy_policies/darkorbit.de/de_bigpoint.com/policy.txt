@@ -1,0 +1,386 @@
+# DatenschutzerklÃ¤rung
+
+Diese DatenschutzerklÃ¤rung informiert Sie darÃ¼ber, welche personenbezogenen
+Daten wir im Rahmen unserer Internetangebote und Spiele von Ihnen erheben und
+wie diese Daten verarbeitet und genutzt werden. Der Schutz Ihrer
+personenbezogenen Daten ist uns wichtig.
+
+Ihre Daten sind gegen missbrÃ¤uchlichen Zugriff und Verlust durch vielseitige
+MaÃnahmen elektronisch, technisch, physikalisch, vertraglich und
+administrativ gesichert.
+
+Wir haben die notwendigen technischen und organisatorischen MaÃnahmen
+getroffen, um sicherzustellen, dass die Vorschriften Ã¼ber den Datenschutz
+sowohl intern als durch externe Dienstleister beachtet werden.
+
+## Erhebung von Daten
+
+Wir erheben personenbezogene Daten,
+
+  * die von Ihnen bei Registrierung auf den Internet-Seiten oder fÃ¼r eines unserer Spiele angegeben werden;
+
+  * wenn diese von Ihnen im Rahmen einer Anfrage angegeben werden;
+
+  * soweit diese von Ihnen angegeben werden, zur Nutzung und Abrechnung kostenpflichtige Leistungen und Dienste;
+
+  * um auf Ihren Wunsch hin an Werbe- oder Umfrageaktionen teilzunehmen oder um Newsletter zu beziehen.
+
+Wir erheben ferner nutzungsbezogene Daten soweit diese zur Erbringung der
+Leistung oder deren Abrechnung notwendig sind. Dies sind insbesondere
+SpielverlÃ¤ufe, SpielstÃ¤nde sowie Informationen Ã¼ber den Bezug und die
+Abrechnung von Leistungen.
+
+Informationen zu Ihrem bisherigen Zahlungsverhalten beziehen wir fÃ¼r unsere
+deutschen Nutzer von der infoscore Consumer Data GmbH, Rheinstr. 99, 76532
+Baden-Baden.
+
+Sofern Sie schon lÃ¤ngere Zeit Nutzer des Bigpoint Portals, der Spiele oder
+Services sind, weisen wir daraufhin, dass wir auch Daten unserer
+VorgÃ¤ngergesellschaft, der Bigpoint S.Ã .r.l. &amp; Co, SCS, 10A rue Henri M.
+Schnadt, L-2530 Luxembourg, verwenden. Es handelt sich dabei um die
+Bestandsdaten, die wir benÃ¶tigen, um Ihnen die Spiele auch weiterhin ohne
+Unterbrechung anbieten kÃ¶nnen (dies betrifft insbesondere SpielverlÃ¤ufe,
+SpielstÃ¤nde sowie Informationen Ã¼ber den Bezug und die Abrechnung von
+Leistungen).
+
+Wir erheben im Rahmen der Nutzung unserer Internet-Seiten, Foren und Spiele
+folgende nichtpersonenbezogene Daten:
+
+  * IP-Adressen mit Zeitangaben
+
+  * Cookies, lokale Flash-Daten
+
+  * Statistische Informationen, z.B. Browser-Typ, Betriebssystem, URL von der aus Sie auf unsere Seite geleitet wurden, Datum, Zeit, genutzte Seiten, Dauer der Nutzung, HÃ¤ufigkeit der Nutzung
+
+Es findet aber keine personenbezogene Verwendung sondern lediglich eine
+statistische Auswertung anonymisierter DatensÃ¤tze statt.
+
+IP-Adressen und dazugehÃ¶rige Internetangaben speichern wir [Ã¼ber einen
+Zeitraum von maximal sechs Monaten] im Rahmen unserer gesetzlichen
+Aufbewahrungspflichten. Desweitern kann eine Speicherung aus GrÃ¼nden der
+Datensicherheit, um die StabilitÃ¤t und die Betriebssicherheit unseres Systems
+zu gewÃ¤hrleisten, erfolgen. Im Einzelfall verwenden wir auch Ihre IP-Adresse
+und dazugehÃ¶rige Internetangaben dazu, missbrÃ¤uchliche Mehrfachnutzungen von
+Accounts zu Betrugszwecken auszuschlieÃen. Wir werden die Einwilligung zu
+dieser Verwendung jeweils im Rahmen der Spielbedingungen der betroffenen
+Spiele einholen.
+
+Cookies-Einwilligung:
+
+Auch wenn dies anderwÃ¤rtig aus dieser DatenschutzerklÃ¤rung ersichtlich ist,
+weisen wir hiermit noch ein Mal ausdrÃ¼cklich darauf hin, dass wir, zwecks
+optimaler Nutzung unseres Portals sowie unserer Spiele und Services (im Sinne
+der âuser experienceâ), Cookies, erheben und verwenden. Mit Anerkennung
+unserer AGB, geben Sie ihre Einwilligung dazu. Sie kÃ¶nnen diese Einwilligung
+jederzeit per Email an die Adresse datenschutz@bigpoint.com fÃ¼r die Zukunft
+rÃ¼ckgÃ¤ngig machen. FÃ¼r alle weiteren Informationen und Fragen bezÃ¼glich
+Cookies, wenden Sie sich bitte an der gleichen Adresse an uns.
+
+Unser Online-Angebot nutzt das âSkalierbare Zentrale Messverfahrenâ
+(SZM/SZMnG) der INFOnline GmbH(https://www.infonline.de) fÃ¼r die Ermittlung
+statistischer Kennwerte zur Nutzung unserer Angebote. Dabei werden anonyme
+Messwerte erhoben. Die SZM- Reichweitenmessung verwendet zur Wiedererkennung
+von Computersystemen alternativ entweder einen Cookie mit der Kennung
+âioam.deâ,âivwbox.deâ, ein LocalStorage Object oder eine Signatur, die
+aus verschiedenen automatisch Ã¼bertragenen Informationen Ihres Browsers
+erstellt wird. IP-Adressen werden nur in anonymisierter Form verarbeitet. Die
+Reichweitenmessung wurde unter der Beachtung des Datenschutzes entwickelt.
+Ziel der Reichweitenmessung ist es, die NutzungsintensitÃ¤t und die Anzahl der
+Nutzer einer Website statistisch zu bestimmen. Zu keinem Zeitpunkt werden
+einzelne Nutzer identifiziert. Ihre IdentitÃ¤t bleibt immer geschÃ¼tzt. Sie
+erhalten Ã¼ber das System keine Werbung. FÃ¼r Web-Angebote, die Mitglied der
+Informationsgemeinschaft zur Feststellung der Verbreitung von WerbetrÃ¤gern
+e.V. (IVW â www.ivw.eu) sind oder an der Studie âinternet factsâ der
+Arbeitsgemeinschaft Online-Forschung e.V. (AGOF â www.agof.de) teilnehmen,
+werden die Nutzungsstatistiken monatlich von der AGOF und der
+Arbeitsgemeinschaft Media-Analyse e.V. (ag.ma - www.agma-mmc.de), sowie der
+IVW verÃ¶ffentlicht und kÃ¶nnen unter http://www.agof.de, http://www.agma-
+mmc.de und http://www.ivw.eu eingesehen werden. Neben der VerÃ¶ffentlichung
+von Messdaten Ã¼berprÃ¼ft die IVW das SZM-Verfahren regelmÃ¤Ãig im Hinblick
+auf eine regel- und datenschutzkonforme Nutzung. Weitere Informationen zum
+SZM-Verfahren finden Sie auf der Website der INFOnline GmbH
+(https://www.infonline.de), die das SZM-Verfahren betreibt, der
+Datenschutzwebsite der AGOF (http://www.agof.de/datenschutz) und der
+Datenschutzwebsite der IVW (http://www.ivw.eu). Sie kÃ¶nnen der
+Datenverarbeitung durch das SZM unter folgenden Link widersprechen:
+http://optout.ioam.de und http://optout.ivwbox.de.
+
+## Verwendung Ihrer Daten
+
+Ihre personenbezogenen Daten verwenden wir
+
+  * zur Leistungserbringung und zur Abrechnung unserer Dienste;
+
+  * in pseudonymisierter und/oder anonymisierter Form, um unser Angebot bedarfsgerecht zu gestalten und zu verbessern;
+
+  * zur ErfÃ¼llung gesetzlicher Verpflichtungen, insbesondere zur ErfÃ¼llung von Aufbewahrungspflichten.
+
+Ferner nutzen wir Ihre Daten, um mit Ihnen zu kommunizieren. Hierzu gehÃ¶ren
+insbesondere die Bereitstellung von Hilfe und Support sowie die Bereitstellung
+wichtiger Informationen Ã¼ber Ihren Vertrag. Vorbehaltlich Ihres
+EinverstÃ¤ndnisses informieren wir Sie laufend Ã¼ber Neuigkeiten, Events und
+Aktionen z.B. per E-Mail oder SMS oder Anruf.
+
+## Weitergabe von Daten
+
+Ihre Daten werden von uns streng vertraulich behandelt und nicht an Dritte
+weitergegeben, es sei denn, Sie haben Ihr ausdrÃ¼ckliches EinverstÃ¤ndnis zur
+Weitergabe Ihrer Daten an Dritte erteilt. Allerdings kÃ¶nnen wir auch ohne Ihr
+EinverstÃ¤ndnis im Einzelfall zur Weitergabe Ihrer Daten gesetzlich
+verpflichtet sein, etwa gegenÃ¼ber ErmittlungsbehÃ¶rden, wobei die Weitergabe
+nur in dem Rahmen erfolgt, wie es die gesetzliche Grundlage erfordert. Wir
+setzen die mit uns verbundenen Unternehmen der Bigpoint-Gruppe und/oder Dritte
+zur Erbringung von Dienstleistungen in unserem Auftrag ein. Dies betrifft
+insbesondere die Zahlungsabwicklung Ã¼ber externe Dienstleister (Paypal,
+Global Collect usw.) sowie im Verzugsfall Ã¼ber ein Inkassounternehmen.
+DarÃ¼ber hinaus stellen wir Ihre Daten den mit uns verbundenen Unternehmen der
+Bigpoint-Gruppe fÃ¼r Marketingzwecke sowie zur Weiterentwicklung und
+Verbesserung unserer Spiele zur VerfÃ¼gung. Die mit uns verbundenen
+Unternehmen der Bigpoint-Gruppe und externen Unternehmen sind zur
+vertraulichen und sicheren Behandlung Ihrer Daten verpflichtet und dÃ¼rfen
+Ihre Daten nur verwenden, soweit dies zur ErfÃ¼llung ihrer Aufgabe
+erforderlich ist.
+
+## Spieleinformationen und Partnerangebote
+
+Mit dem setzen des HÃ¤kchens bei âSpieleinformationen und Partnerangeboteâ
+geben Sie uns Ihre ausdrÃ¼ckliche Einwilligung zum Empfang dieser Nachrichten.
+Ihre Einwilligung wird protokolliert und kann jederzeit schriftlich Ã¼ber
+unser Kontaktformular (http://de.bigpoint.com/support/) widerrufen werden.
+
+## Google Analytics
+
+Diese Website benutzt den Webanalysedienst Google Analytics und Google
+Analytics-Berichte zur Auswertung von demografischen Merkmalen und Interessen.
+Dies sind Dienstleistungen der Google Inc. (âGoogleâ). Google Analytics
+verwendet sog. âCookiesâ, Textdateien, die auf Ihrem Computer gespeichert
+werden und die eine Analyse der Benutzung der Website durch Sie ermÃ¶glichen.
+Die durch den Cookie erzeugten Informationen Ã¼ber Ihre Benutzung dieser
+Website werden in der Regel an einen Server von Google in den USA Ã¼bertragen
+und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf
+dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von
+Mitgliedstaaten der EuropÃ¤ischen Union oder in anderen Vertragsstaaten des
+Abkommens Ã¼ber den EuropÃ¤ischen Wirtschaftsraum zuvor gekÃ¼rzt. Nur in
+AusnahmefÃ¤llen wird die volle IP-Adresse an einen Server von Google in den
+USA Ã¼bertragen und dort gekÃ¼rzt. Im Auftrag des Betreibers dieser Website
+wird Google diese Informationen benutzen, um Ihre Nutzung der Website
+auszuwerten, um Reports Ã¼ber die WebsiteaktivitÃ¤ten zusammenzustellen und um
+weitere mit der Websitenutzung und der Internetnutzung verbundene
+Dienstleistungen gegenÃ¼ber dem Websitebetreiber zu erbringen. Der Betreiber
+dieser Website wird Daten, die Ã¼ber interessenbezogene Werbung von Google
+sowie Besucherdaten von Drittanbietern (z.B. Alter, Geschlecht und Interessen)
+erlangt werden, auswerten, um mehr Ã¼ber die Nutzer dieser Website zu
+erfahren. Dabei findet keine personenbezogene Verwendung sondern lediglich
+eine statistische Auswertung anonymisierter DatensÃ¤tze statt. Die im Rahmen
+von Google Analytics von Ihrem Browser Ã¼bermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengefÃ¼hrt. Sie kÃ¶nnen die Speicherung der
+Cookies durch eine entsprechende Einstellung Ihrer Browser-Software
+verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall
+gegebenenfalls nicht sÃ¤mtliche Funktionen dieser Website vollumfÃ¤nglich
+werden nutzen kÃ¶nnen. Sie kÃ¶nnen darÃ¼ber hinaus die Erfassung der durch das
+Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer
+IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google
+verhindern, indem sie das unter dem folgenden Link verfÃ¼gbare Browser-Plugin
+herunterladen und installieren http://tools.google.com/dlpage/gaoptout. Wenn
+Sie die Auswertung Ihrer demografischen Merkmale und Interessen anpassen oder
+verhindern mÃ¶chten, kÃ¶nnen Sie Google Analytics fÃ¼r Display-Werbung
+deaktivieren und die Anzeigen im Google Display-Netzwerk anpassen:
+https://www.google.com/settings/ads.
+
+## Nutzungsbasierte Online-Werbung
+
+Die Werbung in diesem Online-Angebot wird durch die anonyme Erhebung und
+Verarbeitung Ihres Nutzungsverhaltens auf prognostizierte Interessen hin fÃ¼r
+Sie optimiert. ZustÃ¤ndig hierfÃ¼r ist die ProSiebenSat.1 Digital GmbH als
+Telemedienanbieter in Kooperation mit dem Online-Vermarkter SevenOne Media
+GmbH, einem Tochterunternehmen der ProSiebenSat.1-Group und mit der
+ProSiebenSat.1 Digital GmbH verbundenen Unternehmen iSd Â§Â§ 15 ff AktG. Dazu
+setzen Drittunternehmen in unserem Auftrag auf Ihren Rechner Cookies, die
+Nutzungsdaten erfassen. Hierbei handelt es sich um solche Daten, die erhoben
+werden kÃ¶nnen, wÃ¤hrend Sie sich z. B. auf den Seiten dieses Online-Angebots
+bewegen oder Werbung anklicken. Auf diese Weise kÃ¶nnen wir die Nutzung von
+Online-Werbung analysieren und Ihnen Werbeeinblendungen zur VerfÃ¼gung
+stellen, die fÃ¼r Sie interessant sein und Ihren Vorlieben entsprechen
+kÃ¶nnten (ânutzungsbasierte Online-Werbungâ). In keinem Fall werden dabei
+personenbezogene Daten (wie Name, Anschrift, E-Mail-Adresse) gespeichert. IP-
+Adressen werden anonymisiert, so dass ein Personenbezug ausgeschlossen ist.
+
+Wenn Sie keine nutzungsbasierte Online-Werbung mehr erhalten mÃ¶chten, kÃ¶nnen
+Sie Ã¼ber Ihre Browsereinstellungen das Setzen bzw. Speichern von Cookies
+verhindern. DarÃ¼ber hinaus kÃ¶nnen Sie dem Einsatz von Cookies der in unserem
+Auftrag handelnden Drittunternehmen Ã¼ber die nachstehenden Links
+widersprechen:
+
+Nugg.ad AG: http://ad-choices.nuggad.net
+
+AudienceScience: http://www.audiencescience.com/de/privacy
+
+Criteo GmbH: http://www.criteo.com/privacy
+
+Wir gestatten es auÃerdem sonstigen Dritten, beispielsweise Media-Agenturen,
+Cookies zu setzen, um die Nutzung von Online-Werbung zu analysieren und Ihnen
+anhand Ihrer Vorlieben spezielle, Sie interessierende Werbung auf unserem
+Online-Angebot zu prÃ¤sentieren. DarÃ¼ber hinaus soll den Media-Agenturen
+ermÃ¶glicht werden, die Zielgruppe ihrer Werbetreibenden mÃ¶glichst genau und
+ohne groÃe Streuverluste anzusprechen. Hierzu werden z.B. anonyme
+Nutzerstatistiken erstellt und die Daten zu Marktforschungszwecken verwendet.
+Ein RÃ¼ckschluss auf eine Person ist nicht mÃ¶glich. Weitere Informationen zum
+Datenschutz dieser Anbieter sowie zur WiderspruchsmÃ¶glichkeit gegenÃ¼ber dem
+Einsatz von Cookies zum Zwecke nutzungsbasierter Online-Werbung sind auf der
+Webseite der SevenOne Media GmbH unter
+https://www.sevenonemedia.de/web/sevenone/datenerhebung-anderer-dienstleister1
+abrufbar. Sie kÃ¶nnen die Platzierung von Cookies Dritter auch durch eine
+entsprechende Einstellung Ihres Browsers kontrollieren.
+
+Die SevenOne Media GmbH hat sich freiwillig der Selbstregulierung des
+Deutschen Datenschutzrat Online-Werbung (DDOW) unterworfen. Den fÃ¼r uns
+gÃ¼ltigen Selbstregulierungskodex (Kodex fÃ¼r Telemedienanbieter -
+Erstparteien) kÃ¶nnen Sie unter folgendem Link einsehen: www.meine-
+cookies.org/ddow.html.
+
+## Social Media Plugins
+
+Facebook
+
+Auf unserer Website sind Verweise (Links) auf das externe soziale Netzwerk
+Facebook enthalten. Dieser Internetauftritt wird ausschlieÃlich von der
+Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (Facebook)
+betrieben.
+
+Die Verweise sind im Rahmen unseres Internetauftritts durch das Facebook Logo
+oder den Zusatz âGefÃ¤llt mirâ kenntlich gemacht (es werden keine
+Facebook-Plugins genutzt).
+
+Wird diesen Verweisen durch einen Klick gefolgt, werden die Facebook-Plugins
+aktiviert und Ihr Browser stellt eine direkte Verbindung mit den Servern von
+Facebook her.
+
+Sofern Sie wÃ¤hrend des Besuchs unserer Website den Verweisen folgen und Ã¼ber
+Ihr persÃ¶nliches Benutzerkonto bei Facebook eingeloggt sind, wird die
+Information, dass Sie unsere Website besucht haben, an Facebook
+weitergeleitet. Den Besuch der Website kann Facebook ihrem Konto zuordnen.
+
+Diese Informationen werden an Facebook Ã¼bermittelt und dort gespeichert. Um
+dies zu verhindern mÃ¼ssen Sie sich vor dem Klick auf den Verweis aus Ihrem
+Facebook-Account ausloggen. Die den Verweisen von Facebook zugewiesenen
+Funktionen, insbesondere die Ãbermittlung von Informationen und Nutzerdaten,
+werden nicht bereits durch das Besuchen unserer Website aktiv, sondern erst
+durch den Klick auf die entsprechenden Verweise.
+
+Zweck und Umfang der Datenerhebung durch Facebook sowie die dortige weitere
+Verarbeitung und Nutzung Ihrer Daten wie auch Ihre diesbezÃ¼glichen Rechte und
+EinstellungsmÃ¶glichkeiten zum Schutz Ihrer PrivatsphÃ¤re entnehmen Sie bitte
+den Datenschutzhinweisen von Facebook (http://de-
+de.facebook.com/privacy/explanation.php).
+
+Bei weiteren Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer
+personenbezogenen Daten sowie bei AuskÃ¼nften, Berichtigung, Sperrung oder
+LÃ¶schung von Daten in diesem Bereich wenden Sie sich bitte an uns.
+
+Facebook Connect
+
+Wir bieten Ihnen die MÃ¶glichkeit, sich fÃ¼r unsere Dienstleistungen mit
+Facebook Connect anzumelden. Hierzu werden Sie auf die Seite von Facebook
+weitergeleitet, wo Sie sich mit ihren Facebook-Nutzerdaten anmelden. Das
+Facebook-Profil wird dann mit unseren Dienstleistungen verknÃ¼pft. Durch die
+VerknÃ¼pfung werden â je nach Ihren Facebook-Einstellungen â folgende
+Daten an uns Ã¼bermittelt, bzw. von uns abgerufen: Name, Geburtsdatum sowie
+E-Mail-Adresse.
+
+Wir nutzen diese Daten ausschlieÃlich zur Identifizierung und
+Vertragsabwicklung. Weitere Informationen zu Facebook Connect und den
+PrivatsphÃ¤re-Einstellungen entnehmen Sie bitten den Datenschutzhinweisen und
+Nutzungsbedingungen der Facebook Inc.
+
+Google Plus
+
+Unser Internetauftritt verwendet ebenfalls die â+1â³-SchaltflÃ¤che des
+sozialen Netzwerkes Google Plus, welches von der Google Inc., 1600
+Amphitheatre Parkway, Mountain View, CA 94043, United States betrieben wird
+(âGoogleâ). Der Button ist an dem Zeichen â+1â³ auf weiÃem oder
+farbigen Hintergrund erkennbar.
+
+Wenn Sie eine Webseite unseres Internetauftritts aufrufen, die eine solche
+SchaltflÃ¤che enthÃ¤lt, baut Ihr Browser eine direkte Verbindung mit den
+Servern von Google auf. Der Inhalt der â+1â³-SchaltflÃ¤che wird von Google
+direkt an Ihren Browser Ã¼bermittelt und von diesem in die Webseite
+eingebunden. Wir haben daher keinen Einfluss auf den Umfang der Daten, die
+Google mit der SchaltflÃ¤che erhebt, gehen jedoch davon aus, dass Ihre IP-
+Adresse mit erfasst wird.
+
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Google sowie Ihre diesbezÃ¼glichen Rechte und
+EinstellungsmÃ¶glichkeiten zum Schutz Ihrer PrivatsphÃ¤re entnehmen Sie bitte
+Googles Datenschutzhinweisen zu der â+1â³-SchaltflÃ¤che:
+http://www.google.com/intl/de/+/policy/+1button.html
+
+Wenn Sie Google Plus-Mitglied sind und nicht mÃ¶chten, dass Google Ã¼ber
+unseren Internetauftritt Daten Ã¼ber Sie sammelt und mit Ihren bei Google
+gespeicherten Mitgliedsdaten verknÃ¼pft, mÃ¼ssen Sie sich vor Ihrem Besuch
+unseres Internetauftritts bei Google Plus ausloggen.
+
+## IT Security
+
+Zur Vermeidung von Missbrauch unser Dienstleistungen erheben und verarbeiten
+wir mit Hilfe eines IT Security Dienstleisters durch sog. Cookies und
+Tracking-Technologien in anonymer Form spezifische Daten zur Ausstattung des
+vom Nutzer verwendeten EndgerÃ¤tes (âgerÃ¤tespezifische Datenâ), Rohdaten
+aus der TCP/IP-Verbindung und Daten Ã¼ber die Nutzung unserer Webseite.
+
+Dabei wird zunÃ¤chst auch die IP-Adresse erhoben und verarbeitet, aber
+innerhalb weniger Sekunden chiffriert. Es werden keine personenbezogenen Daten
+erhoben oder gespeichert. Die Informationen werden beim IT Security
+Dienstleister in einer Datenbank zur Betrugsvorsorge hinterlegt.
+
+Wenn Sie auf unserer Webseite einen entgeltlichen Vertrag schlieÃen oder sich
+ein entgeltlicher Vertragsschluss anbahnt (z.B. durch Beginn des Checkout-
+Prozesses) rufen wir aus der Datenbank des IT Security Dienstleisters eine
+Risikobewertung ab, die dort fÃ¼r das von Ihnen verwendete EndgerÃ¤t
+hinterlegt wurde.
+
+Die Risikobewertung dient â jedoch nicht ausschlieÃlich â als Grundlage
+fÃ¼r die Entscheidung darÃ¼ber, ob ein entgeltlicher Vertrag zustande kommt.
+
+Soweit uns bekannt wird, dass ein Nutzer unsere Dienstleistungen missbraucht
+oder versucht hat, zu missbrauchen, Ã¼bermitteln wir zudem erhobene Daten an
+den IT Security Dienstleister. Dabei werden wiederum lediglich
+gerÃ¤tespezifische und keine personenbezogenen Daten Ã¼bermittelt.
+
+## Recht auf Widerruf, LÃ¶schung von Daten
+
+Wenn Sie uns Einwilligungen zur Verarbeitung personenbezogener Daten erteilt
+haben, kÃ¶nnen Sie diese jederzeit widerrufen.
+
+Wir lÃ¶schen Ihre personenbezogenen Daten, soweit diese nicht mehr
+erforderlich sind oder Sie eine LÃ¶schung verlangt haben. Bitte beachten Sie,
+dass Daten dann nicht gelÃ¶scht werden kÃ¶nnen, wenn Aufbewahrungspflichten
+bestehen oder diese von uns zur Abrechnung von Leistungen noch benÃ¶tigt
+werden.
+
+## Information, Einsicht und LÃ¶schung von Daten
+
+Unter http://de.bigpoint.com/support/ kÃ¶nnen Sie Ihre bei uns gespeicherten
+Daten abfragen, Ã¤ndern oder lÃ¶schen lassen. Alternativ kÃ¶nnen Sie dies auch
+unter unserer Postadresse:
+
+Bigpoint GmbH  
+Drehbahn 47-48  
+20354 Hamburg
+
+FÃ¼r allgemeine Fragen zu dieser DatenschutzerklÃ¤rung und zum Datenschutz bei
+Bigpoint stehen wir Ihnen gern unter datenschutz@bigpoint.com zur VerfÃ¼gung.  
+Bitte geben Sie mÃ¶glichst UserID, E-Mail-Adresse und ggf. gespieltes Spiel
+an.
+
+Hamburg, den 01.11.2016
+
+Bigpoint GmbH  
+Drehbahn 47-48  
+20354 Hamburg
+
+Handelsregisternummer: HRB-Hamburg 94148
+
+USt.-ID Nr.: DE813 602 704
+
+GeschÃ¤ftsfÃ¼hrer: Brian Morrisroe
+

@@ -1,0 +1,122 @@
+Mozilla
+
+Menü
+
+  * Zustand des Internets
+  * Web-Innovationen
+  * Spenden
+
+##
+
+Startseite &gt; Datenschutz bei Mozilla &gt;
+
+# Datenschutz-Hinweis zu Websites, Mitteilungen und Cookies
+
+23.01.2017
+
+Den Schutz Ihrer Daten nehmen wir sehr ernst. Wenn Mozilla (also wir)
+Informationen über Sie erfasst, gilt unsere Mozilla-Datenschutzerklärung.
+Darin ist beschrieben, wie wir mit diesen Informationen umgehen.
+
+Dieser Datenschutzhinweis gilt für von Mozilla betriebene Websites und mobile
+Apps, darunter die Domains mozillians.org, mozilla.org, firefox.com und
+webmaker.org. Dies umfasst beispielsweise bugzilla.mozilla.org,
+reps.mozilla.org, careers.mozilla.org, developers.mozilla.org,
+support.mozilla.org, addons.mozilla.org und wiki.mozilla.org.
+
+## Folgendes sollten Sie wissen
+
+Wenn Sie mit uns auf Social-Media-Plattformen interagieren, sich bei uns um
+einen Arbeitsplatz, ein Praktikum oder ein Stipendium bewerben, unentgeltlich
+als Mitglied der Mozilla-Community tätig sind, uns Benutzer-Feedback oder
+Anfragen senden oder mit uns bezüglich einer Produkt- oder politischen
+Kampagne kommunizieren, erhalten wir persönliche Daten von Ihnen.
+
+  * Social Media: Wenn Sie mit unseren Social-Media-Konten wie Twitter und Facebook kommunizieren, erhalten wir evtl. persönliche Informationen über Sie. Wenn Sie diese Netzwerke verwenden, gelten deren Datenschutzrichtlinien. Diese sollten Sie lesen. 
+
+  * Stellen-, Praktikums- und Stipendienbewerber: Bewerber für Arbeitsstellen, Praktika oder Stipendien bei Mozilla müssen ihren Namen, ihre Postanschrift, Telefonnummer, E-Mail-Adresse und ihren Lebenslauf bei uns einreichen. Wir nutzen diese Informationen zur Bearbeitung und Beurteilung von Bewerbungen und für die Kommunikation mit Bewerbern in Bezug auf ihre Bewerbung. Mit der Bearbeitung von Bewerbungen haben wir einen externen Dienstleister beauftragt. Weitere Informationen über unsere Datenpraktiken in Bezug auf Drittanbieter finden Sie in unserer Mozilla-Datenschutzerklärung.
+
+  * Community-Beiträge: Wenn Sie Mozilla freiwillig mit Community-Beiträgen unterstützen, kann es notwendig werden, dass Mozilla oder andere sich mit Ihnen unter der angegebenen E-Mail-Adresse in Verbindung setzen, um Einzelheiten zu besprechen oder Ihre Bemühungen anzuerkennen. Wenn Sie Beiträge zu Bugzilla, Mozilla Reps oder unserer Code-Datenbank leisten, sind Ihre E-Mail-Adresse und möglicherweise Ihr Name für alle Internetbenutzer öffentlich sichtbar. Wenn Sie auf Mozillians.org ein Profil erstellen, ist dieses für Mozilla-Mitarbeiter und Benutzer, die Beiträge zu Mozilla leisten, zugänglich. Sie können Ihre Profildaten unter Profileinstellungen bearbeiten. Wir nutzen gelegentlich Informationen über Beitragende von Quellen wie Bugzilla in Dashboards, um visuell aufbereitete Daten über die Mozilla-Community zu veröffentlichen. Ein Beispiel ist https://wiki.mozilla.org/Contribute/Dashboards. Wenn möglich, versuchen wir, die öffentlich angezeigten Kontaktinformationen zu minimieren.
+
+  * Benutzer-Feedback: Auf Webseiten wie input.mozilla.org, über eine produktinterne Funktion oder Kanäle wie E-Mail, Bugzilla, IRC, ein Social-Media-Konto, eine „Machen Sie mit“-Seite oder eine Gruppe wie Student Ambassadors können Sie uns Feedback zu unseren Produkten und Services geben. Bitte halten Sie die persönlichen Informationen, die Sie auf diesen Foren preisgeben, so knapp wie möglich, weil Ihre Anmerkungen evtl. öffentlich zugänglich sind.
+
+  * Konten: Manche Websites wie Marketplace, AMO, MDN und Webmaker erfordern, dass ein Konto erstellt wird, um Entwicklerinhalte, Benutzerrezensionen oder Kommentare einreichen oder bestimmte Arten von Anwendungen installieren zu können. Sie erhalten evtl. von Zeit zu Zeit E-Mails in Verbindung mit Ihrem Konto.
+
+  * Produkt- und politische Kampagnen: Einige unserer Webseiten enthalten Produkt- oder politische Kampagnen. Zum Beispiel können Sie per E-Mail oder SMS einen Link zur Installation von Firefox auf Ihrem Mobilgerät anfordern oder eine Petition zur Internetpolitik unterzeichnen. Diese Kampagnen wickeln wir über Drittanbieter ab, die die Daten verarbeiten, die Sie einsenden.
+
+* * *
+
+Wir verwenden Cookies, Clear-GIFs, Web-Analysefunktionen Dritter und IP-
+Adressen aus Gründen der Funktionalität und zur Verbesserung unserer Produkte,
+Services und Mitteilungen.
+
+  * Funktionalität: Wir verwenden evtl. Cookies, Geräteinformationen und IP-Adressen, um die Funktionalität bestimmter Produkte, Dienste und Mitteilungen („Kommunikation“) zu erweitern. Beispiele:
+
+    * Cookies dienen dazu, Ihre Firefox-Spracheinstellung und Firefox-Add-ons zu speichern. Außerdem helfen sie bei der Benutzeranmeldung und -authentifizierung, sodass Sie Ihre Passwörter auf bestimmten Mozilla-Websites nicht immer wieder erneut eingeben müssen. 
+    * IP-Adressen dienen dazu, Kommunikation nach Land und Sprache spezifisch anzupassen. 
+    * Geräteinformationen wie Land, Sprache, Betreiber und OEM können verwendet werden, um Ihre Erfahrung auf Firefox Marketplace und Webmaker spezifisch anzupassen.
+  * Metriken: Wir verwenden Zählpixel (Clear-GIFs), Cookies und Dienste von Drittanbietern, um aggregiert in Erfahrung zu bringen, wie Benutzer mit unseren Produkten, Services, Mitteilungen, Websites, Online-Kampagnen, Snippets, Geräten und anderen Plattformen interagieren. Wir verwenden:
+
+    * Google Analytics, das auf Ihrem Gerät ein Cookie platziert, um Metriken darüber zu erhalten, wie Benutzer mit unseren Websites interagieren. Dadurch können wir die Website-Inhalte verbessern. 
+    * Optimizely und ShareProgress, die auf Ihrem Gerät ein Cookie platzieren, damit wir verschiedene Webinhalte testen können. Dadurch können wir Benutzern eine bessere Weberfahrung bieten.
+    * DoubleClick, das ein Clear-GIF auf unserer Download-Firefox-Seite verwendet. Damit können wir die Effektivität unserer Werbekampagnen messen.
+
+* * *
+
+Sie können individuelle Cookie-Einstellungen festlegen, Ihre Cookie-
+Einstellungen anderen mitteilen, Nur-Text-E-Mails auswählen und sich von Web-
+Analyse- und Optimierungs-Werkzeugen abmelden.
+
+  * Cookie-Chronik: Sie können einzelne Cookies in Ihren Firefox-Einstellungen im Bereich „Einstellungen/Datenschutz/Chronik“ akzeptieren oder ablehnen. Bitte beachten Sie, dass einige Funktionen unserer Produkte und Dienste ohne Cookies möglicherweise nicht richtig funktionieren.
+
+  * Keine Verfolgung von Aktivitäten: Mozilla verfolgt Benutzer nicht über Websites Dritter hinweg, um speziell auf sie abzielende Werbung anzuzeigen. Sie können die Option „Websites mitteilen, meine Aktivitäten nicht zu verfolgen“ in Firefox im Bereich „Einstellungen/Datenschutz“ unter „Verfolgung von Nutzeraktivitäten“ aktivieren. So teilen Sie Websites Dritter mit, wie Ihre Informationen online erfasst und verwendet werden sollen. 
+
+  * E-Mail: Unsere Marketingmitteilungen können Sie über die Fußzeile der E-Mail oder durch Aktualisieren Ihrer Mozilla-E-Mail-Einstellungen abbestellen. Sie können Clear-GIFs deaktivieren, indem Sie E-Mails im Format „Nur Text“ anzeigen. 
+
+  * Analyse und Optimierung: Folgen Sie den nachstehenden Anweisungen, um zu verhindern, dass Daten zu Ihren Besuchen auf Mozilla-Websites erfasst werden:
+
+  * Google: Installieren Sie das Google Analytics Opt-out-Browser-Add-on, mit dem Ihre Besuche anonym bleiben und das eine Datenübertragung an Google Analytics unterbindet. Manche Mozilla.org-Seiten verwenden Clear-GIFs, die mit DoubleClick kommunizieren, um Informationen über die Effektivität Ihrer Werbekampagnen einzuholen. Sie können personalisierte Anzeigen von DoubleClick in den Anzeigeeinstellungen von Google steuern (Sie werden aufgefordert, sich bei Ihrem Google-Konto anzumelden).
+  * Optimizely: Melden Sie sich per Opt-out auf www.mozilla.org ab oder besuchen Sie die Opt-out-Website von Optimizely, um weitere Informationen zu erhalten. 
+  * ShareProgress: Sie können in Ihrem Browser Do Not Track aktivieren.
+
+  * Social Media: Die Schaltflächen auf Mozilla-Websites zur Freigabe für Social Media sind so angelegt, dass Daten erst für Social-Media-Anbieter freigegeben werden, wenn Sie auf die Schaltfläche klicken.
+
+* * *
+
+In manchen Mozilla-Websites können Sie etwas kaufen (Apps oder Ausrüstung)
+oder Geld spenden. Diese Transaktionen werden von Dritten verarbeitet, nicht
+von Mozilla.
+
+  * Zahlungsverarbeitung: Mozilla erhält keine Finanzdaten, die von Ihnen an unseren Drittanbieter zur Verarbeitung übertragen werden. Der Name des Dritten wird zum Zeitpunkt der Transaktion angezeigt. Weitere Informationen über unsere Datenpraktiken in Bezug auf Drittanbieter finden Sie in unserer Mozilla-Datenschutzerklärung. 
+
+## Zurück zur Mozilla-Datenschutzerklärung
+
+Mozilla
+
+Teile dieses Inhalts stehen unter einem ©1998–2017 von einzelnen Mitwirkenden
+an mozilla.org. Der Inhalt steht unter einer Creative-Commons-Lizenz.
+
+  * Über uns
+  * Kontakt
+  * Spenden
+  * Zu dieser Website beitragen
+
+  * Datenschutz
+  * Cookies
+  * Rechtliches
+  * Markenrechtsverletzung melden
+
+  * Mozilla: 
+    * Twitter (@mozilla)
+    * Facebook (Mozilla)
+    * Instagram (@mozillagram)
+  * Firefox: 
+    * Twitter (@firefox)
+    * Facebook (Firefox)
+    * YouTube (firefoxchannel)
+
+Andere Sprachen:  عربي বাংলা (বাংলাদেশ) বাংলা (ভারত) Čeština Deutsch Ελληνικά
+English Español (de España) Français हिन्दी Hrvatski magyar Bahasa Indonesia
+Italiano 日本語 Македонски Polski Português (do Brasil) Română Русский Српски
+Kiswahili தமிழ் Go
+

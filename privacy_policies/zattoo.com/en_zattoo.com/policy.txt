@@ -1,0 +1,817 @@
+  *   * 
+
+  * Company
+    * Management Team
+    * Board of Directors
+  * Company
+  * Jobs
+  * Press
+  * Ads
+  * B2B
+
+  * English 
+    * Deutsch
+    * English
+    * FranÃ§ais
+    *     * Deutsch
+    * English
+    * FranÃ§ais
+
+English
+
+  * Deutsch
+  * English
+  * FranÃ§ais
+
+  * ##### Germany
+
+  * ##### Switzerland
+
+## Zattoo Data Protection Agreement
+
+###### Status May 2016
+
+Zattoo defines the present services of Zattoo Europa AG.  
+Zattoo Europa AG and Zattoo International AG are taking the protection of your
+personal data very seriously. This privacy act declaration governs the
+storage, processing and disclosure of personal user data by Zattoo in
+accordance with the European and Swiss Privacy Act. It is valid part in
+addition and within the scope of Zattooâs General Business Terms and
+Conditions
+
+  1. PRIVACY ACT OBJECTIVE AND RESPONSIBLE OFFICE
+
+This privacy act declaration applies to all services provided by Zattoo.
+Services may include internet websites, as well as (mobile) applications
+(apps), particularly apps for mobile end devices, smart-TVs and set-top-boxes
+or streaming-boxes and other applications (software). Unless otherwise
+indicated, it governs how Zattoo handles your personal data exclusively. The
+office responsible for data processing is Zattoo Europa AG. If you use third
+party services, the privacy act provisions of these third parties used shall
+apply exclusively.
+
+  2. DATA COLLECTION
+
+During registration, as well as use, certain personal user data is collected
+and processed. This includes or may include: e-mail address, name, mailing
+address, payment information, date of birth, gender, language (as a whole,
+referred to as âpersonal data), income, education, household, occupation,
+consumer behavior, hobbies, preferred activities and use of services (all of
+the above information is referred to hereafter as ârelevant personal
+dataâ).  
+Within the scope of utilization, additional data such as IP addresses, browser
+type and access times from your computer, are transferred to us automatically
+and stored on our servers (hereafter referred to as âuser dataâ)  
+With the user identification, Zattoo can collect data regarding the userâs
+utilization of the services through the user ID or placement of cookies, such
+as IP address, TV channels and broadcasted advertisements. Cookies are small
+data files, which are stored on the userâs PC and managed by the userâs
+browser. Cookies enable faster navigation on websites for example, and
+personalized access. The user can delete and/or prevent the use of cookies on
+the browser at any time. The user acknowledges and accepts that deleting
+cookies may limit the performance and quality of the services.
+
+  3. TRANSFER TO AFFILIATED COMPANIES OR THIRD PARTIES
+
+By registering for, or using the services, the user acknowledges and agrees
+that his personal data and user data is transferred or made accessible to the
+following companies for the below listed purposes:
+
+Zattoo Europa AG, MuÌrtschenstrasse 39, 8048 Zurich, Switzerland  
+Zattoo International AG, MuÌrtschenstrasse 39, 8048 Zurich,  
+Switzerland Zattoo Deutschland GmbH, Sonnenallee 223a, 12059 Berlin, Germany
+
+In addition, the user agrees that Zattoo may transfer the personal data
+received from the user to third parties as follows: to payment providers (e.g.
+credit card companies, banks, PayPal, mobile service providers, collection
+agencies), service providers for creating and preparing statistics, IT service
+providers (e.g. data centers, host providers, backup services, database
+services). The aforementioned service providers can only access your personal
+data to the extent necessary for providing their services.  
+These companies, as well as service providers are obligated to handle the data
+pursuant to this privacy act declaration and the applicable Privacy Protection
+Act.
+
+  4. TRANSFER TO FOREIGN COUNTRIES
+
+The user acknowledges and agrees that relevant personal data is collected and
+processed in Switzerland, even if the user resides in a different country or
+utilizes service from a different country.  
+The user acknowledges and agrees that Zattoo may transfer and export this data
+to other countries, including the USA, even if the respective countryâs
+privacy act standards deviate from the Swiss standards or the standards of the
+userâs country of residence. In this case Zattoo shall secure adequate data
+protection.
+
+  5. USE OF DATA 
+
+a. UTILIZATION OF SERVICES
+
+Zattoo utilizes relevant personal data for the purpose and the implementation
+of using Zattoo and for payment processing. If the user accesses the services,
+Zattoo determines the IP address to define the country in which the user
+resides in order to designate the available channels.  
+Zattoo may collect and process data relevant to the userâs utilization of
+services, e.g. IP address, TV channels and advertisements viewed, time and
+duration of a session, connectivity information and error messages etc.  
+Zattoo may also use the data for service utilization and preparing anonymous
+statistics of user behavior, and forward these statistics to third parties.
+
+b. BILLING AND STATEMENT FOR COPYRIGHT FEES  
+If the user subscribes to services subject to charges, Zattoo will collect and
+process the payment information. Zattoo is entitled to contract third parties
+payment processing purposes.  
+Zattoo utilizes the data concerning the use of services for creating regular
+reports for the legal owners (e.g. broadcasting facilities, communication
+companies) regarding the viewer numbers of their contents and for calculating
+the applicable copyright fees. The reporting includes the aggregated numbers
+without disclosing the userâs personal data.
+
+c. NEWS AND ADEVERTISEMENTS  
+Zattoo collects and processes address and order data for newsletters and
+advertising purposes. The user may revoke his consent for the use of his
+personal data to receive newsletters and/or advertisements at any time. To
+revoke the consent, the user can click on âunsubscribeâ at the end of the
+newsletter and/or advertisement or revoke the consent in his personal user
+account.  
+The user agrees that Zattoo may send important messages regarding services to
+the user despite the revocation of consent.
+
+  6. ADVERTISEMENT, PERSONALIZED ADVERTISEMENT
+
+Advertisements may be displayed/âpop upâ when utilizing the services or
+visiting the website. Zattoo also displays personalized third party
+advertisements if the contents are based on the information provided by the
+user; such as the use of Zattoo services or the data disclosed by the user
+during registration. The advertisement may be provided by contracted third
+parties. You may update the data in your user account if you do not wish your
+data to be used for advertisement purposes, this will not affect your ability
+to use the services provided by Zattoo.
+
+  7. CO-REGISTRATION
+
+In part, Zattoo provides an option to its users to register with Zattoo
+partners during the registration process as well. If a user selects a co-
+registration, Zattoo will forward the data  
+provided for the co-registration to its partner, which will then become the
+owner of this data. Zattoo shall explicitly advise the user of the data
+transfer.
+
+  8. SOCIAL NETWORK
+
+a. RECOMMEDATION-BUTTONS
+
+Zattoo provides recommendation buttons for the following social networks on
+its website:
+
+Facebook-Like-Button  
+Google+-Button  
+Twitter-Recommendation-Button
+
+These buttons enable the user to recommend selected Zattoo contents regarding
+the respective social network to other internet users, add his personal
+profile in the social network, or bring attention to Zattoo contents.  
+The recommendation buttons are provided by the social network operators for
+the purpose of integrating other websites. By integrating the plugins on
+Zattoo, the operators of the respective social networks may receive the
+information that the user has accessed the respective Zattoo website. If the
+user is logged in on a social network while visiting Zattoo, the network
+operator may assign a user account to this visit. If such an assignment is not
+desired, we recommend you log off the social network prior to accessing the
+Zattoo website. If the user utilizes the buttons or comments, the respective
+information is transferred to, and stored on the corresponding social network.
+
+Purpose and extent of data collection, subsequent processing and use of data
+by social networks, as well as the corresponding rights and setting options to
+protect your privacy are available in the social network operatorâs privacy
+act information:
+
+Facebook Ireland Ltd. and/or Facebook Inc.: http://de-
+de.facebook.com/policy.php  
+Google Inc.: http://www.google.de/intl/de/privacy/plusone/  
+Twitter Inc.: http://twitter.com/privacy
+
+b. LOGIN BY THIRD PARTY PROVIDERS
+
+Zattoo provides an option to log on with your registered Zattoo account or
+with third party accounts you may have registered.  
+This simplifies and speeds up the log on process and also provides you with an
+option to link Zattoo with the third party account and possible other
+functions to the extent of the third partyâs functional scope.  
+Please note that your account settings with third party providers, as well as
+their privacy act provisions, the scope of data collection, as well as the
+data third party providers may transfer to us, could deviate.  
+We collect, process and use the data transferred to us exclusively in
+accordance with this privacy act declaration.  
+However, Zattoo can only influence which data the third party provider
+transfers to Zattoo to a limited extent. This is subject to the servitude
+conditions and privacy act provisions of the applicable third party provider.
+
+You may access this information as follows:
+
+Facebook: http://de-de.facebook.com/policy.php  
+Google: http://www.google.com/policies/privacy/  
+Amazon:
+http://www.amazon.de/gp/help/customer/display.html?ie=UTF8&amp;nodeId=33124019
+
+c. FACEBOOK CUSTOM AUDIENCES  
+We are using the communication tools provided by Facebook, especially the
+product Custom Audiences. In this process, a Hash Value is generated from your
+usage data. This is not linked to an actual person and non retraceable. This
+value can be passed to Facebook for analytical or marketing purposes. You can
+find further information on the processes of the usage data and the relevant
+account settings here; https://www.facebook.com/ads/website_custom_audiences/
+and https://www.facebook.com/privacy/explanation  
+If you want to object to the use of Custom Audiences you can do so here;
+https://www.facebook.com/ads/website_custom_audiences/
+
+  9. ANALYSIS TOOLS
+
+a. GOOGLE ANALYTICS
+
+Our services use Google Analytics in connection with Google Remarketing. These
+are programs used for web analysis and target oriented advertising management
+offered by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043,
+USA (âGoogleâ). Google uses so called âcookiesâ; text files, which are
+stored on the usersâ computers or mobile end devices and which enable an
+analysis for the utilization of our services. The information generated by the
+cookie regarding the use of our services are generally transferred to, and
+stored on a Google server in the USA. Within the scope of our services
+however, we have taken measures to activate IP anonymisation. With this
+process, the IP addresses of our users have been abbreviated in the European
+Union member states or other contract states within the Agreement on the
+European Economic Area by Google. Only in exceptional cases the entire IP
+address is transferred to a Google server and abbreviated there. Google will
+use the information transferred on our behalf to analyze the use of our
+services by users, to create reports regarding the use activity and to provide
+other services corresponding to the use of our services.
+
+These additional services include Google Remarketing. Google Remarketing
+serves the purpose of us, or third party providers, including Google to
+activate advertisements on internet websites. When activating advertisements,
+Google Remarketing enables us to address internet users who have previously
+used our services. Cookies are utilized for this purpose.  
+The IP addresses transferred within the scope of Google Analytics are not
+combined with other Google data.  
+You can prevent the storage of cookies with by using the respective setting in
+your internet browser, however, we advise you that in this case you may not be
+able to use all functions our services provide to the full extent.  
+You can also prevent the collection of data generated by cookies regarding
+your use of our services (incl. your IP address) for Google, as well as the
+data being processed by Google. If you are utilizing our services on a
+computer on your browser, download the available:
+https://tools.google.com/dlpage/gaoptout?hl=de  
+If you are using our services on a mobile end device, you can deactivate the
+above mentioned data collection process in your settings/privacy act menu for
+the Zattoo app.
+
+b. GOOGLE CUSTOMER MATCH
+
+We use Google Customer Match for the distribution of adverts. In this process,
+a Hash Value is generated from your usage data. This is not linked to an
+actual person and non retraceable. This value can be passed to Google for
+analytical or marketing purposes. The data is used to create target groups in
+order to distribute advertising material and then is deleted by Google. The
+Customer Match occurs exclusively for our own analytical and advertising
+measures. You can deactivate the distribution of personal adverts here;
+https://www.google.com/settings/u/0/ads/authenticated?hl=de%20abstellen.
+
+c. USE OF THE CALETABLE CENTRALIZED MEASURING PROCESS (DOMAIN/COOKIE
+âIOAM.DEâ &amp; âIVWBOX.DEâ)
+
+Our services use the âScalable Centralized Measuring Processâ (SZM) by
+INFOnline GmbH (http://www.infonline.de) for determining the statistical
+parameters in using our selections. The collected measurement values are
+anonymous. To recognize previous computer systems, the SZM-measurement range
+alternatively uses cookies with the characteristics âioam.deâ,
+âivwbox.deâ, a Local Storage object, or a signature created from various
+automatically information transferred from your browser. The measurement range
+was created in compliance with the privacy act.  
+The goal of the measurement range is to determine the servitude intensity and
+the number of website users in a statistical manner. Individual users are not
+identified at any time. Your identity always remains protected. You will not
+receive any advertisements through this system. For web providers that are
+members of the Informationsgemeinschaft zur Feststellung der Verbreitung von
+WerbetraÌgern e.V. (Information Group for Determination
+
+of Web Carriers) (IVW â http://www.ivw.eu), or participate in the study
+âinternet facts, of the Arbeitsgemeinschaft Online-Forschung e.V. (Work
+Affiliation Online Research) (AGOF â www.agof.de), the servitude statistics
+are published monthly by AGOF and the Arbeitsgemeinschaft Media-Analyse e.V.
+(Work Affiliation Media Analysis)(ag.ma- www.agma-mmc.de), as well as IVW and
+may be accessed at http://www.agof.de, http://www.agma-mmc.de and
+http://www.ivw.eu.  
+In addition to the publication of measurement data, the IVW reviews the SZM
+process with regard to regulation and privacy conformity servitude on regular
+basis.  
+Additional information about the SZM process is available on the INFOnline
+GmbH website (https://www.infonline.de), which operates the SZM process, the
+privacy act website of AGOF (http://www.agof.de/datenschutz) and the privacy
+act website of IVW (http://www.ivw.eu).  
+You may dispute data processing by SZM on the following link:  
+http://optout.ioam.de and http://optout.ivwbox.de. If you are using our
+services on a mobile end device, you can deactivate data processing by SZM in
+you settings/privacy act menu for the Zattoo app.
+
+d. USE OF OPTIMIZELY
+
+Our services use Optimizely, a web analysis service offered by Optimizely,
+Inc. ("Optimizely"), 631 Howard Street, Suite 100, San Francisco, CA 94105.  
+Optimizely uses so called âcookiesâ, text files, which are stored on the
+usersâ computers or mobile end devices and enable the analysis of the
+utilization of our services.  
+The process determines the browser used, user behavior and user pattern of our
+services by the user. Individual users are not identified at any time. The
+information generated by the cookie regarding your use of our services are
+generally transferred to, and stored on an Optimizely server in the USA.  
+In the event IP anonymisation is activated on our service portal, your IP
+address is abbreviated in the European Union member states of or other
+contract states participating in the Agreement on the European Economic Area
+by Optimizely. Only in exceptional cases the entire IP address is transferred
+to an Optimizely server and abbreviated there. Optimizely will use the
+information transferred on behalf of the operator to analyze your use of the
+website and to create reports regarding website activity.  
+Optimizely also collaborates with partners who use cookies, which monitor
+their services and offers, as well as the number of visitors, for example. The
+partner âcookiesâ are also used to diagnose and resolve technical problems
+and further, to send you specific advertisements.  
+To our knowledge, the IP addresses transferred from your browser within the
+scope of Optimizely activities are not combined with other Optimizely data.
+You can prevent the
+
+storage of cookies by using the respective setting in your internet browser
+software, or in the settings/privacy act menu of your Zattoo app; however, we
+advise you that in this case you may not be able to use all functions our
+services provide to the full extent.  
+In addition, you can also deactivate the Optimizely-tracking process (and
+prevent the collection of data generated by cookies regarding your use of our
+services incl. your IP address by Optimizely, as well as the data being
+processed by Optimizely by following the instructions provided on:
+http://www.optimizely.com/opt_out  
+However, Zattoo can only influence the data transferred by Optimizely to
+Zattoo to a limited extent. This transfer is subject to the servitude
+conditions and privacy act provisions of Optimizely.  
+The servitude conditions are available at: https://www.optimizely.de/privacy
+
+e. ADJUST  
+We use the analysis technology âadjustâ by adjust GmbH (âadjustâ).
+adjust employs the userâs IDFA and AAID for the analysis, which are used
+strictly anonymously. It is not possible to identify an individual person with
+this process. The data is used for Zattooâs market research purposes, as
+well as for optimizing its advertising strategies. In reference to the
+advertising measures at Zattoo, the data is made available to retargeting
+services in order to target specific (Zattoo-) adverts to users with a certain
+IDFA ie. the AAID.  
+The retargeting service provider currently in use is Remerge GmbH,
+Oranienburger Str. 27, 10117 Berlin. If any retargeting providers are added in
+future, then these will be updated. With the use of the app you agree to the
+processing of the retrieved anonymous data in the above-mentioned way, for the
+above-mentioned purpose. The retrieval and saving of the data can be
+deactivated for the future in the settings of the app anytime. By using the
+apps, you agree to the anonymously collected data being handled in the manner
+defined and for the previously named purpose.  
+Data collection and storage may be deactivated in the appâs settings at any
+time to future effect.
+
+f. USAGE ANALYSES SUPPORTED BY APPBOY
+
+Zattoo utilizes the web analysis service AppBoy, a program by AppBoy, Inc.,
+265 W. 37th Street, Suite 1212, New York, NY 10018, USA, for analyzing the
+appâs usage. AppBoy uses a pseudonymized identifier (ID) which enables
+analysis of the usage of our services. It identifies the version of the
+operating system you are using, information about your network provider, a
+country code, usage behavior, and the usage pattern of our services. The data
+identified by AppBoy will never be linked with details about the bearer of the
+pseudonym.
+
+The information on your use of our services generated on the basis of the
+pseudonymous identifier is generally transferred to and stored on an AppBoy
+server in the USA. If activated by Zattoo, this information may be used for
+conveying select information (known as push notifications) regarding Zattoo
+services or specific advertising.  
+More detailed information regarding AppBoy compliance with the Privacy Act is
+available here: www.appboy.com/privacy.  
+Opt-out option: you can prevent data being processed by AppBoy by deactivating
+all tracking and analysis in the app under "Settings".
+
+  10. DATA TRANSFER IN THE EVENT OF A MERGER
+
+Zattoo may purchase or sell subsidiaries or business units. In the event of
+such transactions, as well as in case of a Zattoo take-over, or a substantial
+part of active Zattoo shares, or designated business areas, the personal user
+data and the user data will generally be part of the active Zattoo shares.
+Zattoo reserves the right to include the personal user data in such a
+potential take-over/merger. The provisions outlined in this privacy act
+declaration and the applicable privacy act shall also apply to data
+transferred in the aforementioned circumstances.
+
+  11. RIGHT TO DISCLOSURE
+
+The user may request information regarding his personal data at Zattoo and the
+correction of incorrect data, as well as the collection of data being ceased
+and/or data is deleted. Statutory provisions and regulations by governing
+officials, e.g. courts, which may mandate Zattoo storing and making available
+this personal data are reserved. Disclosure inquiries must be directed to
+legal@zattoo.com via email, or in written form to Zattoo Europa AG, Customer
+Support, MuÌrtschenstrasse 39, 8048 ZuÌrich, Switzerland. If you would like
+to delete your account or terminate a paid subscription, you may do so by
+using our customer menu. Delete Account , Terminate Subscription.  
+Zattoo may demand identification verification for information inquiries and
+deletion requests at any time.
+
+  12. ADDITIONAL PRIVACY ACT DECLARATIONS
+
+The user is aware that additional privacy act declarations for certain
+services, e.g. apps, may apply.
+
+Status May 2016  
+Â© 2016, Zattoo
+
+## Zattoo Data Protection Agreement
+
+###### Status May 2016
+
+Zattoo defines the following services of Zattoo Europa AG.  
+Zattoo Europa AG and Zattoo International AG are taking the protection of your
+personal data very seriously. This privacy act declaration governs the
+storage, processing and disclosure of personal user data by Zattoo in
+accordance with the Swiss Privacy Act. It is valid part in addition and within
+the scope of Zattooâs General Business Terms and Conditions
+
+  1. PRIVACY ACT OBJECTIVE AND RESPONSIBLE OFFICE
+
+This privacy act declaration applies to all services provided by Zattoo.
+Services may include internet websites, as well as (mobile) applications
+(apps), particularly apps for mobile end devices, smart-TVs and set-top-boxes
+or streaming-boxes and other applications (software). Unless otherwise
+indicated, it governs how Zattoo handles your personal data exclusively. The
+office responsible for data processing is Zattoo Europa AG. If you use third
+party services, the privacy act provisions of these third parties used shall
+apply exclusively.
+
+  2. DATA COLLECTION
+
+During registration, as well as use, certain personal user data is collected
+and processed. This includes or may include: e-mail address, name, mailing
+address, payment information, date of birth, gender, language (as a whole,
+referred to as âpersonal data), income, education, household, occupation,
+consumer behavior, hobbies, preferred activities and use of services (all of
+the above information is referred to hereafter as ârelevant personal
+dataâ).  
+Within the scope of utilization, additional data such as IP addresses, browser
+type and access times from your computer, are transferred to us automatically
+and stored on our servers (hereafter referred to as âuser dataâ)  
+With the user identification, Zattoo can collect data regarding the userâs
+utilization of the services through the user ID or placement of cookies, such
+as IP address, TV channels and broadcasted advertisements. Cookies are small
+data files, which are stored on the userâs PC and managed by the userâs
+browser. Cookies enable faster navigation on websites for example, and
+personalized access. The user can delete and/or prevent the use of cookies on
+the browser at any time. The user acknowledges and accepts that deleting
+cookies may limit the performance and quality of the services.
+
+  3. TRANSFER TO AFFILIATED COMPANIES OR THIRD PARTIES
+
+By registering for, or using the services, the user acknowledges and agrees
+that his relevant personal data and user data is transferred or made
+accessible to the following companies for the below listed purposes:
+
+Zattoo Europa AG, MuÌrtschenstrasse 39, 8048 Zurich,  
+Zattoo International AG, MuÌrtschenstrasse 39, 8048 Zurich, Switzerland  
+Zattoo Deutschland GmbH, Sonnenallee 223a, 12059 Berlin, Germany
+
+In addition, the user agrees that Zattoo may transfer the personal data
+received from the user to third parties as follows: to payment providers (e.g.
+credit card companies, banks, PayPal, mobile service providers, collection
+agencies), service providers for creating and preparing statistics, IT service
+providers (e.g. data centers, host providers, backup services, database
+services). The aforementioned service providers can only access your personal
+data to the extent necessary for providing their services.  
+These companies, as well as service providers are obligated to handle the data
+pursuant to this privacy act declaration and the applicable Privacy Protection
+Act.
+
+  4. TRANSFER TO FOREIGN COUNTRIES
+
+The user acknowledges and agrees that relevant personal data is collected and
+processed in Switzerland, even if the user resides in a different country or
+utilizes service from a different country.  
+The user acknowledges and agrees that Zattoo may transfer and export this data
+to other countries, including the USA, even if the respective countryâs
+privacy act standards deviate from the Swiss standards or the standards of the
+userâs country of residence. In this case Zattoo shall secure adequate data
+protection.
+
+  5. USE OF DATA
+
+a. UTILIZATION OF SERVICES
+
+Zattoo utilizes relevant personal data for the purpose and the implementation
+of using Zattoo and for payment processing. If the user accesses the services,
+Zattoo determines the IP address to define the country in which the user
+resides in order to designate the available channels.  
+Zattoo may collect and process data relevant to the userâs utilization of
+services, e.g. IP address, TV channels and advertisements viewed, time and
+duration of a session, connectivity information and error messages etc.  
+Zattoo may also use the data for service utilization and preparing anonymous
+statistics of user behavior, and forward these statistics to third parties.
+
+b. BILLING AND STATEMENT FOR COPYRIGHT FEES
+
+If the user subscribes to services subject to charges, Zattoo will collect and
+process the payment information. Zattoo is entitled to contract third parties
+payment processing purposes.  
+Zattoo utilizes the data concerning the use of services for creating regular
+reports for the legal owners (e.g. broadcasting facilities, communication
+companies) regarding the viewer numbers of their contents and for calculating
+the applicable copyright fees. The reporting includes the aggregated numbers
+without disclosing the userâs personal data.
+
+c. NEWS AND ADEVERTISEMENTS
+
+Zattoo collects and processes address and user data (device used, operating
+system used, browser type, programs viewed, duration, advertisements viewed)
+for news and/or promotional messages.  
+Zattoo is entitled to pass on personal information about the user (e.g. e-mail
+address, usage details, etc.) to contract partners (Schober Information Group
+AG) in the direct marketing and address brokering field for their handling and
+promotional use. The user agrees to receive unsolicited third party
+advertising materials (e.g. advertising from a third party via a promotional
+e-mail).The user may revoke his consent for the use of his personal data to
+receive newsletters and/or advertisements at any time. To revoke the consent,
+the user can click on âunsubscribeâ at the end of the newsletter and/or
+advertisement or revoke the consent in his personal user account.  
+The user agrees that Zattoo may send important messages regarding services to
+the user despite the revocation of consent.
+
+  6. ADVERTISEMENT, PERSONALIZED ADVERTISEMENT
+
+Advertisements may be displayed/âpop upâ when utilizing the services or
+visiting the website. Zattoo also displays personalized third party
+advertisements if the contents are based on the information provided by the
+user; such as the use of Zattoo services or the data disclosed by the user
+during registration. The advertisement may be provided by contracted third
+parties. You may update the data in your user account if you do not wish your
+data to be used for advertisement purposes, this will not affect your ability
+to use the services provided by Zattoo.
+
+  7. CO-REGISTRATION
+
+In part, Zattoo provides an option to its users to register with Zattoo
+partners during the registration process as well. If a user selects a co-
+registration, Zattoo will forward the data provided for the co-registration to
+its partner, which will then become the owner of this data. Zattoo shall
+explicitly advise the user of the data transfer.
+
+  8. SOCIAL NETWORKS
+
+a. RECOMMEDATION-BUTTONS
+
+Zattoo provides recommendation buttons for the following social networks on
+its website:
+
+Facebook-Like-Button Google+-Button Twitter-Recommendation-Button  
+These buttons enable the user to recommend selected Zattoo contents regarding
+the respective social network to other internet users, add his personal
+profile in the social network, or bring attention to Zattoo contents.  
+The recommendation buttons are provided by the social network operators for
+the purpose of integrating other websites. By integrating the plugins on
+Zattoo, the operators of the respective social networks may receive the
+information that the user has accessed the respective Zattoo website. If the
+user is logged in on a social network while visiting Zattoo, the network
+operator may assign a user account to this visit. If such an assignment is not
+desired, we recommend you log off the social network prior to accessing the
+Zattoo website. If the user utilizes the buttons or comments, the respective
+information is transferred to, and stored on the corresponding social network.  
+Purpose and extent of data collection, subsequent processing and use of data
+by social networks, as well as the corresponding rights and setting options to
+protect your privacy are available in the social network operatorâs privacy
+act information:
+
+Facebook Ireland Ltd. and/or Facebook Inc.: http://de-
+de.facebook.com/policy.php  
+Google Inc.: http://www.google.de/intl/de/privacy/plusone/  
+Twitter Inc.: http://twitter.com/privacy
+
+b. LOGIN BY THIRD PARTY PROVIDERS
+
+Zattoo provides an option to log on with your registered Zattoo account or
+with third party accounts you may have registered.  
+This simplifies and speeds up the log on process and also provides you with an
+option to link Zattoo with the third party account and possible other
+functions to the extent of the third partyâs functional scope.  
+Please note that your account settings with third party providers, as well as
+their privacy act provisions, the scope of data collection, as well as the
+data third party providers may transfer to us, could deviate.  
+We collect, process and use the data transferred to us exclusively in
+accordance with this privacy act declaration.  
+However, Zattoo can only influence which data the third party provider
+transfers to Zattoo to a limited extent. This is subject to the servitude
+conditions and privacy act provisions of the applicable third party provider.  
+You may access this information as follows:
+
+Facebook: http://de-de.facebook.com/policy.php  
+Google: http://www.google.com/policies/privacy/  
+Amazon:
+http://www.amazon.de/gp/help/customer/display.html?ie=UTF8&amp;nodeId=33124019
+
+c. FACEBOOK CUSTOM AUDIENCES  
+We are using the communication tools provided by Facebook, especially the
+product Custom Audiences. In this process, a Hash Value is generated from your
+usage data. This is not linked to an actual person and non retraceable. This
+value can be passed to Facebook for analytical or marketing purposes. You can
+find further information on the processes of the usage data and the relevant
+account settings here: https://www.facebook.com/ads/website_custom_audiences/
+and https://www.facebook.com/privacy/explanation  
+If you want to object to the use of Custom Audiences you can do so here:
+https://www.facebook.com/ads/website_custom_audiences/
+
+  9. ANALYSIS TOOLS
+
+a. Google Analytics
+
+Our services use Google Analytics in connection with Google Remarketing. These
+are programs used for web analysis and target oriented advertising management
+offered by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043,
+USA (âGoogleâ). Google uses so called âcookiesâ; text files, which are
+stored on the usersâ computers or mobile end devices and which enable an
+analysis for the utilization of our services. The information generated by the
+cookie regarding the use of our services are generally transferred to, and
+stored on a Google server in the USA. Within the scope of our services
+however, we have taken measures to activate IP anonymisation. With this
+process, the IP addresses of our users have been abbreviated in the European
+Union member states or other contract states within the Agreement on the
+European Economic Area by Google. Only in exceptional cases the entire IP
+address is transferred to a Google server and abbreviated there. Google will
+use
+
+the information transferred on our behalf to analyze the use of our services
+by users, to create reports regarding the use activity and to provide other
+services corresponding to the use of our services.  
+These additional services include Google Remarketing. Google Remarketing
+serves the purpose of us, or third party providers, including Google to
+activate advertisements on internet websites. When activating advertisements,
+Google Remarketing enables us to address internet users who have previously
+used our services. Cookies are utilized for this purpose.  
+The IP addresses transferred within the scope of Google Analytics are not
+combined with other Google data.  
+You can prevent the storage of cookies with by using the respective setting in
+your internet browser, however, we advise you that in this case you may not be
+able to use all functions our services provide to the full extent.  
+You can also prevent the collection of data generated by cookies regarding
+your use of our services (incl. your IP address) for Google, as well as the
+data being processed by Google. If you are utilizing our services on a
+computer on your browser, download the available:
+https://tools.google.com/dlpage/gaoptout?hl=de  
+If you are using our services on a mobile end device, you can deactivate the
+above mentioned data collection process in your settings/privacy act menu for
+the Zattoo app.
+
+b. Google Customer Match
+
+We use Google Customer Match for the distribution of adverts. In this process,
+a Hash Value is generated from your usage data. This is not linked to an
+actual person and non retraceable. This value can be passed to Google for
+analytical or marketing purposes. The data is used to create target groups in
+order to distribute advertising material and then is deleted by Google. The
+Customer Match occurs exclusively for our own analytical and advertising
+measures. You can deactivate the distribution of personal adverts here;
+https://www.google.com/settings/u/0/ads/authenticated?hl=de%20abstellen.
+
+c. Services of Net-Metrix AF, Switzerland
+
+Zattoo receives services from NET-Metrix AG, Switzerland, an independent Swiss
+instance for internet user research. The NET-Metrix fact-sheet outlines the
+services provided by NET- Metrix. The NET-Metrix Privacy Act Declaration
+provides information about the data use by NET-Metrix. Both documents may be
+accessed at www.net-metrix.ch
+
+d. Use of Optimizely
+
+Our services use Optimizely, a web analysis service offered by Optimizely,
+Inc. ("Optimizely"), 631 Howard Street, Suite 100, San Francisco, CA 94105.
+
+Optimizely uses so called âcookiesâ, text files, which are stored on the
+usersâ computers or mobile end devices and enable the analysis of the
+utilization of our services.  
+The process determines the browser used, user behavior and user pattern of our
+services by the user. Individual users are not identified at any time. The
+information generated by the cookie regarding your use of our services are
+generally transferred to, and stored on an Optimizely server in the USA.  
+In the event IP anonymisation is activated on our service portal, your IP
+address is abbreviated in the European Union member states of or other
+contract states participating in the Agreement on the European Economic Area
+by Optimizely. Only in exceptional cases the entire IP address is transferred
+to an Optimizely server and abbreviated there. Optimizely will use the
+information transferred on behalf of the operator to analyze your use of the
+website and to create reports regarding website activity.  
+Optimizely also collaborates with partners who use cookies, which monitor
+their services and offers, as well as the number of visitors, for example. The
+partner âcookiesâ are also used to diagnose and resolve technical problems
+and further, to send you specific advertisements.  
+To our knowledge, the IP addresses transferred from your browser within the
+scope of Optimizely activities are not combined with other Optimizely data.
+You can prevent the storage of cookies by using the respective setting in your
+internet browser software, or in the settings/privacy act menu of your Zattoo
+app; however, we advise you that in this case you may not be able to use all
+functions our services provide to the full extent.  
+In addition, you can also deactivate the Optimizely-tracking process (and
+prevent the collection of data generated by cookies regarding your use of our
+services incl. your IP address by Optimizely, as well as the data being
+processed by Optimizely by following the instructions provided on:
+http://www.optimizely.com/opt_out  
+However, Zattoo can only influence the data transferred by Optimizely to
+Zattoo to a limited extent. This transfer is subject to the servitude
+conditions and privacy act provisions of Optimizely.  
+The servitude conditions are available at: https://www.optimizely.de/privacy
+
+e. Adjust
+
+We use the analysis technology âadjustâ by adjust GmbH (âadjustâ).
+adjust employs the userâs IDFA and AAID for the analysis, which are used
+strictly anonymously. It is not possible to identify an individual person with
+this process. The data is used for Zattooâs market research purposes, as
+well as for optimizing its advertising strategies. In reference to the
+advertising measures at Zattoo, the data is made available to retargeting
+services in order to target specific (Zattoo-) adverts to users with a certain
+IDFA i.e. the AAID.
+
+The retargeting service provider currently in use is Remerge GmbH,
+Oranienburger Str. 27, 10117 Berlin. If any retargeting providers are added in
+future, then these will be updated. With the use of the app you agree to the
+processing of the retrieved anonymous data in the above-mentioned way, for the
+above-mentioned purpose. The retrieval and saving of the data can be
+deactivated for the future in the settings of the app anytime. By using the
+apps, you agree to the anonymously collected data being handled in the manner
+defined and for the previously named purpose.  
+Data collection and storage may be deactivated in the appâs settings at any
+time to future effect.
+
+f. Usage analysis supported by Appboy
+
+Zattoo utilizes the web analysis service AppBoy, a program by AppBoy, Inc.,
+265 W. 37th Street, Suite 1212, New York, NY 10018, USA, for analyzing the
+appâs usage. AppBoy uses a pseudonymized identifier (ID) which enables
+analysis of the usage of our services. It identifies the version of the
+operating system you are using, information about your network provider, a
+country code, usage behavior, and the usage pattern of our services. The data
+identified by AppBoy will never be linked with details about the bearer of the
+pseudonym. The information on your use of our services generated on the basis
+of the pseudonymous identifier is generally transferred to and stored on an
+AppBoy server in the USA. If activated by Zattoo, this information may be used
+for conveying select information (known as push notifications) regarding
+Zattoo services or specific advertising.  
+More detailed information regarding AppBoy compliance with the Privacy Act is
+available here: www.appboy.com/privacy.  
+Opt-out option: you can prevent data being processed by AppBoy by deactivating
+all tracking and analysis in the app under "Settings".
+
+  10. DATA TRANSFER IN THE EVENT OF A MERGER
+
+Zattoo may purchase or sell subsidiaries or business units. In the event of
+such transactions, as well as in case of a Zattoo take-over, or a substantial
+part of active Zattoo shares, or designated business areas, the relevant
+personal user data and the user data will generally be part of the active
+Zattoo shares. Zattoo reserves the right to include the personal user data in
+such a potential take-over/merger. The provisions outlined in this privacy act
+declaration and the applicable privacy act shall also apply to data
+transferred in the aforementioned circumstances.
+
+  11. RIGHT TO DISCLOSURE
+
+The user may request information regarding his personal data at Zattoo and the
+correction of incorrect data, as well as the collection of data being ceased
+and/or data is deleted. Statutory provisions and regulations by governing
+officials, e.g. courts, which may mandate  
+Zattoo storing and making available this personal data are reserved.
+Disclosure inquiries must be directed to legal@zattoo.com via email, or in
+written form to Zattoo Europa AG, Customer Support, MuÌrtschenstrasse 39,
+8048 ZuÌrich, Switzerland. If you would like to delete your account or
+terminate a paid subscription, you may do so by using our customer menu.
+Delete Account , Terminate Subscription.  
+Zattoo may demand identification verification for information inquiries and
+deletion requests at any time.
+
+  12. ADDITIONAL PRIVACY ACT DECLARATIONS
+
+The user is aware that additional privacy act declarations for certain
+services, e.g. apps, may apply.
+
+Status Mai 2016  
+Â© 2016, Zattoo
+
+  * Product &amp; Service
+    * Product website
+  * Company
+    * About us
+    * Privacy
+    * Terms
+    * Imprint
+  * Customer Care
+    * Help
+    * FAQ
+
+(C) 2017 Zattoo
+
+* * *
+

@@ -1,0 +1,1364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="x-ua-compatible" content="IE=Edge"/> 
+  <title>Kongregate Privacy Policy</title>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bmGZ5F1lEChaiOfeSLeiROoVaqDC/eFbuVkEMpAFXPS1c0a0MKYX7XYjrqT0Ah00IN00WQlo205UL0Jfseo6kg==" />
+  <script type="text/javascript">
+  //<![CDATA[
+    var cookie = document.cookie.match(new RegExp('(^|;)\\s*' + encodeURIComponent('previous_referrer') + '=([^;\\s]*)'));
+    var previous_referrer = (cookie ? decodeURIComponent(cookie[2].replace(/\+/g, ' ')) : null);
+    var spillno_regex = /^http:\/\/www.123spill\.no/
+    if(previous_referrer && previous_referrer.match(spillno_regex)){
+      setTimeout(function(){
+        Cookie.erase('previous_referrer')
+        var script_element = new Element('script', { async: true, src: window.location.protocol + '//www.123spill.no/assets/js/statusbar.object.min.js' });
+        $$('head')[0].insert(script_element)
+      }, 1000);
+    } else if(document.referrer.match(spillno_regex)){
+      var write = (encodeURIComponent('previous_referrer') + '=' + encodeURIComponent(document.referrer || '') + '; path=/');
+      document.cookie = write
+    }
+    //]]>
+  </script>
+  <script>
+//<![CDATA[
+var _lts=+new Date();parent.frames.length&&function(){var d=document.location;top.location.replace(d.search.match('fb_sig')?d.href.split('?')[0]:d)}();
+//]]>
+</script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a24e512fa2","applicationID":"11183949","transactionName":"clgKEUANWw4GSx1BVVZSF0pBClgV","queueTime":1,"applicationTime":60,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <link rel="search" href="/opensearch_desc.xml" type="application/opensearchdescription+xml" title="Kongregate" />
+  <!--[if lte IE 7]>
+    <link rel="shortcut icon" type="image/x-icon" href="https://cdn2.kongcdn.com/favicon.ico" />
+  <![endif]-->
+    <!--[if !IE]><!-->
+      <link rel="stylesheet" media="screen" href="https://cdn2.kongcdn.com/compiled-assets/application_merged-5993f93f9acdf2ec4aa4faf207329339.css" />
+    <!--<![endif]-->
+    <!--[if gt IE 9]>
+      <link rel="stylesheet" media="screen" href="https://cdn2.kongcdn.com/compiled-assets/application_merged-5993f93f9acdf2ec4aa4faf207329339.css" />
+    <![endif]-->
+    <!--[if lt IE 10]>
+      <link rel="stylesheet" media="screen" href="https://cdn1.kongcdn.com/compiled-assets/sitewide-6c7049dd0be2b64cb7e18419e79e15c8.css" />
+      <link rel="stylesheet" media="screen" href="https://cdn2.kongcdn.com/compiled-assets/application-bff6cfa45360715103ffac6f90988d6c.css" />
+    <![endif]-->
+  <!--[if lte IE 7]><link rel="stylesheet" media="screen" href="https://cdn2.kongcdn.com/compiled-assets/ie6-da96050d78fe3dce7d8eca761da67927.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://cdn4.kongcdn.com/compiled-assets/ie8-ce15666067f63b126404d467028027e0.css" /><![endif]-->
+  <!-- Favico Start -->
+  <link rel="shortcut icon" type="image/png" href="https://cdn1.kongcdn.com/favicon.png" />
+  <link href="https://cdn2.kongcdn.com/compiled-assets/favicos/favico-57-21025a1e0c5551f2eb79f01b5f0f7379.png" rel="apple-touch-icon" sizes="57x57" />
+  <link href="https://cdn4.kongcdn.com/compiled-assets/favicos/favico-114-4b1cf575b729faa3f730517f24cb947a.png" rel="apple-touch-icon" sizes="114x114" />
+  <link href="https://cdn1.kongcdn.com/compiled-assets/favicos/favico-72-62cd0ef6f022fc0eb496b01735d3f606.png" rel="apple-touch-icon" sizes="72x72" />
+  <link href="https://cdn2.kongcdn.com/compiled-assets/favicos/favico-144-cdb1a724637aef86593ba53bebe21374.png" rel="apple-touch-icon" sizes="144x144" />
+  <link href="https://cdn2.kongcdn.com/compiled-assets/favicos/favico-60-075018d87bff2b4259cfd5f7326ee543.png" rel="apple-touch-icon" sizes="60x60" />
+  <link href="https://cdn1.kongcdn.com/compiled-assets/favicos/favico-120-05f01ef1dfbb104b6865e29e73eaf5a2.png" rel="apple-touch-icon" sizes="120x120" />
+  <link href="https://cdn2.kongcdn.com/compiled-assets/favicos/favico-76-f8fdd60c7a7dfb8089c3d371fa2be0cd.png" rel="apple-touch-icon" sizes="76x76" />
+  <link href="https://cdn2.kongcdn.com/compiled-assets/favicos/favico-152-589861dd1bed9a97158cf42e6f8dac78.png" rel="apple-touch-icon" sizes="152x152" />
+  <link href="https://cdn2.kongcdn.com/compiled-assets/favicos/favico-196-c1e6334c0c8784026b73d6c5f00a37aa.png" rel="icon" sizes="196x196" type="image/png" />
+  <link href="https://cdn3.kongcdn.com/compiled-assets/favicos/favico-160-a4a5718315d52fd721a499b9a14e4f4e.png" rel="icon" sizes="160x160" type="image/png" />
+  <link href="https://cdn3.kongcdn.com/compiled-assets/favicos/favico-48-66197e1c656f3308a3a5017213aeb789.png" rel="icon" sizes="48x48" type="image/png" />
+  <link href="https://cdn3.kongcdn.com/compiled-assets/favicos/favico-96-e86beb05f2fa8925ddab1152437d912b.png" rel="icon" sizes="96x96" type="image/png" />
+  <link href="https://cdn1.kongcdn.com/compiled-assets/favicos/favico-16-a34c9ea10c55d5f485c8cac03e058013.png" rel="icon" sizes="16x16" type="image/png" />
+  <link href="https://cdn2.kongcdn.com/compiled-assets/favicos/favico-32-50abc8d2b01fcef28ee82b63d2acde3c.png" rel="icon" sizes="32x32" type="image/png" />
+  <meta name="msapplication-TileColor" content="#990000" />
+  <meta name="msapplication-TileImage" content="https://cdn2.kongcdn.com/compiled-assets/favicos/favico-144-cdb1a724637aef86593ba53bebe21374.png" />
+  <!-- Favico End -->
+  <script src="https://cdn1.kongcdn.com/compiled-assets/sitewide_javascripts-428522c6136838944d6fa1dd649c2862.js"></script>
+  <script>
+//<![CDATA[
+      var active_user = new ActiveUser({"domain":"kongregate.com","single_cdn_domain":"cdn1.kongcdn.com","trusted_domain":"internal.kongregate.com","kong_user_data":{"username":"Guest","id":0,"chat_username":"Guest_c49e6d0d87e2dab4e29eba3f001cf403","chat_password":"fd449f5362f1aa7e2321ea4520860951","mobile_user_agent":false,"generated_at":1496334555000,"version":1,"country_code":"DE","gameplays_count":0,"ratings_count":0,"level":null,"last_levelup_at":null,"first_visit_date":null,"kong_source":null,"split_treatments":{"feature_roll":{},"104962302_show_non_translated_site":"control"},"kred_buyer_type":"non-buyer","facebook_url":"https://www.kongregate.com/facebook_connection_requests","current_locale":"en-US","current_locale_is_default":true,"current_preffered_locale":"en-US","underage":null,"hide_rate_this_game_tab":false,"current_challenge_tiny_image":"/assets/items/0014/9302/swordsandsoulsitem_40x40.png","current_challenge_uri":"http://www.kongregate.com/games/synapticon/spellstone","current_challenge_id":3410,"current_challenge_name":"Swords and Spells","current_challenge_description":"Complete the third campaign node to unlock the Ragnarok spell in \"Swords and Souls\"!","botd_badge_id":1019,"botd_name":"Fallen Champions","botd_description":"Slay 200 enemies","botd_icon_uri":"https://cdn4.kongcdn.com/badge_icons/0000/2037/cursedtreasureeasy.png","botd_game_uri":"http://www.kongregate.com/games/IriySoft/cursed-treasure-dont-touch-my-gems","botd_game_name":"Cursed Treasure: Don't Touch My Gems!","botd_reward_points":5,"user_agent":{"browser":"Firefox","version":"52.0","platform":"Windows"}},"load_toolbar":true,"game_page":null}),
+          page_data = {};
+
+//]]>
+</script>
+  <script>
+//<![CDATA[
+
+    navigationData = Kongregate.navigationData(active_user, {"user":{},"forums":{"kongregate":"/forums/1-kongregate","game_forums":"/forums/games","general_gaming":"/forums/3-general-gaming","technical_support":"/forums/7-technical-support","game_programming":"/forums/4-game-programming","off_topic":"/forums/2-off-topic","forum_games":"/forums/36-forum-games","all_forums":"/forums"},"games":{},"achievements":{"badge_of_the_day":{"icon_path":"https://cdn4.kongcdn.com/badge_icons/0000/2037/cursedtreasureeasy.png","description":"Slay 200 enemies","title":"Fallen Champions","game_path":"/games/IriySoft/cursed-treasure-dont-touch-my-gems","game_title":"Cursed Treasure: Don't Touch My Gems!","badge_id":1019,"earned_class":"incomplete"},"current_challenge":{"icon_path":"https://cdn3.kongcdn.com/assets/items/0014/9302/swordsandsoulsitem_40x40.png","title":"Swords and Spells","description":"Complete the third campaign node to unlock the Ragnarok spell in \"Swords and Souls\"!","game_path":"/games/synapticon/spellstone","game_title":"Spellstone"},"current_kongpanion":{"icon_path":"https://cdn1.kongcdn.com/assets/kongpanion_icons/0000/0353/peas.png?i10c=img.resize(height:60)","name":"Zapod Peablebrox"},"recently_badged_games":[{"title":"Heroes Tactics","icon_path":"https://cdn4.kongcdn.com/game_icons/0065/9138/icon-256.png?i10c=img.resize(width:250)","game_path":"/games/heroestactics/heroes-tactics","badge_count":"2 Badges"},{"title":"Questmore","icon_path":"https://cdn2.kongcdn.com/game_icons/0065/4584/questmore_logo.jpg?i10c=img.resize(width:250)","game_path":"/games/galvanicgames/questmore","badge_count":"2 Badges"},{"title":"yellow","icon_path":"https://cdn3.kongcdn.com/game_icons/0066/5221/yellow_kong.png?i10c=img.resize(width:250)","game_path":"/games/bontegames/yellow","badge_count":"1 Badge"}],"expiration_time":"2017-06-01T10:00:03.530-07:00"}});
+
+//]]>
+</script>  <script type="text/javascript">
+var vag, vgen;
+active_user.addRunWhenAuthenticatedObserver(function(user) {
+  vag = user.age();
+  vgen = user.videoEggGender();
+});
+</script>
+
+    
+<script>
+//<![CDATA[
+  var post_message_handler = new PostMessageHandler();
+
+  function clickAdSkin(click_url){
+    if(global_skin_lock){
+      global_skin_lock = false;
+      window.open(click_url);
+      setTimeout(function(){ global_skin_lock = true }, 1000);
+    }
+  }
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('primary_wrap_skin' != ad_payload.content_type) { return; }
+
+    return function() {
+      var p=$('primarywrap');
+      p.setStyle(ad_payload.skin_style);
+      global_skin_lock = true;
+      if(ad_payload.url && !active_user.isPremium()){
+        var click_url = ad_payload.url;
+        $('skin_left_of_game').setStyle("cursor: pointer; cursor: hand;");
+        $('skin_left_of_game').observe('click', clickAdSkin.curry(click_url));
+        $('skin_right_of_game').setStyle("cursor: pointer; cursor: hand;");
+        $('skin_right_of_game').observe('click', clickAdSkin.curry(click_url));
+      }
+    };
+  });
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('body_class' != ad_payload.content_type) { return; }
+
+    return function() {
+      var b = $$('body')[0];
+      b.addClassName(ad_payload.body_class_name);
+    };
+  });
+
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('refreshable_ad' != ad_payload.content_type) { return; }
+
+    return function() {
+      if (kong_ads) {
+        kong_ads.addRefreshableSlot(ad_payload.refreshable_slot_name);
+      }
+    };
+  });
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('add_class' != ad_payload.content_type) { return; }
+    return function() {
+      $$(ad_payload.selector).each(function(ele) { ele.addClassName(ad_payload.class_name) });
+    }
+  });
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('insert_node' != ad_payload.content_type) { return; }
+    if(ad_payload.from && ad_payload.to){
+      if($(ad_payload.from) && $(ad_payload.to)){
+        $(ad_payload.to).update($(ad_payload.from));
+      }
+    }
+  });
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('hide_elements' != ad_payload.content_type) { return; }
+    return function() {
+      $$(ad_payload.selector).each(Element.hide);
+    }
+  });
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('show_elements' != ad_payload.content_type) { return; }
+    return function() {
+      $$(ad_payload.selector).each(Element.show);
+    }
+  });
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('enable_cinematic' != ad_payload.content_type || active_user.isAuthenticated()) { return; }
+    return function() { CinematicMode.hookUpCinematicQuicklink(); }
+  });
+
+  post_message_handler.addCallback(function(ad_payload) {
+    if ('dealspot' != ad_payload.content_type) { return; }
+
+    // hide regular ad for now; no-offer callback will show it
+    $('game_leaderboad_banner_holder').hide();
+
+    var vic = ad_payload.game_vic ? ad_payload.game_vic : 'f18b2800751f51f18b87307bf0ebbbc7';
+
+    var script_tag_loaded = function() {
+        TRIALPAY.social.render_dealspot_swf({
+        id : ad_payload.dealspot_ad_slot_id,
+        sid : active_user.id(),
+        tp_params : active_user.dealspotParams(),
+        tp_signature: active_user.dealspotSignature(),
+        game_id : active_user.gameId(),
+        width : ad_payload.width,
+        height : ad_payload.height,
+        mode : "tpdirect",
+        vic : vic,
+        onOfferUnavailable : "kong_ads.onDealspotOfferUnavailable",
+        onOfferAvailable : "kong_ads.onDealspotOfferAvailable",
+        onOpen : "kong_ads.onDealspotOpen",
+        onClose : "kong_ads.onDealspotClose",
+        zIndex : 2000000
+      });
+    };
+
+    var script_ele = new Element('script', { type : 'text/javascript', src : 'https://s-assets.tp-cdn.com/static3/js/api/payment_overlay.js' });
+
+    if (script_ele.readyState) {  // IE
+      script_ele.onreadystatechange = function() {
+        if (script_ele.readyState == "loaded" || script_ele.readyState == "complete") {
+          script_ele.onreadystatechange = null;
+          script_tag_loaded();
+        }
+      };
+    } else {  // Others
+      script_ele.onload = function() {
+        script_tag_loaded();
+      };
+    }
+
+    $$('head').first().insert({ bottom: script_ele });
+  });
+
+  var googletag = { cmd: [function(){googletag.pending=false;}], pending: true }, renderingMode = "enableAsyncRendering";
+
+//]]>
+</script>
+<!--[if lt IE 8]>
+  <script src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+  <script>
+//<![CDATA[
+    renderingMode = "enableSyncRendering";
+
+//]]>
+</script><![endif]-->
+
+<script>
+//<![CDATA[
+  videoegg = false;
+  kong_url_host = "www.kongregate.com";
+
+  var kong_ads = new KongDFPAds({
+    networkId: "1019038",
+    publisherId: "ca-pub-2543721856801245",
+    renderingMode: renderingMode,
+    refreshAds: false
+  });
+  var ka = kong_ads; // for pages that still reference ka
+
+  kong_ads.setTargeting({"norollover":"false","production":"true","videoegg":"false"});
+
+  if (window.active_user !== undefined) {
+    kong_ads.setTargeting('registered', active_user.isAuthenticated() ? 'true' : 'false').
+      setTargeting('premium', active_user.isPremium() ? 'true' : 'false').
+      setTargeting('gameplays', "" + (active_user.gameplaysCount() + 1));
+
+    active_user.addRunWhenAuthenticatedObserver(function(user) {
+      if (user.googleGender()) { kong_ads.setGenderTargeting(user.googleGender()); }
+      if (user.googleAgeBracket()) { kong_ads.setAgeTargeting(user.googleAgeBracket()); }
+
+      kong_ads.setTargeting('kred_type', active_user.kredBuyerType());
+      kong_ads.setTargeting('fb_status', active_user.facebookStatus());
+    });
+  }
+
+  
+
+//]]>
+</script>
+  <script>
+//<![CDATA[
+
+//]]>
+</script>
+  <script type='text/javascript'>
+if(typeof(window.util) === 'undefined') {
+  window.util = window.util || {};
+  window.util.openURL = window.util.openURL || function(url) {
+    window.open(url, '_blank');
+  }
+}
+</script>
+    <script>
+//<![CDATA[
+
+      if (active_user.isPremium()) {
+        document.observe('dom:loaded', function() {
+          
+        });
+      }
+
+      kong_ads.requestAds();
+
+//]]>
+</script>  <script>
+//<![CDATA[
+try{document.execCommand('BackgroundImageCache', false, true);}catch(e){}
+//]]>
+</script>
+  <!-- host web-i-0755f0d48af12e5a5.us-west-2.kongregate.com - pid 61628 -->
+    <script>
+//<![CDATA[
+
+    var metricTracker = new MetricTracker({googleAnalytics:
+                                            {analyticsCode: 'UA-211785-2',
+                                             trackPageView: true,
+                                             setDomain: true,
+                                             maxEventTime: 60000}});
+
+//]]>
+</script>
+  <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8108451" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8108451&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+      <script>
+      VKI_default_layout = "US International";
+    </script>
+    <link rel="stylesheet" media="screen" href="https://cdn4.kongcdn.com/compiled-assets/tr8n/keyboard_1_49-269e11f719ecae2fb3b9950dafde3058.css" />
+  <link rel="stylesheet" media="screen" href="https://cdn2.kongcdn.com/compiled-assets/tr8n/tr8n-b0377203ed56a0f768c445cf17c5b5f6.css" />  <script src="https://cdn3.kongcdn.com/compiled-assets/tr8n/tr8n-compiled-420cb34e01c4c2be92c604bef07b4835.js" charset="UTF-8"></script>
+  <script type="text/javascript">
+     initializeTr8n();
+     VKI_imageURI = 'https://cdn1.kongcdn.com/compiled-assets/tr8n/keyboard-ab94d5edec8b09069c9abff002403b9a.png'
+     Tr8n.assets_path = '/compiled-assets'
+  </script>
+
+
+    <script>
+  var tr8nProxy = new Tr8n.Proxy({"default_source":"application/JS","sources":["application/JS"],"scheduler_interval":5000,"enable_inline_translations":false,"default_decorations":{"strong":"\u003Cstrong\u003E{$0}\u003C/strong\u003E","bold":"\u003Cstrong\u003E{$0}\u003C/strong\u003E","b":"\u003Cstrong\u003E{$0}\u003C/strong\u003E","em":"\u003Cem\u003E{$0}\u003C/em\u003E","italic":"\u003Ci\u003E{$0}\u003C/i\u003E","i":"\u003Ci\u003E{$0}\u003C/i\u003E","span":"\u003Cspan\u003E{$0}\u003C/span\u003E","link":"\u003Ca href='{$1}' style='{$2}'\u003E{$0}\u003C/a\u003E","link1":"\u003Ca href='{$1}' style='{$2}'\u003E{$0}\u003C/a\u003E","link2":"\u003Ca href='{$1}' style='{$2}'\u003E{$0}\u003C/a\u003E","br":"\u003Cbr\u003E{$0}","class":"\u003Cspan class='{$1}'\u003E{$0}\u003C/span\u003E"},"default_tokens":{"ndash":"\u0026ndash;","mdash":"\u0026mdash;","iexcl":"\u0026iexcl;","iquest":"\u0026iquest;","quot":"\u0026quot;","ldquo":"\u0026ldquo;","rdquo":"\u0026rdquo;","lsquo":"\u0026lsquo;","rsquo":"\u0026rsquo;","laquo":"\u0026laquo;","raquo":"\u0026raquo;","nbsp":"\u0026nbsp;","lsaquo":"\u0026lsaquo;","rsaquo":"\u0026rsaquo;","br":"\u003Cbr/\u003E","amp":"\u0026amp;","lbrace":"{","rbrace":"}","trade":"\u0026trade;","hellip":"\u0026hellip;","pct":"%"},"rules":{"number":{"token_suffixes":["count","num","age","hours","minutes","years","seconds","minimum","maximum"],"object_method":"to_i"},"gender":{"token_suffixes":["user","profile","actor","target","partner","parent","child","sibling","manager"],"object_method":"gender","method_values":{"female":"Female","male":"Male","neutral":"neutral","unknown":"unknown"}},"list":{"object_method":"size","token_suffixes":["list"]},"date":{"token_suffixes":["date"],"object_method":"to_date"}}});
+  function reloadTranslations() { 
+    tr8nProxy.initTranslations(true); 
+  } 
+  function tr(label, description, tokens, options) { 
+    return tr8nProxy.tr(label, description, tokens, options); 
+  } 
+  function trl(label, description, tokens, options) { 
+    return tr8nProxy.trl(label, description, tokens, options); 
+  } 
+  Tr8n.Utils.addEvent(window, 'load', function() { 
+    tr8nProxy.initTml(); 
+  }) 
+</script>
+    <script type='text/javascript' src='/tr8n/api/v1/language/translate.js?cache=true&sdk_jsvar=tr8nProxy&source=application%2FJS&t=1495982344'></script>
+
+
+    <script type="text/javascript">
+    </script>
+
+
+  
+  <meta name="METRIKS_COGNITO_IDENTITY_POOL_ID" content="us-east-1:26ffb74a-8082-41a2-b9dc-f0ed1932c38d" />
+  <meta name="METRIKS_EVENT_MAP" content="{&quot;game-impression&quot;:&quot;impressionsDeliveryStreamProduction&quot;}" />
+</head>
+<body id="page" class="generic privacy-page show_non_translated_site-control">
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-XFQL"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>
+    dataLayer = [];
+  </script>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-XFQL');</script>
+  <!-- End Google Tag Manager -->
+
+  <script>
+//<![CDATA[
+
+    if (active_user.isPremium()) {
+      $(document.body).addClassName('premium_user');
+    }
+
+//]]>
+</script>  <div id="admin_links_placeholder"></div>
+
+  <div class="browser-notice" style="display: none;">
+  <h1>We have reduced support for legacy browsers.</h1>
+  <p><strong>What does this mean for me?</strong> You will always be able to play your favorite games on Kongregate. However, certain site features may suddenly stop working and leave you with a severely degraded experience.</p>
+  <p><strong>What should I do?</strong> We strongly urge all our users to upgrade to modern browsers for a better experience and improved security.</p>
+  <p><em>We suggest you install the latest version of one of these browsers:</em></p>
+  <ul class="browser-notice--downloads">
+    <li class="browser-notice--download chrome">
+      <a href="http://www.google.com/chrome/" target="_blank" data-metric-tracker="js-wa-tc-BrowserUpgrade-Chrome">
+        Download <strong>Google Chrome</strong>
+      </a>
+    </li>
+    <li class="browser-notice--download firefox">
+      <a href="http://www.mozilla.org/" target="_blank" data-metric-tracker="js-wa-tc-BrowserUpgrade-Firefox">
+        Download <strong>Mozilla Firefox</strong>
+      </a>
+    </li>
+    <li class="browser-notice--download msedge">
+      <a href="https://www.microsoft.com/en-us/download/internet-explorer.aspx" target="_blank" data-metric-tracker="js-wa-tc-BrowserUpgrade-IE">
+        Download <strong>Microsoft Edge</strong>
+      </a>
+    </li>
+    <li class="browser-notice--download safari">
+      <a href="http://www.apple.com/safari/" target="_blank" data-metric-tracker="js-wa-tc-BrowserUpgrade-Safari">
+        Download <strong>Apple Safari</strong>
+      </a>
+    </li>
+  </ul>
+  <p class="browser-notice--hide"><a href="#">No Thanks</a></p>
+</div>
+<div class="browser-notice--overlay" style="display: none;"></div>
+
+<script type="text/javascript">
+  if(Prototype.Browser.IE6 || Prototype.Browser.IE7 || Prototype.Browser.IE8 || Prototype.Browser.IE9 || Prototype.Browser.IE10) {
+    $j(BrowserNag.initialize);
+  }
+</script>
+
+
+  <!-- #headerwrap -->
+  <div id="headerwrap">
+
+    
+      <!--============ #header ============-->
+      <div id="header">
+        <div id="header_logo">
+  <h3 id="playing">&hellip;</h3>
+  <h2 title="Kongregate">
+    <a class="spritesite spriteall" title="Kongregate" id="kong_header_link" href="http://www.kongregate.com/">Kongregate</a>
+  </h2>
+</div>
+
+        <div id="new_nav_wrapper">
+  
+<!-- Welcome Start -->
+<div id="welcome">
+
+  <!-- User Welcome Start -->
+  <ul id="nav_welcome_box" class="welcome-user" style="display:none">
+    <!-- Mini Profile Start -->
+    <li class="profile profile_control">
+      <a href="/accounts/Guest">
+        <span id="small_avatar_placeholder"></span>
+        <span class="username_holder"></span> <span id="mini-profile-level"></span>
+</a>    </li>
+    <!-- Mini Profile End -->
+    <!-- Playlist Start -->
+    <li class="playlist">
+      <a class="play-laters-count-link" href="/my_playlist">
+        <span aria-hidden="true" class="kong_ico mrs">p</span><span class="play-laters-count">0</span>
+</a>    </li>
+    <!-- Playlist End -->
+    <!-- Favorites Start -->
+    <li class="favorites">
+      <a class="favorites-count-link" href="/accounts/Guest/favorites">
+        <span aria-hidden="true" class="kong_ico mrs">l</span><span class="favorites-count">0</span>
+</a>    </li>
+    <!-- Favorites End -->
+    <!-- Friends Start -->
+    <li class="friends_online friends">
+      <a class="friends_online_link" href="/accounts/Guest/friends">
+        <span aria-hidden="true" class="kong_ico mrs">f</span><span class="friends_online_count"></span>
+</a>    </li>
+    <!-- Friends End -->
+    <!-- Messages Start -->
+    <li class="messages">
+      <a class="my-messages" id="my-messages-link" href="/accounts/Guest/messages">        <span id="profile_bar_messages">
+          <span aria-hidden="true" class="kong_ico">m</span><span id="profile_control_unread_message_count" class="msg-count"></span>
+        </span>
+</a>    </li>
+    <!-- Messages End -->
+    <!-- Settings Start -->
+    <li class="settings profile_control">
+      <span aria-hidden="true" class="kong_ico">s</span>
+      <ul>
+        <li>
+          <a href="/accounts/Guest/edit">Settings</a>
+        </li>
+        <li>
+          <a id="welcome_box_sign_out" href="#" onclick="signoutFromSite(); return false;">Sign Out</a>
+          <script>
+//<![CDATA[
+            function signoutFromSite() {
+              $('welcome_box_sign_out_indicator').show();
+              $('welcome_box_sign_out').hide();
+
+              var fb_uid = active_user.getAttributes().facebook_uid,
+                  fb_auth_response = fb_uid && FB.getAuthResponse();
+
+              if (fb_auth_response && fb_auth_response.userID == fb_uid) {
+                FB.logout(function() { signoutFromSite(); });
+                return false;
+              }
+
+              new Ajax.Request("/session", {
+                method: 'delete',
+                onComplete: function(request) {
+                  var newLoc = request.responseJSON.path;
+
+                  if (newLoc != document.location) {
+                    document.location = newLoc;
+                  } else {
+                    document.location.reload();
+                  }
+                }
+              });
+
+              return false;
+            }
+
+//]]>
+</script>          <span id="welcome_box_sign_out_indicator" class="spinner spinner_inverse" style="display:none" title="loading&hellip;">&#8203;</span>
+        </li>
+      </ul>
+    </li>
+    <!-- Settings End -->
+  </ul>
+  <!-- User Welcome End -->
+
+  <!-- Guest Welcome Start -->
+  <div id="guest_user_welcome_content" class="welcome-guest regtextSml" style="display:none;">
+    <form id="nav_sign_in" onsubmit="if(window.DynamicFrameTarget){ new DynamicFrameTarget({form: this, callback: user_status.sessionStatus});}" action="https://www.kongregate.com/session" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bmGZ5F1lEChaiOfeSLeiROoVaqDC/eFbuVkEMpAFXPS1c0a0MKYX7XYjrqT0Ah00IN00WQlo205UL0Jfseo6kg==" />
+      
+      <input type="hidden" name="from_welcome_box" id="from_welcome_box" value="true" />
+      <a title="Sign in with Facebook" class="facebook_signin_small sprite_facebook mrs" onclick="new FacebookAuthenticator({}); return false;" href="#">Sign in</a>
+        <strong><a class="js-activate-inline-registration" href="#">Register</a></strong>
+      or
+      <label for="welcome_username_label">Sign in:</label>
+      <span class="fields">
+        <span class="field">
+          <label id="welcome_username_label" for="welcome_username" class="text_label" style="display:none;">Username or email</label>
+          <input type="text" name="username" id="welcome_username" value="" title="Username or email" tabindex="3" class="text_field" />
+        </span>
+        <span class="field">
+          <label id="welcome_password_label" for="welcome_password" class="text_label" style="display:none;">Password</label>
+          <input type="password" name="password" id="welcome_password" value="" title="Password" tabindex="4" class="text_field" />
+        </span>
+        <input type="submit" value="Sign In" tabindex="5" id="welcome_box_sign_in_button" class="submit spriteall spritesite" onclick="try{}catch(e){};if(!this.elem_welcome_box_sign_in_button){this.elem_welcome_box_sign_in_button=$(&#39;welcome_box_sign_in_button&#39;);this.spin_welcome_box_sign_in_button=$(&#39;welcome_box_sign_in_button_spinner&#39;);this.restore=function(t){return function(){t.elem_welcome_box_sign_in_button.show();t.spin_welcome_box_sign_in_button.hide();Event.stopObserving(window, &#39;unload&#39;, t.restore);}}(this);}this.elem_welcome_box_sign_in_button.hide();this.spin_welcome_box_sign_in_button.show();Event.observe(window, &#39;unload&#39;, this.restore);" /><span id="welcome_box_sign_in_button_spinner" class="spinner spinner_inverse" style="display:none" title="loading&hellip;">&#8203;</span>
+        <span id="remember_holder" style="display:none;">
+          <input type="checkbox" name="remember_me" id="welcome_remember_me" value="true" class="imgMini" tabindex="6" checked="checked" /> <label for="welcome_remember_me" id="welcome_remember_label" class="bd">Remember me</label>
+        </span>
+        <span id="forgot_holder" style="display:none;">
+          <a class="password_recovery" tabindex="7" href="#" onclick="active_user.activatePasswordRecovery();; return false;">Forgot password?</a>
+        </span>
+      </span>
+</form>  </div>
+  <!-- Guest Welcome End -->
+
+</div>
+<!-- Welcome End -->
+
+
+  <ul class="main_navigation">
+    <!-- Start Games -->
+<li id="main_nav_games" class="main_nav_item guest">
+  <a class="main_nav_top_item" href="/games">Games</a>
+  <div class="main_nav_menu">
+    <div class="main_nav_menu_inner">
+      <!-- Categories Start -->
+      <dl id="main_nav_games_categories" class="main_nav_category mrl">
+        <dt class="main_nav_category_title pbs">Categories</dt>
+        <dd class="mtm">
+          <ul class="main_nav_category_list">
+            <li class="featured"><a href="/top-rated-games">Top Rated</a></li>
+            <li><a href="/action-games">Action</a></li>
+            <li><a href="/multiplayer-games">Multiplayer</a></li>
+            <li class="featured"><a href="/top-rated-games?sort=newest">Hot New</a></li>
+            <li><a href="/mmo-games">MMO</a></li>
+            <li><a href="/adventure-rpg-games">Adventure &amp; RPG</a></li>
+            <li class="featured"><a href="/my_favorites">My Favorites</a></li>
+            <li><a href="/strategy-defense-games">Strategy &amp; Defense</a></li>
+            <li><a href="/shooter-games">Shooter</a></li>
+            <li><a href="/upgrades-games">Upgrades</a></li>
+            <li><a href="/tower-defense-games">Tower Defense</a></li>
+            <li><a href="/sports-racing-games">Sports/Racing</a></li>
+            <li><a href="/zombie-games">Zombie</a></li>
+            <li><a href="/5-minute-games">MMO</a></li>
+            <li class="more"><a href="/games">More Categories</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <!-- Categories End -->
+    </div>
+  </div>
+</li>
+<!-- End Games -->
+
+    <!-- Start Achievements -->
+<li id="main_nav_achievements" class="main_nav_item guest">
+  <a class="main_nav_top_item" href="/badges">Achievements</a>
+  <div class="main_nav_menu">
+    <div class="main_nav_menu_inner">
+      <!-- Badges Start -->
+      <dl id="main_nav_achievements_badges" class="main_nav_category mrl">
+        <dt class="main_nav_category_title pbs">Badges</dt>
+        <dd class="mtm">
+          <ul class="main_nav_category_list">
+            <li><a href="/recommended-badges">Recommended for Me</a></li>
+            <li><a href="/badges?category=action">Action Badges</a></li>
+            <li><a href="/badges?sort=least_awarded">Rarest Badges</a></li>
+            <li><a href="/badges?category=sports-racing">Racing Badges</a></li>
+            <li><a href="/badges?filter_by=unearned&amp;sort=easiest">Easiest Unearned</a></li>
+            <li><a href="/badges?category=puzzle">Puzzle Badges</a></li>
+            <li><a href="/badges?sort=newest">Newest Badges</a></li>
+            <li class="more"><a href="/badges">All Badges</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <!-- Badges End -->
+      <!-- Quests Start -->
+      <dl id="main_nav_quests" class="main_nav_category">
+        <dt class="main_nav_category_title pbs">Quests</dt>
+        <dd class="mtm">
+          <ul class="main_nav_category_list">
+            <li><a href="/badge_quests/your_first">All Quests</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <!-- Quests End -->
+    </div>
+  </div>
+</li>
+<!-- End Achievements -->
+
+    <!-- Start My Kong -->
+<li id="main_nav_mykong" class="main_nav_item guest">
+  <a class="main_nav_top_item" href="/community">My Kong</a>
+  <div class="main_nav_menu">
+    <div class="main_nav_menu_inner">
+      <!-- Account Info Start -->
+      <dl id="main_nav_mykong_activity" class="main_nav_category mrl">
+        <dt class="main_nav_category_title pbs">
+          Trending with Friends
+        </dt>
+        <dd id="main_nav_activity_upsell" class="mtm">
+          <p>
+            <strong>
+              Activity Feed
+            </strong>
+            </p>
+          <p class="media regtextLrg">
+            <span class="img kong_ico" aria-hidden="true">g</span>
+            <span class="bd">
+              <a href="/accounts/new">Register</a> or <a class="js-activate-inline-login" href="#">sign in</a> to start receiving activity updates from around Kongregate!
+            </span>
+          </p>
+        </dd>
+      </dl>
+      <!-- Account Info End -->
+      <!-- Forums Start -->
+      <dl id="main_nav_mykong_forums" class="main_nav_category">
+        <dt class="main_nav_category_title pbs">Forums</dt>
+        <dd class="mtm">
+          <ul class="main_nav_category_list">
+            <li><a href="/forums/1-kongregate">Kongregate</a></li>
+            <li><a href="/forums/games">Game Forums</a></li>
+            <li><a href="/forums/3-general-gaming">General Gaming</a></li>
+            <li><a href="/forums/7-technical-support">Technical Support</a></li>
+            <li><a href="/forums/4-game-programming">Game Programming</a></li>
+            <li><a href="/forums">All Forums</a></li>
+          </ul>
+        </dd>
+      </dl>
+      <!-- Forums End -->
+    </div>
+  </div>
+</li>
+<!-- End My Kong -->
+
+    <!-- Start Dev -->
+<li id="main_nav_dev" class="main_nav_item">
+  <a class="main_nav_top_item" href="http://developers.kongregate.com">Dev</a>
+  <div class="main_nav_menu">
+    <div class="main_nav_menu_inner">
+      <ul class="nav--dev-links">
+        <li>
+          <h3>Host Your Game on Kongregate</h3>
+          <p class="mbm">An open platform for all web games! Get your games in front of thousands of users while monetizing through ads and virtual goods.</p>
+          <p>Find <a href="https://docs.kongregate.com/">documentation and support</a> to get you started.</p>
+          <a class="nav--dev-btn" href="/games/new">Upload Your Game</a>
+        </li>
+        <li>
+          <h3>Our Publishing Program</h3>
+          <p class="mbm">With our publishing program, we can help get your games to millions of users on multiple platforms!<p>
+          <p>Also check our <a href="http://developers.kongregate.com/blog">developers blog</a>, where we publish new content weekly on game/data analysis, engineering and design insights, and more.</p>
+          <a class="nav--dev-btn" href="http://developers.kongregate.com">Visit Our Developers Site</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</li>
+<!-- End Dev -->
+
+    <!-- #search -->
+<li class="search" id="search_bar">
+<form onsubmit="$(&#39;nav_search_submit_button&#39;).onclick();" id="search" class="search" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />    <dl>
+      <dt><div style="position:relative" id="game_title_chooser_outer"><input type="text" name="q" id="game_title" value="" tabindex="1" class="hintable game_title" title="Search games &amp; more" /><div style="display:none;" id="game_title_snapshot" class="game_chooser_selected"></div><div style="z-index: 20000;" id="game_title_auto_complete" class="game_chooser"></div><script>
+//<![CDATA[
+var game_title_auto_completer=new Ajax.CachedAutocompleter("game_title","game_title_auto_complete","/games/search?site_search=true",{"paramName":"search","method":"get","onShow":function(element,update){update.show();},"onHide":function(element,update){update.hide();},"minChars":3,"noAutoDefault":false,"forceActivation":true,"frequency":0.1,"callback":function(element,value){return game_indicator(element,value)},"afterUpdateElement":function(element,value){(function(m) { $("nav_search_submit_button").onclick(); game_title_auto_completer.submitted = true; document.location = m.url; })(eval('(' + value.down('.metadata').innerHTML + ')'));}});$('game_title').up('form').observe('submit', function() { if ('' == $('game_title').value) { $('search_game_id').value = ''; }});
+//]]>
+</script></div></dt>
+    <dd><input type="submit" value="Search" id="nav_search_submit_button" tabindex="2" class="spritesite" onclick="try{}catch(e){};if(!this.elem_nav_search_submit_button){this.elem_nav_search_submit_button=$(&#39;nav_search_submit_button&#39;);this.spin_nav_search_submit_button=$(&#39;nav_search_submit_button_spinner&#39;);this.restore=function(t){return function(){t.elem_nav_search_submit_button.show();t.spin_nav_search_submit_button.hide();Event.stopObserving(window, &#39;unload&#39;, t.restore);}}(this);}this.elem_nav_search_submit_button.hide();this.spin_nav_search_submit_button.show();Event.observe(window, &#39;unload&#39;, this.restore);" /><span id="nav_search_submit_button_spinner" class="spinner spinner_inverse" style="display:none" title="loading&hellip;">&#8203;</span></dd>
+  </dl>
+  <script>
+//<![CDATA[
+
+    game_title_auto_completer.hide = game_title_auto_completer.hide.wrap(
+      function(hide) {
+        Shim.hide('game_title_auto_completer');
+        hide();
+        $$('.hide_ad_always').invoke('show');
+      }
+    );
+
+    game_title_auto_completer.show = game_title_auto_completer.show.wrap(
+      function(show) {
+        show();
+        $$('.hide_ad_always').invoke('hide');
+        Shim.shimElement(this.update, 'game_title_auto_completer');
+    });
+
+    game_title_auto_completer.options.onComplete = game_title_auto_completer.options.onComplete.wrap(function(original, args){
+      original(args)
+      this.index = this.entryCount-1;
+      this.render()
+    }.bind(game_title_auto_completer))
+
+    Event.observe(game_title_auto_completer.element, 'keyup', function(event){
+      if(!this.active && !this.submitted && event.keyCode == Event.KEY_RETURN){
+        document.location = "/search?q=" + $('game_title').getValue()
+        event.stop()
+      } else if(event.keyCode == Event.KEY_BACKSPACE){
+        this.index = this.entryCount-1;
+        this.render()
+      }
+    }.bind(game_title_auto_completer))
+
+    game_title_auto_completer.options.noAutoDefault = true
+
+    function game_indicator(element,value) {
+      if (!game_title_auto_completer.active) {
+        $$('.game_chooser').first().update($('game_chooser_loading').innerHTML);
+        $$('.game_chooser').first().show();
+        $$('.game_chooser li.all').first().observe('click', function(e) { $('#search').submit(); });
+        $$('.hide_ad_always').invoke('hide');
+      }
+      return value;
+    }
+
+//]]>
+</script>  <div id="game_chooser_loading" style="display:none"><ul>
+  <li class='loading'><div><span class="spinner">​</span></div></li>
+    <li class="all"><a href="#" onclick="return false;"><span style="display:none"></span><span class="informal"><strong>see more results &raquo;</strong>
+        <span class="metadata" style="display:none;">{"url":"/search"}</span>
+        <div class="clear"></div></span></a>
+    </li>
+</ul>
+<span style="display:block;clear:both;"></span>
+</div>
+</form></li><!-- /#search -->
+
+  </ul>
+</div>
+
+      </div><!--============ /#header ============-->
+  </div><!-- /#headerwrap -->
+  <!-- #primarywrap -->
+  <div id="primarywrap" class="divider" >
+    <div id="tr8n_language_selector_trigger"></div>
+    <table id="primarylayout" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td id="skin_left_of_game"></td>
+        <td class="maincontent">
+          
+          <div id="global"></div>
+          <div id="user_progress_bar_container" class="user_progress_pod_outer" style="display:none;">
+  <div class="user-progress">
+    <p class="progress-box">
+      <a id="progress_bar_hide_control" class="close" href=""><span class="icon sprite_new_user textreplace">X</span></a>
+      <span class="text">Complete Initialization <strong>for <a href="/kreds" target="_blank">10 kreds</a></strong></span>
+      <span class="kongbot sprite_new_user"></span>
+      <span id="user_progress_percentage_number" class="percent"></span>
+      <span class="progress">
+        <span id="user_progress_bar" class="bar"></span>
+        <span id="user_progress_preview" class="preview">
+          <span class="tooltip">15%</span>
+          <span class="preview-bar"></span>
+        </span>
+        <span id="user_progress_reward_image" class="reward sprite_new_user"></span>
+      </span>
+    </p>
+    <div id="user_progress_bar_steps_container" class="steps">
+      <a id="progress_bar_previous_control" class="prev" href="">&laquo; Previous</a>
+      <ul id="user_progress_bar_steps" class="step-list"></ul>
+      <a id="progress_bar_next_control" class="next" href="">Next &raquo;</a>
+    </div>
+    <div id="user_progress_bar_complete_message" class="congrats-msg">
+      <p><strong>Congratulations!</strong> You&rsquo;ve completed your Kongregate account!</p>
+      <p>Keep exploring Kongregate with more <a href="/badges" target="_blank">badges</a> and <a href="/top-rated-games?sort=newest" target="_blank">games</a>!</p>
+    </div>
+  </div>
+  <p id="progress_never_show_again_message" class="remove regtext" style="display:none;">
+    Hide the progress bar forever?
+    <a id="progress_never_show_again_confirm" class="remove-link" href="">Yes</a>
+    <a id="progress_never_show_again_deny" class="remove-link" href="">No</a>
+  </p>
+  <script type="text/html" id="user_progress_bar_step_template">
+    <li id="#{icon_id}_step" class="#{icon_id}-step step"><a class="user-step-link" href="#{link_path}"><span class="step-inner"><span class="sprite_new_user icon"></span>#{link_content}</span></a></li>
+  </script>
+</div>
+
+              <!--============ #feature ============-->
+  <div id="feature">
+
+            
+
+      <div id="main">
+  <h1>Kongregate Privacy Policy</h1>
+  <p>If you&rsquo;re reading this, it&rsquo;s because you want to know: (1) what information we, Kongregate, Inc., are collecting on www.kongregate.com, from Kongregate mobile games, or through social media sites such as Facebook; (2) what we&rsquo;re doing with the information we collect; and (3) what your options are related to the information we collect. If you have any questions or concerns after reading this, please email us at <a href="javascript:util.openURL('mailto:support@kongregate.com')">support@kongregate.com</a>.</p>
+  <p>This Privacy Policy applies to the Kongregate website located at www.kongregate.com (&ldquo;Site&rdquo;), all mobile games published by Kongregate (&ldquo;Mobile Applications&rdquo;), and Kongregate games that can played through social media sites such as Facebook (&ldquo;SM Games&rdquo;). It also applies to information we collect about you offline, such as in telephone calls or through email correspondence.</p>
+  <p>By accessing the Site and/or the Mobile Applications, or playing SM Games, you agree to and accept this Privacy Policy. This Privacy Policy is effective as of December 2, 2015. In the future, our Site, Mobile Applications, and/or SM Games practices may change, and if appropriate, we will revise this Privacy Policy to reflect the changes, and you agree that the information we collect will be subject to the Privacy Policy in effect at the time we collect that information. We&rsquo;ll post the updated version here and may contact you with notices concerning our Privacy Policy. In addition, we suggest that you review this Privacy Policy periodically, as it may be updated from time to time.</p>
+  <h2>Information We Collect</h2>
+  <p><strong>Information You Provide on Site:</strong> You provide certain personally identifiable information (such as your name and email address) to Kongregate when choosing to participate in various activities on the Site such as chat, posting messages in the games comment section or in our forums, sending feedback, entering contests, responding to surveys, or subscribing to newsletters or other mailing lists. Such information, and additional information (such as address and credit or debit card information) may be collected when uploading a game, or making a purchase.</p>
+  <p>You may choose to disclose information about yourself in our online chat rooms, forums, game comments or in creating user "profiles". Information that you disclose in these areas is public information, and will be accessible to anyone who uses our Site. However, you may choose to have your profile page be public or private. In the case where you chose to make your profile page private, the information there (including challenges won, "my friends" list, etc.) will only be visible to you.</p>
+  <p><strong>Other Site Information We Track:</strong> The Site uses passive tracking technologies to log information such as IP address, browser type, pages visited, and Site usage (for example: what pages are accessed, how often, referring/exit pages and URLs). We may also employ "cookies" or similar technologies such as web beacons, match scripts, or pixel tags that provide additional functionality to the Site and help us analyze Site usage more accurately. You can set your browser to reject cookies, but if you do, some features on our Site will not function normally.</p>
+  <p><strong>Invite a Friend:</strong> You may invite friends to join the Kongregate community by using the "invite a friend" feature. You will be required to submit your name and email address, as well as their name and email address. Your friend&rsquo;s personal information that you submit in this feature will be used only to send the email you request, and will not be otherwise stored or maintained by Kongregate.</p>
+  <p><strong>Information You Provide via Mobile Applications:</strong> You may have the option to link your Mobile account to your Site account in certain Mobile Applications. This will allow you to participate in content that crosses between the Site and Mobile games, such as Kongregate level points and badges. If you choose this linking option the information we receive via the Site may also apply to Mobile Applications, and information we receive via your Mobile account may also apply to your usage of the Site and your Site account.</p>
+  <p><strong>Information We Receive Through Mobile Applications:</strong> If you play a Kongregate game on a mobile device (such as your phone or tablet) we can collect mobile device identifiers that can include things like your MAC address and IP address. We may also collect information such as device name and type, operating system, telephone number, country, and any other information you choose to provide such as your game character name or e-mail address. Additionally, we may access third party information such as your phone or Facebook contacts provided you allow your device to connect to services and you have given the application permission to access this information. We may only collect this information with your authorization and according to the rules you have established within your device permissions.</p>
+  <p><strong>Mobile Application Notifications:</strong> With your consent, Kongregate mobile applications may send push notifications to your mobile device to provide game information, news, updates, or other relevant information. You can manage these updates from the ‘options’ or ‘settings’ page from within the Mobile Application or from your device control panel that manages these notifications.</p>
+  <p><strong>Information We Receive From Social Media Sites:</strong> As previously noted, you can play Kongregate games through social media sites such as Facebook. When you play these SM Games, backend system vendors such as PlayFab (https://playfab.com/privacy/) may collect certain pieces of information from you such as player IDs, session information, and purchase data, as well as personal information including email address, gender, and birthday and/or age range. This collection of information is governed by backend system vendors’ and Facebook’s privacy practices. You should read those policies carefully before playing SM Games. Backend system vendors may share with us information it collects when you play SM Games on Facebook such as player IDs, session information, and purchase data, as well as personal information including email address, gender, and birthday and/or age range.</p>
+  <p>The information that backend system vendors receive about you when you play SM Games may also depend on your privacy and/or other settings you have with Facebook. If you want more details about what information Facebook shares via games on its platform, you should review Facebook’s policies.</p>
+  <p><strong>Do Not Track:</strong> Do Not Track (DNT) is a privacy preference that users can set in their web browsers allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals, and, therefore, Kongregate does not recognize DNT.</p>
+  <h2>How We Use This Information</h2>
+  <p>We use the information we collect from the Site, Mobile Applications and SM Games to respond to your requests and provide customer service, to remit revenue share payments, process credit card payments, let you know about new games and other news from Kongregate, ask for your input and feedback on what we are doing, provide personalized services and recommendations, to make certain offers available that we believe may be of interest to you, and as may otherwise be described in this Privacy Policy or at the time that we collect information from you.</p>
+  <p>We use both your personally identifiable information and certain non-personally identifiable Site usage data to improve the quality and design of the Site, Mobile Applications, and SM Games, to make certain offers available that we believe may be of interest to you, and to create new features, promotions, and services by storing, tracking, and analyzing user preferences and trends.</p>
+  <p>We may also combine the information you submit to us with information we have collected from you in other forums, such as through emails or offline, or with publicly available information or information we obtain from third parties. When so combined, we or our business partners may use the combined information to make offers to you that we believe may be of interest to you.</p>
+  <h2>When We Might Disclose Information/Other Disclosures</h2>
+  <p>As part of our regular business conduct, we may share information with companies or individuals providing services or acting on our behalf, such as companies providing technological or fulfillment services or acting as our marketing partners. In the event that there is a change of corporate ownership, the new owners will of course be provided with our files, including information you have submitted. We will provide information in response to subpoenas, and we also will share information with government officials, including law enforcement officials or court authorities, in order to initiate or cooperate with any law enforcement or governmental investigation.</p>
+  <p>Unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not share personally identifiable information that we have collected (such as name or email address) with other, third-party companies for their own commercial or marketing purposes.</p>
+  <p>If you play SM Games through social media sites such as Facebook, your social media &ldquo;friends,&rdquo; other players, or other types of connections may, depending on your social media privacy settings, be able to: (1) see certain personal information about you; (2) view your game activity; and/or (3) communicate with you or send you &ldquo;friend&rdquo; or other connection requests through the social media service.</p>
+  <h2>Links and Third Parties</h2>
+  <p>From time to time we may include on the Site, Mobile Applications and/or SM Games links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.</p>
+  <p>We sometimes work with third parties to add features, advertisements, or offers to our Site, Mobile Applications, or SM Games. These third parties may place cookies on your browser when you visit certain pages, or collect cookies that they have previously placed, along with the URL of the page you visited. We may have to pass these providers a non-personally identifiable user number specific to your Mobile Application to properly credit your account. Additionally, the Site, Mobile Applications, and/or SM Games may utilize third party tracking services to anonymously analyze your usage activity, which will be used to improve the Site, Mobile Application, and SM Games experiences. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This Privacy Policy does not cover those third parties’ use of data.</p>
+  <p>To personalize the Site, and to simplify the registration process, we give you the option to link your account with Facebook. When you link your account, Facebook may share data about you with us, and we may share information about you with Facebook. In addition, Kongregate users who are your friends on Facebook will be shown your Kongregate username if you have both linked your Facebook accounts. For more detail on how this feature works, please see our <a href="javascript:util.openURL('https://kong.zendesk.com/?external-link=true')">FAQ</a>.</p>
+  <h2>Security</h2>
+  <p>We strive to maintain the security of your personal information through a variety of security measures. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government&rsquo;s website at <a href="javascript:util.openURL('http://www.onguardonline.gov?external-link=true')" target="_blank">www.onguardonline.gov</a>.</p>
+  <h2>Children’s Privacy</h2>
+  <p>The Site, Mobile Applications, and SM Games are designed for and directed at people 18 years of age or older. We do not knowingly collect information from children under 13. If Kongregate learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will terminate access to the account immediately and will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at <a href="javascript:util.openURL('mailto:support@kongregate.com')">support@kongregate.com</a>.</p>
+  <p>For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites:</p>
+  <ul class="pll mls">
+    <li class="mbs"><a href="javascript:util.openURL('http://www.ftc.gov/privacy/privacyinitiatives/childrens.html?external-link=true')" target="_blank">www.ftc.gov/privacy/privacyinitiatives/childrens.html</a></li>
+    <li class="mbs"><a href="javascript:util.openURL('http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm?external-link=true')" target="_blank">www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm</a></li>
+    <li><a href="javascript:util.openURL('http://www.onguardonline.gov/features/feature-0002-featured-info-parents?external-link=true')" target="_blank">www.onguardonline.gov/features/feature-0002-featured-info-parents</a></li>
+  </ul>
+  <h2>Right to Remove Posted Information — California Minors</h2>
+  <p>If you are under 18 years of age, reside in California, and have a registered account on the Site, Mobile Applications, or through the SM Games, you have the right to request removal of unwanted information that you publicly post on the Site, Mobile Applications, or through the SM Games. To request removal of such information, you can contact Kongregate using the email address associated with your account at <a href="javascript:util.openURL('mailto:support@kongregate.com')">support@kongregate.com</a> stating that you reside in California. Upon receiving such a request, Kongregate will make sure that the information is not publicly available on our Site, Mobile Applications, or through our SM Games, but the information may not be completely or comprehensively removed from all Kongregate systems. Please note that any removal of content by Kongregate does not ensure or guarantee complete or comprehensive removal of the content in all places. The content may have been shared or reposted by other parties, or federal or state law may require maintenance of the content or information. There may be places, especially if the content is posted on a social media site, that Kongregate has no control over and therefore cannot remove the content.</p>
+  <h2>Your Options</h2>
+  <p>If you are receiving Kongregate email advertisements and no longer wish to receive those email messages, you may opt out at the time you receive the message by following the instructions in that email. Please allow ten (10) days for your request to be processed.</p>
+  <p>If you wish to review, edit or delete information you have provided to Kongregate, you may access your account information on the Site at any time by clicking on your username at the top of the Site homepage.</p>
+  <p>If you wish to edit or manage the information Kongregate receives from social media sites, you need to follow the applicable instructions at the specific social media site. For example, Facebook’s relevant policy in this regard can be found here: https://www.facebook.com/privacy/explanation. Please note that once Kongregate receives any personal information from a social media site as a result of a user playing SM Games, it will be stored and handled in accordance with this Privacy Policy.</p>
+  <p>If you do not agree with the privacy practices described in this Privacy Policy, it may be best to limit your level of interaction with our Site, Mobile Applications, and/or SM Games, which could include simply not providing us with personal information. While this will limit the services that our Site, Mobile Applications, and/or SM Games are able to provide (chat, friends lists, challenges, etc.), most of the games will remain playable. This option may be best for those who do not wish to provide the mandatory information required to set up an account.</p>
+  <p>For questions or concerns regarding the use of personal information you submit to us, please contact us at <a href="javascript:util.openURL('mailto:support@kongregate.com')">support@kongregate.com</a>.</p>
+  <p>Kongregate <br/>450 Sansome Street<br/>12th Floor <br/> San Francisco, CA 94111</p>
+</div>
+
+
+      <div id="registration_form_holder" class="baseform" style="display:none;">
+        <form id="registration_form" onsubmit="if(window.DynamicFrameTarget){ new DynamicFrameTarget({form: this, callback: function(response) { if (response.success) { user_status.accountCreationSuccess(response) } else { user_status.accountCreationFailure(response)  } }});}" class="new_user" action="https://www.kongregate.com/accounts" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="bmGZ5F1lEChaiOfeSLeiROoVaqDC/eFbuVkEMpAFXPS1c0a0MKYX7XYjrqT0Ah00IN00WQlo205UL0Jfseo6kg==" />
+    
+
+
+
+
+<div class="email_field form_block">
+  <div class="form_block" id="registration_form_email_address_block">
+  <div class="label_block" id="registration_form_email_address_label_block">
+    <label id="registration_form_email_address_label" for="registration_form_email_address">Email Address</label>
+  </div>
+  <div id="registration_form_email_address_control_block" class="input_block"><input id="registration_form_email_address" type="text" name="user[email_address]" /></div>
+  <div class="error_block error" id="registration_form_email_address_error_block">
+    
+  </div>
+</div>
+
+  <div id="registration_form_opt_in_block" class="checkbox">
+  <div class="control_block" id="registration_form_opt_in_control_block">
+    <input name="user[opt_in]" type="hidden" value="0" /><input id="registration_form_opt_in" tabindex="-1" class="check_box" type="checkbox" value="1" checked="checked" name="user[opt_in]" />
+    <label id="registration_form_opt_in_label" class="check_box_label" for="registration_form_opt_in">Send me updates</label>
+  </div>
+  <div class="error_block error" id="registration_form_opt_in_error_block">
+  </div>
+</div>
+
+</div>
+<div class="form_block" id="registration_form_password_block">
+  <div class="label_block" id="registration_form_password_label_block">
+    <label id="registration_form_password_label" for="registration_form_password">Password</label>
+    <em id="registration_form_password_explanation_block">(min. 5 characters)</em>
+  </div>
+  <div id="registration_form_password_control_block" class="input_block"><input id="registration_form_password" type="password" name="user[password]" /></div>
+  <div class="error_block error" id="registration_form_password_error_block">
+    
+  </div>
+</div>
+
+<div class="form_block" id="registration_form_birth_date_block">
+  <div class="label_block" id="registration_form_birth_date_label_block">
+    <label id="registration_form_birth_date_label" for="registration_form_birth_date">Date of Birth</label>
+  </div>
+  <div id="registration_form_birth_date_control_block" class="input_block"><select name="user[birth_date(2i)]" class="registration_form_date_select">
+<option value=""></option>
+<option value="1">January</option>
+<option value="2">February</option>
+<option value="3">March</option>
+<option value="4">April</option>
+<option value="5">May</option>
+<option value="6">June</option>
+<option value="7">July</option>
+<option value="8">August</option>
+<option value="9">September</option>
+<option value="10">October</option>
+<option value="11">November</option>
+<option value="12">December</option>
+</select>
+<select name="user[birth_date(3i)]" class="registration_form_date_select">
+<option value=""></option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+<select name="user[birth_date(1i)]" class="registration_form_date_select">
+<option value=""></option>
+<option value="1940">1940</option>
+<option value="1941">1941</option>
+<option value="1942">1942</option>
+<option value="1943">1943</option>
+<option value="1944">1944</option>
+<option value="1945">1945</option>
+<option value="1946">1946</option>
+<option value="1947">1947</option>
+<option value="1948">1948</option>
+<option value="1949">1949</option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+<option value="2012">2012</option>
+<option value="2013">2013</option>
+<option value="2014">2014</option>
+</select>
+</div>
+  <div class="error_block error" id="registration_form_birth_date_error_block">
+    
+  </div>
+</div>
+
+<div class="form_block" id="registration_form_username_block">
+  <div class="label_block" id="registration_form_username_label_block">
+    <label id="registration_form_username_label" for="registration_form_username">Username</label>
+    <em id="registration_form_username_explanation_block">(4-16 characters)</em>
+  </div>
+  <div id="registration_form_username_control_block" class="input_block"><input id="registration_form_username" type="text" name="user[username]" /></div>
+  <div class="error_block error" id="registration_form_username_error_block">
+    
+  </div>
+</div>
+
+
+    <div class="submit_button form_block">
+      <p class="cta-outer"><input type="submit" value="Sign Up" id="registration_form_submit_button" class="btn btn_action" onclick="try{}catch(e){};if(!this.elem_registration_form_submit_button){this.elem_registration_form_submit_button=$(&#39;registration_form_submit_button&#39;);this.spin_registration_form_submit_button=$(&#39;registration_form_submit_button_spinner&#39;);this.restore=function(t){return function(){t.elem_registration_form_submit_button.show();t.spin_registration_form_submit_button.hide();Event.stopObserving(window, &#39;unload&#39;, t.restore);}}(this);}this.elem_registration_form_submit_button.hide();this.spin_registration_form_submit_button.show();Event.observe(window, &#39;unload&#39;, this.restore);" /><span id="registration_form_submit_button_spinner" class="spinner" style="display:none" title="loading&hellip;">&#8203;</span></p>
+      <p class="tos">By clicking &ldquo;Sign Up&rdquo;, you agree to adhere to our <a onclick="window.open(this.href);return false;" href="/pages/terms">Terms of Service</a>.</p>
+    </div>
+</form>
+
+      </div>
+  </div><!--============ /#feature ============-->
+
+        </td>
+        <td id="skin_right_of_game"></td>
+      </tr>
+    </table>
+  </div><!-- /#primarywrap -->
+
+<!--============ #subwrap ============-->
+<div id="subwrap">
+
+  
+    <!-- #secondary -->
+    <div id="secondary">
+
+      
+
+    </div>
+    <!-- /#secondary -->
+
+
+
+  
+  <!--============ #footer ============-->
+  <div id="footer" class="clearfix">
+    <div class="kongregate-logo mbl"><a class="spriteall spritesite kongregate-logo" href="http://www.kongregate.com">Kongregate</a></div>
+<div class="line">
+  <div class="unit size1of2">
+    <div class="prs">
+      <div class="line footer_links">
+        <div class="unit size1of3">
+          <ul>
+            <li>
+              <a href="https://www.facebook.com/kongregate">Be a Facebook Fan</a>
+              <a class="icon" href="https://www.facebook.com/kongregate">
+                <span class="spriteall spritesite facebook_icon"></span>
+</a>            </li>
+            <li>
+              <a href="http://www.twitter.com/kongregate">Follow Us on Twitter</a>
+              <a class="icon" href="http://www.twitter.com/kongregate">
+                <span class="spriteall spritesite twitter_icon"></span>
+</a>            </li>
+            <li><a href="http://www.kongregate.com/pages/about">About Us</a></li>
+            <li><a href="http://www.kongregate.com/feedbacks/new">Contact Us</a></li>
+          </ul>
+        </div>
+        <div class="unit size1of3">
+          <ul class="mhm">
+            <li><a target="_blank" href="https://kong.zendesk.com/hc">Help/FAQ</a></li>
+            <li><a href="http://www.kongregate.com/pages/conduct">Conduct Guidelines</a></li>
+            <li><a href="http://www.kongregate.com/pages/terms">Terms of Service</a></li>
+            <li><a href="http://www.kongregate.com/pages/privacy">Privacy Policy</a></li>
+          </ul>
+        </div>
+        <div class="unit size1of3 lastUnit">
+          <ul>
+            <li><a href="http://www.kongregate.com/games_for_your_site">Games for Your Site</a></li>
+            <li><a href="http://www.kongregate.com/pages/logos-and-branding">Link to Kongregate</a></li>
+            <li><a href="http://www.kongregate.com/pages/jobs">Job Opportunities</a></li>
+            <li><a class="developer_icon spritesite" href="/games/new">Upload your Game</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <dl class="mtl footer_lang_selector" style="display:none;">
+  <dt><strong>Language:</strong></dt>
+    <dd class='selector-locale-fr'><a href="#" data-lang="fr">Français</a></dd>
+    <dd class='selected-locale-fr' style='display:none;'><strong><span class="flag_ico fr_lang spritesite"></span>Français</strong></dd>
+    <dd class='selector-locale-en-US'><a href="#" data-lang="en-US">English</a></dd>
+    <dd class='selected-locale-en-US' style='display:none;'><strong><span class="flag_ico en-US_lang spritesite"></span>English</strong></dd>
+    <dd class='selector-locale-de'><a href="#" data-lang="de">Deutsch</a></dd>
+    <dd class='selected-locale-de' style='display:none;'><strong><span class="flag_ico de_lang spritesite"></span>Deutsch</strong></dd>
+</dl>
+
+<script>
+//<![CDATA[
+  $j( document ).ready(function() {
+      if(active_user.getsNoTranslations()) return;
+
+      Kongregate.languages = [];
+
+        Kongregate.languages.push({'language': 'Français', 'locale': 'fr', 'default': false});
+        Kongregate.languages.push({'language': 'English', 'locale': 'en-US', 'default': true});
+        Kongregate.languages.push({'language': 'Deutsch', 'locale': 'de', 'default': false});
+
+       $j('.footer_lang_selector').show();
+       $j.each(Kongregate.languages, function(index, value){
+        if(active_user.currentLocale() == value.locale) {
+           $j('.selector-locale-' + value.locale).hide();
+           $j('.selected-locale-' + value.locale).show();
+        }
+      });
+
+      $j('[class^="selector-locale"] a').each(function(){
+        var lang = $j(this).data().lang;
+        var origin = $j(location)[0].protocol + "//" + $j(location)[0].host;
+        var pathname = $j(location)[0].pathname;
+        var queryString = $j(location)[0].search;
+        var anchor = $j(location)[0].hash;
+
+        lang = ((lang == 'en-US') ? '' : '/' + lang);
+
+        if (queryString.indexOf('set_locale=true') == -1) {
+          queryString += ((queryString.length > 0) ? '&' : '?') + 'set_locale=true';
+        }
+
+        var processed = false;
+
+         $j.each(Kongregate.languages, function(index, value){
+          if ((!value['default']) && (pathname.indexOf('/' + value.locale) == 0) && (!processed)) {
+            pathname = pathname.substring(('/' + value.locale).length, pathname.length);
+            processed = true;
+          }
+        });
+
+        if (page_data.create_error) {
+          pathname = pathname + '/new';
+        }
+
+        var url = origin + lang + pathname + queryString + anchor;
+
+        this.href = url;
+      });
+  });
+
+//]]>
+</script>
+  </div>
+  <div class="unit size1of2 lastUnit">
+    <div class="plm">
+      <h4 class="h4 mbs"><a href="#" onclick="lightbox.prototype.initializePremiumMembershipPurchase(&#39;footer&#39;); return false;">Kong Plus</a></h4>
+      <div class="media mbm pbm">
+        <a class="spriteall spritesite large_kong_plus_icon img mts" data-test="footer-kplus-ico" href="#" onclick="lightbox.prototype.initializePremiumMembershipPurchase(&#39;footer&#39;); return false;">Kong Plus</a>
+        <p class="bd">
+          Get more out of your Kongregate experience.  Take advantage of ad-free gaming, cool profile skins, automatic beta access, and private chat with Kong Plus.
+          <a href="#" onclick="lightbox.prototype.initializePremiumMembershipPurchase(&#39;footer&#39;); return false;">Learn more &raquo;</a>
+        </p>
+      </div>
+      <h4 class="powerup_rewards_upsell h4 mbs"><a href="http://www.kongregate.com/poweruprewards">Score PowerUp Rewards&reg; on Kongregate</a></h4>
+      <div class="media mbm pbm powerup_rewards_upsell">
+        <a class="spriteall spritesite pur_icon img mts" href="http://www.kongregate.com/poweruprewards">Score PowerUp Rewards&reg; on Kongregate</a>
+        <p class="bd">Did you know you can now score GameStop PowerUp Rewards&reg; Points on Kongregate?
+          <a href="http://www.kongregate.com/poweruprewards">Find out how &raquo;</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<a class="dev-footer-upsell" href="http://developers.kongregate.com">
+  <span class="logo textreplace">Kongregate Develoeprs</span>
+  <span class="message">Are you a game developer? Visit our <em>Developers Site</em> where you can find documentation on our APIs and more information about publishing opportunities to further promote your game.</span>
+  <span class="link textreplace">Learn More</span>
+</a>
+<ul class="footer_sub clearfix">
+  <li class="gamestop_network"><a class="mrl spriteall spritesite" onclick="window.open(this.href);return false;" href="http://www.gamestop.com/">The GameStop Network</a></li>
+  <li class="gamestop_link"><a class="mrl spriteall spritesite" onclick="window.open(this.href);return false;" href="http://www.gamestop.com/">GameStop.com</a></li>
+  <li class="game_informer_link"><a class="mrl spriteall spritesite" onclick="window.open(this.href);return false;" href="http://www.gameinformer.com/">Game Informer</a></li>
+  <li class="kongregate_copyright"><span>&copy; 2017 </span><a class="spriteall spritesite" href="http://www.kongregate.com">Kongregate</a></li>
+
+</ul>
+
+  </div>
+  <!--============ /#footer ============-->
+
+</div><!--============ /#subwrap ============-->
+<div id="overlay" style="display: none;"></div>
+<div id="lightbox" class="done" style="display: none;">
+  <div id="lbLoadMessage">
+    <p id="lightbox_loading_cancel_link">
+      <a href="#" onclick="lightbox.prototype.deactivate(); return false;">X</a>
+    </p>
+    <p>
+      Loading <span id="lightbox-indicator" class="spinner" style="display:none" title="loading&hellip;">&#8203;</span>
+    </p>
+  </div>
+</div>
+<script>
+//<![CDATA[
+  try{
+    window.lightboxSecureProtocol = "https://";
+  }catch(e){}
+
+//]]>
+</script><script type="text/html" id="kongregate_lightbox_wrapper_template">
+<div id="kongregate_lightbox_wrapper">
+  <div class="header_bar">
+    <h3>Kongregate</h3>
+    <a onclick="lightbox.prototype.deactivate({success:top.kredPurchaseSuccess});return false" class="close_link" href="/pages/privacy">close &#215;</a>
+  </div>
+  <div id="kongregate_lightbox_iframe_loading_spinner"><span class="spinner spinner_big">loading</span></div>
+  <iframe id="kongregate_lightbox_wrapper_iframe" src="#{iframe_src}" frameborder="0" onload="$('kongregate_lightbox_iframe_loading_spinner').hide();"></iframe>
+</div>
+</script>
+
+<script type="text/html" id="kongregate_lightbox_wrapper_template_noframe">
+<div id="kongregate_lightbox_wrapper">
+  <div class="header_bar">
+    <h3>Kongregate</h3>
+    <a onclick="lightbox.prototype.deactivate({success:top.kredPurchaseSuccess});return false" class="close_link" href="/pages/privacy">close &#215;</a>
+  </div>
+  <div id="kongregate_lightbox_spinner"><span class="spinner spinner_big">loading</span></div>
+  <div id="lightbox_form"></div>
+</div>
+</script>
+
+
+  <script>
+//<![CDATA[
+      var registration_form_target = $('registration_form_target');
+      if (registration_form_target) {
+        registration_form_target.update($('registration_form_holder').show());
+      } else {
+        $('registration_form_holder').remove();
+      }
+      var meta = $j('meta[name=kong-lgid]');
+      if (meta.length != 0) {
+         Cookie.set('kong-lgid', meta.attr('content'));
+      }
+
+//]]>
+</script><!--[if gte IE 8]><script src="http://www.googletagservices.com/tag/js/gpt.js"></script><![endif]-->
+<!--[if !IE]><!--><script src="http://www.googletagservices.com/tag/js/gpt.js"></script><!--<![endif]-->
+
+
+
+  <script type="text/javascript">
+    var ce2_reg_string = active_user.isAuthenticated() ? 'Signed in' : 'Guest',
+        CE_SNAPSHOT_NAME = null;
+    if (active_user.crazyEggSplitTreatment()) {
+      CE_SNAPSHOT_NAME = active_user.crazyEggSplitTreatment();
+    }
+    document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0009/7470.js"%3E%3C%2Fscript%3E'));
+    document.observe('dom:loaded', function() { if(typeof(CE2) != "undefined") { CE2.set(2,  ce2_reg_string); } });
+  </script>
+
+  <!-- adroll retargeting without conversion -->
+  <script type="text/javascript">
+    adroll_adv_id = "WT26QJGCSRCB3DTS6L4C54";
+    adroll_pix_id = "K4TGNDGRN5BBLEIDMF2Q6O";
+    (function () {
+    var oldonload = window.onload;
+    window.onload = function(){
+       __adroll_loaded=true;
+       var scr = document.createElement("script");
+       var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+       scr.setAttribute('async', 'true');
+       scr.type = "text/javascript";
+       scr.src = host + "/j/roundtrip.js";
+       ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+       if(oldonload){oldonload()}};
+    }());
+  </script>
+
+
+<script>
+//<![CDATA[
+  var isJavascriptLoaded = function(url) {
+    javascripts.pop();
+    if(javascripts.length == 0) {
+      document.javascript_loaded = true
+      Event.fire(document, 'dom:javascript_loaded');
+    }
+  }
+
+  javascripts = ['https://cdn2.kongcdn.com/compiled-assets/sitewide_async_javascripts-62c3fceebe16343151b8dddf21ab1382.js'];
+  AsyncLoader.load('js', 'https://cdn2.kongcdn.com/compiled-assets/sitewide_async_javascripts-62c3fceebe16343151b8dddf21ab1382.js', isJavascriptLoaded);
+
+  if (!Prototype.Browser.IE8) {
+    AsyncLoader.load('js', 'https://cdn3.kongcdn.com/compiled-assets/metriks_javascripts-7cea2b20203d8306e8b2aa66f7d2c0b8.js');
+  }
+
+  (function() {
+    
+    if (!active_user.isAuthenticated()) {
+      window.registration_form_validator = new RegistrationFormValidator('registration_form');
+      new RegistrationBirthDateDisplay($('registration_form'));
+    }
+
+  SiteStatsUpdater.update();
+  FacebookApiLoader.populate("218282488189771", window.location.protocol + "//www.kongregate.com/channel.html");
+
+  var navigation = new Navigation(active_user, '');
+
+  var flash_messages = new FlashMessages(),
+      tracking_code_service = new TrackingCodeService({dataProvider: flash_messages.data.bind(flash_messages), metricTracker: metricTracker});
+
+  if(metricTracker) {
+    metricTracker.setCustomVariable(1, 'Registered', String(active_user.isAuthenticated()), 2);
+    active_user.recordTreatments(metricTracker);
+  }
+
+  PremiumOnlyLinks.attachHandlers(); // has to happen after flash messages
+
+
+  }).runWhenReady();
+
+//]]>
+</script>
+</body>
+</html>

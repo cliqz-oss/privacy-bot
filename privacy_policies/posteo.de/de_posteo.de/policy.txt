@@ -1,0 +1,246 @@
+Posteo funktioniert nur mit aktiviertem Javascript!
+
+Posteo.de - zurÃ¼ck zur Startseite \- E-Mail: GrÃ¼n, sicher, werbefrei
+
+MenÃ¼
+
+zurÃ¼ck zum Anfang der Seite
+
+Registrieren
+
+FranÃ§ais
+
+English
+
+FranÃ§ais
+
+English
+
+  * Das Postfach Alle Leistungen
+  * Ãber uns Mehr zu Posteo
+    * Wir Ã¼ber uns
+    * Presse Ã¼ber uns
+    * Posteo-Transparenzbericht
+    * Wen wir unterstÃ¼tzen
+    * Posteo Lab in Berlin
+  * Aktuelles Blog &amp; Presse
+  * Hintergrund-Info zu Datenschutz &amp; Co
+    * HÃ¤ufige Fragen
+    * Maximaler Datenschutz
+    * Posteo-VerschlÃ¼sselung
+    * Konsequente Nachhaltigkeit
+    * Anonymisierte Zahlung
+  * Hilfe bei allen Fragen
+  * Kontakt Wir sind fÃ¼r Sie da
+
+# Posteo: Maximaler DATENSCHUTZ UND Menschen, DIE DAFÃR EINSTEHEN.
+
+> âFÃ¼r den Datenschutz im Internet wird viel zu wenig getan: Es gibt kaum
+einen Dienstleister, der keine Bestandsdaten erhebt, auf Trackingtools
+verzichtet oder nicht auf Werbefinanzierung setzt. Wir bieten allen, denen
+Datenschutz und Sicherheit wichtig sind, eine Alternative an - und zeigen,
+dass es auch anders geht.â
+
+Abschnitte dieser Seite:
+
+  * Unsere Motivation
+  * Kein Erheben persÃ¶nlicher Daten
+  * Werbefreiheit
+  * Anonymisierte Zahlung
+  * Datensicherheit
+  * DatenschutzerklÃ¤rung
+
+Lesetipp:  
+Posteo-Transparenzbericht 2014  
+Tagesspiegel: "Die DatenschÃ¼tzer"
+
+## Unsere Motivation
+
+### FÃ¼r mehr Datenschutz in der digitalen Welt
+
+Daten sind eine wertvolle Ware: Internetdienste, soziale Netzwerke und
+E-Mailanbieter speichern personenbezogene Daten, erstellen Profile Ã¼ber
+Surfverhalten, Aufenthaltsorte, Vorlieben und Konsumgewohnheiten Ihrer Nutzer
+- und verdienen viel Geld damit. Nutzerdaten werden an DatenhÃ¤ndler oder
+Werbepartner verkauft und dazu genutzt, Anzeigen mÃ¶glichst zielgruppengenau
+zu platzieren. Deshalb erheben Dienste oft mehr Daten, als notwendig. So
+entstehen zunehmend wahre "Datenhalden" - und "der glÃ¤serne Mensch" ist im
+Internet lÃ¤ngst zur RealitÃ¤t geworden. Diesen Umstand muss nicht jeder
+beunruhigend finden.  
+Aber die Datensammelwut hat immer Ã¶fter Folgen: Bei vielen Diensten werden
+selbst sensible Daten wie Bank- und Kreditkarteninformationen nur unzureichend
+gesichert, und kÃ¶nnen so von Dritten leicht gestohlen und missbrÃ¤uchlich
+verwendet werden. Beispiele hierfÃ¼r gibt es inzwischen genÃ¼gend. Auch sonst
+sieht es in Sachen Sicherheit oft nicht besonders gut aus: Viele Dienste
+sichern den Zugriff auf Nutzerdaten nur unzureichend, verschlÃ¼sseln nicht und
+versÃ¤umen es, Datenverlusten vorzubeugen.
+
+Menschen, die Wert auf einen veranwortungsbewussten Umgang mit ihren Daten
+legen, bleibt oft nur, auf die Nutzung vieler Dienste und Portale zu
+verzichten. Als wir 2009 vergeblich nach einem E-Mailanbieter suchten, der
+verantwortungsbewusst mit unseren Daten umgeht, haben wir uns gegen den
+Verzicht entschieden, und einen eigenen E-Mailanbieter gegrÃ¼ndet. Posteo.
+
+## Datensparsamkeit
+
+  * ### Anmeldung ohne Angabe persÃ¶nlicher Daten
+
+Bei Posteo melden Sie sich an, ohne persÃ¶nliche Daten anzugeben. Wir
+verzichten generell auf das Speichern personenbezogener Daten. So beugen wir
+Datenhalden vor und handeln nach dem Grundsatz der Datensparsamkeit. Wir geben
+Ihnen die Hoheit Ã¼ber Ihre Daten zurÃ¼ck und stÃ¤rken Ihr Recht auf
+informationelle Selbstbestimmung.
+
+Im TKG Â§111 ist geregelt, dass E-Mailanbieter keine Bestandsdaten erheben
+mÃ¼ssen, wenn diese nicht (z.B. zu Abrechnungszwecken) benÃ¶tigt werden.
+Posteo macht von dieser Regelung Gebrauch.
+
+  * ### kein Handel mit Daten/keine Datenweitergabe
+
+Wir erheben keine Bestandsdaten - folglich geben wir auch keinerlei Daten
+weiter und handeln auch nicht mit ihnen.
+
+  * ### Website ohne IP-Speicherung
+
+Wir speichern Ihre IP-Adresse nicht, wenn Sie unsere Website besuchen/nutzen.
+
+  * ### IP-Stripping
+
+Im Quelltext einer E-Mail ist normalerweise die persÃ¶nliche IP-Adresse des
+Absenders aufgefÃ¼hrt. Wir lÃ¶schen diese Information zum Schutz Ihrer
+PrivatsphÃ¤re aus dem sog. Mailheader. Weder bei E-Mails, die Sie Ã¼ber
+unseren Webmailer verschicken, noch mit solchen, die Sie mit einem lokal oder
+mobil genutzten Mailprogramm senden, ist beim EmpfÃ¤nger Ihre IP-Adresse
+sichtbar.
+
+  * ### kein Tracking
+
+Wir verzichten grundsÃ¤tzlich auf den Einsatz von Trackingtools, um Ihre
+PrivatsphÃ¤re zu schÃ¼tzen. Aus diesem Grund sind auf unserer Website auch
+keine Social Media-VerknÃ¼pfungen fÃ¼r Facebook, Twitter, Instagram o.Ã¤.
+eingebunden.
+
+  * ### Alias-Adressen
+
+Unsere Alias-Adressen helfen Ihnen dabei, die Verbreitung Ihrer Haupt-Adresse
+gering zu halten. Nutzen Sie Aliase z.B., fÃ¼r Anmeldungen bei Online-Portalen
+und Foren. Die Alias-Adressen sind bei Posteo individuell mit Ihrem Passwort
+verschlÃ¼sselt, um Ihre PrivatsphÃ¤re zu schÃ¼tzen.
+
+  * ### Datensparsamkeit:
+
+Wir erheben weder Bestandsdaten, noch verfÃ¼gen wir Ã¼ber Verkehrsdaten (wie
+IP-Adressen) mit Postfachbezug. Prozesse und Funktionen werden stets nach dem
+Grundsatz der Datensparsamkeit konzipiert.
+
+## Werbefreiheit
+
+  * Keine Finanzierung Ã¼ber Werbung: die Dienstleistung ist nachhaltig kalkuliert und trÃ¤gt sich Ã¼ber die BeitrÃ¤ge unserer Nutzer.
+  * Datensparsamkeit durch Verzicht auf Werbung mÃ¶glich. Wir haben kein Interesse daran, Daten unserer Kunden an die Werbewirtschaft zu verkaufen.
+  * Keine AbhÃ¤ngigkeit von Werbekunden: Die Existenz vieler Internetdienste ist vom Geld und Wohlwollen ihrer Werbekunden abhÃ¤ngig. Wir sind werbefrei und deshalb unabhÃ¤ngig.
+
+## Anonymisierte Zahlung
+
+Das Guthaben Ihres Posteo-Postfachs wird stets anonym aufgeladen - egal ob Sie
+per Ãberweisung, per Paypal, per Kreditkarte oder in Bar zahlen. Wir
+verknÃ¼pfen Daten, die wir bei Zahlungen erhalten, grundsÃ¤tzlich nicht mit
+den E-Mail-PostfÃ¤chern. HierfÃ¼r haben wir 2009 ein eigenes Posteo-
+Bezahlsystem entwickelt, mit dem wir alle ZahlungsvorgÃ¤nge anonymisieren.
+2015 wurde das Bezahlsystem um neue gesetzliche Anforderungen erweitert.
+
+Bei Ãberweisungen geben Sie einen Einmal-Code im Verwendungszweck an, den Sie
+zuvor von uns per E-Mail erhalten. Trifft Ihre Zahlung bei uns ein, liest
+unser System den Code im Verwendungszweck aus und ordnet das Guthaben Ihrem
+Postfach zu. In diesem Moment wird Ihr Guthaben aufgeladen - und der Einmal-
+Code aus unserem System gelÃ¶scht. Ist der Code gelÃ¶scht, ist nicht mehr
+feststellbar, fÃ¼r welches Posteo-Postfach Sie Guthaben Ã¼berwiesen haben. Bei
+Barzahlungen erfolgt die Zuordnung ebenfalls mit Hilfe des Einmal-Code-
+Prinzips: Sie notieren den Einmal-Code auf einem Zettel, den Sie Ihrer Zahlung
+beilegen. Zahlen Sie mit Paypal, wird das Guthaben im Moment der Zahlung auf
+Ihr Postfach Ã¼bertragen â wir verknÃ¼pfen die Daten, die wir von Paypal
+erhalten, aber ebenfalls nicht mit Ihrem Postfach.
+
+Deutsche E-Mail-Anbieter sind nicht dazu verpflichtet, Bezahldaten und
+E-MailpostfÃ¤cher miteinander zu verknÃ¼pfen. Dies hat uns auch das
+Bundesministerium der Justiz in einer Antwort auf eine kleine Anfrage von
+Christian StrÃ¶bele bestÃ¤tigt.
+
+## Datensicherheit
+
+  * ### Umfassendes VerschlÃ¼sselungskonzept
+
+Wie wir Ihre Daten, sowie alle Ãbertragungswege und ZugÃ¤nge durch unser
+umfassendes VerschlÃ¼sselungskonzept schÃ¼tzen, erfahren Sie auf unserer
+Infoseite VerschlÃ¼sselung.
+
+  * ### hocheffizienter Virenfilter
+
+Unser stÃ¼ndlich aktualisierter Virenfilter fÃ¤ngt eingehende E-Mails ab, die
+einen (bekannten) Virus enthalten und schÃ¼tzt Sie so wirksam vor Infektionen.
+
+  * ### hocheffizienter Spamfilter
+
+Der mehrstufige Spamfilter schÃ¼tzt Sie wirksam und zuverlÃ¤ssig vor
+unerwÃ¼nschtem Spam. Mehr Informationen zu unserem Spamfilter finden Sie in
+unserer Hilfe.
+
+  * ### tÃ¤gliche Backups
+
+Wir fertigen tÃ¤glich verteilte Sicherheits-Backups aller Daten an. Diese
+speichern wir fÃ¼r die Dauer von sieben Tagen, um Ihnen im Notfall Daten
+wiederherstellen zu kÃ¶nnen, wenn Sie diese einmal versehentlich gelÃ¶scht
+haben sollten. In dringenden NotfÃ¤llen bemÃ¼hen wir uns, auch ausserhalb
+unserer BÃ¼rozeiten Daten fÃ¼r Sie wiederherzustellen.
+
+  * ### Ex- und Import aller Daten
+
+Sie haben bei Posteo die Hoheit Ã¼ber Ihre Daten: Sie haben nicht nur die
+MÃ¶glichkeit, beim Umzug Ihre Daten bei Posteo zu importieren. Sie kÃ¶nnen
+auch jederzeit all Ihre Daten Ã¼ber standardisierte Schnittstellen wieder
+exportieren. Sie kÃ¶nnen sie also lokal sichern - und die Daten bei uns
+lÃ¶schen.
+
+Mehr zum Thema erfahren Sie in unserer:  
+DatenschutzerklÃ¤rung
+
+  * ### Mitarbeiter vertraglich zur Geheimhaltung verpflichtet
+
+Unsere Mitarbeiter sind zur Geheimhaltung verpflichtet, unsere Computer sind
+vollverschlÃ¼sselt. Jeglicher PapiermÃ¼ll (z.B. Briefe von Barzahlern) wird
+geschreddert.
+
+  * ### Server in hochsicheren, deutschen Rechenzentren
+
+Unsere Server stehen in Rechenzentren in Frankfurt am Main, Bielefeld und
+Berlin. Sie werden von uns rund um die Uhr Ã¼berwacht. Der Hauptstandort in
+Frankfurt am Main ist mit sechs voneinander unabhÃ¤ngigen Glasfaserleitungen
+an das Internet angebunden. Auch die StromeinfÃ¼hrung erfolgt Ã¼ber zwei
+voneinander unabhÃ¤ngige Leitungen. ZusÃ¤tzlich sorgen redundante USV-Anlagen
+auch bei groÃflÃ¤chigem Stromausfall fÃ¼r die Aufrechterhaltung des Betriebs.
+MaÃnahmen wie Brandschutzanlagen, verschiedene Brandabschnitte, rÃ¤umliche
+Trennung der Stromversorgung von den Servern, ein elektronisches
+Zutrittssystem uvm. sorgen fÃ¼r zusÃ¤tzliche Sicherheit.
+
+#### Jetzt anmelden.
+
+Hier kÃ¶nnen Sie Ihr Posteo-Postfach fÃ¼r 1 EUR/Monat erÃ¶ffnen und sofort
+nutzen. Sie mÃ¼ssen bei der Anmeldung keine persÃ¶nlichen Daten angeben.  
+Weiter zur Anmeldung &gt;&gt;
+
+Nach oben
+
+  * Ãber uns
+  * Kontakt
+  * Jobs
+  * Impressum
+
+  * Hilfe
+  * Blog
+  * Leistungen
+  * Presseberichte
+
+  * Transparenzbericht
+  * AGB / DatenschutzerklÃ¤rung
+  * Javascript Lizenz-Informationen
+  * Anti-Abuse-Team
+

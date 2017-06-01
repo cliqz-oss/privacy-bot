@@ -1,0 +1,1051 @@
+
+<!DOCTYPE html>
+<html lang="de-DE" itemscope="" itemtype="http://schema.org/WebPage">
+    <head>
+
+    	
+        <title>Datenschutz | Samsung DE</title>
+        <meta name="title" content="Datenschutz | Samsung DE">
+ 
+        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+        
+        <link rel="canonical" href="http://www.samsung.com/de/info/privacy/">
+        
+        
+        <meta name="keywords" content="samsung, samsung.com, samsung electronics, samsung website, Datenschutz.">
+        <meta name="description" content="Datenschutz">
+        <meta name="date" content="2017-04-19"><!--Latest Publishing Date -->
+        <meta name="sitecode" content="de">
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="">
+        <meta name="twitter:creator" content="">
+        <meta name="twitter:url" content="http://www.samsung.com/de/info/privacy/">
+        <meta name="twitter:title" content="Datenschutz">
+        <meta name="twitter:description" content="Datenschutz">
+        <meta name='twitter:image' content="http://cdn.samsung.com/etc/designs/smg/global/imgs/logo-square-letter.png" />
+    
+        <meta property="og:url" content="http://www.samsung.com/de/info/privacy/">
+        <meta property="og:image" content="http://cdn.samsung.com/etc/designs/smg/global/imgs/logo-square-letter.png">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Samsung de">
+        <meta property="og:locale" content="de-DE">
+        <meta property="og:title" content="Datenschutz"/>
+        <meta property="og:description" content="Datenschutz"/>
+        <meta property="og:country-name" content="de"/>    
+    
+        <meta itemprop="name" content="Samsung de">
+        <meta itemprop="image" content="http://cdn.samsung.com/etc/designs/smg/global/imgs/logo-square-letter.png">
+        <meta itemprop="url" content="http://www.samsung.com/de/info/privacy/">
+        <meta itemprop="description" content="Datenschutz">
+        <meta itemprop="keywords" content="samsung, samsung.com, samsung electronics, samsung website, Datenschutz.">
+
+        <link rel="shortcut icon" href="//cdn.samsung.com/etc/designs/smg/global/imgs/favicon.ico">
+        <link rel="apple-touch-icon" href="//cdn.samsung.com/etc/designs/smg/global/imgs/app_ico.gif">
+        
+
+ 
+            
+        <link rel="stylesheet" href="//cdn.samsung.com/etc/designs/smg/global/templates/page.css" type="text/css"/>
+  
+        
+        
+        
+
+        
+
+        <link rel="stylesheet" href="//cdn.samsung.com/etc/designs/smg/global/templates/page-etc-none-lnb.css" type="text/css"/>
+
+        
+        <link rel="stylesheet" href="//cdn.samsung.com/etc/designs/smg/de/css/de.css" type="text/css">
+        <!--[if lt IE 9]>
+            <script src="/etc/designs/smg/global/ie9/html5.js"></script>
+        <![endif]-->
+        
+<script type="text/javascript">
+/* DataLayer for Samsung - Last Modified Date 2016-07-13 by Kim myounggyu */
+var siteCode = "";
+var pageURL = "";
+
+siteCode = window.location.href.split("/")[3];
+pageURL = window.location.href;
+
+var digitalData = {
+		"page" : {
+			"pageInfo" : {
+				"siteCode" : siteCode,
+                "siteSection": "", //pathIndicator정보 이용하여 설정
+				"pageName" : "", //pathIndicator정보 이용하여 설정
+				"pageURL" : pageURL,
+				"pageTrack" : "" //All page(server-side)
+				},
+			"pathIndicator" : { //product page(server-side)
+				"depth_2" : "",
+				"depth_3" : "",
+				"depth_4" : "",
+				"depth_5" : ""
+				}
+		},
+		"user" : {
+			"loginStatus" : ""
+			},
+		"product" : {
+			"category" : "", // pathIndicator depth정보 이용하여 설정
+			"model_code" : "", // PD class정보 이용하여 설정
+			"model_name" : "", // PD page(server-side)
+			"displayName" : "", // PD class정보 이용하여 설정
+			"pvi_type_code" : "", //PD page(server-side)
+			"pvi_type_name" : "", //PD page(server-side)
+			"pvi_subtype_code" : "", //PD page(server-side)
+			"pvi_subtype_name" : "" //PD page(server-side)
+			}
+}
+
+//server-side
+digitalData.page.pageInfo.pageTrack = "";
+
+// depth Info.
+var depth = window.location.href.split("/").length;
+var depth_last = window.location.href.split("/")[depth-1];
+if(depth_last =="" || depth_last.charAt(0)=="?"){
+    depth -= 1;
+}
+
+// set site section value
+if((digitalData.page.pathIndicator.depth_2 != "")||(digitalData.page.pageInfo.pageTrack == "flagship pdp")){
+    digitalData.page.pageInfo.siteSection = siteCode + ":consumer"; //product page
+}else if(depth == 4){
+    digitalData.page.pageInfo.siteSection = siteCode + ":home"; //home
+}else{
+     digitalData.page.pageInfo.siteSection = siteCode + ":" + window.location.href.split("/")[4];
+}
+
+// set product category value
+if(digitalData.page.pathIndicator.depth_3 != ""){
+    digitalData.product.category = digitalData.page.pathIndicator.depth_3;
+}
+
+// set pathIndicator(not product page)
+if(digitalData.page.pathIndicator.depth_2 == ""){
+    if(depth >= 5) digitalData.page.pathIndicator.depth_2 = window.location.href.split("/")[4]
+    if(depth >= 6) digitalData.page.pathIndicator.depth_3 = window.location.href.split("/")[5]
+    if(depth >= 7) digitalData.page.pathIndicator.depth_4 = window.location.href.split("/")[6]
+    if(depth >= 8) digitalData.page.pathIndicator.depth_5 = window.location.href.split("/")[7]
+}
+
+// set pageName
+var pageName = siteCode;
+if(digitalData.page.pathIndicator.depth_2 != "")
+    pageName += ":" + digitalData.page.pathIndicator.depth_2;
+if(digitalData.page.pathIndicator.depth_3 != "")
+    pageName += ":" + digitalData.page.pathIndicator.depth_3;
+if(digitalData.page.pathIndicator.depth_4 != "")
+    pageName += ":" + digitalData.page.pathIndicator.depth_4;
+if(digitalData.page.pathIndicator.depth_5 != "")
+    pageName += ":" + digitalData.page.pathIndicator.depth_5;
+
+// check PD, GPD
+var pageTrackName = digitalData.page.pageInfo.pageTrack;
+if(pageTrackName == "product detail" || pageTrackName == "generic product details"){
+	var modelCode = document.getElementsByClassName("product-details__s-sku")[0].innerHTML;
+	var displayName = document.getElementsByClassName("product-details__title")[0].innerHTML.replace(/(<([^>]+)>)/gi, "");
+	digitalData.product.model_code = modelCode;
+	digitalData.product.displayName = displayName;
+    pageName += ":" + modelCode;
+}
+digitalData.page.pageInfo.pageName = pageName;
+
+</script>
+
+		
+        <script src="//assets.adobedtm.com/2f39014c5d5172df150d19eb00fe42ddba079437/satelliteLib-de912aa265d02372c5f799f09ee19e5805f3d13c.js"></script>
+    </head>
+    <body>
+        
+        <div id="wrap">
+            
+<header id="header" role="banner">
+    <div class="s-skip-content">
+        <a href="#content" id="skipToContent">Skip to content</a>    </div>
+  <div class="cookie-notice" role="status" style="display: none;">
+        <p class="cookie-notice__desc">Diese Seite verwendet Cookies. Wenn Sie weiter auf der Seite bleiben, stimmen Sie unserer Verwendung von Cookies zu.</p>
+        <a href="/de/info/privacy/" class="cookie-notice__link">Weitere Informationen</a>
+        <button type="button" class="cookie-notice__btn-close">Schließen</button>
+    </div>  
+    <div class="parsys ipar iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys ipar iparsys"><div class="cm-g-static-content section">
+
+<style>
+
+.gb-gnb__promotion{display:none;position:relative;background-color:#efefef;border-bottom:1px solid #dadada}
+.gb-gnb__promotion.cookie-promotion{display:block}
+.gb-gnb__promotion-inner01 {
+    position: relative;
+    padding: 10px 0 8px;
+    max-width: 1254px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.gb-gnb__promotion-desc {
+	display: inline-block;
+    margin-left: 13px;
+    padding-left: 18px;
+	border-left : 1px solid #dadada;
+    font-weight: bold;
+    font-size: 14px;
+    color: #363636;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+.gb-gnb__promotion-desc:first-child {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.gb-gnb__promotion-link:hover {
+    color: #1428a0;
+}
+.gb-gnb__promotion-link {
+    display: inline-block;
+    margin-left: 18px;
+    font-size: 12px;
+    color: #1428a0;
+    font-family: 'SamsungOne',arial !important;
+}
+
+.gb-gnb__promotion .s-svg:after {position:relative;top:0;left:0;display:block;background-repeat:no-repeat;color:transparent;content:'.'}
+
+.gb-gnb__promotion .s-arw-right {
+    display: inline-block;
+    position: relative;
+    margin-top: -2px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+.gb-gnb__promotion .s-arw-right:after {
+    width: 7px;
+    height: 11px;
+    background-image: url(/etc/designs/smg/global/imgs/arw-right-blue.png);
+}
+.gb-gnb__promotion .s-svg.s-ico-close {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    padding: 10px;}
+
+.gb-gnb__promotion .s-svg.s-ico-close:after {width: 12px;height: 12px;background-image: url(/etc/designs/smg/global/imgs/ico-close.png);}
+
+
+@media screen and (max-width: 768px){
+
+
+  .gb-gnb__promotion-inner01 {
+    padding: 6px 24px 5px;
+  }
+
+  .gb-gnb__promotion-desc {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 12px;
+    line-height: 16px;
+  }
+.gb-gnb__promotion-link {
+    margin-left: 10px;
+    font-size: 10px;
+  } 
+.gb-gnb__promotion .s-arw-right  {
+    width: 5px;
+    height: 8px;
+}
+.gb-gnb__promotion .s-svg.s-ico-close  {
+    top: 0;
+    right: 0;
+    padding: 10px 8px;
+}
+.gb-gnb__promotion .s-svg.s-ico-close:after {
+    width: 8px;
+    height: 8px;
+    background-size: 8px 17px;
+}
+}
+
+
+</style>
+
+
+<!-- <div class="gb-gnb__promotion cookie-promotion" style="background-color:#efefef"> -->
+<!--googleoff: all-->
+        <!-- <div class="gb-gnb__promotion-inner01">
+			<p class="gb-gnb__promotion-desc">Unser Qualitätsversprechen<a href="http://www.samsung.com/de/quality-assurance/" class="gb-gnb__promotion-link" data-omni="click" data-omni-type="gnb" data-omni-data="gnb_top promo:Note7 recall">Für Details hier klicken<span class="s-svg s-arw-right"></span></a></p>
+			-->
+            <!--			
+			<p class="gb-gnb__promotion-desc">NEUE INFORMATIONEN ZUM GALAXY NOTE7<a href="/de/note7exchange/" class="gb-gnb__promotion-link" data-omni="click" data-omni-type="gnb" data-omni-data="gnb_top promo:Note7 recall">Für Details hier klicken<span class="s-svg s-arw-right"></span></a></p>
+			-->
+            <!-- 			
+			<button type="button" class="s-svg s-ico-close"><span class="blind">Close</span></button>
+		</div>
+		-->
+<!--googleon: all-->
+<!-- </div> -->
+
+<script>
+;(function(win,doc,callback){'use strict';callback=callback||function(){};function detach(){if(doc.addEventListener){doc.removeEventListener('DOMContentLoaded',completed);}else{doc.detachEvent('onreadystatechange',completed);}}function completed(){if(doc.addEventListener||event.type==='load'||doc.readyState==='complete'){detach();callback(window,window.jQuery);}}function init(){if (doc.addEventListener){doc.addEventListener('DOMContentLoaded',completed);}else{doc.attachEvent('onreadystatechange',completed);}}init();})(window,document,function(win,$){
+	$(window).on('load', function(){
+$('.gb-gnb__promotion .s-ico-close').on('click', function() {
+$('.gb-gnb__promotion').css('display', 'none');
+  });
+});
+});
+</script>
+
+</div>
+</div>
+</div>
+</div>
+
+    <div class="cm-g-gnb gnb"><nav class="gb-gnb" role="navigation">
+	<!--googleoff: all-->
+	
+	<div class="gb-gnb__dimmed" style="display: none"></div>
+	
+	<div class="gb-gnb__bar">
+		<div class="gb-gnb__bar-inner">
+			
+			<a href="/de/" class="s-svg gb-gnb__logo"><span class="blind">Samsung</span></a>
+			
+			<button type="button" class="s-svg s-gnb-toggler"><span class="blind">Open the Menu</span></button>
+
+			
+			<ul class="gb-gnb__main" role="tablist"></ul>
+			
+
+			
+			
+			<div class="gb-gnb__drop-mobile drilldown" style="min-height: 575px">
+				<div class="gb-gnb__drop-mobile-wrap drilldown-container">
+					<div class="drilldown-root">
+						<ul class="s-depth1-wrap" id="mobile_left"></ul>
+						<ul class="s-depth1-wrap" id="mobile_right">
+							<li>
+								
+								<a href="https://account.samsung.com/mobile/account/check.do" class="s-login s-signin s-ico-login" data-omni="login">Anmelden</a>
+								
+							</li>
+							<li>
+								
+								<a href="#" class="s-mymenu" style="display: none">
+									<span class="s-svg s-ico-login"></span><span class="s-mymenu-name"></span>
+									<span class="s-svg s-arw-right"></span>
+								</a>
+								<div class="drilldown-sub">
+									<div class="drilldown-back">
+										<a href="#" class="s-btn-back"><span class="s-svg s-arw-left"></span><span class="blind">Zurück zum ersten Untermenü</span></a>
+									</div>
+									<ul>
+										<li class="s-depth2-wrap">
+											<a href="#" class="s-mymenu">
+												<span class="s-svg s-ico-login"></span><span class="s-mymenu-name"></span>
+											</a>
+											<ul>
+												<li>
+													<a href="https://shop.samsung.com/de/track-order" class="s-depth3-link loginmenu" data-omni="orders">Bestellungen</a>
+												</li>
+												<li>
+													<a href="https://shop.samsung.com/de/my-account/profile" class="s-depth3-link loginmenu" data-omni="my account">Mein Konto</a>
+												</li>
+												<li><a href="#" class="s-depth3-link logoutBtn loginmenu" data-omni="logout">Ausloggen</a></li>
+											</ul>
+										</li>                                                                   
+									</ul>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			
+
+			
+			<button type="button" class="s-svg s-ico-close js-mo-close"><span class="blind">Close the Menu</span></button>
+
+			<div class="gb-gnb__sub">
+				<ul class="gb-gnb__sub-nav" role="tablist"></ul>
+				
+				<ul class="gb-gnb__utility">
+					<li class="s-login">
+						
+						<a href="https://account.samsung.com/mobile/account/check.do" class="s-btn-login" data-omni="login">Anmelden<span class="s-svg s-arw-right"></span></a>
+					</li>
+					<li class="s-mymenu" style="display: none">
+						
+						<button type="button" title="Mein Menü" class="s-btn-utility" aria-expanded="false">
+							<span class="s-svg s-ico-login"><span class="blind">Mein Menü öffnen</span></span>
+						</button>
+						
+						<ul class="gb-gnb__my-layer">
+							<li>
+								<span class="s-mymenu-name"></span>
+							</li>
+							<li>
+								<a href="https://shop.samsung.com/de/track-order" data-omni="orders">Bestellungen</a>
+							</li>
+							<li>
+								<a href="https://shop.samsung.com/de/my-account/profile" data-omni="my account">Mein Konto</a>
+							</li>
+							<li><a href="#" class="logoutBtn" data-omni="logout">Ausloggen</a></li>
+						</ul>
+						
+					</li>
+					<li>
+						
+						<button type="button" class="s-btn-utility js-ico-search" title="Allgemeine Suche" aria-expanded="false" data-omni="search"><span class="s-svg s-ico-search"><span class="blind">Überlagerndes Suchfenster öffnen</span></span><span class="s-search-arrow"></span></button>
+						
+						<div class="gb-gnb__search">
+							<div class="gb-gnb__search-inner">
+								<div class="gb-gnb__search-bar">
+									<div class="gb-gnb__search-input-wrap">
+										<label for="inp_srch" class="blind">Schlüsselwort für die Suche eingeben</label>
+										<input type="text" id="inp_srch" name="gnb_search" class="gb-gnb__search-input" placeholder="Galaxy S8" autocomplete="off">
+										<button type="submit" class="s-svg s-ico-search"><span class="blind">Allgemeine Suche</span></button>
+										
+										<button type="button" class="s-svg s-ico-close"><span class="blind">Überlagerndes Suchfenster schließen</span></button>
+									</div>
+									<div class="gb-gnb__search-history" style="display: ">
+										<div class="gb-gnb__search-history-title">Suchverlauf</div>
+										<ul></ul>
+										<button type="button" class="gb-gnb__search-history-close">VERLAUF LÖSCHEN</button>
+									</div>
+								</div>
+								<div class="gb-gnb__search-suggest">
+									<div class="gb-gnb__search-suggest-inner">
+										
+										<div class="gb-gnb__search-typeahead" style="display: none">
+											<div class="gb-gnb__search-typeahead-title"></div>
+											<ul></ul>
+										</div>
+										
+										
+										<p class="gb-gnb__search-suggest-nodata" style="display: ">Keine Vorschläge</p>
+										
+										<div class="gb-gnb__search-suggest-list" style="display: none"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					</li>
+					<!-- Cart Icon -->
+					<li>
+						<a href="https://shop.samsung.com/de/cart" title="Warenkorb" class="s-btn-utility js-empty-cart" aria-haspopup="true" data-omni="cart">
+							<span class="s-svg s-ico-cart-empty">
+								<span class="blind">Überlagerndes Fenster für Warenkorb öffnen</span>
+								<span class="s-cart-number" id="globalCartCount-empty" style="display: none"><span class="blind">Anzahl der Produkte : </span>0</span>
+							</span>
+						</a>
+						
+						<a href="https://shop.samsung.com/de/cart" title="Warenkorb" class="s-btn-utility js-cart" aria-haspopup="true" data-omni="cart" style="display: none">
+							<span class="s-svg s-ico-cart">
+								<span class="blind">Überlagerndes Fenster für Warenkorb öffnen</span>
+								<span class="s-cart-number" id="globalCartCount" style="display: none"><span class="blind">Anzahl der Produkte : </span>0</span>
+							</span>
+						</a>
+						
+					</li>
+				</ul>
+				<!-- 회원로그인 폼 (한글) -->
+				<form id="loginForm" name="loginForm" method="post" action="https://account.samsung.com/account/check.do">
+					<input type="hidden" name="actionID" value="StartAP">
+					<input type="hidden" name="serviceID" value="4a2cqsq251">
+					<input type="hidden" name="serviceName" value="SAMSUNG">
+					<input type="hidden" name="domain" value="">
+					<input type="hidden" name="countryCode" value="DE">
+					<input type="hidden" name="languageCode" value="de">
+					<input type="hidden" name="registURL" id="registURL" value="/aemapi/data-login/afterLogin.de.json">
+					<input type="hidden" name="returnURL" id="returnURL">
+					<input type="hidden" name="goBackURL" id="goBackURL" value="">
+					<input type="hidden" name="ssoType" value="ENC_TK">
+					<input type="hidden" name="svcIptLgnID" id="userId" value="">
+					<input type="hidden" name="svcIptLgnPD" id="userPass" value="">
+					<input type="hidden" name="emailActivationURL" id="emailActivationURL" value="/aemapi/data-login/emailActivationURL.de.json">
+				</form>
+				<!-- 회원가입 폼 -->
+				<form id="joinForm" name="joinForm" method="post" action="https://account.samsung.com/account/check.do">
+					<input type="hidden" name="actionID" value="SignupAP">
+					<input type="hidden" name="serviceID" value="4a2cqsq251">
+					<input type="hidden" name="serviceName" value="SAMSUNG">
+					<input type="hidden" name="domain" value="">
+					<input type="hidden" name="countryCode" value="DE">
+					<input type="hidden" name="languageCode" value="de">
+					<input type="hidden" name="registURL" id="joinRegistURL" value="/aemapi/data-login/afterLogin.de.json">
+					<input type="hidden" name="returnURL" id="joinReturnURL">
+					<input type="hidden" name="goBackURL" id="joinGoBackURL" value="">
+					<input type="hidden" name="ssoType" value="ENC_TK">
+					<input type="hidden" name="emailActivationURL" id="joinEmailActivationURL" value="/aemapi/data-login/emailActivationURL.de.json">
+				</form>
+				<!-- Find Email 폼 -->
+				<form id="findAccountForm" name="findAccountForm" method="post" action="https://account.samsung.com/account/check.do">
+					<input type="hidden" name="actionID" value="FindEmail">
+					<input type="hidden" name="serviceID" value="4a2cqsq251">
+					<input type="hidden" name="serviceName" value="SAMSUNG">
+					<input type="hidden" name="domain" value="">
+					<input type="hidden" name="countryCode" value="DE">
+					<input type="hidden" name="languageCode" value="de">
+					<input type="hidden" name="goBackURL" id="findGoBackURL" value="">
+					<input type="hidden" name="ssoType" value="ENC_TK">
+				</form>
+
+				<form id="textForm" name="textForm">
+					<input type="hidden" name="signBtnText1" id="signBtnText1" value="signBtnText1"/>
+					<input type="hidden" name="signBtnText2" id="signBtnText2" value="signBtnText2"/>
+					<input type="hidden" name="errorTitleText" id="errorTitleText" value="errorTitleText"/>
+					<input type="hidden" name="errorText1" id="errorText1" value="errorText1"/>
+					<input type="hidden" name="errorText2" id="errorText2" value="errorText2"/>
+					<input type="hidden" name="errorText3" id="errorText3" value="errorText3"/>
+					<input type="hidden" name="errorText4" id="errorText4" value="errorText4"/>
+					<input type="hidden" name="wishText" id="errorText4" value="Das Produkt wurde Ihrer Wunschliste hinzugefügt."/>
+					<input type="hidden" name="badReqTest" id="errorText4" value="Ungültige Anfrage. Einige oder alle angegebenen Daten sind ungültig. Bitte wenden Sie sich an das VoC-Center."/>
+					<input type="hidden" name="productCountText" id="productCountText" value="Anzahl der Produkte"/>
+				</form>
+				
+					<input type="hidden" name="searchPath" id="searchPath" value="/de/search.html"/>
+				
+				<input type="hidden" name="domain" id="domain" value="www.samsung.com"/>
+				<input type="hidden" name="siteCode" id="siteCode" value="de"/>
+				<input type="hidden" name="useLogin" id="useLogin" value="Y"/>
+				<input type="hidden" name="useStore" id="useStore" value="Y"/>
+				<input type="hidden" name="storeDomain" id="storeDomain" value="https://shop.samsung.com"/>
+				<input type="hidden" name="hiddenSearch" id="hiddenSearch" value="Galaxy S8"/>
+				<input type="hidden" name="loginURL" id="loginURL" value="/de/login.html"/>
+				<input type="hidden" name="loginLinkURL" id="loginLinkURL" value="https://account.samsung.com/mobile/account/check.do"/>
+				<input type="hidden" name="updateProfileURL" id="updateProfileURL" value="/de/my-account/profile"/>
+
+				<!-- No Access Layer Popup -->
+				<div class="layer_popup" id="confirmPopup" style="display:none;">
+					<div id="popup-type02" class="popAlign">
+						<div class="popup_wrap">
+							<h2 class="pop-tit"></h2>
+							<p class="msg-text tc"></p>
+							<div class="pop-btn">
+								<a href="javascript:void(0)" class="button login-leave-btn" title="Kein Zugriff OK">OK</a>
+							</div>
+							<button class="close-button icon-close-x login-leave-btn" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+								<span class="blind">Kein Zugriff Schließen</span>
+							</button>
+						</div>
+					</div>
+				</div>
+				<!-- 장바구니 가득찬 경우 Layer Popup -->
+				<div class="layer_popup" style="display:none;">
+					<div id="gloval_message_popup" class="popup-nextgen-type popAlign">
+						<div class="popup_wrap">
+							<p class="msg-text tc">Leider gibt es nicht genügend Lagerbestand für Ihren Warenkorb.</p>
+							<div class="pop-btn">
+								<a href="#" class="button">OK</a>
+							</div>
+							<button class="close-button icon-close-x" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+								<span class="blind">Überlagerndes Pop-up schließen</span>
+							</button>
+						</div>
+					</div>
+				</div>
+				<!-- 장바구니 삭제버튼 클릭 시 Layer -->
+				<div class="layer_popup" style="display: none;">
+					<div id="popup_delete_product_cart" class="popup-nextgen-type popAlign">
+						<div class="popup_wrap">
+							<p class="pop-tit">Ein Produkt entfernen</p>
+							<p class="msg-text">Ohne dieses Produkt kann der angewendete Gutschein oder Aktionscode nicht eingelöst werden.<br>Möchten Sie dieses Produkt wirklich entfernen?</p>
+							<div class="pop-btn">
+								<a style="display: inline-block;" href="#" class="button" id="btnMoveToWishList" onclick="javascript: removeConfirmButton('Y');">In Wunschliste verschieben</a>
+								<a href="#" class="button gray" onclick="javascript: removeConfirmButton('N');">Löschen</a>
+							</div>
+							<button class="close-button icon-close-x" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+								<span class="blind">Überlagerndes Pop-up schließen</span>
+							</button>
+						</div>
+					</div>
+				</div>
+				<div class="layer_popup" style="display: none;">
+					<div id="popup_alert" class="popup-nextgen-type popAlign" tabindex="0" data-focus-id="shop-popover-wrap" data-tab-previous="shop-popover-close">
+						<div class="popup_wrap">
+							<p class="msg-text tc"></p>
+							<div class="pop-btn">
+								<a href="javascript:void(0);" class="button alert-ok-button" data-popup="close">OK</a>
+							</div>
+							<button class="close-button icon-close-x" data-focus-id="shop-popover-close" data-tab-next="shop-popover-wrap" data-popup="close" data-tab-disable="true" tabindex="0">
+								<span class="blind">Überlagerndes Pop-up schließen</span>
+							</button>
+						</div>
+					</div>
+				</div>
+
+				<!-- 정책동의 1단계 Layer -->
+				<div class="layer_popup" id="privacyPopup" style="display: none;">
+					<div id="popup_privacy" class="popAlign">
+						<form action="#" method="post" name="" id="">
+							<fieldset>
+								<legend>Privacy Policy</legend>
+								<div class="popup_wrap">
+									<div class="popup_title">Privacy Policy</div>
+									<div class="popup_cont">
+										<div class="privacy_wrap">
+											<div class="check_box">
+												<input type="checkbox" name="privacy-terms" id="privacy-terms">
+												<label for="privacy-terms" class="check_text">
+													Ich habe die <a href='/de/info/privacy.html' target='_blank' class='privacy_link'>Datenschutzrichtlinie</a> von Samsung.com gelesen und stimme ihr zu.
+												</label>
+												<!-- ERROR : Clicked PROCEED TO STORE button : display:block -->
+												<p class="check_error" id="errorPrivacy" style="display: none;">Setzen Sie hier ein Häkchen, um zu Samsung.com zu gelangen.</p>
+												<!-- //ERROR : Clicked PROCEED TO STORE button -->
+											</div>
+											<div class="check_box">
+												<input type="checkbox" name="privacy-terms2" id="privacy-terms2">
+												<label for="privacy-terms2" class="check_text">Durch das Setzen dieses Häkchens akzeptiere ich Samsung Service-Updates, einschließlich: </label><p class="check_txt">Service- und Marketinginformationen von Samsung.com, Ankündigungen neuer Produkte und Services sowie Sonderangebote, Veranstaltungen und Newsletter.</p>
+											</div>
+											<div class="privacy_btn">
+												<a href="javascript:void(0)" class="button" id="privacyBtn">WEITER ZU SAMSUNG.COM</a>
+												<a href="javascript:void(0)" class="button login-leave-btn">SEITE VERLASSEN</a>
+											</div>
+										</div>
+									</div>
+									<button class="close-button icon-close-x login-leave-btn" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+										<span class="blind">Datenschutzrichtlinie schließen</span>
+									</button>
+								</div>
+							</fieldset>
+						</form>
+					</div>
+				</div>
+
+				<!-- 정책동의 2단계 Layer -->
+				<div class="layer_popup" id="preferencePopup" style="display: none;">
+					<div id="popup-type04" class="popAlign">
+						<div class="popup_wrap">
+							<p class="pop-tit">Präferenzen prüfen</p>
+							<p class="msg-text">Wenn Sie Ihre Produktpräferenzen festlegen, können wir Ihnen passende Empfehlungen zukommen lassen.</p>
+							<div class="pop-btn">
+								<a href="javascript:void(0)" class="button" id="preferenceCheckBtn" title="Zur Seite für die Prüfung der Präferenzen wechseln">JA</a>
+								<a href="javascript:void(0)" class="button login-close-btn" id="privacyCloseBtn" title="Präferenzen später prüfen">SPÄTER</a>
+							</div>
+							<button class="close-button icon-close-x login-close-btn" data-focus-id="shop-popover-close" data-tab-disable="true" tabindex="0">
+								<span class="blind">Seite für die Prüfung der Präferenzen schließen</span>
+							</button>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Black Background Area -->
+				<div id="dimContainer">
+					<div class="lightbox-skrim" style="display:none"></div>
+				</div>
+		</div>
+		</div>
+	</div>
+	<!--googleon: all-->
+</nav>
+
+
+<div class="gb-gnb__cart-empty" role="dialog" style="display: none;">
+	<p class="gb-gnb__cart-empty-desc">Ihr Warenkorb ist leer.</p>
+<!--<a href="#" class="gb-gnb__cart-empty-link">Continue shopping Continue shopping Continue shopping</a> -->
+	<a href="#" class="gb-gnb__cart-empty-link js-cart-close">OK</a><!-- close type -->
+	<button type="button" class="gb-gnb__cart-empty-close js-cart-close"><span class="blind">Überlagerndes Pop-up schließen</span></button>
+</div>
+
+
+<div class="cm-custom-popup js-custom-pop" role="dialog" style="display: none">
+    <div class="cm-custom-popup__inner">
+        <div class="cm-custom-popup__popup-area" style="max-width: 414px;">
+            
+            <div class="cm-custom-popup__custom-area">
+            </div>
+            <div class="cm-custom-popup__checkbox-wrap">
+                <input type="checkbox" id="_nomore_shop_terms" class="cm-custom-popup__checkbox-input">
+                <label for="_nomore_shop_terms" class="cm-custom-popup__checkbox-label">Nicht mehr anzeigen</label>
+            </div>
+            
+            <div class="cm-custom-popup__link-wrap">
+                <a href="#" class="cm-custom-popup__link" target="_blank" title="In neuem Fenster öffnen">Los</a>
+            </div>
+            <button type="button" class="cm-custom-popup__close js-custom-pop-close"><span>Überlagerndes Pop-up schließen</span></button>
+        </div>
+    </div>
+</div>
+
+
+<div class="s-layer-dimmed" style="display: none;"></div></div>
+
+    <input type="hidden" name="typeAheadDomain" id="typeAheadDomain" value="//searchapi.samsung.com/search/" />
+    <input type="hidden" name="scene7domain" id="scene7domain" value="http://images.samsung.com/is/image/samsung/" />
+    <input type="hidden" name="reviewUseYN" id="reviewUseYN" value="N"/>
+    <input type="hidden" name="reevooUseYN" id="reevooUseYN" value="N"/>
+    <input type="hidden" name="frontApiStageInfo" id="frontApiStageInfo" value="live"/>
+    <input type="hidden" name="gnbRunmodeInfo" id="gnbRunmodeInfo" value="live"/>
+</header>
+
+            <div class="page-title cm-g-page-title">
+<div class="sc-page-title">
+	<div class="sc-page-title__inner">
+		<p class="sc-page-title__title">Datenschutz</p>
+		
+	</div>
+	
+</div>
+
+
+
+
+
+
+</div>
+
+            
+<div id="content" class="st-about" role="main">
+	<div class="s-content-inner">
+		<div class="scc-static-content">
+           <div class="par parsys"><div class="cm-g-static-content section">
+  <style scoped="scoped">
+ul li {
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.st-about {
+    padding: 40px 30px;
+}
+
+a {
+    word-wrap: break-word;
+}
+</style>
+
+
+<div class="privacy-title">
+<h1>Datenschutzrichtlinie für die deutsche Samsung-Webseite</h1><br>
+  <p class="privacy_txt">Datum des Inkrafttretens:  [2014.3]</p><br>
+  <p class="privacy_txt">Samsung Electronics GmbH weiß, wie wichtig Privatsphäre für unsere Kunden ist, und wir möchten Sie transparent darüber informieren, wie wir Daten erheben, verwenden, offenlegen, weitergeben und speichern. Diese Datenschutzrichtlinie bietet einen Überblick über unsere Datenverarbeitungen. Die Datenschutzrichtlinie gilt für die deutsche Samsung-Webseite (unsere „Dienste“); sie gilt nicht für andere Dienste – z. B. MySamsung, Partner Lounge oder Samsung Careers _–, die über die Webseite zugänglich sind.<br>
+    <br>
+    Für bestimmte Datenverarbeitungen werden zusätzliche Einwilligungen eingeholt.<br>
+    <br>
+    Bitte beachten Sie, dass die Datenschutzrichtlinie unabhängig davon gilt, ob Sie einen Computer, ein Mobiltelefon, ein Tablet, einen Fernseher oder ein anderes Gerät zum Zugriff auf unsere Dienste verwenden. Wenn Sie nicht in die in der Datenschutzrichtlinie beschriebenen Datenverarbeitungen einwilligen, sollten Sie unsere Dienste nicht nutzen.<br>
+    <br>
+    Wenn wir die Datenschutzrichtlinie aktualisieren und Sie unsere Dienste nach der Aktualisierung verwenden, werden wir Sie über wesentliche Änderungen informieren, indem wir in den Diensten einen Hinweis veröffentlichen. Indem Sie auf unsere Dienste zugreifen oder sie nutzen, willigen Sie in die neuen, in der Aktualisierung beschriebenen Datenverarbeitungen ein. Die aktuelle Version der Datenschutzrichtlinie ist jederzeit hier [<a target="_blank" href="https://account.samsung.com/membership/pp">https://account.samsung.com/membership/pp</a>]. verfügbar. Anhand des „Datums des Inkrafttretens“ oben auf der Seite können Sie feststellen, wann die Datenschutzrichtlinie zuletzt aktualisiert wurde.</p><br>
+  <p id="part2" style="font-weight:bold;">Welche Informationen erheben wir über Sie?</p><br>
+  <p class="privacy_txt"><i>Informationen, die Sie direkt zur Verfügung stellen</i></p><br>
+  <p class="privacy_txt">Bei einigen Diensten können Sie uns direkt Informationen zur Verfügung stellen. Zum Beispiel:</p><br>
+   <ul style="list-style-type: disc;margin-left:20px;"> 
+    <li>Falls Sie uns kontaktieren, etwa unter den unten angegebenen Kontaktdaten, können Sie uns bestimmte Informationen über sich selbst, wie etwa Ihren Namen und Ihre E-Mail-Adresse mitteilen.</li>
+    <!--<li>If you order a product or paid service from us, we may ask for your name, contact information, shipping and billing address(es), and credit card information in order to process your order. </li>
+          <li>Some of our Services enable you to communicate with other people.  Those communications will be transmitted through and stored on our systems. </li>-->
+  </ul><br>
+  <p class="privacy_txt"><i>Informationen über Ihre Nutzung unserer Dienste </i></p><br>
+  <p class="privacy_txt">Neben den Informationen, die Sie zur Verfügung stellen, dürfen wir Informationen über Ihre Nutzung unserer Dienste mittels der Software auf Ihrem Gerät und anderer Methoden erheben. So dürfen wir beispielsweise erheben:</p><br>
+   <ul style="list-style-type: disc;margin-left:20px;"> 
+    <li><strong>Geräteinformationen </strong>—zum Beispiel Hardware-Modell, IMEI-Nummer und andere eindeutige Gerätekennzeichen, MAC-Adresse, IP-Adresse, Betriebssystemversion und Einstellungen des Geräts, das Sie zum Zugriff auf die Dienste verwenden. </li>
+    <li><strong>Protokollinformationen </strong>—zum Beispiel Zeit und Dauer Ihrer Nutzung der Dienste, Suchbegriffe, die Sie mittels der Dienste eingeben, und alle Informationen, die in <a href="#part6">Cookies</a> gespeichert werden, die wir auf Ihrem Gerät gesetzt haben. </li>
+    <li><strong>Standortinformationen </strong>—zum Beispiel das GPS-Signal Ihres Geräts oder Informationen über nahegelegene WiFi-Zugangspunkte und Mobilfunkbasisstationen, die uns bei Ihrer Nutzung bestimmter Dienste übertragen werden können. </li><br>
+    <!--<li><strong>Voice information</strong>—such as recordings of your voice that we make (and may store on our servers) when you use voice commands to control a Service.  (Note that we work with a third-party service provider that provides speech-to-text conversion services on our behalf.  This provider may receive and store certain voice commands.)</li>
+          <li><strong>Other information</strong> about your use of the Services, such as the apps you use, the websites you visit, and how you interact with content offered through a Service. </li>-->
+  </ul>
+  <!--<p class="privacy_txt"><i>Information from third-party sources</i></p>
+        <p class="privacy_txt">We may receive information about you from publicly and commercially available sources (as permitted by law), which we may combine with other information we receive from or about you.  We also may receive information about you from third-party social networking services when you choose to connect with those services. </p>
+        <p class="privacy_txt"><i>Other Information We Collect</i></p>
+        <p class="privacy_txt">We also may collect other information about you, your device, or your use of the services in ways that we describe to you at the point of collection or otherwise with your consent.</p>
+        <p class="privacy_txt">You can choose not to provide us with certain types of information (e.g., information we request during Samsung Account registration), but doing so may affect your ability to use some Services.</p>-->
+  <p id="part3" style="font-weight:bold;" class="privacy_txt">Wie verwenden wir Ihre Informationen?</p><br>
+  <p class="privacy_txt">Wir dürfen von uns erhobene Informationen zu folgenden Zwecken verwenden:</p><br>
+ <ul style="list-style-type: disc;margin-left:20px;"> 
+    <li>um von Ihnen angefragte Dienste oder Funktionen zur Verfügung zu stellen;</li>
+    <li>um auf Grundlage vergangener Aktivitäten in unseren Diensten <a href="#part7">benutzerspezifische Inhalte zur Verfügung zu stellen;</a></li>
+    <li>für Werbung, z. B. zur Bereitstellung benutzerspezifischer Werbung und gesponserter Inhalte (unter anderem über den Werbedienst AdHub);</li>
+    <li>zur Bewertung und Analyse unserer Märkte, Kunden, Produkte und Dienste, einschließlich der Bitte um Feedback zu unseren Produkten und Diensten und der Durchführung von Kundenumfragen;</li>
+    <li>um zu verstehen, wie Menschen unsere Dienste verwenden, damit wir <a href="#part8">die Dienste verbessern und neue Produkte und Dienste entwickeln können</a> und</li>
+    <li>anderweitig mit Ihrer Einwilligung.</li><br>
+    <!--<li>to provide maintenance services for your device; </li>
+          <li>to conduct free prize drawings, prize competitions or promotions, as permitted by law; and </li>
+          <li>otherwise with your consent. </li>-->
+  </ul>
+  <!--<p class="privacy_txt">We may combine information we collect from you and use it for purposes consistent with this Privacy Policy, subject to your additional consent. After you have consented to such information combination, you will be given the opportunity to disable such combination either through the settings menus of certain applicable devices or by visiting here [<a href="https://account.samsung.com/membership/service/dataCombination.do" target="_blank"><u>https://account.samsung.com/membership/service/dataCombination.do</u></a>]. </p>-->
+  <p style="font-weight:bold;" class="privacy_txt">An wen geben wir Ihre Informationen weiter?</p><br>
+  <p class="privacy_txt">Ohne Ihre Einwilligung geben wir keine Informationen an Dritte für deren eigene Marketing- oder Geschäftszwecke weiter. Wir dürfen Ihre Informationen jedoch an folgende Dritte weitergeben:</p><br>
+ <ul style="list-style-type: disc;margin-left:20px;"> 
+    <li><strong><u>Dienstleister</u></strong>. Wir dürfen Ihre Informationen an Unternehmen weitergeben, die für uns oder in unserem Namen Dienste zur Verfügung stellen. Diese Organisationen dürfen Ihre Informationen jedoch nur zur Bereitstellung der Dienste nutzen.</li>
+    <li><strong><u>Andere Parteien, wenn gesetzlich vorgeschrieben oder zum Schutz unserer Dienste erforderlich</u></strong>. Unter folgenden Umständen geben wir Ihre Informationen an andere Parteien weiter:</li>
+    <ul style="list-style-type: disc;margin-left:20px;"> 
+      <li>um die Gesetze einzuhalten oder wenn wir gezwungen sind, auf rechtliche Maßnahmen zu reagieren (z. B. auf einen Durchsuchungsbeschluss oder eine andere gerichtliche Entscheidung);</li>
+      <li>um die Einhaltung der Richtlinien, die unsere Dienste regeln, zu bestätigen oder durchzusetzen; und</li>
+      <li>um die Rechte, das Eigentum oder die Sicherheit von Samsung oder seinen angeschlossenen Unternehmen, Geschäftspartnern oder Kunden zu schützen bzw. zu gewährleisten.</li><br>
+    </ul>
+    <li><strong><u>Andere Parteien mit Ihrer Einwilligung oder aufgrund Ihrer Anweisungen</u></strong>.  Neben den in dieser Richtlinie beschriebenen Weitergaben können wir Informationen über Sie an Dritte weitergeben, wenn Sie darin einwilligen oder eine solche Weitergabe anfragen. </li>
+    <!--<li><strong><u>Other Parties When Required by Law or as Necessary to Protect Our Services</u></strong>.  There may be instances when we disclose your information to other parties: <br />
+            <ul style="margin-left:30px;">
+              <li>to comply with the law or respond to compulsory legal process (such as a search warrant or other court order); </li>
+              <li>to verify or enforce compliance with the policies governing our Services; and</li>
+              <li>to protect the rights, property, or safety of Samsung, or any of our respective affiliates, business partners, or customers.</li><br>
+            </ul>
+          </li>
+          <li><strong><u>Other Parties in Connection With Corporate Transactions</u></strong>.  We may disclose your information to a third party as part of a merger or transfer, or in the event of a bankruptcy.</li>
+          <li><strong><u>Other Parties With Your Consent or At Your Direction</u></strong>.  In addition to the disclosures described in this Privacy Policy, we may share information about you with third parties when you consent to or request such sharing. </li>--><br>
+  </ul>
+  <!--<p style="font-weight:bold;" class="privacy_txt">Your Choices</p>
+        <p class="privacy_txt">We offer a variety of choices about how we use your information. You can make choices about whether to receive promotional communications from us by following the unsubscribe instructions included in the communication. In addition, you can also generally make choices in your settings , or by visiting relevant webpages as listed below;</p><br>
+         <ul style="list-style-type: disc;margin-left:20px;"> 
+          <li>with respect to targeted advertising that may interest you, for example by AdHub [<a href="https://account.samsung.com/membership/service/adhub.do" target="_blank"><u>https://account.samsung.com/membership/service/adhub.do</u></a>]; and </li>
+          <li>with respect to choice for the combination of your information across services and devices for the purposes set out in the Privacy Policy [<a href="https://account.samsung.com/membership/service/dataCombination.do" target="_blank"><u>https://account.samsung.com/membership/service/dataCombination.do</u></a>].</li><br>
+        </ul>
+        <p class="privacy_txt">And you may be able to make choices in specific Services or when we give you a just-in-time notice.</p>-->
+  <p style="font-weight:bold;" class="privacy_txt">Was tun wir, um die Sicherheit Ihrer Informationen zu gewährleisten?</p><br>
+  <p class="privacy_txt">Wir haben angemessene technische und organisatorische Maßnahmen eingeführt, um die personenbezogenen Daten zu schützen, die wir in Verbindung mit den Diensten erheben. Bitte beachten Sie jedoch, dass wir zwar angemessene Schritte zum Schutz Ihrer Informationen ergreifen, dass jedoch Webseiten, Internetübertragungen, Computersysteme und kabellose Verbindungen nie vollkommen sicher sind.</p><br>
+  <!--<p style="font-weight:bold;" class="privacy_txt">Consent to International Transfer of Data </p>
+        <p class="privacy_txt">By using or participating in any Service and/or providing us with your information, you consent to the collection, transfer, storage and processing of your information outside of your country of residence (e.g., South Korea), consistent with this Privacy Policy.  Please note that the data protection and other laws of countries to which your information may be transferred might not be as comprehensive as those in your country.</p>-->
+  <p style="font-weight:bold;" class="privacy_txt">Zugriff auf Ihre Informationen</p><br>
+  <p class="privacy_txt">Sie haben das gesetzliche Recht, Details über die von uns über Sie erhobenen Informationen anzufordern und Unrichtigkeiten in diesen Informationen zu berichtigen. Wenn Sie eine Anfrage auf Zugriff auf Ihre Daten stellen möchten, wenden Sie sich bitte an unseren Kundenservice unter [<a href="/de/info/contactus.html " target="_blank">http://www.samsung.com/de/info/contactus.html</a>]</p><br>
+  <p style="font-weight:bold;" class="privacy_txt">Aufbewahrung von Daten</p><br>
+  <p class="privacy_txt">Wir bewahren die Informationen über Sie nur so lange auf wie für die Zwecke notwendig, für die sie erhoben wurden, oder wie vertraglich oder gesetzlich erforderlich oder erlaubt.</p><br>
+  <p style="font-weight:bold;" class="privacy_txt">Links und Produkte von Dritten in unseren Diensten</p><br>
+  <p class="privacy_txt">Unsere Dienste können Links zu Webseiten und Diensten Dritter enthalten, die sich außerhalb unserer Kontrolle befinden. Wir sind weder für die Sicherheit noch für den Datenschutz von Informationen verantwortlich, die von externen Webseiten oder anderen Diensten erhoben werden. Sie sollten Vorsicht walten lassen und die Datenschutzerklärungen der Webseiten und Dienste Dritter, die Sie nutzen, lesen. </p><br>
+  <p style="font-weight:bold;" class="privacy_txt">Drittanbieter, die Inhalte, Werbung oder Funktionalität im Rahmen unserer Dienste zur Verfügung stellen</p><br>
+  <p class="privacy_txt">Einige der Inhalte, Werbeanzeigen und Funktionalitäten im Rahmen unserer Dienste dürfen von Drittanbietern zur Verfügung gestellt werden, die nicht mit uns verbunden sind. Zum Beispiel:</p><br>
+   <ul style="list-style-type: disc;margin-left:20px;"> 
+    <li>bestimmte Drittanbieter dürfen Werbung schalten oder nachverfolgen, welche Werbeanzeigen Benutzern angezeigt werden, wie häufig die Benutzer diese Werbeanzeigen sehen und wie Benutzer auf die Anzeigen reagieren; und </li>
+    <li>wir bieten Ihnen die Möglichkeit, bestimmte Materialien im Rahmen der Dienste mittels sozialer Netzwerkdienste wie Facebook, Twitter, Google + und LinkedIn an andere weiterzugeben.</li><br>
+    <!--<li>Certain third parties may serve advertising or keep track of which advertisements users see, how often they see those advertisements, and what users do in response to them; and</li>
+          <li>We enable you to share certain materials on the Services with others through social networking services such as Facebook, Twitter, Google +, and LinkedIn. </li>-->
+  </ul>
+  <p class="privacy_txt">Diese Drittanbieter können bestimmte Informationen über Ihre Nutzung der Dienste erheben oder erhalten, auch mittels der Nutzung von <a href="#part6">Cookies, Beacons und ähnlichen Technologien</a>, und diese Informationen können im zeitlichen Verlauf erhoben werden. Einige dieser Unternehmen nehmen an von der Branche entwickelten Programmen teil, bei denen Kunden entscheiden können, ob sie zielgerichtete Werbung erhalten möchten oder nicht. Weitere Informationen finden Sie auf den Webseiten der Network Advertising Initiative [<a href="http://networkadvertising.org" target="_blank">http://networkadvertising.org</a>] und der Digital Advertising Alliance [<a href="http://www.daa.sg/" target="_blank">http://www.daa.sg/</a>]. </p><br>
+  <!--<p class="privacy_txt">If you connect with a social networking service, we may receive and store authentication information from that service to enable you to log in, as well as other information that you allow us to receive when you connect with these services.</p><br>
+        <p class="privacy_txt">Also, please note that if you choose to connect with a social networking service on a device used by people in addition to you, those other users may be able to see information stored or displayed in connection with your account on the social networking service(s) with which you connect. </p>-->
+  <p id="part6" style="font-weight:bold;" class="privacy_txt">Cookies, Beacons und ähnliche Technologien</p><br>
+  <p class="privacy_txt">Wir sowie bestimmte Drittanbieter, die Inhalte, Werbung oder andere Funktionalitäten im Rahmen unserer Dienste zur Verfügung stellen, dürfen Cookies, Beacons und andere Technologien in bestimmten Bereichen unserer Dienste verwenden. </p><br>
+  <p class="privacy_txt"><i>Cookies</i></p><br>
+  <p class="privacy_txt">Cookies sind kleine Dateien, die Informationen auf Ihrem Computer, Fernseher, Mobiltelefon oder anderem Gerät speichern. Sie geben der Stelle, die die Cookies gesetzt hat, die Möglichkeit, Sie auf/in verschiedenen Webseiten, Diensten, Geräten und/oder Browser-Sitzungen zu erkennen. Cookies dienen vielen nützlichen Zwecken. Zum Beispiel: </p><br>
+ <ul style="list-style-type: disc;margin-left:20px;"> 
+    <li>Cookies können sich Ihre Logindaten merken, sodass Sie sie nicht bei jeder Anmeldung eingeben müssen. </li>
+    <li>Dank Cookies verstehen wir und die Drittanbieter, welche Bereiche unserer Dienste am beliebtesten sind, da wir sehen können, welche Seiten oder Dienste von Benutzern besucht werden und wie viel Zeit sie jeweils dort verbringen. Indem wir diese Informationen untersuchen, können wir die Dienste besser anpassen und Ihnen ein besseres Erlebnis bieten.</li>
+    <li>Weiterhin verstehen wir und die Drittanbieter dank Cookies, welche Anzeigen Sie gesehen haben, damit Sie dieselbe Anzeige nicht bei jedem Zugriff auf die Dienste erneut sehen. </li>
+    <li>Darüber hinaus können wir und die Drittanbieter dank Cookies relevante Inhalte und Werbung zur Verfügung stellen, indem wir Informationen über Ihre Nutzung unserer Dienste und anderer Webseiten und Apps erheben. </li><br>
+  </ul>
+  <p class="privacy_txt">Wenn Sie einen Web-Browser zum Zugriff auf die Dienste verwenden, können Sie Ihren Browser so konfigurieren, dass er alle Cookies akzeptiert, alle Cookies ablehnt oder Sie benachrichtigt, wenn ein Cookie gesendet wird. Jeder Browser ist anders, sehen Sie daher im Hilfemenü Ihres Browsers nach, um zu erfahren, wie Sie Ihre Cookie-Einstellungen ändern. Das Betriebssystem Ihres Geräts verfügt eventuell über weitere Einstellungsmöglichkeiten für Cookies. </p><br>
+  <p class="privacy_txt">Beachten Sie jedoch bitte, dass einige Dienste nur mit Cookies funktionieren, sodass die Deaktivierung von Cookies Ihre Nutzung dieser Dienste oder von Teilen dieser Dienste beeinträchtigen kann. </p><br>
+  <p class="privacy_txt"><i>Sonstige lokale Speicherung</i></p><br>
+  <p class="privacy_txt">Wir sowie bestimmte Drittanbieter dürfen andere Arten von lokalen Speicherungstechnologien wie Local Shared Objects (auch bezeichnet als „Flash-Cookies“) und HTML5 Local Storage in Verbindung mit unseren Diensten verwenden. Diese Technologien sind den oben beschriebenen Cookies insofern ähnlich, als sie auf Ihrem Gerät gespeichert und zur Speicherung bestimmter Informationen über Ihre Aktivitäten und Präferenzen verwendet werden. Im Gegensatz zu Standard-Cookies können diese Technologien verschiedene Teile Ihres Geräts verwenden, sodass Sie sie möglicherweise nicht mittels der Standard-Funktionen und -Einstellungen Ihres Browsers steuern können. Weitere Informationen zum Deaktivieren oder Löschen von Informationen in Flash-Cookies finden Sie <a href="http://www.macromedia.com/support/documentation/de/flashplayer/help/settings_manager07.html" target="_blank">hier</a>.</p><br>
+  <p class="privacy_txt"><i>Beacons</i></p><br>
+  <p class="privacy_txt">Wir sowie bestimmte Drittanbieter können auch Technologien namens Beacons (oder „Pixel“) verwenden, die Informationen von Ihrem Gerät an einen Server mitteilen. Beacons können in Online-Inhalte integriert werden.Dank Beacons können Server bestimmte Informationen von Ihrem Gerät lesen, feststellen, wann Sie bestimmte Inhalte gesehen haben, Datum und Uhrzeit bestimmen, zu denen Ihnen das Beacon angezeigt wurde, sowie die IP-Adresse Ihres Geräts ermitteln. Wir sowie bestimmte Drittanbieter verwenden Beacons zu verschiedenen Zwecken, unter anderem zur Analyse der Nutzung unserer Dienste und (in Verbindung mit Cookies) zur Bereitstellung von Inhalten und Anzeigen, die für Sie eher relevant sind. </p><br>
+  <!--<p style="font-weight:bold;" class="privacy_txt"><u>By accessing and using our Services, you consent to the storage of cookies, other local storage technologies, beacons and other information on your devices.  You also consent to the access of such cookies, local storage technologies, beacons and information by us and by the third parties mentioned above.</u></p>-->
+  <p id="part4" style="font-weight:bold;" class="privacy_txt">Analysewerkzeuge</p><br>
+  
+  <p class="privacy_txt">Diese Webseite verwendet Google Analytics, einen Analysedienst, der von Google, Inc. zur Verfügung gestellt wird. Der Dienst verwendet <a href="#part6">Cookies</a>, um den Webseitenbetreiber dabei zu unterstützen zu analysieren, wie Besucher die Webseite nutzen. Die von den Cookies erzeugten Informationen über Ihre Nutzung der Webseite (einschließlich Ihrer IP-Adresse) werden an Google weitergegeben und von Google gespeichert, auch außerhalb der EU in Drittstaaten, in denen die Datenschutz- und anderen Gesetze möglicherweise nicht derart umfassend sind wie in Ihrem Land.</p><br>
+  
+  <p class="privacy_txt">Auf dieser Webseite wurde die IP-Anonymisierung eingeschaltet, so dass Ihre IP-Adresse zuvor in der EU gekürzt wird. Nur in besonderen Fällen wird die vollständige IP-Adresse an Google weitergegeben und dort gekürzt. Im Namen des Webseitenbetreibers verwendet Google die Information zu den Zwecken, Ihre Nutzung der Webseite zu bewerten, Berichte über die Webseitenaktivität zu erstellen und andere Dienstleistungen im Zusammenhang mit der Webseitenaktivität und Internetnutzung zu erbringen. Google wird Ihre IP-Adresse nicht mit anderen von Google gespeicherten Daten verbinden. Sie können der Verwendung von Cookies widersprechen, indem Sie die entsprechenden Einstellungen in Ihrem Browser vornehmen; für eine Anleitung, wie dies funktioniert, suchen Sie bitte die Webseite des Browser-Herstellers auf.</p><br>
+  
+  <p class="privacy_txt">Auf der Website ist außerdem der Webanalysedienst von Clicktale Ltd. implementiert. Dieser Dienst ermöglicht uns die Analyse des Nutzerverhaltens auf unserer Website (z.B. Mausklicks, Mausbewegungen, Scrollen und die Nutzung von Formularfeldern). Die Auswertung erfolgt ausschließlich anonym. Wir nutzen diese Informationen, um unsere Angebote für Sie weiterzuentwickeln und die Benutzerfreundlichkeit unserer Website zu verbessern.</p><br>
+  
+
+    <p class="privacy_txt">Weitere Informationen zur Datenerhebung durch Clicktale Ltd. erhalten sie in den Datenschutzbestimmungen von Clicktale Ltd. unter <a href="https://www.clicktale.com/privacy_service.aspx" target="_blank">https://www.clicktale.com/privacy_service.aspx</a>. Sollten Sie den Webanalysedienst von Clicktale Ltd. deaktivieren wollen, können Sie dies jederzeit mit Wirkung für die Zukunft auf <a href="http://www.Clicktale.net/disable.html" target="_blank">http://www.Clicktale.net/disable.html</a> tun.</p><br>
+	
+  
+  
+  <!--<p class="privacy_txt">If you have any specific questions, please contact us at:</p>--> 
+  <!--<p class="privacy_txt">Samsung Electronics Co., Ltd. <br />
+          129 Samsung-Ro, Maetan-3dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, Korea </p>--> 
+  <!--<p class="privacy_txt">Email: through the “Contact Us” section of <a href=" http://www.samsung.com/de/info/contactus.html" target="_blank"> http://www.samsung.com/de/info/contactus.html</a>.
+        <p class="privacy_txt">Toll free Number: 0800-SAMSUNG</p>
+          <a href="/content/samsung/de/info/privacy/adhub.html"><u>AdHub</u></a></p>
+          <a href="/content/samsung/de/info/privacy/smarttv.html"><u>SmartTV</u></a></p>-->
+  <p id="part4" style="font-weight:bold;" class="privacy_txt">Plugins sozialer Netzwerke</p><br>
+  <p class="privacy_txt">Unsere Dienste verwenden Plugins sozialer Netzwerke (“Plugins”). Wenn Sie einen Dienst verwenden, der Plugins enthält, können Informationen direkt von Ihrem Gerät zum Anbieter des sozialen Netzwerks übertragen werden. Wir haben keinen Einfluss auf die Daten, die von dem Plugin erhoben werden. Wenn Sie in das soziale Netzwerk eingeloggt sind, kann ein Bezug zwischen Ihrem dortigen Nutzerkonto und der Nutzung unseres Dienstes hergestellt werden. Wenn Sie mit den Plugins interagieren, etwa indem Sie auf „Gefällt mir“, „Folgen“ oder „Mitteilen“ klicken oder einen Kommentar schreiben, kann es sein, dass diese Informationen automatisch in Ihrem Profil bei dem sozialen Netzwerk auftauchen. Selbst wenn Sie nicht eingeloggt sind, kann es sein, dass die Plugins Ihre IP-Adresse an die Anbieter der sozialen Netzwerke senden. Bitte beachten Sie dies bei der Nutzung unserer Dienste.</p><br>
+  <p class="privacy_txt">Wenn Sie sich mit einem sozialen Netzwerkdienst auf einem Gerät verbinden, das auch von anderen Personen verwendet wird, können diese anderen Benutzer möglicherweise Informationen sehen, die in Verbindung mit Ihrem Profil auf der Seite des sozialen Netzwerkdienstes gespeichert sind oder angezeigt werden.</p><br>
+  <p class="privacy_txt">Weitere Informationen über die Anbieter der sozialen Netzwerke, deren Plugins in unseren Diensten verwendet werden („Anbieter“), finden Sie im Folgenden:</p><br>
+  <ul style="list-style-type: disc;margin-left:20px;"> 
+    <p id="part4" style="font-weight:bold;" class="privacy_txt">Anbieter von in unseren Diensten verwendeten Plugins</p><br>
+    <p class="privacy_txt">Falls Sie Mitglied in einem oder mehreren der folgenden sozialen Netzwerke sind und nicht wollen, dass der Anbieter Ihrer Nutzung unserer Dienste mit in dem sozialen Netzwerk über Sie gespeicherten Daten zusammenführen kann, loggen Sie sich bitte aus dem sozialen Netzwerk aus, bevor Sie unsere Dienste nutzen.</p><br>
+	
+	
+    <p id="part4" style="font-weight:bold;" class="privacy_txt">Facebook</p><br>
+    <p class="privacy_txt">Verantwortliche Stelle:Facebook Ireland Limited, Hanover Reach, 5-7 Hanover Quay, 2 Dublin, Ireland (“Facebook”). Weitere Informationen finden Sie in Facebooks Datenverwendungsrichtlinien unter <a href="https://www.facebook.com/about/privacy/" target="_blank">https://www.facebook.com/about/privacy/</a>.</p><br>
+	
+	
+    <p id="part4" style="font-weight:bold;" class="privacy_txt">Google+</p><br>
+    <p class="privacy_txt">Verantwortliche Stelle:Google Inc., Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). Weitere Informationen finden Sie in Googles Datenschutzerklärung unter <a href="http://www.google.de/intl/de/policies/privacy/" target="_blank">http://www.google.de/intl/de/policies/privacy/</a>.</p><br>
+    <p id="part4" style="font-weight:bold;" class="privacy_txt">LinkedIn</p><br>
+    <p class="privacy_txt">Verantwortliche Stelle: LinkedIn Ireland, Gardner House, Wilton Place, Wilton Plaza, Dublin 2, Ireland (“LinkedIn”). Weitere Informationen finden Sie in LinkedIns Datenschutzrichtlinie unter <a href="http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv" target="_blank">http://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv</a>.</p><br>
+    <p id="part4" style="font-weight:bold;" class="privacy_txt">Twitter</p><br>
+    <p class="privacy_txt">Verantwortliche Stelle: Twitter, Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA (“Twitter”). Weitere Informationen finden Sie in Twitters Datenschutzrichtlinie unter <a href="https://twitter.com/privacy" target="_blank">https://twitter.com/privacy</a>.</p><br>
+  </ul>
+  <p id="part4" style="font-weight:bold;" class="privacy_txt">Weitere Informationen</p><br>
+  <p class="privacy_txt">Falls Sie Fragen zum Datenschutz bei Samsung haben, wenden Sie sich gern an uns unter:</p><br>
+  <p class="privacy_txt">Samsung Electronics GmbH <br>
+    Samsung House, Am Kronberger Hang 6, 65824 Schwalbach/Ts., Deutschland</p><br>
+  <p class="privacy_txt">E-Mail: Über „Kontaktieren Sie uns“ unter <a href="/de/info/contactus.html" target="_blank">http://www.samsung.com/de/info/contactus.html</a> oder per E-Mail an --&gt;datenschutz@samsung.de.</p><br>
+  <p id="part7" class="privacy_txt"><strong>[Benutzerspezifische Inhalte zur Verfügung zu stellen]:</strong> Wir dürfen von uns erhobene Informationen verwenden, um Ihnen benutzerspezifische Inhalte zur Verfügung zu stellen und Empfehlungen zu geben, die teilweise auf Ihren vergangenen Aktivitäten in unseren Diensten beruhen.</p><br>
+  <p id="part8" class="privacy_txt"><strong>[die Dienste verbessern und neue Produkte und Dienste entwickeln]:</strong> Wir dürfen von uns erhobene Informationen verwenden, um zu verstehen, wie Sie von uns angebotene Produkte und Dienste nutzen, damit wir diese verbessern und neue Produkte und Dienste entwickeln können. Beispielsweise dürfen wir diese Informationen nutzen, um informiertere Entscheidungen zum Design unserer Geräte und zur Auswahl von Inhalten von Samsung und Drittanbietern zu treffen, die über unsere Geräte und Dienste zugänglich sind.</p>
+<br><br>
+<p class="privacy_txt"><strong>Kundeninformation nach § 11 der Verordnung über die Versicherungsvermittlung und -beratung</strong></p>
+<br>
+<p class="privacy_txt"><strong>Firma und Anschrift</strong></p>
+<p class="privacy_txt">
+Geschäftsführer: Sung Wan Myung<br>
+Am Kronberger Hang 6<br>
+65824 Schwalbach / Ts.<br>
+</p>
+<br>
+<p id="part7" class="privacy_txt"><strong>Tätigkeitsart</strong>
+<p class="privacy_txt">Wir sind als gebundener Versicherungsvertreter nach § 34d Abs. 4 der Gewerbeordnung (GewO) bei der IHK Frankfurt am Main gemeldet. <br>
+Gemeinsame Registerstelle nach § 11 a Abs. 1 GewO und Eintragung im Vermittlerregister<br>
+Deutscher Industrie- und Handelskammertag (DIHK) e.V.<br>
+Breite Straße 29<br>
+10178 Berlin<br>
+Telefon: 0180 600 58 50<br>
+(Festnetzpreis 0,20 €/Anruf; Mobilfunkpreise maximal 0,60 €/Anruf)<br>
+www.vermittlerregister.info<br>
+Unsere Eintragung im Vermittlerregister (www.vermittlerregister.info) kann unter folgender Registrierungsnummer abgerufen bzw. überprüft werden: D-UD0N-USF12-67 <br>
+</p>
+<br>
+<p class="privacy_txt"><strong>Anschrift der Schlichtungsstelle</strong></p>
+<p class="privacy_txt">Bei Streitigkeiten zwischen Ihnen und uns kann folgende Schlichtungsstelle angerufen werden:<br>
+Versicherungsombudsmann e.V. , Postfach 08 06 32, 10006 Berlin</p>
+
+
+
+</div>
+
+</div>
+
+</div>
+
+		</div>
+	</div>
+</div>
+
+<div id="privacy-popover-container"></div>
+            <footer id="footer" role="contentinfo">
+                <!--googleoff: all-->
+                <div class="gb-footer">
+                    <div class="gb-footer__top">
+                        <div class="gb-footer__inner">
+                            <div class="gb-footer__container">
+                                <div class="gb-footer__btn-top"><a href="#" title="Nach oben">Nach oben</a></div>
+                                <div class="gb-footer__col-wrap">
+                                    <div class="gb-footer__nav-link gb-footer__col2">
+                                        <strong><a href="/de/info/sitemap/" target="_self" title="" data-omni="footer:sitemap">Seiteninhalt</a></strong>
+                                        <ul class="gb-footer__col4">
+  <li class="gb-footer__item "><a href="/de/aboutsamsung/" target="_self" title="Über Samsung" data-omni="footer:About Us">Über Samsung</a></li>
+  <li class="gb-footer__item gb-footer__blank"><a href="http://www.samsung.com/us/aboutsamsung/ir/newsMain.do" target="_blank" title="Investoren : In neuem Fenster öffnen" data-omni="footer:Investor Relations (IR)">Investoren</a></li>
+  <li class="gb-footer__item "><a href="https://news.samsung.com/de/" target="_self" title="Newsroom" data-omni="footer:News">Newsroom</a></li>
+  <li class="gb-footer__item "><a href="http://www.samsung.com/de/entdecken/" target="_self" title="Entdecken" data-omni="footer:Entdecken">Entdecken</a></li>
+  <li class="gb-footer__item "><a href="http://www.samsung.com/de/about/jobs/" target="_self" title="Jobs &amp; Karriere" data-omni="footer:Jobs">Jobs &amp; Karriere</a></li>
+  <li class="gb-footer__item "><a href="/de/storelocator/" target="_self" title="Händlersuche" data-omni="footer:Store Locator">Händlersuche</a></li>
+</ul>
+                                        <ul class="gb-footer__col4">
+                                            <li class="gb-footer__item "><a href="http://www.samsung.com/de/info/newsletter/" target="_self" title="Newsletter" data-omni="footer:Newsletter">Newsletter</a></li>
+                                            <li class="gb-footer__item "><a href="/de/offer/" target="_self" title="Aktionen" data-omni="footer:Actions">Aktionen</a></li>
+                                            <li class="gb-footer__item "><a href="https://shop.samsung.com/de" target="_self" title="Shop" data-omni="footer:Shop">Shop</a></li>
+                                            <li class="gb-footer__item gb-footer__blank"><a href="https://partner.samsung.de/de/partner/prelogin.aspx" target="_blank" title="Partner Lounge : In neuem Fenster öffnen" data-omni="footer:Partner Portal">Partner Lounge</a></li>
+                                            <li class="gb-footer__item gb-footer__blank"><a href="http://developer.samsung.com/home.do" target="_blank" title="Für Entwickler : In neuem Fenster öffnen" data-omni="footer:For Developers">Für Entwickler</a></li>
+                                            <li class="gb-footer__item "><a href="https://my-samsung.com/de/mysamsung/" target="_self" title="MySamsung" data-omni="footer:MySamsung">MySamsung</a></li>
+</ul>
+                                    </div>
+                                    <div class="gb-footer__col4 s-support-link">
+                                        <strong>Support</strong>
+                                        <ul class="gb-footer__depth2">
+                                            <li class="gb-footer__item gb-footer__blank">
+                                                <a title="LIVE-CHAT STARTEN : In neuem Fenster öffnen" href="http://www.samsung.com/de/support/chat/" data-omni="footer:need support_Live Chat Support" target="_blank"><span class="gb-footer__svg s-ico-chat"></span>LIVE-CHAT STARTEN</a>
+                                            </li>
+                                            <li class="gb-footer__item gb-footer__blank">
+                                                <a title="E-MAIL SENDEN : In neuem Fenster öffnen" href="http://www.samsung.com/de/support/erms1" data-pop-options="{&#34;width&#34;:600, &#34;height&#34;:800}" data-omni="footer:need support_Email Support" class="popWin"><span class="gb-footer__svg s-ico-email"></span>E-MAIL SENDEN</a>
+                                            </li>
+                                            <li class="gb-footer__item">
+                                                <a title="HOTLINE KONTAKTIEREN" href="http://www.samsung.com/de/support#contactus" data-omni="footer:need support_Phone Support"><span class="gb-footer__svg s-ico-call"></span>HOTLINE KONTAKTIEREN</a>
+                                            </li>
+                                        </ul>
+</div>
+                                    <div class="gb-footer__col4 s-sns-link s-clear">
+                                        <div class="gb-footer__sns-list">
+                                            <strong>Social Media</strong>
+                                            <ul class="gb-footer__depth2">
+                                                <li class="gb-footer__item gb-footer__svg s-facebook">
+                                                    <a title="Facebook : In neuem Fenster öffnen" data-omni="footer:Facebook" href="https://www.facebook.com/SamsungDeutschland" target="_blank">Facebook</a>
+                                                </li>
+                                                <li class="gb-footer__item gb-footer__svg s-twitter">
+                                                    <a title="Twitter : In neuem Fenster öffnen" data-omni="footer:Twitter" href="https://twitter.com/samsungde" target="_blank">Twitter</a>
+                                                </li>
+                                                <li class="gb-footer__item gb-footer__svg s-instagram">
+                                                    <a title="Instagram : In neuem Fenster öffnen" data-omni="footer:Instagram" href="https://instagram.com/samsungmobile_de/" target="_blank">Instagram</a>
+                                                </li>
+                                                <li class="gb-footer__item gb-footer__svg s-youtube">
+                                                    <a title="You Tube : In neuem Fenster öffnen" data-omni="footer:You Tube" href="http://www.youtube.com/user/SamsungGermany" target="_blank">You Tube</a>
+                                                </li>
+                                            </ul>
+</div>
+                                        <div class="gb-footer__local-logo">
+                                            
+</div>
+                                    </div>
+                                </div>
+                                <div class="gb-footer__copyright"><p class="gb-footer__text">Copyright© 1995-2017 SAMSUNG Alle Rechte vorbehalten.</p></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="gb-footer__bottom">
+                        <div class="gb-footer__inner">
+                            <div class="gb-footer__container">
+                                <div class="gb-footer__bottom-list">
+                                    <ul class="gb-footer__list">
+                                        <li class="gb-footer__item"><a href="http&#58;//www.samsung.com/de/estore/static/link_terms_and_conditions_of_sale.html" title="SHOP AGB" data-omni="footer:bottom_SHOP AGB">SHOP AGB</a></li>
+                                        <li class="gb-footer__item"><a href="/de/info/privacy/" title="DATENSCHUTZ" data-omni="footer:bottom_Privacy">DATENSCHUTZ</a></li>
+                                        <li class="gb-footer__item"><a href="/de/info/legal/" title=" NUTZUNGSBEDINGUNGEN" data-omni="footer:bottom_Legal"> NUTZUNGSBEDINGUNGEN</a></li>
+                                        <li class="gb-footer__item"><a href="/de/accessibility/" title="BARRIEREFREIHEIT" data-omni="footer:bottom_Accessibility">BARRIEREFREIHEIT</a></li>
+                                        <li class="gb-footer__item"><a href="/de/info/imprint.html" title=" IMPRESSUM" data-omni="footer:bottom_Imprint"> IMPRESSUM</a></li>
+                                    </ul>
+                                    <div class="gb-footer__lang"><a href="/de/function/ipredirection/ipredirectionLocalList/" class="gb-footer__link" title="Visit your country&#39;s homepage"><img src="//cdn.samsung.com/etc/designs/smg/global/imgs/flags/ico_de.gif" width="20" height="13" class="gb-footer__flag" alt=" "/>Deutschland/Deutsch</a></div>
+</div>
+                                <div class="gb-footer__legal">
+                                    <p>Diese Website ist optimiert für Internet Explorer 9, Chrome, Safari und neuere Browser.<br />
+</p>
+
+
+
+</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--googleon: all-->
+            </footer>
+            <div class="s-gotop-wrap">
+                <button class="s-btn-gotop">Nach oben</button>
+            </div>
+            
+        </div>
+        
+        <script type="text/javascript" src="//cdn.samsung.com/etc/designs/smg/global/templates/page.js"></script>
+<script type="text/javascript" src="//cdn.samsung.com/etc/designs/smg/global/templates/page-feedback-opinion.js"></script>
+
+
+
+        
+
+        
+        <script type="text/javascript" src="//cdn.samsung.com/etc/designs/smg/global/templates/page-etc-none-lnb.js"></script>
+
+        <!--[if lte IE 9]> 
+		<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/jquery-ajaxtransport-xdomainrequest/1.0.3/jquery.xdomainrequest.min.js'></script> 
+		<![endif]-->
+         
+        <script type="text/javascript">_satellite.pageBottom();</script>
+		
+
+    </body>
+</html>
+	

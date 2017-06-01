@@ -1,0 +1,159 @@
+DATENSCHUTZINFO ZU NUTZUNGSBASIERTER ONLINE-WERBUNG
+
+### Informationen zu nutzungsbasierter Online-Werbung
+
+An dieser Stelle mochten wir Sie umfassend zum Thema nutzungsbasierte Online-
+Werbung informieren. Das Internet-Angebot bzw die Website, von der aus Sie
+gerade verlinkt worden sind, wird vom digitalen Werbevermarkter IP Deutschland
+GmbH, Picassoplatz 1, 50679 Koln vermarktet.
+
+Die Werbung auf den von IP Deutschland vermarkteten Websites wird durch die
+anonyme Erhebung und Verarbeitung Ihres Nutzungsverhaltens fur Sie optimiert
+und auf prognostizierte Interessen ausgerichtet. Dadurch profitieren Sie als
+Nutzer, indem Sie Werbung erhalten, die eher zu Ihren Interessensgebieten
+passt und dadurch, dass insgesamt weniger zufallig gestreute Werbung
+ausgeliefert wird.
+
+Zur Erfassung Ihres Nutzungsverhaltens wird ein Cookie auf Ihrem Rechner
+gespeichert. Cookies sind kleine Textdateien, die auf der Festplatte Ihres
+Computers abgelegt werden und die Wiedererkennung ermoglichen, aber keine
+personliche Identifikation Ihrer Person zulassen.
+
+Fur die Datenerhebung zur Auslieferung von nutzungsbasierter Online-Werbung
+zustandig sind folgende Unternehmen im Auftrag von IP Deutschland
+
+  * nugg.ad AG predictive behavioral targeting
+  * Audience Science Germany GmbH, Holzdamm 18, 20099 Hamburg
+
+### Welche Daten werden erfasst?
+
+Erfasst werden Informationen uber Ihre Aktivitaten auf den von IP Deutschland
+vermarkteten Websites (z.B. Surfverhalten, besuchte Unterseiten der Internet-
+Angebote, geklickte Werbebanner, etc.). Da nach geltender Rechtslage nicht
+vollig ausgeschlossen werden kann, dass die erhobenen Daten einen mittelbaren
+Personenbezug zulassen, werden samtliche Nutzungsdaten unter Verwendung eines
+Pseudonyms gespeichert, so dass eine personliche Identifikation nahezu
+ausgeschlossen ist. Gegebenenfalls werden diese Daten in Zusammenhang mit
+anonymen Daten aus Online-Fragebogen, verwendet. Die aus technischen Grunden
+ubermittelte IP Adresse Ihres Rechners wird dabei von einem unabhangigen
+Dritten vollstandig anonymisiert und in dem vorstehend beschriebenen
+Zusammenhang nicht fur die gesteuerte Einblendung von Werbung verwendet.
+
+Wenn Sie keine nutzungsbasierten Werbeeinblendungen mehr erhalten mochten,
+konnen Sie auf folgenden Links widersprechen und die Datenerhebung
+deaktiveren:
+
+  * http://www.nugg.ad/de/ 
+  * http://www.audiencescience.com/de/privacy
+  * http://www.ip.de/consumer-opt-out
+  * http://www.emetriq.com/opt-out/
+  * http://de.theadex.com/company/consumer-opt-out/
+
+Generell konnen Sie das Speichern von Cookies auf Ihrer Festplatte verhindern,
+indem Sie in Ihren Browser-Einstellungen "keine Cookies akzeptieren" wahlen.
+Sie konnen Ihren Browser auch so einstellen, dass dieser Sie vor dem Setzen
+von Cookies fragt, ob Sie einverstanden sind. Schließlich konnen Sie auch
+einmal gesetzte Cookies jederzeit wieder loschen. Wie all das im Einzelnen
+funktioniert, entnehmen Sie bitte der Anleitung Ihres Browser-Herstellers.
+Wenn Sie keine Cookies akzeptieren, kann dies im Einzelfall zu
+Funktionseinschrankungen der Webseite fuhren.  
+Bitte beachten Sie, dass Sie fur den Fall einer Cookie-Loschung auch den Opt
+Out Link erneut aktivieren mussen.
+
+Als Unternehmen haben wir uns zudem freiwillig der Selbstregulierung des
+Deutschen Datenschutzrats Online-Werbung (DDOW) unterworfen. Den fur uns
+gultigen Selbstregulierungskodex konnen Sie unter folgendem Link einsehen:  
+http://www.meine-cookies.org/ddow.html
+
+Zudem erhielt IP Deutschland im Oktober 2014 das Gutesiegel "EDAA Trust Seal"
+fur datenschutzkonformes Online Behavioral Advertising (OBA). Die European
+Digital Advertising Alliance (EDAA) ist die zentrale europaische
+Koordinierungsstelle der freiwilligen Selbstregulierung der digitalen
+Werbewirtschaft fur nutzungsbasierte Online-Werbung.  
+  
+Das EDAA Trust Seal wird verliehen, wenn Unternehmen Online Behavioral
+Advertising entsprechend den Regeln des EU OBA Framework erfolgreich umsetzen.
+Das EU OBA Framework ist eine Initiative der digitalen Wirtschaft in Europa
+und sorgt fur mehr Transparenz, Information und Entscheidungsgewalt des
+Internetnutzers uber Online-Werbung.
+
+### Datenerhebung anderer Dienstleister im Bereich nutzungsbasierter Online-
+Werbung
+
+Um Werbung fur Sie anhand Ihrer Nutzungsinteressen zu optimieren, haben wir es
+folgenden weiteren Dienstleistern gestattet, Nutzungsdaten zu erheben. Auf den
+angegebenen Webseiten der genannten Unternehmen finden Sie weitere
+Informationen zum Datenschutz sowie zu dem Angebot dieser Anbieter und ihrer
+Technologie.
+
+Partner Datenschutzinfos  
+adyard GmbH www.adyard.de/datenschutz/  
+Amazon https://www.amazon.de/privacy  
+Criteo GmbH www.criteo.com/de/privacy  
+emetriq www.emetriq.com/datenschutz/  
+eXelate exelate.com/privacy/services-privacy-policy/  
+Goldbach Audience (Switzerland) AG www.goldbachaudience.com/de-
+ch/footer/datenschutz  
+Google www.google.com/policies/privacy/ads/  
+GroupM www.groupm.com/privacy-policy  
+Kupona GmbH www.kupona.de/datenschutz  
+Ligatus GmbH www.ligatus.de/datenschutz  
+mediascale GmbH &amp; Co. KG www.mediascale.de/datenschutz/  
+  
+Microsoft Deutschland GmbH privacy.microsoft.com/de-de/default.mspx  
+Ooyala http://www.ooyala.com/privacy  
+Performance Media Deutschland GmbH www.performance-media.de/datenschutz/  
+Pilot 1/0 GmbH www.pilot.de/de/rechtliches/cookie-opt-out.html  
+plista GmbH www.plista.com/infos/privacy  
+Procter &amp; Gamble www.pg.com/privacy/german/privacy_notice.shtml  
+Specific Media Germany GmbH www.specificmedia.de/privacy  
+Spotx https://www.spotxchange.com/privacy-policy/  
+The Adex de.theadex.com/company/privacy/  
+xplosion interactive GmbH www.xplosion.de/datenschutz.php  
+Yahoo! Deutschland GmbH info.yahoo.com/privacy/de/yahoo/details.html  
+uniquedigital GmbH uniquedigital.de/datenschutz  
+  
+Aufgrund des pseudonymen bzw. anonymen Charakters der erhobenen Daten
+benotigen wir und die genannten Drittunternehmen keine gesonderte Einwilligung
+zum Behavioural Targeting (§ 15 Abs. 3 Telemediengesetz). Sie konnen aber dem
+Einsatz des Behavioural Targeting gegenuber den genannten Unternehmen
+widersprechen.
+
+### Auflistung der Seiten zum Opt Out
+
+Partner Opt Out Links  
+adyard GmbH adyard.de/privacy-policy  
+Amazon http://www.amazon.de/gp/dra/info  
+Criteo GmbH www.criteo.com/de/datenschutzrichtlinie  
+eXelate exelate.com/privacy/opt-in-opt-out/  
+Goldbach Audience (Switzerland) AG www.lotame.com/opt-out-preference-manager  
+GroupM www.groupm.com/privacy-policy  
+Kupona GmbH datenschutz.kupona.de  
+Ligatus GmbH www.ligatus.de/de/datenschutz/datenschutz-ligatus-
+retargeting.html#cookie_status  
+  
+mediascale GmbH &amp; Co. KG www.mediascale.de/datenschutz/  
+Microsoft Deutschland GmbH choice.microsoft.com/de  
+Ooyala http://proxy.videoplaza.tv/proxy/opt-out  
+Pilot 1/0 GmbH www.pilot.de/de/rechtliches/cookie-opt-out.html  
+plista GmbH www.plista.com/optout/index  
+Specific Media Germany GmbH specificmedia.de/de/legal/  
+Spotx https://www.spotxchange.com/privacy-policy/  
+The Adex de.theadex.com/company/consumer-opt-out/  
+xplosion interactive GmbH www.xplosion.de/opt-out.php  
+Yieldlab AG www.yieldlab.de/kontakt/privacy/  
+Yahoo! Deutschland GmbH info.yahoo.com/privacy/de/yahoo/details.html  
+  
+Eine weitere komfortable Moglichkeit zur Deaktivierung von Cookies bieten
+folgende Praferenzmanager:  
+http://www.meine-cookies.org/cookies_verwalten/praeferenzmanager-beta.html
+
+http://www.youronlinechoices.com/de/praferenzmanagement/
+
+## Fragen oder Anregungen?
+
+Sie haben Fragen oder Anregungen zum Thema nutzungsbasierte Online-Werbung?
+Treten Sie gern mit uns in Kontakt.
+
+Impressum | Kontakt
+

@@ -1,0 +1,276 @@
+  * Suche
+
+Alle Bereiche Meldungen Ratgeber Tarife &amp; Geräte Community Suchen
+
+  * Newsletter
+
+Kostenlos abonnieren  
+Übersicht aktueller Newsletter
+
+  * RSS
+
+teltarif RSS-Feed abonnieren alle RSS-Feeds im Überblick
+
+  * Mobil
+
+Mobil-Version dieses Artikels Besuchen Sie unser mobiles Portal
+mobil.teltarif.de
+
+  * App &amp; Netztest
+
+Download teltarif.de-App mit 0180-Telefonbuch downloaden  
+Ergebnisse der Mobilfunknetz-Bewertungen
+
+  * Login
+
+Einloggen  
+
+Bei der Eingabe Ihres Benutzernamens/Passwortes ist ein Fehler aufgetreten.  
+Bitte überprüfen Sie Ihre Angaben.
+
+Angemeldet bleiben Passwort vergessen Registrieren
+
+  * Home
+
+    * Unternehmen
+    * Mediadaten
+    * Presse
+    * für Partner
+    * Jobs
+    * Impressum
+
+  * Meldungen
+
+    * Top-Themen
+    * DVB-T2 HD
+    * iPhone 7
+    * Galaxy S8
+    * FRITZ!Box
+    * Windows 10
+    * Specials
+    * Technik
+    * teltarif hilft
+    * Tarifcheck
+    * Handy-Tests
+    * Schnäppchen
+    * Bereiche
+    * Mobilfunk
+    * Internet
+    * Festnetz
+    * Hardware
+    * Newsticker
+
+  * Ratgeber
+
+    * Festnetz
+    * Call by Call
+    * Callthrough
+    * Sonderrufnummern
+    * Vorwahl-Suche
+    * 0180-Telefonbuch
+    * Internet
+    * DSL
+    * Breitband via Kabel
+    * Alle Breitband-Varianten
+    * Router: FRITZ!Box
+    * Mobiles Tethering
+    * Mobilfunk
+    * Portierung
+    * Netz-Abdeckung
+    * Roaming / Ausland
+    * Handy-Flatrates
+    * Prepaid-Discounter
+    * Dienste
+    * Gratis-E-Mail / Free-SMS
+    * Navigation
+    * Sicherheit
+    * Instant Messenger
+    * Radio / Fernsehen
+mehr …
+
+  * Tarife &amp; Geräte
+
+    * Vertragsrechner
+    * Handy-Tarife
+    * Mobiles Internet
+    * Festnetz + Internet
+    * Nur Telefon
+    * Nur Internet
+    * By-Call-Rechner
+    * Call by Call
+    * mit Handy
+    * VoIP
+    * Calling-Card
+    * Internet by Call
+    * Handys
+    * Handy-Suche
+    * Tablet-Suche
+    * Android-7-Handys
+    * Aktuelle Tests
+    * Dual-SIM
+    * Weitere
+    * Handy-Vergleich
+    * Tablet-Vergleich
+    * LTE-Smartphones
+    * Aktuelle Smartwatches
+    * Apple iPad
+mehr …
+
+  * Community
+
+    * Forum
+    * Letzte Beiträge
+    * Liste der Foren
+    * Registrierung
+    * FAQ
+
+URL dieser Seite:  
+https://www.teltarif.de/internet/ipv6/datenschutz.html
+
+Home › Ratgeber › Internet › Datenschutz
+
+Datenschutz
+
+# Datenschutz und IPv6: So anonym surfen Sie wirklich
+
+Mit IPv6 könnte jedem Gerät dauerhaft eine feste IP-Adresse zugewiesen werden
+und es so eindeutig identifizierbar machen. Mit dynamischer Adressvergabe der
+Provider und Privacy Extensions erhält der Nutzer jedoch einen ähnlichen
+Datenschutz wie bei IPv4.
+
+Von Susanne Kirchhoff
+
+AAA
+
+Teilen (13)
+
+  * E-Mail
+  * Drucken 10
+
+Datenschutz und IPv6: So anonym surfen Sie wirklich Um IPv6 gibt es
+datenschutzrechtliche Bedenken, denn durch die große Anzahl von IPv6-Adressen
+könnte jedem Gerät dauerhaft eine feste IP-Adresse zugewiesen werden.
+Prinzipiell wäre es mit festen IP-Adressen möglich, für jede Anfrage dauerhaft
+festzustellen, von welchem Gerät sie kam. Allerdings ist nach wie vor
+umstritten, ob die IP-Adresse überhaupt im Sinne des deutschen
+Datenschutzrechts zu den personenbezogenen Daten gehört, die als besonders
+schützenswert betrachtet werden.
+
+Bisher erhalten Nutzer durch die dynamische IP-Vergabe der Internet Service
+Provider in der Regel bei jeder Einwahl eine neue IP-Adresse. Das ist nun
+nicht mehr notwendig, trotzdem wollen viele ISPs an diesem Verfahren für ihre
+Privatkunden festhalten. So können sie weiterhin einen Aufpreis für statische
+IP-Adressen verlangen, die nur für bestimmte Anwendungen wie etwa den Betrieb
+eines Servers sinnvoll sind.
+
+### Statische und dynamische Adressvergabe
+
+IP-Adressen bestehen aus einem Netzwerk-Teil und einem Geräte-Teil. Bei
+IPv6-Adressen bekommt ein Nutzer nur den Netzwerk-Teil von seinem ISP
+zugewiesen, der Geräte-Teil wird vom Netzwerk-Adapter im genutzten Endgerät -
+also etwa PC, Tablet oder Smartphone - erzeugt. Das Standardverfahren von IPv6
+sieht vor, dass der Geräte-Teil aus der MAC-Adresse generiert wird. Diese ist
+für jedes Netzwerkgerät auf der Welt einzigartig und könnte damit zum Beispiel
+bei jedem Besuch auf einer Webseite identifiziert werden, so dass es möglich
+wäre, ein detailliertes Profil anzulegen. Aus Datenschutzgründen wurden daher
+die sogenannten Privacy Extensions konzipiert. Mit diesen generiert ein
+Netzwerk-Gerät selbstständig einen wechselnden Geräteteil, unabhängig von der
+MAC-Adresse, anstatt nur einmalig eine feste Adresse anzulegen.
+
+### Privacy Extensions bei Windows, Mac OS X und Linux
+
+So unterscheiden sich IPv4 und IPv6 Bei Windows ab Version Vista und Mac OS X
+ab Version 10.7 (Lion) sowie bei Android ab Version 4.0 Ice Cream Sandwich und
+bei iOS seit Version 4.3 sind Privacy Extensions standardmäßig aktiviert.
+Nutzer von älteren Mac-OS-X-Versionen oder Linux müssen die Nutzung von
+Privacy Extensions gegebenenfalls selbst aktivieren, bei älteren Android- und
+iOS-Versionen ist dies nur auf gerooteten Geräten möglich.
+
+### Auch dynamische IP-Adresse garantiert keine Anonymität
+
+Auch wenn der Nutzer den Geräte-Teil der IPv6-Adresse mithilfe der Privacy
+Extensions dynamisch erzeugt, kann der Provider-Teil der Adresse spezifisch
+genug sein, um einen einzelnen Nutzer bzw. seinen Internet-Anschluss zu
+identifizieren. Um nicht anhand der IPv6-Adresse identifiziert zu werden,
+müssen daher beide Teile der IP-Adresse dynamisch bezogen werden.
+
+Bei Verdacht auf Straftaten kann allerdings die Polizei - wie schon heute bei
+IPv4 - auch bei dynamisch vergebenen IP-Adressen über den Internet Service
+Provider ermitteln, welchem Anschluss die Adresse zum fraglichen Zeitpunkt
+zugeteilt war, falls diese noch beim ISP gespeichert ist.
+
+### Weitere IPv6-Ratgeber im Überblick
+
+  * Einleitung: Das kann IPv6
+  * Eindeutig identifizierbar? Datenschutzbedenken bei IPv6
+  * Technische Details zu IPv6
+  * Weitere Features: IPv6 bringt mehr als nur viele Adressen
+  * Betriebssysteme und Router mit IPv6-Unterstützung
+
+Teilen (13)
+
+  * E-Mail
+  * Drucken 10
+
+Anzeige:
+
+WLAN-Internet ohne Techniker - 50 GB schon ab 24,99 €! Hol dir o2 DSL ab 9,99
+€ mtl.*  
+  
+* * *  
+  
+Jetzt mit EntertainTV Plus 120 € TV-Bonus sichern!  
+  
+Bild /
+
+Apple-Gewinnspiel
+
+Anlässlich der Apple-Hausmesse WWDC startet teltarif.de schon jetzt ein neues
+iPhone-Gewinnspiel: Sie können bei uns ein iPhone 7 und ein iPhone 7 Plus
+gewinnen!
+
+Hier gehts zum Gewinnspiel!
+
+Werbung  
+  
+Recht &amp; Vertrag
+
+Kostenfallen, falsche Rechnungen oder Ärger beim Vertragswechsel mit Ihrem
+Mobilfunk- oder Internet-Anbieter?
+
+Was es in solchen Situationen zu beachten gibt, verrät der Ratgeber Recht
+&amp; Vertrag.
+
+ipv6
+
+IPv6 soll das Problem der Adressknappheit im Internet lösen. Wir zeigen Ihnen,
+wie IPv6 funktioniert.
+
+Hintergrund: IPv6-Adressen
+
+Instant Messenger
+
+Nichts verpassen: Instant Messenger er­mög­lichen Echtzeit-Kommunikation!
+Aktuelles zu:
+
+  * WhatsApp
+  * ICQ
+  * Skype
+  * Facebook Messenger
+
+WhatsApp &amp; Alternativen
+
+Podcast
+
+Unser Podcast rund um  
+Tarife &amp; Netze
+
+Vollanschluss
+
+Vor- und Nachteile der Kündigung bei der Telekom
+
+Unternehmen | Presse | Mediadaten | Jobs | Partnerprogramm | Impressum | Ihre
+Daten | Kontakt | Newsletter bestellen
+
+© Teltarif 1997 - 2017
+

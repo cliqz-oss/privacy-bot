@@ -1,0 +1,350 @@
+Bitte aktivieren Sie Javascript in Ihrem Browser!
+
+zum Inhalt springen
+
+# Universität zu Köln
+
+Suchbegriff eingeben Finden
+
+Sprache wechseln EnglishEnglish
+
+Abschicken
+
+## Regionales Rechenzentrum (RRZK)
+
+## Hauptnavigation. Hinweis: bitte verwenden Sie Tab um die Menüpunkte
+anzuspringen.
+
+  * Aktuelles
+  * HPC & Projekte
+
+Zur Übersichtsseite HPC & Projekte Menü schließen
+
+    * HPC
+      * Zugang
+      * Ressourcen-Übersicht
+      * Nutzungsanleitungen
+      * Installierte Software
+      * Gauß-Allianz
+      * HPC in der IT-Beilage
+    * Softwareentwicklung
+      * Diensteentwicklung
+      * Softwareentwicklung für Apple-Geräte
+      * Softwareentwicklung für Windows
+    * Projekte
+      * StApps - die App für Studierende
+      * Vorlesungsaufzeichnung
+      * abgeschlossene Projekte
+
+  * E-Mail & Accounts
+
+Zur Übersichtsseite E-Mail & Accounts Menü schließen
+
+    * E-Mail
+      * Webmail
+      * Mailportal
+      * Verschlüsseln / Signieren
+      * E-Mail Einstellungen
+      * E-Mail-Alias
+      * Virtuelle Mail-Domänen
+      * Anleitungen & Hilfe
+    * Accounts
+      * Studierenden-Account
+      * Personal-Account
+      * Gast-Account
+      * HPC-Account
+      * WLAN-Account
+      * Tagungs-Account
+      * Antragsfomulare
+      * Passwortänderung
+    * Identitäts-Management - uniKIM
+      * LDAP-Zugang mit uniKIM
+      * Aktuelles vom uniKIM
+    * Mailinglisten
+      * Funktionsweise
+      * Abonnieren
+      * Mailinglisten an der Universität zu Köln
+      * RRZK-Mailinglisten
+
+  * Internetzugang & Web
+
+Zur Übersichtsseite Internetzugang & Web Menü schließen
+
+    * Netzzugang
+      * Netzzugang im Institut
+      * WLAN
+      * Gastnetz
+      * VPN
+      * Sicherheitshinweise UKLAN
+      * Störungsmeldung
+    * TYPO3
+      * TYPO3 Angebote
+      * Hilfe für Redakteure
+      * Hilfe für Admins
+      * UzK2015-Design
+    * Webprojekte
+      * Regeln
+      * Organisatorisches und Webprojektantrag
+      * Technisches
+      * Redaktionelles
+      * Schreibrechte
+      * Webadresse
+    * Bausteine für Webseiten
+      * Kontaktformular
+      * Blogs
+      * Online-Umfragen
+      * Captcha
+      * Mitarbeiterseiten
+    * Web-Konventionen
+    * URL-Shortener
+    * Unilagepläne
+    * Suchmaschine
+      * Suche
+      * Institutsinterne Suche
+      * Suchmaschinenoptimierung (SEO)
+    * Zertifizierungsstelle CA
+    * Kurzinfo Serveradressen
+
+  * Support & Information
+
+Zur Übersichtsseite Support & Information Menü schließen
+
+    * RRZK-Helpdesk
+      * PC-Beratung
+      * Mac-Beratung
+      * Virenschutz
+      * FAQ RRZK-Helpdesk
+    * Kursangebot
+    * Computer-Arbeitsplätze
+      * Standorte und Öffnungszeiten
+      * Kursräume
+      * Software-Ausstattung
+      * Reservierung der Kursräume
+      * Drucker und Scanner im RRZK
+      * Drucken im Philosophikum
+      * Posterdruck (plotten)
+    * E-Learning am RRZK
+      * Video-Tutorials
+      * AMBOSS (für Studierende der Medizin)
+      * E-Learning Tools
+    * RSS Feed
+    * Info-Monitore
+    * Handbücher zu IT-Themen
+      * Liste RRZN-Handbücher
+    * PC-Service
+    * Telefonie
+      * Anleitungen für die verschiedenen Telefontypen
+
+  * Software & Multimedia
+
+Zur Übersichtsseite Software & Multimedia Menü schließen
+
+    * Software
+      * Open Source und freie Software
+      * Rahmenverträge und Campuslizenzen
+      * Software-Shop
+      * Allgemeine Lizenzbedingungen des RRZK
+      * Anwendungsunterstützung
+      * Software-Beschaffung
+    * Beamer-Ausleihe
+      * Beamer-Liste
+      * Nutzungsbedingungen
+    * Vorlesungsaufzeichnung
+      * Gründe für Vorlesungsaufzeichnung
+    * Konferenzmanagement
+      * Antragsformular für Konferenzen
+    * Multimedia
+      * Videokonferenzen
+      * DFN Webkonferenzen
+      * Live-Streaming
+      * Ausleihgeräte
+      * Schnittplätze
+      * Retrodigitalisierung
+
+  * Daten speichern, teilen, verwalten
+
+Zur Übersichtsseite Daten speichern, teilen, verwalten Menü schließen
+
+    * Online-Speicher: SoFS
+      * Funktionsumfang
+      * Zugangswege
+      * Einrichtungen
+      * Windows
+      * Mac OS
+      * Zugriff per Webbrowser
+      * Alte Dateiversionen
+      * Datenschutz
+    * sciebo
+      * Registrierung
+      * Projektbox
+      * Gastkennungen
+    * GigaMove
+    * BSCW
+      * Kurzanleitung
+    * Wikis
+      * Wiki-Antrag
+    * OTRS
+      * OTRS-Antrag
+    * Backup-System TSM
+      * TSM Policies
+      * TSM Registrierung
+      * TSM Client-Software
+      * TSM FAQs
+    * Redmine
+      * Redmine-Funktionen
+      * git mit Redmine
+      * Besonderheiten am RRZK
+    * git/subversion
+      * git
+      * Subversion
+    * AFS Filesystem
+      * Windows
+      * RedHat/CentOS
+      * Fedora
+      * Debian/Ubuntu/Mint
+      * Rechte
+    * Das Homedirectory - Benutzerverzeichnis
+    * FTP
+
+  * Infoboard
+
+Zur Übersichtsseite Infoboard Menü schließen
+
+    * Servicestellen
+    * Kontakt
+      * Anfahrt
+      * Beschäftigte
+      * Support & Information
+      * Sekretariat
+      * Internetzugang, E-Mail & Web
+      * Daten speichern, verwalten, teilen
+      * Software & Multimedia
+      * HPC
+    * Richtlinien
+      * Benutzungsordnung
+      * IT-Sicherheitsleitlinien
+    * Betriebsmeldungen
+    * IT-Beilage
+    * RRZK-Blog
+    * Serveradressen
+    * Das RRZK
+      * Geschichte RRZK
+      * Neue Serverhalle
+      * Kunst im RRZK
+
+zum Inhalt springen
+
+## Sie sind hier:
+
+  * RRZK Unterseiten anzeigen
+    * Aktuelles
+    * HPC & Projekte
+    * E-Mail & Accounts
+    * Internetzugang & Web
+    * Support & Information
+    * Software & Multimedia
+    * Daten speichern, teilen, verwalten
+    * Infoboard
+
+# Datenschutzerklärung
+
+Diese Website benutzt Piwik, eine Open-Source-Software zur statistischen
+Auswertung der Besucherzugriffe. Piwik verwendet sog. “Cookies”, Textdateien,
+die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung
+der Website durch Sie ermöglichen. Die durch den Cookie erzeugten
+Informationen über Ihre Benutzung dieses Internetangebotes werden auf dem
+Server der Universität zu Köln in Deutschland gespeichert. Die IP-Adresse wird
+sofort nach der Verarbeitung und vor deren Speicherung anonymisiert. Sie
+können die Installation der Cookies durch eine entsprechende Einstellung Ihrer
+Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in
+diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website
+vollumfänglich nutzen können.
+
+Kontakt  
+Bei Fragen und für eine individuelle Beratung wenden Sie sich bitte an:  
+RRZK-Helpdesk  
+Telefon: (0221) 470-89555
+
+Erstellt am: 22\. Oktober 2012, zuletzt geändert am: 21\. Januar 2016
+
+## Funktionen
+
+  * A-Z
+  * Impressum
+  * Kontakt
+  * RSS-Feed
+  * Tracking (de/)aktivieren
+  * Datenschutzerklärung
+
+## Die Universität zu Köln
+
+### Informationen für
+
+  * Studierende
+  * Studieninteressierte
+  * Promotion
+  * Forschung und Transfer
+  * International
+  * Alumni und Förderer
+  * Presse und Marketing
+
+### Fakultäten
+
+  * Wirtschafts- und Sozialwissenschaftliche Fakultät
+  * Rechtswissenschaftliche Fakultät
+  * Medizinische Fakultät
+  * Philosophische Fakultät
+  * Mathematisch-Naturwissenschaftliche Fakultät
+  * Humanwissenschaftliche Fakultät
+
+### Schnellzugriff
+
+  * Verwaltung
+  * Universität
+  * Studierendensekretariat
+  * Kontakt
+  * Mensa
+  * Bibliothek
+  * Regionales Rechenzentrum
+  * Terminkalender
+  * Webmail
+
+## Social-Media-Kanäle der Universität zu Köln
+
+Facebook Twitter Xing Youtube Linked in iTunes U Instagram
+
+## Serivce
+
+  * Sitemap
+  * Impressum
+  * Kontakt
+
+© Universität zu Köln
+
+## Qualitätslabels der Universität zu Köln:
+
+Total Equality Award
+
+EQUIS
+
+CEMS
+
+AQAS
+
+Charta der Vielfalt
+
+HRK-Audit Internationalisierung
+
+Weltoffene Hochschulen
+
+German U15
+
+  *[CEMS]: CEMS International Management
+  *[Total Equality Award]: Total E-Quality
+  *[Charta der Vielfalt]: Charta der Vielfalt
+  *[German U15]: Charta der Vielfalt
+  *[AQAS]: Akkreditierte Studienprogramme
+  *[Weltoffene Hochschulen]: Charta der Vielfalt
+  *[EQUIS]: European Quality Improvement System
+  *[HRK-Audit Internationalisierung]: Charta der Vielfalt
+

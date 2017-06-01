@@ -1,0 +1,546 @@
+SoundCloud
+
+JavaScript is disabled
+
+You need to enable JavaScript to use SoundCloud
+
+Show me how to enable it
+
+# SoundCloud-Datenschutzrichtlinie
+
+Willkommen bei SoundCloudÂ®, einem Dienst der SoundCloud Limited
+(Â»SoundCloudÂ«, Â»wirÂ«, Â»unserÂ« bzw. Â»unsÂ«).
+
+Deine PrivatsphÃ¤re ist uns wichtig. In dieser Datenschutzrichtlinie erfÃ¤hrst
+Du, wie wir Deine Daten bei Deiner Nutzung von soundcloud.com und
+m.soundcloud.com (zusammen die Â»WebseiteÂ«), unserer mobilen und Desktop-Apps
+(unsere Â»AppsÂ«) und sÃ¤mtlicher dazugehÃ¶rigen Webseiten, Player, Widgets,
+Tools, Anwendungen, Daten, Software, APIs und sonstigen durch SoundCloud zur
+VerfÃ¼gung gestellten Diensten (nachfolgend die Â»DiensteÂ«) erheben,
+speichern, nutzen und offenlegen.
+
+Diese Datenschutzrichtlinie enthÃ¤lt u. a. ErlÃ¤uterungen zu Folgendem:
+
+  * unseren GrundsÃ¤tzen im Hinblick auf Deine Daten und Deine PrivatsphÃ¤re
+
+  * den Daten, die wir Ã¼ber Dich erheben
+
+  * wie wir Deine Daten nutzen
+
+  * wie wir Deine Daten weitergeben
+
+  * wie wir Cookies und Ã¤hnliche Technologien verwenden
+
+  * Deine AuswahlmÃ¶glichkeiten im Hinblick auf Deine Daten
+
+  * wie Du uns bei Fragen zum Datenschutz kontaktieren kannst
+
+Durch Nutzung der Webseite, der Apps oder eines Dienstes und insbesondere
+durch Registrierung eines SoundCloudÂ®-Kontos stimmst Du der Nutzung Deiner
+Daten in der in dieser Datenschutzrichtlinie dargelegten Weise zu.
+
+Zur besseren Ãbersicht haben wir Informationen zu unserer Verwendung von
+Cookies und Ã¤hnlichen Technologien in einer gesonderten Cookie-Richtlinie
+dargelegt. Die Cookie-Richtlinie ist Bestandteil der Datenschutzrichtlinie und
+wenn wir auf die Datenschutzrichtlinie verweisen, so verweisen wir auf die
+Datenschutzrichtlinie einschlieÃlich der Cookie-Richtlinie.
+
+Bitte nimm Dir etwas Zeit, um diese Datenschutzrichtlinie (einschlieÃlich der
+Cookie-Richtlinie) zu lesen und stelle sicher, dass Du mit unserer Nutzung und
+Offenlegung Deiner Daten einverstanden bist.
+
+Solltest Du einer der Bestimmungen in dieser Datenschutzrichtlinie nicht
+zustimmen, so solltest Du die Webseite, die Apps oder die Dienste nicht
+nutzen. Wenn Du Fragen oder andere Anliegen hast, kannst Du uns unter
+privacy@soundcloud.com kontaktieren.
+
+Bitte beachte, dass diese Datenschutzrichtlinie nur fÃ¼r die Webseite, die
+Apps und die Dienste (gemeinsam die Â»PlattformÂ«) gilt. Wenn Du die Plattform
+nutzt, kannst Du auf Links zu anderen Webseiten, Apps und Diensten oder auf
+Tools stoÃen, Ã¼ber die Du Daten mit anderen Webseiten, Apps und Diensten
+teilen kannst. SoundCloud ist nicht fÃ¼r den Umgang dieser anderen Webseiten,
+Apps oder Dienste mit personenbezogenen Daten verantwortlich und wir empfehlen
+Dir, die Datenschutzrichtlinien jeder dieser Webseiten, Apps oder Dienste zu
+prÃ¼fen, bevor Du Dein SoundCloudÂ®-Konto mit diesen verbindest oder
+personenbezogene Daten an diese weitergibst.
+
+## Unsere GrundsÃ¤tze
+
+Im Hinblick auf Datenschutz und PrivatsphÃ¤re haben wir ein recht einfaches
+Konzept, das sich folgendermaÃen zusammenfassen lÃ¤sst:
+
+Du solltest ganz genau wissen, was wir mit Deinen Daten tun  
+Diese Datenschutzrichtlinie soll Dir vollen Einblick in unsere
+Datenschutzpraktiken geben. Wenn diese Datenschutzrichtlinie nicht alle Deine
+Fragen beantwortet, kannst Du uns eine E-Mail an privacy@soundcloud.com
+schicken.
+
+Du solltest die volle Kontrolle Ã¼ber Deine Daten haben  
+Wir haben die Webseite so gestaltet, dass Du Kontrolle Ã¼ber die Daten hast,
+die Du Ã¼ber SoundCloudÂ® und andere Webseiten und Dienste, mit denen Du Dein
+SoundCloudÂ®-Konto verbindest, verÃ¶ffentlichst und teilst. Bitte nutze alle
+Vorteile dieser Tools und stelle sicher, dass Du nur das teilst, was Du auch
+teilen mÃ¶chtest.
+
+## Daten, die wir Ã¼ber Dich erheben
+
+Wir erheben Daten Ã¼ber Dich aus verschiedenen Quellen:
+
+Durch Dich angegebene Daten  
+Um die Webseite zu besuchen, musst Du uns gegenÃ¼ber keine personenbezogenen
+Daten angeben. FÃ¼r einige Dienste ist jedoch Deine Registrierung fÃ¼r ein
+SoundCloudÂ®-Konto erforderlich und im Rahmen dieser Registrierung stellst Du
+uns bestimmte Daten zur VerfÃ¼gung:
+
+  * Erforderliche Angaben: Bei Registrierung fÃ¼r ein SoundCloudÂ®-Konto, gleich welcher Art, musst Du Deine E-Mail Adresse (auÃer wenn Du Dich Ã¼ber Facebook registrierst und nicht Dein EinverstÃ¤ndnis zur Weitergabe an SoundCloud gibst) und Deinen Geburtsmonat und Dein Geburtsjahr angeben und ein Passwort wÃ¤hlen. Wenn Du ein Abonnement kaufst, musst Du zusÃ¤tzlich Deinen richtigen Namen, Deine Rechnungsanschrift und Deine Daten, um Zahlungen zu verifzieren, angeben.
+
+  * Freiwillige Angaben: Dein Geschlecht, falls Du dies angeben mÃ¶chtest.
+
+  * Profilangaben: Nach Deinem eigenen Ermessen kannst Du zusÃ¤tzliche Daten fÃ¼r Dein Ã¶ffentliches Profil auf SoundCloudÂ® angeben â dazu gehÃ¶ren:
+
+    * Dein richtiger Name
+    * Dein Nutzername (der Dein richtiger Name oder ein Pseudonym sein kann)
+    * die Stadt und das Land, in denen Du wohnst
+    * ein Profilbild, ein Titelbild oder ein Avatar
+    * Daten Ã¼ber Deine Einordnung im Hinblick auf Deinen Inhalt (zum Beispiel, ob Du ein Musiker, ein Label oder eine andere Art von Autor bist)
+    * Einzelheiten zu Deinen anderen Webseiten und Profilen in sozialen Netzwerken, einschlieÃlich Links zu diesen Webseiten und Profilen   
+
+Keine dieser Profilangaben sind obligatorisch und die von Dir angegebenen
+Daten kÃ¶nnen von Dir jederzeit gelÃ¶scht, bearbeitet, geÃ¤ndert oder ergÃ¤nzt
+werden. In dem nachstehenden Abschnitt zu AuswahlmÃ¶glichkeiten und Kontrolle
+erhÃ¤ltst Du weitere Informationen.
+
+  * Daten aus Korrespondenz: Wenn Du uns per E-Mail, Ã¼ber ein Online-Formular auf der Webseite oder per E-Mail, Fax oder andere Offline-Mittel kontaktierst, gibst Du uns gegenÃ¼ber bestimmte personenbezogene Daten an.
+
+  * Daten aus Umfragen: Wenn Du an einer Umfrage teilnimmst, gibst Du uns gegenÃ¼ber in Deiner Antwort bestimmte personenbezogene Daten an, sofern Du nicht anonym antwortest.
+
+  * von dir gepostete Daten: Wenn Du Tracks auf die Plattform hochlÃ¤dst, wenn Du Kommentare postest oder wenn Du etwas zu Community-Diskussionen beitrÃ¤gst, kannst Du personenbezogene Daten angeben.
+
+Daten, die wir automatisch erheben  
+GemÃ¤Ã unserer Datenschutzrichtlinie erheben wir bestimmte Daten automatisch
+infolge Deiner Nutzung der Plattform oder unter Verwendung von
+Webanalysediensten. Diese Daten umfassen u.a.:
+
+  * die Internetprotokolladresse (IP-Adresse) des GerÃ¤ts, von dem aus Du auf die Plattform zugreifst (diese kann manchmal dazu genutzt werden, das Land oder die Stadt, von dem bzw. der aus Du auf die Plattform zugreifst, zu ermitteln),
+
+  * die von Dir unmittelbar vor Deinem Besuch der Webseite besuchte Seite,
+
+  * bestimmte von Dir auf der Plattform vorgenommene AktivitÃ¤ten, einschlieÃlich der von Dir besuchten Seiten, Streaming, offline-HÃ¶ren oder Herunterladen von Tracks, Hochladen oder Aufnehmen von Tracks, Verbinden mit Deinem Facebook- oder Google+-Konto, Teilen eines Tracks mit einem anderen Nutzer, Folgen oder Entfolgen eines anderen Nutzers, Beitreten zu oder Verlassen einer Gruppe einer Gruppe, Posten eines Kommentars oder DurchfÃ¼hren einer Suche,
+
+  * von Dir eventuell auf der Webseite eingegebene Suchbegriffe,
+
+  * der Zeitpunkt, die HÃ¤ufigkeit und die Dauer Deiner Besuche der Plattform,
+
+  * Dein Browser und Betriebssystem,
+
+  * die Art des GerÃ¤ts, von dem aus Du auf die Plattform zugreifst, zum Beispiel, ob Du von einem Personal Computer oder einem mobilen EndgerÃ¤t auf die Plattform zugreifst, und dessen GerÃ¤te-ID,
+
+  * Deine Standortdaten (z. B. GPS), wenn Du SoundCloud-Apps benutzt,
+
+  * durch Cookies und Ã¤hnliche Technologien gemÃ¤Ã unserer Cookie-Richtlinie erhobene Daten und
+
+  * Daten Ã¼ber Deinen Umgang mit E-Mail-Nachrichten, zum Beispiel, ob Du diese geÃ¶ffnet, angeklickt oder weitergeleitet hast.
+
+Daten aus anderen Quellen  
+Facebook Connect  
+SoundCloud bietet Dir die MÃ¶glichkeit, Dich Ã¼ber Dein Facebook-Konto zu
+registrieren und anzumelden. Bei einer Registrierung Ã¼ber Facebook bittet
+Facebook Dich um Deine Einwilligung zur Weitergabe bestimmter Daten Deines
+Facebook-Kontos an SoundCloud. Diese Daten umfassen Deinen Vornamen, Deinen
+Nachnamen und Deine E-Mail Adresse zum IdentitÃ¤tsnachweis und zur
+Feststellung Deines Geschlechts sowie Deinen allgemeinen Standort, einen Link
+zu Deinem Facebook-Profil, Deine Zeitzone, Dein Geburtsdatum, Dein Profilbild,
+Deine Â»likesÂ« und Deine Freundesliste.
+
+Diese Daten werden von Facebook erhoben und werden uns gemÃ¤Ã den Bedingungen
+der Datenrichtlinie von Facebook zur VerfÃ¼gung gestellt. Du kannst die Daten,
+die wir von Facebook erhalten, Ã¼ber die PrivatsphÃ¤re-Einstellungen in Deinem
+Facebook-Konto beschrÃ¤nken.
+
+Wenn Du Dich Ã¼ber Facebook bei SoundCloudÂ® registrierst, so wird Dein
+SoundCloudÂ®-Konto automatisch mit Deinem Facebook-Konto verbunden und Daten
+Ã¼ber Deine AktivitÃ¤t auf SoundCloudÂ®, insbesondere neue Ã¶ffentliche von
+Dir auf SoundCloudÂ® gepostete Tracks und neue Favoriten werden mit Facebook
+geteilt und auf Deiner Chronik und im News Feed Deiner Facebook-Freunde
+verÃ¶ffentlicht. Wenn Du Deine AktivitÃ¤t auf SoundCloudÂ® nicht mit Deinen
+Facebook-Freunden teilen willst, so kannst Du dies Ã¼ber die Einstellungen-
+Seite auf der Webseite beschrÃ¤nken â in dem nachstehenden Abschnitt zu
+AuswahlmÃ¶glichkeiten und Kontrolle erhÃ¤ltst Du weitere Informationen. Wenn
+Du Dich versehentlich Ã¼ber Facebook registriert hast, so kannst Du Dein Konto
+Ã¼ber die Konto-Seite in Deinen Einstellungen jederzeit lÃ¶schen oder uns eine
+E-Mail an privacy@soundcloud.com schicken.
+
+Google+  
+Du kannst Dich Ã¼ber Dein Google+-Konto bei SoundCloud registrieren und
+anmelden. Bei einer Registrierung Ã¼ber Google+ bittet Google Dich um Deine
+Einwilligung zur Weitergabe bestimmter Daten Deines Google+-Kontos an
+SoundCloud. Diese Daten umfassen Deinen Vornamen, Deinen Nachnamen und Deine
+E-Mail Adresse zum IdentitÃ¤tsnachweis und zur Feststellung Deines
+Geschlechts, einen Link zu Deinem Google+-Profil, Dein Profilbild und Deine
+Freundesliste. Diese Daten werden von Google erhoben und werden uns gemÃ¤Ã
+den Bedingungen der DatenschutzerklÃ¤rung von Google zur VerfÃ¼gung gestellt.
+
+Wenn Du Dich Ã¼ber Google+ bei SoundCloudÂ® registrierst, so werden Daten
+Ã¼ber Deine AktivitÃ¤t auf SoundCloudÂ® auf Google standardmÃ¤Ãig fÃ¼r
+sÃ¤mtliche Personen aus Deinen Google+-Kreisen sichtbar sein und werden an
+Google gemÃ¤Ã den Google-Nutzungsbedingungen und der DatenschutzerklÃ¤rung
+von Google weitergegeben. Weitere Informationen Ã¼ber die Verwaltung der von
+Dir mit Deinem Google+-Konto geteilten AktivitÃ¤ten erhÃ¤ltst Du in der Google
+Wenn Du Dich versehentlich Ã¼ber Google+-Hilfe. Du kannst auf der
+Einstellungen-Seite innerhalb Deiner Google+-App festlegen, welche Personen
+aus Deinen Google+-Kreisen Deine AktivitÃ¤t auf SoundCloudÂ® sehen. Wenn Du
+festlegen mÃ¶chtest, welche AktivitÃ¤ten auf SoundCloudÂ® mit Deinen
+Google+-Kreisen geteilt werden, so kannst Du dies auf der Einstellungen-Seite
+Deines SoundCloud-Kontos unter dem Reiter Â»VerbindungenÂ« vornehmen.
+
+Wenn Du Dich versehentlich Ã¼ber Google+ bei SoundCloudÂ® registriert hast, so
+kannst Du Dein Konto Ã¼ber die Konto-Seite innerhalb Deiner Einstellungen
+jederzeit lÃ¶schen oder uns eine E-Mail an privacy@soundcloud.com schicken.
+
+## Wie wir Deine Daten nutzen
+
+Wir nutzen die Ã¼ber Dich erhobenen Daten zu folgenden Zwecken:
+
+Nutzung der und Interaktion mit der Plattform:
+
+  * um Dein SoundCloudÂ®-Konto zu betreiben und zu fÃ¼hren und Dir Zugriff auf die Webseite und die Nutzung der Apps und Dienste, die Du ab und zu anfragen kannst, zu ermÃ¶glichen. Deine E-Mail Adresse und Dein Passwort werden zu Deiner Identifikation bei der Anmeldung auf der Plattform genutzt. Deine GerÃ¤te-IDs werden zur genutzt, um sicherzustellen, dass die GerÃ¤te, die auf Dein Abonnement zugreifen, von Dir kontrolliert werden.
+
+  * um Dich als den Urheber der von Dir hochgeladenen Tracks, der von Dir geposteten Kommentare und/oder anderer von Dir geleisteten BeitrÃ¤ge auf der Plattform zu identifizieren,
+
+  * um nach Deiner Teilnahme an Umfragen zu fragen, diese durchzufÃ¼hren und die Ergebnisse dieser Umfragen auszuwerten, sofern Du an ihnen teilnimmst,
+
+  * um Dir technischen Support zur VerfÃ¼gung zu stellen,
+
+  * um auf einen von Dir abgegebenen Kommentar oder eine von Dir abgegebene Frage zu antworten,
+
+  * um anderen Nutzern Daten Ã¼ber das HÃ¶rverhalten anderer Leute im Hinblick auf ihre Tracks zur VerfÃ¼gung zu stellen, z. B. Ã¼ber das Streaming und Herunterladen ihrer Tracks oder Playlists oder darÃ¼ber, welche Leute ihrem Profil folgen,
+
+  * um AktivitÃ¤ten, die gegen unsere Nutzungsbedingungen, Community-Richtlinien oder anwendbares Recht verstoÃen oder verstoÃen kÃ¶nnten, zu verhindern oder gegen diese vorzugehen,
+
+  * um AltersbeschrÃ¤nkungen zu implementieren, verwenden wir Deinen Geburtsmonat und Dein Geburtsjahr,
+
+  * zusÃ¤tzliche Daten, die Du uns im Rahmen Deines Ã¶ffentlichen Profils zur VerfÃ¼gung stellst, wie Dein richtiger Name und Links zu Deiner Webseite und anderen Profilen in sozialen Netzwerken (aber nicht Deine E-Mail Adresse) werden auf Deiner Profilseite verÃ¶ffentlicht. Diese Daten sind Ã¶ffentlich zugÃ¤nglich und kÃ¶nnen von sÃ¤mtlichen Personen eingesehen werden, die auf die Webseite zugreifen oder unsere APIs oder anderen Dienste nutzen. Bitte berÃ¼cksichtige dies, wenn Du die Angabe zusÃ¤tzlicher Daten Ã¼ber Dich in ErwÃ¤gung ziehst,
+
+  * wenn Du ein Abonnement kaufst, werden Dein Name, Deine Adresse und Deine Zahlungsdaten zur Verarbeitung Deines Konto-Abonnements und von VerlÃ¤ngerungen und zu Zahlungszwecken verwendet. SÃ¤mtliche ZahlungsÃ¼berprÃ¼fungsdaten werden unter Verwendung der branchenÃ¼blichen SSL-VerschlÃ¼sselung (Secure Socket Layer) Ã¼bermittelt. SoundCloud entspricht zudem den Payment Card Industry Security Standards (den branchenÃ¼blichen Sicherheitsstandards fÃ¼r Zahlungskarten),
+
+  * Deine E-Mail Adresse wird genutzt, um Dir Aktualisierungen Ã¼ber den Dienst und Benachrichtigungen im Hinblick auf Dein Konto sowie (wenn Du deren Erhalt in Deinen KontoprÃ¤ferenzen ausgewÃ¤hlt hast) Newsletter, Marketingmitteilungen und bestimmte E-Mail-Benachrichtigungen zuzuschicken. In dem nachstehenden Abschnitt zu AuswahlmÃ¶glichkeiten und Kontrolle erhÃ¤ltst Du Informationen zur Ãnderung Deiner PrÃ¤ferenzen und der Abbestellung von Newslettern, Marketingmitteilungen und E-Mail-Benachrichtigungen,
+
+  * wenn Du ein Facebook- oder Google+-Nutzer bist und sich einer Deiner Facebook- oder Google+-Freunde fÃ¼r ein SoundCloudÂ®-Konto registriert, so kÃ¶nnen wir Deine Freunde, die bereits auf SoundCloud registriert sind, benachrichtigen, dass Du beigetreten bist, oder wir schlagen Dich Deinen Facebook- oder Google+-Freunden als jemand vor, dem sie auf SoundCloud folgen kÃ¶nnen,
+
+  * wenn Du ein Facebook- oder Google+-Nutzer bist und Dich Ã¼ber Facebook oder Google+ registrierst, so kÃ¶nnen wir die Daten, die wir von Facebook oder Google Ã¼ber Dich erhalten, auch dazu nutzen, Dich anderen Nutzern vorzuschlagen, denen Du auf SoundCloudÂ® folgen eventuell mÃ¶chtest, oder Dich mit diesen zu verbinden. Die Entscheidung, ob Du diesen Nutzern folgen mÃ¶chtest, liegt bei Dir und Du kannst sie jederzeit entfolgen.
+
+Verbesserung und bedarfsgerechte Gestaltung der Plattform und der Werbung:
+
+  * um die Nutzung der Plattform und die Leute zu analysieren, welche die Webseite besuchen und die Apps und Dienste nutzen, um SoundCloudÂ® zu verbessern und an Deine BedÃ¼rfnisse und Interessen anzupassen,
+
+  * um fÃ¼r Dich interessante SoundCloud-Anzeigen einzublenden, wenn Du Webseiten Dritter besuchst. Wenn Du Dir unsere Anzeigen auf einer Webseite Dritter oder in den Apps Dritter ansiehst, kÃ¶nnen wir oder von uns zu diesem Zweck beauftragte Dienste Dritter Daten erheben, die uns Dein Browser oder Deine mobile App zur VerfÃ¼gung stellen, wenn Du die Anzeige ansiehst (z. B. die IP-Adressen, den Referrer, Browserinformationen, den Zeitstempel der Anfrage). Die Dienste oder Apps Dritter kÃ¶nnen uns die Messung des Erfolgs unserer Anzeigen auf deren Webseiten ermÃ¶glichen. Dies beinhaltet z. B. die Frage, ob ein Anklicken der Webseite zu einem tatsÃ¤chlichen Kauf des Abonnements fÃ¼hrt. Bitte lies die Datenschutzrichtlinien dieser Webseiten Dritter, um zu verstehen, welche Daten erhoben werden kÃ¶nnen und wie Du dies deaktivierst,
+
+  * um Dir Anzeigen im Auftrag von Werbetreibenden anzuzeigen, nutzen wir Daten, die Du uns bei Deiner Nutzung der Plattform zur VerfÃ¼gung stellst (z. B. beim HÃ¶ren, Liken oder der Erstellung von Playlists), einschlieÃlich Deiner Standortdaten, zusammen mit Daten, die Du uns Ã¼ber die Plattform zur VerfÃ¼gung stellst, z. B. demografische Daten (wie Dein Alter oder Dein Geschlecht), die Du uns direkt oder Ã¼ber Dienste Dritter zur VerfÃ¼gung stellen kannst, sowie Daten, die Dein Browser uns bei der Nutzung der Plattform zuschickt (z. B. Referrer, GerÃ¤tetyp oder Standortdaten). Dadurch kÃ¶nnen wir Dir relevantere und interessantere Anzeigen einblenden. Bitte beachte, dass wir keine personenbezogenen Daten an Werbetreibende weitergeben. Stattdessen geben Werbetreibende durch bestimmte generische Kriterien (z. B. Wohnort, Altersgruppe, Anzahl von Followern eines unbekannten Nutzers) eine bestimmte EmpfÃ¤ngergruppe fÃ¼r eine spezifische Werbekampagne vor. Wenn Dein Profil diesen generischen Kriterien entspricht, so kÃ¶nnen wir Dir eine passende Anzeige einblenden. Wir kÃ¶nnen Dir Anzeigen auch auf Grundlage des von Dir kÃ¼rzlich angesehenen oder gesuchten Inhalts einblenden. Bevor wir zum ersten Mal Standortdaten der App nutzen, wird Dich Dein mobiles EndgerÃ¤t grundsÃ¤tzlich erst um Deine Einwilligung bitten. Wenn Du Deine Einwilligung erteilt hast, werden standortbezogene Dienste auf Deinem GerÃ¤t fÃ¼r einige Sekunden Standortdaten erheben. Diese werden dann an uns oder einen entsprechenden Dienstleister weitergegeben. Wenn wir Drittdienstleister, wie Werbenetzwerke, die es uns ermÃ¶glichen, Dir interessenbezogene Anzeigen einzublenden, beauftragen, so kÃ¶nnen wir diesen auch erlauben, bestimmte Daten, wie Cookie-Daten, von Dir zu erheben. Diese Daten erlauben es diesen Dritten, zugeschnittene Anzeigen zu liefern, die deren Ansicht nach am interessantesten fÃ¼r Dich sind. Wenn Du diesen Webseiten Dritter erlaubst, bei Deiner Nutzung ihrer Plattformen Daten zu erheben und weiterzugeben, so kÃ¶nnen Werbenetzwerke diese Daten zusammen mit den Daten, deren Erhebung wir ihnen auf der Plattform erlauben, nutzen. Bitte lies die Datenschutzrichtlinien dieser Webseiten Dritter, um zu verstehen, welche Daten erhoben werden kÃ¶nnen und wie Du dies deaktivierst,
+
+  * um die Nutzung der Plattform und/oder die Inhalte von E-Mail-Newslettern oder anderen Materialien, die wir Dir ab und zu zuschicken kÃ¶nnen, anzupassen. Zu anderen Zwecken, sofern wir Dir dies zum entsprechenden Zeitpunkt offenlegen und sofern Du der geplanten Nutzung Deiner personenbezogenen Daten zustimmst.
+
+## Weitergabe Deiner Daten
+
+Wir geben Deine Daten nicht an Dritte weiter, auÃer soweit in dieser
+Datenschutzrichtlinie (einschlieÃlich unserer Cookie-Richtlinie) angegeben.
+Unter bestimmten UmstÃ¤nden kann es vorkommen, dass wir einige Daten, die wir
+zu den oben genannten Zwecken Ã¼ber Dich erheben oder die Du uns zu den oben
+genannten Zwecken zur VerfÃ¼gung stellst, weitergeben mÃ¼ssen â diese
+UmstÃ¤nde gestalten sich wie folgt:
+
+  * Andere Nutzer: SÃ¤mtliche Daten auf Deinem Ã¶ffentlichen Profil (auÃer Deiner E-Mail Adresse) sind fÃ¼r andere Nutzer der Plattform zugÃ¤nglich, die Deine Profiangaben ansehen, Deine Ã¶ffentlichen Tracks anhÃ¶ren und kommentieren, sich zu der Liste Deiner Follower hinzufÃ¼gen und Dir Nachrichten schicken kÃ¶nnen. Wenn Du Dir von einem Pro-Nutzer hochgeladene Tracks anhÃ¶rst, so wird diesem Pro-Nutzer weitergegeben, dass Du Dir diese Tracks angehÃ¶rt hast und ebenso, dass Du diesem Pro-Nutzer jetzt folgst, sodass dieser die Beliebtheit seiner Tracks nachverfolgen kann. Auch wenn Du Tracks auf der Plattform kommentierst, sind Deine Kommentare fÃ¼r alle Nutzer der Plattform zugÃ¤nglich.
+
+  * Mit Deiner Einwilligung: Wir Ã¼bermitteln Deine Daten, sofern Du dem ausdrÃ¼cklich zugestimmt hast. Dies wird zum Zeitpunkt der Erhebung Deiner Daten ausdrÃ¼cklich klargestellt.
+
+  * Dienstleister: Wir arbeiten mit bestimmten renommierten Dritten zusammen, von denen einige ihren Standort auÃerhalb des EuropÃ¤ischen Wirtschaftsraums haben kÃ¶nnen, die fÃ¼r uns bestimmte, auf die Plattform bezogene Spezialleistungen erbringen. Diesen Dritten wird Zugriff auf bestimmte Deiner Daten gewÃ¤hrt, aber nur soweit dies fÃ¼r diese Dritte zur Erbringung ihrer Dienstleistungen fÃ¼r uns erforderlich ist. Soweit wir personenbezogene Daten an diese Dritten Ã¼bermitteln, verlangen wir von diesen Dritten, angemessene organisatorische und technische SicherheitsmaÃnahmen zum Schutz personenbezogener Daten vor unbefugter Offenlegung zu ergreifen und personenbezogene Daten nur gemÃ¤Ã unseren Anweisungen und nur, soweit dies zur Erbringung ihrer Dienstleistungen fÃ¼r uns erforderlich ist, zu verarbeiten.
+
+  * Nutzer unserer API: SoundCloud verfÃ¼gt Ã¼ber eine offene API, die es Anwendungsentwicklern ermÃ¶glicht, Elemente der Plattform in neue vielversprechende Apps zu integrieren. Einige dieser Entwickler kÃ¶nnen auÃerhalb des EuropÃ¤ischen Wirtschaftsraums ansÃ¤ssig sein. SÃ¤mtliche Daten, die Du auf der Plattform verÃ¶ffentlichst, einschlieÃlich Deiner Ã¶ffentlichen Profilangaben und Ã¶ffentlichen Tracks, kÃ¶nnen diesen Entwicklern zugÃ¤nglich sein. Bitte berÃ¼cksichtige dies, wenn Du entscheidest, welche Daten Du auf Deinem Profil verÃ¶ffentlichst. In dem nachstehenden Abschnitt zu AuswahlmÃ¶glichkeiten und Kontrolle erhÃ¤ltst Du Informationen zur BeschrÃ¤nkung der Ã¼ber die API zugÃ¤nglichen Daten.
+
+  * Andere Netzwerke und verbundene Apps: Wenn Du Dein SoundCloudÂ®-Konto mit anderen Apps oder sozialen Netzwerken, wie Facebook, Google+, Tumblr oder Twitter, verbindest, so gibst Du bestimmte Daten an diese Apps oder Netzwerke weiter. Bei Facebook, Google+, Tumblr oder Twitter werden alle neuen Ã¶ffentlichen Tracks, die Du postest oder die Du Dir auf SoundCloudÂ® anhÃ¶rst, oder neue Favoriten mit diesen Netzwerken geteilt und sind fÃ¼r Deine Follower oder Freunde in diesen Netzwerken sichtbar. Bei verbundenen Apps musst Du dem App-Entwickler vollen Zugriff auf Dein SoundCloudÂ®-Konto gewÃ¤hren, damit Du Tracks innerhalb dieser App hoch- bzw. herunterladen, kommentieren, liken oder reposten kannst. Dies bedeutet, dass Du Deine Ã¶ffentlichen Daten sowie Zugriff auf Deine privaten Tracks weitergibst. SoundCloud ist fÃ¼r diese anderen Apps oder Netzwerke nicht verantwortlich, daher solltest Du sicherstellen, dass Du Dein Konto nur mit Apps oder Diensten verbindest, denen Du vertraust. In dem nachstehenden Abschnitt zu AuswahlmÃ¶glichkeiten und Kontrolle erhÃ¤ltst Du Informationen zur Festlegung der Daten, die Du weitergibst, und zur Trennung der Verbindung Deines Kontos mit anderen Apps oder Netzwerken.
+
+  * Werbetreibende kÃ¶nnen Dienste Dritter einsetzen, um die angemessene Schaltung ihrer Anzeigen sicherzustellen und den Erfolg ihrer Kampagnen auf Webseiten und in Apps zu ermitteln. Wir erlauben diesen Diensten, Daten zu diesen Zwecken zu erheben und zu nutzen.
+
+  * Daten in aggregierter Form: Wir kÃ¶nnen Deine personenbezogenen Daten mit Ã¤hnlichen Daten anderer Nutzer der Plattform aggregieren, um statistische Daten zur Plattform und ihrer Nutzung zu erstellen, die wir dann an Dritte weitergeben oder Ã¶ffentlich zugÃ¤nglich machen kÃ¶nnen. Diese Daten enthalten jedoch keine E-Mail Adressen, andere Kontaktdaten oder sonstige Daten, die dazu genutzt werden kÃ¶nnten, Dich online oder als reale Person genau zu identifizieren.
+
+  * Soweit durch das Gesetz vorgeschrieben: Wir Ã¼bermitteln Deine Daten, wenn wir annehmen dÃ¼rfen, dass dies gesetzlich zulÃ¤ssig bzw. vorgeschrieben ist, einschlieÃlich in Entsprechung eines Gerichtsbeschlusses, einer Vorladung oder sonstiger rechtlichen Forderung oder Anforderung.
+
+  * Zum Schutz unserer Interessen: Wir kÃ¶nnen Deine Daten offenlegen, wenn uns dies zum Schutz oder der Verteidigung unserer legitimen Rechte und Interessen oder der legitimen Rechte und Interessen unserer Nutzer, Angestellten, Direktoren oder Anteilseigner erforderlich erscheint und/oder um die Sicherheit der Plattform und/oder der SoundCloudÂ®-Community zu gewÃ¤hrleisten.
+
+  * Im Rahmen einer UnternehmensÃ¼bertragung: Wir kÃ¶nnen Deine Daten an eine natÃ¼rliche oder juristische Person Ã¼bermitteln, die alle oder alle wesentlichen VermÃ¶genswerte oder das das gesamte oder im Wesentlichen das gesamte GeschÃ¤ft von SoundCloud erwirbt; Gleiches gilt fÃ¼r den Fall eines Zusammenschlusses unseres Unternehmens mit dieser natÃ¼rlichen oder juristischen Person oder im Falle unserer ZahlungsunfÃ¤higkeit.
+
+## Cookies und Ã¤hnliche Technologien
+
+Wie die meisten Webseiten verwenden wir Cookies und andere standardmÃ¤Ãige
+Internettechnologien zur Verbesserung der durch uns bereitgestellten Webseite,
+Apps und Dienste. Informationen zu unserer Verwendung von Cookies und
+Ã¤hnlichen Technologien findest Du in einer gesonderten Cookie-Richtlinie, die
+Bestandteil dieser Datenschutzrichtlinie ist. Die Cookie-Richtlinie umfasst
+zudem Informationen zur Blockierung und Sperrung von Drittanbieter-Cookies
+(die wir ausschlieÃlich zum Zweck der Analyse der Nutzung unserer Plattform
+und der Verbesserung des Inhalts auf unserer Plattform einsetzen) sowie zur
+Deaktivierung anderer Technologien, wie Fehler-Reporting, innerhalb unserer
+mobilen Apps.
+
+Dir eingeblendete Anzeigen werden in manchen FÃ¤llen durch Dritte
+bereitgestellt. Diese kÃ¶nnen, soweit Du dies in Deinen Einstellungen oder
+Deinem GerÃ¤t erlaubt hast, Daten Ã¼ber Deinen Besuch und Deine Nutzung der
+Plattform nutzen, um Dir personalisierte Anzeigen von Produkten oder
+Dienstleistungen einzublenden, die fÃ¼r Dich von Interesse sein kÃ¶nnten.
+Personenbezogene Daten, wie Dein Name oder Deine E-Mail Adresse, werden nicht
+an diese weitergegeben.
+
+Es ist unser Anliegen, Dir so ausfÃ¼hrliche Informationen wie mÃ¶glich Ã¼ber
+unsere Nutzung von Cookies und Ã¤hnlichen Technologien zur VerfÃ¼gung zu
+stellen. Wenn Du Dich fÃ¼r die Nutzung der Plattform ohne Blockierung oder
+Sperrung dieser Cookies oder Deaktivierung anderer Technologien, wie in
+unserer Cookie-Richtlinie beschrieben, entscheidest, so bekundest Du Deine
+Einwilligung zu unserer Nutzung dieser Technologien und unserer Nutzung
+(gemÃ¤Ã dieser Datenschutzrichtlinie und unserer Cookie-Richtlinie)
+sÃ¤mtlicher personenbezogener Daten, die wir unter Verwendung dieser
+Technologien erheben.
+
+## AuswahlmÃ¶glichkeiten und Kontrolle
+
+Es ist uns ein Anliegen, Dir so umfassende AuswahlmÃ¶glichkeiten wie mÃ¶glich
+im Hinblick auf die Menge der Daten, die Du uns gegenÃ¼ber mitteilst, und im
+Hinblick auf die BeschrÃ¤nkung dieser Informationen einzurÃ¤umen. Um unsere
+Webseite zu besuchen, ist es nicht erforderlich, dass Du uns gegenÃ¼ber
+personenbezogene Daten angibst; bestimmte Daten werden jedoch bei Deinem
+Besuch (wie vorstehend beschrieben) automatisch erhoben. Wenn Du Dich trotzdem
+fÃ¼r die Registrierung eines SoundCloudÂ®-Kontos entscheidest, kannst Du Deine
+Daten folgendermaÃen beschrÃ¤nken.
+
+PrÃ¤ferenzen fÃ¼r E-Mails und Benachrichtigungen  
+Wenn Du Dich in Deinem Konto angemeldet hast, kannst Du Deine Einstellungen
+Ã¼ber den Drei-Punkte-Reiter oben rechts aufrufen und die Einstellungen Ã¼ber
+das Dropdown-MenÃ¼ auswÃ¤hlen.
+
+In dem Reiter Benachrichtigungen kannst Du uns mitteilen:
+
+  * welche E-Mail-Benachrichtigungen Du ggf. von uns erhalten mÃ¶chtest und
+
+  * welche Benachrichtigungen Du ggf. von uns zu AktivitÃ¤ten erhalten mÃ¶chtest.
+
+Ãber den Reiter Benachrichtigungen in Deinen Einstellungen kannst Du die
+E-Mail-Benachrichtigungen auch ausstellen. Dadurch werden sofort sÃ¤mtliche
+Benachrichtigungen bis auf wesentliche Benachrichtigungen zum Konto, wie
+wichtige Aktualisierungen des Dienstes, Berichte zu Urheberrechtsverletzungen
+und sonstige wesentliche Informationen Ã¼ber Dein Konto und Deine Nutzung der
+Plattform, gesperrt. Es ist ebenfalls mÃ¶glich, E-Mail-Newsletter und
+âBenachrichtigungen (auÃer wesentlichen Benachrichtigungen zum Konto)
+jederzeit durch Anklicken des Links am Ende jeder E-Mail abzubestellen.
+
+In dem Reiter Deiner Konto-Einstellungen kannst zusÃ¤tzliche oder alternative
+E-Mail Adressen hinzufÃ¼gen, Ã¼ber die Du durch uns kontaktiert werden
+mÃ¶chtest.
+
+Weitergabe an andere Apps und Netzwerke  
+Ãber den Reiter Verbindungen in Deinen Einstellungen auf der Webseite kannst
+Du die Daten kontrollieren, die Du mit anderen Netzwerken und Anwendungen
+teilst. Du kannst nicht nur auswÃ¤hlen, mit welchen Deiner sozialen Netzwerke
+Du Daten teilen mÃ¶chtest, sondern auch den Zugriff auf andere Dienste und
+Anwendungen festlegen, mit denen Du Dein SoundCloudÂ®-Konto verbunden hast.
+
+Wenn Du Dich Ã¼ber Dein Facebook- oder Google+-Konto bei SoundCloudÂ®
+registrierst, so wird Dein SoundCloudÂ®-Konto automatisch mit Deinem Facebook-
+bzw. Google+-Konto verbunden. Daten Ã¼ber die Ã¶ffentlichen Tracks, die Du auf
+SoundCloudÂ® postest, Dir anhÃ¶rst oder likst, werden an das verbundene
+Facebook- oder Google+-Konto weitergegeben. Von dir mit Facebook geteilte
+Inhalte erscheinen auf Deiner Chronik und im News Feed Deiner Facebook-
+Freunde. Von Dir mit Google geteilte Inhalte sind fÃ¼r Personen aus Deinen
+Google+-Kreisen sichtbar, wenn sie Dein Google+-Profil besuchen, entsprechende
+Google-Suchen Ã¼ber auf Google geschalteten Anzeigen und die in den
+Einstellungen Deines Google-Kontos ausgewÃ¤hlten Dienste durchfÃ¼hren. Wenn Du
+nicht mÃ¶chtest, dass diese Daten an Facebook oder Google weitergegeben
+werden, solltest Du Deine Einstellungen entsprechend Ã¤ndern.
+
+Bitte beachte, dass diese Datenschutzrichtlinie nicht fÃ¼r Seiten oder
+Anwendungen Dritter gilt und dass wir die AktivitÃ¤ten auf diesen Seiten oder
+Anwendungen nicht kontrollieren kÃ¶nnen. Wir empfehlen Dir, die
+Datenschutzrichtlinien dieser Seiten oder Anwendungen durchzulesen, bevor Du
+Deine Daten an diese Seiten oder Anwendungen Dritter weitergibst oder Dein
+SoundCloudÂ®-Konto mit diesen verbindest.
+
+Weitergabe an andere Nutzer  
+
+FÃ¼r den Fall, dass Deine Tracks personenbezogene Daten oder sonstige Daten
+enthalten, die Du nicht teilen mÃ¶chtest, so kannst Du unter den Einstellungen
+auf der Track-Seite festlegen, wer auf diese Tracks zugreifen kann (klicke das
+Stift-Symbol im Waveform-Player fÃ¼r die betreffenden Tracks an). Durch die
+Umstellung Deiner Tracks von Â»publicÂ« auf Â»privateÂ« kannst Du den Zugriff
+auf Deine Tracks beschrÃ¤nken.
+
+Weitergabe an App-Entwickler  
+SoundCloudÂ® verfÃ¼gt Ã¼ber eine offene API, die es Drittentwicklern
+ermÃ¶glicht, einige ziemlich coole Apps als Erweiterung der Plattform zu
+erstellen. Wenn Du diesen App-Drittentwicklern Deine Tracks lieber nicht
+zugÃ¤nglich machen mÃ¶chtest, so kannst Du den API-Zugriff auf der Track-Seite
+jedes von Dir hochgeladenen Tracks sperren. Klicke dazu auf das Stift-Symbol
+im Waveform-Player und entferne den Haken in dem KÃ¤stchen Â»Apps zulassenÂ«
+am Ende der Seite. Bitte beachte, dass Deine Ã¶ffentlichen Profilangaben immer
+noch zugÃ¤nglich sind, dazu gehÃ¶ren jedoch keine Daten, die nicht Ã¶ffentlich
+auf der Webseite verfÃ¼gbar sind.
+
+Anpassung der Plattform und personalisierte Anzeigen  
+Wir kÃ¶nnen auch Drittdienstleister einsetzen, die Cookies oder Ã¤hnliche
+Technologien verwenden, um Dir in unserem Auftrag personalisierte Anzeigen
+einzublenden. In unserer Cookie-Richtlinie findest Du Informationen, wie Du
+diese deaktivieren kannst.
+
+Bitte beachte, dass Dir, auch wenn Du die interessenbezogenen Anzeigen
+deaktivierst, immer noch Anzeigen eingeblendet werden kÃ¶nnen, die
+wahrscheinlich nicht so ansprechend fÃ¼r Dich sind.
+
+Cookies  
+Information zur Blockierung oder Sperrung von Cookies findest Du in unserer
+Cookie-Richtlinie. Weitere Informationen erhÃ¤ltst Du unter
+http://aboutcookies.org.
+
+App-PrÃ¤ferenzen  
+Ãber die Einstellungen in Deinem iOS-GerÃ¤t oder der Android-App kannst Du
+die Tracking-Analyse und Fehler-Reporting deaktivieren. Wenn Du unsere iOS-App
+verwendest, rufe zur Deaktivierung die Einstellungen Deines iOS-GerÃ¤tes auf
+und Ã¶ffne den Reiter SoundCloudÂ®. In Android-GerÃ¤ten musst Du die
+SoundCloudÂ®-App Ã¶ffnen und dort den Reiter Grundeinstellungen auswÃ¤hlen.
+Von diesem MenÃ¼ aus kannst Du ganz einfach Analysen und/oder Fehler-Reporting
+sperren und somit das Senden von Analysedaten oder Daten aus Fehler-Reporting
+der App unterbinden. Weiter Informationen erhÃ¤ltst Du in unserer Cookie-
+Richtlinie.
+
+LÃ¶schung Deines Kontos  
+Du kannst Dein Konto jederzeit Ã¼ber Deine Konto-Seite in Deinen Einstellungen
+auf der Webseite lÃ¶schen. Bitte berÃ¼cksichtige jedoch, dass sÃ¤mtliche mit
+Deinem Konto verbundenen Daten, einschlieÃlich der von Dir hochgeladenen
+Tracks und der mit diesen Tracks verbundenen Nutzungsdaten, bei LÃ¶schung
+Deines Kontos gelÃ¶scht werden und nicht wiederherstellbar sein kÃ¶nnen. Aus
+diesem Grund raten wir Dir, vor LÃ¶schung Deines Kontos auf Dein Konto
+hochgeladenen Inhalt zu speichern und eine Sicherungskopie davon zu erstellen.
+
+Es ist mÃ¶glich, dass Deine Daten noch einige Zeit nach LÃ¶schung Deines
+SoundCloudÂ®-Kontos in den Suchergebnissen von Internetsuchmaschinen
+erscheinen, sofern die Suchmaschine Internetseiten temporÃ¤r speichert. Die
+ZwischenspeicherungsvorgÃ¤nge von Suchmaschinen liegen auÃerhalb des
+Einflussbereichs von SoundCloud und aus diesem Grund kÃ¶nnen wir fÃ¼r Daten,
+die nach Entfernung der Daten von der Plattform durch Suchmaschinen
+gespeichert bleiben, keine Verantwortung Ã¼bernehmen.
+
+Bitte beachte, dass die LÃ¶schung von SoundCloudÂ®-Apps oder Apps Dritter, mit
+denen Dein SoundCloudÂ®-Konto verbunden ist, nicht zu einer LÃ¶schung Deines
+SoundCloudÂ®-Kontos fÃ¼hrt. Wenn Du Dein Konto lÃ¶schen mÃ¶chtest, so kannst
+Du dies in Deinen Einstellungen auf der Webseite Ã¼ber den Reiter Konto
+vornehmen. GleichermaÃen werden, wenn Du eine mit Deinem SoundCloudÂ®-Konto
+verbundene Drittanbieter-App Ã¼ber unsere API lÃ¶schst, mÃ¶glicherweise nicht
+alle Daten innerhalb der Drittanbieter-App gelÃ¶scht. In den
+Nutzungsbedingungen und der Datenschutzrichtlinie des App-Anbieters erhÃ¤ltst
+Du Informationen zur LÃ¶schung Deiner Daten aus dieser Drittanbieter-App.
+
+## Zugriff auf Deine Daten
+
+Wie vorstehend beschrieben, kann auf die meisten personenbezogenen Daten und
+anderen von Dir uns gegenÃ¼ber angegebenen Daten Ã¼ber die Einstellungen-Seite
+in Deinem SoundCloudÂ®-Konto zugegriffen werden und diese kÃ¶nnen darÃ¼ber
+aktualisiert werden. Wenn Du auf andere von uns Ã¼ber Dich gespeicherten
+personenbezogenen Daten zugreifen mÃ¶chtest, diese Ã¤ndern oder lÃ¶schen
+mÃ¶chtest oder wenn Du der Verarbeitung der durch uns Ã¼ber Dich gespeicherten
+personenbezogenen Daten widersprechen mÃ¶chtest, so teile uns dies Ã¼ber
+privacy@soundcloud.com oder die untenstehende Anschrift mit.
+
+Wenn Du uns um die LÃ¶schung Deines Kontos bittest (entweder Ã¼ber die
+Einstellungen-Seite oder per E-Mail), kommen wir dieser Bitte innerhalb eines
+angemessenen Zeitraums nach; es kann jedoch sein, dass wir einige Deiner
+personenbezogenen Daten aufbewahren mÃ¼ssen, um unseren gesetzlichen
+Verpflichtungen nachzukommen oder soweit wir ein berechtigtes Interesse an der
+Aufbewahrung dieser Daten haben.
+
+## Verantwortliche Stelle
+
+Wenn Du ein Nutzer in den USA bist, ist verantwortliche Stelle in Bezug auf
+Deine Daten die SoundCloud Inc., die ihren Sitz in den USA hat. Wenn Du ein
+Nutzer auÃerhalb der USA bist, ist die verantwortliche Stelle in Bezug auf
+Deine Daten die SoundCloud Limited, die ihren Sitz in der EU hat. Um zuordnen
+zu kÃ¶nnen, ob Du ein Nutzer aus den USA oder ein Nutzer auÃerhalb der USA
+bist, verwenden wir die IP-Adresse Deines GerÃ¤ts zum Zeitpunkt der
+Registrierung. Wir Ã¼bermitteln mÃ¶glicherweise Deine Daten an andere mit
+SoundCloud verbundene Unternehmen. Eine Ãbermittlung wird nur zu den in
+dieser Datenschutzrichtlinie genannten Zwecken erfolgen. Du kannst deine
+Einwilligung jederzeit widerrufen.
+
+MÃ¶glicherweise werden die Daten von Nutzern aus den USA durch SoundCloud
+Limited im Auftrag von SoundCloud Inc. verarbeitet.
+
+## Internationale DatenÃ¼bermittlung
+
+SoundCloud Limited hat Ihren Standort in Europa und Deine personenbezogenen
+Daten werden gemÃ¤Ã europÃ¤ischem Recht erhoben, gespeichert, genutzt und
+weitergegeben. Gelegentlich mÃ¼ssen wir jedoch Deine personenbezogenen Daten
+in die USA Ã¼bermitteln. Bitte beachte, dass Datenschutzvorschriften in den
+USA von denen in Deinem Land abweichen kÃ¶nnen und dass Du durch Nutzung der
+Plattform der Ãbermittlung, Speicherung und Verarbeitung Deiner
+personenbezogenen Daten in den USA gemÃ¤Ã dieser Datenschutzrichtlinie und
+anwendbarem Recht zustimmst.
+
+## Kinder
+
+Es ist nicht vorgesehen, dass Kinder SoundCloudÂ® nutzen. Personen unter 13
+Jahren ist die Nutzung der Plattform nicht gestattet und sie dÃ¼rfen nicht
+versuchen, sich fÃ¼r ein Konto zu registrieren oder uns gegenÃ¼ber
+personenbezogene Daten anzugeben. Wir erheben wissentlich keine
+personenbezogenen Daten von Personen unter 13 Jahren bzw. gestatten diesen die
+Registrierung fÃ¼r ein Konto nicht. Wenn es uns bekannt wird, dass wir
+personenbezogene Daten von einer Person unter 13 Jahren erhoben haben, so
+lÃ¶schen wir diese Daten so schnell wie mÃ¶glich. Wenn Du Grund zu der Annahme
+hast, dass wir solche personenbezogenen Daten erhoben haben kÃ¶nnten, so teile
+uns dies bitte sofort unter privacy@soundcloud.com mit.
+
+## Ãnderungen und Aktualisierungen dieser Datenschutzrichtlinie
+
+Wir kÃ¶nnen diese Datenschutzrichtlinie gelegentlich aktualisieren und, wenn
+wir eine solche Aktualisierung vornehmen, Ã¤ndern wir auch das nachstehend
+genannte Datum der letzten Ãnderung. SÃ¤mtliche an unserer
+Datenschutzrichtlinie vorgenommenen Ãnderungen werden immer an dieser Stelle
+verfÃ¼gbar sein, sodass die Nutzer von SoundCloudÂ® stets Kenntnis der durch
+uns erhobenen Daten und unserer mÃ¶glichen Nutzung und Weitergabe dieser Daten
+haben. Bitte besuche diese Seite ab und zu, um sicherzustellen, dass Du die
+Ãnderungen der Datenschutzrichtlinie kennst. Wesentliche Ãnderungen dieser
+Datenschutzrichtlinie werden registrierten Nutzern in einer an ihr Konto
+geschickten Benachrichtigung und/oder durch Posten einer Mitteilung Ã¼ber die
+Ãnderung auf der Webseite angezeigt.
+
+## Weitere Fragen?
+
+Wenn Du weitere Fragen zu dieser Datenschutzrichtlinie hast, uns Ãnderungen
+dieser Datenschutzrichtlinie vorschlagen mÃ¶chtest oder wissen mÃ¶chtest,
+welche Daten wir Ã¼ber Dich speichern, so schicke uns eine E-Mail an
+privacy@soundcloud.com oder schreibe uns an: SoundCloud Limited, Rheinsberger
+Str. 76/77, 10115 Berlin, z. H.: Rechtsabteilung.
+
+## Du willst Deine Daten nicht an uns weitergeben?
+
+Wenn Du nicht mÃ¶chtest, dass wir Deine Daten in der in der
+Datenschutzrichtlinie (einschlieÃlich unserer Cookie-Richtlinie)
+beschriebenen Weise nutzen, solltest Du die Plattform nicht nutzen. Wenn Du
+Dich bereits fÃ¼r ein Konto registriert hast, erhÃ¤ltst Du hier weitere
+Informationen zur SchlieÃung oder KÃ¼ndigung Deines Kontos.
+
+Zuletzt geÃ¤ndert: 30\. Mai 2017
+
+### Links zu frÃ¼heren Versionen
+
+Nachstehend findest Du jeweils einen Link zu frÃ¼heren Versionen unserer
+Datenschutzrichtlinie und eine Zusammenfassung der Ãnderung(en).
+
+  * MÃ¤rz 2016
+
+Your current browser isn't compatible with SoundCloud.  
+Please download one of our supported browsers. Need help?
+
+Chrome | Firefox | Safari | Internet Explorer
+
+Sorry! Something went wrong
+
+Is your network connection unstable or browser outdated?
+
+I need help
+
+Popular searches
+

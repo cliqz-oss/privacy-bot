@@ -1,0 +1,268 @@
+  * zum Inhalt
+  * zur Navigation
+  * zur Suche
+
+# Die Sache mit der ePrivacy
+
+Digitalistan
+
+https://blog.wdr.de/digitalistan/die-sache-mit-der-eprivacy/
+
+Digitalistan
+
+Sie befinden sich hier:
+
+  * WDR.de
+  * Digital
+  * Digitalistan
+  * Allgemein
+  * Die Sache mit der ePrivacy
+
+Die Sache mit der ePrivacy
+
+Digitalistan
+
+##  Die Sache mit der ePrivacy
+
+Kommentare zum Artikel: 1
+
+Von Jörg Schieb am  01.06.2017
+
+Surfer-Alltag: Wenn wir eine Webseite zum ersten Mal aufrufen, erscheint
+gewöhnlich am oberen oder unteren Rand ein dezenter Hinweis, dass die Webseite
+Cookies verwendet. Wir müssen dem zustimmen oder dem Speichern von Cookies
+widersprechen. Bis wir das machen, erscheint der Hinweis immer wieder. Das ist
+der aktuelle Status quo in Europa: Wer seine Webseite rechtskonform betreiben
+möchte, muss den User genau über den Einsatz von Cookies informieren.
+
+Das Problem: Viele User empfinden die ewige Nachfragerei als lästig, da
+wirklich jede Webseite eine solche Anfrage stellen und Cookie-Zustimmung
+erbitten muss. Das will die EU-Kommission ändern: Ab 2018 soll eine neue
+ePrivacy-Verordnung gelten, die ein konkretes Nachfragen jeder einzelnen
+Webseite überflüssig macht. Stattdessen sollen die Privacy-Einstellungen im
+Browser vorgenommen und berücksichtigt werden, „Privacy by Design" wird das
+genannt. User können dann zentral im Browser einstellen, ob sie Cookies
+zulassen wollen oder nicht.
+
+Cookies: Nicht alle mögen sie
+
+### Privacy by design
+
+„Privacy by Design" bedeutet also, dass man als User die Einstellungen direkt
+im Browser vornimmt und nicht mehr Anfragen der Webseiten beantwortet. Die
+Browser müssen dazu teilweise angepasst und erweitert werden. Einige haben
+schon so genannte „Donot-Track"-Optionen an Bord. Da kann man einstellen, ob
+man möchte, dass Drittanbieter wie Werbenetzwerke das Surfverhalten überwachen
+dürfen oder nicht. Bislang spielt es allerdings kaum eine Rolle, welche
+Einstellungen man hier vornimmt: Webseiten und Werbenetzwerke ignorieren diese
+Einstellungen.
+
+Doch das soll ab 2018 anders werden: Dann sollen sich, so die Planung,
+Webseiten und Werbenetzwerk nach den Privatsphäre-Einstellungen im Browser
+richten. Als Benutzer könnte man dann zentral festlegen: Ich will keine
+Cookies von so genannten Drittanbietern akzeptieren, das wären die Cookies von
+Werbenetzwerken, aber auch von Facebook und Co., sofern deren Angebote auf
+einer Webseite mit enthalten sind.
+
+Browser müssen auf neue Richtlinien angepasst werden
+
+### Einnahmeverluste befürchtet
+
+Doch es regt sich Widerstand. Denn die Verlage befürchten erhebliche
+Einnahmeverluste. Die meisten journalistischen Angebote sind werbefinanziert
+und dadurch kostenlos. Wenn nun viele Menschen Cookies von Drittanbietern
+ablehnen, also insbesondere von den Werbenetzwerken, können die nicht mehr so
+zuverlässig arbeiten. Sie werden immer noch Werbung präsentieren, aber die ist
+nicht mehr so präzise auf die Bedürfnisse der User zugeschnitten, da sie nicht
+mehr getrackt werden können. Je besser die Werbung zu den Interessen passt,
+desto teurer ist sie – und desto mehr nehmen die Webseitenbetreiber ein. Darum
+haben über 30 europäische Verlage einen offenen Brief veröffentlicht, in dem
+sie die ePrivacy-Pläne der EU kritisieren. Gleichzeitig begünstigten die Pläne
+die Konzepte von Internetkonzernen wie Apple, Google, Facebook und Co.
+
+Die meisten User werden Cookies für diese Anbieter erlauben, da sie die
+Dienste intensiv nutzen und nicht in erster Linie als Werbenetzwerke
+verstehen. Liest man dann dort Artikel, Stichwort Instant Articles bei
+Facebook, gehen den Webseiten Besucher verloren und Facebook hat mehr Traffic.
+Ein gefährlicher Teufelskreis, der natürlich und in der Tat nicht im Interesse
+der Verlage sein kann. Übrigens auch nicht im Interesse von Bloggern und allen
+anderen, die auf Werbeeinnahmen angewiesen sind.
+
+Soziale Netzwerke profitieren von den geplanten Regelungen
+
+### Noch nicht das letzte Wort gesprochen
+
+Die Verlage machen in der Regel eine gute Lobbyarbeit, das haben wir ja beim
+Leistungsschutzrecht gesehen. Eine Vorschrift, die absolut sinnlos und
+kontraproduktiv ist, von den großen Verlagen aber gewollt war. Deshalb sollte
+man nicht unterschätzen, wenn Druck durch die Verlage aufgebaut wird. Aber in
+diesem Fall finde ich, dass die Verlage Recht haben. Cookies derart zu
+verteufeln, schafft mehr Probleme als Lösungen. Es wäre sicher besser, wenn
+der Gesetzgeber vorschreiben würde, welche Weiterverarbeitung der Daten
+erlaubt ist und welche nicht. Auch mehr Transparenz für die User wäre
+wünschenswert. Damit würde man die Richtigen treffen, die Onlinedienste und
+Werbenetzwerke, die teilweise hemmungslos Daten sammeln und auswerten.
+
+
+
+  * teilen 
+  * twittern 
+  * teilen 
+
+### Über den Autor
+
+Jörg Schieb
+
+  * Website
+  * Facebook
+  * Twitter
+
+Jörg Schieb ist Internetexperte und Netzkenner der ARD. Im WDR arbeitet er
+trimedial: für WDR Fernsehen, WDR Hörfunk und WDR.de. In seiner Sendung
+"Angeklickt" in der Aktuellen Stunde berichtet er seit 20 Jahren jede Woche
+über Netzthemen – immer mit Leidenschaft und leicht verständlich.
+
+### Ähnliche Themen
+
+  * 01.06.2017 
+
+Kommentare zum Artikel: 0
+
+#### Vier Stunden Cybercrime - ein neuer Podcast
+
+  * 31.05.2017 
+
+Kommentare zum Artikel: 2
+
+#### Warum das Essential Phone floppen wird
+
+  * 31.05.2017 
+
+Kommentare zum Artikel: 2
+
+#### Erben in der Digitalen Welt
+
+###  1 Kommentar
+
+## Kommentar Funktionen
+
+  1. C.Z. am  01.06.2017 13:37
+
+Nun, rufe ich -beispielsweise- nur die Startseite der Bildzeitung auf, so
+werde ich bereits (nur durch diesen alleinigen Seitenaufruf!) 31 (in Worten:
+einunddreißig!) mal getrackt!  
+Namentlich von:  
+1\. doubleclick.net 2. ivwbox.de 3. ioam.de 4. nuggad.net 5.
+scorecardresearch.com 6. yieldlab.net 7. revsci.net 8. krxd.net 9.
+meetrics.net 10. flashtalking.com 11. adscale.de 12. zanox.com 13. qservz.com
+14. smartadserver.com 15. webmasterplan.com 16. exactag.com 17. googleapis.com
+18. sensic.net 19. congstar.de 20. optimizely.com 21. intellitxt.com 22.
+webtrekk.net 23. vodafone.de 24. active-srv02.de 25. org-dot-com.com 26.
+outbrain.com 27. adrolays.de 28. clookie.net 29. affil.io 30.
+visualrevenue.com 31. wetterkontor.de.  
+Hier kann doch wohl kaum noch von einer Verhältnismäßigkeit
+„userindividueller" Werbung die Rede sein!? Wird hier nicht vielmehr ein
+ausufernder, von purer Gier getriebener Reklameparasitismus erkennbar!? Womit
+sich freilich ein Riesenbatzen Geld (nur Dank der Userdaten!) verdienen lässt
+- und zwar von ALLEN der o. g. 31 Unternehmen in diesem Trackingnetzwerk,
+selbstverständlich zuzüglich der Bildzeitung!  
+Somit ist es auch wenig verwunderlich, dass die 30 o. g. Verlage GEGEN die
+Wahrung der „ePrivacy" (also GEGEN die Wahrung unserer Privatsphäre im www)
+protestieren!  
+Der lobenswerte „Webtrackingreport" des Fraunhofer Institutes liefert
+Interessierten weitergehendes und wertvolles Detailwissen über diese nahezu
+unkontrollierbaren, üblen Machenschaften (im „Neuland" Internet) und kann hier
+kostenlos heruntergeladen werden:  
+sit.fraunhofer.de/fileadmin/dokumente/studien_und_technical_reports/Web_Tracking_Report_2014.pdf
+
+Antworten
+
+### Einen Kommentar schicken Kommentieren abbrechen
+
+Die mit * gekennzeichneten Felder müssen ausgefüllt werden.
+
+Ihr Kommentar*
+
+Bitte beachten Sie die Blogregeln
+
+Ihr Name*
+
+Ihre E-Mail Adresse (wird nicht veröffentlicht)*
+
+Ihre Webseite
+
+Um Ihren Kommentar zu versenden, beantworten Sie bitte die folgende Frage: *
+×  7  =  35
+
+## weitere Themen
+
+  *   * ### Beliebte Beiträge / Aktuell Beiträge
+
+    * Am meisten diskutiert
+    * Aktuell
+
+    * 28.04.2017  „20 Euro Bargeld - das reicht!"
+
+    * 09.05.2017  re:publica 2017 - Sascha Lobo im Selbstexperiment am rechten Rand
+
+    * 13.05.2017  Wannacry: Bedrohliche Ransomware erst mal gestoppt
+
+    * 18.05.2017  Deine IP-Adresse gehört Dir
+
+    * 01.06.2017  Vier Stunden Cybercrime - ein neuer Podcast
+
+    * 01.06.2017  Die Sache mit der ePrivacy
+
+    * 31.05.2017  Warum das Essential Phone floppen wird
+
+    * 31.05.2017  Erben in der Digitalen Welt
+
+  * ### Autoren
+
+    * Alexander Nieschwietz
+    * Anita Horn
+    * David Ohrndorf
+    * Dennis Horn
+    * Insa Moog
+    * Jörg Schieb
+    * Katharina Knocke
+    * Katharina Ley
+    * Michael Stein
+    * Peter Welchering
+    * Simon Sturm
+    * Stefan Domke
+    * Stefan Moll
+    * Steffen Berner
+  * ### Schlagwort-Wolke
+
+Amazon App Apple Apps Browser CeBIT Daten Datenschutz Digitalistan EU facebook
+Fakenews Fotos Google Hacker Handy Instagram Internet iOS iPhone Kunst
+LebensArt Linktipp Messenger Microsoft Musik NSA re:publica Samsung
+Schnittstelle Sicherheit Smartphone Spiel Surftipp Twitter Verschlüsselung
+Video Videos VR WDR5 Werbung Whatsapp Windows WLAN Youtube
+
+  * ### Twitter @WDRdigitalistan
+
+Tweets über digitalistan
+
+  * ### Blogregeln und Glossar
+
+Blogregeln
+
+Hilfe / Glossar
+
+  * ### Newsreader-Feeds (XML/RSS)
+
+Digitalistan FEED
+
+### globale Links
+
+  * Newsletter
+  * Impressum
+  * Datenschutzhinweis
+  * © WDR 2017
+
+© WDR 2017
+
+Top
+

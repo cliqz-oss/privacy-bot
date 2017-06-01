@@ -1,0 +1,325 @@
+Mit Jimdo einfach deine kostenlose Homepage erstellen
+
+  * Designs
+  * Preise
+  * Shop
+
+Hilfe Sprache ändern Registrieren Anmelden  Navigation
+
+# Datenschutzerklärung
+
+Der verantwortungsvolle Umgang mit deinen personenbezogenen Daten ist uns sehr
+wichtig. Sämtliche datenschutzrechtlichen Bestimmungen und Gesetze werden von
+Jimdo genauestens befolgt. Im Folgenden erklären wir dir, welche Daten durch
+uns erhoben werden und wie wir damit umgehen. Diese Erklärung gilt für alle
+Jimdo Produkte. Jimdo ist ein Service der Jimdo GmbH.
+
+  
+Bei Fragen zu dieser Datenschutzerklärung, kannst du uns jederzeit per
+Kontaktformular anschreiben oder per Post an
+
+  
+
+Jimdo GmbH
+
+Datenschutz
+
+Stresemannstraße 375
+
+22761 Hamburg
+
+  
+
+### Verwendung deiner personenbezogenen Daten
+
+Jimdo erhebt, verarbeitet und nutzt deine personenbezogenen Daten ohne
+weitergehende, notwendige Einwilligung nur insoweit, als sie für die
+Vertragsbegründung und -abwicklung sowie zu Abrechnungszwecken erforderlich
+sind. Was bedeutet das für dich?
+
+  
+
+### Welche Informationen werden gespeichert und wie werden sie genutzt?
+
+Informationen, die von dir zur Verfügung gestellt werden. Bei der Anmeldung
+für eine Jimdo-Page ist es notwendig, einen Benutzernamen und eine E-Mail-
+Adresse anzugeben. Der Benutzernamen wird als Teil der Webadresse unter
+benutzername.jimdo.com veröffentlicht. Die E-Mail-Adresse wird verwendet, um
+dir Benachrichtigungen rund um deine Jimdo-Page zu schicken. Dazu gehören z.B.
+deine Zugangsdaten, Ankündigungen, Informationen, etc. Für dich besteht
+jederzeit die Möglichkeit, dich von unserem Newsletter und den einzelenen
+Modulbenachrichtigungen (z. B. Benachrichtigung über neue Einträge in
+Kontaktformular oder Gästebuch) abzumelden. Für bestimmte Leistungspakete,
+wie z.B. JimdoPro/JimdoBusiness und/oder bestimmte Funktionen, wie z.B. den
+Shop, ist die Eingabe weiterer Kontaktdaten und Zahlungsinformationen
+notwendig. Die von dir angegebenen Daten werden bis zu deiner Abmeldung von
+Jimdo gespeichert. Ausnahme: Aus steuerrechtlichen Gründen müssen wir
+Rechnungsinformationen von JimdoPro-/JimdoBusiness-Usern für sieben Jahre
+speichern.
+
+Informationen über den Gebrauch deiner Jimdo-Page. Bist du auf deiner Jimdo-
+Page angemeldet, erfasst der Jimdo Server in einem sog. Activity-Log
+automatisch Daten darüber, auf welche Weise du Jimdo benutzt. Erfasst werden
+dabei sowohl Informationen zur Aktivität (inkl. verbrauchter Speicherplatz,
+Anzahl der Anmeldungen, etc.) als auch statistische Daten (wie z.B. Browser,
+Datum und Uhrzeit des Zugriffs, Cookie ID und Referrer URL) sowie deine IP-
+Adresse.
+
+Speicherung von Cookies auf deinem Computer. Cookies sind kleine Textdateien,
+die meist für die Dauer der aktuellen Sitzung, also bis zum Beenden deines
+Browsers, in einigen Fällen aber auch darüber hinaus, auf deinem Computer
+gespeichert werden. Wir verwenden Cookies wie folgt:
+
+Identifizierung durch Session-Cookies. Meldest du dich auf deiner Jimdo-Page
+an, setzt Jimdo automatisch ein Cookie zur Wiedererkennung deines Browsers
+(ein sogenanntes Session-Cookie). Dadurch musst du dein Passwort während der
+Sitzung nur einmalig bei der Anmeldung eingeben und wirst nicht während des
+Bearbeitens deiner Jimdo-Page wiederholt dazu aufgefordert. Die meisten
+Browser akzeptieren Cookies, es ist jedoch möglich, den Browser so
+einzustellen, dass er alle Cookies ablehnt. In diesem Fall wird Jimdo nicht
+einwandfrei funktioneren. Du kannst Cookies jedoch jederzeit löschen, musst
+dich dann allerdings beim nächsten Besuch erneut anmelden.
+
+Werbe- und Analyse-Cookies. Auf jimdo.com und deiner Jimdo-Page werden Dienste
+Dritter zu Werbe- und Analysezwecken eingesetzt. Diese können Cookies (Third-
+Party Cookies) und/oder Zählpixel (Web Beacons) setzen, um dir beim Surfen z.
+B. regionalspezifische oder themenspezifische Banner anzuzeigen. Du kannst das
+Zulassen von Third-Party Cookies in den Einstellungen der meisten Browser
+deaktivieren. Bitte beachte jedoch, dass dies unter Umständen die
+Funktionalität von anderen Seiten außerhalb Jimdo (Foren, etc.)
+beeinträchtigen kann. Alternativ kannst du die Verwendung von Cookies durch
+Drittanbieter deaktivieren, indem du die Deaktivierungsseite der
+Netzwerkwerbeinitiative aufrufst und den Anweisungen folgst.
+
+Folgende Dienste Dritter werden von uns verwendet:
+
+> Jimdo.com nutzt Google Analytics und Adwords Google Analytics, ein
+Webanalysedienst der Google Inc. („Google"), speichert Cookies auf deinem
+Computer, die eine Analyse der Benutzung der Website durch dich ermöglichen.
+Die durch den Cookie erzeugten Informationen über deine Benutzung dieser
+Website werden an einen Server von Google in den USA übertragen und dort
+gespeichert. Wir benutzen die IP-Anonymisierungsoption, so wird deine IP-
+Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union und in
+anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+vor der Übertragung in die USA gekürzt. Nur in Ausnahmefällen wird die volle
+IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
+Google wird diese Informationen in unserem Auftrag verwenden, um deine Nutzung
+der Website auszuwerten, um Reports über die Websiteaktivitäten für die
+Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und
+der Internetnutzung verbundene Dienstleistungen zu erbringen. Die im Rahmen
+von Google Analytics von deinem Browser übermittelte IP-Adresse wird nicht mit
+anderen Daten von Google zusammengeführt. Du kannst die Installation der
+Cookies durch eine entsprechende Einstellung deiner Browser Software
+verhindern; wir weisen dich jedoch darauf hin, dass du in diesem Fall
+gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich
+nutzen kannst. Der Erfassung und Speicherung deiner IP-Adresse und der durch
+Cookies erzeugten Daten kannst du jederzeit mit Wirkung für die Zukunft
+widersprechen.
+
+> Das entsprechende Plugin für deinen Browser findest du hier:
+http://tools.google.com/dlpage/gaoptout?hl=de.
+
+>  
+>
+
+> > Zusätzliche Informationen darüber, wie Google mit deinen personenbezogenen
+Daten in seinem Werbe-Netzwerk umgeht, findest du hier: Werbung und
+Datenschutz  
+>
+
+> Facebook Unser Internetauftritt verwendet Social Plugins ("Plugins") des
+sozialen Netzwerkes facebook.com, welches von der Facebook Inc. betrieben wird
+("Facebook"). Die Plugins sind mit einem Facebook Logo oder dem Zusatz
+"Facebook Social Plugin" gekennzeichnet.
+
+> Wenn du eine Webseite unseres Internetauftritts aufrufst, die ein solches
+Plugin enthält, baut dein Browser eine direkte Verbindung mit den Servern von
+Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an deinen
+Browser übermittelt und von diesem in die Webseite eingebunden. Durch die
+Einbindung der Plugins erhält Facebook die Information, dass du die
+entsprechende Seite unseres Internetauftritts aufgerufen hast. Besitzt du ein
+Facebook-Profil, kann Facebook den Besuch durch die Speicherung von Cookies
+und unter der Verwenung von JavaScript deinem Facebook-Konto zuordnen. Wenn du
+mit den Plugins interagierst, zum Beispiel den "Gefällt mir" Button betätigst
+oder einen Kommentar abgibst wird die entsprechende Information von deinem
+Browser direkt an Facebook übermittelt und dort gespeichert. Mit geeigneten
+Browser-Plugins kannst du dies verhindern; bitte beachte jedoch, dass daurch
+die Facebook Social Plugins nicht mehr funktionieren.
+
+> Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung
+der Daten durch Facebook sowie deine diesbezüglichen Rechte und
+Einstellungsmöglichkeiten zum Schutz deiner Privatssphäre kannst du den
+Datenschutzhinweisen von Facebook entnehmen.
+
+Log Information. Bei dem Besuch einer Jimdo-Page (jimdo.com, deiner eigenen
+Jimdo-Page oder Seiten anderer Jimdo-User) speichern die Jimdo Server
+automatisch die Informationen, die dein Browser sendet, wenn du diese Seite
+besuchst. Die Informationen umfassen deinen Aufruf (Request), die IP-Adresse,
+Browser-Typ und -Sprache sowie das Datum und Uhrzeit deines Aufrufs. Die
+Informationen werden ausschließlich zur Analyse und Aufrechterhaltung des
+technischen Betriebs unserer Server und des Netzwerkes benutzt und werden nach
+3 Monaten automatisch gelöscht.
+
+Die Kommunikation zwischen dir und Jimdo. Du kannst dich jederzeit mit deinen
+Fragen per E-Mail oder über jimdo.com an uns wenden. Wir speichern deine
+Anfrage, um dir möglichst schnell eine Antwort zu schicken und um den Service
+nachvollziehbar zu machen und zu verbessern. Deine Daten werden nur dazu
+genutzt deine Anfrage zu bearbeiten.
+
+Newsletter Unser Newsletter enthält Links und Grafiken, die uns zeigen, ob du
+unseren Newsletter liest und welche Themen dich besonders interessieren. Dies
+dient der Verbesserung unseres Angebots und der Qualitätssicherung.
+
+  
+
+### Zugriff und öffentlich zugängliche Informationen
+
+Die Jimdo-Page. Alle Informationen, die du auf deine Jimdo-Page stellst,
+können von anderen Internetnutzern gelesen werden. Daher bitten wir dich,
+vorsichtig und verantwortungsbewusst mit persönlichen Informationen (z. B.
+Adressen, Telefonnummern) und sensiblen Daten (z. B. Passwörtern,
+Zugangsdaten) umzugehen. Bitte beachte, dass passwortgeschützte Bereiche
+keinen absoluten Schutz vor unberechtigten Zugriffen bieten und hochgeladene
+Dateien über direkte Links erreichbar sind.
+
+Administrativer Zugang zu deiner Jimdo-Page. Bitte beachte, dass unsere
+Mitarbeiter im Rahmen des Kundenservices und der Nachverfolgung von Fehlern
+auch Zugriff auf den administrativen Bereich deiner Jimdo-Page (CMS) haben
+können. Dabei haben sie Einblick in alle Bereiche deiner Jimdo-Page, z. B.
+auch die passwörtgeschützten Bereiche. Alle unsere Mitarbeiter werden
+regelmäßig für den Datenschutz sensibilisiert und sind auf das Datengeheimnis
+(§5 BDSG) verpflichtet.
+
+  
+
+### Weitergabe deiner Daten
+
+Deine Daten werden nicht an Dritte verkauft. Wir werden keine
+personenbezogenen Daten ohne deine Einwilligung weitergeben, es sei denn:
+
+  * wir sind gesetzlich dazu verpflichtet.
+
+  * um die AGB oder die Rechte von Jimdo durchzusetzen.
+
+  * um das Leistungspaket zu erfüllen, kann es notwendig sein, dass wir Dienste Dritter in Anspruch nehmen. In diesem Fall kann es zur Datenweitergabe kommen, z.B.:
+
+  *     * Domain-Registrierung. In den kostenpflichtigen Paketen ist mindestens eine Domain enthalten. Damit du Eigentümer der Domain werden kannst, muss Jimdo die zur Registrierung notwendigen Daten als Vermittler an die jeweilige Registrierungsstelle weitergeben. Über Art und Umfang der Daten kannst du dich bei der für die Vergabe zuständigen Registrierungsstelle informieren:
+    *       * .de-Domains (DENIC): http://www.denic.de/de/bedingungen.html
+
+      * .ch-Domains (SWITCH): https://www.nic.ch/
+
+      * .at-Domains (NIC.AT): http://www.nic.at/service/rechtliche_informationen/registrierungsrichtlinien/
+
+      * .eu-Domains (EURid): http://www.eurid.eu/files/reg_pol_EN.pdf
+
+      * .nl-Domains (SIDN): https://www.sidn.nl/fileadmin/docs/PDF-files_UK/General%20Terms%20and%20Conditions%20for%20.nl%20Registrants.pdf
+
+      * .com, .net, .org, .info, .biz (ICANN): http://www.icann.org/en/udrp/udrp-policy-24oct99.htm
+
+Die übermittelten Daten sind je nach Registrierungsstelle öffentlich
+einsehbar.
+
+    * E-Mail Adressen. Wenn du über deine Jimdo-Page ein E-Mail Konto oder eine E-Mail-Weiterleitung einrichtest, legen wir für dich ein Konto bei Rackspace Limited an. Rackspace Limited übernimmt dann für uns die technische Auslieferung und Verwaltung deiner E-Mails. Die Datenschutzerklärung von Rackspace findest du hier: Datenschutzerklärung
+    * Newsletter, Gästebuch und Kontaktformular. Alle E-Mails, die über deine Seite abgeschickt werden (z.B. Benachrichtigungen über neue Einträge in deinem Gästebuch oder Bestellungen in deinem Shop), liefert für uns SendGrid, Inc. aus. Die Datenschutzerklärung von SendGrid, Inc. findest du hier: Datenschutzerklärung
+    * Benutzerinhalte. Wenn du Bilder oder Dateien auf deine Jimdo-Page hochlädst werden diese in die Cloud-Services von Amazon S3 (mit Rechenzentrumstandort in Irland) hochgeladen. Die Datenschutzerklärung von Amazon findest Du hier: Datenschutzerklärung
+    * Statistik. Für die Bereitstellung von Statistiken für deine JimdoPro- oder JimdoBusiness-Page setzen wir Google Analytics ein. Die Daten werden dabei anonymisiert verarbeitet ("anonymizeIp") und entsprechen den Vorgaben der deutschen Datenschutzbehörden. Die Datenschutzerklärung von Google Analytics findest du hier: Datenschutzerklärung
+    * Auslieferung von Inhalten. Die Auslieferung weiter Teile deiner Jimdo-Page übernimmt für uns CDNetworks Inc. Sie sorgen dafür, dass deine Seite auf der ganzen Welt schnell erreichbar ist. Die Datenschutzerklärung von CDNetworks findest du hier: Datenschutzerklärung
+
+Sollte Jimdo von einem anderen Unternehmen übernommen werden, so können
+Informationen zu deinen personenbezogenen Daten an den Rechtsnachfolger
+übertragen werden.
+
+  
+
+### Deine Rechte
+
+Auskunft Gerne teilen wir dir mit, welche personenbezogenen Daten wir von dir
+gespeichert haben (§34 BDSG Auskunft an den Betroffenen). Die Auskunft ist
+kostenlos, wird von uns umgehend bearbeitet und erfolgt in der Regel per
+E-Mail (auf Wunsch auch postalisch). Um eine detaillierte Auskunft zu
+erhalten, teile uns bitte mit, welche Art von personenbezogenen Daten dich
+genauer interessieren. Damit wir dich eindeutig identifizieren können und
+deine Daten somit nicht in falsche Hände geraten, sende uns bitte eine Kopie
+eines amtlichen Ausweisdokuments zu (Führerschein, Reisepass. Bitte beachte,
+dass der Personalausweis im Scheckkartenformat NICHT kopiert werden darf!).
+Wir verwenden diese Kopie ausschließlich zur Identifikation und zur
+Bearbeitung deiner Anfrage.
+
+  
+
+Berichtigung, Löschung oder Sperrung Des Weiteren hast du natürlich das Recht
+auf Berichtigung, Löschung oder Sperrung deiner personenbezogenen Daten in den
+in §35 BDSG (Berichtigung, Löschung und Sperrung von Daten) genannten Fällen.
+
+  
+
+### Folgen einer nicht erteilten oder zurückgezogenen Einwilligung
+
+Solltest du mit dieser Datenschutzerklärung ganz oder teilweise nicht
+einverstanden sein oder ihr zu einem späteren Zeitpunkt widersprechen,
+schließt dich dies von der weiteren Nutzung unseres Angebots aus. In diesem
+Fall verpflichtest du dich, uns unverzüglich über deinen Widerspruch zu
+informieren und deine JimdoFree-Page zu löschen bzw. JimdoPro- oder
+JimdoBusiness-Page zu kündigen.
+
+  
+
+### Änderung der Datenschutzerklärung
+
+Diese Datenschutzerklärung kann sich ändern. Natürlich werden deine Rechte
+nicht ohne Grund reduziert. Alle Änderungen der Datenschutzerklärung werden
+auf dieser Seite angezeigt. Sollten die Änderungen sehr signifikant sein, so
+wird es eine größere Ankündigung geben (z.B. per E-Mail Newsletter).
+
+Sollten zusätzliche Fragen oder Bedenken zu dieser Datenschutzerklärung
+aufkommen, kannst du uns gerne über das Kontaktformular anschreiben oder per
+Post an
+
+  
+
+Jimdo GmbH
+
+Datenschutz
+
+Stresemannstraße 375
+
+22761 Hamburg
+
+Stand: 13. September 2011
+
+Hinweis: Die früher gültige Datenschutzerklärung haben wir archiviert unter:  
+Alte Versionen der Datenschutzerklärung
+
+jimdo.deImpressum AGB Widerruf Datenschutz
+
+Über unsUnternehmen Jobs Team
+
+ProduktePreisvergleich JimdoPro JimdoBusiness Jimdo-App
+
+InspirationBeispiele Blog
+
+PresseÜbersicht Pressemitteilungen Bildmaterial Pressespiegel
+
+Support Online-Hilfe  Kontakt  Missbrauch melden
+
+SpracheEnglish Français Italiano Español 日本語 Nederlands Svenska
+
+  * Facebook
+  * Google+
+  * Twitter
+  * YouTube
+
+Datenschutz
+
+  * English
+  * Français
+  * Italiano
+  * Español
+  * 日本語
+  * Nederlands
+  * Svenska
+
+  * Designs
+  * Preise
+  * Shop
+

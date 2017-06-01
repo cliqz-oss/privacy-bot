@@ -1,0 +1,179 @@
+  * ## Wetter
+
+  * Karten
+  * Satelliten
+  * RADAR
+  * Wettermodelle
+  * Welt
+  * Magazin
+  * Warnungen
+
+  *     
+Berlin
+
+     22° 8°
+  *     
+Munchen
+
+     23° 13°
+  *     
+Hamburg
+
+     20° 7°
+  *     
+Koln
+
+     25° 11°
+
+  * Home
+  * Cookies-Datenschutzpolitik
+
+StoreWindows10
+
+#  Cookie-Richtlinien
+
+Werbung
+
+Werbung
+
+Laut Wikipedia: Ein Cookie, ist eine Textinformation, die die besuchte Website
+(hier "Server") uber den Browser im Rechner des Betrachters ("Client")
+platziert. Der Cookie wird entweder vom an den Browser gesendet oder von einem
+Skript (etwa JavaScript) in der Website erzeugt. Der Client sendet die Cookie-
+Information bei spateren, neuen Besuchen dieser Seite mit jeder Anforderung
+wieder an den Server.
+
+Die Verwendung von Cookies ist im Internet eine gangige und sichere Praxis und
+ist unabdingbar und verbessert auch den Komfort fur den Besucher, indem
+Webseiten besser auf ihn abgestimmt werden konnen. Cookies konnen auf Ihrem
+Rechner keinen Schaden anrichten, sie enthalten lediglich Daten die harmlos
+fur Ihre Software sind, da sie keinen Kode enthalten.
+
+Es gibt verschiedene Arten von Cookies, die in folgende 3 Gruppen
+zusammengefasst werden konnen:
+
+#### 1\. Verschiedene Verwalter
+
+Je nachdem wer den Rechner oder die Domain verwaltet, von der aus die Cookies
+gesendet werden und die gesammelten Daten verwaltet, sprechen wir von
+folgenden Cookies:
+
+  * Eigene Cookies: Diese werden vom Rechner oder von der Domain, die eigens vom Editor verwaltet wird, aus gesendet, und von dem aus auch der vom User angeforderte Service geleistet wird.
+  * Cookies Dritter (Third-Party-Cookies): Diese werden von einem Rechner oder von einer Domain aus gesendet, die nicht vom Editor selbst verwaltet wird, sondern von Dritten, die die gesammelten Daten betreiben.
+
+Wenn die Cookies von einem Rechner oder Domain aus installiert werden, der vom
+Editor verwaltet wird, die gesammelten Informationen aber von Dritten
+verwaltet werden, handelt es sich nicht um eigene Cookies.
+
+#### 2\. Lebensdauer de Cookies
+
+Je nach Lebensdauer konnen wir die Cookies in zwei Gruppen einteilen:
+
+  * Sitzungs-Cookies: Diese Art von Cookie erlaubt es Daten zu sammeln und zu speichern, solange der User eine Internetseite besucht.
+
+Solche Cookies werden normalerweise verwendet, wenn die gespeicherte
+Information nur fur den Service dieser einen Sitzung relevant ist. (z.B.:
+Liste erworbener Produkte).
+
+  * Permanente Cookies: Bei diesen Cookies werden die Daten im Terminal gespeichert und konnen auf eine vom Cookie-Verwalter bestimmte Zeit abgerufen und verwaltet werden. Der Zeitraum kann zwischen wenigen Minuten und mehreren Jahren liegen.
+
+#### 3\. Zweckmaßigkeit der Cookies
+
+Je nach Zweck der Cookies, konnen diese in verschiedene Gruppen eingeteilt
+werden:
+
+  * Technische Cookies: Diese erlauben es dem User die Navigation auf einer Internetseite, Webplattform oder App, und die zur Verfugung stehenden Optionen oder Service zu nutzen, wie zum Beispiel: Website-Traffic und Datenkommunikation uberwachen, Sitzungsidentifizierung, Zugriff auf Bereiche mit eingeschranktem Zugriff, Produkte einer Bestellung merken, den Kauf einer Bestellung tatigen, sich fur ein Event anmelden, Sicherheitsoptionen nutzen, Inhalte fur die Verbreitung von Videos oder Audios speichern, oder auch um Inhalte in Sozialen Netzwerken zu veroffentlichen.
+  * Personalisierungs-Cookies: Durch diese Art von Cookies findet der User, mit bestimmten allgemeinen Standartwerten Zugriff auf den Service, welche durch verschiedene Kriterien des Userterminals festgelegt werden. Zum Beispiel Sprache, Browsertyp, regionale Konfiguration, etc.
+  * Analyse-Cookies: Diese Cookies ermoglichen es dem Verantwortlichen, das Verhalten des Users zu verfolgen und auszuwerten. Die durch diese Art von Cookies gesammelten Informationen werden genutzt um die Aktivitat auf Websites, Apps oder Benutzerplattformen zu messen, und um Navigationsprofile der Benutzer dieser Sites, Apps und Plattformen zu erstellen. Durch die Auswertung dieser Daten konnen Verbesserungen vorgenommen werden.
+
+Obwohl sie nicht davon befreit sind sich eine Einwilligung nach Aufklarung
+einzuholen, ist es was die Datenverarbeitung der gesammelten Informationen
+angeht, sehr unwahrscheinlich, dass die Cookies ein Risiko fur die
+Privatsphare der User darstellen, sofern es sich um „eigene Cookies“ handelt,
+die gesammelten Daten ausschließlich fur statistische Zwecke verarbeitet
+werden, uber die Datenverarbeitung informiert wird und die User sich uber die
+Nutzung fur nicht einverstanden erklaren konnen.
+
+  * Werbe-Cookies: Diese Cookies ermoglichen das effizienteste Management von Werbeflachen, die der Editor ggf. in die Website, App oder Userplattform eingefugt hat, von der aus der angefragte Service geleistet wird. Werbe-Cookies basieren auf Kriterien wie dem editierten Inhalt oder der Haufigkeit, mit der Werbeanzeigen gezeigt werden.
+  * Verhaltensbasierte Werbe-Cookies: Diese Art von Cookies ermoglichen ein so effizient wie mogliches Management von Werbeflachen die der Editor ggf. in die Website, App oder Userplattform aufgenommen hat, von der aus der angefragte Service geleistet wird. Verhaltensbasierte Werbe-Cookies erhalten durch kontinuierliche Beobachtung des Navigationsverhaltens der Benutzer Informationen die gespeichert werden. So lasst dich ein Profil erstellen, welches es ermoglicht gezielt Werbung anzuzeigen.
+
+Nachstehend finden Sie eine Aufstellung der wichtigsten Cookies, die auf
+unserer Internetseite zum Einsatz kommen:
+
+Unumgangliche Cookies sind diese, die fur eine korrekte Nutzung der
+Internetseite notwendig sind, und auch Cookies die dem Zahlunsvorgang oder
+anderen vom Benutzer angefragten Servicevorgangen dienen.
+
+  * meteored_de, speichert die vier zuletzt vom Benutzer aufgerufenen Ortschaften. Es werden keine personlichen Daten gespeichert.
+  * p_cookie, uberpruft ob der User den Cookie-Richtlinien zustimmt. Es werden keine personlichen Daten gespeichert.
+  * nl_cookie, uberpruft ob der User den Newsletter abonniert hat. Es werden keine personlichen Daten gespeichert.
+
+Analytische Cookies nutzen um das Navigationsverhalten des Users zu verfolgen
+und im Anschluss auszuwerten. So konnen die Seiten der Homepage und die
+Vorgange optimiert werden. Es werden statistische Daten gespeichert.
+
+  * _utma,_utmb,_utmc unter anderem. Diese Cookies dienen dem statistischen Web-Analyse-Tool Google Analytics. Die Anwendung ist weit verbreitet und wird von den meisten professionellen Internetseiten genutzt.
+
+Cookies Dritter, diese werden von verschiedenen Online-Diensten genutzt. Zum
+Beispiel:
+
+  * Soziale Netzwerke, Facebook, Twitter, G+, etc.
+  * Werbe-Server, doubleclick.net, googleads und weitere Adserver die Werbung auf den Seiten von daswetter.com anzeigen.
+  * Weitere Cookies anderer externer Plug-Ins, wie zum Beispiel von Videoplattformen (Youtube, Vimeo, etc.).
+
+#### Cookies Verwalten und anonym oder inkognito surfen
+
+Wie Sie Cookies Verwalten oder Loschen, ist vom jeweiligen Browser abhangig.
+Am einfachsten geht es, wenn Sie in der Hilfe-Option Ihres Browsers nachlesen,
+um so prazise Informationen uber den Vorgang zu erhalten.
+
+Heutige Browser bieten eine vollkommen anonyme Art zu surfen. Wenn Sie im
+Inkognito-Modus surfen, werden alle gespeicherten Daten geloscht, nachdem Sie
+das Fenster geschlossen haben.
+
+Nachstehend finden Sie eine Liste der meistgebrauchten Browser mit Links auf
+die Cookie-Einstellungen und den Inkognito-Modus.
+
+Internet Explorer 8 oder hoher; InPrivate
+
+    http://windows.microsoft.com/de-de/windows7/Block-enable-or-allow-cookies
+Safari 2 oder hoher; Privates surfen
+
+    http://support.apple.com/kb/HT1677?viewlocale=de_DE
+Opera 10.5 oder hoher; Privates surfen
+
+    http://help.opera.com/Windows/12.00/de/cookies.html
+FireFox 3.5 und hoher; Privates Surfen
+
+    https://support.mozilla.org/de/kb/cookies-erlauben-und-ablehnen
+Google Chrome 10 und hoher; Inkognito
+
+    https://support.google.com/chrome/answer/95647?hl=de
+
+Sollten Sie Die Cookies auf daswetter.com blockieren, konnen wir leider keine
+Garantie fur eine volle und korrekte Funktionsfahigkeit geben und auch keinen
+Support leisten, wenn Sie unseren Service nutzen.
+
+### Das Wetter auf Ihrer Internetseite
+
+  * Wetter-Widget
+  * API - Zugriff auf XML
+  * Wordpress Plugin
+
+  *   *   * 
+
+  * ## daswetter.com
+
+  * Daswetter.com-App für Android gratis downloaden
+  * Daswetter.com-App für iOS gratis downloaden
+  * Daswetter.com-App für Windows 10 gratis downloaden
+  * Wie finden Sie die neue Webseite?
+
+  *   *   * 
+
+  * FAQ
+  * Kontakt
+  * Impressum
+  * Cookies
+  * (C)2017 Meteored. Alle Rechte vorbehalten
+

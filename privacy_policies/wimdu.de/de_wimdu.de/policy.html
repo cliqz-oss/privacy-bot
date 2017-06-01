@@ -1,0 +1,1137 @@
+<!DOCTYPE html>
+<!-- 75aae3ab-2c87-4083-b792-d84a2adcf9ce -->
+
+<html class='no-js' lang='de-DE' prefix='og: http://ogp.me/ns#'>
+<head>
+<meta content='AwrkVeGT5eD0SFkkPeUgzpz5UIiPIJqRba6ETIpi5L' name='globalsign-domain-verification'>
+<meta content='none' name='msapplication-config'>
+<meta charset='utf-8'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7c45c0f0fb","applicationID":"141389","transactionName":"dAkITUcMXVhXE0xcBVkCD1dSTEVRQAwQ","queueTime":0,"applicationTime":211,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwABUV9ACQcBV1lb"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
+<meta content='app-id=1018844970' name='apple-itunes-app'>
+<link href='//cloudfront.net' rel='dns-prefetch'>
+<link href='//maps.googleapis.com' rel='dns-prefetch'>
+<link href='//googletagmanager.com' rel='dns-prefetch'>
+<link href='//google-analytics.com' rel='dns-prefetch'>
+<title>Wimdu</title>
+<link href='http://www.wimdu.de/terms' rel='canonical'>
+<meta content='Sparen Sie bis zu 70% bei Ferienwohnungen und Ferienhäusern. Wählen Sie aus 350.000 günstigen Unterkünften schon ab 10€/Nacht. Buchen Sie jetzt!' name='description'>
+
+
+
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-57x57-d2bdb0182e6dcb411656b8c0c1d9d06bca7ea81e2bfd88575936d1ed1727216a.png' rel='apple-touch-icon' sizes='57x57'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-60x60-0b93720a125c73311a6d8137c6b1627de28812a77890b346e4add5364e643fa9.png' rel='apple-touch-icon' sizes='60x60'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-72x72-3cbc9f93935079a8d524b64f3746befe4374d36b41888db1a60e42eeb83ab2b4.png' rel='apple-touch-icon' sizes='72x72'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-76x76-793d807ac5b9e1f203c9bceafa9e3b992a50909e49242e4f285f16e86eaf505e.png' rel='apple-touch-icon' sizes='76x76'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-114x114-dad308b68e6045a4acef966dd181130bbf3dd48566699f2bfed842bd528b65e5.png' rel='apple-touch-icon' sizes='114x114'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-120x120-ae92c1c3881c42a212d7fb51b84521fb8883464cbc558a19b28c664477cfa875.png' rel='apple-touch-icon' sizes='120x120'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-144x144-899d2c3c56c26164d705232a374bca8e07206802878cb615e2dd761ce0925657.png' rel='apple-touch-icon' sizes='144x144'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-152x152-5ab38a107972417bfedb97f04a2a8597c69a648d2a7c9ef2d2f1d7c29640a1e1.png' rel='apple-touch-icon' sizes='152x152'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/apple-icon-180x180-abb6200950e6308f4aacf389f5b1cdecb14b1be2cf0edc941f844595a9230209.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/favicon-16x16-61189fdbc768a27886a1d827c2d08fad81fb2bb025bd3d6db94a583faf659c93.png' rel='icon' sizes='16x16' type='image/png'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/favicon-32x32-9ebf6ffef745dac89eef652b767f306c112aa7006d28662d255884fa068977d3.png' rel='icon' sizes='32x32' type='image/png'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/favicon-96x96-5b0f34128ff0c3af8653ef2bee78db84a3fe821dd9c775562ad5463f76102992.png' rel='icon' sizes='96x96' type='image/png'>
+<link href='https://dk9z4pchmqfep.cloudfront.net/assets/icons/android-icon-192x192-2764977688b715aae45fd72a7420d07219ceb48ce56ec54ca8b1760c232ff0db.png' rel='icon' sizes='192x192' type='image/png'>
+<meta content='#006CB7' name='theme-color'>
+
+<script>
+  dataLayer = [{"pagetype":"landing","pagedetails":"terms","page":{"controller":"landing","action":"terms","tld":"de","locale":"de","locale_code":"de_DE","country_iso_code":"DE"}},{"usertype":null},{"cop_details_test_v2":"A","sign_up_modal_test":"A","new_mobile_srp_test":"A","dlp_signup_test":"A","sign_up_modal_odp_test":"A","srp_resized_map_test":"B","mobile_srp_improvements_test":"C","cop_birthday_test":"A","booking_funnel_test":"A","discounted_subtotal_price_test":"A","new_srp_filters_test":"B","calendar_additional_rules_test_v2":"B","spanish_insurance_test":"B","cop_book_button_test":"B","rounding_up_quote_test":"A","cop_details_test":"A","instant_bookable_ranking_test":"A"},{"visitor":{"id":"1f7dc16e63f2e041c718444733e2a3c4"}},{"currency":{"iso_code":"EUR"}},{"event":"sitetype","site_type":"desktop"}];
+  dataLayer.unshift({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+</script>
+<script async defer src='//www.googletagmanager.com/gtm.js?id=GTM-KHLQPP'></script>
+
+<link href="https://dk9z4pchmqfep.cloudfront.net/assets/wimdu_v5-94c9fbb145d4387511449f9df98689e43da5518a98a84030cad10f8970dbb398.css" media="all" rel="stylesheet" />
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="tO2EHxYe+ULAmyqEB9k0GRXxq61vQZyhvfRWwzbFh58=" name="csrf-token" />
+
+
+<script src="https://dk9z4pchmqfep.cloudfront.net/assets/modernizr-eace56185c450241eeb762dc3256b33673d4c48aa186884ca7adf32e586105c0.js"></script>
+
+</head>
+<body class=''>
+<noscript>
+<iframe height='0' src='//www.googletagmanager.com/ns.html?id=GTM-KHLQPP' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+
+<header class='js-nbar nbar' id='navbar' role='banner'>
+<a class="nbar__brand" href="/" id="wimdu-logo">Wimdu</a>
+<div data-react-class="NavBarMini" data-react-props="{&quot;displayLoginButton&quot;:true,&quot;loginLink&quot;:&quot;/users/login&quot;,&quot;translations&quot;:{&quot;login&quot;:&quot;Anmelden&quot;}}"><ul class='nbar__menu nbar__menu--mini'>
+<li class='nbar__menu-item nbar__menu-item--dropdown'>
+<span class='nbar__menu-link'>
+<i class='icon nbar__menu-link-icon icon-hamburger'></i>
+</span>
+</li>
+</ul>
+</div>
+<ul class='nbar__menu nbar__menu--full js-nbar-menu'>
+<li class='is-hidden nbar__menu-item' role='menuitem'>
+<a class="my-favorites nbar__menu-link" href="/favorites" rel="nofollow"><i class="icon icon-heart my-favorites__icon"></i><span class="js-my-favorites-count">0</span></a>
+</li>
+
+<li class='nbar__menu-item' role='menuitem'>
+<a class="nbar__menu-link" href="/contact_requests/new">Hilfe
+</a></li>
+
+<li class='nbar__menu-item nbar__menu-item--dropdown' role='menuitem'>
+<a class="nbar__menu-link nbar__menu-link--dropdown js-toggle-dropdown" href="javascript:;" id="country-trigger"><i class='icon icon-flag icon-flag-de nbar__flag-icon'></i>
+<span class='nbar__menu-flag-label'>
+Deutschland
+</span>
+<i class='icon icon-triangle-down nbar__caret-icon'></i>
+</a><ul class='nbar__dropdown' role='menu'>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.ar/terms"><i class='icon icon-flag icon-flag-ar nbar__flag-icon'></i>
+Argentina
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.au/terms"><i class='icon icon-flag icon-flag-au nbar__flag-icon'></i>
+Australia
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.be/terms"><i class='icon icon-flag icon-flag-be nbar__flag-icon'></i>
+België
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.br/terms"><i class='icon icon-flag icon-flag-br nbar__flag-icon'></i>
+Brasil
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.ca/terms"><i class='icon icon-flag icon-flag-ca nbar__flag-icon'></i>
+Canada
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.cl/terms"><i class='icon icon-flag icon-flag-cl nbar__flag-icon'></i>
+Chile
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.co/terms"><i class='icon icon-flag icon-flag-co nbar__flag-icon'></i>
+Colombia
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.cr/terms"><i class='icon icon-flag icon-flag-cr nbar__flag-icon'></i>
+Costa Rica
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.cz/terms"><i class='icon icon-flag icon-flag-cz nbar__flag-icon'></i>
+Česká republika
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.dk/terms"><i class='icon icon-flag icon-flag-dk nbar__flag-icon'></i>
+Danmark
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.de/terms"><i class='icon icon-flag icon-flag-de nbar__flag-icon'></i>
+Deutschland
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.es/terms"><i class='icon icon-flag icon-flag-es nbar__flag-icon'></i>
+España
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.fi/terms"><i class='icon icon-flag icon-flag-fi nbar__flag-icon'></i>
+Finland
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.fr/terms"><i class='icon icon-flag icon-flag-fr nbar__flag-icon'></i>
+France
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.gr/terms"><i class='icon icon-flag icon-flag-gr nbar__flag-icon'></i>
+Hellas
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.hk/terms"><i class='icon icon-flag icon-flag-hk nbar__flag-icon'></i>
+Hong Kong
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.in/terms"><i class='icon icon-flag icon-flag-in nbar__flag-icon'></i>
+India
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.co.id/terms"><i class='icon icon-flag icon-flag-id nbar__flag-icon'></i>
+Indonesia
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.ie/terms"><i class='icon icon-flag icon-flag-ie nbar__flag-icon'></i>
+Ireland
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.it/terms"><i class='icon icon-flag icon-flag-it nbar__flag-icon'></i>
+Italia
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.hu/terms"><i class='icon icon-flag icon-flag-hu nbar__flag-icon'></i>
+Magyarország
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.my/terms"><i class='icon icon-flag icon-flag-my nbar__flag-icon'></i>
+Malaysia
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.mx/terms"><i class='icon icon-flag icon-flag-mx nbar__flag-icon'></i>
+México
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.nl/terms"><i class='icon icon-flag icon-flag-nl nbar__flag-icon'></i>
+Nederland
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.co.nz/terms"><i class='icon icon-flag icon-flag-nz nbar__flag-icon'></i>
+New Zealand
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.no/terms"><i class='icon icon-flag icon-flag-no nbar__flag-icon'></i>
+Norge
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.at/terms"><i class='icon icon-flag icon-flag-at nbar__flag-icon'></i>
+Österreich
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.pe/terms"><i class='icon icon-flag icon-flag-pe nbar__flag-icon'></i>
+Perú
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.pl/terms"><i class='icon icon-flag icon-flag-pl nbar__flag-icon'></i>
+Polska
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.pt/terms"><i class='icon icon-flag icon-flag-pt nbar__flag-icon'></i>
+Portugal
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.ru/terms"><i class='icon icon-flag icon-flag-ru nbar__flag-icon'></i>
+Rossiya
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.ch/terms"><i class='icon icon-flag icon-flag-ch nbar__flag-icon'></i>
+Schweiz
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.co.za/terms"><i class='icon icon-flag icon-flag-za nbar__flag-icon'></i>
+South Africa
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.se/terms"><i class='icon icon-flag icon-flag-se nbar__flag-icon'></i>
+Sverige
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.tw/terms"><i class='icon icon-flag icon-flag-tw nbar__flag-icon'></i>
+Táiwan
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.tr/terms"><i class='icon icon-flag icon-flag-tr nbar__flag-icon'></i>
+Türkiye
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com/terms"><i class='icon icon-flag icon-flag-us nbar__flag-icon'></i>
+USA
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.co.uk/terms"><i class='icon icon-flag icon-flag-gb nbar__flag-icon'></i>
+United Kingdom
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.uy/terms"><i class='icon icon-flag icon-flag-uy nbar__flag-icon'></i>
+Uruguay
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.com.vn/terms"><i class='icon icon-flag icon-flag-vn nbar__flag-icon'></i>
+Việt Nam
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.cn/terms"><i class='icon icon-flag icon-flag-cn nbar__flag-icon'></i>
+Zhōngguó
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.jp/terms"><i class='icon icon-flag icon-flag-jp nbar__flag-icon'></i>
+日本
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.co.kr/terms"><i class='icon icon-flag icon-flag-kr nbar__flag-icon'></i>
+한국
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="http://www.wimdu.co.il/terms"><i class='icon icon-flag icon-flag-il nbar__flag-icon'></i>
+ישראל
+</a></li>
+</ul>
+</li>
+
+<li class='nbar__menu-item nbar__menu-item--dropdown' role='menuitem'>
+<a class="nbar__menu-link nbar__menu-link--dropdown js-toggle-dropdown" href="javascript:;">€
+<i class='icon icon-triangle-down nbar__caret-icon'></i>
+</a><ul class='nbar__dropdown' role='menu'>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=EUR"><span class='nbar__currency-symbol'>
+€
+</span>
+EUR
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=AUD"><span class='nbar__currency-symbol'>
+AU$
+</span>
+AUD
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=CAD"><span class='nbar__currency-symbol'>
+CA$
+</span>
+CAD
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=CHF"><span class='nbar__currency-symbol'>
+CHF
+</span>
+CHF
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=CNY"><span class='nbar__currency-symbol'>
+CN¥
+</span>
+CNY
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=DKK"><span class='nbar__currency-symbol'>
+DKK
+</span>
+DKK
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=GBP"><span class='nbar__currency-symbol'>
+£
+</span>
+GBP
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=HKD"><span class='nbar__currency-symbol'>
+HK$
+</span>
+HKD
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=JPY"><span class='nbar__currency-symbol'>
+JP¥
+</span>
+JPY
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=KRW"><span class='nbar__currency-symbol'>
+₩
+</span>
+KRW
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=MXN"><span class='nbar__currency-symbol'>
+MX$
+</span>
+MXN
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=NOK"><span class='nbar__currency-symbol'>
+NOK
+</span>
+NOK
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=NZD"><span class='nbar__currency-symbol'>
+NZ$
+</span>
+NZD
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=PLN"><span class='nbar__currency-symbol'>
+zł
+</span>
+PLN
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=RUB"><span class='nbar__currency-symbol'>
+руб.
+</span>
+RUB
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=SEK"><span class='nbar__currency-symbol'>
+SEK
+</span>
+SEK
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=SGD"><span class='nbar__currency-symbol'>
+SG$
+</span>
+SGD
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=USD"><span class='nbar__currency-symbol'>
+US$
+</span>
+USD
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=ZAR"><span class='nbar__currency-symbol'>
+R
+</span>
+ZAR
+</a></li>
+<li class='nbar__dropdown-item' role='menuitem'>
+<a class="nbar__dropdown-link" href="/set_currency?currency=TRY"><span class='nbar__currency-symbol'>
+TRY
+</span>
+TRY
+</a></li>
+</ul>
+</li>
+
+<li class='nbar__menu-item' role='menuitem'>
+<a class="nbar__menu-link" href="/offers/new" id="list_your_space_link">Unterkunft inserieren</a>
+</li>
+<li class='nbar__menu-item nbar__menu-item--scratchpad' role='menuitem'>
+<div data-react-class="Scratchpad" data-react-props="{&quot;translations&quot;:{&quot;dropdown&quot;:&quot;Zuletzt angesehen&quot;,&quot;logInMessage&quot;:&quot;Melden Sie sich an, um jederzeit und überall die Unterkünfte zu sehen, die Sie sich zuletzt angesehen haben.&quot;,&quot;logInButton&quot;:&quot;Hier anmelden&quot;,&quot;explain&quot;:&quot;Unterkünfte, die Sie angesehen haben, als Sie bei Wimdu angemeldet waren (außer mit der Wimdu-App für Gäste), werden hier angezeigt.&quot;,&quot;tile&quot;:{&quot;mobile&quot;:&quot;Auf dem Handy angesehen&quot;,&quot;tablet&quot;:&quot;Auf dem Tablet angesehen&quot;,&quot;desktop&quot;:&quot;Auf dem PC angesehen&quot;,&quot;check&quot;:&quot;Verfügbarkeit prüfen&quot;,&quot;finishBooking&quot;:&quot;Buchung abschließen&quot;},&quot;seenAt&quot;:{&quot;today&quot;:&quot;Heute&quot;,&quot;yesterday&quot;:&quot;Gestern&quot;,&quot;thisWeek&quot;:&quot;Diese Woche&quot;,&quot;thisMonth&quot;:&quot;Diesen Monat&quot;,&quot;moreThanAMonth&quot;:&quot;Vorher&quot;}}}"><div class='nbar__menu-item nbar__menu-item--scratchpad'>
+<a class='nbar__menu-link'>
+Zuletzt angesehen
+<i class='icon icon-triangle-down nbar__caret-icon'></i>
+</a>
+</div>
+</div>
+</li>
+
+<li class='nbar__menu-item' role='menuitem'>
+<a class="nbar__menu-link" href="/users/login" id="navbar-sign-in-link">Anmelden
+</a></li>
+
+
+<li class='nbar__menu-item nbar__menu-item--deals' role='menuitem'>
+<a class="btn btn--nbar-deals" href="/deals" target="_blank">Angebote finden</a>
+</li>
+</ul>
+</header>
+<div data-react-class="CookieFlash" data-react-props="{&quot;translations&quot;:{&quot;notification&quot;:&quot;Mit Hilfe von Cookies können wir unsere Dienste zur Verfügung stellen und optimieren. Durch Nutzung unserer Dienste stimmen Sie unseren Cookie-Richtlinien zu.&quot;,&quot;moreInfo&quot;:&quot;Mehr erfahren&quot;}}"></div>
+
+
+<main data-opt-out-message='Tracking erfolgreich deaktiviert.'>
+<header class='header header--generic'>
+<div class='header__container'>
+<h1 class='header__title'>
+Nutzungsbedingungen und Datenschutzbestimmungen von Wimdu
+</h1>
+</div>
+</header>
+<div class='l-container l-container--terms'>
+<div class='content content--terms'>
+<h2 class='content__title'>
+AGB
+</h2>
+<div class='content__body'>
+<h3 class='content__subtitle'>
+Allgemeine Geschäftsbedingungen (AGB) für die Nutzung der Onlineplattform wimdu.com
+</h3>
+<div class='content__section content__section--terms' id='terms-and-conditions'>
+<a class="content__section-link" href="/tc/tc_de.pdf" target="_blank">Allgemeine Geschäftsbedingungen herunterladen</a>
+<div class='terms-and-conditions-text'>
+<p class='font-11 margin-5-tb'>(letzte aktualisierte Fassung)</p>
+<ol class='first-level'>
+<li>
+Geltungsbereich, Änderung der Allgemeinen Geschäftsbedingungen 
+<ol>
+<li>
+Die nachfolgenden Allgemeinen Geschäftsbedingungen (AGB) gelten für die Nutzung der Plattform www.wimdu.de (auch: „Plattform“). Diese ist ein Angebot der Wimdu GmbH („Wimdu“ oder „Wir“). 
+</li>
+<li>
+„Nutzer" im Sinne dieser AGB sind natürliche und juristische Personen, die sich registriert haben und deren Registrierung von Wimdu bestätigt wurde. 
+</li>
+<li>
+Wimdu stellt den Nutzern die Plattform, insbesondere die Nutzung der Datenbank, nur auf Grundlage dieser AGB zur Verfügung. 
+</li>
+<li>
+Mit der Registrierung oder der Nutzung unserer Dienste erklärt sich der Nutzer mit der Geltung dieser AGB einverstanden. 
+</li>
+<li>
+Wimdu behält sich das Recht vor, die AGB mit Wirkung für die Zukunft zu aktualisieren, wenn wirtschaftliche oder rechtliche Gründe eine Anpassung erforderlich machen. Die Änderungen werden erst dann Vertragsbestandteil, wenn der Nutzer diesen Änderungen zustimmt. Hierfür genügt es, dass Wimdu die neue Fassung der AGB dem Nutzer an die vom Nutzer für Benachrichtigungszwecke angegebene E-Mail übermittelt. Widerspricht der Nutzer den Änderungen der AGB nicht innerhalb von einer Woche, gilt die Zustimmung als erteilt.
+</li>
+<li>
+Entgegenstehende Allgemeine Geschäftsbedingungen des Nutzers haben keinen Einfluss auf Paragraph 2.5, selbst wenn Wimdu sich ihnen nicht widersetzt.
+</li>
+</ol>
+</li>
+<li>
+Leistung von Wimdu, Leistung der Anbieter
+<ol>
+<li>
+Die Plattform ist ein Online-Marktplatz, auf dem Nutzer Wohnungen, Häuser, Zimmer oder sonstige Unterkünfte („Unterkunft“ oder „Unterkünfte“) anbieten und anmieten können.
+</li>
+<li>
+Wimdu stellt mit www.wimdu.de eine Plattform zur Verfügung, auf der Nutzer miteinander kommunizieren und Verträge abschließen können. Wimdu bietet selbst keine eigenen Unterkünfte an, sondern vermittelt lediglich Vertragsschlüsse zwischen den Nutzern. 
+</li>
+<li>
+Mietverträge kommen ausschließlich zwischen dem vermietenden Nutzer („Anbieter“) und dem anmietenden Nutzer („Mieter“) zustande. Wimdu wird selbst nicht Vertragspartner der zwischen den Nutzern der Website geschlossenen Mietverträge. Wimdu ist jedoch in jedem Fall berechtigt, als Vertreter mit Abschlussvollmacht für den Anbieter aufzutreten und Verträge für diesen zu schließen. Für die Erfüllung der Vertragspflichten zwischen Anbieter und Mieter sind jedoch diese Parteien ausschließlich selbst verantwortlich. Etwa auftretende Fälle von Leistungsstörungen müssen die Nutzer miteinander verhandeln. Wimdu speichert und übermittelt zu diesem Zwecke Kontaktdaten beider Parteien.
+</li>
+<li>
+Auf der Plattform veröffentliche Angebote und Inhalte von Nutzern werden von Wimdu nicht auf ihre Rechtmäßigkeit, Richtigkeit und Vollständigkeit hin überprüft und stellen nicht die Meinung von Wimdu dar. Wimdu ist für fremde Angebote und Inhalte nicht verantwortlich. 
+</li>
+<li>
+Anbieter können für die von ihnen vermieteten Unterkünfte eigene, objektbezogene Allgemeine Geschäftsbedingungen verwenden, welche die  AGB von Wimdu abändern können.
+</li>
+<li>
+Anbieter und Mieter sind für die Einhaltung der öffentlich-rechtlichen Bestimmungen, einschließlich kommunaler Satzungen betreffend die Wohnraumvermietung, selbst verantwortlich.
+</li>
+</ol>
+</li>
+<li>
+Registrierung, Zustandekommen des Nutzungsvertrages, rechtsgeschäftliche Erklärungen 
+<ol>
+<li>
+Für die Nutzung des Angebots von Wimdu ist eine Registrierung des Nutzers erforderlich. Die Registrierung ist kostenlos und setzt voraus, dass der Nutzer die AGB von Wimdu akzeptiert. Mit Eingang der Registrierungsbestätigung per E-Mail an die vom Nutzer angegebene E-Mailadresse kommt der Nutzungsvertrag zwischen Wimdu und dem Nutzer zustande. Es besteht kein Anspruch auf Abschluss eines solchen Nutzungsvertrages.
+</li>
+<li>
+Die Registrierung ist nur unbeschränkt geschäftsfähigen natürlichen Personen, juristischen Personen und Personengesellschaften möglich. Die Registrierung einer juristischen Person oder Personengesellschaft darf nur von einer vertretungsberechtigten natürlichen Person vorgenommen werden, die namentlich genannt werden muss. Bei der Registrierung dürfen nur einzelne Personen als Inhaber des Nutzerkontos angegeben werden (d. h. keine Ehepaare oder Familien). 
+</li>
+<li>
+Der Nutzer ist verpflichtet, bei der Registrierung wahrheitsgemäße, aktuelle und vollständige Angaben gemäß den Vorgaben des Registrierungsformulars zu machen, insbesondere Vor- und Nachname, die aktuelle Postanschrift (kein Postfach) und eine gültige E-Mail-Adresse sowie gegebenenfalls die Firmierung und einen Vertretungsberechtigten anzugeben. Die Daten sind stets aktuell und richtig zu halten. Mehrfache Anmeldungen unter verschiedenen Mitgliedsnamen sind untersagt. Bei der Registrierung wählt der Nutzer einen Mitgliedsnamen und ein Passwort. Der Mitgliedsname darf nicht aus einer E-Mail- oder Internetadresse bestehen, nicht Rechte Dritter – insbesondere keine Namens- oder Markenrechte – verletzen und nicht gegen die guten Sitten verstoßen. Nach der Registrierung bekommt der Nutzer ein Passwort und eine Bezeichnung für sein Mitgliedskonto zugeteilt.
+</li>
+<li>
+Dem Nutzer können rechtsgeschäftliche Erklärungen auf der von ihm angegebenen E-Mailadresse zugehen.
+</li>
+<li>
+Mit der Zustimmung zu den Allgemeinen Geschäftsbedingungen erklärt der Nutzer seine Einwilligung zum Erhalt von Newslettern und ähnlichen Informationen per E-Mail. Er kann seine Einwilligung jederzeit kostenfrei widerrufen.
+</li>
+</ol>
+</li>
+<li>
+Nutzerpflichten, Nutzerkonto, Systemintegrität 
+<ol>
+<li>
+Der Nutzer ist für sämtliche Inhalte, die er auf der Plattform einstellt allein verantwortlich. Er verpflichtet sich gegenüber Wimdu, keine rechtswidrigen Inhalte einzustellen oder Handlungen vorzunehmen, die gegen Gesetze verstoßen.
+</li>
+<li>
+Der Anbieter ist dafür verantwortlich, dass die von ihm angebotene Unterkunft richtig und vollständig beschrieben wird. Dabei hat er mindestens zu den von Wimdu vorgegebenen Pflichtfeldern Angaben zu machen, um so die Unterkunft und das Angebot hinreichend genau zu beschreiben. Zusätzlich steht es dem Anbieter frei, weitere Kondition wie etwa Höhe einer Kaution, Kosten für Endreinigung, Möglichkeit der Stornierung etc. darzustellen. Die verschiedenen Stornierungsbedingungen, die vereinbart werden können, sind unter Stornierungsbedingungen abrufbar. Der Nutzer ist verpflichtet, die Angaben in seinem Mitgliedskonto stets aktuell und wahrheitsgemäß zu halten, d. h. im Falle einer Änderung diese umgehend zu korrigieren. Ein Nutzerkonto ist nicht übertragbar. 
+</li>
+<li>
+Der Nutzer ist verpflichtet, sein Mitgliedskonto nur selbst zu nutzen und sein Passwort geheimzuhalten. 
+</li>
+<li>
+Der Nutzer haftet Wimdu für sämtliche Handlungen, die unter Verwendung seines Mitgliedskontos vorgenommen werden, es sei denn, der Nutzer hat den Missbrauch seines Mitgliedskontos nicht zu vertreten.
+</li>
+<li>
+Sobald der Nutzer Kenntnis davon hat, dass Dritte Zugriff auf seine Zugangsdaten haben oder sich sonst Zugang zu seinem Mitgliedskonto verschafft haben, ist er verpflichtet, Wimdu hiervon unverzüglich in Kenntnis zu setzen. Wimdu ist berechtigt, das Mitgliedskonto daraufhin bis zur Klärung des Sachverhalts sperren. 
+</li>
+<li>
+Jeder Nutzer muss die Identität seines jeweiligen Vertragspartners selbstständig überprüfen. Wimdu übernimmt keine Gewähr für die Richtigkeit der auf der Plattform eingestellten Kontaktinformationen der Nutzer.
+</li>
+<li>
+Die Nutzer sind verpflichtet, ihre Systeme und Programme in Verbindung mit der Nutzung des Angebots von Wimdu so einzurichten, dass weder die Sicherheit, noch die Integrität, noch die Verfügbarkeit der Systeme, die Wimdu zur Erbringung ihrer Dienste einsetzt, beeinträchtigt werden. Nutzer dürfen keine von Wimdu generierten Inhalte blockieren, überschreiben oder modifizieren oder in sonstiger störender, den Zweck des Nutzungsvertrages zuwiderlaufender Weise in das Angebot von Wimdu eingreifen. Wimdu ist berechtigt, notwendige Maßnahmen entsprechend Ziffer 12.1 einzurichten und zu ergreifen, die erforderlich sind, um die Systemintegrität von Systemen von Wimdu oder Dritten zu sichern. 
+</li>
+<li>
+Nutzer dürfen Adressen, Kontaktdaten und E-Mail-Adressen, die sie durch die Nutzung der Website erhalten haben, für keine anderen Zwecke nutzen, als für die vertragliche Kommunikation. Es ist insbesondere verboten, diese Daten an Unbefugte weiterzugeben oder sie für die Zusendung von Werbung zu nutzen, es sei denn, der betroffene Nutzer hat dem ausdrücklich vorher zugestimmt.
+</li>
+<li>
+Der Nutzer darf in keinem Fall massenhaft inhaltsgleiche Nachrichten über die Plattform versenden. Jegliches Spamming oder ähnlich belästigende Handlungen gegenüber anderen Nutzern oder Dritten sind untersagt.
+</li>
+<li>
+Jeder Nutzer ist selbst dafür verantwortlich, auf der Website einsehbare und von Wimdu gespeicherte Informationen, die er zu Zwecken der Beweissicherung, Buchführung, etc. benötigt, auf einem von Wimdu unabhängigen Speichermedium zu archivieren. 
+</li>
+<li>
+Bei einem Verstoß des Nutzers gegen diese AGB ist Wimdu berechtigt, von seinem virtuellen Hausrecht Gebrauch zu machen. Wimdu kann den betreffenden Nutzer von der Nutzung des Dienstes ausschließen, die von ihm verwendeten Inhalte löschen oder andere Maßnahmen im Sinne von Ziffer 12 ergreifen. Wimdu wird berechtigte Ansprüche auf Unterlassung und Schadensersatz gerichtlich verfolgen.
+</li>
+</ol>
+</li>
+<li>
+Umgang mit Inhalten und Rechten
+<ol>
+<li>
+Im Rahmen der Funktionalität der Plattform können sich Anbieter durch eine Vielzahl von Medien ihren potenziellen Mietern präsentieren. Damit die Verwendung der verschiedenen Medien rechtskonform erfolgt und keine Haftungsansprüche gegen den Nutzer oder Wimdu auslöst, müssen bestimmte Regeln eingehalten werden. Diese ergeben sich z.B. aus Gesetzen zum Schutz von Urheberrechten und Marken sowie diesen AGB.
+</li>
+<li>
+Wimdu speichert für den Nutzer seine von ihm hochgeladenen multimedialen Inhalte (Bilder, Texte, etc.) bzw. vermittelt lediglich den erforderlichen Speicherplatz und Zugang hierzu. Daher sind allein die Nutzer für die von ihnen auf Wimdu eingestellten multimedialen Inhalte verantwortlich und stellen Wimdu von allen hieraus resultierenden Ansprüchen Dritter frei. Von der Freistellung umfasst sind insbesondere auch die Kosten einer angemessenen Rechtsverfolgung und –verteidigung.
+</li>
+<li>
+Die Nutzer stellen insoweit sicher, dass die hochgeladenen Inhalte nicht gegen geltende Gesetze und Rechtsvorschriften, die guten Sitten und insbesondere gegen die Rechte Dritter (Namens-, Persönlichkeits-, Urheber-, Datenschutzrechte, usw.) verstoßen. Insbesondere verpflichten sich die Nutzer dazu, keine Inhalte hochzuladen, die gegen Bestimmungen des Strafgesetzbuches, Jugendmedienschutz-Staatsvertrages (JMStV) verstoßen. Ebenso ist der Nutzer verpflichtet, keine pornografischen, gewaltverherrlichenden oder volksverhetzenden Inhalte darzustellen. Gleiches gilt für die Versendung von E-Mails und anderen elektronischen Kommunikationsmitteln der Plattform.
+</li>
+<li>
+Die Nutzer übertragen Wimdu mit dem Hochladen von multimedialen Inhalten ein unentgeltliches, widerrufliches, unbeschränktes, unterlizenzierbares und örtlich unbegrenztes Nutzungsrecht an den vom Nutzer auf Wimdu eingestellten multimedialen Inhalten samt dem Recht der Darstellung auf Websiten Dritter. Das Nutzungsrecht umfasst insbesondere auch das Recht, die multimedialen Inhalte für die Zwecke der Plattform zu bearbeiten sowie online wie offline, gedruckt oder elektronisch, drahtgebunden oder drahtlos der Öffentlichkeit in einer Weise zugänglich zu machen, dass es den Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich ist, einschließlich der Wiedergabe auf beliebigen Empfangsgeräten, welche den Online-Zugang ermöglichen, insbesondere stationären und portablen Computern sowie mobilen Endgeräten wie Smartphones, Tablets und vergleichbaren Geräten. Das Nutzungsrecht umfasst auch das Recht, die multimedialen Inhalte auf Webseiten von Wimdus Vertragspartnern einschließlich Werbeträgern einzublenden.
+</li>
+<li>
+Die über Wimdu angebotenen Inhalte sind urheberrechtlich geschützt. Der Zugang und die Nutzung der Plattform erfolgt regelmäßig individuell durch eine natürliche Person über einen Webbrowser. Der Einsatz von Techniken wie Webspidern, Crawlern oder ähnlichen Programmen, deren Zweck nicht in der bloßen Indizierung der Inhalte, sondern im massenhaften Abruf und der Speicherung von Inhalten der Plattform besteht, ist unzulässig. Dies gilt insbesondere auch für Techniken, die durch sogenanntes „Screenscraping“ Angebote und Dienste Dritter erst ermöglichen.
+</li>
+<li>
+Wimdu ist berechtigt, bei einem Verstoß gegen die genannten Verbote sowie Richtlinien dieser Allgemeinen Geschäftsbedingungen, die Aufnahme von Inhalten zu verweigern, Inhalte unverzüglich zu löschen und zu sperren sowie die Seiten und darauf gerichtete Verweise sofort zu löschen. Der Nutzer hat in solchem Fall keinen Anspruch auf Wiedereinstellung seiner multimedialen Inhalte auf der Internetplattform oder eine Freigabe seines gelöschten Nutzerprofils.
+</li>
+</ol>
+</li>
+<li>
+Verfügbarkeit und Änderung der Website
+<ol>
+<li>
+Der Nutzer hat keinen Rechtsanspruch auf eine dauerhafte Nutzung der Plattform. Insbesondere ist Wimdu nicht verpflichtet, eine jederzeitige Verfügbarkeit oder Erreichbarkeit der Plattform herzustellen. Wimdu bemüht sich jedoch, den Betrieb der Plattform möglichst störungsfrei aufrecht zu erhalten und gemäß den Bedürfnissen der Nutzer weiterzuentwickeln.
+</li>
+<li>
+Wimdu beschränkt die Nutzung zeitweilig, wenn dies im Hinblick auf Sicherheit, Integrität, Kapazitätsgrenzen oder zur Durchführung technischer Maßnahmen erforderlich ist (Wartungsarbeiten). Die berechtigten Interessen der Nutzer werden hierbei von Wimdu insbesondere durch vorherige Informationen berücksichtigt.
+</li>
+</ol>
+</li>
+<li>
+Haftung für Seiten Dritter
+<ol>
+<li>
+Die Seiten der Plattform enthalten auch Links zu Websites im Internet, die von Dritten gepflegt werden und deren Inhalte Wimdu nicht bekannt sind. Wimdu vermittelt lediglich den Zugang zu diesen Websites und übernimmt keinerlei Verantwortung für deren Inhalte. Die Links auf fremde Internetseiten dienen lediglich zur Erleichterung der Navigation. Wimdu macht sich die auf verlinkten Seiten dargestellten Aussagen nicht zu eigen, sondern distanziert sich vielmehr hiermit ausdrücklich von allen Inhalten aller gelinkten Seiten Dritter auf den Seiten der Plattform.
+</li>
+<li>
+Die Inhaber der Internetseiten, zu denen über die Plattform von Wimdu ein Hyperlink besteht, sind sowohl für deren Inhalt als auch für Verkauf dort angebotenen Waren oder Dienstleistungen allein verantwortlich.
+</li>
+</ol>
+</li>
+<li>
+Buchungsprozess, Zahlungsablauf, Rechnungstellung
+<ol>
+<li>
+Durch das Einstellen einer Unterkunft auf der Website von Wimdu spricht der Anbieter eine Aufforderung zur Abgabe eines Angebots aus. Ein anderer Nutzer kann für diese ein Angebot zum Abschluss eines Mietvertrages abgeben. Der Vertrag kommt zustande, wenn der Anbieter dieses Angebot innerhalb von 24 Stunden in der von Wimdu vorgesehenen Weise annimmt. Anderenfalls ist der andere Nutzer an sein Angebot nicht mehr gebunden.
+</li>
+<li>
+Stornierungen sind Rücktritte vor dem planmäßigen Check-in. Es kann eine der unter Stornierungsbedingungen genannten Optionen vereinbart werden. Hiernach erforderlich werdende Rückzahlungen leistet Wimdu an den Nutzer auf demselben wie von ihm im Sinne von Ziffer 8.4.3. gewählten Weg.
+</li>
+<li>
+Der Anbieter hat Sorge zu tragen, dass <ol type="a"> <li>die Unterkunftsbeschreibung und die verwendeten Bilder keine Gesetze und Rechte Dritter verletzen und sich ausschließlich auf die angebotene Unterkunft beziehen.</li> <li>er erfolgreich gebuchte Unterkünfte entsprechend kennzeichnet.</li> <li>er keine Verweise auf fremde Inhalte darstellt.</li> <li>er die öffentlich-rechtlichen Bestimmungen, insbesondere die Vorschriften über die Zahlung, das Factoring und steuerrechtliche Verpflichtungen, welche auch etwaige umsatzsteuerrechtliche Verpflichtungen bzw. die Verpflichtungen aus indirekten Steuern beinhalten können, beachtet. Die Einhaltung dieser Obliegenheiten und Pflichten steht in der alleinigen Verantwortung des Anbieters. Wimdu ist berechtigt, von den Nutzern Nachweise zu fordern, um entsprechende Objektangaben zu verifizieren.</li> </ol>
+</li>
+<li>
+Der Zahlungsablauf erfolgt entsprechend den nachfolgenden Bestimmungen: <ol type="a"> <li>Der Vertrag kommt über den am Ende der Buchung dargestellten Gesamtpreis zustande. Dieser setzt sich aus dem Mietpreis und der Bearbeitungsgebühr, die aus einem Verwaltungsteil und einem objektbezogenen Teil besteht, und sich nach dem Mietpreis bemisst, zusammen. Wimdu benachrichtigt die Nutzer nach erfolgter Buchung über deren Inhalt einschließlich der Darstellung des Gesamtpreises.</li> </br> <li>Wimdu ist berechtigt, die Höhe der Bearbeitungsgebühren jederzeit zu ändern. Dies gilt nicht für bereits geschlossene Mietverträge. Die Höhe der Bearbeitungsgebühr wird dem Anbieter rechtzeitig durch E-Mail zusammen mit der Buchungsanfrage mitgeteilt.</li> </br> <li>Der Mieter hat den in der Buchung dargestellten Gesamtpreis, ggf. in mehreren Teilen, auf dem im Buchungsprozess gewählten Weg, zu zahlen. Hierbei nimmt Wimdu das Geld vom Mieter im Namen des Anbieters ein und verwahrt es für diesen auf einem nicht verzinsten Treuhandkonto. Schlägt der Forderungseinzug fehl, so hat der Mieter die dafür anfallenden Mehrkosten zu erstatten. Dies gilt nicht, wenn er den Fehlschlag nicht zu vertreten hat.</li> </br> <li>Der Mieter weist Wimdu bereits mit dem Buchungsabschluss an, den Mietpreis 24 Stunden nach Beginn des Aufenthalts in der gemieteten Unterkunft an den Anbieter zu überweisen. Wird dem Mieter die Unterkunft nicht vertragsgemäß überlassen, hat der Mieter das Recht, die Anweisung gegenüber Wimdu zu widerrufen. Der Widerruf ist mit Begründung unverzüglich über das Kontaktformular Wimdu zuzusenden.</li> </br> <li>Der Anbieter erfüllt seine Pflicht zur Zahlung der Bearbeitungsgebühr an Wimdu, indem Wimdu diese vom Treuhandkonto auf ein eigenes überweist, sodass der Anbieter keine weiteren Zahlungen zu leisten hat.</li> </br> <li>Nutzer können gegen Bearbeitungsgebühren von Wimdu mit Forderungen nur aufrechnen, wenn diese fällig und rechtskräftig festgestellt oder unbestritten sind. Die Abtretung von Forderungen an Dritte ist ausgeschlossen.</li> </ol>
+</li>
+<li>
+Auf Verlangen hat der Anbieter dem Mieter eine Rechnung über den Gesamtpreis zu stellen. Wimdu erstellt dem Anbieter auf Verlangen eine Rechnung über die Bearbeitungsgebühr zu stellen, wobei diese unter Berücksichtigung der steuerrechtlichen Bestimmungen ohne Umsatzsteuer oder ähnliche indirekte Steuern ausgewiesen wird, sofern nicht ausdrücklich etwas anderes in den Vorschriften genannt ist.
+</li>
+<li>
+Es gilt die widerlegliche Vermutung, dass ein Anbieter unternehmerisch tätig ist und sich seiner hieraus resultierenden (umsatz-)steuerrechtlichen Pflichten bewusst ist und diese ordnungsgemäß erfüllt, solange er Wimdu nicht etwas anderes mitteilt. Wimdu ist berechtigt, entsprechende Nachweise zur Unternehmereigenschaft zu fordern.
+</li>
+<li>
+Dem Vermieter bleibt vorbehalten, weitere verbrauchs- und nutzungsabhängige Kosten (insbesondere: Strom, Wasser, Heizung) zusätzlich vor Ort geltend zu machen. Auf die grundsätzliche Möglichkeit der Erhebung ist durch den Anbieter vor Vertragsschluss hinzuweisen. Diese finden bei der Berechnung der Bearbeitungsgebühr keine Berücksichtigung. Dasselbe gilt für eine etwaige Kautionsforderung.
+</li>
+<li>
+Von Wimdu ausgestellte Buchungsgutscheine können durch die Mieter bei Buchungen im Rahmen der vorgegebenen Frist verwendet werden. Eine Auszahlung an den Mieter findet nicht statt.
+</li>
+<li>
+Nutzern ist es untersagt, die vorgenannten Buchungs- und Zahlungsabläufe, insbesondere die Bearbeitungsgebühren, zu umgehen.
+</li>
+</ol>
+</li>
+<li>
+Kaution
+<ol>
+<li>
+Dem Anbieter ist es erlaubt, eine Kaution auf sein Angebot zu erheben. Falls der<br />Anbieter am Tag der Anreise vom Mieter eine Kaution fordert, ist es zwingend<br />erforderlich, die entsprechenden Daten über die Höhe der Kaution und der Zahlungsmethode bereits im Angebot zu erwähnen. Die Höhe der Kaution muss bereits vor der Buchung festgelegt sein. Weiterhin muss im Voraus geklärt sein, wann die Summe gezahlt werden soll (z.B.: drei Monate vor der Ankunft, am Tag der Anreise in bar).
+</li>
+<li>
+Wenn der Anbieter die Kaution nicht zusammen mit der Bewerbung seiner Unterkunft<br />angeben hat, zu einem späteren Zeitpunkt trotzdem eine Kaution verlangt und der<br />Mieter damit nicht einverstanden ist, gilt das als eine Verweigerung der Leistung seitens<br />des Anbieters innerhalb des vereinbarten Vertrags. Wimdu behält sich in diesem Fall<br />das Recht vor, die Buchung zu stornieren und dem Anbieter eine Stornierungsgebühr<br />aufzuerlegen.
+</li>
+<li>
+Wimdu ist weder für die Verwaltung von Kautionen noch für etwaige vom Anbieter geltend gemachte Ansprüche verantwortlich.
+</li>
+</ol>
+</li>
+<li>
+Bewertungssystem
+<ol>
+<li>
+Die Website ermöglicht es Nutzern, nach Vertragsdurchführung sich gegenseitig zu bewerten. Die Bewertungen sollen ein aussagekräftiges Bild der Vertrauenswürdigkeit der Nutzer wiedergeben. Die Bewertungen werden von Wimdu nicht vorab überprüft.
+</li>
+<li>
+Der Nutzer verpflichtet sich, in den von ihm abgegebenen Bewertungen ausschließlich<br />wahrheitsgemäße Angaben zu machen und die entsprechenden gesetzlichen<br />Bestimmungen einzuhalten. Die von ihm abgegebenen Bewertungen dürfen nicht<br />Rechte Dritter, insbesondere nicht Persönlichkeitsrechte verletzen. Sie müssen sachlich<br />gehalten sein und dürfen keine Schmähkritik enthalten.
+</li>
+<li>
+Jede Nutzung des Bewertungssystems, die dem Zweck des Bewertungssystems zuwider läuft, ist untersagt. Es ist Nutzern insbesondere verboten, Bewertungen über sich selbst abzugeben oder über Dritte zu veranlassen, in Bewertungen Umstände einfließen zu lassen, die nicht mit der Abwicklung des zugrundeliegenden Vertrags in Zusammenhang stehen oder Bewertungen zu einem anderen Zweck zu verwenden als der Darstellung auf der Website.
+</li>
+<li>
+Wimdu greift in das Bewertungssystem nicht ohne rechtfertigenden Grund ein.<br />Abgegebene Bewertungen werden durch Wimdu weder verändert noch entfernt, es sei denn, Wimdu ist dazu gesetzlich gesondert verpflichtet. Bewertungen können nach ihrer Abgabe nicht mehr verändert werden. Sie werden dauerhaft im Bewertungsprofil eines Nutzers gespeichert und können von allen Nutzern eingesehen werden. Wimdu ist berechtigt, Anmerkungen zu den Bewertungen hinzuzufügen, wenn dies zur Klarstellung und Steigerung des Verständnisses zweckdienlich ist. Nur wenn ein Gastgeber eine Buchung storniert, wird eine Bewertung von Wimdu und nicht vom Nutzer veröffentlicht. In diesem Fall wird dem Angebot eine automatische Bewertung mit einem Stern hinzugefügt. 
+</li>
+<li>
+Sollte ein Missbrauch der Bewertungen durch einen Nutzer vorliegen, so ist Wimdu ausnahmsweise berechtigt, die Bewertung zu entfernen sowie die in Ziffer 12 angeführten Maßnahmen zu ergreifen. Dies gilt insbesondere dann, wenn: <ol type="a"> <li>die Bewertung aufgrund einer vollstreckbaren gerichtlichen Entscheidung gegen denjenigen, der die Bewertung abgegeben hat, entfernt werden muss;</li> </br> <li>der Bewertungskommentar vulgäre, obszöne, rassistische, nicht jugendfreie oder im strafrechtlichen Sinne beleidigende Bemerkungen enthält;</li> </br> <li>der Bewertungskommentar persönliche Angaben über ein anderes Mitglied wie zum Beispiel den Namen, die Adresse, Telefonnummer oder E-Mail-Adresse enthält;</li> </br> <li>der Bewertungskommentar unzulässige Links oder Scripts enthält;</li> </br> <li>wenn der Nutzer die negative Bewertung versehentlich einem falschen Nutzer zugeordnet hat, diesen Fehler jedoch bereits behoben und die gleiche Bewertung für den richtiger Nutzer abgegeben hat;</li> </br> <li>die Bewertung von einer Person abgegeben wurde, die zur Buchung nicht berechtigt war;</li> </br> <li>die Bewertung von Nutzern stammt, deren Mitgliedskonto innerhalb von 90 Tagen nach ihrer Registrierung bei Wimdu gesperrt wurde. Dies gilt nicht bei Mitgliedskonten, die beispielsweise wegen Nichtbezahlung der Bearbeitungsgebühr gesperrt wurden oder in Situationen, in denen dem Nutzer die Möglichkeit eingeräumt wird, das Problem zu lösen und das Mitgliedskonto wieder eingesetzt wird</li> </br> </ol>
+</li>
+<li>
+Beide Vertragspartner können sich auf die Rücknahme einer bereits abgegebenen Bewertung einigen. Der Bewertungspunkt wird entfernt und geht nicht mehr in die Rechnung des Bewertungsprofils ein.
+</li>
+</ol>
+</li>
+<li>
+Laufzeit, Kündigung
+<ol>
+<li>
+Der Nutzungsvertrag wird auf unbestimmte Zeit geschlossen.
+</li>
+<li>
+Er kann vom Nutzer jederzeit ohne Einhaltung einer Kündigungsfrist gekündigt<br />werden. Für eine Kündigungserklärung genügt eine Mitteilung an Wimdu in Textform<br />(z.B. Brief, Fax, E-Mail). Bereits nachgewiesene oder vermittelte Mietverträge des<br />Nutzers mit anderen Nutzern bleiben von einer Kündigung des Nutzungsvertrages<br />unberührt. Entsprechendes gilt für bereits fällige Ansprüche auf die Zahlung der<br />Bearbeitungsgebühr.
+</li>
+<li>
+Wimdu kann den Nutzungsvertrag jederzeit ordentlich mit einer Frist von zwei Wochen<br />kündigen.
+</li>
+<li>
+Das Recht zur Sperrung sowie das Recht zur Kündigung aus wichtigem Grund sowie die im Einzelnen vereinbarten Kündigungsrechte des Nutzers bleiben hiervon unberührt. Ein wichtiger Grund für Wimdu liegt insbesondere dann vor, wenn: <ol type="a"> <li>der Nutzer mit einer nicht nur unerheblichen Zahlungsverpflichtung ganz oder teilweise trotz Mahnung mit angemessener Fristsetzung nicht nachkommt;</li> </br> <li>der Nutzer gegen seine Pflichten aus diesen AGB verstößt und trotz Mahnung mit Fristsetzung keine fristgemäße Abhilfe schafft. Einer Mahnung bedarf es dann nicht, wenn diese keinen Erfolg verspricht oder der Verstoß so schwerwiegend ist, dass Wimdu ein Festhalten am Vertrag nicht zumutbar ist. Ferner kann sich die Schwere des Verstoßes auch daraus ergeben, dass der Nutzer wegen eines vergleichbaren Verstoßes bereits mehrfach abgemahnt wurde;</li> </br> <li>Anforderungen des Gesetzgebers, eines Gerichts oder eine Behörde ergeben, dass die Nutzung der Plattform nicht mehr in dieser Form angeboten werden kann;</li> </br> <li>Wimdu die Plattform oder ihre Geschäftstätigkeit einstellt;</li> </br> <li>die Eröffnung eines Insolvenzverfahrens über das Vermögen des Nutzers mangels Masse abgelehnt wird.</li> </br> </ol>
+</li>
+</ol>
+</li>
+<li>
+Maßnahmen bei rechts- und/oder vertragswidrigem Verhalten des Nutzers
+<ol>
+<li>
+Wenn konkrete Anhaltspunkte dafür bestehen, dass ein Nutzer schuldhaft gesetzliche Vorschriften, Rechte Dritter oder die AGB verletzt oder wenn Wimdu ein sonstiges berechtigtes Interesse hat, insbesondere zum Schutz der Mitglieder vor betrügerischen Aktivitäten, kann Wimdu vorbehaltlich einer fristlosen Kündigung eine oder mehrere der folgenden Maßnahmen ergreifen: <ol type="a"> <li>den Nutzer verwarnen;</li> </br> <li>Angebote oder sonstige Inhalte des Nutzers löschen;</li> </br> <li>die Nutzung der Website durch den Nutzer beschränken;</li></br> <li>den Nutzer vorläufig oder endgültig von der Nutzung der Website ausschließen (Sperrung)</li></br> <li>bestehende Mietverträge namens des Vermieters anfechten und ohne Beachtung der sonst geltenden Stornierungsbedingungen stornieren und Angebote des Nutzers zum Abschluss eines Mietvertrages namens des Vermieters zurückweisen.</li></br> </ol>
+</li>
+<li>
+Bei der Wahl einer Maßnahme berücksichtigt Wimdu auch die berechtigten Interessen des betroffenen Nutzers.
+</li>
+<li>
+Bereits abgeschlossene Mietverträge des Nutzers mit anderen Nutzern bleiben von einer Löschung eines Angebotes unberührt. Entsprechendes gilt für bereits fällige Ansprüche auf Zahlung der Bearbeitungsgebühr. Wird ein Angebot vor Annahme durch einen Nutzer von Wimdu gelöscht, kommt kein wirksamer Mietvertrag zustande.
+</li>
+<li>
+Wimdu steht das Recht zu, einen Nutzer in jedem der nachfolgenden Fälle zu sperren, wobei die berechtigten Interessen des Nutzers zu berücksichtigen sind. Ein Recht zur Sperrung besteht, wenn: <ol type="a"> <li>der Nutzer im Bewertungssystem gemäß Ziffer 10 wiederholt negative Bewertungen erhalten hat und die Sperrung zur Wahrung der Interessen der anderen Marktteilnehmer geboten ist;</li> </br> <li>der Nutzer in seinem Mitgliedskonto falsche Kontaktdaten angegeben hat, insbesondere eine falsche oder ungültige E-Mail-Adresse;</li></br> <li>der Nutzer ein Mitgliedskonto an einen anderen überträgt;</li></br> <li>der Nutzer andere Nutzer in erheblichem Maße schädigt, insbesondere die Unterkunft und/oder Einrichtungsgegenstände beschädigt, zerstört, stiehlt etc.;</li></br> <li>ein anderer vergleichbarer im Risiko- und Verantwortungsbereich des Nutzers liegender wichtiger Grund vorliegt.</li> <br /><li>ein Nutzer eine erheblich schlechtere Annahmequote als der Durchschnitt aufweist und eine Verbesserung nicht absehbar ist.</li></ol>
+</li>
+<li>
+Nachdem ein Nutzer endgültig durch Wimdu gesperrt wurde, besteht kein Anspruch auf Wiederherstellung des gesperrten Nutzerkontos oder des Bewertungsprofils. Der Nutzer darf die Website auch mit anderen Mitgliedskonten nicht mehr nutzen und sich nicht erneut registrieren.
+</li>
+</ol>
+</li>
+<li>
+Haftung von Wimdu
+<ol>
+<li>
+Wimdu haftet unbeschränkt für die durch Wimdu, ihre Mitarbeiter und Erfüllungsgehilfen vorsätzlich oder grob fahrlässig verursachten Schäden, bei arglistigem Verschweigen von Mängeln, bei der ausdrücklichen Übernahme einer Garantie sowie für Schäden aus der Verletzung des Lebens, des Körpers und der Gesundheit.
+</li>
+<li>
+Für sonstige Schäden haftet Wimdu nur, sofern eine Pflicht verletzt wird, deren<br />Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht und auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf. Die Schadensersatzpflicht ist dabei auf solche Schäden begrenzt, die als vertragstypisch und vorhersehbar anzusehen sind. Eine etwaige Haftung nach dem Produkthaftungsgesetz bleibt unberührt. Weitere Informationen über unsere subsidiäre Haftpflichtversicherung finden Sie in den allgemeinen Geschäftsbedingungen.
+</li>
+<li>
+Da Wimdu am Vertragsverhältnis zwischen Gast und Gastgeber nicht beteiligt ist, übernimmt Wimdu für Leistungen aus Verträgen über Unterkünfte keine Gewähr.
+</li>
+</ol>
+</li>
+<li>
+Schlussbestimmungen
+<ol>
+<li>
+Wimdu ist berechtigt, ihre Rechte und Pflichten aus diesem Vertragsverhältnis ganz oder teilweise auf einen Dritten zu übertragen.
+</li>
+<li>
+Dieser Vertrag unterliegt ausschließlich dem materiellen Recht der Bundesrepublik Deutschland mit Ausnahme des UN-Übereinkommens über den internationalen Kauf beweglicher Sachen und des deutschen Internationalen Privatrechts.
+</li>
+<li>
+Ist der Nutzer Verbraucher i.S.v. § 13 BGB bleiben zwingende verbraucherschützende Vorschriften des Staates unberührt, in denen der Verbraucher seinen gewöhnlichen Aufenthalt hat.
+</li>
+<li>
+Sollten einzelne Bestimmungen dieser AGB ganz oder teilweise unwirksam sein oder werden, so bleiben die AGB im Übrigen wirksam. Im Falle einer solchen Unwirksamkeit wird die unwirksame Regelung durch die gesetzliche Bestimmung ersetzt.
+</li>
+<li>
+Sämtliche Erklärungen, die im Rahmen des mit Wimdu abzuschließenden Nutzungsvertrages übermittelt werden, müssen in Schriftform oder per E-Mail erfolgen. Die postalische Adresse sowie die E-Mail-Adresse eines Nutzers sind diejenigen, die als aktuelle Kontaktdaten im Mitgliedskonto des Nutzers von diesem angegeben wurden.
+</li>
+<li>
+Die Wimdu GmbH hat für das Kreditkarten-Processing der Abrechnung ihre Tochtergesellschaft Wimdu Malta Limited (38, Level 2, Emanuel Schembri Street, Birkirkara BKR 1810) beauftragt.
+</li>
+</ol>
+</li>
+</ol>
+Um mehr über unsere subsidiäre Haftpflichtversicherung zu erfahren, klicken Sie bitte <a href="https://wimdu.zendesk.com/hc/de/articles/204312133/">hier</a>.
+</div>
+
+</div>
+</div>
+<h2 class='content__title'>
+Stornierungsbedingungen
+</h2>
+<div class='content__body'>
+<div class='content__section content__section--cancellation' id='cancellation-policies'>
+<a class="content__section-link" href="/tc/cp_de.pdf" target="_blank">Stornierungsbedingungen herunterladen</a>
+<div class='cancellation-policies--terms'>
+<h3 class="h-light margin-0">1. Wie funktioniert die Stornierung?</h3> 
+<ul> 
+<li>Die Stornierungsbedingungen werden vom Gastgeber ausgewählt. Der Gastgeber kann aus einer aus drei Bedingungen auswählen: flexibel, moderat oder streng. Die Stornierungsbedingungen sind so ausgearbeitet, dass sie sowohl den Gastgeber als auch den Gast schützen.</li> 
+<li>Stornierungen im Sinne dieser Stornierungsbedingungen sind Rücktritte vor dem planmäßigen Check-in.</li>
+</ul>
+
+<h3 class="h-light margin-0">2. Wie storniere ich eine Buchung? </h3> 
+<ul>
+ <li>Um einen reibungslosen und sicheren Ablauf zu garantieren, müssen alle Stornierungsanfragen über Wimdu abgewickelt werden.</li> 
+<li>Wenn Sie eine Buchung stornieren möchten,  <a href="/contact_requests/form">kontaktieren Sie bitte unseren Kundenservice</a>.</li> 
+ <li>Stornierungen durch die Gäste müssen in schriftlicher Form kommuniziert werden. Stornierungen müssen den Buchungscode beinhalten und von der E-Mail-Adresse verschickt werden, mit welcher der Nutzer bei Wimdu registriert ist und welche auch im Benutzerprofil vermerkt ist.</li> 
+<li>Gastgeber sollten ihre Buchungen ausschließlich über die Stornierungsseite stornieren. Diese finden Sie in Ihrem Benutzerkonto unter "Meine Unterkünfte". Bei Stornierungen über die Stornierungsseite wird automatisch eine schriftliche Stornierungsanfrage an den Kundenservice gesendet.</li>
+<li>Bitte beachten Sie, dass eine Stornierung erst wirksam wird, nachdem Sie eine Bestätigungs-E-Mail von Wimdu erhalten haben.</li> 
+<li>Unser Kundenservice wird sich unverzüglich um Ihre Stornierungsanfrage kümmern und Ihren Gastgeber oder Gast darüber informieren. Sie müssen keine weiteren Schritte unternehmen.</li>
+ </ul> 
+
+<h3 class="h-light margin-0">3. Wie errechnet sich der Erstattungsbetrag an den Gast und die Auszahlung an den Gastgeber bei einer Stornierung durch den Gast?</h3> 
+<h4 class="h-light">3.1. Allgemeine Regelungen</h4> 
+<ul>  
+<li>Die Höhe des zurückzuerstattenden Betrags an den Gast hängt vom Zeitpunkt der Stornierung der Buchung sowie von den vom Gastgeber gewählten oder den von Wimdu auferlegten Stonierungsbedingungen ab.
+<li>Um einen reibungslosen und sicheren Ablauf zu garantieren, müssen alle Stornierungsanfragen über Wimdu abgewickelt werden.</li></li> 
+<li>Die Höhe des Betrages, der zurückerstattet wird, hängt von den Stornierungsbedingungen ab. Die jeweiligen Stoniernungsgebühren werden beim Buchungsvorgang angezeigt. Die Bestimmungen unter Punkt 8.4 bezüglich des Zahlungsablaufs gelten entsprechend.</li> 
+<li>Unabhängig von den durch den Gastgeber gewählten Stornierungsbedingungen steht es dem Gast frei, nachzuweisen, dass dem Gastgeber kein oder ein wesentlich geringerer Schaden entstanden ist als mit der Stornierungsgebühr verlangt.</li> 
+</ul> 
+<h4 class="h-light margin-0">3.2. Einzelne Stornierungsbedingungen</h4>
+<div class='cancellation-policy cancellation-policy-free' id='cancellation-policy-free'>
+<h3 class='cancellation-policy__title margin-0-t'>
+Stornierungsbedingungen: 
+<span class='green'>Kostenlose Stornierung</span>
+</h3>
+<p>Bei Stornierung der Buchung mindestens 2 Tage vor Check-in bis 12 Uhr mittags MEZ (Mitteleuopäische Zeit) wird der gesamte Betrag (inklusive der Wimdu-Bearbeitungsgebühr) zurückerstattet. Bei Stornierungen, die weniger als 2 Tage vor Check-in erfolgen, werden 5% des Gesamtpreises abzüglich der Bearbeitungsgebühr zurückerstattet. <br></p>
+<p>Bitte beachten Sie, dass die kostenlose Stornierung seit dem 13. Juli 2015 nicht mehr gilt. Für alle Buchungsanfragen, die vor dem 13. Juli 2015 für Unterkünfte gestellt oder bestätigt wurden, gilt weiterhin die kostenlose Stornierung, sofern ebendiese zum Zeitpunkt der Buchung bereits als Stornierungsbedingung angegeben war.</p>
+</div>
+
+<div class='cancellation-policy cancellation-policy-flexible' id='cancellation-policy-flexible'>
+<h3 class='cancellation-policy__title margin-0-t'>
+Stornierungsbedingungen: 
+<span class='green'>Flexibel</span>
+</h3>
+<p>Sie bekommen den Buchungsbetrag abzüglich der Stornierungsgebühr zurückerstattet, wenn Sie die Buchung mindestens 2 Tage vor dem geplanten Check-in bis 12 Uhr mittags MEZ (Mitteleuropäische Zeit) stornieren. Bei Stornierungen, die weniger als 2 Tage vor Check-in vorgenommen werden, bekommen Sie 5 % des Buchungsbetrags abzüglich der Stornierungsgebühr zurückerstattet.<br></p>
+</div>
+
+<div class='cancellation-policy cancellation-policy-medium' id='cancellation-policy-medium'>
+<h3 class='cancellation-policy__title margin-0-t'>
+Stornierungsbedingungen: 
+<span class='orange'>Moderat</span>
+</h3>
+<p>Sie bekommen den Buchungsbetrag abzüglich der Stornierungsgebühr zurückerstattet, wenn Sie die Buchung mindestens 4 Tage vor dem geplanten Check-in bis 12 Uhr mittags MEZ (Mitteleuropäische Zeit) stornieren. Bei Stornierungen, die weniger als 4 Tage vor Check-in vorgenommen werden, bekommen Sie 5% des Buchungsbetrags abzüglich der Stornierungsgebühr zurückerstattet.</p>
+</div>
+
+<div class='cancellation-policy cancellation-policy-hard' id='cancellation-policy-hard'>
+<h3 class='cancellation-policy__title margin-0-t'>
+Stornierungsbedingungen: 
+<span class='red'>Streng</span>
+</h3>
+<p>Sie bekommen die Hälfte des Buchungsbetrages abzüglich der Stornierungsgebühr zurückerstattet, wenn Sie die Buchung mindestens 7 Tage vor dem geplanten Check-in bis 12 Uhr mittags MEZ (Mitteleuropäische Zeit) stornieren. Bei Stornierungen, die weniger als 7 Tage vor Check-in vorgenommen werden, bekommen Sie 5% des Buchungsbetrags abzüglich der Stornierungsgebühr zurückerstattet.</p>
+</div>
+
+<h3 class="h-light margin-0">4. Was passiert bei einer Stornierung durch den Gastgeber?</h3>
+<ul>
+<li>Wir bei Wimdu nehmen Stornierungen sehr ernst, da diese negative Erfahrungen für die Gäste mit sich bringen.</li> 
+ <li>Bei einer Stornierung durch den Gastgeber bekommt der Gast den Gesamtpreis erstattet. In diesem Fall entstehen keine Stornierungsgebühren.</li> 
+<li>Wimdu wird dem Gast helfen, eine alternative Unterkunft zu finden.</li> <li>Der Gastgeber muss eine Stornierungsgebühr in Höhe von <strong>15 %</strong> des Gesamtpreises bezahlen. Die Stornierungsgebühr erhöht sich auf <strong>50 %</strong> des Gesamtpreises, wenn der Gastgeber seine Buchung weniger als 8 Tage vor Check-in storniert. Wenn das Angebot des Gastgebers ein Angebot mit "Sofortbuchungsfunktion" ist und die Stornierung innerhalb von 24 Stunden nach Bestätigung erfolgt, beträgt die Gebühr  <strong>5 %</strong>.</li>
+<li>Die Stornierungsgebühr wird mit seiner nächsten Buchung, die er erhält, verrechnet.
+<li>Der Gastgeber erhält keine Zahlung für Buchungen, die dieser selbst storniert hat.</li> 
+<li>Die stornierten Angebote erhalten eine schlechtere Platzierung als Konsequenz. Dies könnte in Zukunft zu weniger Buchungsanfragen führen. 
+<li>Den Bewertungen des stornierten Angebotes wird automatisch eine Bewertung mit nur einem Stern hinzugefügt.</li>
+</ul>
+
+ <h3 class="h-light margin-0">5. Besondere Stornierungsbedingungen</h3> 
+
+<h4 class="h-light" style="margin-left:30">5.1. Trauerfall</h4> <p style="margin-left: 30" align="left">Im Todesfall  innerhalb der Familie (Mutter, Vater, Ehemann/-frau, Schwester, Bruder, Kind) zwischen 7 Tagen bis 24 Stunden vor der Anreise bekommt der Gast den Gesamtpreis zurückerstattet. Der Gastgeber hat keinen Anspruch auf Zahlung. Es fallen keine Stornierungsgebühren an. Weniger als 24 Stunden vor Anreise erhält der Gast 75 % und der Gastgeber 25 % des Gesamtpreises. Es fallen keine Stornierungsgebühren an. Zum Nachweis wird eine Sterbeurkunde benötigt.</p> 
+
+<h4 class="h-light" style="margin-left:30">5.2. Naturkatastrophen und andere unvorhersehbare Ereignisse</h4>
+<p style="margin-left: 30" align="left">Sollten es Naturkatastrophen (Lawinen, Schneestürme, Zyklone, Hurrikane, Erdbeben, Überschwemmungen, Erdrutsche, Blitzschlag), Krieg, Terrorismus oder Nuklearunfälle für den Gastgeber unmöglich machen, seinen Verpflichtungen einer Buchung nachzukommen (und kann er nachweisen, dass ihm keine ähnliche Unterkunft alternativ zur Verfügung steht), erhält der Gast eine Erstattung von 100 % Gesamtpreises. Es fallen keine Stornierungsgebühren an. Dasselbe gilt, wenn Beförderungsmöglichkeiten beschädigt wurden und der Gast keine Möglichkeit hat, die Unterkunft auf anderem Wege zu erreichen und dies auch nachweisen kann.</p>
+
+<h3 class="h-light margin-0">6. Was geschieht, wenn nach dem Check-in Probleme auftreten?</h3>
+<ul> 
+<li>Sollten Sie beim Check-in einen ernsthaften Grund zur Beschwerde haben, <a href="/contact_requests/form">kontaktieren Sie bitte unseren Kundenservice innerhalb von 24 Stunden</a>. Sollte die Unterkunft nicht in vertragsgemäßem Zustand überlassen worden sein, übermitteln wir entsprechende Beschwerden an den Gastgeber. Nach erfolgter Prüfung werden wir den an den Gastgeber auszuzahlenden Betrag entsprechend senken und den Rest an Sie zurückerstatten.</li> 
+<li>Bitte beachten Sie, dass eine Erstattung nur möglich ist, wenn uns die Beschwerde innerhalb von 24 Stunden nach Check-in erreicht.</li> <li>Wimdu behält sich das Recht vor, vom Gastgeber eine Zahlung mindestens in Höhe der Bearbeitungsgebühr zu verlangen.</li> 
+</ul> 
+
+</div>
+</div>
+</div>
+<h2 class='content__title' id='privacy'>
+Datenschutz
+</h2>
+<div class='content__body'>
+<div class='content__section content__section--cancellation'>
+<a class="content__section-link" href="/tc/dp_de.pdf" target="_blank">Datenschutz herunterladen</a>
+<p>Der Schutz Ihrer Privatsphäre ist uns sehr wichtig. Soweit wir persönliche Informationen von Ihnen als Teil unseres Angebot sammeln, verarbeiten oder nutzen, geschieht dies im Einklang mit den geltenden deutschen und europäischen Schutzgesetzen. </p>
+
+<h3 class="h-light margin-0"><b>Welche Daten erfasst Wimdu?</b></h3>
+
+<p>Wir nutzen persönliche Informationen, die Sie uns für die Durchführung und Nutzung unseres Angebotes zur Verfügung stellen:</p>
+
+ <h3 class="h-light margin-0">1. Bei Aufruf und Nutzung unserer Seite</h3>
+
+<p>Wenn Sie auf die Plattform zugreifen, z.B. um nach Unterkünften zu suchen oder Inserate einzustellen, Buchungen durchzuführen oder Buchungsanfragen zu bestätigen, für Unterkünfte zu zahlen, Kommentare oder Beurteilungen einzugeben oder mit anderen Nutzern oder Wimdu zu kommunizieren, zeichnen wir möglicherweise Daten wie Ihre IP-Adresse, das Datum und die Uhrzeit Ihres Besuches, die Nutzung unserer Plattform, Ihren Browsertyp und das von Ihnen verwendete Betriebssystem sowie Ihre besuchten Seiten und Ihre Herkunftsseite auf.</p>
+<p>Darüber hinaus erheben wir bei Nutzung eines Mobilgerätes gegebenenfalls Geräte- und Standortdaten. Diese Daten werden aufgezeichnet unabhängig davon, ob Sie bei Wimdu registriert sind oder sich in Ihrem Wimdu-Konto angemeldet haben.</p>
+
+<h4 class="h-light margin-0">2. Nach einer Anmeldung (Registrierung)</h4>
+
+<p>Auf unserer Webseite haben Sie die Möglichkeit, ein persönliches Nutzerkonto einzurichten. In Ihrem Nutzerkonto können Sie Ihre persönlichen Informationen hinterlegen und damit entweder ein Angebot einstellen oder eines buchen.</p>
+<p>Für die Einrichtung Ihres persönlichen Nutzerkontos benötigt Wimdu Ihre E-Mail-Adresse und ein frei wählbares Passwort sowie gegebenenfalls zusätzlich Ihre Anrede und Ihren Vor- und Nachnamen und Zahldaten. Die von Ihnen angegebene E-Mail-Adresse dient gleichzeitig als Zugangskennung für das Nutzerkonto. Nach erfolgreicher Registrierung erhalten Sie automatisch eine Bestätigung per E-Mail. Im persönlichen Bereich Ihres Nutzerkontos können Sie Ihre Angaben jederzeit aktualisieren.</p>
+
+  <h3 class="h-light margin-0"><b>Auf welche Weise erheben wir Daten?
+</b></h3>
+
+    <h4 class="h-light margin-0">1. Cookies</h4>
+
+<p>Wimdu setzt auf der Webseite Cookies ein. Cookies sind kleine Textdateien, die im Zwischenspeicher Ihres Browsers abgelegt werden, um eine Wiedererkennung Ihres Browsers zu ermöglichen 
+</p>
+<p>Wir nutzen 'ständige' Cookies. Sie verbleiben auf dem Computer des Nutzers, um die Personalisierungs- und Registrierungsangebote zu vereinfachen, wenn Sie das nächste Mal unsere Seite besuchen. Cookies können z.B. speichern, was der Nutzer ausgewählt hat. Der Nutzer kann die Cookies jederzeit manuell entfernen. </p>
+<p>Darüber hinaus nutzen wir 'Sitzungscookies'. Sie verbleiben nicht auf dem Computer des Nutzers. Sobald der Nutzer die Seite verlässt, werden diese temporären Cookies gelöscht. Indem wir die Informationen sammeln, können wir die Nutzungsmuster und die Struktur der Seite analysieren. Auf diese Weise können wir unser Angebot stetig verbessern, z.B. den Inhalt, die Personalisierung oder die Einfachheit der Seite. </p>
+<p>Selbstverständlich können Sie unsere Webseite auch besuchen, ohne dass auf Ihrem Browser Cookies gespeichert werden. Sie können die Speicherung von Cookies in den Einstellungen Ihres Browsers jederzeit einschränken oder deaktivieren. Dies kann allerdings zu Einschränkungen der Funktionen und der Benutzerfreundlichkeit unserer Webseite führen. Darüber hinaus können Sie zur Deaktivierung interessenbasierter Werbung von Dritt-Unternehmen einfach einen Haken in das Kästchen des entsprechenden Unternehmens auf <a href="http://www.youronlinechoices.com/">www.youronlinechoices.com</a> setzen.</p>
+
+  <h4 class="h-light margin-0">2. Webanalyse und Tracking</h4>
+
+<p>Durch sogenannte 'Tracking Tools' werden Daten zu Marketingzwecken und zur Optimierung der Seite gesammelt und gespeichert. Der Nutzer kann dieser Datensammlung und -speicherung zu jeder Zeit für die Zukunft widersprechen.</p>
+
+  <h4 class="h-light margin-0">A. Google Analytics</h4>
+
+<p>Unsere Webseite benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet Cookies. Die durch den Cookie erzeugten Informationen über Ihre Benutzung unserer Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt.</p>
+<p>Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag von Wimdu wird Google diese Informationen benutzen, um Ihre Nutzung unserer Webseite auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere mit der Webseitennutzung und der Internetnutzung verbundene Dienstleistungen gegenüber Wimdu zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.</p>
+<p>Sie können die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Webseite bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: <a href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a>.</p>
+
+
+<h4 class="h-light margin-0">B. Google Adwords</h4>
+
+<p>Des Weiteren nutzen wir das Online-Werbeprogramm „Google AdWords“ und im Rahmen von Google AdWords das Conversion-Tracking. Das Google Conversion Tracking ist ein Analysedienst der Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; „Google“). Wenn Sie auf eine von Google geschaltete Anzeige klicken, wird ein Cookie für das Conversion-Tracking auf Ihrem Rechner abgelegt. Diese Cookies verlieren nach 30 Tagen ihre Gültigkeit, enthalten keine personenbezogenen Daten und dienen somit nicht der persönlichen Identifizierung.</p>
+<p>Wenn Sie bestimmte Internetseiten unserer Webseite besuchen und das Cookie noch nicht abgelaufen ist, können Google und wir erkennen, dass Sie auf die Anzeige geklickt haben und zu dieser Seite weitergeleitet wurden. Jeder Google-AdWords-Kunde erhält ein anderes Cookie. Somit besteht keine Möglichkeit, dass Cookies über die Webseiten von AdWords-Kunden nachverfolgt werden können. </p>
+<p>Die Informationen, die mit Hilfe des Conversion-Cookie erlangt werden, dienen dazu, Conversion-Statistiken für AdWords-Kunden zu erstellen, die sich für Conversion-Tracking entschieden haben. Hierbei erfahren die Kunden die Gesamtanzahl der Nutzer, die auf ihre Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Sie erhalten jedoch keine Informationen, mit denen sich Nutzer persönlich identifizieren lassen.</p>
+<p>Wenn Sie nicht am Tracking teilnehmen möchten, können Sie dieser Nutzung widersprechen, indem Sie die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern (Deaktivierungsmöglichkeit). Sie werden sodann nicht in die Conversion-Tracking-Statistiken aufgenommen. Weiterführende Informationen sowie die Datenschutzerklärung von Google finden Sie unter: <a href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads/</a>, <a href="http://www.google.de/policies/privacy/">http://www.google.de/policies/privacy/</a>.</p>
+
+<h4 class="h-light margin-0">C. Webtrekk</h4>
+<p>Für die statistische Auswertung der Webseiten bedienen wir uns der Technologien der Webtrekk GmbH, Robert-Koch-Platz 4, 10115 Berlin, Deutschland (<a href="http://www.webtrekk.de">www.webtrekk.de</a>). Mit Hilfe der Dienste von Webtrekk erheben wir statistische Daten über die Nutzung unseres Webangebots. Diese Daten werden genutzt, um unsere Angebote permanent zu verbessern und zu optimieren und damit für Sie interessanter zu gestalten.</p>
+<p>Im Rahmen der Nutzung unserer Webseite werden Informationen, die Ihr Browser übermittelt, erhoben und ausgewertet. Dies erfolgt durch eine Cookie-Technologie und sogenannte Pixel, die auf jeder Webseite eingebunden sind. Hierbei werden folgende Daten erhoben: Request (Dateiname der angeforderten Datei), Browsertyp/-version, Browsersprache, verwendetes Betriebssystem, innere Auflösung des Browserfensters, Bildschirmauflösung, Javascriptaktivierung, Java An/Aus, Cookies An/Aus, Farbtiefe, Referrer URL, IP-Adresse (wird ausschließlich anonymisiert erhoben und direkt nach ihrer Verwendung wieder gelöscht), Uhrzeit des Zugriffs, Clicks, anonymisierte Formularinhalte (beispielsweise ob eine Telefonnummer angegeben wurde oder nicht).</p>
+<p>Eine direkte Personenbeziehbarkeit ist zu jeder Zeit ausgeschlossen. Die so gesammelten Daten dienen dazu, anonyme Nutzungsprofile, die die Grundlage für Webstatistiken bilden, zu erstellen. Die mit den Webtrekk-Technologien erhobenen Daten werden ohne die gesondert erteilte Zustimmung des Betroffenen nicht dazu benutzt, den Besucher dieser Webseiten persönlich zu identifizieren und werden zu keiner Zeit mit personenbezogenen Daten über den Träger des Pseudonyms zusammengeführt.</p>
+<p>Der Datenerhebung und -speicherung durch Webtrekk kann jederzeit mit Wirkung für die Zukunft widersprochen werden. Hierzu rufen Sie bitte folgenden <a href="#" class="js-cookie-optout">link</a> auf. Durch Bestätigung des Links wird auf Ihrem Datenträger ein sogenannter Opt-Out-Cookie gesetzt. Dieser Cookie hat eine Gültigkeit von 5 Jahren. Bitte beachten Sie, dass bei einem Löschen sämtlicher Cookies auf Ihrem Rechner auch dieser Opt-Out-Cookie gelöscht wird. Wenn Sie weiterhin der anonymisierten Datenerhebung durch Webtrekk widersprechen wollen, müssen Sie daher erneut den Opt-Out-Cookie setzen. Der Opt-Out-Cookie ist pro Browser und Rechner gesetzt. Falls Sie unsere Webseiten von verschiedenen Endgeräten oder mit verschiedenen Browsern besuchen, müssen Sie in den verschiedenen Browsern bzw. auf den verschiedenen Rechnern den Opt-Out-Cookie jeweils aktivieren.</p>
+  
+  <h4 class="h-light margin-0">D. New Relic</h4>
+<p>Des Weiteren nutzen wird das Plugin New Relic. Es ermöglicht uns eine Erfassung statistischer Auswertungen über die Geschwindigkeit der Webseite. Dieser Dienst wird von der New Relic Inc., 188 Spear Street, Suite 1200 San Francisco, CA 94105, USA betrieben (“New Relic”).</p>
+<p>Ruft ein Nutzer eine Webseite auf, die ein solches Plugin enthält, baut sein Browser eine direkte Verbindung mit den Servern von New Relic auf. Der Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die New Relic mit Hilfe dieses Plugins erhebt und informiert die Nutzer daher entsprechend seinem Kenntnisstand.</p>
+<p>Durch die Einbindung des Plugins erhält New Relic die Information, dass ein Nutzer die entsprechende Seite des Angebots aufgerufen hat. Ist der Nutzer bei New Relic eingeloggt, kann New Relic den Besuch seinem Konto bei New Relic zuordnen. Falls ein Nutzer kein Mitglied von New Relic ist, besteht trotzdem die Möglichkeit, dass New Relic seine IP-Adresse in Erfahrung bringt und speichert.</p>
+<p>Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch New Relic sowie die diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz der Privatsphäre der Nutzer können diese den Datenschutzhinweisen von New Relic entnehmen: <a href="https://newrelic.com/privacy">https://newrelic.com/privacy</a>.</p>
+<p>Wenn ein Nutzer Mitglied bei New Relic ist und nicht möchte, dass New Relic über dieses Angebot Daten über ihn sammelt und mit seinen bei New Relic gespeicherten Mitgliedsdaten verknüpft, muss er sich vor dem Besuch des Internetauftritts bei New Relic ausloggen.</p>
+
+<h4 class="h-light margin-0">E. Hotjar</h4>
+<p>Für die Verbesserung der Nutzererfahrung auf unseren Internetseiten setzen wir die Software Hotjar ein. Mittels Hotjar können wir das Nutzerverhalten (Mausbewegungen, Klicks, Scrollhöhe etc.) auf unseren Internetseiten messen und auswerten. Zu diesem Zweck setzt Hotjar Cookies auf Endgeräten der Nutzer und kann Daten von Nutzern wie z. B. Browser Informationen, Betriebssystem, Verweildauer auf der Seite etc. speichern. Mehr über die Datenverarbeitung durch Hotjar finden Sie <a href="https://www.hotjar.com/privacy">hier</a>.</p>
+  
+ <h3 class="h-light margin-0">3. Re-targeting</h3>
+
+<p>Unsere Webseite verwendet sogenannte Re-Targeting-Technologien. Wir nutzen diese Technologien, um für Sie das Internetangebot interessanter zu gestalten. Diese Technik ermöglicht es, Internetnutzer, die sich bereits für unsere Angebote interessiert haben, auf den Webseiten unserer Partner mit Werbung anzusprechen.</p>
+
+<h4 class="h-light margin-0">A. Criteo GmbH</h4>
+<p>Auf unserer Webseite setzen wir auch Tracking-Technologien der Criteo GmbH ein. Diese ermöglichen es uns, Internetnutzer, die unsere Webseite besucht haben, auf den Webseiten unserer Partner mit gezielten Produktempfehlungen in Form von Werbebannern anzusprechen. Die Einblendung dieser Werbemittel auf den Seiten unserer Partner erfolgt auf Basis von Cookies und einer Analyse Ihres vorherigen Nutzungsverhaltens. Diese Analyse erfolgt anonymisiert; es werden keine Nutzungsprofile mit Ihrem Klarnamen zusammengeführt. Sie können der Erhebung der Daten durch die Criteo GmbH unter nachfolgendem Link <a href="https://criteo.com/de/privacy">https://criteo.com/de/privacy</a> jederzeit widersprechen.</p>
+  
+<h4 class="h-light margin-0">B. Google Customer Match</h4>
+<p>Wir nutzen auf unserer Webseite Google Customer Match. Dabei werden Listen mit E-Mail-Adressen von Wimdu mit registrierten Nutzern von Google abgeglichen. Ist die E-Mail-Adresse bei dem Dienst registriert, kann personalisierte Werbung ausgespielt werden. Die E-Mail-Adressen werden ausschließlich anonymisiert ausgewertet.</p>
+<p>Der Datenerhebung und -speicherung durch Google Customer Match kann jederzeit mit Wirkung für die Zukunft widersprochen werden.</p>
+
+<h4 class="h-light margin-0">C. Facebook Custom Audiences</h4>
+<p>Wir nutzen das von der Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA („Facebook“) angebotene Tool Facebook Custom Audiences, das es Facebook ermöglicht, Ihnen in unserem Auftrag auf Facebook Bannerwerbung einzuspielen. Hierzu übermitteln wir Ihre E-Mail-Adresse in verschlüsselter Form an Facebook. Sofern Sie Mitglied bei Facebook sind, wird Facebook dadurch bekannt, dass Sie auch bei Wimdu registriert sind.</p>
+<p>Für die Details der Datenverarbeitung durch Facebook verweisen wir auf die Nutzungsbedingungen für Custom Audiences, abrufbar unter <a href="https://www.facebook.com/ads/manage/customaudiences/tos.php">https://www.facebook.com/ads/manage/customaudiences/tos.php</a>.</p>
+
+<h4 class="h-light margin-0">D. Web-Beacons/Pixel</h4>
+<p>Gegebenenfalls verwenden wir auch Pixel. Ein Pixel ist eine winzige Grafik, die nur einen Pixel groß ist und entweder über eine Webseiten-Abfrage oder im E-Mail-HTML-Format an Ihren Computer gesendet wird. Diese Pixel werden entweder direkt oder durch Drittdienstleister als Teil der Onlinewerbung auf unserer Webseite oder auf Webseiten von Dritten genutzt. Dadurch lässt sich feststellen, ob ein Nutzer, der die Werbung sieht, auch eine Buchung tätigt. Außerdem kann man die Konversion durch Partnerwebseiten ermitteln und Nutzungsmuster von Besuchern auf der Webseite feststellen, um unsere Angebot für Sie zu optimieren.</p>
+
+<h3 class="h-light margin-0">4. Social-Plug-Ins (Facebook Connect)</h3>
+<p>Facebook Connect ist ein Angebot von Facebook, Inc. Die Nutzung von Facebook Connect unterliegt den Datenschutzbedingungen und Nutzungsbedingungen von Facebook.</p>
+<p>Bei der Nutzung von Facebook Connect werden öffentlich zugängliche Daten und auf Facebook veröffentlichte Daten aus Ihrem Facebook-Profil auf unsere Webseite übertragen. Umgekehrt können Daten von unserer Webseite oder über die Wimdu-App an Ihr Facebook-Profil übertragen werden. Ihre übertragenen Daten werden von Wimdu zum Zweck der Registrierung auf unserer Plattform gespeichert und verarbeitet.</p>
+<p>Mit der Registrierung auf unserer Plattform über Facebook Connect stimmen Sie der Übertragung von Profildaten aus Ihrem Facebook-Profil an Wimdu sowie der Übertragung von Daten zur Nutzung von Wimdu an Facebook zu.</p>
+
+  <h3 class="h-light margin-0">5. Log-Dateien</h3>
+<p>Bei jedem Zugriff auf unserer Seite werden die Nutzungsdaten durch den jeweiligen Internetbrowser übermittelt und in Protokolldateien, den sogenannten Server-Logfiles, gespeichert.</p>
+<p>Diese Logfile-Datensätze werten wir in anonymisierter Form aus, um unser Angebot weiter zu verbessern und nutzerfreundlicher zu gestalten, Fehler schneller zu finden und zu beheben sowie Serverkapazitäten zu steuern.</p>
+
+  <h3 class="h-light margin-0">6. Kontaktformular</h3>
+<p>Über das im Impressum bereitgestellte Kontaktformular können Sie direkt mit Wimdu in Verbindung treten. Wimdu erhebt, verarbeitet und nutzt die von Ihnen über das Kontaktformular mitgeteilten Informationen ausschließlich für die Bearbeitung Ihres Anliegens.</p>
+  
+<h3 class="h-light margin-0">7. Newsletter</h3>
+<p>Soweit Sie in den Newsletter eingewilligt haben, nutzt Wimdu die von Ihnen im Rahmen der Einrichtung Ihres Nutzerkontos angegebene E-Mail-Adresse, um Ihnen per E-Mail Informationen über Aktionen und Angebote bei Wimdu zuzusenden. Die Inhalte der Newsletter kann Wimdu dabei so individualisieren, dass insbesondere solche Informationen enthalten sind, die Wimdu als für Sie besonders interessant einschätzt. Für eine solche Individualisierung der Informationen berücksichtigt Wimdu Ihre Buchungshistorie, also welche Buchungen Sie in der Vergangenheit vorgenommen haben sowie welche Angebote Sie sich in der Vergangenheit auf der Webseite angesehen haben.</p>
+<p>Im persönlichen Bereich Ihres Mitgliedskontos können Sie die Einstellungen für den Wimdu-Newsletter verwalten. Selbstverständlich können Sie sich im persönlichen Bereich Ihres Nutzerkontos sowie über das Kontaktformular auch vom Newsletter abmelden.</p>
+
+<h3 class="h-light margin-0"><b>Wofür Nutzen wir Ihre Daten?</b></h3>
+<p>Wimdu nutzt Ihre Daten,</p>
+<ul>
+<li>um Ihnen den Zugriff auf unsere Plattform und deren Nutzung zu ermöglichen;</li>
+<li>um unsere Plattform zu betreiben, zu schützen, zu verbessern und zu optimieren. Dies beispielsweise durch Analysen und Recherche, Personalisierung oder anderweitige Individualisierung und auch für Werbemaßnahmen;</li>
+<li>um auf unserer Plattform und für unsere Dienste eine vertrauenswürdige und sicherere Umgebung herstellen und erhalten zu können. Dies insbesondere durch die Aufdeckung und Verhinderung von Betrug, die Durchführung von Untersuchungen und Risikoanalysen, die Überprüfung der in Ihren Inseraten angegebenen Adresse, der von Ihnen bereitgestellten Angaben zur Identifikation und dem Abgleich mit Datenbanken;</li>
+<li>um Ihnen Nachrichten zu Dienstleistungen und Support sowie administrative Nachrichten, Erinnerungen, technische Hinweise, Updates, Sicherheitswarnungen sowie von Ihnen angeforderte Informationen zu senden;</li>
+<li>um von Wimdu oder unseren Geschäftspartnern gesponserte oder gemanagte Belohnungen, Empfehlungsprogramme, Umfragen, Gewinnspiele, Wettbewerbe oder andere Werbemaßnahmen oder Veranstaltungen durchzuführen;</li>
+<li>um unseren rechtlichen Pflichten nachzukommen, um Rechtsstreitigkeiten beizulegen, die wir möglicherweise mit einem unserer Nutzer haben und um unsere Vereinbarungen mit Dritten durchzusetzen;</li>
+<li>um Ihnen Marketing- und Werbenachrichten sowie andere Informationen zu senden, die für Sie von Interesse sein könnten, einschließlich Informationen über Wimdu oder allgemeine Werbeaktionen für Partnerkampagnen und Dienste. Selbstverständlich nur soweit Sie dem Newsletter zugestimmt haben. Sie können sich  vom Empfang solcher Mitteilungen abmelden (s.o. Newsletter).</li>
+</ul>
+<h3 class="h-light margin-0"><b>Übermittlung persönlicher Daten an Dritte</b></h3>
+<ul>
+<li>Wir geben Ihre persönlichen Daten an Dritte weiter, um  Ihre Buchung abzuschließen. Dazu müssen die betreffenden Buchungsinformationen an die von Ihnen gebuchte Unterkunft übermittelt werden. Dies können Informationen wie Ihr Name, Ihre Kontaktdaten, Ihre Zahlungsangaben, Ihre besonderen Anfragen aus der Buchung sowie die Namen der mit Ihnen reisenden Gäste sein. Diese Informationen können von Wimdu oder der Unterkunft genutzt werden, um Ihnen individuelle, buchungsrelevante Informationen zukommen zu lassen. Wenn Sie eine Frage zu Ihrer Buchung haben, kontaktieren wir ggf. den Gastgeber und bitten ihn, sich darum zu kümmern.</li>
+<li>Wir nutzen gegebenenfalls das Angebot von Drittdienstleistern, wie Datenverarbeitern, um Ihre persönlichen Daten in unserem Auftrag zu verarbeiten. Dies geschieht, um Buchungszahlungen zu ermöglichen, Marketingmaterial zu versenden oder für analytische Kundenservices. Diese Verarbeiter sind an Geheimhaltungsklauseln gebunden und es ist ihnen verboten, Ihre Daten für ihre eigenen Zwecke oder jegliche anderen Zwecke zu nutzen.</li>
+<li>Wir legen persönliche Daten zur Rechtsdurchsetzung oder gegenüber anderen Regierungsbehörden offen, wenn dies vom Gesetz oder behördlich verlangt wird oder dringend zur Verhinderung, Aufdeckung oder Strafverfolgung von strafbaren Handlungen nötig ist.</li>
+<li>Wir arbeiten mit Geschäftspartnern auf der ganzen Welt zusammen, um Unterkünfte zu vermarkten oder zu bewerben und unseren Geschäftspartnern bei der Vermarktung und Bewerbung ihrer Reiseservices zu helfen. Dies kann bedeuten, dass ihre Services auf unserer Webseite integriert werden oder sie die Möglichkeit haben, auf unserer Seite ein individuelles Angebot zu schalten – oder wir werben auf deren Webseite. Wenn Sie auf einer Webseite unserer Geschäftspartner eine Buchung durchführen, werden einige persönliche Daten, die Sie denen geben, an uns weitergeleitet. Einige Geschäftspartner erhalten von uns Ihre persönlichen Daten, wenn dies von ihnen angefragt wird. Wenn Sie auf einer Webseite unserer Geschäftspartner eine Buchung durchführen, lesen Sie bitte die Datenschutzrichtlinien dieser Webseiten für mehr Informationen.</li></ul>
+
+<h3 class="h-light margin-0"><b>Widerruf von Einwilligungen</b></h3>
+
+<p>Ihre Einwilligungen können Sie jederzeit mit Wirkung für die Zukunft kostenfrei unter <a href="mailto:datenschutz@wimdu.com">datenschutz@wimdu.com</a> oder durch schriftliche Mitteilung an Wimdu GmbH, Voltastraße 5, 13355 Berlin widerrufen.</p>
+
+<h3 class="h-light margin-0"><b>Auskunft und Berichtigung</b></h3>
+<p>Sie haben ein Recht auf unentgeltliche Auskunft über die zu Ihrer Person gespeicherten Daten.</p>
+<p>Von Ihnen erteilte Einwilligungen zur Datenerhebung, -verarbeitung und -nutzung können Sie jederzeit mit Wirkung für die Zukunft widerrufen.</p>
+<p>Wir stehen Ihnen gern auch für weitergehende Fragen zum Datenschutz und zur Verarbeitung Ihrer personenbezogenen Daten zur Verfügung. Wimdu erreichen Sie unter der E-Mail-Adresse <a href="mailto:datenschutz@wimdu.com">datenschutz@wimdu.com</a>. Selbstverständlich erreichen Sie uns auch unter den im Impressum angegebenen Kontaktdaten.</p>
+</div>
+</div>
+</div>
+</div>
+</main>
+
+<footer class='footer footer-- js-footer' role='contentinfo'>
+<div class='footer__container'>
+<nav class='footer-list'>
+<h3 class='footer-list__title'>
+Kundenservice
+</h3>
+<ul class='footer-list__items'>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="/aboutus#howitworks">So funktioniert Wimdu </a>
+</li>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="/contact_requests/new">FAQ &amp; Kundenservice</a>
+</li>
+</ul>
+<h3 class='footer-list__title footer-list__title--appstore'>
+Wimdu-App für Gäste
+</h3>
+<ul class='footer-list__items'>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="https://itunes.apple.com/de/app/wimdu-guest/id1018844970" target="_blank"><img alt="Logo appstore de" src="https://dk9z4pchmqfep.cloudfront.net/assets/apps-logos/appstore/logo-appstore-de-9569644f25be9dcf910ceed42e9048c47ff3fcf99d60f76262bfec08863d4b2d.svg" width="135" />
+</a></li>
+</ul>
+<h3 class='footer-list__title footer-list__title--appstore'>
+Wimdu-Gastgeber-App
+</h3>
+<ul class='footer-list__items'>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="https://itunes.apple.com/de/app/wimdu-host-property-rental/id928038594" target="_blank"><img alt="Logo appstore de" src="https://dk9z4pchmqfep.cloudfront.net/assets/apps-logos/appstore/logo-appstore-de-9569644f25be9dcf910ceed42e9048c47ff3fcf99d60f76262bfec08863d4b2d.svg" width="135" />
+</a></li>
+</ul>
+</nav>
+<nav class='footer-list'>
+<h3 class='footer-list__title'>
+Über Wimdu
+</h3>
+<ul class='footer-list__items'>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="http://www.wimdu.de/presse/" target="_blank">Presse</a>
+</li>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="http://www.wimdujobs.de">Jobs</a>
+</li>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="/aboutus#about-us-about-us">Über uns</a>
+</li>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="/aboutus#about-us-testimonials">Stimmen</a>
+</li>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="/terms">AGB &amp; Datenschutz</a>
+</li>
+<li class='footer-list__item'>
+<a class="footer-list__link" href="/imprint">Impressum</a>
+</li>
+</ul>
+</nav>
+<nav class='footer-list'>
+<h3 class='footer-list__title'>
+Folgen Sie uns
+</h3>
+<ul class='footer-list__items'>
+<li class='footer-list__item footer-list__item--facebook'>
+<a class="footer-list__link" href="https://www.facebook.com/wimdu.dach" target="blank">Facebook</a>
+</li>
+<li class='footer-list__item footer-list__item--twitter'>
+<a class="footer-list__link" href="https://twitter.com/#!/Wimdu/" target="blank">Twitter</a>
+</li>
+<li class='footer-list__item footer-list__item--googleplus'>
+<a class="footer-list__link" href="https://plus.google.com/118302921737702802937" rel="publisher" target="blank">Google+</a>
+</li>
+<li class='footer-list__item footer-list__item--youtube'>
+<a class="footer-list__link" href="//www.youtube.com/user/wimtubechannel/featured" target="blank">Youtube</a>
+</li>
+<li class='footer-list__item footer-list__item--blog'>
+<a class="footer-list__link" href="http://www.wimdu.de/blog/" target="blank">Blog</a>
+</li>
+</ul>
+</nav>
+<div class='footer-list footer-list--payment'>
+<h3 class='footer-list__title'>
+Sichere Bezahlung
+</h3>
+<ul class='footer-list__items'>
+<li class='footer-list__item'>
+<i class='icon icon-payment icon-payment-visa'></i>
+</li>
+<li class='footer-list__item'>
+<i class='icon icon-payment icon-payment-visa-electron'></i>
+</li>
+<li class='footer-list__item'>
+<i class='icon icon-payment icon-payment-mastercard'></i>
+</li>
+<li class='footer-list__item'>
+<i class='icon icon-payment icon-payment-amex'></i>
+</li>
+<li class='footer-list__item'>
+<i class='icon icon-payment icon-payment-paypal'></i>
+</li>
+<li class='footer-list__item'>
+<i class='icon icon-payment icon-payment-ec'></i>
+</li>
+<li class='footer-list__item'>
+<i class='icon icon-payment icon-payment-sofortueberweisung-de-at-ch'></i>
+</li>
+<li class='footer-list__item'>
+<i class='icon icon-payment icon-norton-secured'></i>
+</li>
+</ul>
+</div>
+</div>
+
+</footer>
+
+<!--[if lte IE 9]>
+<script src="https://dk9z4pchmqfep.cloudfront.net/assets/ie8_message-e8d42dc26b54da1e9a346e4ff0e39863826dacbc10f3f85b70c8c61274c7ee3a.js"></script>
+<![endif]-->
+<script id='gon-script'>window.Wimdu={};Wimdu.ctrl="landing";Wimdu.env="production";Wimdu.tld="de";</script>
+
+<script src="https://dk9z4pchmqfep.cloudfront.net/assets/fontsLoader-4599024ab04a8c298d3c6293cfc8fe2a9c808b11b5af8b7f9e273903a0fb8950.js"></script>
+<script>
+  window.__INITIAL_STATE__ = window.__INITIAL_STATE__ || [];
+</script>
+<script>
+  window.__INITIAL_STATE__.push({"me":{"loggedIn":false,"loginPath":"/users/login"},"recentlyViewed":{"url":"/offers/recently_viewed"}})
+</script>
+<script>
+  window.__INITIAL_STATE__.push({"me":{"termsPath":"/terms#privacy","toggleFavoriteUrl":"/favorites"}})
+</script>
+
+
+<script>      window.Wimdu = window.Wimdu || {};
+      window.Wimdu.__CONFIG__ = window.Wimdu.__CONFIG__ || {};
+      window.Wimdu.__CONFIG__.googleApis = {
+        client: 'gme-rci',
+        version: '3'
+      };
+</script>
+<script src="https://dk9z4pchmqfep.cloudfront.net/assets/application-6f3e684d809258e339a27847634e2a41edf64c97cb2cedb14bc65ab4595300c0.js"></script><script src="https://dk9z4pchmqfep.cloudfront.net/assets/legacy/common-a12001043bfb77ae76229402ec6278dada5e6ad412dab634cb7a89a759c1d18d.js"></script>
+<script src="https://dk9z4pchmqfep.cloudfront.net/assets/legacy/controllers/landing/terms-b5beedee93e1c96bfed1af2ccd4a0f4f883845d4f709090d1c73d5000d4bfd81.js"></script>
+<script src="https://dk9z4pchmqfep.cloudfront.net/assets/webtrekk_v4-2c464faa5c6c3913144581f143c597bda93da72e603683e8b45eaf60c37cbeea.js"></script>
+<script>
+  var webtrekkOptionsAjax = {"contentId":"de.pc.Infopage.terms","contentGroup":{"1":"de","2":"pc","3":"Infopage"},"trackId":"294698915144167","trackDomain":"jade01.webtrekk.net","domain":"wimdu.de","cookieDomain":"wimdu.de","cookie":"1","linkTrack":"standard","heatmap":"0","form":"0","customSessionParameter":{"1":"","4":null,"6":"89_A1,88_A1,99_A1,75_A1,106_A1,103_B1,45_C1,79_A1,107_A1,84_A1,83_B1,96_B1,64_B1,102_B1,48_A1,86_A1,100_A1","7":null},"productCategory":"\"\"","customParameter":{},"mediaCode":"wmc;wt_fb;wt_ev;wt_cp;wt_af;wt_dp;wt_em;wt_nm;wt_os;wt_re;wt_se;wt_vi;wt_ho;wt_sp;wt_ga01;wt_ga02;wt_ga03;wt_ga04;wt_ga05;wt_ga06;wt_ga07;wt_ga08;wt_ga09;wt_ga10;wt_ga11;wt_ga12;wt_ga13;wt_ga14;wt_ga15;wt_ga16;wt_ga17;wt_ga18;wt_ga19;wt_ga20;wt_ga21;wt_ga22;wt_ga23;wt_ga24;wt_ga25;wt_ga26;wt_ga27;wt_ga28;wt_ga29;wt_ga30;wt_ga31;wt_ga32;wt_ga33;wt_ga34;wt_ga35;wt_ga36;wt_ga37;wt_ga38;wt_ga39;wt_ga40;wt_ga41;wt_ga42;wt_ga43;wt_ga44;wt_ga45;wt_ga46;wt_ga47;wt_ga48;wt_ga49;wt_ga50;wt_ga51;wt_ga52;wt_ga53;wt_ga54;wt_ga55;wt_ga56;wt_ga57;wt_ga58;wt_ga59;wt_ga60;wt_ga61;wt_ga62;wt_ga63;wt_ga64;wt_ga65;wt_ga66;wt_ga67;wt_ga68;wt_ga69;wt_ga70;wt_ga71;wt_ga72;wt_ga73;wt_ga74;wt_ga75;wt_ga76;wt_ga77;wt_ga78;wt_ga79;wt_ga80;wt_ga81;wt_ga82;wt_ga83;wt_ga84;wt_ga85;wt_ga86;wt_ga87;wt_ga88;wt_ga89;wt_ga90;wt_ga91;wt_ga92;wt_ga93;wt_ga94;wt_ga95;wt_ga96;wt_ga97;wt_ga98;wt_ga99;wt_gk01;wt_gk02;wt_gk03;wt_gk04;wt_gk05;wt_gk06;wt_gk07;wt_gk08;wt_gk09;wt_gk10;wt_gk11;wt_gk12;wt_gk13;wt_gk14;wt_gk15;wt_gk16;wt_gk17;wt_gk18;wt_gk19;wt_gk20;wt_gk21;wt_gk22;wt_gk23;wt_gk24;wt_gk25;wt_gk26;wt_gk27;wt_gk28;wt_gk29;wt_gk30;wt_gk31;wt_gk32;wt_gk33;wt_gk34;wt_gk35;wt_gk36;wt_gk37;wt_gk38;wt_gk39;wt_gk40;wt_gk41;wt_gk42;wt_gk43;wt_gk44;wt_gk45;wt_gk46;wt_gk47;wt_gk48;wt_gk49;wt_gk50;wt_gk51;wt_gk52;wt_gk53;wt_gk54;wt_gk55;wt_gk56;wt_gk57;wt_gk58;wt_gk59;wt_gk60;wt_gk61;wt_gk62;wt_gk63;wt_gk64;wt_gk65;wt_gk66;wt_gk67;wt_gk68;wt_gk69;wt_gk70;wt_gk71;wt_gk72;wt_gk73;wt_gk74;wt_gk75;wt_gk76;wt_gk77;wt_gk78;wt_gk79;wt_gk80;wt_gk81;wt_gk82;wt_gk83;wt_gk84;wt_gk85;wt_gk86;wt_gk87;wt_gk88;wt_gk89;wt_gk90;wt_gk91;wt_gk92;wt_gk93;wt_gk94;wt_gk95;wt_gk96;wt_gk97;wt_gk98;wt_gk99"};
+  
+  try {
+    wt = new webtrekkV3(webtrekkOptionsAjax);
+    wt.formTrackInstall();
+    wt.sendinfo();
+  }
+  catch (error) {}
+  
+  var webtrekkModalEvent = function(modalId) {
+    var modalWebtrekkOptionsAjax = webtrekkOptionsAjax;
+    var contentIdParts = modalWebtrekkOptionsAjax["contentId"].split(".");
+  
+    contentIdParts[contentIdParts.length - 1] = modalId;
+    modalWebtrekkOptionsAjax["contentId"] = contentIdParts.join(".");
+  
+    new webtrekkV3(modalWebtrekkOptionsAjax).sendinfo();
+  };
+</script>
+<noscript>
+<div>
+<img alt="" height="1" src="https://jade01.webtrekk.net/294698915144167/wt?p=315,de.pc.Infopage.terms,1,0,0,1,0,0,0,1&amp;ca1=%22&amp;cg1%5B1%5D=de&amp;cg1%5B2%5D=pc&amp;cg1%5B3%5D=Infopage&amp;cs1%5B1%5D=&amp;cs1%5B4%5D=&amp;cs1%5B6%5D=89_A1%2C88_A1%2C99_A1%2C75_A1%2C106_A1%2C103_B1%2C45_C1%2C79_A1%2C107_A1%2C84_A1%2C83_B1%2C96_B1%2C64_B1%2C102_B1%2C48_A1%2C86_A1%2C100_A1&amp;cs1%5B7%5D=&amp;la=de" style="border-style:none;" width="1" />
+</div>
+</noscript>
+
+
+<script src="//www.everestjs.net/static/st.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>
