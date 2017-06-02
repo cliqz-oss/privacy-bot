@@ -37,10 +37,10 @@ $ pip install -e .
 ```
 
 #### Data Analysis
-To analyze privacy policies, make sure you install the `analysis-requirements.txt`.
+To analyze privacy policies, make sure you install the `requirements-analysis.txt`.
 
 ```sh 
-$ pip install -r analysis-requirements.txt
+$ pip install -r requirements-analysis.txt
 ```
 
 To load all privacy policies, you can use the [policies_snapshot_api](/privacy_bot/analysis/policies_snapshot_api.py) 
