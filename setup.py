@@ -20,6 +20,8 @@ setup(
         ]
     },
     install_requires=[
+        "aiohttp==2.1.0",
+        "tqdm==4.14.0",
         "beautifulsoup4==4.6.0",
         "cchardet==2.1.0",
         "docopt==0.6.2",

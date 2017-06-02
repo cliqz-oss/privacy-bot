@@ -40,11 +40,17 @@ async def fetch_privacy_policy(session, semaphore, policy_url):
 
         # Fetch policy page
         try:
-            content = await async_fetch(session, policy_url)
+            response = await async_fetch(session, policy_url)
         except:
             logging.exception('Exception while fetching %s', policy_url)
             return
 
+        if not response:
+            return
+
+        content = response["text"]
+        if not content:
+            content = response["content"]
         if not content:
             logging.error('Content policy has no content: %s', policy_url)
             return
