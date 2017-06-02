@@ -36,6 +36,19 @@ package in 'developer mode' using `pip`, in a virtual environment. You also need
 $ pip install -e .
 ```
 
+#### Data Analysis
+To analyze privacy policies, make sure you install the `analysis-requirements.txt`.
+
+```sh 
+$ pip install -r analysis-requirements.txt
+```
+
+To load all privacy policies, you can use the [policies_snapshot_api](/privacy_bot/analysis/policies_snapshot_api.py) 
+or for an example notebook, go [here](privacy_bot/analysis/loading_data.ipynb).
+
+For another example analysis, have a look at the [word relevance analysis](privacy_bot/analysis/word_relevance_analysis.ipynb)
+
+#### Data Mining
 There are two entry points, used respectively for:
 1. Automagically discovering privacy policies given a list of domains
 2. Fetching privacy policies given the output of the first entry point (a list of

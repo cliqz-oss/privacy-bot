@@ -25,16 +25,10 @@ setup(
         "langdetect==1.0.7",
         "lxml==3.7.3",
         "pypandoc==1.4",
-        "scikit-learn==0.18.1",
-        "scipy==0.19.0",
-        "jupyter==1.0.0",
-        "numpy==1.12.1",
         "readability-lxml==0.6.2",
         "requests==2.14.2",
         "selenium==3.4.2",
         "tldextract==2.0.2",
-        "wordcloud==1.3.1",
-        "matplotlib==2.0.2"
     ],
     long_description=LONG_DESCRIPTION,
     classifiers=[
