@@ -24,13 +24,14 @@ import logging
 import sys
 
 from bs4 import BeautifulSoup
-from privacy_bot.mining.fetcher import async_fetch
-from privacy_bot.mining.utils import setup_logging
 import aiohttp
 import docopt
-import privacy_bot.mining.websearch as websearch
 import tldextract
 import tqdm
+
+from privacy_bot.mining.fetcher import async_fetch
+from privacy_bot.mining.utils import setup_logging
+import privacy_bot.mining.websearch as websearch
 
 
 KEYWORDS = ['privacy', 'datenschutz',

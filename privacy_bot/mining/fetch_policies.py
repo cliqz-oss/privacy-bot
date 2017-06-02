@@ -29,6 +29,7 @@ import tldextract
 import tqdm
 
 from privacy_bot.mining.fetcher import async_fetch
+from privacy_bot.mining.utils import setup_logging
 
 
 async def fetch_privacy_policy(session, semaphore, policy_url):
@@ -146,7 +147,9 @@ async def fetch_all_policies(loop, policies_per_domain, tld=None):
 
         # Create index.json and persist policies on-disk
         for completed in tqdm.tqdm(asyncio.as_completed(coroutines),
-                                   total=len(coroutines)):
+                                   total=len(coroutines),
+                                   dynamic_ncols=True,
+                                    unit='domain'):
             domain_policies = await completed
             domain = domain_policies["domain"]
             for policy in domain_policies["policies"]:
@@ -183,8 +186,9 @@ async def fetch_all_policies(loop, policies_per_domain, tld=None):
 
 
 def main():
-    logging.basicConfig(level=logging.ERROR)
+    setup_logging()
     args = docopt.docopt(__doc__)
+
     metadata_path = args['<policies_per_domain>']
     tld = args['--tld']
 
