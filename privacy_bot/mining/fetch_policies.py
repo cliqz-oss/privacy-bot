@@ -16,6 +16,7 @@ import os.path
 
 from readability.readability import Document
 import docopt
+import html
 import html2text
 import langdetect
 import tldextract
@@ -63,6 +64,11 @@ def fetch_privacy_policy(policy_url):
     html_converter.skip_internal_links = True
 
     text = html_converter.handle(content)
+
+    try:
+        text = html.unescape(text)
+    except Exception as e:
+        print('Error unescaping html:', e)
 
     try:
         lang = langdetect.detect(text)
