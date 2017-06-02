@@ -1,6 +1,6 @@
 FROM alpine:3.5
 
-COPY privacy-bot/ /tmp/privacy_bot
+ADD privacy_bot/ /tmp/privacy_bot
 ADD setup.py /tmp/
 RUN apk add --no-cache python3 gcc musl-dev libxml2-dev libxslt-dev python3-dev libffi-dev openssl-dev && \
     python3 -m ensurepip && \
