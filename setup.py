@@ -21,7 +21,9 @@ setup(
     },
     install_requires=[
         "beautifulsoup4==4.6.0",
+        "cchardet==2.1.0",
         "docopt==0.6.2",
+        "html2text==2016.9.19",
         "langdetect==1.0.7",
         "lxml==3.7.3",
         "pypandoc==1.4",
@@ -29,7 +31,6 @@ setup(
         "requests==2.14.2",
         "selenium==3.4.2",
         "tldextract==2.0.2",
-        "html2text==2016.9.19",
     ],
     long_description=LONG_DESCRIPTION,
     classifiers=[
