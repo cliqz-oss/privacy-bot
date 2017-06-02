@@ -12,6 +12,7 @@ Options:
     -u, --urls U        File containing a list of urls
     -l, --limit L       Limit number of URLs checked
     -j, --jobs J        Number of parallel jobs [default: 10]
+    -w, --websearch     Do a websearch in case the heuristic fails
     -h, --help          Show help
 """
 
@@ -74,7 +75,7 @@ def policy_websearch(base_url):
     return websearch.websearch(query + ' ' + search_terms)
 
 
-def get_privacy_policy_url(base_url):
+def get_privacy_policy_url(base_url, websearch=False):
     """Given a valid URL, try to locate the privacy statement page. """
     candidates = set()
 
@@ -87,9 +88,10 @@ def get_privacy_policy_url(base_url):
             if new_candidates:
                 candidates.update(new_candidates)
                 return list(candidates)
-    # If no candidates were found by the heuristic, do a websearch as fallback.
-    urls_from_websearch = policy_websearch(base_url)
-    candidates.update(urls_from_websearch)
+    if websearch:
+        # If no candidates were found by the heuristic, do a websearch as fallback.
+        urls_from_websearch = policy_websearch(base_url)
+        candidates.update(urls_from_websearch)
     return list(candidates)
 
 
@@ -103,7 +105,10 @@ def main():
         limit = int(args['--limit'])
     else:
         limit = None
-
+    if args['--websearch']:
+        websearch = True
+    else:
+        websearch = False
 
     # Gather every urls
     urls = args['<url>']
@@ -133,7 +138,7 @@ def main():
 
         # Find privacy policies
         with futures.ProcessPoolExecutor(jobs) as pool:
-            policies = pool.map(get_privacy_policy_url, urls)
+            policies = pool.map(get_privacy_policy_url, urls, [websearch] * len(urls))
 
         # Generate policies_metadata file
         print('',                                      file=sys.stderr)
