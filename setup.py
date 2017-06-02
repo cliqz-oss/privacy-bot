@@ -29,6 +29,7 @@ setup(
         "requests==2.14.2",
         "selenium==3.4.2",
         "tldextract==2.0.2",
+        "html2text==2016.9.19",
     ],
     long_description=LONG_DESCRIPTION,
     classifiers=[
