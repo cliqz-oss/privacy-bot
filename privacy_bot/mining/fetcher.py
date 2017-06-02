@@ -35,7 +35,7 @@ async def async_fetch(session, url, timeout=10):
             ext = tldextract.extract(url)
             suffix = ext.suffix
             headers = {}
-            headers['User-agent'] = 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/52.0'
+            headers['User-agent'] = USERAGENT
             if suffix in TOP_LEVEL_TO_LOCALE:
                 headers["Accept-Language"] = TOP_LEVEL_TO_LOCALE.get(suffix, suffix)
             else:
@@ -71,7 +71,7 @@ def fetch(url, max_retry=3, verbose=False):
             ext = tldextract.extract(url)
             suffix = ext.suffix
             headers = {}
-            headers['User-agent'] = 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/52.0'
+            headers['User-agent'] = USERAGENT
             if suffix in TOP_LEVEL_TO_LOCALE:
                 headers["Accept-Language"] = TOP_LEVEL_TO_LOCALE.get(suffix, suffix)
             else:

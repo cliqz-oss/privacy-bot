@@ -12,9 +12,12 @@ Options:
     --tld TLDS     Only fetch given tld.
 """
 
+# Setup asyncio with uvloop
+import uvloop
+import asyncio
+asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
 
 from collections import defaultdict
-import asyncio
 import html
 import json
 import logging
@@ -149,7 +152,7 @@ async def fetch_all_policies(loop, policies_per_domain, tld=None):
         for completed in tqdm.tqdm(asyncio.as_completed(coroutines),
                                    total=len(coroutines),
                                    dynamic_ncols=True,
-                                    unit='domain'):
+                                   unit='domain'):
             domain_policies = await completed
             domain = domain_policies["domain"]
             for policy in domain_policies["policies"]:

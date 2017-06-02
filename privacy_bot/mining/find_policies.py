@@ -16,9 +16,13 @@ Options:
     -h, --help          Show help
 """
 
+# Setup asyncio with uvloop
+import uvloop
+import asyncio
+asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
+
 from itertools import islice
 from urllib.parse import urljoin
-import asyncio
 import json
 import logging
 import sys
