@@ -73,6 +73,13 @@ def fetch(url, max_retry=3, verbose=False):
                 allow_redirects=True,
                 timeout=5
             )
+            
+            if response.encoding and response.encoding.lower() != 'utf-8':
+                try:
+                    return response.text.encode(response.encoding).decode('utf-8')
+                except UnicodeError:
+                    logging.exception('Error converting to unicode from {}'.format(response.encoding))
+
             return response.text
         except:
             if verbose:
