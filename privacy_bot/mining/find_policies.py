@@ -65,9 +65,8 @@ def iter_policy_heuristic(url, fetch):
 
 def policy_websearch(base_url):
     query = 'site:%s' % base_url
-    if any(tld in base_url for tld in ['.co', '.com', '.org', '.uk', '.io', 'en.']):
-        search_terms = 'privacy'
-    elif any(tld in base_url for tld in ['.de', '.at']):
+    # guess the language from the TLD
+    if any(tld in base_url for tld in ['.de', '.at']):
         search_terms = 'datenschutz'
     # if we can't guess the language
     else:
