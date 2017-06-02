@@ -10,7 +10,9 @@ Usage:
 
 Options:
     -u, --urls U        File containing a list of urls
+    -l, --limit L       Limit number of URLs checked
     -j, --jobs J        Number of parallel jobs [default: 10]
+    -w, --websearch     Do a websearch in case the heuristic fails
     -h, --help          Show help
 """
 
@@ -20,8 +22,11 @@ import logging
 import sys
 import docopt
 from bs4 import BeautifulSoup
+from itertools import islice
+from urllib.parse import urlparse
 
 import privacy_bot.mining.fetcher as fetcher
+import privacy_bot.mining.websearch as websearch
 
 KEYWORDS = ['privacy', 'datenschutz',
             'Конфиденциальность', 'Приватность', 'тайность',
@@ -39,6 +44,7 @@ def iter_policy_heuristic(url, fetch):
     content = fetch(url)
     if not content:
         return
+    url_parsed = urlparse(url)
 
     soup = BeautifulSoup(content, 'lxml')
     for link in soup.find_all('a', href=True):
@@ -50,31 +56,44 @@ def iter_policy_heuristic(url, fetch):
                 print(text, href_lower)
                 # Get full privacy policy URL
                 if href.startswith('//'):
-                    href = 'http:' + href
+                    href = url_parsed.scheme + ':' + href
                 elif href.startswith('/'):
                     href = url.rstrip('/') + href
+                elif not href.startswith(url_parsed.scheme):
+                    href = url + '/' + href
                 yield href
 
 
-def iter_url_candidates(base_url, level=0):
-    for url in iter_protocols(base_url):
-        # Check to extract based on heuristic
-        yield from iter_policy_heuristic(url)
+def policy_websearch(base_url):
+    query = 'site:%s' % base_url
+    # guess the language from the TLD
+    if any(tld in base_url for tld in ['.de', '.at']):
+        search_terms = 'datenschutz'
+    # if we can't guess the language
+    else:
+        search_terms = 'privacy'
+    return websearch.websearch(query + ' ' + search_terms)
 
 
-def get_privacy_policy_url(base_url):
+def get_privacy_policy_url(base_url, websearch=False):
     """Given a valid URL, try to locate the privacy statement page. """
     candidates = set()
+
     for fetch in [fetcher.fetch, fetcher.fetch_headless]:
         for url in iter_protocols(base_url):
             print('Try:', fetch.__name__, url)
-            for candidate in iter_policy_heuristic(url, fetch):
-                candidates.add(candidate)
+            new_candidates = list(iter_policy_heuristic(url, fetch))
 
             # Stop as soon as we found a valid page and extracted URLs from it.
-            if candidates:
+            if new_candidates:
+                candidates.update(new_candidates)
                 return list(candidates)
-    return []
+    if websearch:
+        # If no candidates were found by the heuristic, do a websearch as fallback.
+        urls_from_websearch = policy_websearch(base_url)
+        candidates.update(urls_from_websearch)
+    return list(candidates)
+
 
 
 def main():
@@ -82,6 +101,14 @@ def main():
 
     args = docopt.docopt(__doc__)
     jobs = int(args['--jobs'])
+    if args['--limit']:
+        limit = int(args['--limit'])
+    else:
+        limit = None
+    if args['--websearch']:
+        websearch = True
+    else:
+        websearch = False
 
     # Gather every urls
     urls = args['<url>']
@@ -96,6 +123,9 @@ def main():
         if not url.startswith('#') and len(url.strip()) > 0
     )
 
+    if limit:
+        urls = list(islice(urls, limit))
+
     # Fetch data
     if urls:
         print('-' * 80,                          file=sys.stderr)
@@ -108,7 +138,7 @@ def main():
 
         # Find privacy policies
         with futures.ProcessPoolExecutor(jobs) as pool:
-            policies = pool.map(get_privacy_policy_url, urls)
+            policies = pool.map(get_privacy_policy_url, urls, [websearch] * len(urls))
 
         # Generate policies_metadata file
         print('',                                      file=sys.stderr)
