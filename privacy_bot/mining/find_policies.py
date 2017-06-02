@@ -33,6 +33,7 @@ KEYWORDS = ['privacy', 'datenschutz',
             '隐私', '隱私', 'プライバシー', 'confidential',
             'mentions-legales']
 
+
 def iter_protocols(base_url):
     for protocol in ['https://', 'http://']:
         yield protocol + base_url
