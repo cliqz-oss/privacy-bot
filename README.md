@@ -39,6 +39,7 @@ $ pip install -e .
 You'll need:
 - pandoc: http://pandoc.org/installing.html
 - phantomjs: http://phantomjs.org/download.html
+  npm -g install phantomjs-prebuilt
 
 ## Usage
 There are two entry points, used respectively for:
