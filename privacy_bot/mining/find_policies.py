@@ -9,6 +9,7 @@ Usage:
     find_policies [options] [<url>...]
 
 Options:
+    --update FILE       Update the given candidates file.
     --tld TLD           Only find policies on domain having this tld.
     -u, --urls U        File containing a list of urls
     -l, --limit L       Limit number of URLs checked
@@ -16,15 +17,13 @@ Options:
     -h, --help          Show help
 """
 
-# Setup asyncio with uvloop
-import uvloop
-import asyncio
-asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
-
 from itertools import islice
 from urllib.parse import urljoin
+import asyncio
+import concurrent.futures
 import json
 import logging
+import re
 import sys
 
 from bs4 import BeautifulSoup
@@ -33,7 +32,11 @@ import docopt
 import tldextract
 import tqdm
 
-from privacy_bot.mining.fetcher import async_fetch
+from privacy_bot.mining.fetcher import (
+    async_fetch,
+    check_if_url_exists,
+    fetch_headless
+)
 from privacy_bot.mining.utils import setup_logging
 import privacy_bot.mining.websearch as websearch
 
@@ -41,48 +44,75 @@ import privacy_bot.mining.websearch as websearch
 KEYWORDS = ['privacy', 'datenschutz',
             'Конфиденциальность', 'Приватность', 'тайность',
             '隐私', '隱私', 'プライバシー', 'confidential',
-            'mentions-legales']
+            'mentions-legales', 'conditions-generales',
+            'mentions légales', 'conditions générales',
+            'termini-e-condizioni']
+KEYWORDS_RE = re.compile('|'.join(KEYWORDS), flags=re.IGNORECASE)
 
 
-def iter_protocols(base_url):
-    for protocol in ['https://', 'http://']:
-        yield protocol + base_url
+def extract_candidates(html, url):
+    if not html:
+        return []
+
+    # Get real url, after redirect
+    real_url = str(url)
+
+    # Parse document
+    soup = BeautifulSoup(html, 'lxml')
+
+    candidates = set()
+
+    # Check for pattern in `href`
+    candidates.update(
+        urljoin(real_url, link['href'])
+        for link in soup.find_all('a', href=KEYWORDS_RE)
+    )
+
+    # Check for pattern in `string`
+    candidates.update(
+        urljoin(real_url, link['href'])
+        for link in soup.find_all('a', href=True, string=KEYWORDS_RE)
+    )
+
+    return list(candidates)
 
 
 async def iter_policy_heuristic(session, semaphore, url):
-    """Fetch the page and try to find a privacy URL in it."""
-    candidates = []
-
+    """Given the URL (usually the homepage) of a domain, extract a list of
+    privacy policies url candidates.
+    """
+    candidates = None
     async with semaphore:
-        try:
-            response = await async_fetch(session, url)
-        except:
-            return
+        # Check if the URL exists
+        url_exists = await check_if_url_exists(session, url)
+        if not url_exists:
+            return []
 
-        if not response:
-            return
+        # Fetch content of the page
+        response = await async_fetch(session, url)
+        if response:
+            candidates = extract_candidates(
+                html=response['text'],
+                url=response['url']
+            )
 
-        # Try to use `text`, and if not present, use `content` as a fallback
-        content = response["text"]
-        if not content:
-            content = response["content"]
-        if not content:
-            return
+        # Try the headlesss browser if there is no candidates
+        if not candidates:
+            loop = asyncio.get_event_loop()
+            response = await loop.run_in_executor(
+                None,
+                fetch_headless,
+                url
+            )
+            if response:
+                candidates = extract_candidates(
+                    html=response['text'],
+                    url=response['url']
+                )
 
-        # Get real url, after redirect
-        real_url = str(response["url"])
+        if not candidates:
+            logging.error('No candidates for %s', url)
 
-        soup = BeautifulSoup(content, 'lxml')
-        for link in soup.find_all('a', href=True):
-            for keyword in KEYWORDS:
-                href = link['href']
-                href_lower = href.lower()
-                text = link.text.lower()
-                if keyword in href_lower or keyword in text:
-                    # print(text, href_lower)
-                    # Get full privacy policy URL
-                    href = urljoin(real_url, href)
-                    candidates.append(href)
         return candidates
 
 
@@ -99,28 +129,25 @@ def policy_websearch(base_url):
 
 async def get_privacy_policy_url(session, semaphore, base_url, websearch=False):
     """Given a valid URL, try to locate the privacy statement page. """
-    candidates = set()
+    url = 'http://' + base_url
 
-    for url in iter_protocols(base_url):
-        new_candidates = await iter_policy_heuristic(session, semaphore, url)
+    candidates = await iter_policy_heuristic(session, semaphore, url)
 
-        # Stop as soon as we found a valid page and extracted URLs from it.
-        if new_candidates:
-            candidates.update(new_candidates)
-            break
+    if not candidates:
+        # Try the headless browser
+        pass
 
-    if websearch:
+    if not candidates and websearch:
         # If no candidates were found by the heuristic, do a websearch as fallback.
-        urls_from_websearch = policy_websearch(base_url)
-        candidates.update(urls_from_websearch)
+        candidates = policy_websearch(base_url)
 
     return {
         "url": base_url,
-        "candidates": list(candidates)
+        "candidates": candidates
     }
 
 
-async def get_candidates_policies(loop, urls, websearch):
+async def get_candidates_policies(loop, urls, websearch, policies_metadata):
     print('-' * 80,                             file=sys.stderr)
     print('Initializing Privacy Bot',           file=sys.stderr)
     print('-' * 80,                             file=sys.stderr)
@@ -128,8 +155,7 @@ async def get_candidates_policies(loop, urls, websearch):
     print('-' * 80,                             file=sys.stderr)
     print('',                                   file=sys.stderr)
 
-    # Find privacy policies
-    semaphore = asyncio.Semaphore(30)
+    semaphore = asyncio.Semaphore(50)
     connector = aiohttp.TCPConnector(verify_ssl=False)
     async with aiohttp.ClientSession(loop=loop, connector=connector) as client:
         coroutines = [
@@ -137,11 +163,6 @@ async def get_candidates_policies(loop, urls, websearch):
             for url in urls
         ]
 
-        # Generate policies_metadata file
-        print('',                                      file=sys.stderr)
-        print('Generating policy_url_candidates file', file=sys.stderr)
-
-        policies_metadata = {}
         for completed in tqdm.tqdm(asyncio.as_completed(coroutines),
                                    total=len(coroutines),
                                    dynamic_ncols=True,
@@ -154,7 +175,7 @@ async def get_candidates_policies(loop, urls, websearch):
             policies_metadata[url] = {
                 "domain": url,
                 "privacy_policies": candidates,
-                "locale": "fr-FR",
+                "locale": None,
                 "tld": tldextract.extract(url).suffix
             }
 
@@ -169,12 +190,14 @@ def main():
     setup_logging()
     args = docopt.docopt(__doc__)
 
-    limit = args['--limit']
-    if limit:
-        limit = int(limit)
-
     websearch = args['--websearch']
     tld = args['--tld']
+
+    # Update existing candidates
+    policies_metadata = {}
+    if args['--update']:
+        with open(args['--update'], 'rb') as input_candidates:
+            policies_metadata = json.load(input_candidates)
 
     # Gather every urls
     urls = args['<url>']
@@ -192,17 +215,23 @@ def main():
            )
     )
 
+    # Limit number of domains to process
+    limit = args['--limit']
     if limit:
+        limit = int(limit)
         urls = list(islice(urls, limit))
 
     # Fetch data
     if urls:
-        loop = asyncio.get_event_loop()
-        loop.run_until_complete(get_candidates_policies(
-            loop=loop,
-            urls=urls,
-            websearch=websearch
-        ))
+        with concurrent.futures.ProcessPoolExecutor(max_workers=10) as executor:
+            loop = asyncio.get_event_loop()
+            loop.set_default_executor(executor)
+            loop.run_until_complete(get_candidates_policies(
+                loop=loop,
+                urls=urls,
+                websearch=websearch,
+                policies_metadata=policies_metadata
+            ))
 
 
 if __name__ == "__main__":
