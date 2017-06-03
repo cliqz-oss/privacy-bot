@@ -20,6 +20,8 @@ setup(
         ]
     },
     install_requires=[
+        "Cython==0.25.2",
+        "aiodns==1.1.1",
         "aiohttp==2.1.0",
         "beautifulsoup4==4.6.0",
         "cchardet==2.1.0",
@@ -33,7 +35,6 @@ setup(
         "selenium==3.4.2",
         "tldextract==2.0.2",
         "tqdm==4.14.0",
-        "uvloop==0.8.0",
     ],
     long_description=LONG_DESCRIPTION,
     classifiers=[

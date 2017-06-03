@@ -12,12 +12,8 @@ Options:
     --tld TLDS     Only fetch given tld.
 """
 
-# Setup asyncio with uvloop
-import uvloop
-import asyncio
-asyncio.set_event_loop_policy(uvloop.EventLoopPolicy())
-
 from collections import defaultdict
+import asyncio
 import html
 import json
 import logging
@@ -136,7 +132,7 @@ async def fetch_policies_from_domain(loop, semaphore, session, policy_metadata):
 
 async def fetch_all_policies(loop, policies_per_domain, tld=None):
     # Trigger tasks async
-    semaphore = asyncio.Semaphore(40)
+    semaphore = asyncio.Semaphore(30)
     connector = aiohttp.TCPConnector(verify_ssl=False)
     async with aiohttp.ClientSession(loop=loop, connector=connector) as client:
         coroutines = [

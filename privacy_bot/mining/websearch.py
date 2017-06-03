@@ -5,7 +5,7 @@ from urllib.parse import urlencode
 
 from bs4 import BeautifulSoup
 
-from privacy_bot.mining.fetcher import fetch, fetch_headless
+from privacy_bot.mining.fetcher import fetch_headless
 
 
 def websearch(query):

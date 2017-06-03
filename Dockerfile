@@ -1,13 +1,41 @@
-FROM alpine:3.5
+FROM alpine:3.6
 
-ADD privacy_bot/ /tmp/privacy_bot
-ADD setup.py /tmp/
-RUN apk add --no-cache python3 gcc musl-dev libxml2-dev libxslt-dev python3-dev libffi-dev openssl-dev && \
-    python3 -m ensurepip && \
-    rm -r /usr/lib/python*/ensurepip && \
-    pip3 install --upgrade pip setuptools && \
-    pip3 install six && \
-    pip3 install requests[security] && \
-    rm -r /root/.cache && \
-    cd /tmp/ && \
-    pip3 install -e .
+# Install dependencies
+RUN apk add --no-cache python3                      \
+                       libxml2                      \
+                       libxslt
+RUN apk add --no-cache --virtual build-dependencies \
+                      curl                          \
+                      fontconfig                    \
+                      g++                           \
+                      gcc                           \
+                      libffi-dev                    \
+                      libxml2-dev                   \
+                      libxslt-dev                   \
+                      make                          \
+                      musl-dev                      \
+                      openssl-dev                   \
+                      python3-dev
+
+# Install phantomjs
+RUN mkdir -p /usr/share
+WORKDIR /usr/share
+RUN curl -L https://github.com/Overbryd/docker-phantomjs-alpine/releases/download/2.11/phantomjs-alpine-x86_64.tar.bz2 | tar xj \
+ && ln -s /usr/share/phantomjs/phantomjs /usr/bin/phantomjs \
+ && phantomjs --version
+
+# Copy Privacy Bot inside of Docker
+COPY privacy_bot/ /tmp/privacy_bot
+COPY setup.py /tmp/
+
+# Install Privacy Bot
+WORKDIR /tmp
+RUN python3 -m ensurepip                            \
+ && pip3 install --upgrade pip setuptools           \
+ && pip3 install requests[security]                 \
+ && pip3 install -e .
+
+# Clean-up
+RUN apk del build-dependencies                      \
+ && rm -rv /usr/lib/python*/ensurepip               \
+ && rm -rv /root/.cache
