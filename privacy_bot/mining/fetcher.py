@@ -40,35 +40,20 @@ async def check_if_url_exists(session, url, timeout=10):
 async def async_fetch(session, url, timeout=10):
     try:
         with aiohttp.Timeout(timeout, loop=session.loop):
-            # Create headers
-            headers = {}
-            headers['User-agent'] = USERAGENT
-
-            async with session.get(url, headers=headers) as response:
-                # Try to get decoded content
-                try:
-                    text = await response.text()
-                except UnicodeDecodeError:
-                    text = None
-
-                # Try to get raw html content
-                try:
-                    content = await response.content.read()
-                except aiohttp.ClientPayloadError:
-                    content = None
-
+            async with session.get(url) as response:
                 return {
-                    "status": 200,
-                    "content": content,
-                    "text": text,
+                    "status": response.status,
+                    "text": await response.text(),
                     "url": response.url
                 }
     except asyncio.TimeoutError:
         logging.error('Fetch timeout for %s', url)
-    except aiohttp.client_exceptions.ServerDisconnectedError:
-        logging.info('Server disconnected %s', url)
-    except aiohttp.client_exceptions.ClientOSError:
-        logging.exception('Exception %s', url)
+    except aiohttp.client_exceptions.ClientConnectorError:
+        pass
+    except UnicodeDecodeError:
+        pass
+    except Exception as err:
+        logging.exception('Exception while fetching %s (%s)', url, err)
 
 
 class TimeoutError(Exception):

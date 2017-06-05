@@ -2,14 +2,17 @@
 # -*- coding: utf-8 -*-
 
 
+from abc import abstractmethod
 from collections import defaultdict, namedtuple
 from pathlib import Path
-import io
+import os.path
 import json
 import logging
 import zipfile
+import tarfile
 
 import requests
+import tqdm
 
 
 def _get_latest_release():
@@ -27,6 +30,8 @@ def _get_latest_release():
 
 
 Policy = namedtuple('Policy', [
+    'name',
+    'url',
     'html',
     'text',
     'domain',
@@ -35,8 +40,106 @@ Policy = namedtuple('Policy', [
 ])
 
 
+class SnapshotBase:
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        self.close()
+
+    @abstractmethod
+    def open(self, path):
+        raise NotImplementedError()
+
+    @abstractmethod
+    def close(self):
+        raise NotImplementedError()
+
+
+class ZipSnapshot(SnapshotBase):
+    def __init__(self, path):
+        self.zipfile = zipfile.ZipFile(path)
+
+        # Mapping from filename to zip archive filepath
+        self.file_index = {}
+        files = list(self.zipfile.namelist())
+        prefix = os.path.commonprefix(files)
+        for filename in self.zipfile.namelist():
+            self.file_index[filename[len(prefix):]] = filename
+
+    def open(self, path):
+        return self.zipfile.open(self.file_index[path])
+
+    def close(self):
+        self.zipfile.close()
+
+
+class LocalSnapshot(SnapshotBase):
+    def __init__(self, path):
+        self.path = Path(path)
+
+    def open(self, path):
+        return (self.path / path).open()
+
+    def close(self):
+        pass
+
+
+def load_from_snapshot_abstraction(snapshot):
+    policies = defaultdict(list)
+    domains = set()
+    languages = set()
+    tlds = set()
+
+    # Load index file
+    with snapshot.open('index.json') as index_file:
+        index = json.load(index_file)
+
+        # Iterate on all available domains
+        for domain, policy_pages in tqdm.tqdm(index.items(), total=len(index),
+                                              dynamic_ncols=True, unit='domain',
+                                              desc='Loading policies'):
+            domains.add(domain)
+
+            for policy in policy_pages:
+                base_path = policy['path']
+
+                content = {}
+                for extension in ['txt', 'html']:
+                    with snapshot.open(base_path + '.' + extension) as content_file:
+                        content[extension] = content_file.read()
+
+                tlds.add(policy['tld'])
+                languages.add(policy['lang'])
+
+                policies[domain].append(Policy(
+                    domain=domain,
+                    url=policy['url'],
+                    name=policy['name'],
+                    html=content['html'],
+                    text=content['txt'],
+                    tld=policy['tld'],
+                    lang=policy['lang']
+                ))
+
+    return Policies(
+        policies=policies,
+        domains=domains,
+        tlds=tlds,
+        languages=languages
+    )
+
+
 class Policies:
-    def __init__(self):
+    def __init__(self, policies, tlds, domains, languages):
+        self.policies = policies
+        self.domains = domains
+        self.languages = languages
+        self.tlds = tlds
+
+    @staticmethod
+    def from_remote():
+        print('Fetch information about latest release...')
         latest_release = _get_latest_release()
 
         print("Get Latest Release")
@@ -47,14 +150,10 @@ class Policies:
         print("-" * 80)
 
         # Check if there is a cached version already
-        cached_path = Path('.' + str(latest_release["id"]))
+        cached_path = Path('/tmp', 'privacy-bot_' + str(latest_release["id"]))
 
-        if cached_path.exists():
-            print("Load cached content")
-            with cached_path.open('rb') as cached_content:
-                content = cached_content.read()
-        else:
-            print("Fetch remote archive")
+        # Fetch and cache content locally
+        if not cached_path.exists():
             # Fetch the content of the archive
             response = requests.get(
                 latest_release["url"],
@@ -67,62 +166,45 @@ class Policies:
             with cached_path.open('wb') as output:
                 output.write(content)
 
-        self.policies = defaultdict(dict)
-        self.domains = set()
-        self.languages = set()
-        self.tlds = set()
+        with ZipSnapshot(str(cached_path)) as snapshot:
+            return load_from_snapshot_abstraction(snapshot)
 
-        print("Load archive")
-        with zipfile.ZipFile(io.BytesIO(content)) as archive:
-            # Mapping from filename to zip archive filepath
-            file_index = {}
-            for filename in archive.namelist():
-                path = Path(filename)
-                file_index['/'.join(path.parts[1:])] = filename
+    @staticmethod
+    def from_tar(path):
+        assert path.endswith('.tar.bz2'), 'from_tar excepts a tar.bz2 archive'
+        cached_path = Path('/tmp', 'privacy-bot_policies_' + path.split('.', 1)[0])
 
-            # Load index file
-            with archive.open(file_index['index.json']) as index_file:
-                content = index_file.read().decode('utf-8')
-                index = json.loads(content)
+        # Extract archive is necessary
+        if not cached_path.exists():
+            with tarfile.open(path, mode='r:bz2') as archive:
+                print('Extract archive into', cached_path)
+                archive.extractall(cached_path)
 
-                # Iterate on all available domains
-                for domain, policy_pages in index.items():
-                    self.domains.add(domain)
+        # Load policies from extracted archive
+        return Policies.from_path(cached_path)
 
-                    for policy in policy_pages:
-                        base_path = file_index[policy['path']]
+    @staticmethod
+    def from_zip(path):
+        with ZipSnapshot(path) as snapshot:
+            return load_from_snapshot_abstraction(snapshot)
 
-                        content = {}
-                        content_files = [
-                            ('html',        'policy.html'),
-                            ('text',        'policy.txt'),
-                        ]
+    @staticmethod
+    def from_path(path):
+        print("Load privacy policies from", path)
+        with LocalSnapshot(path) as snapshot:
+            return load_from_snapshot_abstraction(snapshot)
 
-                        for key, content_path in content_files:
-                            with archive.open(base_path + content_path) as content_file:
-                                content[key] = content_file.read().decode('utf-8')
-
-                        self.tlds.add(policy['tld'])
-                        self.languages.add(policy['lang'])
-
-                        self.policies[domain] = Policy(
-                            html=content['html'],
-                            text=content['text'],
-                            domain=domain,
-                            tld=policy['tld'],
-                            lang=policy['lang']
-                        )
 
     def __iter__(self):
-        return iter(self.policies.values())
+        for domain, policies in self.policies.items():
+            for policy in policies:
+                yield policy
 
     def query(self, domain=None, lang=None, tld=None):
         for policy in self:
             # Filter on domain
-            if domain:
-                if not (domain == policy.domain or
-                        domain == policy.domain[:-(len(policy.tld) + 1)]):
-                    continue
+            if domain and policy.domain != domain:
+                continue
 
             # Filter on language
             if lang and policy.lang != lang:
@@ -135,13 +217,15 @@ class Policies:
             yield policy
 
 
-if __name__ == "__main__":
+def example():
     logging.basicConfig(level=logging.INFO)
-    policies = Policies()
+    policies = Policies.from_remote()
 
     # Iterate on all policies
     for policy in policies:
         print(policies)
+
+    print('Size', len(list(policies)))
 
     # Check available domains, tlds, languages
     print(policies.domains)
@@ -151,3 +235,8 @@ if __name__ == "__main__":
     # Query policy by: tld, domain, lang
     for policy in policies.query(lang='de'):
         print(policy.domain)
+
+
+if __name__ == "__main__":
+    example()
+

@@ -9,38 +9,43 @@ Usage:
     find_policies [options] [<url>...]
 
 Options:
-    --update FILE       Update the given candidates file.
-    --tld TLD           Only find policies on domain having this tld.
-    -u, --urls U        File containing a list of urls
-    -l, --limit L       Limit number of URLs checked
-    -w, --websearch     Do a websearch in case the heuristic fails
-    -h, --help          Show help
+    --tld TLD               Only find policies on domain having this tld.
+    --update FILE           Update the given candidates file.
+    -j, --jobs J            Maximum number of workers [default: 10]
+    -l, --limit L           Limit number of URLs checked
+    -m, --max_connections M Maximum number of concurrent connections [default: 30]
+    -u, --urls U            File containing a list of urls
+    -w, --websearch         Do a websearch in case the heuristic fails
+    -h, --help              Show help
 """
 
 from itertools import islice
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urldefrag
 import asyncio
 import concurrent.futures
 import json
 import logging
-import re
 import sys
 
 from bs4 import BeautifulSoup
 import aiohttp
 import docopt
+import regex as re
 import tldextract
 import tqdm
 
 from privacy_bot.mining.fetcher import (
     async_fetch,
     check_if_url_exists,
-    fetch_headless
+    fetch_headless,
+    USERAGENT
 )
 from privacy_bot.mining.utils import setup_logging
 import privacy_bot.mining.websearch as websearch
 
 
+# TODO - find more patterns + handle more languages
+# TODO - split patterns by language/top-level domain?
 KEYWORDS = ['privacy', 'datenschutz',
             'Конфиденциальность', 'Приватность', 'тайность',
             '隐私', '隱私', 'プライバシー', 'confidential',
@@ -64,13 +69,13 @@ def extract_candidates(html, url):
 
     # Check for pattern in `href`
     candidates.update(
-        urljoin(real_url, link['href'])
+        urldefrag(urljoin(real_url, link['href'])).url
         for link in soup.find_all('a', href=KEYWORDS_RE)
     )
 
     # Check for pattern in `string`
     candidates.update(
-        urljoin(real_url, link['href'])
+        urldefrag(urljoin(real_url, link['href'])).url
         for link in soup.find_all('a', href=True, string=KEYWORDS_RE)
     )
 
@@ -82,38 +87,44 @@ async def iter_policy_heuristic(session, semaphore, url):
     privacy policies url candidates.
     """
     candidates = None
+
+    # Check if the URL exists
     async with semaphore:
-        # Check if the URL exists
         url_exists = await check_if_url_exists(session, url)
         if not url_exists:
             return []
 
-        # Fetch content of the page
+    # Fetch content of the page
+    async with semaphore:
         response = await async_fetch(session, url)
+
+    if response:
+        candidates = await asyncio.get_event_loop().run_in_executor(
+            None,
+            extract_candidates,
+            response['text'],
+            response['url']
+        )
+
+    # Try the headlesss browser if there is no candidates
+    if not candidates:
+        response = await asyncio.get_event_loop().run_in_executor(
+            None,
+            fetch_headless,
+            url
+        )
         if response:
-            candidates = extract_candidates(
-                html=response['text'],
-                url=response['url']
-            )
-
-        # Try the headlesss browser if there is no candidates
-        if not candidates:
-            loop = asyncio.get_event_loop()
-            response = await loop.run_in_executor(
+            candidates = await asyncio.get_event_loop().run_in_executor(
                 None,
-                fetch_headless,
-                url
+                extract_candidates,
+                response['text'],
+                response['url']
             )
-            if response:
-                candidates = extract_candidates(
-                    html=response['text'],
-                    url=response['url']
-                )
 
-        if not candidates:
-            logging.error('No candidates for %s', url)
+    if not candidates:
+        logging.error('No candidates for %s', url)
 
-        return candidates
+    return candidates
 
 
 def policy_websearch(base_url):
@@ -133,10 +144,6 @@ async def get_privacy_policy_url(session, semaphore, base_url, websearch=False):
 
     candidates = await iter_policy_heuristic(session, semaphore, url)
 
-    if not candidates:
-        # Try the headless browser
-        pass
-
     if not candidates and websearch:
         # If no candidates were found by the heuristic, do a websearch as fallback.
         candidates = policy_websearch(base_url)
@@ -147,7 +154,7 @@ async def get_privacy_policy_url(session, semaphore, base_url, websearch=False):
     }
 
 
-async def get_candidates_policies(loop, urls, websearch, policies_metadata):
+async def get_candidates_policies(loop, urls, websearch, policies_metadata, max_connections):
     print('-' * 80,                             file=sys.stderr)
     print('Initializing Privacy Bot',           file=sys.stderr)
     print('-' * 80,                             file=sys.stderr)
@@ -155,9 +162,11 @@ async def get_candidates_policies(loop, urls, websearch, policies_metadata):
     print('-' * 80,                             file=sys.stderr)
     print('',                                   file=sys.stderr)
 
-    semaphore = asyncio.Semaphore(50)
-    connector = aiohttp.TCPConnector(verify_ssl=False)
-    async with aiohttp.ClientSession(loop=loop, connector=connector) as client:
+    semaphore = asyncio.Semaphore(max_connections)
+    connector = aiohttp.TCPConnector(loop=loop, verify_ssl=False, limit=None)
+    async with aiohttp.ClientSession(loop=loop, connector=connector,
+                                     cookie_jar=aiohttp.helpers.DummyCookieJar(),
+                                     headers={'User-agent': USERAGENT}) as client:
         coroutines = [
             loop.create_task(get_privacy_policy_url(client, semaphore, url, websearch))
             for url in urls
@@ -166,17 +175,24 @@ async def get_candidates_policies(loop, urls, websearch, policies_metadata):
         for completed in tqdm.tqdm(asyncio.as_completed(coroutines),
                                    total=len(coroutines),
                                    dynamic_ncols=True,
+                                   desc='Gather policies',
                                    unit='domain'):
             result = await completed
             candidates = result['candidates']
             url = result['url']
 
-            # print('url: ', url, 'policies: ', policies)
-            policies_metadata[url] = {
-                "domain": url,
-                "privacy_policies": candidates,
-                "locale": None,
-                "tld": tldextract.extract(url).suffix
+            ext = tldextract.extract(url)
+            tld = ext.suffix
+            domain = ext.domain
+
+            if domain not in policies_metadata:
+                policies_metadata[domain] = {}
+
+            policies_metadata[domain][tld] = {
+                "domain": domain,
+                "url": url,
+                "tld": tld,
+                "privacy_policies": candidates
             }
 
         with open('policy_url_candidates.json', 'w') as output:
@@ -192,6 +208,8 @@ def main():
 
     websearch = args['--websearch']
     tld = args['--tld']
+    jobs = int(args['--jobs'])
+    max_connections = int(args['--max_connections'])
 
     # Update existing candidates
     policies_metadata = {}
@@ -223,14 +241,15 @@ def main():
 
     # Fetch data
     if urls:
-        with concurrent.futures.ProcessPoolExecutor(max_workers=10) as executor:
+        with concurrent.futures.ProcessPoolExecutor(max_workers=jobs) as executor:
             loop = asyncio.get_event_loop()
             loop.set_default_executor(executor)
             loop.run_until_complete(get_candidates_policies(
                 loop=loop,
                 urls=urls,
                 websearch=websearch,
-                policies_metadata=policies_metadata
+                policies_metadata=policies_metadata,
+                max_connections=max_connections
             ))
 
 

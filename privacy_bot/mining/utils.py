@@ -17,5 +17,5 @@ class TqdmLoggingHandler(logging.Handler):
 
 def setup_logging():
     log = logging.getLogger()
-    log.setLevel(logging.DEBUG)
+    log.setLevel(logging.ERROR)
     log.addHandler(TqdmLoggingHandler())
