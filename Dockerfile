@@ -1,16 +1,12 @@
 FROM alpine:3.6
 
 # Install dependencies
-RUN apk add --no-cache python3                      \
-                       libxml2                      \
-                       libxslt
+RUN apk add --no-cache python3
 RUN apk add --no-cache --virtual build-dependencies \
                       curl                          \
                       fontconfig                    \
                       gcc                           \
                       libffi-dev                    \
-                      libxml2-dev                   \
-                      libxslt-dev                   \
                       musl-dev                      \
                       openssl-dev                   \
                       python3-dev
