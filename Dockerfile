@@ -7,12 +7,10 @@ RUN apk add --no-cache python3                      \
 RUN apk add --no-cache --virtual build-dependencies \
                       curl                          \
                       fontconfig                    \
-                      g++                           \
                       gcc                           \
                       libffi-dev                    \
                       libxml2-dev                   \
                       libxslt-dev                   \
-                      make                          \
                       musl-dev                      \
                       openssl-dev                   \
                       python3-dev
@@ -32,6 +30,7 @@ COPY setup.py /tmp/
 WORKDIR /tmp
 RUN python3 -m ensurepip                            \
  && pip3 install --upgrade pip setuptools           \
+ && pip3 install cython                             \
  && pip3 install requests[security]                 \
  && pip3 install -e .
 
