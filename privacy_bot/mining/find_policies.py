@@ -27,7 +27,6 @@ import json
 import logging
 import sys
 
-from bs4 import BeautifulSoup
 import aiohttp
 import docopt
 import regex as re
@@ -55,6 +54,54 @@ KEYWORDS = ['privacy', 'datenschutz',
 KEYWORDS_RE = re.compile('|'.join(KEYWORDS), flags=re.IGNORECASE)
 
 
+def extract_urls(html, string, href):
+    urls = []
+    current_position = 0
+    while True:
+        curpos = html.find("href=", current_position)
+        if curpos >= 0:
+            # Jump over 'href='
+            curpos += 5
+            quote_symbol = html[curpos]
+            # Jump over opening quote
+            curpos += 1
+
+            # Find closing tag
+            closing = html.find('>', curpos)
+            assert closing != -1
+            has_content = html[closing - 1] != '/'
+            # ------------------------------
+
+            # Extract href
+            href_end = html.find(quote_symbol, curpos, closing)
+            if href_end == -1:
+                current_position = closing + 1
+                continue
+            # TODO - should it be `match` instead?
+            url_match = href.search(html, curpos, href_end) != None
+            if url_match:
+                url = html[curpos:href_end]
+                urls.append(url)
+            # -------------------------------------------------
+
+            # Extract content and try regex on it
+            if has_content and not url_match:
+                # Find next opening tag (max: 100)
+                next_opening = html.find('<', closing, closing + 100)
+                if next_opening != -1:
+                    text_match = string.search(html, closing + 1, next_opening) != None
+                    if text_match:
+                        url = html[curpos:href_end]
+                        urls.append(url)
+                    current_position = next_opening + 1
+                    continue
+
+            current_position = closing + 1
+        else:
+            break
+    return urls
+
+
 def extract_candidates(html, url):
     if not html:
         return []
@@ -62,24 +109,10 @@ def extract_candidates(html, url):
     # Get real url, after redirect
     real_url = str(url)
 
-    # Parse document
-    soup = BeautifulSoup(html, 'lxml')
-
-    candidates = set()
-
-    # Check for pattern in `href`
-    candidates.update(
-        urldefrag(urljoin(real_url, link['href'])).url
-        for link in soup.find_all('a', href=KEYWORDS_RE)
-    )
-
-    # Check for pattern in `string`
-    candidates.update(
-        urldefrag(urljoin(real_url, link['href'])).url
-        for link in soup.find_all('a', href=True, string=KEYWORDS_RE)
-    )
-
-    return list(candidates)
+    return list(set(
+        urldefrag(urljoin(real_url, href)).url
+        for href in extract_urls(html, string=KEYWORDS_RE, href=KEYWORDS_RE)
+    ))
 
 
 async def iter_policy_heuristic(session, semaphore, url):
@@ -98,12 +131,10 @@ async def iter_policy_heuristic(session, semaphore, url):
     async with semaphore:
         response = await async_fetch(session, url)
 
-    if response:
-        candidates = await asyncio.get_event_loop().run_in_executor(
-            None,
-            extract_candidates,
-            response['text'],
-            response['url']
+    if response and response['text']:
+        candidates = extract_candidates(
+            html=response['text'],
+            url=response['url']
         )
 
     # Try the headlesss browser if there is no candidates
@@ -114,11 +145,9 @@ async def iter_policy_heuristic(session, semaphore, url):
             url
         )
         if response:
-            candidates = await asyncio.get_event_loop().run_in_executor(
-                None,
-                extract_candidates,
-                response['text'],
-                response['url']
+            candidates = extract_candidates(
+                html=response['text'],
+                url=response['url']
             )
 
     if not candidates:
