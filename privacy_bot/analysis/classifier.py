@@ -1,41 +1,43 @@
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
 from sklearn.pipeline import Pipeline
+from sklearn.metrics import classification_report
+from sklearn.externals import joblib
 
 from privacy_bot.analysis.policies_snapshot_api import Policies
 from privacy_bot.analysis.utils import Dataset
 
-pipeline = Pipeline([('vect', CountVectorizer(
-                        max_df=0.75,
-                        max_features=1000,
-                        ngram_range=(1, 2)
-                     )),
-                     ('tfidf', TfidfTransformer(
-                         norm='l1',
-                         use_idf=True
-                     )),
-                     ('clf', SGDClassifier(
-                         penalty='elasticnet',
-                         alpha=0.000001,
-                         n_iter=50
-                     ))
+
+#TODO: Run again the exhaustive parameters search using gridsearch
+clf = Pipeline([('tfidf', TfidfVectorizer(
+                    norm='l1',
+                    use_idf=True
+                )),
+                ('clf', SGDClassifier(
+                    penalty='elasticnet',
+                    alpha=0.000001,
+                    n_iter=50
+                ))
 ])
 
-# Found best_parameters after 10 hours of training
-# parameters = {
-#     'vect__max_df': (0.75),
-#     'vect__max_features': (10000),
-#     'vect__ngram_range': ((1, 2)), # bigrams
-#     'tfidf__use_idf': (True),
-#     'tfidf__norm': ('l1'),
-#     'clf__alpha': (0.000001),
-#     'clf__penalty': ('elasticnet'),
-#     'clf__n_iter': (50),
-# }
+if __name__ == "__main__":
+    labelled_dataset = Dataset.tars_to_labelled(
+        true_positives_path='privacy_policy_positive.tar.bz2',
+        true_negatives_path='privacy_policy_negative.tar.bz2'
+    )
+    
+    training, test = labelled_dataset.training_testing(
+        training_size=2500,
+        testing_size=500
+    )
 
-tp = Policies(local_path='privacy_policies.zip')
-tpc = [policy for policy in tp.query(lang='en')]
+    clf.fit(training.data, training.labels)
 
-pipeline.fi
-pipeline.predict(tpc[1455:])
+    predicted = clf.predict(test.data)
+    actual = test.labels
+
+    # generating report. Precision is important
+    print(classification_report(actual, predicted))
+
+    # dump classifier
+    joblib.dump(clf, 'trained_model.pkl')
