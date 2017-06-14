@@ -5,9 +5,9 @@ Usage:
     manual_policy_labelling.py --policies FILE [--language LANG]
 
 Options:
-    -l --language      Choose language of policies to assess
-    -p --policies      Local Path of compressed policies file
-    -h --help          Show help
+    -l --language LANG     Choose language of policies to assess [default: en]
+    -p --policies FILE     Local Path of compressed policies file
+    -h --help              Show help
 """
 
 import json
@@ -45,9 +45,10 @@ def setting_language(lang):
 
 if __name__ == '__main__':
     args = docopt.docopt(__doc__)
+    print(args)
 
-    lang = args['LANG'] if args['--language'] else 'en'
-    local_path = args['FILE']
+    lang = args['--language']
+    local_path = args['--policies']
 
     language_question, privacy_question = setting_language(lang)
 

@@ -8,6 +8,9 @@ import json
 
 
 class Dataset():
+    """
+    Primarily used to ease data analysis tasks (e.g. text classification)
+    """
     def __init__(self, data, names):
         self.data = data
         self.names = names
@@ -40,7 +43,7 @@ class Dataset():
         return Dataset(data=data, names=names)
 
     @staticmethod
-    def tars_to_labelled(true_positives_path, true_negatives_path, language='en'):
+    def tars_to_labelled(true_positives_path, true_negatives_path, entity='text', language='en'):
         data = []
         names = []
 
@@ -48,11 +51,21 @@ class Dataset():
         tn = Policies.from_tar(true_negatives_path)
 
         for policy in tp.query(lang=language):
-            data.append(policy.text)
+            if entity == 'text':
+                data.append(policy.text)
+            elif entity == 'url':
+                data.append(policy.url)
+            elif entity == 'html':
+                data.append(policy.html)
             names.append('policy')
 
         for policy in tn.query(lang=language):
-            data.append(policy.text)
+            if entity == 'text':
+                data.append(policy.text)
+            elif entity == 'url':
+                data.append(policy.url)
+            elif entity == 'html':
+                data.append(policy.html)
             names.append('not_policy')
 
         return Dataset(data=data, names=names)
@@ -71,6 +84,10 @@ class Dataset():
         return Dataset(data=data, names=names)
 
     def training_testing(self, training_size, testing_size):
+        """
+        Generates training and test from labelled data
+
+        """
 
         true_positives = self.take(category='policy')
         true_negatives = self.take(category='not_policy')
@@ -104,6 +121,10 @@ class Dataset():
 
 
 class PlotWordCloud():
+    """
+    Given a word frequency dictionary, it generates a word cloud
+    """
+
     def __init__(self, word_frequency_dict):
         self.word_frequency_dict = word_frequency_dict
 
@@ -112,6 +133,7 @@ class PlotWordCloud():
         return "hsl(0, 0%%, %d%%)" % random.randint(5, 30)
 
     def plot(self):
+        # TODO: Add support for saving the word cloud
         wcloud = WordCloud(
             width=1200,
             height=800,
