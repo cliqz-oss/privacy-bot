@@ -91,6 +91,8 @@ def load_from_snapshot_abstraction(snapshot):
     languages = set()
     tlds = set()
 
+    seen_policies = set()
+
     # Load index file
     with snapshot.open('index.json') as index_file:
         index = json.load(index_file)
@@ -112,7 +114,7 @@ def load_from_snapshot_abstraction(snapshot):
                 tlds.add(policy['tld'])
                 languages.add(policy['lang'])
 
-                policies[domain].append(Policy(
+                policy = Policy(
                     domain=domain,
                     url=policy['url'],
                     name=policy['name'],
@@ -120,7 +122,10 @@ def load_from_snapshot_abstraction(snapshot):
                     text=content['txt'],
                     tld=policy['tld'],
                     lang=policy['lang']
-                ))
+                )
+                if policy not in seen_policies:
+                    seen_policies.add(policy)
+                    policies[domain].append(policy)
 
     return Policies(
         policies=policies,
