@@ -2,71 +2,61 @@
 Privacy Bot - Text Classifier
 
 Usage:
-    classifier.py -p TRUE_POSITIVES  -n TRUE_NEGATIVES -e ENTITY
+    classifier.py <true_positives>  <true_negatives>  (--url | --text)
 
 Options:
-    -p --tp TRUE_POSITIVES        Local Path of TRUE_POSITIVES (tar file)
-    -n --tn TRUE_NEGATIVES        Local Path of TRUE_NEGATIVES (tar file)
-    -e --entity ENTITY            Two possible values: text, url
-    -h --help                     Show help
+    <true_positives>    Documents that are privacy policies (tar file)
+    <true_negatives>    Documents that are NOT privacy policies (tar file)
+    -h --help           Show help
 """
 
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
 from sklearn.pipeline import Pipeline
-from sklearn.metrics import classification_report
-from sklearn.externals import joblib
+from sklearn.metrics import precision_score, make_scorer
+from sklearn.model_selection import StratifiedKFold, cross_val_score
+import numpy as np
 
 from privacy_bot.analysis.policies_snapshot_api import Policies
-from privacy_bot.analysis.utils import Dataset
+from privacy_bot.analysis import dataset
 from docopt import docopt
 
 
 #TODO: Run again the exhaustive parameters search using gridsearch
 text_clf = Pipeline([('tfidf', TfidfVectorizer(
-                    norm='l1',
-                    use_idf=True
-                )),
-                ('clf', SGDClassifier(
-                    penalty='elasticnet',
-                    alpha=0.000001,
-                    n_iter=50
-                ))
+                        norm='l1',
+                        use_idf=True
+                    )),
+                    ('clf', SGDClassifier(
+                        penalty='elasticnet',
+                        alpha=0.000001,
+                        n_iter=50
+                    ))
 ])
 url_clf = Pipeline([('tfidf', TfidfVectorizer(
-                    analyzer='char',
-                    ngram_range=(3, 5)
-                )),
-                ('clf', SGDClassifier())
+                        analyzer='char',
+                        ngram_range=(3, 5)
+                    )),
+                    ('clf', SGDClassifier())
 ])
 
 
 if __name__ == "__main__":
     args = docopt(__doc__)
-    print(args)
-    print(args['--entity'])
-    labelled_dataset = Dataset.tars_to_labelled(
-        true_positives_path=args['--tp'],
-        true_negatives_path=args['--tn'],
-        entity=args['--entity']
-    )
-    #TODO: training_size, testing_size into args (when > labelled data)
-    training, test = labelled_dataset.training_testing(
-        training_size=2500,
-        testing_size=500
-    )
-    if args['--entity'] == 'text':
-        clf = text_clf
-    elif args['--entity'] == 'url':
+
+    tp_path = args['<true_positives>']
+    tn_path = args['<true_negatives>']
+
+    if args['--url']:
+        X = dataset.load_urls(tp_path, tn_path)
         clf = url_clf
+    elif args['--text']:
+        X = dataset.load_text(tp_path, tn_path)
+        clf = text_clf
 
-    clf.fit(training.data, training.labels)
-    predicted = clf.predict(test.data)
-    actual = test.labels
+    # Testing Precision with 10 folds
+    cv = StratifiedKFold(10)
+    scores = cross_val_score(clf, X.data, X.target, cv=cv, scoring=make_scorer(precision_score))
 
-    # generating report. Precision is important
-    print(classification_report(actual, predicted))
-
-    # dump classifier
-    joblib.dump(clf, 'trained_model_%s.pkl' %args['--entity'])
+    print("Precision: ", np.mean(scores))

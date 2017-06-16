@@ -223,7 +223,7 @@ def example():
 
     # Iterate on all policies
     for policy in policies:
-        print(policies)
+        print(policy)
 
     print('Size', len(list(policies)))
 
