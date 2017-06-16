@@ -183,7 +183,7 @@ class Policies:
         if not cached_path.exists():
             with tarfile.open(path, mode='r:bz2') as archive:
                 print('Extract archive into', cached_path)
-                archive.extractall(cached_path)
+                archive.extractall(str(cached_path))
 
         # Load policies from extracted archive
         return Policies.from_path(cached_path)
@@ -228,7 +228,7 @@ def example():
 
     # Iterate on all policies
     for policy in policies:
-        print(policies)
+        print(policy)
 
     print('Size', len(list(policies)))
 
