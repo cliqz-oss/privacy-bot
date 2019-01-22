@@ -27,7 +27,7 @@ setup(
         "cld2-cffi==0.1.4",
         "docopt==0.6.2",
         "regex==2017.5.26",
-        "requests[security]==2.14.2",
+        "requests==2.20.0",
         "selenium==3.4.2",
         "tldextract==2.0.2",
         "tqdm==4.14.0",
