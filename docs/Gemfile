@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
-gem "github-pages", group: :jekyll_plugins
-gem 'nokogiri', '~> 1.6.8.rc2'
+gem 'jekyll'
+gem 'github-pages', group: :jekyll_plugins
+gem 'nokogiri'
+
 gemspec
