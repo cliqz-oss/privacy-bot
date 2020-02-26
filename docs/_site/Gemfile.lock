@@ -168,7 +168,7 @@ GEM
     minitest (5.10.2)
     multipart-post (2.0.0)
     net-dns (0.8.0)
-    nokogiri (1.10.4)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -199,7 +199,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-theme-minimal!
-  nokogiri (~> 1.10.4)
+  nokogiri (~> 1.10.8)
 
 BUNDLED WITH
    1.15.0
