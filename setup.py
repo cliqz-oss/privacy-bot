@@ -22,7 +22,7 @@ setup(
     install_requires=[
         "Cython==0.25.2",
         "aiodns==1.1.1",
-        "aiohttp==2.1.0",
+        "aiohttp==3.7.4",
         "cchardet==2.1.0",
         "cld2-cffi==0.1.4",
         "docopt==0.6.2",
