@@ -183,7 +183,26 @@ class Policies:
         if not cached_path.exists():
             with tarfile.open(path, mode='r:bz2') as archive:
                 print('Extract archive into', cached_path)
-                archive.extractall(str(cached_path))
+                def is_within_directory(directory, target):
+                    
+                    abs_directory = os.path.abspath(directory)
+                    abs_target = os.path.abspath(target)
+                
+                    prefix = os.path.commonprefix([abs_directory, abs_target])
+                    
+                    return prefix == abs_directory
+                
+                def safe_extract(tar, path=".", members=None, *, numeric_owner=False):
+                
+                    for member in tar.getmembers():
+                        member_path = os.path.join(path, member.name)
+                        if not is_within_directory(path, member_path):
+                            raise Exception("Attempted Path Traversal in Tar File")
+                
+                    tar.extractall(path, members, numeric_owner=numeric_owner) 
+                    
+                
+                safe_extract(archive, str(cached_path))
 
         # Load policies from extracted archive
         return Policies.from_path(cached_path)
